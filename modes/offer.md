@@ -16,9 +16,15 @@ Table with:
 - Domain (platform/agentic/LLMOps/ML/enterprise)
 - Function (build/consult/manage/deploy)
 - Seniority
+- **Location** (city/country, remote/hybrid/onsite)
 - Remote (full/hybrid/onsite)
 - Team size (if mentioned)
 - TL;DR in 1 sentence
+
+**Location Check:**
+- ✅ **US-based** or **Full Remote** → continue
+- ❌ **Non-US onsite** (Tokyo, London, Berlin, etc.) → flag as RED FLAG
+- ⚠️ **Relocation required outside US** → flag warning (you're willing to relocate within US only)
 
 ## Block B — Match with CV
 

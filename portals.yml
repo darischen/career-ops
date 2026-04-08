@@ -61,6 +61,26 @@ title_filter:
     - "VSAM"
     - "JCL"
     - "RPG"
+    # -- Non-US locations (willing to relocate within US only) --
+    - "Tokyo"
+    - "Japan"
+    - "London"
+    - "UK"
+    - "United Kingdom"
+    - "Berlin"
+    - "Germany"
+    - "Paris"
+    - "France"
+    - "Singapore"
+    - "Hong Kong"
+    - "Sydney"
+    - "Australia"
+    - "Toronto"
+    - "Canada"
+    - "Europe"
+    - "EMEA"
+    - "APAC"
+    - "Asia Pacific"
 
 search_queries:
   # Generic searches across all major job boards
