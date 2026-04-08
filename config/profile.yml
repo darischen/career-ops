@@ -1,0 +1,104 @@
+# Career-Ops Profile Configuration
+# Your personal data, target roles, compensation, and location preferences.
+
+candidate:
+  full_name: "Daris Chen"
+  email: "daris.chen@gmail.com"
+  phone: "(562) 386-3975"
+  location: "San Diego, CA"
+  linkedin: "linkedin.com/in/darischen"
+  portfolio_url: "https://darischen.com"
+  github: "github.com/darischen"
+  languages:
+    - language: "English"
+      level: "Native"
+    - language: "Mandarin Chinese"
+      level: "Intermediate"
+      notes: "Reading/writing: classroom study (beginner), speaking: intermediate"
+
+target_roles:
+  # No strong preference — all equally interesting
+  primary:
+    - "Software Engineer (Full-Stack)"
+    - "AI/ML Engineer"
+    - "Hardware Engineer"
+    - "Web Developer"
+
+  # Archetypes help the evaluation system score fit
+  archetypes:
+    - name: "Full-Stack Software Engineer"
+      level: "Junior/Mid"
+      fit: "primary"
+      focus: "Next.js, FastAPI, databases, semantic search, real-time systems"
+    - name: "AI/ML Engineer"
+      level: "Junior/Mid"
+      fit: "primary"
+      focus: "Neural networks (NNUE), LLMs, computer vision, adversarial testing"
+    - name: "Hardware / Embedded Engineer"
+      level: "Junior/Mid"
+      fit: "primary"
+      focus: "FPGA, SystemVerilog, analog circuits, RF/DSP, microcontrollers"
+    - name: "Full-Stack Web Developer"
+      level: "Junior/Mid"
+      fit: "primary"
+      focus: "React, Next.js, Tailwind, database design, performance optimization"
+
+narrative:
+  # Your professional headline
+  headline: "New grad engineer: full-stack abstraction mastery (physics → pseudocode)"
+
+  # What makes you unique
+  superpower: "I've worked across every level of abstraction in tech: from physics and electrical engineering at the bottom (op-amps, microwave modules, analog signal conditioning) through digital logic and FPGA design, all the way up to high-level distributed systems, semantic search, and LLMs. I can debug a circuit, write an embedded bootloader, optimize a neural network, and ship a full-stack SaaS product—and I understand how they all connect. That breadth means I can jump domains quickly and catch subtle bugs others miss."
+
+  # Your top achievements
+  best_achievement: |
+    PatentIQ: End-to-end ownership of AI patent search MVP. I architected the entire system, served as primary contributor (FastAPI + pgvector + semantic search), and led a team of PMs, designers, and engineers through a 4-month accelerator. Shipped a working product that early-stage founders can actually use for professional-level patent research.
+
+  # Learning velocity / adaptability
+  learning_story: |
+    FlipperZillow (24-hour hackathon): Learned ROCm, DepthAnythingV2, DFormerV2, and SAM3D from scratch in 48 hours on an unfamiliar AMD cloud platform. Had to navigate unfamiliar toolchains, debug GPU compatibility issues, and integrate 5+ pre-trained models into a coherent pipeline under extreme time pressure. Shipped working 3D house tours with professional AI narration.
+
+compensation:
+  target_minimum: "$80,000"
+  currency: "USD"
+  willing_to_relocate: true
+  relocation_assistance_needed: false
+  # Note: As a new grad, you're flexible. Your resume language positions you as mid-tier,
+  # but actual offers may be in the $70-90K range. Be prepared to negotiate based on location/role.
+
+location:
+  country: "United States"
+  current_city: "San Diego, CA"
+  timezone: "PST"
+  willing_to_relocate_anywhere_us: true
+  will_not_leave_us: true
+  visa_status: "US Citizen, no sponsorship needed"
+
+# Preferences and deal-breakers
+preferences:
+  # Skills you want to use in future roles (avoid legacy tech)
+  legacy_tech_dealbreakers:
+    - "Swing/AWT (Java GUI)"
+    - "WPF (.NET GUI)"
+    - "COBOL"
+    - "JCL (Job Control Language)"
+    - "DB2"
+    - "VSAM (file system)"
+
+  # You want roles that use modern, transferable skills
+  preferred_stacks:
+    - "Modern full-stack: Next.js, FastAPI, TypeScript, PostgreSQL"
+    - "AI/ML: PyTorch, Transformers, distributed training"
+    - "Hardware: SystemVerilog, Rust, FPGA tools"
+    - "Cloud: Vercel, AWS/GCP, serverless"
+
+# EEO / Demographics (for applications that ask)
+eeo:
+  disability: false
+  veteran: false
+  sexual_orientation: "Straight"
+  gender: "Male"
+  race_ethnicity: "Asian"
+  age: "18+"
+  legal_work_authorization: "US Citizen"
+  h1b_sponsorship_needed: false

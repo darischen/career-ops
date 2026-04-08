@@ -1,27 +1,63 @@
-# Modo: training — Evaluación de Formación
+# Mode: training — Evaluate Course/Cert Against Goals
 
-Para cada curso/cert que el candidato pregunte, evaluar 6 dimensiones:
+Assess whether a course, bootcamp, or certification is worth pursuing.
 
-| Dimensión | Qué evalúa |
-|-----------|------------|
-| Alineación North Star | ¿Acerca o aleja del objetivo? |
-| Señal recruiter | ¿Qué piensan HMs al ver esto en un CV? |
-| Tiempo y esfuerzo | Semanas × horas/semana |
-| Coste de oportunidad | ¿Qué no puede hacer durante ese tiempo? |
-| Riesgos | ¿Contenido outdated? ¿Brand débil? ¿Demasiado básico? |
-| Entregable portfolio | ¿Produce un artefacto demostrable? |
+## Evaluation Criteria (6 dimensions)
 
-## Veredictos
+| Dimension | What it measures |
+|-----------|------------------|
+| **North Star Alignment** | Does it move you toward or away from your goal? |
+| **Recruiter Signal** | What do hiring managers think when they see this on a CV? |
+| **Time & Effort** | Weeks × hours/week |
+| **Opportunity Cost** | What can't you do during that time? |
+| **Risks** | Outdated content? Weak brand? Too basic? |
+| **Portfolio Deliverable** | Does it produce a demonstrable artifact? |
 
-- **HACER** → plan de 4-12 semanas con entregables semanales y scoreboard
-- **NO HACER** → alternativa mejor con justificación
-- **HACER CON TIMEBOX** (máx X semanas) → plan condensado, solo lo esencial
+## Verdicts
 
-## Prioridad
+- **DO IT** → plan with 4-12 week timeline and weekly deliverables
+- **SKIP IT** → better alternative with justification
+- **DO IT WITH TIMEBOX** (max X weeks) → condensed plan, essentials only
 
-Formación que mejore credibilidad en "production-grade AI":
-1. Evals y testing de LLMs
-2. Observability y monitoring
+## Priority Learning Areas
+
+Training that improves credibility in "production-grade AI":
+1. LLM evals and testing
+2. Observability and monitoring
 3. Cost/reliability trade-offs
-4. AI governance y safety
+4. AI governance and safety
 5. Enterprise AI architecture
+
+---
+
+## Example Score
+
+```
+COURSE: "Advanced PyTorch: Production NLP with Transformers"
+
+Duration: 6 weeks (10 hrs/week)
+Cost: $500
+Aligns with: AI/ML archetype
+
+Skill coverage: ⭐⭐⭐⭐ (Transformers, fine-tuning, deployment)
+Gap it fills: ⭐⭐⭐ (you have PyTorch; this adds NLP depth)
+Hiring signal: ⭐⭐⭐⭐ (Transformers = AI role magic word)
+Time cost: ⭐⭐ (6 weeks is a lot during active search)
+ROI: ⭐⭐⭐ (improves comp for AI roles, but portfolio projects > certs)
+
+SCORE: 3.2/5.0 → SKIP, BUILD INSTEAD
+
+Why: You already have strong PyTorch skills. Better to ship a Transformers project 
+(2 weeks) than take a course (6 weeks). Hiring managers prefer working code over course completion.
+```
+
+---
+
+## Learning Path
+
+1. **Gap identification**: What do target JDs ask for that your CV doesn't have?
+2. **Quick upskill**: 1-week course or tutorial (time-boxed)
+3. **Ship proof point**: 1-2 week project using the new skill
+4. **Interview story**: STAR story about building it
+
+**Result > Cert > Coursework**

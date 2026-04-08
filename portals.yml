@@ -1,0 +1,793 @@
+# Portal Scanner Configuration — Comprehensive Tech + Household Names
+# Covers major tech companies, app platforms, hardware makers, and household name companies with tech divisions.
+# Used by /career-ops scan to discover new offers automatically.
+
+title_filter:
+  positive:
+    # -- New grad / entry-level roles (Bachelor's degree) --
+    - "New Grad"
+    - "Entry-Level"
+    - "Junior"
+    - "Early Career"
+    - "Recent Graduate"
+    # -- General roles --
+    - "Engineer"
+    - "Software"
+    - "Developer"
+    - "ML"
+    - "AI"
+    - "Data"
+    - "Product"
+    - "Design"
+    - "DevOps"
+    - "Hardware"
+    - "Firmware"
+    - "Full-Stack"
+    - "Frontend"
+    - "Backend"
+    - "Mobile"
+    - "Solutions"
+    - "Architect"
+    - "SRE"
+    - "Platform"
+    - "Security"
+    - "Infrastructure"
+    - "Cloud"
+    - "Systems"
+  negative:
+    # -- Seniority levels (too senior for new grad) --
+    - "Senior"
+    - "Staff"
+    - "Principal"
+    - "Lead"
+    - "Director"
+    # -- Graduate degree required (Master's/PhD) --
+    - "Graduate Degree"
+    - "Master's"
+    - "PhD"
+    - "Advanced Degree"
+    # -- Internships & co-ops (already passed) --
+    - "Intern"
+    - "Internship"
+    - "Co-op"
+    # -- Legacy/dead tech stacks --
+    - "COBOL"
+    - "Mainframe"
+    - "Swing"
+    - "AWT"
+    - "WPF"
+    - ".NET Framework"  # (but allow .NET Core)
+    - "DB2"
+    - "VSAM"
+    - "JCL"
+    - "RPG"
+
+search_queries:
+  # Generic searches across all major job boards
+  - name: "All Boards — Engineer (Remote)"
+    query: '"Engineer" OR "Software" OR "Developer" remote'
+    enabled: true
+
+  - name: "All Boards — AI/ML (Remote)"
+    query: '"AI" OR "ML" OR "Machine Learning" engineer remote'
+    enabled: true
+
+  - name: "Greenhouse — All Tech"
+    query: 'site:job-boards.greenhouse.io OR site:boards.greenhouse.io engineer'
+    enabled: true
+
+  - name: "Ashby — All Tech"
+    query: 'site:jobs.ashbyhq.com engineer'
+    enabled: true
+
+  - name: "Lever — All Tech"
+    query: 'site:jobs.lever.co engineer'
+    enabled: true
+
+tracked_companies:
+
+  # ========================================
+  # TIER 1: FAANG + MAJOR TECH GIANTS
+  # ========================================
+
+  - name: Google
+    careers_url: https://careers.google.com/jobs/results/
+    scan_method: websearch
+    scan_query: 'site:careers.google.com engineer OR developer'
+    enabled: true
+
+  - name: Apple
+    careers_url: https://jobs.apple.com
+    scan_method: websearch
+    scan_query: 'site:jobs.apple.com engineer'
+    enabled: true
+
+  - name: Meta (Facebook)
+    careers_url: https://www.metacareers.com/jobs
+    scan_method: websearch
+    scan_query: 'site:metacareers.com engineer'
+    enabled: true
+
+  - name: Amazon
+    careers_url: https://amazon.jobs
+    scan_method: websearch
+    scan_query: 'site:amazon.jobs engineer OR developer'
+    enabled: true
+
+  - name: Microsoft
+    careers_url: https://careers.microsoft.com
+    scan_method: websearch
+    scan_query: 'site:careers.microsoft.com engineer OR developer'
+    enabled: true
+
+  - name: Netflix
+    careers_url: https://jobs.netflix.com
+    scan_method: websearch
+    scan_query: 'site:jobs.netflix.com engineer'
+    enabled: true
+
+  - name: Tesla
+    careers_url: https://www.tesla.com/careers
+    scan_method: websearch
+    scan_query: 'site:tesla.com/careers engineer OR software'
+    enabled: true
+
+  - name: Intel
+    careers_url: https://jobs.intel.com
+    scan_method: websearch
+    scan_query: 'site:jobs.intel.com engineer OR developer'
+    enabled: true
+
+  - name: Nvidia
+    careers_url: https://nvidia.wd5.myworkdayjobs.com
+    scan_method: websearch
+    scan_query: '"nvidia" engineer software OR hardware OR cuda'
+    enabled: true
+
+  - name: Oracle
+    careers_url: https://careers.oracle.com
+    scan_method: websearch
+    scan_query: 'site:careers.oracle.com engineer'
+    enabled: true
+
+  - name: IBM
+    careers_url: https://www.ibm.com/careers
+    scan_method: websearch
+    scan_query: 'site:ibm.com/careers engineer OR developer'
+    enabled: true
+
+  # ========================================
+  # POPULAR APP & CONSUMER PLATFORMS
+  # ========================================
+
+  - name: Uber
+    careers_url: https://www.uber.com/careers
+    scan_method: websearch
+    scan_query: 'site:uber.com/careers engineer OR developer'
+    enabled: true
+
+  - name: Airbnb
+    careers_url: https://careers.airbnb.com
+    scan_method: websearch
+    scan_query: 'site:careers.airbnb.com engineer'
+    enabled: true
+
+  - name: Tinder
+    careers_url: https://careers.match.com/
+    scan_method: websearch
+    scan_query: '"tinder" OR "match group" engineer site:careers.match.com'
+    enabled: true
+
+  - name: Pinterest
+    careers_url: https://careers.pinterest.com
+    scan_method: websearch
+    scan_query: 'site:careers.pinterest.com engineer OR developer'
+    enabled: true
+
+  - name: Snap
+    careers_url: https://snap.com/careers
+    scan_method: websearch
+    scan_query: 'site:snap.com/careers engineer'
+    enabled: true
+
+  - name: TikTok
+    careers_url: https://www.tiktok.com/careers
+    scan_method: websearch
+    scan_query: 'site:tiktok.com/careers engineer OR developer'
+    enabled: true
+
+  - name: Twitter (X)
+    careers_url: https://twitter.com/careers
+    scan_method: websearch
+    scan_query: '"x.com" OR "twitter" engineer site:twitter.com/careers'
+    enabled: true
+
+  - name: Discord
+    careers_url: https://discord.com/careers
+    scan_method: websearch
+    scan_query: 'site:discord.com/careers engineer'
+    enabled: true
+
+  - name: Stripe
+    careers_url: https://stripe.com/jobs
+    scan_method: websearch
+    scan_query: 'site:stripe.com/jobs engineer'
+    enabled: true
+
+  - name: Shopify
+    careers_url: https://www.shopify.com/careers
+    scan_method: websearch
+    scan_query: 'site:shopify.com/careers engineer OR developer'
+    enabled: true
+
+  - name: Twitch
+    careers_url: https://jobs.amazon.com
+    scan_method: websearch
+    scan_query: '"twitch" engineer site:jobs.amazon.com'
+    enabled: true
+
+  - name: Spotify
+    careers_url: https://jobs.lever.co/spotify
+    notes: "Stockholm SE / NYC / London. Large ML/personalization org."
+    enabled: true
+
+  - name: Dropbox
+    careers_url: https://www.dropbox.com/jobs
+    scan_method: websearch
+    scan_query: 'site:dropbox.com/jobs engineer'
+    enabled: true
+
+  - name: Slack
+    careers_url: https://www.slack.com/careers
+    scan_method: websearch
+    scan_query: 'site:slack.com/careers engineer'
+    enabled: true
+
+  # ========================================
+  # HARDWARE & SEMICONDUCTOR
+  # ========================================
+
+  - name: Qualcomm
+    careers_url: https://jobs.qualcomm.com
+    scan_method: websearch
+    scan_query: 'site:jobs.qualcomm.com engineer'
+    enabled: true
+
+  - name: Samsung
+    careers_url: https://www.samsung.com/us/careers
+    scan_method: websearch
+    scan_query: 'site:samsung.com/us/careers engineer'
+    enabled: true
+
+  - name: TSMC
+    careers_url: https://www.tsmc.com/english/careers
+    scan_method: websearch
+    scan_query: 'site:tsmc.com/english/careers engineer'
+    enabled: true
+
+  - name: Broadcom
+    careers_url: https://www.broadcom.com/careers
+    scan_method: websearch
+    scan_query: 'site:broadcom.com/careers engineer'
+    enabled: true
+
+  - name: AMD
+    careers_url: https://jobs.amd.com
+    scan_method: websearch
+    scan_query: 'site:jobs.amd.com engineer OR developer'
+    enabled: true
+
+  - name: Panasonic
+    careers_url: https://careers.panasonic.com
+    scan_method: websearch
+    scan_query: 'site:panasonic.com engineer OR developer'
+    enabled: true
+
+  - name: Sony
+    careers_url: https://www.sony.com/en/SCA/company-info/careers
+    scan_method: websearch
+    scan_query: 'site:sony.com engineer OR developer OR research'
+    enabled: true
+
+  - name: LG Electronics
+    careers_url: https://www.lg.com/us/careers
+    scan_method: websearch
+    scan_query: 'site:lg.com/us/careers engineer'
+    enabled: true
+
+  - name: Micron Technology
+    careers_url: https://www.micron.com/about/careers
+    scan_method: websearch
+    scan_query: 'site:micron.com engineer'
+    enabled: true
+
+  - name: SK Hynix
+    careers_url: https://www.skhynix.com/eng/careers
+    scan_method: websearch
+    scan_query: 'site:skhynix.com engineer'
+    enabled: true
+
+  # ========================================
+  # AUTOMOTIVE & TRANSPORTATION (with tech)
+  # ========================================
+
+  - name: Ford
+    careers_url: https://www.ford.com/careers
+    scan_method: websearch
+    scan_query: 'site:ford.com/careers engineer OR software'
+    enabled: true
+
+  - name: GM (General Motors)
+    careers_url: https://www.gm.com/careers
+    scan_method: websearch
+    scan_query: 'site:gm.com/careers engineer OR developer'
+    enabled: true
+
+  - name: BMW
+    careers_url: https://www.bmw.com/en/automotive/careers/careers.html
+    scan_method: websearch
+    scan_query: 'site:bmw.com engineer OR software'
+    enabled: true
+
+  - name: Volkswagen
+    careers_url: https://www.volkswagen-career.com
+    scan_method: websearch
+    scan_query: 'site:volkswagen-career.com engineer'
+    enabled: true
+
+  - name: Hyundai
+    careers_url: https://www.hyundai.com/en/careers
+    scan_method: websearch
+    scan_query: 'site:hyundai.com/en/careers engineer'
+    enabled: true
+
+  - name: Lyft
+    careers_url: https://www.lyft.com/careers
+    scan_method: websearch
+    scan_query: 'site:lyft.com/careers engineer'
+    enabled: true
+
+  - name: DoorDash
+    careers_url: https://careers.doordash.com
+    scan_method: websearch
+    scan_query: 'site:careers.doordash.com engineer'
+    enabled: true
+
+  - name: Instacart
+    careers_url: https://careers.instacart.com
+    scan_method: websearch
+    scan_query: 'site:careers.instacart.com engineer'
+    enabled: true
+
+  # ========================================
+  # CLOUD & INFRASTRUCTURE
+  # ========================================
+
+  - name: DigitalOcean
+    careers_url: https://www.digitalocean.com/careers
+    scan_method: websearch
+    scan_query: 'site:digitalocean.com/careers engineer'
+    enabled: true
+
+  - name: Cloudflare
+    careers_url: https://www.cloudflare.com/careers
+    scan_method: websearch
+    scan_query: 'site:cloudflare.com/careers engineer'
+    enabled: true
+
+  - name: Datadog
+    careers_url: https://www.datadoghq.com/careers
+    scan_method: websearch
+    scan_query: 'site:datadoghq.com/careers engineer'
+    enabled: true
+
+  - name: HashiCorp
+    careers_url: https://www.hashicorp.com/careers
+    scan_method: websearch
+    scan_query: 'site:hashicorp.com/careers engineer'
+    enabled: true
+
+  - name: Elastic
+    careers_url: https://www.elastic.co/careers
+    scan_method: websearch
+    scan_query: 'site:elastic.co/careers engineer'
+    enabled: true
+
+  - name: JFrog
+    careers_url: https://jfrog.com/careers
+    scan_method: websearch
+    scan_query: 'site:jfrog.com/careers engineer'
+    enabled: true
+
+  - name: Vercel
+    careers_url: https://job-boards.greenhouse.io/vercel
+    api: https://boards-api.greenhouse.io/v1/boards/vercel/jobs
+    notes: "Frontend AI tooling, Next.js ecosystem"
+    enabled: true
+
+  # ========================================
+  # FINTECH & FINANCE
+  # ========================================
+
+  - name: Robinhood
+    careers_url: https://careers.robinhood.com
+    scan_method: websearch
+    scan_query: 'site:careers.robinhood.com engineer'
+    enabled: true
+
+  - name: Square
+    careers_url: https://www.squareup.com/careers
+    scan_method: websearch
+    scan_query: 'site:squareup.com/careers engineer'
+    enabled: true
+
+  - name: PayPal
+    careers_url: https://www.paypal.com/us/webapps/mpp/jobs
+    scan_method: websearch
+    scan_query: 'site:paypal.com engineer OR developer'
+    enabled: true
+
+  - name: Coinbase
+    careers_url: https://www.coinbase.com/careers
+    scan_method: websearch
+    scan_query: 'site:coinbase.com/careers engineer'
+    enabled: true
+
+  - name: Charles Schwab
+    careers_url: https://jobs.schwarb.com
+    scan_method: websearch
+    scan_query: 'site:schwab.com engineer OR developer'
+    enabled: true
+
+  - name: Fidelity
+    careers_url: https://www.fidelity.com/careers
+    scan_method: websearch
+    scan_query: 'site:fidelity.com engineer OR developer'
+    enabled: true
+
+  - name: JPMorgan Chase
+    careers_url: https://careers.jpmorganchase.com
+    scan_method: websearch
+    scan_query: 'site:careers.jpmorganchase.com engineer'
+    enabled: true
+
+  - name: Goldman Sachs
+    careers_url: https://www.goldmansachs.com/careers
+    scan_method: websearch
+    scan_query: 'site:goldmansachs.com/careers engineer OR developer'
+    enabled: true
+
+  - name: Morgan Stanley
+    careers_url: https://morganstanley.tal.net/vx/lang-en/mobile-0/appcentre-ext-1/brand-2/user-sessions-new/prospective/search
+    scan_method: websearch
+    scan_query: '"morgan stanley" engineer OR developer careers'
+    enabled: true
+
+  # ========================================
+  # ENTERPRISE SOFTWARE & SAAS
+  # ========================================
+
+  - name: Salesforce
+    careers_url: https://careers.salesforce.com
+    scan_method: websearch
+    scan_query: 'site:careers.salesforce.com engineer'
+    enabled: true
+
+  - name: SAP
+    careers_url: https://www.sap.com/careers
+    scan_method: websearch
+    scan_query: 'site:sap.com/careers engineer'
+    enabled: true
+
+  - name: Intuit
+    careers_url: https://careers.intuit.com
+    scan_method: websearch
+    scan_query: 'site:careers.intuit.com engineer'
+    enabled: true
+
+  - name: Workday
+    careers_url: https://www.workday.com/en-US/careers/open_positions.html
+    scan_method: websearch
+    scan_query: 'site:workday.com engineer'
+    enabled: true
+
+  - name: ServiceNow
+    careers_url: https://jobs.servicenow.com
+    scan_method: websearch
+    scan_query: 'site:jobs.servicenow.com engineer'
+    enabled: true
+
+  - name: Atlassian
+    careers_url: https://www.atlassian.com/company/careers
+    scan_method: websearch
+    scan_query: 'site:atlassian.com/company/careers engineer'
+    enabled: true
+
+  - name: Adobe
+    careers_url: https://careers.adobe.com
+    scan_method: websearch
+    scan_query: 'site:careers.adobe.com engineer'
+    enabled: true
+
+  - name: Figma
+    careers_url: https://www.figma.com/careers
+    scan_method: websearch
+    scan_query: 'site:figma.com/careers engineer'
+    enabled: true
+
+  - name: Notion
+    careers_url: https://www.notion.so/careers
+    scan_method: websearch
+    scan_query: 'site:notion.so/careers engineer'
+    enabled: true
+
+  - name: Airtable
+    careers_url: https://job-boards.greenhouse.io/airtable
+    api: https://boards-api.greenhouse.io/v1/boards/airtable/jobs
+    notes: "No-code + AI platform"
+    enabled: true
+
+  - name: Box
+    careers_url: https://www.box.com/careers
+    scan_method: websearch
+    scan_query: 'site:box.com/careers engineer'
+    enabled: true
+
+  - name: Okta
+    careers_url: https://www.okta.com/company/careers
+    scan_method: websearch
+    scan_query: 'site:okta.com/company/careers engineer'
+    enabled: true
+
+  # ========================================
+  # HEALTHCARE & BIOTECH (with tech)
+  # ========================================
+
+  - name: Genentech
+    careers_url: https://genentech.wd1.myworkdayjobs.com
+    scan_method: websearch
+    scan_query: '"genentech" engineer OR developer site:careers'
+    enabled: true
+
+  - name: Moderna
+    careers_url: https://www.modernatx.com/careers
+    scan_method: websearch
+    scan_query: 'site:modernatx.com/careers engineer'
+    enabled: true
+
+  - name: Illumina
+    careers_url: https://www.illumina.com/company/careers.html
+    scan_method: websearch
+    scan_query: 'site:illumina.com engineer OR software'
+    enabled: true
+
+  - name: 10x Genomics
+    careers_url: https://www.10xgenomics.com/careers
+    scan_method: websearch
+    scan_query: 'site:10xgenomics.com/careers engineer'
+    enabled: true
+
+  - name: UnitedHealth
+    careers_url: https://careers.unitedhealthgroup.com
+    scan_method: websearch
+    scan_query: 'site:careers.unitedhealthgroup.com engineer OR developer'
+    enabled: true
+
+  # ========================================
+  # MEDIA & ENTERTAINMENT
+  # ========================================
+
+  - name: Disney
+    careers_url: https://jobs.disneycareers.com
+    scan_method: websearch
+    scan_query: 'site:jobs.disneycareers.com engineer OR developer'
+    enabled: true
+
+  - name: Paramount (ViacomCBS)
+    careers_url: https://careers.paramount.com
+    scan_method: websearch
+    scan_query: 'site:careers.paramount.com engineer'
+    enabled: true
+
+  - name: Warner Bros
+    careers_url: https://www.wbcareers.com
+    scan_method: websearch
+    scan_query: 'site:wbcareers.com engineer OR developer'
+    enabled: true
+
+  - name: Sony Pictures
+    careers_url: https://careers.sonypictures.com
+    scan_method: websearch
+    scan_query: 'site:careers.sonypictures.com engineer'
+    enabled: true
+
+  # ========================================
+  # AI/ML LABS & RESEARCH
+  # ========================================
+
+  - name: Anthropic
+    careers_url: https://job-boards.greenhouse.io/anthropic
+    api: https://boards-api.greenhouse.io/v1/boards/anthropic/jobs
+    enabled: true
+
+  - name: OpenAI
+    careers_url: https://openai.com/careers
+    scan_method: websearch
+    scan_query: 'site:openai.com/careers engineer OR researcher'
+    enabled: true
+
+  - name: Deepmind
+    careers_url: https://deepmind.com/careers
+    scan_method: websearch
+    scan_query: 'site:deepmind.com/careers researcher OR engineer'
+    enabled: true
+
+  - name: Perplexity
+    careers_url: https://jobs.ashbyhq.com/perplexity
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/perplexity'
+    enabled: true
+
+  - name: Cohere
+    careers_url: https://jobs.ashbyhq.com/cohere
+    notes: "AI/LLM provider. Toronto + remote."
+    enabled: true
+
+  - name: Stability AI
+    careers_url: https://job-boards.greenhouse.io/stabilityai
+    api: https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs
+    notes: "Generative AI research lab"
+    enabled: true
+
+  - name: Mistral AI
+    careers_url: https://jobs.lever.co/mistral
+    notes: "Paris. European AI lab."
+    enabled: true
+
+  # ========================================
+  # GAMING
+  # ========================================
+
+  - name: Electronic Arts (EA)
+    careers_url: https://www.ea.com/careers
+    scan_method: websearch
+    scan_query: 'site:ea.com/careers engineer OR developer'
+    enabled: true
+
+  - name: Activision Blizzard
+    careers_url: https://careers.activisionblizzard.com
+    scan_method: websearch
+    scan_query: 'site:careers.activisionblizzard.com engineer'
+    enabled: true
+
+  - name: Take-Two Interactive
+    careers_url: https://www.take2games.com/careers
+    scan_method: websearch
+    scan_query: 'site:take2games.com/careers engineer'
+    enabled: true
+
+  - name: Ubisoft
+    careers_url: https://www.ubisoft.com/en-us/careers
+    scan_method: websearch
+    scan_query: 'site:ubisoft.com/en-us/careers engineer'
+    enabled: true
+
+  - name: Roblox
+    careers_url: https://corp.roblox.com/careers
+    scan_method: websearch
+    scan_query: 'site:corp.roblox.com/careers engineer'
+    enabled: true
+
+  - name: Epic Games
+    careers_url: https://www.epicgames.com/careers
+    scan_method: websearch
+    scan_query: 'site:epicgames.com/careers engineer'
+    enabled: true
+
+  # ========================================
+  # SOCIAL MEDIA & COMMUNICATION
+  # ========================================
+
+  - name: LinkedIn
+    careers_url: https://careers.linkedin.com
+    scan_method: websearch
+    scan_query: 'site:careers.linkedin.com engineer'
+    enabled: true
+
+  - name: Reddit
+    careers_url: https://www.reddit.com/r/jobs
+    scan_method: websearch
+    scan_query: 'site:reddit.com/jobs engineer OR developer'
+    enabled: true
+
+  - name: WhatsApp
+    careers_url: https://www.whatsapp.com/join
+    scan_method: websearch
+    scan_query: '"whatsapp" engineer site:careers'
+    enabled: true
+
+  - name: Telegram
+    careers_url: https://telegram.org/careers
+    scan_method: websearch
+    scan_query: 'site:telegram.org engineer'
+    enabled: true
+
+  # ========================================
+  # UTILITIES & TELECOM
+  # ========================================
+
+  - name: AT&T
+    careers_url: https://www.att.com/careers
+    scan_method: websearch
+    scan_query: 'site:att.com/careers engineer OR developer'
+    enabled: true
+
+  - name: Verizon
+    careers_url: https://www.verizon.com/business/terms/careers
+    scan_method: websearch
+    scan_query: 'site:verizon.com engineer OR developer'
+    enabled: true
+
+  - name: Comcast
+    careers_url: https://careers.comcast.com
+    scan_method: websearch
+    scan_query: 'site:careers.comcast.com engineer'
+    enabled: true
+
+  # ========================================
+  # OTHER MAJOR HOUSEHOLD NAMES WITH TECH
+  # ========================================
+
+  - name: Best Buy
+    careers_url: https://www.bestbuy.com/careers
+    scan_method: websearch
+    scan_query: 'site:bestbuy.com/careers engineer OR developer'
+    enabled: true
+
+  - name: Walmart
+    careers_url: https://careers.walmart.com
+    scan_method: websearch
+    scan_query: 'site:careers.walmart.com engineer OR developer OR data'
+    enabled: true
+
+  - name: Target
+    careers_url: https://www.target.com/careers
+    scan_method: websearch
+    scan_query: 'site:target.com/careers engineer'
+    enabled: true
+
+  - name: CVS Health
+    careers_url: https://jobs.cvshealth.com
+    scan_method: websearch
+    scan_query: 'site:jobs.cvshealth.com engineer'
+    enabled: true
+
+  - name: Walgreens
+    careers_url: https://www.walgreens.com/careers
+    scan_method: websearch
+    scan_query: 'site:walgreens.com/careers engineer'
+    enabled: true
+
+  - name: McDonald's
+    careers_url: https://www.mcdonalds.com/us/en/careers.html
+    scan_method: websearch
+    scan_query: 'site:mcdonalds.com/us/en/careers engineer OR developer'
+    enabled: true
+
+  - name: Coca-Cola
+    careers_url: https://www.coca-colacompany.com/careers
+    scan_method: websearch
+    scan_query: 'site:coca-colacompany.com/careers engineer OR developer'
+    enabled: true
+
+  - name: Nike
+    careers_url: https://jobs.nike.com
+    scan_method: websearch
+    scan_query: 'site:jobs.nike.com engineer OR developer'
+    enabled: true
+
+  - name: Starbucks
+    careers_url: https://www.starbucks.com/careers
+    scan_method: websearch
+    scan_query: 'site:starbucks.com/careers engineer'
+    enabled: true

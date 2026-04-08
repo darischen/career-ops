@@ -1,0 +1,174 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "Loop Logo" [ref=e5]
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/loop
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - heading "2026 New Grad | Software Engineer, Full-Stack" [level=1] [ref=e13]
+            - generic [ref=e14]:
+              - img [ref=e15]
+              - generic [ref=e17]: San Francisco, Chicago
+          - button "Apply" [ref=e18] [cursor=pointer]
+        - generic [ref=e20]:
+          - paragraph [ref=e21]:
+            - strong [ref=e22]: About Loop
+          - paragraph [ref=e23]: Loop is the data platform for the global supply chain. Logistics runs on messy, unstructured data—trapped in PDFs, emails, and legacy systems. We use AI to structure this chaos, creating a "source of truth" that automates payments and audits for the Fortune 100.
+          - paragraph [ref=e24]: We are building the financial nervous system for a $100 trillion physical economy. Our technology ensures freight moves efficiently and carriers get paid instantly.
+          - paragraph [ref=e25]: Backed by Founders Fund, Index Ventures and 8VC, we are scaling rapidly. We are looking for engineers ready to deploy production AI that powers the physical economy.
+          - paragraph [ref=e26]:
+            - strong [ref=e27]: About the New Grad Program
+          - paragraph [ref=e28]: Most AI stays in the browser. Ours moves atoms. You aren't just building features; you are building the autonomous brain for the Fortune 100’s global supply chain.
+          - paragraph [ref=e29]:
+            - text: This program is designed to compress
+            - strong [ref=e30]: 3 years of learning into 1 year
+            - text: by throwing you into the deep end of production AI systems on Day 1. Instead of sandboxed projects, you get to solve real problems and impact customers directly. This program demands intense investment, but by the end, you will perform as a strong entry-level engineer jumpstarting your career.
+          - paragraph [ref=e31]:
+            - strong [ref=e32]: "The Schedule:"
+          - list [ref=e33]:
+            - listitem [ref=e34]:
+              - strong [ref=e35]: "Week 1 (Onboarding):"
+              - text: Deep dive into tools and domain. You will ship code to production on Day 1 and fully grasp our dev loop by Friday.
+            - listitem [ref=e36]:
+              - strong [ref=e37]: "Months 1-3 (Velocity):"
+              - text: You will deliver 3 entry-level projects with increasing ambiguity. By the end of Month 3, you are expected to operate as a fully independent engineer.
+            - listitem [ref=e38]:
+              - strong [ref=e39]: "Months 4-9 (The Rotation):"
+              - text: "You will rotate onto a different high-impact team to expand your surface area. Tracks include:"
+            - list [ref=e40]:
+              - listitem [ref=e41]:
+                - emphasis [ref=e42]: "Platform:"
+                - text: AI infrastructure and Engineering Systems.
+              - listitem [ref=e43]:
+                - emphasis [ref=e44]: "Core Product:"
+                - text: Audit, Billing, and Payments logic.
+              - listitem [ref=e45]:
+                - emphasis [ref=e46]: "Commercial:"
+                - text: Revenue Activation and Forward Deployed Engineering.
+              - listitem [ref=e47]:
+                - emphasis [ref=e48]: "Special Projects:"
+                - text: Partnering directly with the CEO/CTO and other execs
+            - listitem [ref=e49]:
+              - strong [ref=e50]: "Month 9+ (Graduation):"
+              - text: You should demonstrate Mid-Level Engineer performance and will be considered for immediate promotion.
+          - paragraph [ref=e51]:
+            - strong [ref=e52]: About You
+          - paragraph [ref=e53]: "We're not just looking for strong academic performers. We're looking for people who are genuinely driven to build things and go deep on hard problems. If the following resonates, you belong here:"
+          - list [ref=e54]:
+            - listitem [ref=e55]:
+              - strong [ref=e56]: You go above and beyond.
+              - text: You have a repo, a side hustle, or a project you built just because you are curious. You’re self-directed and don't need an assignment to start coding.
+            - listitem [ref=e57]:
+              - strong [ref=e58]: You have a bias towards action.
+              - text: You prefer to ship, break, fix, and apologize rather than wait for a committee decision.
+            - listitem [ref=e59]:
+              - strong [ref=e60]: You are drawn to hard problems.
+              - text: You want problems that are more than one prompt away from a solution.
+            - listitem [ref=e61]:
+              - strong [ref=e62]: You get absorbed in mastering your craft.
+              - text: Whether it’s climbing the Esports ladder, acing a math competition, winning a hackathon, or debugging a complex issue, you know what it feels like to lose track of time working on something you care about.
+          - paragraph [ref=e63]:
+            - strong [ref=e64]: Responsibilities
+          - list [ref=e65]:
+            - listitem [ref=e66]: Ship critical infrastructure. Manage real-world logistics and financial data for the largest enterprise in the world..
+            - listitem [ref=e67]: Own the why. Build deep context through customer calls, and understand the Loop’s value to our customers. You push back on requirements if you see a better, faster way to solve the customer’s problem.
+            - listitem [ref=e68]: Full-stack proficiency. Work across system boundaries, from frontend UX to LLM agents, database schema and event infrastructures.
+            - listitem [ref=e69]: "Leverage AI tools to handle the 90% boilerplate, so you can focus the highest leverage 10%: quality, architecture, product taste."
+            - listitem [ref=e70]: Raise the velocity bar. You will constantly optimize our dev loops, refactor legacy patterns, automate your own workflows and fix broken processes.
+          - paragraph [ref=e71]:
+            - strong [ref=e72]: Qualifications
+          - list [ref=e73]:
+            - listitem [ref=e74]: Graduating with a BS or higher in STEM fields; available to start full-time in 2026.
+            - listitem [ref=e75]: Working in person in the SF or Chicago office 4 days a week.
+            - listitem [ref=e76]: Proficiency with modern techstack. You can deliver a modern web app in hours not in days..
+            - listitem [ref=e77]: Unblocking yourself. You thrive in ambiguity. Despite the chaos, you deliver high quality products and business impact.
+            - listitem [ref=e78]: "AI Literate. You have strong intuition on how LLM works: where they excel and where they generate slop. You live and breathe AI native tools (Cursor, Codex, Claude Code etc.)"
+          - paragraph [ref=e79]:
+            - strong [ref=e80]: Compensation
+          - list [ref=e81]:
+            - listitem [ref=e82]: $150,000 annual base pay for SF
+            - listitem [ref=e83]: $125,000 annual base pay for Chicago
+          - paragraph [ref=e84]:
+            - strong [ref=e85]: Benefits & Perks
+          - list [ref=e86]:
+            - listitem [ref=e87]: Fully paid health insurance.
+            - listitem [ref=e88]: 401k with matching.
+            - listitem [ref=e89]: Unlimited PTO.
+            - listitem [ref=e90]: Generous professional development budget.
+            - listitem [ref=e91]: Commuter benefits.
+            - listitem [ref=e92]: Wellness benefits
+            - listitem [ref=e93]: Phone plan stipend
+        - generic [ref=e94]:
+          - img [ref=e95]
+          - generic [ref=e97]:
+            - paragraph [ref=e98]: Create a Job Alert
+            - paragraph [ref=e99]: Interested in building your career at Loop? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e100] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=loop&source=job_alert_post
+      - separator [ref=e101]
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - heading "Apply for this job" [level=2] [ref=e106]
+            - generic [ref=e107]:
+              - paragraph [ref=e109]: "*"
+              - paragraph [ref=e110]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e113] [cursor=pointer]
+        - generic [ref=e114]:
+          - generic [ref=e115]:
+            - generic [ref=e118]:
+              - generic [ref=e119]: First Name*
+              - textbox "First Name" [ref=e120]
+            - generic [ref=e123]:
+              - generic [ref=e124]: Last Name*
+              - textbox "Last Name" [ref=e125]
+            - generic [ref=e128]:
+              - generic [ref=e129]: Email*
+              - textbox "Email" [ref=e130]
+            - group "Phone" [ref=e132]:
+              - generic [ref=e133]: Phone
+              - generic [ref=e136]:
+                - generic [ref=e137]: Country*
+                - generic [ref=e138]:
+                  - log [ref=e140]
+                  - generic [ref=e142]:
+                    - combobox "Country" [ref=e145]
+                    - button "Toggle flyout" [ref=e147] [cursor=pointer]:
+                      - img [ref=e148]
+                  - textbox
+              - generic [ref=e152]:
+                - generic [ref=e153]: Phone*
+                - textbox "Phone" [ref=e155]
+            - group "Resume/CV*" [ref=e157]:
+              - generic [ref=e158]: Resume/CV*
+              - generic [ref=e160]:
+                - generic [ref=e162]:
+                  - button "Attach" [ref=e163] [cursor=pointer]
+                  - generic [ref=e164]: Attach
+                  - button "Attach" [ref=e165]
+                - button "Dropbox" [ref=e167] [cursor=pointer]
+                - button "Google Drive" [ref=e169] [cursor=pointer]
+                - generic [ref=e171]:
+                  - button "Enter manually" [ref=e172] [cursor=pointer]
+                  - generic [ref=e173]: Enter manually
+                - paragraph [ref=e174]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e175]:
+            - separator [ref=e176]
+            - generic [ref=e179]:
+              - generic [ref=e180]: What is your spike? What is your biggest accomplishment to date?*
+              - textbox "What is your spike? What is your biggest accomplishment to date?" [ref=e181]
+          - button "Submit application" [ref=e183] [cursor=pointer]
+  - contentinfo [ref=e184]:
+    - generic [ref=e185]:
+      - paragraph [ref=e186]: Powered by
+      - link "Greenhouse logo" [ref=e187] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e188]
+  - iframe [ref=e202]:
+    - generic [ref=f2e6]:
+      - text: protected by
+      - strong [ref=f2e7]: reCAPTCHA

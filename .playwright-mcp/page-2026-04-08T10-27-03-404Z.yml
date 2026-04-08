@@ -1,0 +1,280 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Astranis Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://www.astranis.com/careers#open-roles
+        - img "Astranis Logo" [ref=e6]
+      - generic [ref=e7]:
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - heading "Software Engineer Intern - Data Platform (Summer 2026)" [level=1] [ref=e11]
+            - generic [ref=e12]:
+              - img [ref=e13]
+              - generic [ref=e15]: San Francisco, CA
+          - button "Apply" [ref=e16] [cursor=pointer]
+        - generic [ref=e17]:
+          - paragraph [ref=e19]:
+            - text: Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today, Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe— large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts.
+            - text: Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis has raised over $750 million from some of the world’s best investors, from Andreessen Horowitz to Blackrock and Fidelity, and employs a team of 450 engineers and entrepreneurs. Astranis designs, builds, and operates its satellites out of its 153,000 sq. ft. headquarters in Northern California, USA.
+          - generic [ref=e20]:
+            - heading "Software Engineer Intern - Data Platform (Summer 2026)" [level=4] [ref=e21]:
+              - strong [ref=e22]: Software Engineer Intern - Data Platform (Summer 2026)
+            - paragraph [ref=e23]: As a Software Engineer Intern, you'll build and extend the systems that ingest, store, and query the massive streams of telemetry flowing from our satellite fleet in real time. From designing data pipelines that handle thousands of channels per spacecraft to building monitoring rules that catch anomalies before they become problems, your work will give mission operators the visibility they need to keep satellites healthy and online.
+            - paragraph [ref=e24]: You'll be working at the intersection of data engineering and space operations, building tools that turn raw satellite signals into actionable insight.
+            - paragraph [ref=e25]: This role will contribute to both our commercial and US government programs.
+            - heading "Role" [level=4] [ref=e26]:
+              - strong [ref=e27]: Role
+            - list [ref=e28]:
+              - listitem [ref=e29]: Design and build monitoring rules and anomaly detection capabilities for our telemetry data platform
+              - listitem [ref=e30]: Contribute across the data platform by building out client libraries, data pipelines, query interfaces, and APIs
+              - listitem [ref=e31]: Collaborate with mission operations and engineering teams to define monitoring requirements and data needs
+            - heading "Requirements" [level=4] [ref=e32]:
+              - strong [ref=e33]: Requirements
+            - list [ref=e34]:
+              - listitem [ref=e35]: Currently pursuing a B.S. or M.S. in Computer Science, or equivalent degree
+              - listitem [ref=e36]: Strong proficiency in Python
+              - listitem [ref=e37]: Experience and understanding of databases (Postgres, time-series databases, etc)
+              - listitem [ref=e38]: Experience and understanding of API design (REST, gRPC, Protocol Buffers)
+              - listitem [ref=e39]: Don't meet them all? Not a problem. Please apply even if you do not meet all these criteria.
+            - heading "Bonus" [level=4] [ref=e40]:
+              - strong [ref=e41]: Bonus
+            - list [ref=e42]:
+              - listitem [ref=e43]: Experience with time-series data or telemetry systems
+              - listitem [ref=e44]: Experience with async Python programming
+              - listitem [ref=e45]: Experience with Kubernetes
+          - generic [ref=e47]:
+            - generic [ref=e51]: The base pay for this position is $29.00 per hour.
+            - paragraph [ref=e52]: Base Hourly Pay
+            - paragraph [ref=e53]: $29 - $29 USD
+          - generic [ref=e54]:
+            - strong [ref=e56]: U.S. Citizenship, Lawful Permanent Residency, or Refugee/Asylee Status Required
+            - generic [ref=e57]: (To comply with U.S. Government space technology export regulations, applicant must be a U.S. citizen, lawful permanent resident of the United States, or other protected individual as defined by 8 U.S.C. 1324b(a)(3))
+            - generic [ref=e59]: Our mission and our products are meant to connect the world and everyone in it, regardless of gender, race, creed, or any other distinction. We believe in a diverse and inclusive workplace, and we encourage all people to join our team and bring their unique perspective to help make us stronger.
+        - generic [ref=e60]:
+          - img [ref=e61]
+          - generic [ref=e63]:
+            - paragraph [ref=e64]: Create a Job Alert
+            - paragraph [ref=e65]: Interested in building your career at Astranis? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e66] [cursor=pointer]
+      - separator [ref=e67]
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - generic [ref=e70]:
+            - heading "Apply for this job" [level=2] [ref=e72]
+            - generic [ref=e73]:
+              - paragraph [ref=e75]: "*"
+              - paragraph [ref=e76]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e79] [cursor=pointer]
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - generic [ref=e84]:
+              - generic [ref=e85]: First Name*
+              - textbox "First Name" [ref=e86]
+            - generic [ref=e89]:
+              - generic [ref=e90]: Last Name*
+              - textbox "Last Name" [ref=e91]
+            - generic [ref=e94]:
+              - generic [ref=e95]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e96]
+            - generic [ref=e99]:
+              - generic [ref=e100]: Email*
+              - textbox "Email" [ref=e101]
+            - group "Phone" [ref=e103]:
+              - generic [ref=e104]: Phone
+              - generic [ref=e107]:
+                - generic [ref=e108]: Country
+                - generic [ref=e109]:
+                  - log [ref=e111]
+                  - generic [ref=e113]:
+                    - combobox "Country" [ref=e116]
+                    - button "Toggle flyout" [ref=e118] [cursor=pointer]:
+                      - img [ref=e119]
+              - generic [ref=e123]:
+                - generic [ref=e124]: Phone
+                - textbox "Phone" [ref=e125]
+            - group "Resume/CV" [ref=e127]:
+              - generic [ref=e128]: Resume/CV
+              - generic [ref=e130]:
+                - generic [ref=e132]:
+                  - button "Attach" [ref=e133] [cursor=pointer]
+                  - generic [ref=e134]: Attach
+                  - button "Attach" [ref=e135]
+                - button "Dropbox" [ref=e137] [cursor=pointer]
+                - button "Google Drive" [ref=e139] [cursor=pointer]
+                - generic [ref=e141]:
+                  - button "Enter manually" [ref=e142] [cursor=pointer]
+                  - generic [ref=e143]: Enter manually
+                - paragraph [ref=e144]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e146]:
+              - generic [ref=e147]: Cover Letter
+              - generic [ref=e149]:
+                - generic [ref=e151]:
+                  - button "Attach" [ref=e152] [cursor=pointer]
+                  - generic [ref=e153]: Attach
+                  - button "Attach" [ref=e154]
+                - button "Dropbox" [ref=e156] [cursor=pointer]
+                - button "Google Drive" [ref=e158] [cursor=pointer]
+                - generic [ref=e160]:
+                  - button "Enter manually" [ref=e161] [cursor=pointer]
+                  - generic [ref=e162]: Enter manually
+                - paragraph [ref=e163]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e164]:
+            - separator [ref=e165]
+            - generic [ref=e168]:
+              - generic [ref=e169]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e170]
+            - generic [ref=e173]:
+              - generic [ref=e174]: Website
+              - textbox "Website" [ref=e175]
+            - generic [ref=e178]:
+              - generic [ref=e179]: Astranis complies with U.S. Government space technology export regulations, therefore will you state which of the following applies to you:*
+              - generic [ref=e180]:
+                - log [ref=e182]
+                - generic [ref=e184]:
+                  - generic [ref=e185]:
+                    - generic [ref=e186]: Select...
+                    - combobox "Astranis complies with U.S. Government space technology export regulations, therefore will you state which of the following applies to you:" [ref=e188]
+                  - button "Toggle flyout" [ref=e190] [cursor=pointer]:
+                    - img [ref=e191]
+                - textbox
+            - generic [ref=e195]:
+              - generic [ref=e196]: What is the most impressive thing you have ever accomplished?*
+              - textbox "What is the most impressive thing you have ever accomplished?" [ref=e197]
+            - generic [ref=e200]:
+              - generic [ref=e201]: Please confirm the season you are applying for. *
+              - generic [ref=e202]:
+                - log [ref=e204]
+                - generic [ref=e206]:
+                  - generic [ref=e207]:
+                    - generic [ref=e208]: Select...
+                    - combobox "Please confirm the season you are applying for." [ref=e210]
+                  - button "Toggle flyout" [ref=e212] [cursor=pointer]:
+                    - img [ref=e213]
+                - textbox
+            - generic [ref=e217]:
+              - generic [ref=e218]: When are you able to join Astranis as an intern? (12 week minimum)*
+              - textbox "When are you able to join Astranis as an intern? (12 week minimum)" [ref=e219]
+            - generic [ref=e222]:
+              - generic [ref=e223]: When do you plan on ending your internship?*
+              - textbox "When do you plan on ending your internship?" [ref=e224]
+            - generic [ref=e227]:
+              - generic [ref=e228]: At Astranis, we value in-person collaboration and a strong work ethic. Are you comfortable with working onsite at our San Francisco HQ 5 days a week?*
+              - generic [ref=e229]:
+                - log [ref=e231]
+                - generic [ref=e233]:
+                  - generic [ref=e234]:
+                    - generic [ref=e235]: Select...
+                    - combobox "At Astranis, we value in-person collaboration and a strong work ethic. Are you comfortable with working onsite at our San Francisco HQ 5 days a week?" [ref=e237]
+                  - button "Toggle flyout" [ref=e239] [cursor=pointer]:
+                    - img [ref=e240]
+                - textbox
+            - generic [ref=e244]:
+              - generic [ref=e245]: How did you hear about Astranis?*
+              - textbox "How did you hear about Astranis?" [ref=e246]
+          - generic [ref=e247]:
+            - separator [ref=e248]
+            - generic [ref=e249]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e250]
+              - paragraph [ref=e251]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e252]: As set forth in Astranis’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e255]:
+              - generic [ref=e256]: Gender
+              - generic [ref=e257]:
+                - log [ref=e259]
+                - generic [ref=e261]:
+                  - generic [ref=e262]:
+                    - generic [ref=e263]: Select...
+                    - combobox "Gender" [ref=e265]
+                  - button "Toggle flyout" [ref=e267] [cursor=pointer]:
+                    - img [ref=e268]
+            - generic [ref=e270]:
+              - generic [ref=e272]:
+                - generic [ref=e273]: Are you Hispanic/Latino?
+                - generic [ref=e274]:
+                  - log [ref=e276]
+                  - generic [ref=e278]:
+                    - generic [ref=e279]:
+                      - generic [ref=e280]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e282]
+                    - button "Toggle flyout" [ref=e284] [cursor=pointer]:
+                      - img [ref=e285]
+              - link "Race & Ethnicity Definitions" [ref=e287] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e288]:
+              - paragraph [ref=e289]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e290]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e291]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e292]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e293]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e296]:
+              - generic [ref=e297]: Veteran Status
+              - generic [ref=e298]:
+                - log [ref=e300]
+                - generic [ref=e302]:
+                  - generic [ref=e303]:
+                    - generic [ref=e304]: Select...
+                    - combobox "Veteran Status" [ref=e306]
+                  - button "Toggle flyout" [ref=e308] [cursor=pointer]:
+                    - img [ref=e309]
+            - separator [ref=e311]
+            - generic [ref=e312]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e313]
+              - generic [ref=e314]:
+                - generic [ref=e315]:
+                  - generic [ref=e316]: Form CC-305
+                  - generic [ref=e317]: Page 1 of 1
+                - generic [ref=e318]:
+                  - generic [ref=e319]: OMB Control Number 1250-0005
+                  - generic [ref=e320]: Expires 04/30/2026
+              - strong [ref=e321]: Why are you being asked to complete this form?
+              - paragraph [ref=e322]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e323]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e324] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e325]: How do you know if you have a disability?
+              - paragraph [ref=e326]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e327]: "Disabilities include, but are not limited to:"
+              - list [ref=e328]:
+                - listitem [ref=e329]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e330]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e331]: Blind or low vision
+                - listitem [ref=e332]: Cancer (past or present)
+                - listitem [ref=e333]: Cardiovascular or heart disease
+                - listitem [ref=e334]: Celiac disease
+                - listitem [ref=e335]: Cerebral palsy
+                - listitem [ref=e336]: Deaf or serious difficulty hearing
+                - listitem [ref=e337]: Diabetes
+                - listitem [ref=e338]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e339]: Epilepsy or other seizure disorder
+                - listitem [ref=e340]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e341]: Intellectual or developmental disability
+                - listitem [ref=e342]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e343]: Missing limbs or partially missing limbs
+                - listitem [ref=e344]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e345]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e346]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e347]: Partial or complete paralysis (any cause)
+                - listitem [ref=e348]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e349]: Short stature (dwarfism)
+                - listitem [ref=e350]: Traumatic brain injury
+            - generic [ref=e353]:
+              - generic [ref=e354]: Disability Status
+              - generic [ref=e355]:
+                - log [ref=e357]
+                - generic [ref=e359]:
+                  - generic [ref=e360]:
+                    - generic [ref=e361]: Select...
+                    - combobox "Disability Status" [ref=e363]
+                  - button "Toggle flyout" [ref=e365] [cursor=pointer]:
+                    - img [ref=e366]
+            - paragraph [ref=e369]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e371] [cursor=pointer]
+  - contentinfo [ref=e372]:
+    - generic [ref=e373]:
+      - paragraph [ref=e374]: Powered by
+      - link "Greenhouse logo" [ref=e375] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e376]
