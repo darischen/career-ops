@@ -1,0 +1,251 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Dashlane Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://www.dashlane.com/
+        - img "Dashlane Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/dashlane
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e13]: New
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - heading "Software Engineer - Backend" [level=1] [ref=e16]
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e20]: Lisbon, Portugal
+          - button "Apply" [ref=e21] [cursor=pointer]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - paragraph [ref=e24]:
+              - strong [ref=e25]: About Dashlane
+            - paragraph [ref=e26]: Dashlane’s mission is to deliver the credential security every business and employee needs to thrive. Millions of consumers, and over 25,000 brands worldwide, such as Michelin, Air France, and Forrester, trust Dashlane for industry-leading innovations, patented zero-knowledge security, and an unmatched user experience. Founded in Paris, Dashlane has since established offices in New York and Lisbon, and has grown to more than 300 Dashlaners globally.
+            - paragraph [ref=e27]:
+              - text: We're looking for people who actively use AI tools to drive efficiency, creativity, and impact in their work. At Dashlane, we drive innovation and value learning, strive for excellence in everything we do, and thrive as one team. Learn more about
+              - link "life at Dashlane" [ref=e28] [cursor=pointer]:
+                - /url: https://lifeatdashlane.com/
+              - text: ", including"
+              - link "how we work" [ref=e29] [cursor=pointer]:
+                - /url: https://lifeatdashlane.com/how-we-work
+              - text: ","
+              - link "how we hire" [ref=e30] [cursor=pointer]:
+                - /url: https://lifeatdashlane.com/how-we-hire
+              - text: ", and the"
+              - link "benefits of being a Dashlaner" [ref=e31] [cursor=pointer]:
+                - /url: https://lifeatdashlane.com/benefits-dashlane
+              - text: .
+            - paragraph [ref=e32]
+          - generic [ref=e33]:
+            - paragraph [ref=e34]:
+              - strong [ref=e36]: About the role
+            - paragraph [ref=e37]: You will join one of the talented product development teams to work on feature development, with a primary focus on the company's business growth, on projects such as the evolution of the company's plans and pricing strategy, the trial experience, the payment experience, or the onboarding experience of our customers. As a team member within the organization, you will collaborate closely with the product manager, product designer, engineering manager, and front-end engineers within the team. You will play a pivoting role in innovating the ways the team could deliver value to impact the company's trajectory, both in the short-term and long-term.
+            - paragraph [ref=e38]
+            - paragraph [ref=e39]:
+              - strong [ref=e40]: "Location-Specific Information:"
+            - paragraph [ref=e41]: "You will be based in Lisbon, with English as your working language. At Dashlane, we embrace a hybrid culture that combines the best of both worlds: the creativity and energy of in-person collaboration with the flexibility of remote work. Our model is designed to strengthen team connections while supporting individual productivity and work-life balance. To maximize collaboration, we come together in the office on Mondays, Tuesdays, and Thursdays, while Wednesdays and Fridays offer more flexibility for focused work."
+            - paragraph [ref=e42]
+            - paragraph [ref=e43]:
+              - strong [ref=e45]: "About our stack:"
+            - list [ref=e46]:
+              - listitem [ref=e47]:
+                - text: "Programming language:"
+                - list [ref=e48]:
+                  - listitem [ref=e49]: "Backend (85% of codebase): NodeJS, Typescript"
+                  - listitem [ref=e50]: "Frontend / internal tooling (15% of codebase): React, Typescript"
+              - listitem [ref=e51]: "Infrastructure and storage layer: AWS EC2, Amazon ECS, MySQL on RDS, Redis, S3"
+              - listitem [ref=e52]: "CI/CD: Sonarqube, Gitlab, Terraform, Ansible"
+              - listitem [ref=e53]: "Logging and monitoring: ELK (Elasticsearch, Logstash, Kibana)"
+              - listitem [ref=e54]: "Documentation and tooling: Confluence, Jira, Zoom, Slack"
+            - paragraph [ref=e55]
+            - paragraph [ref=e56]:
+              - strong [ref=e58]: "At Dashlane you will:"
+            - list [ref=e59]:
+              - listitem [ref=e60]: Innovate! As an engineering member, you'll work closely with the teams to discover creative solutions that drive the company's expansion. Your efforts will not only enhance the trial and payment experience for our customers but also enable us to significantly increase and broaden the reach of our application.
+              - listitem [ref=e61]: Pair with other engineers, work with product managers, project managers, and also our quality engineering teams in a highly collaborative environment where everyone shares ownership of the company's success
+              - listitem [ref=e62]: Learn every day, and share your knowledge with your co-workers.
+              - listitem [ref=e63]: Participate in and propose cross-team initiatives for improving the happiness and efficiency of your fellow Dashlaners.
+            - paragraph [ref=e64]
+            - paragraph [ref=e65]:
+              - strong [ref=e67]: "Requirements:"
+            - list [ref=e68]:
+              - listitem [ref=e69]: 4+ years of experience in software development
+              - listitem [ref=e70]: 3+ years of experience in developing backend applications, used by a reasonable amount of users
+              - listitem [ref=e71]: 2+ years of experience working in a product-focused company
+              - listitem [ref=e72]: Ability to work collaboratively in a team
+              - listitem [ref=e73]: Willingness to learn and assist in the design and implementation of backend solutions
+              - listitem [ref=e74]: Fluent in English
+            - paragraph [ref=e75]:
+              - strong [ref=e77]: "We're Also Looking For:"
+            - list [ref=e78]:
+              - listitem [ref=e79]: Have prior knowledge on payments, user management system or business growth
+              - listitem [ref=e80]: Willing to develop a T-shaped skillset
+              - listitem [ref=e81]: Have prior knowledge of AWS
+              - listitem [ref=e82]: Know how to code, but also to deploy, test, and monitor cloud applications
+              - listitem [ref=e83]: Enjoy writing clean code that is easy to maintain and understand
+              - listitem [ref=e84]: Ability to actively use AI tools to drive efficiency, creativity and impact in the engineering scope
+            - strong [ref=e87]: "What Dashlane offers you:"
+            - list [ref=e88]:
+              - listitem [ref=e89]: Flex Benefits - allocate a monthly amount to a pool of benefits
+              - listitem [ref=e90]: Health insurance covered by Dashlane
+              - listitem [ref=e91]: 5 extra vacation days each year, plus your birthday off
+              - listitem [ref=e92]: Company wide well-being days (one per quarter)
+              - listitem [ref=e93]: Equal Parental leave - up to 20 weeks fully paid leave, within the first year of birth or adoption
+              - listitem [ref=e94]: Work schedule exemption - plan your work schedule in alignment with your manager
+              - listitem [ref=e95]: Donation matching program - Dashlane will match your donations to organizations driving positive impact in historically marginalized communities
+              - listitem [ref=e96]: Access mental health services through Spring Health, available for you and your family members
+              - listitem [ref=e97]: Team building & social events - weekly lunch in the office and monthly happy hour
+              - listitem [ref=e98]: and much more
+            - paragraph [ref=e99]
+          - generic [ref=e100]:
+            - paragraph [ref=e101]:
+              - strong [ref=e102]: "Diversity, Equity, Inclusion and Belonging at Dashlane:"
+            - paragraph [ref=e103]:
+              - text: "As a truly international company—founded in France and distributed across France, US and Portugal—Dashlane thrives off diverse perspectives. We value all aspects of diversity: gender identity, sexual orientation, ability, ethnic origin, social background, age, lifestyle, and more. We are committed to hiring a diverse community and fostering a culture where everyone is heard and belongs. See more about this"
+              - link "here" [ref=e104] [cursor=pointer]:
+                - /url: https://lifeatdashlane.com/diversity
+              - text: .
+            - paragraph [ref=e105]:
+              - strong [ref=e106]:
+                - generic [ref=e107]: "Your interview experience:"
+            - paragraph [ref=e108]:
+              - text: To know what to expect once you’ve sent your application,
+              - link "read about how we interview and hire at Dashlane" [ref=e109] [cursor=pointer]:
+                - /url: https://lifeatdashlane.com/how-we-hire
+              - text: . Feel free to browse our blog to find more information about our product and how we work.
+        - generic [ref=e110]:
+          - img [ref=e111]
+          - generic [ref=e113]:
+            - paragraph [ref=e114]: Create a Job Alert
+            - paragraph [ref=e115]: Interested in building your career at Dashlane? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e116] [cursor=pointer]
+      - separator [ref=e117]
+      - generic [ref=e118]:
+        - generic [ref=e119]:
+          - generic [ref=e120]:
+            - heading "Apply for this job" [level=2] [ref=e122]
+            - generic [ref=e123]:
+              - paragraph [ref=e125]: "*"
+              - paragraph [ref=e126]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e129] [cursor=pointer]
+        - generic [ref=e130]:
+          - generic [ref=e131]:
+            - generic [ref=e134]:
+              - generic [ref=e135]: First Name*
+              - textbox "First Name" [ref=e136]
+            - generic [ref=e139]:
+              - generic [ref=e140]: Last Name*
+              - textbox "Last Name" [ref=e141]
+            - generic [ref=e144]:
+              - generic [ref=e145]: Email*
+              - textbox "Email" [ref=e146]
+            - group "Phone" [ref=e148]:
+              - generic [ref=e149]: Phone
+              - generic [ref=e152]:
+                - generic [ref=e153]: Country
+                - generic [ref=e154]:
+                  - log [ref=e156]
+                  - generic [ref=e158]:
+                    - combobox "Country" [ref=e161]
+                    - button "Toggle flyout" [ref=e163] [cursor=pointer]:
+                      - img [ref=e164]
+              - generic [ref=e168]:
+                - generic [ref=e169]: Phone
+                - textbox "Phone" [ref=e170]
+            - group "Resume/CV" [ref=e172]:
+              - generic [ref=e173]: Resume/CV
+              - generic [ref=e175]:
+                - generic [ref=e177]:
+                  - button "Attach" [ref=e178] [cursor=pointer]
+                  - generic [ref=e179]: Attach
+                  - button "Attach" [ref=e180]
+                - button "Dropbox" [ref=e182] [cursor=pointer]
+                - button "Google Drive" [ref=e184] [cursor=pointer]
+                - generic [ref=e186]:
+                  - button "Enter manually" [ref=e187] [cursor=pointer]
+                  - generic [ref=e188]: Enter manually
+                - paragraph [ref=e189]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e191]:
+              - generic [ref=e192]: Cover Letter
+              - generic [ref=e194]:
+                - generic [ref=e196]:
+                  - button "Attach" [ref=e197] [cursor=pointer]
+                  - generic [ref=e198]: Attach
+                  - button "Attach" [ref=e199]
+                - button "Dropbox" [ref=e201] [cursor=pointer]
+                - button "Google Drive" [ref=e203] [cursor=pointer]
+                - generic [ref=e205]:
+                  - button "Enter manually" [ref=e206] [cursor=pointer]
+                  - generic [ref=e207]: Enter manually
+                - paragraph [ref=e208]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e209]:
+            - separator [ref=e210]
+            - generic [ref=e211]:
+              - generic [ref=e213]:
+                - generic [ref=e214]: How do you identify in terms of gender?*
+                - generic [ref=e215]:
+                  - log [ref=e217]
+                  - generic [ref=e219]:
+                    - generic [ref=e220]:
+                      - generic [ref=e221]: Select...
+                      - combobox "How do you identify in terms of gender?" [ref=e223]
+                    - button "Toggle flyout" [ref=e225] [cursor=pointer]:
+                      - img [ref=e226]
+                  - textbox
+              - generic [ref=e229]:
+                - paragraph [ref=e230]: Diversity, Equity, Inclusion And Belonging At Dashlane
+                - paragraph [ref=e231]:
+                  - text: "As a truly international company—founded in France and distributed across France, US and Portugal—Dashlane thrives off diverse perspectives. We value all aspects of diversity: gender identity, sexual orientation, ability, ethnic origin, social background, age, lifestyle, and more. We are committed to hiring a diverse community and fostering a culture where everyone is heard and belongs. As set forth in Dashlane’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law. The goal for collecting this data is to conduct internal Recruitment D&I studies, to assess our diverse hiring strategies for the company worldwide. See more about this"
+                  - link "here" [ref=e232] [cursor=pointer]:
+                    - /url: https://lifeatdashlane.com/diversity
+                  - text: .
+            - generic [ref=e235]:
+              - generic [ref=e236]: Are you already based in Lisbon?*
+              - generic [ref=e237]:
+                - log [ref=e239]
+                - generic [ref=e241]:
+                  - generic [ref=e242]:
+                    - generic [ref=e243]: Select...
+                    - combobox "Are you already based in Lisbon?" [ref=e245]
+                  - button "Toggle flyout" [ref=e247] [cursor=pointer]:
+                    - img [ref=e248]
+                - textbox
+            - generic [ref=e252]:
+              - generic [ref=e253]: Do you confirm your residency status/visa status is valid and allows you to work legally in Portugal?*
+              - generic [ref=e254]:
+                - log [ref=e256]
+                - generic [ref=e258]:
+                  - generic [ref=e259]:
+                    - generic [ref=e260]: Select...
+                    - combobox "Do you confirm your residency status/visa status is valid and allows you to work legally in Portugal?" [ref=e262]
+                  - button "Toggle flyout" [ref=e264] [cursor=pointer]:
+                    - img [ref=e265]
+                - textbox
+            - generic [ref=e269]:
+              - generic [ref=e270]: If you are based outside Lisbon, are you willing to relocate to Lisbon for an opportunity with Dashlane?*
+              - textbox "If you are based outside Lisbon, are you willing to relocate to Lisbon for an opportunity with Dashlane?" [ref=e271]
+            - generic [ref=e274]:
+              - generic [ref=e275]: Are you comfortable working hybrid 3 days/week from our Lisbon office?*
+              - generic [ref=e276]:
+                - log [ref=e278]
+                - generic [ref=e280]:
+                  - generic [ref=e281]:
+                    - generic [ref=e282]: Select...
+                    - combobox "Are you comfortable working hybrid 3 days/week from our Lisbon office?" [ref=e284]
+                  - button "Toggle flyout" [ref=e286] [cursor=pointer]:
+                    - img [ref=e287]
+                - textbox
+            - generic [ref=e291]:
+              - generic [ref=e292]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e293]
+            - generic [ref=e296]:
+              - generic [ref=e297]: Website
+              - textbox "Website" [ref=e298]
+          - button "Submit application" [ref=e300] [cursor=pointer]
+  - contentinfo [ref=e301]:
+    - generic [ref=e302]:
+      - paragraph [ref=e303]: Powered by
+      - link "Greenhouse logo" [ref=e304] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e305]

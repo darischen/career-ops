@@ -1,0 +1,355 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "Latitude AI Logo" [ref=e5]
+      - heading "Current openings at Latitude AI" [level=1] [ref=e6]
+      - generic [ref=e8]:
+        - generic [ref=e9]:
+          - generic [ref=e11]:
+            - generic [ref=e12]: Search
+            - textbox "Search" [ref=e13]
+          - generic [ref=e15]:
+            - generic [ref=e16]: Department
+            - generic [ref=e17]:
+              - log [ref=e19]
+              - generic [ref=e21]:
+                - generic [ref=e22]:
+                  - generic [ref=e23]: Select...
+                  - combobox "Department" [ref=e25]
+                - button "Toggle flyout" [ref=e27] [cursor=pointer]:
+                  - img [ref=e28]
+          - generic [ref=e31]:
+            - generic [ref=e32]: Office
+            - generic [ref=e33]:
+              - log [ref=e35]
+              - generic [ref=e37]:
+                - generic [ref=e38]:
+                  - generic [ref=e39]: Select...
+                  - combobox "Office" [ref=e41]
+                - button "Toggle flyout" [ref=e43] [cursor=pointer]:
+                  - img [ref=e44]
+        - generic [ref=e46]:
+          - heading "33 jobs" [level=2] [ref=e47]
+          - generic [ref=e48]:
+            - generic [ref=e49]:
+              - paragraph [ref=e51]: Enterprise Services (All)
+              - heading "Cybersecurity" [level=3] [ref=e52]
+              - table [ref=e54]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e55]:
+                      - paragraph [ref=e56]: Job
+                - rowgroup [ref=e57]:
+                  - row "Cyber Security Engineer - Identity Solutions, Asset Management, & Data Protection Pittsburgh, PA, Palo Alto, CA" [ref=e58]:
+                    - cell "Cyber Security Engineer - Identity Solutions, Asset Management, & Data Protection Pittsburgh, PA, Palo Alto, CA" [ref=e59]:
+                      - link "Cyber Security Engineer - Identity Solutions, Asset Management, & Data Protection Pittsburgh, PA, Palo Alto, CA" [ref=e60] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7764900
+                        - paragraph [ref=e61]: Cyber Security Engineer - Identity Solutions, Asset Management, & Data Protection
+                        - paragraph [ref=e62]: Pittsburgh, PA, Palo Alto, CA
+            - generic [ref=e63]:
+              - paragraph [ref=e65]: HW + FW Engineering (All)
+              - heading "Firmware Engineering" [level=3] [ref=e66]
+              - table [ref=e68]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e69]:
+                      - paragraph [ref=e70]: Job
+                - rowgroup [ref=e71]:
+                  - row "Senior Embedded Software Engineer, Networking Detroit, MI, Pittsburgh, PA, Palo Alto, CA, Remote" [ref=e72]:
+                    - cell "Senior Embedded Software Engineer, Networking Detroit, MI, Pittsburgh, PA, Palo Alto, CA, Remote" [ref=e73]:
+                      - link "Senior Embedded Software Engineer, Networking Detroit, MI, Pittsburgh, PA, Palo Alto, CA, Remote" [ref=e74] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7686940
+                        - paragraph [ref=e75]: Senior Embedded Software Engineer, Networking
+                        - paragraph [ref=e76]: Detroit, MI, Pittsburgh, PA, Palo Alto, CA, Remote
+                  - row "Senior Software Engineer - High Level OS New Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e77]:
+                    - cell "Senior Software Engineer - High Level OS New Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e78]:
+                      - link "Senior Software Engineer - High Level OS New Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e79] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7769492
+                        - paragraph [ref=e80]:
+                          - text: Senior Software Engineer - High Level OS
+                          - generic [ref=e82]: New
+                        - paragraph [ref=e83]: Pittsburgh, PA, Palo Alto, CA, Detroit, MI
+                  - row "Senior Software Engineer - Time Synchronization & Embedded Networking New Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e84]:
+                    - cell "Senior Software Engineer - Time Synchronization & Embedded Networking New Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e85]:
+                      - link "Senior Software Engineer - Time Synchronization & Embedded Networking New Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e86] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7768909
+                        - paragraph [ref=e87]:
+                          - text: Senior Software Engineer - Time Synchronization & Embedded Networking
+                          - generic [ref=e89]: New
+                        - paragraph [ref=e90]: Pittsburgh, PA, Palo Alto, CA, Detroit, MI
+                  - row "Staff Software Engineer Dearborn, Michigan, United States, Palo Alto, California, United States, Pittsburgh, PA, United States, Remote" [ref=e91]:
+                    - cell "Staff Software Engineer Dearborn, Michigan, United States, Palo Alto, California, United States, Pittsburgh, PA, United States, Remote" [ref=e92]:
+                      - link "Staff Software Engineer Dearborn, Michigan, United States, Palo Alto, California, United States, Pittsburgh, PA, United States, Remote" [ref=e93] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7721564
+                        - paragraph [ref=e94]: Staff Software Engineer
+                        - paragraph [ref=e95]: Dearborn, Michigan, United States, Palo Alto, California, United States, Pittsburgh, PA, United States, Remote
+            - generic [ref=e96]:
+              - paragraph [ref=e98]: HW + FW Engineering (All)
+              - heading "Sensors Engineering" [level=3] [ref=e99]
+              - table [ref=e101]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e102]:
+                      - paragraph [ref=e103]: Job
+                - rowgroup [ref=e104]:
+                  - row "Hardware Engineer I Palo Alto, CA" [ref=e105]:
+                    - cell "Hardware Engineer I Palo Alto, CA" [ref=e106]:
+                      - link "Hardware Engineer I Palo Alto, CA" [ref=e107] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7611153
+                        - paragraph [ref=e108]: Hardware Engineer I
+                        - paragraph [ref=e109]: Palo Alto, CA
+            - generic [ref=e110]:
+              - paragraph [ref=e112]: Operations (All)
+              - heading "Map & Label Ops" [level=3] [ref=e113]
+              - table [ref=e115]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e116]:
+                      - paragraph [ref=e117]: Job
+                - rowgroup [ref=e118]:
+                  - row "GIS Production Analyst (Contractor) Pittsburgh, PA" [ref=e119]:
+                    - cell "GIS Production Analyst (Contractor) Pittsburgh, PA" [ref=e120]:
+                      - link "GIS Production Analyst (Contractor) Pittsburgh, PA" [ref=e121] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7764865
+                        - paragraph [ref=e122]: GIS Production Analyst (Contractor)
+                        - paragraph [ref=e123]: Pittsburgh, PA
+            - generic [ref=e124]:
+              - paragraph [ref=e126]: Operations (All)
+              - heading "Test & Data Collection" [level=3] [ref=e127]
+              - table [ref=e129]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e130]:
+                      - paragraph [ref=e131]: Job
+                - rowgroup [ref=e132]:
+                  - row "Mission Lead II - Second Shift New Pittsburgh, PA" [ref=e133]:
+                    - cell "Mission Lead II - Second Shift New Pittsburgh, PA" [ref=e134]:
+                      - link "Mission Lead II - Second Shift New Pittsburgh, PA" [ref=e135] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7775341
+                        - paragraph [ref=e136]:
+                          - text: Mission Lead II - Second Shift
+                          - generic [ref=e138]: New
+                        - paragraph [ref=e139]: Pittsburgh, PA
+                  - row "Mission Operator - Detroit, MI (Evening Shift Contractor) Allen Park, MI" [ref=e140]:
+                    - cell "Mission Operator - Detroit, MI (Evening Shift Contractor) Allen Park, MI" [ref=e141]:
+                      - link "Mission Operator - Detroit, MI (Evening Shift Contractor) Allen Park, MI" [ref=e142] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7764858
+                        - paragraph [ref=e143]: Mission Operator - Detroit, MI (Evening Shift Contractor)
+                        - paragraph [ref=e144]: Allen Park, MI
+                  - row "Mission Operator - Greenville, SC (Contractor) Greenville, SC" [ref=e145]:
+                    - cell "Mission Operator - Greenville, SC (Contractor) Greenville, SC" [ref=e146]:
+                      - link "Mission Operator - Greenville, SC (Contractor) Greenville, SC" [ref=e147] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7764893
+                        - paragraph [ref=e148]: Mission Operator - Greenville, SC (Contractor)
+                        - paragraph [ref=e149]: Greenville, SC
+                  - row "Mission Operator - Palo Alto, CA (Contractor) Palo Alto, CA" [ref=e150]:
+                    - cell "Mission Operator - Palo Alto, CA (Contractor) Palo Alto, CA" [ref=e151]:
+                      - link "Mission Operator - Palo Alto, CA (Contractor) Palo Alto, CA" [ref=e152] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7707813
+                        - paragraph [ref=e153]: Mission Operator - Palo Alto, CA (Contractor)
+                        - paragraph [ref=e154]: Palo Alto, CA
+                  - row "Mission Operator - Pittsburgh, PA (Contract) Pittsburgh, PA" [ref=e155]:
+                    - cell "Mission Operator - Pittsburgh, PA (Contract) Pittsburgh, PA" [ref=e156]:
+                      - link "Mission Operator - Pittsburgh, PA (Contract) Pittsburgh, PA" [ref=e157] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7764862
+                        - paragraph [ref=e158]: Mission Operator - Pittsburgh, PA (Contract)
+                        - paragraph [ref=e159]: Pittsburgh, PA
+                  - row "Nomadic Mission Operator (Contractor) Remote" [ref=e160]:
+                    - cell "Nomadic Mission Operator (Contractor) Remote" [ref=e161]:
+                      - link "Nomadic Mission Operator (Contractor) Remote" [ref=e162] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7762109
+                        - paragraph [ref=e163]: Nomadic Mission Operator (Contractor)
+                        - paragraph [ref=e164]: Remote
+                  - row "Nomadic Mission Operator (Contractor - Evening/Night Shift) Remote" [ref=e165]:
+                    - cell "Nomadic Mission Operator (Contractor - Evening/Night Shift) Remote" [ref=e166]:
+                      - link "Nomadic Mission Operator (Contractor - Evening/Night Shift) Remote" [ref=e167] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7490825
+                        - paragraph [ref=e168]: Nomadic Mission Operator (Contractor - Evening/Night Shift)
+                        - paragraph [ref=e169]: Remote
+            - generic [ref=e170]:
+              - paragraph [ref=e172]: Operations (All)
+              - heading "Triage & Vehicle Services" [level=3] [ref=e173]
+              - table [ref=e175]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e176]:
+                      - paragraph [ref=e177]: Job
+                - rowgroup [ref=e178]:
+                  - row "Mission Operator - Long Beach, CA (Contract) New Long Beach, CA" [ref=e179]:
+                    - cell "Mission Operator - Long Beach, CA (Contract) New Long Beach, CA" [ref=e180]:
+                      - link "Mission Operator - Long Beach, CA (Contract) New Long Beach, CA" [ref=e181] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7781316
+                        - paragraph [ref=e182]:
+                          - text: Mission Operator - Long Beach, CA (Contract)
+                          - generic [ref=e184]: New
+                        - paragraph [ref=e185]: Long Beach, CA
+            - generic [ref=e186]:
+              - paragraph [ref=e188]: Software (All)
+              - heading "Autonomy Behavior" [level=3] [ref=e189]
+              - table [ref=e191]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e192]:
+                      - paragraph [ref=e193]: Job
+                - rowgroup [ref=e194]:
+                  - row "Senior Software Engineer - ML Integration Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e195]:
+                    - cell "Senior Software Engineer - ML Integration Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e196]:
+                      - link "Senior Software Engineer - ML Integration Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e197] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7636080
+                        - paragraph [ref=e198]: Senior Software Engineer - ML Integration
+                        - paragraph [ref=e199]: Pittsburgh, PA, Palo Alto, CA, Detroit, MI
+                  - row "Senior Software Engineer - Motion Planning New Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e200]:
+                    - cell "Senior Software Engineer - Motion Planning New Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e201]:
+                      - link "Senior Software Engineer - Motion Planning New Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e202] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7772931
+                        - paragraph [ref=e203]:
+                          - text: Senior Software Engineer - Motion Planning
+                          - generic [ref=e205]: New
+                        - paragraph [ref=e206]: Pittsburgh, PA, Palo Alto, CA, Detroit, MI
+            - generic [ref=e207]:
+              - paragraph [ref=e209]: Software (All)
+              - heading "Autonomy Integration + Runtime" [level=3] [ref=e210]
+              - table [ref=e212]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e213]:
+                      - paragraph [ref=e214]: Job
+                - rowgroup [ref=e215]:
+                  - row "Senior Software Engineer, C++ Onboard Logging Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e216]:
+                    - cell "Senior Software Engineer, C++ Onboard Logging Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e217]:
+                      - link "Senior Software Engineer, C++ Onboard Logging Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e218] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7716153
+                        - paragraph [ref=e219]: Senior Software Engineer, C++ Onboard Logging
+                        - paragraph [ref=e220]: Pittsburgh, PA, Palo Alto, CA, Detroit, MI
+                  - row "Software Engineer II, C++ Faults, Signals, and Modes Pittsburgh, PA" [ref=e221]:
+                    - cell "Software Engineer II, C++ Faults, Signals, and Modes Pittsburgh, PA" [ref=e222]:
+                      - link "Software Engineer II, C++ Faults, Signals, and Modes Pittsburgh, PA" [ref=e223] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7682168
+                        - paragraph [ref=e224]: Software Engineer II, C++ Faults, Signals, and Modes
+                        - paragraph [ref=e225]: Pittsburgh, PA
+            - generic [ref=e226]:
+              - paragraph [ref=e228]: Software (All)
+              - heading "Dev Infrastructure" [level=3] [ref=e229]
+              - table [ref=e231]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e232]:
+                      - paragraph [ref=e233]: Job
+                - rowgroup [ref=e234]:
+                  - row "Senior Software Engineer, C++ Deploy Pittsburgh, PA, Detroit, MI" [ref=e235]:
+                    - cell "Senior Software Engineer, C++ Deploy Pittsburgh, PA, Detroit, MI" [ref=e236]:
+                      - link "Senior Software Engineer, C++ Deploy Pittsburgh, PA, Detroit, MI" [ref=e237] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7735774
+                        - paragraph [ref=e238]: Senior Software Engineer, C++ Deploy
+                        - paragraph [ref=e239]: Pittsburgh, PA, Detroit, MI
+                  - row "Senior Software Engineer - Software Factory Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e240]:
+                    - cell "Senior Software Engineer - Software Factory Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e241]:
+                      - link "Senior Software Engineer - Software Factory Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e242] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7604218
+                        - paragraph [ref=e243]: Senior Software Engineer - Software Factory
+                        - paragraph [ref=e244]: Pittsburgh, PA, Palo Alto, CA, Detroit, MI
+            - generic [ref=e245]:
+              - paragraph [ref=e247]: Software (All)
+              - heading "Intelligent Systems" [level=3] [ref=e248]
+              - table [ref=e250]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e251]:
+                      - paragraph [ref=e252]: Job
+                - rowgroup [ref=e253]:
+                  - row "Senior Embedded Software Engineer, Camera Palo Alto, CA" [ref=e254]:
+                    - cell "Senior Embedded Software Engineer, Camera Palo Alto, CA" [ref=e255]:
+                      - link "Senior Embedded Software Engineer, Camera Palo Alto, CA" [ref=e256] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7440837
+                        - paragraph [ref=e257]: Senior Embedded Software Engineer, Camera
+                        - paragraph [ref=e258]: Palo Alto, CA
+                  - row "Senior Software Engineer - ML Offboard Models Palo Alto, CA" [ref=e259]:
+                    - cell "Senior Software Engineer - ML Offboard Models Palo Alto, CA" [ref=e260]:
+                      - link "Senior Software Engineer - ML Offboard Models Palo Alto, CA" [ref=e261] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7727847
+                        - paragraph [ref=e262]: Senior Software Engineer - ML Offboard Models
+                        - paragraph [ref=e263]: Palo Alto, CA
+                  - row "Senior Software Engineer - ML Platform Pittsburgh, PA, Palo Alto, CA" [ref=e264]:
+                    - cell "Senior Software Engineer - ML Platform Pittsburgh, PA, Palo Alto, CA" [ref=e265]:
+                      - link "Senior Software Engineer - ML Platform Pittsburgh, PA, Palo Alto, CA" [ref=e266] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7636178
+                        - paragraph [ref=e267]: Senior Software Engineer - ML Platform
+                        - paragraph [ref=e268]: Pittsburgh, PA, Palo Alto, CA
+                  - row "Senior Software Engineer - Perception State Estimation Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e269]:
+                    - cell "Senior Software Engineer - Perception State Estimation Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e270]:
+                      - link "Senior Software Engineer - Perception State Estimation Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e271] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7516007
+                        - paragraph [ref=e272]: Senior Software Engineer - Perception State Estimation
+                        - paragraph [ref=e273]: Pittsburgh, PA, Palo Alto, CA, Detroit, MI
+                  - row "Senior Staff Software Engineer, Camera ISP (C++) Palo Alto, CA" [ref=e274]:
+                    - cell "Senior Staff Software Engineer, Camera ISP (C++) Palo Alto, CA" [ref=e275]:
+                      - link "Senior Staff Software Engineer, Camera ISP (C++) Palo Alto, CA" [ref=e276] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7657647
+                        - paragraph [ref=e277]: Senior Staff Software Engineer, Camera ISP (C++)
+                        - paragraph [ref=e278]: Palo Alto, CA
+                  - row "Senior / Staff Software Engineer- ML Sensing Palo Alto, CA, Pittsburgh, PA, Detroit, MI, Remote" [ref=e279]:
+                    - cell "Senior / Staff Software Engineer- ML Sensing Palo Alto, CA, Pittsburgh, PA, Detroit, MI, Remote" [ref=e280]:
+                      - link "Senior / Staff Software Engineer- ML Sensing Palo Alto, CA, Pittsburgh, PA, Detroit, MI, Remote" [ref=e281] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7375459
+                        - paragraph [ref=e282]: Senior / Staff Software Engineer- ML Sensing
+                        - paragraph [ref=e283]: Palo Alto, CA, Pittsburgh, PA, Detroit, MI, Remote
+                  - row "Software Engineer II - Data Platform Pittsburgh, PA" [ref=e284]:
+                    - cell "Software Engineer II - Data Platform Pittsburgh, PA" [ref=e285]:
+                      - link "Software Engineer II - Data Platform Pittsburgh, PA" [ref=e286] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7614956
+                        - paragraph [ref=e287]: Software Engineer II - Data Platform
+                        - paragraph [ref=e288]: Pittsburgh, PA
+                  - row "Software Engineering Manager II (TLM) - Scalable Machine Learning Palo Alto, CA, Detroit, MI, Pittsburgh, PA, Remote" [ref=e289]:
+                    - cell "Software Engineering Manager II (TLM) - Scalable Machine Learning Palo Alto, CA, Detroit, MI, Pittsburgh, PA, Remote" [ref=e290]:
+                      - link "Software Engineering Manager II (TLM) - Scalable Machine Learning Palo Alto, CA, Detroit, MI, Pittsburgh, PA, Remote" [ref=e291] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7516088
+                        - paragraph [ref=e292]: Software Engineering Manager II (TLM) - Scalable Machine Learning
+                        - paragraph [ref=e293]: Palo Alto, CA, Detroit, MI, Pittsburgh, PA, Remote
+            - generic [ref=e294]:
+              - paragraph [ref=e296]: Software (All)
+              - heading "Offboard Data & Infrastructure" [level=3] [ref=e297]
+              - table [ref=e299]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e300]:
+                      - paragraph [ref=e301]: Job
+                - rowgroup [ref=e302]:
+                  - row "Senior Site Reliability Engineer Pittsburgh, PA, Palo Alto, CA" [ref=e303]:
+                    - cell "Senior Site Reliability Engineer Pittsburgh, PA, Palo Alto, CA" [ref=e304]:
+                      - link "Senior Site Reliability Engineer Pittsburgh, PA, Palo Alto, CA" [ref=e305] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7614455
+                        - paragraph [ref=e306]: Senior Site Reliability Engineer
+                        - paragraph [ref=e307]: Pittsburgh, PA, Palo Alto, CA
+                  - row "Senior Software Engineer - Cloud Platform Pittsburgh, PA, Palo Alto, CA" [ref=e308]:
+                    - cell "Senior Software Engineer - Cloud Platform Pittsburgh, PA, Palo Alto, CA" [ref=e309]:
+                      - link "Senior Software Engineer - Cloud Platform Pittsburgh, PA, Palo Alto, CA" [ref=e310] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7614470
+                        - paragraph [ref=e311]: Senior Software Engineer - Cloud Platform
+                        - paragraph [ref=e312]: Pittsburgh, PA, Palo Alto, CA
+                  - row "Senior Software Engineer - Jobs Platform Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e313]:
+                    - cell "Senior Software Engineer - Jobs Platform Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e314]:
+                      - link "Senior Software Engineer - Jobs Platform Pittsburgh, PA, Palo Alto, CA, Detroit, MI" [ref=e315] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7592476
+                        - paragraph [ref=e316]: Senior Software Engineer - Jobs Platform
+                        - paragraph [ref=e317]: Pittsburgh, PA, Palo Alto, CA, Detroit, MI
+            - generic [ref=e318]:
+              - paragraph [ref=e320]: Systems Engineering, Integration & Test (SEIT) (All)
+              - heading "Systems Engineering, Integration & Test (SEIT)" [level=3] [ref=e321]
+              - table [ref=e323]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e324]:
+                      - paragraph [ref=e325]: Job
+                - rowgroup [ref=e326]:
+                  - row "Senior Integration & Test Engineer, Quality & Track Operations Pittsburgh, PA" [ref=e327]:
+                    - cell "Senior Integration & Test Engineer, Quality & Track Operations Pittsburgh, PA" [ref=e328]:
+                      - link "Senior Integration & Test Engineer, Quality & Track Operations Pittsburgh, PA" [ref=e329] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/latitude/jobs/7680336
+                        - paragraph [ref=e330]: Senior Integration & Test Engineer, Quality & Track Operations
+                        - paragraph [ref=e331]: Pittsburgh, PA
+  - contentinfo [ref=e332]:
+    - generic [ref=e333]:
+      - paragraph [ref=e334]: Powered by
+      - link "Greenhouse logo" [ref=e335] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e336]

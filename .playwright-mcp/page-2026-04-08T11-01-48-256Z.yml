@@ -1,0 +1,92 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Perplexity" [ref=e6] [cursor=pointer]:
+        - /url: https://www.perplexity.ai/
+        - img "Perplexity" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Perplexity’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /perplexity
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "iOS Engineer - Comet" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco; New York City
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Department" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Mobile
+        - generic [ref=e26]:
+          - heading "Compensation" [level=2] [ref=e27]
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - generic [ref=e30]: $200 – $300,000 • Offers Equity
+          - generic [ref=e31]:
+            - paragraph [ref=e32]:
+              - strong [ref=e33]: U.S. Benefits
+            - paragraph [ref=e34]: Full-time U.S. employees enjoy a comprehensive benefits program including equity, health, dental, vision, retirement, fitness, commuter and dependent care accounts, and more.
+            - paragraph [ref=e35]
+            - paragraph [ref=e36]:
+              - strong [ref=e37]: International Benefits
+            - paragraph [ref=e38]: Full-time employees outside the U.S. enjoy a comprehensive benefits program tailored to their region of residence.
+            - paragraph [ref=e39]
+            - paragraph [ref=e40]: USD salary ranges apply only to U.S.-based positions. International salaries are set based on the local market. Final offer amounts are determined by multiple factors, including experience and expertise, and may vary from the amounts listed above.
+      - generic [ref=e41]:
+        - tablist [ref=e42]:
+          - tab "Overview" [selected] [ref=e43] [cursor=pointer]
+          - tab "Application" [ref=e44] [cursor=pointer]
+        - tabpanel "Overview" [ref=e46]:
+          - generic [ref=e47]:
+            - paragraph [ref=e48]: Perplexity AI is looking for an experienced iOS Engineer to join our small team revolutionizing the way people browse the Internet. You will be responsible for building and expanding Comet for iOS - Perplexity’s new browser.
+            - paragraph [ref=e49]: The ideal candidate should have strong programming skills, an interest in AI and large language models, and a passion for delivering a great UX backed by a quality UI.
+            - paragraph [ref=e50]:
+              - strong [ref=e51]: Responsibilities
+            - list [ref=e52]:
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: Develop a performant native iOS app that millions of users around the world enjoy using.
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]: Ensure a high craft and quality bar, both in the user experience and the developer experience.
+              - listitem [ref=e57]:
+                - paragraph [ref=e58]: Work closely with design teams to design fast and intuitive UI.
+              - listitem [ref=e59]:
+                - paragraph [ref=e60]: Collaborate with data science and machine learning teams to instrument, analyze, and improve the end-to-end experience.
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: Work with infrastructure and QA teams on deployment processes, including testing, release, and monitoring.
+            - paragraph [ref=e63]:
+              - strong [ref=e64]: Requirements
+            - list [ref=e65]:
+              - listitem [ref=e66]:
+                - paragraph [ref=e67]: 5+ years industry experience
+              - listitem [ref=e68]:
+                - paragraph [ref=e69]: Strong Swift fundamentals and a proven track record of working with a modern iOS stack built with Swift, SwiftUI (iOS16+) and UIKit
+              - listitem [ref=e70]:
+                - paragraph [ref=e71]: Enjoys the craft of building nice UI, creating a good UX, and writing reusable and testable code
+              - listitem [ref=e72]:
+                - paragraph [ref=e73]: Understands low-level intricacies, and knows how to profile and measure app performance and speed
+              - listitem [ref=e74]:
+                - paragraph [ref=e75]: Comfortable working with a small, fast-moving team, and must be willing to dive in and take ownership
+              - listitem [ref=e76]:
+                - paragraph [ref=e77]: A passion for iOS development, and enjoys experimenting with what's new with each iteration of iOS and iPadOS
+              - listitem [ref=e78]:
+                - paragraph [ref=e79]: (Bonus) Experience with browser development
+          - link "Apply for this Job" [ref=e80] [cursor=pointer]:
+            - /url: /perplexity/8c6b0350-e920-47a5-a575-b018a280bbb9/application
+            - button "Apply for this Job" [ref=e81]
+  - contentinfo [ref=e82]:
+    - link "Learn more about Ashby" [ref=e83] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e84]: Powered by
+      - img "Ashby" [ref=e85]
+    - paragraph [ref=e91]:
+      - link "Privacy Policy" [ref=e92] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e93] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e94] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

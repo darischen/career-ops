@@ -104,6 +104,22 @@ search_queries:
     query: 'site:jobs.lever.co engineer'
     enabled: true
 
+  - name: "New Grad 2026 — GitHub"
+    query: 'site:github.com vanshb03 "New-Grad-2026" engineer OR developer OR software'
+    enabled: true
+
+  - name: "SimplifyJobs — New Grad Positions"
+    query: 'site:github.com SimplifyJobs "New-Grad-Positions" engineer OR developer'
+    enabled: true
+
+  - name: "Workday — All Tech"
+    query: 'site:myworkdayjobs.com engineer OR developer OR software'
+    enabled: true
+
+  - name: "Built In — Tech Jobs"
+    query: 'site:builtin.com engineer OR developer OR software'
+    enabled: true
+
 tracked_companies:
 
   # ========================================

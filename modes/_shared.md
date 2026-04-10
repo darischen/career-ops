@@ -82,6 +82,8 @@ After detecting archetype, read `modes/_profile.md` for the user's specific fram
 6. Generate content in the language of the JD (EN default)
 7. Be direct and actionable -- no fluff
 8. Native tech English for generated text. Short sentences, action verbs, no passive voice.
+8a. **CRITICAL: No em dashes (—) or colons (:) in essay prose.** Replace ALL em dashes with periods or conjunctions. Replace ALL colons with periods or restructure. Example: Instead of "The problem is this: we need a solution", write "The problem requires a solution" or "We need to solve this problem". Instead of "I did X — which proves Y", write "I did X. This proves Y" or "I did X, proving Y".
+8b. **Avoid "It's not X, it's Y" sentence structure.** Reframe to state the positive directly. Instead of "It's not just infrastructure, it's a product", write "This is infrastructure that powers products" or "Infrastructure IS the product here".
 8b. Case study URLs in PDF Professional Summary (recruiter may only read this).
 9. **Tracker additions as TSV** -- NEVER edit applications.md directly. Write TSV in `batch/tracker-additions/`.
 10. **Include `**URL:**` in every report header.**

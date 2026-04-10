@@ -16,6 +16,13 @@ candidate:
       level: "Intermediate"
       notes: "Reading/writing: classroom study (beginner), speaking: intermediate"
 
+education:
+  degree: "Bachelor of Science in Computer Engineering"
+  school: "University of California San Diego"
+  start_date: "2022-09"
+  graduation_date: "2026-03"
+  gpa: null
+
 target_roles:
   # No strong preference — all equally interesting
   primary:

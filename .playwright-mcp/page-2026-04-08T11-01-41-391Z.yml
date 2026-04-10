@@ -1,0 +1,155 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Ramp" [ref=e6] [cursor=pointer]:
+        - /url: https://ramp.com
+        - img "Ramp" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Ramp’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /ramp
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer, Frontend" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York, NY (HQ); Miami, FL; Remote (Canada); Remote (US); San Francisco, CA
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $143.2K – $284K • Offers Equity
+          - paragraph [ref=e35]: The final compensation will depend on the location and level at which the candidate is hired.
+      - generic [ref=e36]:
+        - tablist [ref=e37]:
+          - tab "Overview" [selected] [ref=e38] [cursor=pointer]
+          - tab "Application" [ref=e39] [cursor=pointer]
+        - tabpanel "Overview" [ref=e41]:
+          - generic [ref=e42]:
+            - heading "About Ramp" [level=1] [ref=e43]:
+              - strong [ref=e44]: About Ramp
+            - paragraph [ref=e45]: "Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $100B in annualized spend flows in and out of 50,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books."
+            - paragraph [ref=e46]: The problems are high-stakes, data-dense, and unforgiving.
+            - paragraph [ref=e47]: We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.
+            - paragraph [ref=e48]: The median Ramp customer saves 5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.
+            - paragraph [ref=e49]: If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.
+            - paragraph [ref=e50]
+            - heading "About the Role" [level=1] [ref=e51]
+            - paragraph [ref=e52]: Our ideal candidate has a deep understanding of JavaScript, a passion for web performance, and can creatively come up with solutions to solve customer's needs. Our tech stack currently involves TypeScript, React, Vite, and Ryu, our in-house design system.
+            - paragraph [ref=e53]:
+              - text: Check out our
+              - link "Engineering Blog" [ref=e54] [cursor=pointer]:
+                - /url: https://engineering.ramp.com/
+              - text: for more on our tech stack, mission and values!
+            - paragraph [ref=e55]
+            - heading "What You’ll Do" [level=2] [ref=e56]
+            - list [ref=e57]:
+              - listitem [ref=e58]:
+                - paragraph [ref=e59]: Build!
+              - listitem [ref=e60]:
+                - paragraph [ref=e61]: Design performant, beautiful, and usable interfaces
+              - listitem [ref=e62]:
+                - paragraph [ref=e63]: Collaborate on our technical vision. Lead discussions and implementation of multiple complex projects
+              - listitem [ref=e64]:
+                - paragraph [ref=e65]: Foster a culture of upholding industry-leading UX
+              - listitem [ref=e66]:
+                - paragraph [ref=e67]: Continuously improve our engineering processes, tools, and systems that allow us to scale the code base, productivity, and the team
+              - listitem [ref=e68]:
+                - paragraph [ref=e69]: Recruit, interview and develop your own interview questions, while fostering the culture of excellence, velocity and humility
+              - listitem [ref=e70]:
+                - paragraph [ref=e71]: Inspire and mentor less experienced engineers and interns
+            - paragraph [ref=e72]
+            - heading "What You'll Need" [level=2] [ref=e73]
+            - list [ref=e74]:
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: Minimum of 2 years of frontend engineering experience preferred
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: Proficiency in JavaScript and React
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Knack for getting the visuals right
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: Track record of shipping high-quality products and developing projects at scale
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: Ability to turn business and product ideas into engineering solutions
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: Desire to work in a fast-paced environment, continuously grow, and master your craft
+              - listitem [ref=e87]:
+                - paragraph [ref=e88]: Alignment with Ramp’s core values of enabling businesses to grow more by spending less
+            - paragraph [ref=e89]
+            - heading "Benefits (for U.S.-based full-time employees)" [level=2] [ref=e90]:
+              - strong [ref=e91]: Benefits (for U.S.-based full-time employees)
+            - list [ref=e92]:
+              - listitem [ref=e93]:
+                - paragraph [ref=e94]: 100% medical, dental & vision insurance coverage for you
+                - list [ref=e95]:
+                  - listitem [ref=e96]:
+                    - paragraph [ref=e97]: Partially covered for your dependents
+                  - listitem [ref=e98]:
+                    - paragraph [ref=e99]: One Medical annual membership
+              - listitem [ref=e100]:
+                - paragraph [ref=e101]: 401k (including employer match on contributions made while employed by Ramp)
+              - listitem [ref=e102]:
+                - paragraph [ref=e103]: Flexible PTO
+              - listitem [ref=e104]:
+                - paragraph [ref=e105]: Fertility HRA (up to $10,000 per year)
+              - listitem [ref=e106]:
+                - paragraph [ref=e107]: Parental Leave
+              - listitem [ref=e108]:
+                - paragraph [ref=e109]: Unlimited AI token usage
+              - listitem [ref=e110]:
+                - paragraph [ref=e111]: Pet insurance
+              - listitem [ref=e112]:
+                - paragraph [ref=e113]: Centralized home-office equipment ordering for all employees
+              - listitem [ref=e114]:
+                - paragraph [ref=e115]: Health and Wellness stipend
+              - listitem [ref=e116]:
+                - paragraph [ref=e117]: "In-office perks: lunch, snacks, drinks, and more"
+              - listitem [ref=e118]:
+                - paragraph [ref=e119]: Budget for intra-office travel
+              - listitem [ref=e120]:
+                - paragraph [ref=e121]: Relocation support to NYC or SF (as needed)
+            - paragraph [ref=e122]
+            - heading "Referral Instructions" [level=2] [ref=e123]:
+              - strong [ref=e124]: Referral Instructions
+            - paragraph [ref=e125]: If you are being referred for the role, please contact that person to apply on your behalf.
+            - paragraph [ref=e126]
+            - heading "Other notices" [level=2] [ref=e127]:
+              - strong [ref=e128]: Other notices
+            - paragraph [ref=e129]: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+            - paragraph [ref=e130]
+            - paragraph [ref=e131]:
+              - emphasis [ref=e132]: "Beware of recruiting scams: Ramp will only contact you through official @"
+              - link "Ramp.com" [ref=e133] [cursor=pointer]:
+                - /url: http://Ramp.com
+                - emphasis [ref=e134]: Ramp.com
+              - emphasis [ref=e135]: email addresses and will never ask for payment or sensitive personal information during the hiring process.
+            - paragraph [ref=e136]
+            - paragraph [ref=e137]:
+              - link "Ramp Applicant Privacy Notice" [ref=e138] [cursor=pointer]:
+                - /url: https://ramp.com/legal/applicant-privacy-notice
+          - link "Apply for this Job" [ref=e139] [cursor=pointer]:
+            - /url: /ramp/4e64ab86-4e30-403b-b1b9-41dc052570ce/application
+            - button "Apply for this Job" [ref=e140]
+  - contentinfo [ref=e141]:
+    - link "Learn more about Ashby" [ref=e142] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e143]: Powered by
+      - img "Ashby" [ref=e144]
+    - paragraph [ref=e150]:
+      - link "Privacy Policy" [ref=e151] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e152] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e153] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

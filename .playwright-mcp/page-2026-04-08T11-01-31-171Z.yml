@@ -1,0 +1,234 @@
+- generic [active] [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/corestory
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - heading "AI Engineer" [level=1] [ref=e13]
+            - generic [ref=e14]:
+              - img [ref=e15]
+              - generic [ref=e17]: Remote US
+          - button "Apply" [ref=e18] [cursor=pointer]
+        - generic [ref=e20]:
+          - heading "About CoreStory" [level=3] [ref=e21]:
+            - strong [ref=e22]: About CoreStory
+          - paragraph [ref=e23]: CoreStory unlocks the hidden intelligence in your legacy code. By using AI to surface business logic and technical insights, we give enterprises the clarity to modernize faster, maintain apps smarter, and reduce the risk of costly failures.
+          - paragraph [ref=e24]:
+            - text: We’re looking for an
+            - strong [ref=e25]: AI Engineer
+            - text: who is passionate about building intelligent systems that blend large language models, retrieval architectures, and conversational agents into cohesive, scalable products. This role is critical to the core AI engine powering the CoreStory Platform.
+          - heading "Role Overview" [level=3] [ref=e26]:
+            - strong [ref=e27]: Role Overview
+          - paragraph [ref=e28]: As an AI Engineer, you’ll play a central role in developing and optimizing the AI components that power CoreStory’s narrative intelligence platform. You’ll work across LLM integration, vector search systems, prompt orchestration, agentic systems, and retrieval-augmented generation (RAG) pipelines.
+          - paragraph [ref=e29]: You’ll collaborate closely with the product, data, and infrastructure teams to prototype, productionize, and continuously evolve our AI stack — ensuring that our systems are accurate, explainable, efficient, and on the cutting edge of modern AI capabilities.
+          - heading "Key Responsibilities" [level=3] [ref=e30]:
+            - strong [ref=e31]: Key Responsibilities
+          - list [ref=e32]:
+            - listitem [ref=e33]: Design, implement, and optimize LLM-powered systems (e.g., RAG, chat agents, summarizers, knowledge graph integration).
+            - listitem [ref=e34]:
+              - text: Build and manage data indexing and retrieval pipelines using
+              - strong [ref=e35]: LlamaIndex
+              - text: ","
+              - strong [ref=e36]: LangChain
+              - text: ", or similar frameworks."
+            - listitem [ref=e37]:
+              - text: Implement and maintain
+              - strong [ref=e38]: vector databases
+              - text: (e.g.,
+              - strong [ref=e39]: Pinecone, Neo4j, Weaviate, Chroma,
+              - text: or Azure Cognitive Search).
+            - listitem [ref=e40]:
+              - text: Integrate open-source and proprietary
+              - strong [ref=e41]: LLMs
+              - text: (e.g., GPT, Claude, Llama) into the CoreStory Platform.
+            - listitem [ref=e42]: Develop and refine AI-driven features — including generative insights, automated summarization, and narrative analytics.
+            - listitem [ref=e43]: Collaborate with DevOps and backend teams to deploy scalable AI services within CoreStory’s cloud infrastructure.
+            - listitem [ref=e44]: Continuously benchmark model performance, latency, and cost, identifying opportunities for optimization.
+            - listitem [ref=e45]: Stay current with advancements in AI — from model architectures to emerging frameworks — and propose innovative applications aligned with CoreStory’s mission.
+            - listitem [ref=e46]: Contribute to internal documentation, experimentation frameworks, and evaluation methodologies.
+          - heading "Qualifications" [level=3] [ref=e47]:
+            - strong [ref=e48]: Qualifications
+          - paragraph [ref=e49]:
+            - strong [ref=e50]: "Required Skills:"
+          - list [ref=e51]:
+            - listitem [ref=e52]: 7+ years of overall engineering experience with at least 3+ years of experience in AI engineering, machine learning, or applied NLP.
+            - listitem [ref=e53]:
+              - text: Strong hands-on experience with
+              - strong [ref=e54]: LlamaIndex
+              - text: ","
+              - strong [ref=e55]: LangChain
+              - text: ", or similar orchestration frameworks."
+            - listitem [ref=e56]:
+              - text: Experience designing and implementing
+              - strong [ref=e57]: vector database
+              - text: solutions (e.g.,
+              - strong [ref=e58]: Pinecone, Neo4j, FAISS, Milvus, Weaviate
+              - text: ).
+            - listitem [ref=e59]:
+              - text: Solid understanding of
+              - strong [ref=e60]: LLM APIs
+              - text: (OpenAI, Anthropic, Mistral, Hugging Face, etc.).
+            - listitem [ref=e61]:
+              - text: Proficiency in
+              - strong [ref=e62]: Python
+              - text: ", with experience in libraries such as"
+              - strong [ref=e63]: FastAPI
+              - text: ","
+              - strong [ref=e64]: Pandas
+              - text: ", or"
+              - strong [ref=e65]: NumPy
+              - text: .
+            - listitem [ref=e66]:
+              - text: Understanding of
+              - strong [ref=e67]: retrieval-augmented generation (RAG)
+              - text: patterns, embeddings, and tokenization.
+            - listitem [ref=e68]:
+              - text: Familiarity with
+              - strong [ref=e69]: prompt engineering
+              - text: ","
+              - strong [ref=e70]: tool calling
+              - text: ", and"
+              - strong [ref=e71]: chat agent architectures
+              - text: .
+            - listitem [ref=e72]: Strong problem-solving and analytical mindset, with attention to performance and scalability.
+            - listitem [ref=e73]: Demonstrated interest in staying up-to-date with the fast-evolving AI landscape.
+          - paragraph [ref=e74]:
+            - strong [ref=e75]: "Preferred:"
+          - list [ref=e76]:
+            - listitem [ref=e77]: Experience deploying AI services in production (e.g., using Docker, Azure, or AWS).
+            - listitem [ref=e78]:
+              - text: Exposure to
+              - strong [ref=e79]: LangGraph
+              - text: ","
+              - strong [ref=e80]: semantic search
+              - text: ", or hybrid RAG systems."
+            - listitem [ref=e81]:
+              - text: Familiarity with
+              - strong [ref=e82]: knowledge graphs
+              - text: ","
+              - strong [ref=e83]: document intelligence
+              - text: ", or"
+              - strong [ref=e84]: multimodal AI
+              - text: .
+            - listitem [ref=e85]: Previous experience in SaaS or early-stage startup environments.
+          - heading "What We Offer" [level=3] [ref=e86]:
+            - strong [ref=e87]: What We Offer
+          - list [ref=e88]:
+            - listitem [ref=e89]: Competitive compensation and equity.
+            - listitem [ref=e90]: Flexible, remote-first work environment.
+            - listitem [ref=e91]: Opportunities to define and build the AI roadmap of a fast-growing technology company.
+            - listitem [ref=e92]: Collaborative, learning-oriented culture.
+            - listitem [ref=e93]: Access to cutting-edge AI models, research, and infrastructure.
+        - generic [ref=e94]:
+          - img [ref=e95]
+          - generic [ref=e97]:
+            - paragraph [ref=e98]: Create a Job Alert
+            - paragraph [ref=e99]: Interested in building your career at CoreStory? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e100] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=corestory&source=job_alert_post
+      - separator [ref=e101]
+      - generic [ref=e102]:
+        - generic [ref=e104]:
+          - heading "Apply for this job" [level=2] [ref=e106]
+          - generic [ref=e107]:
+            - paragraph [ref=e109]: "*"
+            - paragraph [ref=e110]: indicates a required field
+        - generic [ref=e111]:
+          - generic [ref=e112]:
+            - generic [ref=e115]:
+              - generic [ref=e116]: First Name*
+              - textbox "First Name" [ref=e117]
+            - generic [ref=e120]:
+              - generic [ref=e121]: Last Name*
+              - textbox "Last Name" [ref=e122]
+            - generic [ref=e125]:
+              - generic [ref=e126]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e127]
+            - generic [ref=e130]:
+              - generic [ref=e131]: Email*
+              - textbox "Email" [ref=e132]
+            - group "Phone" [ref=e134]:
+              - generic [ref=e135]: Phone
+              - generic [ref=e138]:
+                - generic [ref=e139]: Country*
+                - generic [ref=e140]:
+                  - log [ref=e142]
+                  - generic [ref=e144]:
+                    - combobox "Country" [ref=e147]
+                    - button "Toggle flyout" [ref=e149] [cursor=pointer]:
+                      - img [ref=e150]
+                  - textbox
+              - generic [ref=e154]:
+                - generic [ref=e155]: Phone*
+                - textbox "Phone" [ref=e157]
+            - group "Resume/CV*" [ref=e159]:
+              - generic [ref=e160]: Resume/CV*
+              - generic [ref=e162]:
+                - generic [ref=e164]:
+                  - button "Attach" [ref=e165] [cursor=pointer]
+                  - generic [ref=e166]: Attach
+                  - button "Attach" [ref=e167]
+                - button "Dropbox" [ref=e169] [cursor=pointer]
+                - button "Google Drive" [ref=e171] [cursor=pointer]
+                - generic [ref=e173]:
+                  - button "Enter manually" [ref=e174] [cursor=pointer]
+                  - generic [ref=e175]: Enter manually
+                - paragraph [ref=e176]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e178]:
+              - generic [ref=e179]: Cover Letter
+              - generic [ref=e181]:
+                - generic [ref=e183]:
+                  - button "Attach" [ref=e184] [cursor=pointer]
+                  - generic [ref=e185]: Attach
+                  - button "Attach" [ref=e186]
+                - button "Dropbox" [ref=e188] [cursor=pointer]
+                - button "Google Drive" [ref=e190] [cursor=pointer]
+                - generic [ref=e192]:
+                  - button "Enter manually" [ref=e193] [cursor=pointer]
+                  - generic [ref=e194]: Enter manually
+                - paragraph [ref=e195]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e196]:
+            - separator [ref=e197]
+            - generic [ref=e198]:
+              - generic [ref=e200]:
+                - generic [ref=e201]: To help us review applications efficiently and reduce fraudulent submissions, please include a link to a professional profile or portfolio (LinkedIn, GitHub, personal website, etc.).*
+                - textbox "To help us review applications efficiently and reduce fraudulent submissions, please include a link to a professional profile or portfolio (LinkedIn, GitHub, personal website, etc.)." [ref=e202]
+              - paragraph [ref=e205]: Applications without verifiable professional information may not be considered.
+            - generic [ref=e208]:
+              - generic [ref=e209]: Are you legally authorized to work in the United States?*
+              - generic [ref=e210]:
+                - log [ref=e212]
+                - generic [ref=e214]:
+                  - generic [ref=e215]:
+                    - generic [ref=e216]: Select...
+                    - combobox "Are you legally authorized to work in the United States?" [ref=e218]
+                  - button "Toggle flyout" [ref=e220] [cursor=pointer]:
+                    - img [ref=e221]
+                - textbox
+            - generic [ref=e225]:
+              - generic [ref=e226]: Will you now or in the future require visa sponsorship for employment?*
+              - generic [ref=e227]:
+                - log [ref=e229]
+                - generic [ref=e231]:
+                  - generic [ref=e232]:
+                    - generic [ref=e233]: Select...
+                    - combobox "Will you now or in the future require visa sponsorship for employment?" [ref=e235]
+                  - button "Toggle flyout" [ref=e237] [cursor=pointer]:
+                    - img [ref=e238]
+                - textbox
+          - button "Submit application" [ref=e241] [cursor=pointer]
+  - contentinfo [ref=e242]:
+    - generic [ref=e243]:
+      - paragraph [ref=e244]: Powered by
+      - link "Greenhouse logo" [ref=e245] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e246]
+  - iframe [ref=e260]:
+    - generic [ref=f6e6]:
+      - text: protected by
+      - strong [ref=f6e7]: reCAPTCHA

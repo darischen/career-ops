@@ -9,7 +9,11 @@ Processes job offer URLs accumulated in `data/pipeline.md`. You add URLs wheneve
    a. Calculate next `REPORT_NUM` sequentially (read `reports/`, take highest number + 1)
    b. **Extract JD** using Playwright (browser_navigate + browser_snapshot) → WebFetch → WebSearch
    c. If URL is inaccessible → mark as `- [!]` with note and continue
-   d. **Run full auto-pipeline**: A-F evaluation → Report .md → PDF (if score >= 3.0) → Tracker
+   d. **Run full auto-pipeline** (MANDATORY all steps):
+      - i. A-F evaluation (read `modes/_shared.md` for scoring framework)
+      - ii. Save report .md to `reports/{REPORT_NUM}-{company-slug}-{DATE}.md`
+      - iii. **Generate PDF** (ALWAYS, even for scores < 3.0): Read `modes/pdf.md` and execute complete PDF pipeline. Output to `output/cv-candidate-{company-slug}-{DATE}.pdf`. Mark ✅ if successful, ❌ if failed.
+      - iv. Register in tracker (TSV format to `batch/tracker-additions/`)
    e. **Move from "Pending" to "Processed"**: `- [x] #NNN | URL | Company | Role | Score/5 | PDF ✅/❌`
 3. **If 3+ pending URLs**, launch agents in parallel (Agent tool with `run_in_background`) to maximize speed
 4. **When done**, show summary table:
@@ -47,6 +51,18 @@ Processes job offer URLs accumulated in `data/pipeline.md`. You add URLs wheneve
 1. List all files in `reports/`
 2. Extract prefix number (e.g., `142-medispend...` → 142)
 3. New number = max found + 1
+
+## PDF Generation (CRITICAL)
+
+For each offer, after evaluation:
+1. Read `modes/pdf.md` — follow the complete PDF generation pipeline
+2. Extract JD keywords, rewrite Professional Summary, build competency grid
+3. Generate HTML from template
+4. **Execute**: `node generate-pdf.mjs /tmp/cv-candidate-{company}.html output/cv-candidate-{company}-{YYYY-MM-DD}.pdf --format={letter|a4}`
+5. Verify file exists in `output/`
+6. Update tracker with ✅ if successful, ❌ if failed
+
+**DO NOT skip PDF generation.** Every offer must have a tailored PDF, even scores below 3.0.
 
 ## Sync verification
 

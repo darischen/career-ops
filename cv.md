@@ -6,7 +6,7 @@
 
 **University of California San Diego**  
 Bachelor of Science (B.S.) in Computer Engineering  
-San Diego, CA
+San Diego, CA | Graduated: March 2026
 
 ---
 

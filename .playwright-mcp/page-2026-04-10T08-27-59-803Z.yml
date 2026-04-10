@@ -1,0 +1,226 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "Back to jobs" [ref=e5] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/vercel
+          - img [ref=e6]
+          - text: Back to jobs
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - heading "Software Engineer, AI Gateway" [level=1] [ref=e11]
+            - generic [ref=e12]:
+              - img [ref=e13]
+              - generic [ref=e15]: Hybrid - San Francisco, New York City
+          - button "Apply" [ref=e16] [cursor=pointer]
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - heading "About Vercel:" [level=2] [ref=e19]
+            - paragraph [ref=e20]:
+              - generic [ref=e21]: Vercel gives developers the tools and cloud infrastructure to build, scale, and secure a faster, more personalized web. As the team behind v0, Next.js, and AI SDK, Vercel helps customers like Ramp, Supreme, PayPal, and Under Armour build for the AI-native web.
+            - paragraph [ref=e22]: "Our mission is to enable the world to ship the best products. That starts with creating a place where everyone can do their best work. Whether you're building on our platform, supporting our customers, or shaping our story: You can just ship things."
+          - generic [ref=e23]:
+            - generic [ref=e24]:
+              - strong [ref=e25]: "About the Role:"
+              - text: As a member of the AI Gateway Team, you will be responsible for developing and enhancing our AI Gateway platform, which provides a unified API for accessing hundreds of AI models from multiple providers. You will collaborate with a remote and distributed team of engineers to build reliable, low-latency systems that handle rate limiting, intelligent failovers, and seamless integrations, enabling developers to ship AI-powered applications without managing provider-specific complexities. This role focuses on ensuring production-ready reliability for AI workloads, including automatic fallbacks during outages and consistent performance across providers like OpenAI, Anthropic, Google, and more.
+            - strong [ref=e28]: "What You Will Do:"
+            - list [ref=e29]:
+              - listitem [ref=e30]: Contribute to the design, implementation, and maintenance of the AI Gateway platform, emphasizing features like unified API endpoints, rate limit management, and intelligent failover mechanisms to boost uptime and reliability.
+              - listitem [ref=e31]: Write clean, efficient, and well-documented code, conducting thorough testing to ensure low-latency responses and stability for high-volume AI inference requests.
+              - listitem [ref=e32]: Collaborate with cross-functional teams, including product managers, AI researchers, and infrastructure engineers, to integrate new AI providers and models while addressing scalability and performance challenges.
+              - listitem [ref=e33]: Engage with the open-source community, contribute to AI SDK and related projects, and align with Vercel's ethos of fostering developer tools.
+              - listitem [ref=e34]: Gather user feedback and analytics to drive innovations in AI Gateway, such as enhanced billing unification, provider-agnostic authentication, and analytics for usage insights.
+            - strong [ref=e36]: "About You:"
+            - list [ref=e37]:
+              - listitem [ref=e38]: You have at least 5+ years of relevant experience
+              - listitem [ref=e39]: Strong proficiency in JavaScript/TypeScript and experience with backend development, APIs, and cloud infrastructure
+              - listitem [ref=e40]: Experience with AI/ML integrations, API gateways, distributed systems, or handling high-throughput services (e.g., rate limiting, caching, failovers)
+              - listitem [ref=e41]: Experience contributing to or participating in open source projects
+              - listitem [ref=e42]: Excellent communication skills and the ability to work effectively in a collaborative team environment
+            - strong [ref=e44]: "Benefits:"
+            - list [ref=e45]:
+              - listitem [ref=e46]: Competitive compensation package, including equity.
+              - listitem [ref=e47]: Inclusive Healthcare Package.
+              - listitem [ref=e48]: Learn and Grow - we provide mentorship and send you to events that help you build your network and skills.
+              - listitem [ref=e49]: Flexible Time Off.
+              - listitem [ref=e50]: We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed.
+            - generic [ref=e51]:
+              - text: The San Francisco, CA base pay range for this role is $196,000-$294,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.
+              - text: Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.
+        - generic [ref=e52]:
+          - img [ref=e53]
+          - generic [ref=e55]:
+            - paragraph [ref=e56]: Create a Job Alert
+            - paragraph [ref=e57]: Interested in building your career at Vercel? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e58] [cursor=pointer]
+      - separator [ref=e59]
+      - generic [ref=e60]:
+        - generic [ref=e62]:
+          - heading "Apply for this job" [level=2] [ref=e64]
+          - generic [ref=e65]:
+            - paragraph [ref=e67]: "*"
+            - paragraph [ref=e68]: indicates a required field
+        - generic [ref=e69]:
+          - generic [ref=e70]:
+            - generic [ref=e73]:
+              - generic [ref=e74]: First Name*
+              - textbox "First Name" [ref=e75]
+            - generic [ref=e78]:
+              - generic [ref=e79]: Last Name*
+              - textbox "Last Name" [ref=e80]
+            - generic [ref=e83]:
+              - generic [ref=e84]: Email*
+              - textbox "Email" [ref=e85]
+            - group "Phone" [ref=e87]:
+              - generic [ref=e88]: Phone
+              - generic [ref=e91]:
+                - generic [ref=e92]: Country*
+                - generic [ref=e93]:
+                  - log [ref=e95]
+                  - generic [ref=e97]:
+                    - combobox "Country" [ref=e100]
+                    - button "Toggle flyout" [ref=e102] [cursor=pointer]:
+                      - img [ref=e103]
+                  - textbox
+              - generic [ref=e107]:
+                - generic [ref=e108]: Phone*
+                - textbox "Phone" [ref=e109]
+            - group "Resume/CV" [ref=e111]:
+              - generic [ref=e112]: Resume/CV
+              - generic [ref=e114]:
+                - generic [ref=e116]:
+                  - button "Attach" [ref=e117] [cursor=pointer]
+                  - generic [ref=e118]: Attach
+                  - button "Attach" [ref=e119]
+                - button "Dropbox" [ref=e121] [cursor=pointer]
+                - button "Google Drive" [ref=e123] [cursor=pointer]
+                - generic [ref=e125]:
+                  - button "Enter manually" [ref=e126] [cursor=pointer]
+                  - generic [ref=e127]: Enter manually
+                - paragraph [ref=e128]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e130]:
+              - generic [ref=e131]: Cover Letter
+              - generic [ref=e133]:
+                - generic [ref=e135]:
+                  - button "Attach" [ref=e136] [cursor=pointer]
+                  - generic [ref=e137]: Attach
+                  - button "Attach" [ref=e138]
+                - button "Dropbox" [ref=e140] [cursor=pointer]
+                - button "Google Drive" [ref=e142] [cursor=pointer]
+                - generic [ref=e144]:
+                  - button "Enter manually" [ref=e145] [cursor=pointer]
+                  - generic [ref=e146]: Enter manually
+                - paragraph [ref=e147]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e148]:
+            - separator [ref=e149]
+            - generic [ref=e152]:
+              - generic [ref=e153]: Are you currently based in any of these countries? Please note these are the only countries where we are accepting applications*
+              - generic [ref=e154]:
+                - log [ref=e156]
+                - generic [ref=e158]:
+                  - generic [ref=e159]:
+                    - generic [ref=e160]: Select...
+                    - combobox "Are you currently based in any of these countries? Please note these are the only countries where we are accepting applications" [ref=e162]
+                  - button "Toggle flyout" [ref=e164] [cursor=pointer]:
+                    - img [ref=e165]
+                - textbox
+            - generic [ref=e167]:
+              - generic [ref=e169]:
+                - generic [ref=e170]: Will you require Visa Sponsorship now, or in the future?*
+                - generic [ref=e171]:
+                  - log [ref=e173]
+                  - generic [ref=e175]:
+                    - generic [ref=e176]:
+                      - generic [ref=e177]: Select...
+                      - combobox "Will you require Visa Sponsorship now, or in the future?" [ref=e179]
+                    - button "Toggle flyout" [ref=e181] [cursor=pointer]:
+                      - img [ref=e182]
+                  - textbox
+              - paragraph [ref=e186]:
+                - text: Please mark '
+                - strong [ref=e187]: "YES"
+                - text: "' if you will require Visa Sponsorship now, or in the future."
+                - text: Mark '
+                - strong [ref=e188]: "NO"
+                - text: "' if you will"
+                - strong [ref=e189]: NOT
+                - text: require Visa Sponsorship now, or in the future.
+            - generic [ref=e192]:
+              - generic [ref=e193]: Your authorization to work in the country where you live. Please choose the option that describes your work authorization. *
+              - generic [ref=e194]:
+                - log [ref=e196]
+                - generic [ref=e198]:
+                  - generic [ref=e199]:
+                    - generic [ref=e200]: Select...
+                    - combobox "Your authorization to work in the country where you live. Please choose the option that describes your work authorization." [ref=e202]
+                  - button "Toggle flyout" [ref=e204] [cursor=pointer]:
+                    - img [ref=e205]
+                - textbox
+            - generic [ref=e207]:
+              - generic [ref=e209]:
+                - generic [ref=e210]: Do you live in one of the following states? Alabama, Alaska, Delaware, Kansas, Maine, Mississippi, Montana, Nebraska, New Mexico, North Dakota, South Dakota, West Virginia, or Wyoming.*
+                - generic [ref=e211]:
+                  - log [ref=e213]
+                  - generic [ref=e215]:
+                    - generic [ref=e216]:
+                      - generic [ref=e217]: Select...
+                      - combobox "Do you live in one of the following states? Alabama, Alaska, Delaware, Kansas, Maine, Mississippi, Montana, Nebraska, New Mexico, North Dakota, South Dakota, West Virginia, or Wyoming." [ref=e219]
+                    - button "Toggle flyout" [ref=e221] [cursor=pointer]:
+                      - img [ref=e222]
+                  - textbox
+              - paragraph [ref=e226]:
+                - text: Please mark ‘
+                - strong [ref=e227]: "YES"
+                - text: ’ if you currently live in one of these states.
+                - text: If you do
+                - strong [ref=e228]: NOT
+                - text: currently live in one of these states, mark ‘
+                - strong [ref=e229]: "NO"
+                - text: .’
+            - generic [ref=e232]:
+              - generic [ref=e233]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e234]
+            - generic [ref=e237]:
+              - generic [ref=e238]: Twitter
+              - textbox "Twitter" [ref=e239]
+            - generic [ref=e242]:
+              - generic [ref=e243]: Github
+              - textbox "Github" [ref=e244]
+            - generic [ref=e247]:
+              - generic [ref=e248]: Website
+              - textbox "Website" [ref=e249]
+            - generic [ref=e250]:
+              - generic [ref=e252]:
+                - generic [ref=e253]: By submitting my application, I acknowledge that I have read and understand Vercel’s Job Applicant Privacy Notice - https://vercel.com/legal/job-applicant-privacy-notice *
+                - generic [ref=e254]:
+                  - log [ref=e256]
+                  - generic [ref=e258]:
+                    - generic [ref=e259]:
+                      - generic [ref=e260]: Select...
+                      - combobox "By submitting my application, I acknowledge that I have read and understand Vercel’s Job Applicant Privacy Notice - https://vercel.com/legal/job-applicant-privacy-notice" [ref=e262]
+                    - button "Toggle flyout" [ref=e264] [cursor=pointer]:
+                      - img [ref=e265]
+                  - textbox
+              - paragraph [ref=e269]:
+                - text: By submitting my application, I acknowledge that I have read and understand Vercel’s
+                - link "Job Applicant Privacy Notice" [ref=e270] [cursor=pointer]:
+                  - /url: https://vercel.com/legal/job-applicant-privacy-notice
+                - text: .
+            - generic [ref=e273]:
+              - generic [ref=e274]: Please double-check all the information provided above. Ensuring accuracy is crucial, as any errors or omissions may impact the review of your application.*
+              - generic [ref=e275]:
+                - log [ref=e277]
+                - generic [ref=e279]:
+                  - generic [ref=e280]:
+                    - generic [ref=e281]: Select...
+                    - combobox "Please double-check all the information provided above. Ensuring accuracy is crucial, as any errors or omissions may impact the review of your application." [ref=e283]
+                  - button "Toggle flyout" [ref=e285] [cursor=pointer]:
+                    - img [ref=e286]
+                - textbox
+          - button "Submit application" [ref=e289] [cursor=pointer]
+  - contentinfo [ref=e290]:
+    - generic [ref=e291]:
+      - paragraph [ref=e292]: Powered by
+      - link "Greenhouse logo" [ref=e293] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e294]

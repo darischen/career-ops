@@ -1,0 +1,120 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Perplexity" [ref=e6] [cursor=pointer]:
+        - /url: https://www.perplexity.ai/
+        - img "Perplexity" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Perplexity’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /perplexity
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "AI Software Engineer - Agents" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Department" [level=2] [ref=e24]
+          - paragraph [ref=e25]: AI
+        - generic [ref=e26]:
+          - heading "Compensation" [level=2] [ref=e27]
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - generic [ref=e30]: $220K – $405K • Offers Equity
+          - generic [ref=e31]:
+            - paragraph [ref=e32]:
+              - strong [ref=e33]: U.S. Benefits
+            - paragraph [ref=e34]: Full-time U.S. employees enjoy a comprehensive benefits program including equity, health, dental, vision, retirement, fitness, commuter and dependent care accounts, and more.
+            - paragraph [ref=e35]
+            - paragraph [ref=e36]:
+              - strong [ref=e37]: International Benefits
+            - paragraph [ref=e38]: Full-time employees outside the U.S. enjoy a comprehensive benefits program tailored to their region of residence.
+            - paragraph [ref=e39]
+            - paragraph [ref=e40]: USD salary ranges apply only to U.S.-based positions. International salaries are set based on the local market. Final offer amounts are determined by multiple factors, including experience and expertise, and may vary from the amounts listed above.
+      - generic [ref=e41]:
+        - tablist [ref=e42]:
+          - tab "Overview" [selected] [ref=e43] [cursor=pointer]
+          - tab "Application" [ref=e44] [cursor=pointer]
+        - tabpanel "Overview" [ref=e46]:
+          - generic [ref=e47]:
+            - paragraph [ref=e48]:
+              - text: Perplexity is seeking an energetic engineer to join our highly driven Agents engineering team. The Agents team consists of AI/ML, backend, and full-stack engineers who collaborate to build delightful agentic experiences within our
+              - link "Comet ecosystem" [ref=e49] [cursor=pointer]:
+                - /url: https://www.perplexity.ai/comet
+              - text: and
+              - link "Perplexity Computer" [ref=e50] [cursor=pointer]:
+                - /url: https://www.perplexity.ai/computer
+              - text: ", our platform for generalized frontier intelligence. Our vision is to empower our users with AI agents that can faithfully actualize their intent, however and wherever expressed, through open-ended interactions with the world."
+            - paragraph [ref=e51]: "As an engineer on our Agents team, you will bring AI expertise, sharp product intuition, and a tinkerer's mindset to advance the frontier of what agents can accomplish for our millions of devoted users. You will work across applied research and engineering to solve many open problems in AI, including:"
+            - list [ref=e52]:
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: Designing AI agents to navigate the digital world and perform increasingly valuable units of work for our users;
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]: Training action and decision models that determine, based on complex multimodal states, how to accomplish user-specified objectives;
+              - listitem [ref=e57]:
+                - paragraph [ref=e58]: Providing consistently excellent experiences across desktop, mobile, headless cloud, and other environments through flexible abstractions and frictionless backgrounding;
+              - listitem [ref=e59]:
+                - paragraph [ref=e60]: Developing permission architectures, payload classifiers, and other methods to implement secure-by-design agentic capabilities;
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: Designing optimal data representations and modes of interaction between agents and their environments;
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: and much, much more.
+            - heading "Responsibilities" [level=2] [ref=e65]:
+              - strong [ref=e66]: Responsibilities
+            - list [ref=e67]:
+              - listitem [ref=e68]:
+                - paragraph [ref=e69]: Drive cutting-edge AI capabilities across multiple layers of a rapidly growing product in the AI agents space.
+              - listitem [ref=e70]:
+                - paragraph [ref=e71]: Develop and leverage cutting-edge AI models, infrastructure, and browser technologies to advance the capability frontier and scale those capabilities for a rapidly growing userbase.
+              - listitem [ref=e72]:
+                - paragraph [ref=e73]: Ensure a high craft and quality bar, in both AI agent performance and user experience.
+              - listitem [ref=e74]:
+                - paragraph [ref=e75]: Collaborate with fellow engineers, designers, product managers, data scientists, and others across the company to integrate core Perplexity functionality into our frontier agentic products and vice-versa.
+              - listitem [ref=e76]:
+                - paragraph [ref=e77]: Contribute to product reliability, code quality, AI evaluation, testing, and maintenance across the broader team.
+            - heading "Qualifications" [level=2] [ref=e78]:
+              - strong [ref=e79]: Qualifications
+            - list [ref=e80]:
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: Strong foundational familiarity with the full AI product stack.
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: Proficiency in Python (bonus points for TypeScript, Go, and/or Rust).
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]:
+                  - text: Significant experience in
+                  - strong [ref=e87]: at least one
+                  - text: "of the following areas:"
+                - list [ref=e88]:
+                  - listitem [ref=e89]:
+                    - paragraph [ref=e90]: Context engineering and tool interfaces for frontier AI models
+                  - listitem [ref=e91]:
+                    - paragraph [ref=e92]: Post-training and reinforcement learning (particularly for multimodal models)
+                  - listitem [ref=e93]:
+                    - paragraph [ref=e94]: Browser technologies (CDP, Playwright, extension development, etc.)
+              - listitem [ref=e95]:
+                - paragraph [ref=e96]: Strong product intuition and taste for user experience excellence.
+              - listitem [ref=e97]:
+                - paragraph [ref=e98]: Comfortable working with a small, fast-moving team, must be willing to dive in and take ownership.
+              - listitem [ref=e99]:
+                - paragraph [ref=e100]: A passion for shipping products that surprise and delight.
+          - link "Apply for this Job" [ref=e101] [cursor=pointer]:
+            - /url: /perplexity/bc1a6878-8de9-48c2-a791-95b2f8f27261/application
+            - button "Apply for this Job" [ref=e102]
+  - contentinfo [ref=e103]:
+    - link "Learn more about Ashby" [ref=e104] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e105]: Powered by
+      - img "Ashby" [ref=e106]
+    - paragraph [ref=e112]:
+      - link "Privacy Policy" [ref=e113] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e114] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e115] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

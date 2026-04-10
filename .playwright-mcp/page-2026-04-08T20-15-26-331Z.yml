@@ -1,0 +1,76 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "8VC" [ref=e6] [cursor=pointer]:
+        - /url: https://www.8vc.com/
+        - img "8VC" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to 8VC’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /8vc
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer, New Grad" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco, CA
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Thorin
+      - generic [ref=e29]:
+        - tablist [ref=e30]:
+          - tab "Overview" [ref=e31] [cursor=pointer]
+          - tab "Application" [active] [selected] [ref=e32] [cursor=pointer]
+        - tabpanel "Application" [ref=e115]:
+          - generic [ref=e116]:
+            - button "Choose File" [ref=e117]
+            - generic [ref=e119]:
+              - generic [ref=e120]:
+                - img [ref=e122]
+                - heading "Autofill from resume" [level=3] [ref=e124]
+              - paragraph [ref=e125]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e127] [cursor=pointer]
+          - generic [ref=e129]:
+            - generic [ref=e130]:
+              - generic [ref=e131]: Name*
+              - textbox "Name*" [ref=e133] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e134]:
+              - generic [ref=e135]: Email*
+              - textbox "Email*" [ref=e137] [cursor=pointer]:
+                - /placeholder: hello@example.com...
+            - generic [ref=e138]:
+              - generic [ref=e139]: LinkedIn Profile*
+              - textbox "LinkedIn Profile*" [ref=e141] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e142]:
+              - generic [ref=e143]: Resume*
+              - button "Resume*" [ref=e144]
+              - generic [ref=e145]:
+                - button "Upload File" [ref=e146] [cursor=pointer]:
+                  - img [ref=e147]
+                  - generic [ref=e149]: Upload File
+                - paragraph [ref=e150]: or drag and drop here
+          - button "Submit Application" [ref=e151] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e152]
+  - contentinfo [ref=e102]:
+    - link "Learn more about Ashby" [ref=e103] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e104]: Powered by
+      - img "Ashby" [ref=e105]
+    - paragraph [ref=e111]:
+      - link "Privacy Policy" [ref=e112] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e113] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e114] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

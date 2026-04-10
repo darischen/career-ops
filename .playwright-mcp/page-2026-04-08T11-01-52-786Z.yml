@@ -1,0 +1,82 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Exa" [ref=e6] [cursor=pointer]:
+        - /url: https://exa.ai/
+        - img "Exa" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Exa’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /exa
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Growth Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco, California
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: GTM
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $130K – $200K • Offers Equity
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [selected] [ref=e36] [cursor=pointer]
+          - tab "Application" [ref=e37] [cursor=pointer]
+        - tabpanel "Overview" [ref=e39]:
+          - generic [ref=e40]:
+            - paragraph [ref=e41]:
+              - strong [ref=e42]: About the Team
+              - text: The growth team drives user and revenue growth across Exa’s consumer and enterprise API products. We recently raised a Series B from Benchmark, and we are rapidly building the most intelligent search engine in history. Now, we’re looking for a Growth Marketer to help us bring Exa to the world!
+            - paragraph [ref=e43]
+            - paragraph [ref=e44]:
+              - strong [ref=e45]: About the Role
+              - text: We’re looking for someone with deep expertise in performance marketing strategy, tools, and strong analytical skills. You’ll work with leadership, engineering and marketing to deliver measurable impact across a variety of channels and move quickly from concept to launch.
+            - paragraph [ref=e46]:
+              - strong [ref=e47]: What you’ll do
+            - list [ref=e48]:
+              - listitem [ref=e49]:
+                - paragraph [ref=e50]: Design and execute paid user acquisition campaigns across scalable channels (search, influencers, emails, social) to driver user growth
+              - listitem [ref=e51]:
+                - paragraph [ref=e52]: Lead experiments and A/B tests — analyzing data, finding insights, and turning those insights into scalable conversion improvements.
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: Develop AI workflows to scale how we reach out to potential users, and activate our existing users
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]: Scale outbound, creative direction, and management of creator partnerships
+            - paragraph [ref=e57]:
+              - strong [ref=e58]: You might thrive if you have
+            - list [ref=e59]:
+              - listitem [ref=e60]:
+                - paragraph [ref=e61]: 3+ years of experience in growth / performance marketing at high-growth tech companies
+              - listitem [ref=e62]:
+                - paragraph [ref=e63]: Proven ability to launch, scale, and optimize paid channels
+              - listitem [ref=e64]:
+                - paragraph [ref=e65]: Experience with AI-driven marketing tools, creative ops engineering, and workflow automation (N8N, Gumloop, Zapier)
+            - paragraph [ref=e66]
+            - paragraph [ref=e67]: In addition to premium healthcare benefits (medical, dental, vision), we also offer fertility benefits and a monthly wellness stipend to all of our employees.
+          - link "Apply for this Job" [ref=e68] [cursor=pointer]:
+            - /url: /exa/5cb04a48-ebd3-400a-9198-a4e6c9b12a75/application
+            - button "Apply for this Job" [ref=e69]
+  - contentinfo [ref=e70]:
+    - link "Learn more about Ashby" [ref=e71] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e72]: Powered by
+      - img "Ashby" [ref=e73]
+    - paragraph [ref=e79]:
+      - link "Privacy Policy" [ref=e80] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e81] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e82] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

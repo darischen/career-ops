@@ -1,0 +1,151 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Netic" [ref=e6] [cursor=pointer]:
+        - /url: https://www.netic.ai/
+        - img "Netic" [ref=e7]
+    - link "Back to Netic’s Job Listings" [ref=e8] [cursor=pointer]:
+      - /url: https://www.netic.ai/company#open-roles
+      - img [ref=e9]
+    - listitem
+  - generic [ref=e11]:
+    - heading "Machine Learning Engineer, New Grad" [level=1] [ref=e13]
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - heading "Location" [level=2] [ref=e17]
+          - paragraph [ref=e18]: San Francisco
+        - generic [ref=e19]:
+          - heading "Employment Type" [level=2] [ref=e20]
+          - paragraph [ref=e21]: Full time
+        - generic [ref=e22]:
+          - heading "Location Type" [level=2] [ref=e23]
+          - paragraph [ref=e24]: On-site
+        - generic [ref=e25]:
+          - heading "Department" [level=2] [ref=e26]
+          - paragraph [ref=e27]: University
+      - generic [ref=e28]:
+        - tablist [ref=e29]:
+          - tab "Overview" [ref=e30] [cursor=pointer]
+          - tab "Application" [selected] [ref=e31] [cursor=pointer]
+        - tabpanel "Application" [ref=e102]:
+          - generic [ref=e103]:
+            - button "Choose File" [ref=e104]
+            - generic [ref=e106]:
+              - generic [ref=e107]:
+                - img [ref=e109]
+                - heading "Autofill from resume" [level=3] [ref=e111]
+              - paragraph [ref=e112]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e114] [cursor=pointer]
+          - generic [ref=e116]:
+            - generic [ref=e117]:
+              - generic [ref=e118]: Name*
+              - textbox "Name*" [ref=e120] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e121]:
+              - generic [ref=e122]: Email*
+              - textbox "Email*" [ref=e124] [cursor=pointer]:
+                - /placeholder: hello@example.com...
+            - generic [ref=e125]:
+              - generic [ref=e126]: LinkedIn*
+              - textbox "LinkedIn*" [ref=e128] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e129]:
+              - generic [ref=e130]: Github
+              - textbox "Github" [ref=e132] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e133]:
+              - generic [ref=e134]: Resume*
+              - button "Resume*" [ref=e135]
+              - generic [ref=e136]:
+                - button "Upload File" [ref=e137] [cursor=pointer]:
+                  - img [ref=e138]
+                  - generic [ref=e140]: Upload File
+                - paragraph [ref=e141]: or drag and drop here
+            - generic [ref=e142]:
+              - generic [ref=e143]: Phone Number*
+              - textbox "Phone Number*" [ref=e144] [cursor=pointer]:
+                - /placeholder: 1-415-555-1234...
+            - generic [ref=e145]:
+              - generic [ref=e146]: Location*
+              - generic [ref=e147]:
+                - combobox "Start typing..." [ref=e148] [cursor=pointer]
+                - button [ref=e149] [cursor=pointer]:
+                  - img [ref=e150]
+            - generic [ref=e152]:
+              - generic [ref=e153]: When can you start a new role?*
+              - textbox "Pick date..." [ref=e156] [cursor=pointer]
+            - generic [ref=e157]:
+              - generic [ref=e158]: Are you able to work from our SF office five days per week?*
+              - generic [ref=e159]:
+                - button "Yes" [ref=e160] [cursor=pointer]
+                - button "No" [ref=e161] [cursor=pointer]
+            - generic [ref=e162]:
+              - generic [ref=e163]: What's the most interesting paper, blog post, or documentation you've read in the past month?*
+              - textbox "What's the most interesting paper, blog post, or documentation you've read in the past month?*" [ref=e164] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e165]:
+              - generic [ref=e166]: What percentage of time do you generally enjoy spending coding?*
+              - textbox "What percentage of time do you generally enjoy spending coding?*" [ref=e168] [cursor=pointer]:
+                - /placeholder: Type here...
+            - group [ref=e169]:
+              - generic [ref=e170]: What technical domain do you prefer to work in and have most expertise with?*
+              - generic [ref=e171]:
+                - radio "Front End" [ref=e174] [cursor=pointer]
+                - generic [ref=e175]: Front End
+              - generic [ref=e176]:
+                - radio "Full Stack" [ref=e179] [cursor=pointer]
+                - generic [ref=e180]: Full Stack
+              - generic [ref=e181]:
+                - radio "Back End" [ref=e184] [cursor=pointer]
+                - generic [ref=e185]: Back End
+              - generic [ref=e186]:
+                - radio "Infrastructure" [ref=e189] [cursor=pointer]
+                - generic [ref=e190]: Infrastructure
+              - generic [ref=e191]:
+                - radio "Database Operations / SRE" [ref=e194] [cursor=pointer]
+                - generic [ref=e195]: Database Operations / SRE
+              - generic [ref=e196]:
+                - radio "Low-Level Systems Development" [ref=e199] [cursor=pointer]
+                - generic [ref=e200]: Low-Level Systems Development
+              - generic [ref=e201]:
+                - radio "Distributed Systems" [ref=e204] [cursor=pointer]
+                - generic [ref=e205]: Distributed Systems
+              - generic [ref=e206]:
+                - radio "AI / ML" [ref=e209] [cursor=pointer]
+                - generic [ref=e210]: AI / ML
+            - generic [ref=e211]:
+              - generic [ref=e212]: What are your compensation expectations for this role?
+              - textbox "What are your compensation expectations for this role?" [ref=e214] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e215]:
+              - generic [ref=e216]: Additional Information
+              - paragraph [ref=e218]: Please share anything else you want us to know, such as your motivation to apply or additional context for your application.
+              - textbox "Additional Information" [ref=e219] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e220]:
+              - generic [ref=e221]: Will you now or in the future require sponsorship for employment visa status in the United States?*
+              - paragraph [ref=e223]: We may provide immigration and sponsorship support to new employees based on their unique circumstances.
+              - generic [ref=e224]:
+                - button "Yes" [ref=e225] [cursor=pointer]
+                - button "No" [ref=e226] [cursor=pointer]
+            - generic [ref=e227]:
+              - generic [ref=e228]: Are you over the age of 18?*
+              - generic [ref=e229]:
+                - button "Yes" [ref=e230] [cursor=pointer]
+                - button "No" [ref=e231] [cursor=pointer]
+          - button "Submit Application" [ref=e232] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e233]
+  - contentinfo [ref=e89]:
+    - link "Learn more about Ashby" [ref=e90] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e91]: Powered by
+      - img "Ashby" [ref=e92]
+    - paragraph [ref=e98]:
+      - link "Privacy Policy" [ref=e99] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e100] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e101] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

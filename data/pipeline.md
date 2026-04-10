@@ -4,7 +4,7 @@ Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` 
 
 ## Pending
 
-(None - all 10 URLs processed on 2026-04-08)
+(All 53 pending URLs processed on 2026-04-09)
 
 ## Processed (2026-04-08)
 

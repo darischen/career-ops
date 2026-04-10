@@ -6,7 +6,9 @@ This file defines your personal narrative, role archetypes, and proof points for
 
 ## Professional Narrative
 
-**Headline:** New grad engineer (San Diego) with full-stack abstraction mastery (physics → pseudocode)
+**Headline:** New grad engineer with full-stack abstraction mastery (physics → pseudocode). Willing to relocate anywhere in the US.
+
+**Location:** San Diego-based, but willing to relocate anywhere in the US with or without relocation assistance.
 
 **Superpower:** I've worked across every level of abstraction in tech:
 - **Bottom:** Physics, electrical engineering, analog circuits, op-amps, microwave modules (HB100 radar)

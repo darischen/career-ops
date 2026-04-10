@@ -1,0 +1,329 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Airtable Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://airtable.com
+        - img "Airtable Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/airtable
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e13]: New
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - heading "Software Engineer" [level=1] [ref=e16]
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e20]: New York, NY
+          - button "Apply" [ref=e21] [cursor=pointer]
+        - generic [ref=e22]:
+          - paragraph [ref=e24]: Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done.
+          - generic [ref=e25]:
+            - paragraph [ref=e26]: As a Software Engineer at Airtable, you will have the opportunity to work with customers to deeply understand their needs and workflows. You will collaborate with cross-functional partners across product management and design to create innovative new features that enable our customers to do their best work. You will be responsible for owning and executing the end-to-end implementation of these new features that will contribute to making our toolkit even more powerful and successful.
+            - paragraph [ref=e27]:
+              - strong [ref=e28]:
+                - emphasis [ref=e29]: "Please note: while we employ a hybrid working model at Airtable (flexible in working from the office or elsewhere), we are only hiring in the following locations at this time:"
+            - list [ref=e30]:
+              - listitem [ref=e31]:
+                - strong [ref=e32]:
+                  - emphasis [ref=e33]: Based in the San Francisco Bay Area and are open to coming into our office (Embarcadero) at least ~2-3 times/week for team collaboration
+              - listitem [ref=e34]:
+                - strong [ref=e35]:
+                  - emphasis [ref=e36]: Based in New York City and are open to coming into our office (Soho) at least ~2-3 times/week for team collaboration
+              - listitem [ref=e37]:
+                - strong [ref=e38]:
+                  - emphasis [ref=e39]: Based remotely in the greater Seattle area
+            - heading "What you'll do" [level=1] [ref=e40]:
+              - strong [ref=e41]: What you'll do
+            - list [ref=e42]:
+              - listitem [ref=e43]: Spec and build product features that are beautiful, consistent, and fast, that encourage exploration, and that earn the trust of our customers through predictable, reliable, and thoughtful interactions.
+              - listitem [ref=e44]: Work at all levels of the stack, from AWS, Node.js, and SQL to React and HTML to build and maintain end-to-end products on Airtable.
+              - listitem [ref=e45]: Partner with product managers and designers to understand the needs of potential users and build a product that unlocks their potential.
+              - listitem [ref=e46]: Design and implement maintainable APIs, implement complex business logic by building backend systems, and build products that are intuitive and useful.
+            - heading "Who you are" [level=1] [ref=e47]:
+              - strong [ref=e48]: Who you are
+            - list [ref=e49]:
+              - listitem [ref=e50]: You have a Bachelor's degree, or foreign equivalent, in Computer Science, Engineering (any field), or closely related quantitative discipline, and two (2) years of experience in the job offered or in any occupation in a related field.
+              - listitem [ref=e51]: "You have these skills: (1) Node.js; (2) SQL; (3) SQS; (4) Git; (5) JavaScript; (6) React and HTML; (7) Scala; (8) Kafka; (9) Java; (10) Python; (11) Rust; (12) AWS; (13) DynamoDB; and (14) AWS Lambda."
+              - listitem [ref=e52]: Any suitable combination of education, training and experience is acceptable. Experience can be gained through coursework, scholastic achievement, or work experience.
+              - listitem [ref=e53]: Part-time telecommuting is an option. Hybrid work from Airtable's offices in New York, NY.
+            - paragraph [ref=e54]: Submit resume with references using the apply button on this posting
+            - paragraph [ref=e55]:
+              - text: Airtable is an equal opportunity employer. We embrace diversity and strive to create a workplace where everyone has an equal opportunity to thrive. We welcome people of different backgrounds, experiences, abilities, and perspectives. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status or any characteristic protected by applicable federal and state laws, regulations and ordinances. Learn more about your
+              - link "EEO rights as an applicant" [ref=e56] [cursor=pointer]:
+                - /url: https://drive.google.com/file/d/1jAj2by1bto5g8Xqn9hWNAwPOMGNd_fM6/view?usp=sharing
+              - strong [ref=e57]: .
+            - paragraph [ref=e58]: VEVRAA-Federal Contractor
+            - paragraph [ref=e59]:
+              - text: If you have a medical condition, disability, or religious belief/practice which inhibits your ability to participate in any part of the application or interview process, please complete our
+              - link "Accommodations Request Form" [ref=e60] [cursor=pointer]:
+                - /url: https://airtable.com/shrq13fCV8h1sx2t8
+              - text: and let us know how we may assist you. Airtable is committed to participating in the interactive process and providing reasonable accommodations to qualified applicants.
+            - paragraph [ref=e61]: "#LI-DNI"
+          - generic [ref=e63]:
+            - generic [ref=e66]:
+              - separator [ref=e67]
+              - paragraph [ref=e68]: Compensation awarded to successful candidates will vary based on their work location, relevant skills, and experience.
+              - paragraph [ref=e69]:
+                - generic [ref=e72]: Our total compensation package also includes the opportunity to receive benefits, restricted stock units, and may include incentive compensation.
+                - generic [ref=e75]: To learn more about our comprehensive benefit offerings, please check out
+                - link "Life at Airtable" [ref=e76] [cursor=pointer]:
+                  - /url: https://airtable.com/careers/life-at-airtable
+                  - generic [ref=e78]: Life at Airtable
+                - generic [ref=e80]: .
+            - paragraph [ref=e81]: "For work locations in the San Francisco Bay Area, Seattle, New York City, and Los Angeles, the base salary range for this role is:"
+            - paragraph [ref=e82]: $170,000 - $221,450 USD
+          - generic [ref=e83]:
+            - paragraph [ref=e84]:
+              - text: Please see our Privacy Notice for details regarding Airtable’s collection and use of personal data relating to the application and recruitment process by clicking
+              - link "here" [ref=e85] [cursor=pointer]:
+                - /url: https://drive.google.com/file/d/1fKEf0G59m8RT2ZaOJyxoqQ3kW3oUaxhZ/view
+              - text: .
+              - text: For applicants that live in or have a link to Australia, please see this
+              - link "Privacy Collection Statement" [ref=e86] [cursor=pointer]:
+                - /url: https://www.airtable.com/company/job-application-privacy-statement
+              - text: for details regarding Airtable's collection and use of personal data relating to the application and recruitment process.
+            - paragraph [ref=e87]:
+              - text: 🔒
+              - strong [ref=e88]: Stay Safe from Job Scams
+              - text: All official Airtable communication will come from an
+              - strong [ref=e89]: "@airtable.com"
+              - text: email address. We will never ask you to share sensitive information or purchase equipment during the hiring process. If in doubt, contact us at
+              - link "hr@airtable.com" [ref=e90] [cursor=pointer]:
+                - /url: mailto:hr@airtable.com
+              - text: . Learn more about avoiding job scams
+              - link "here" [ref=e91] [cursor=pointer]:
+                - /url: https://consumer.ftc.gov/consumer-alerts/2022/05/want-work-home-spot-scams-first
+              - text: .
+        - generic [ref=e92]:
+          - img [ref=e93]
+          - generic [ref=e95]:
+            - paragraph [ref=e96]: Create a Job Alert
+            - paragraph [ref=e97]: Interested in building your career at Airtable? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e98] [cursor=pointer]
+      - separator [ref=e99]
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - generic [ref=e102]:
+            - heading "Apply for this job" [level=2] [ref=e104]
+            - generic [ref=e105]:
+              - paragraph [ref=e107]: "*"
+              - paragraph [ref=e108]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e111] [cursor=pointer]
+        - generic [ref=e112]:
+          - generic [ref=e113]:
+            - generic [ref=e116]:
+              - generic [ref=e117]: First Name*
+              - textbox "First Name" [ref=e118]
+            - generic [ref=e121]:
+              - generic [ref=e122]: Last Name*
+              - textbox "Last Name" [ref=e123]
+            - generic [ref=e126]:
+              - generic [ref=e127]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e128]
+            - generic [ref=e131]:
+              - generic [ref=e132]: Email*
+              - textbox "Email" [ref=e133]
+            - group "Phone" [ref=e135]:
+              - generic [ref=e136]: Phone
+              - generic [ref=e139]:
+                - generic [ref=e140]: Country*
+                - generic [ref=e141]:
+                  - log [ref=e143]
+                  - generic [ref=e145]:
+                    - combobox "Country" [ref=e148]
+                    - button "Toggle flyout" [ref=e150] [cursor=pointer]:
+                      - img [ref=e151]
+                  - textbox
+              - generic [ref=e155]:
+                - generic [ref=e156]: Phone*
+                - textbox "Phone" [ref=e157]
+            - group "Resume/CV*" [ref=e159]:
+              - generic [ref=e160]: Resume/CV*
+              - generic [ref=e162]:
+                - generic [ref=e164]:
+                  - button "Attach" [ref=e165] [cursor=pointer]
+                  - generic [ref=e166]: Attach
+                  - button "Attach" [ref=e167]
+                - button "Dropbox" [ref=e169] [cursor=pointer]
+                - button "Google Drive" [ref=e171] [cursor=pointer]
+                - generic [ref=e173]:
+                  - button "Enter manually" [ref=e174] [cursor=pointer]
+                  - generic [ref=e175]: Enter manually
+                - paragraph [ref=e176]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e178]:
+              - generic [ref=e179]: Cover Letter
+              - generic [ref=e181]:
+                - generic [ref=e183]:
+                  - button "Attach" [ref=e184] [cursor=pointer]
+                  - generic [ref=e185]: Attach
+                  - button "Attach" [ref=e186]
+                - button "Dropbox" [ref=e188] [cursor=pointer]
+                - button "Google Drive" [ref=e190] [cursor=pointer]
+                - generic [ref=e192]:
+                  - button "Enter manually" [ref=e193] [cursor=pointer]
+                  - generic [ref=e194]: Enter manually
+                - paragraph [ref=e195]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e196]:
+            - separator [ref=e197]
+            - generic [ref=e200]:
+              - generic [ref=e201]: Are you currently 1) based in San Francisco Bay Area/New York City and willing to come into the NYC Airtable office 2-3x per week or 2) based out of Seattle?*
+              - generic [ref=e202]:
+                - log [ref=e204]
+                - generic [ref=e206]:
+                  - generic [ref=e207]:
+                    - generic [ref=e208]: Select...
+                    - combobox "Are you currently 1) based in San Francisco Bay Area/New York City and willing to come into the NYC Airtable office 2-3x per week or 2) based out of Seattle?" [ref=e210]
+                  - button "Toggle flyout" [ref=e212] [cursor=pointer]:
+                    - img [ref=e213]
+                - textbox
+            - generic [ref=e217]:
+              - generic [ref=e218]: "If you are not based out of the SFBA/NYC/Seattle, please answer the following: 1) Where you are currently located? 2) Would you be willing to relocate? (This is required for our open positions - see job description for team specific locations) (Please note if you are already actively looking to relocate to NYC).*"
+              - 'textbox "If you are not based out of the SFBA/NYC/Seattle, please answer the following: 1) Where you are currently located? 2) Would you be willing to relocate? (This is required for our open positions - see job description for team specific locations) (Please note if you are already actively looking to relocate to NYC)." [ref=e219]'
+            - generic [ref=e222]:
+              - generic [ref=e223]: At a high level (3-5 sentences), please describe the most recent user-facing product feature you have led or built.*
+              - textbox "At a high level (3-5 sentences), please describe the most recent user-facing product feature you have led or built." [ref=e224]
+            - generic [ref=e227]:
+              - generic [ref=e228]: Where is your ideal next role within the stack?*
+              - textbox "Where is your ideal next role within the stack?" [ref=e229]
+            - generic [ref=e232]:
+              - generic [ref=e233]: Will you now or in the future require sponsorship to extend your current work authorization status or to obtain a new work authorization status? (ex. H-1B transfers)*
+              - generic [ref=e234]:
+                - log [ref=e236]
+                - generic [ref=e238]:
+                  - generic [ref=e239]:
+                    - generic [ref=e240]: Select...
+                    - combobox "Will you now or in the future require sponsorship to extend your current work authorization status or to obtain a new work authorization status? (ex. H-1B transfers)" [ref=e242]
+                  - button "Toggle flyout" [ref=e244] [cursor=pointer]:
+                    - img [ref=e245]
+                - textbox
+            - generic [ref=e247]:
+              - generic [ref=e249]:
+                - generic [ref=e250]: How are you using AI today in your current role? If applicable, show us your last AI experiment.*
+                - textbox "How are you using AI today in your current role? If applicable, show us your last AI experiment." [ref=e251]
+              - paragraph [ref=e254]:
+                - emphasis [ref=e255]: Share how you currently use AI in your work. If you have a project to showcase, feel free to describe it and include a link (e.g., Google Drive, Loom, GitHub, etc). Make sure your sharing settings allow access.
+            - generic [ref=e256]:
+              - 'group "Optional: Upload your AI example." [ref=e257]':
+                - generic [ref=e258]: "Optional: Upload your AI example."
+                - generic [ref=e260]:
+                  - generic [ref=e262]:
+                    - button "Attach" [ref=e263] [cursor=pointer]
+                    - generic [ref=e264]: Attach
+                    - button "Attach" [ref=e265]
+                  - button "Dropbox" [ref=e267] [cursor=pointer]
+                  - button "Google Drive" [ref=e269] [cursor=pointer]
+                  - paragraph [ref=e270]: "Accepted file types: pdf, doc, docx, txt, rtf"
+              - paragraph [ref=e273]:
+                - emphasis [ref=e274]: This field is completely optional. If you’d like to share a supporting example of your AI work (such as a PDF, screenshot, or presentation), you can upload it here.
+            - generic [ref=e277]:
+              - generic [ref=e278]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e279]
+          - generic [ref=e280]:
+            - separator [ref=e281]
+            - generic [ref=e282]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e283]
+              - paragraph [ref=e284]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e285]: As set forth in Airtable’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e288]:
+              - generic [ref=e289]: Gender
+              - generic [ref=e290]:
+                - log [ref=e292]
+                - generic [ref=e294]:
+                  - generic [ref=e295]:
+                    - generic [ref=e296]: Select...
+                    - combobox "Gender" [ref=e298]
+                  - button "Toggle flyout" [ref=e300] [cursor=pointer]:
+                    - img [ref=e301]
+            - generic [ref=e303]:
+              - generic [ref=e305]:
+                - generic [ref=e306]: Are you Hispanic/Latino?
+                - generic [ref=e307]:
+                  - log [ref=e309]
+                  - generic [ref=e311]:
+                    - generic [ref=e312]:
+                      - generic [ref=e313]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e315]
+                    - button "Toggle flyout" [ref=e317] [cursor=pointer]:
+                      - img [ref=e318]
+              - link "Race & Ethnicity Definitions" [ref=e320] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e321]:
+              - paragraph [ref=e322]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e323]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e324]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e325]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e326]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e329]:
+              - generic [ref=e330]: Veteran Status
+              - generic [ref=e331]:
+                - log [ref=e333]
+                - generic [ref=e335]:
+                  - generic [ref=e336]:
+                    - generic [ref=e337]: Select...
+                    - combobox "Veteran Status" [ref=e339]
+                  - button "Toggle flyout" [ref=e341] [cursor=pointer]:
+                    - img [ref=e342]
+            - separator [ref=e344]
+            - generic [ref=e345]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e346]
+              - generic [ref=e347]:
+                - generic [ref=e348]:
+                  - generic [ref=e349]: Form CC-305
+                  - generic [ref=e350]: Page 1 of 1
+                - generic [ref=e351]:
+                  - generic [ref=e352]: OMB Control Number 1250-0005
+                  - generic [ref=e353]: Expires 04/30/2026
+              - strong [ref=e354]: Why are you being asked to complete this form?
+              - paragraph [ref=e355]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e356]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e357] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e358]: How do you know if you have a disability?
+              - paragraph [ref=e359]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e360]: "Disabilities include, but are not limited to:"
+              - list [ref=e361]:
+                - listitem [ref=e362]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e363]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e364]: Blind or low vision
+                - listitem [ref=e365]: Cancer (past or present)
+                - listitem [ref=e366]: Cardiovascular or heart disease
+                - listitem [ref=e367]: Celiac disease
+                - listitem [ref=e368]: Cerebral palsy
+                - listitem [ref=e369]: Deaf or serious difficulty hearing
+                - listitem [ref=e370]: Diabetes
+                - listitem [ref=e371]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e372]: Epilepsy or other seizure disorder
+                - listitem [ref=e373]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e374]: Intellectual or developmental disability
+                - listitem [ref=e375]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e376]: Missing limbs or partially missing limbs
+                - listitem [ref=e377]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e378]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e379]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e380]: Partial or complete paralysis (any cause)
+                - listitem [ref=e381]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e382]: Short stature (dwarfism)
+                - listitem [ref=e383]: Traumatic brain injury
+            - generic [ref=e386]:
+              - generic [ref=e387]: Disability Status
+              - generic [ref=e388]:
+                - log [ref=e390]
+                - generic [ref=e392]:
+                  - generic [ref=e393]:
+                    - generic [ref=e394]: Select...
+                    - combobox "Disability Status" [ref=e396]
+                  - button "Toggle flyout" [ref=e398] [cursor=pointer]:
+                    - img [ref=e399]
+            - paragraph [ref=e402]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e404] [cursor=pointer]
+  - contentinfo [ref=e405]:
+    - generic [ref=e406]:
+      - paragraph [ref=e407]: Powered by
+      - link "Greenhouse logo" [ref=e408] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e409]

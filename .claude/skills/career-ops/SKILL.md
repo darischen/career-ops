@@ -27,10 +27,26 @@ Determine the mode from `{{mode}}`:
 | `apply` | `apply` |
 | `scan` | `scan` |
 | `batch` | `batch` |
+| `resume` | `resume` -- Smart resume selector |
 
 **Auto-pipeline detection:** If `{{mode}}` is not a known sub-command AND contains JD text (keywords: "responsibilities", "requirements", "qualifications", "about the role", "we're looking for", company name + role) or a URL to a JD, execute `auto-pipeline`.
 
 If `{{mode}}` is not a sub-command AND doesn't look like a JD, show discovery.
+
+---
+
+## Mode Execution — Strict Specification
+
+**Modes in `modes/*.md` are specifications, not guidelines. Execute them exactly as written.**
+
+- Follow steps in order. Do not reorder.
+- Match output format precisely. Do not add context or explanations unless the mode explicitly asks.
+- Output to the specified destination (terminal vs essay.txt vs file). Do not deviate.
+- Do not interpret or assume what "would be helpful" — follow the spec.
+
+This matters because the modes are optimized through experience. Deviations break the workflow, add noise, and undermine the system's predictability.
+
+**Exception:** If a mode has ambiguity or conflicts with current state, flag it to the user instead of improvising.
 
 ---
 
@@ -86,5 +102,26 @@ Agent(
   description="career-ops {mode}"
 )
 ```
+
+**IMPORTANT for pipeline mode:** Include `modes/pdf.md` content in the subagent prompt. For each evaluated offer with score >= 3.0, PDF generation is MANDATORY. The subagent must execute the complete PDF pipeline (extract keywords, rewrite summary, generate HTML, run generate-pdf.mjs) for each offer. Do not skip PDF generation.
+
+**IMPORTANT for apply mode:** 
+
+YOU MUST OUTPUT THE RESUME RECOMMENDATION IN THE EXACT FORMAT SPECIFIED IN modes/apply.md. This includes the "Why This Resume" section. Do not deviate from this format. YOU MUST ALSO OUTPUT THE SCORE FOR EACH RESUME RECOMMENDATION. The score should be based on the match between the JD and the content of the resume, with a focus on relevance to the role's responsibilities and requirements. YOU MUST ALSO SAY IF YOU HAD TO READ THE FILE IN DOWNLOADS TO MAKE THE RECOMMENDATION. If you had to read the file, include a note in the "Why This Resume" section explaining that the recommendation was based on the content of the resume file. IF SCORES ARE WITHIN 10 POINTS, YOU MUST READ THE FILE AND OPEN IT FOR THE ANALYSIS. If one resume has a score that is more than 10 points higher than the other, you can make the recommendation based on the content of the CVs without reading the file.
+FIND THE FILES AT 
+C:\Users\daris\Downloads\DarisChenResumeAI.pdf
+C:\Users\daris\Downloads\DarisChenResumeEE.pdf
+C:\Users\daris\Downloads\DarisChenResumeSWE.pdf
+C:\Users\daris\Downloads\DarisChenResumeWD.pdf
+
+
+WRITING RULES (ENFORCED):
+1. **NO em dashes (—) anywhere.** Replace all "X — Y" with "X. Y" or "X, so Y". 
+2. **NO colons (:) in essay prose.** Replace all "X: Y" with "X. Y" or restructure to "The Y that X" or similar.
+3. **NO "it's not X, it's Y" structure.** Reframe positively. Instead of "It's not just research", write "My work drives impact by combining research and shipping."
+
+These rules apply to ALL generated text (cover letters, form answers, additional info, interview prep).
+
+At the end of the message, always output the CSV at the end. Format: `{Company},{Title},Career Ops,,,,{ResumType}`. ResumType is detected from JD keywords: AI (agent/llm/model/neural/multimodal/rag) | EE (hardware/fpga/circuit/verilog/embedded) | WD (react/frontend/web/next.js/typescript/css) | SWE (default). For batch (multiple offers), output one CSV line per offer.
 
 Execute the instructions from the loaded mode file.

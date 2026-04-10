@@ -1,0 +1,108 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Netic" [ref=e6] [cursor=pointer]:
+        - /url: https://www.netic.ai/
+        - img "Netic" [ref=e7]
+    - link "Back to Netic’s Job Listings" [ref=e8] [cursor=pointer]:
+      - /url: https://www.netic.ai/company#open-roles
+      - img [ref=e9]
+    - listitem
+  - generic [ref=e11]:
+    - heading "Machine Learning Engineer, New Grad" [level=1] [ref=e13]
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - heading "Location" [level=2] [ref=e17]
+          - paragraph [ref=e18]: San Francisco
+        - generic [ref=e19]:
+          - heading "Employment Type" [level=2] [ref=e20]
+          - paragraph [ref=e21]: Full time
+        - generic [ref=e22]:
+          - heading "Location Type" [level=2] [ref=e23]
+          - paragraph [ref=e24]: On-site
+        - generic [ref=e25]:
+          - heading "Department" [level=2] [ref=e26]
+          - paragraph [ref=e27]: University
+      - generic [ref=e28]:
+        - tablist [ref=e29]:
+          - tab "Overview" [selected] [ref=e30] [cursor=pointer]
+          - tab "Application" [ref=e31] [cursor=pointer]
+        - tabpanel "Overview" [ref=e33]:
+          - generic [ref=e34]:
+            - paragraph [ref=e35]: Netic is the AI revenue engine for essential services who are the backbone of the American economy.
+            - paragraph [ref=e36]:
+              - strong [ref=e37]: With $43M in funding from Founders Fund, Greylock, Hanabi, and Dylan Field who led our Series B, we helped our customers book hundreds of thousands of jobs across services industries in North America.
+              - text: There are now companies operating entirely AI-first on Netic.
+            - paragraph [ref=e38]: You’ll join our team with relentless builders from Scale, Databricks, HRT, Meta, MIT, Stanford, and Harvard in bringing frontier AI to the physical economy, where the problems are hard, the data is complex, and the impact is immediate and tangible.
+            - paragraph [ref=e39]: At Netic, we build features that put AI in the hands of real businesses. As an new grad, you'll have a dedicated mentor to guide you through the end-to-end process of supporting customers, shipping features, and iterating quickly.
+            - paragraph [ref=e40]
+            - paragraph [ref=e41]: New grads are expected to start in Summer of 2026 or earlier.
+            - paragraph [ref=e42]
+            - paragraph [ref=e43]:
+              - strong [ref=e44]: "What You'll Do:"
+            - list [ref=e45]:
+              - listitem [ref=e46]:
+                - paragraph [ref=e47]:
+                  - strong [ref=e48]: "Develop models:"
+                  - text: Design, code, and ship full-stack models for Netic's AI platform, tackling everything from evals to insights.
+              - listitem [ref=e49]:
+                - paragraph [ref=e50]:
+                  - strong [ref=e51]: "Own projects end-to-end:"
+                  - text: Drive projects from spec to production, handling data models, APIs, fine-tuning, and post‑launch iteration.
+              - listitem [ref=e52]:
+                - paragraph [ref=e53]:
+                  - strong [ref=e54]: "Co‑create with customers:"
+                  - text: Work closely with our customers to understand workflows, gather feedback, and turn pain points into features that stick.
+            - paragraph [ref=e55]
+            - paragraph [ref=e56]:
+              - strong [ref=e57]: "What You'll Learn:"
+            - list [ref=e58]:
+              - listitem [ref=e59]:
+                - paragraph [ref=e60]:
+                  - strong [ref=e61]: "AI experience:"
+                  - text: You'll be hands‑on with LLMs, working with state of the art models and infra.
+              - listitem [ref=e62]:
+                - paragraph [ref=e63]:
+                  - strong [ref=e64]: "Product and operations collaboration:"
+                  - text: You'll work daily with folks from other functions to learn how best to apply ML concepts to drive real impact.
+              - listitem [ref=e65]:
+                - paragraph [ref=e66]:
+                  - strong [ref=e67]: "Founder‑level ownership:"
+                  - text: You'll see what it takes to run a successful startup, balancing scrappiness with creativity and technical excellence.
+            - paragraph [ref=e68]
+            - paragraph [ref=e69]:
+              - text: We believe fulfillment comes from producing your best work with the smartest people together in one room.
+              - strong [ref=e70]: All roles are in person, in SF (our office is in Jackson Square).
+              - text: "What brings us together is our commitment to:"
+            - list [ref=e71]:
+              - listitem [ref=e72]:
+                - paragraph [ref=e73]: Live to build
+              - listitem [ref=e74]:
+                - paragraph [ref=e75]: Run through walls and win
+              - listitem [ref=e76]:
+                - paragraph [ref=e77]: Obsess over customers in each line of code
+              - listitem [ref=e78]:
+                - paragraph [ref=e79]: Lose sleep over the "almost perfect"
+              - listitem [ref=e80]:
+                - paragraph [ref=e81]: Show internal locus of control
+              - listitem [ref=e82]:
+                - paragraph [ref=e83]: "Prioritize finesse: refinement of first principles thinking, execution, and craftsmanship"
+            - paragraph [ref=e84]
+            - paragraph [ref=e85]:
+              - emphasis [ref=e86]: We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status.
+          - link "Apply for this Job" [ref=e87] [cursor=pointer]:
+            - /url: /netic/f645d611-ae5f-40cc-bfa8-613286060a76/application
+            - button "Apply for this Job" [ref=e88]
+  - contentinfo [ref=e89]:
+    - link "Learn more about Ashby" [ref=e90] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e91]: Powered by
+      - img "Ashby" [ref=e92]
+    - paragraph [ref=e98]:
+      - link "Privacy Policy" [ref=e99] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e100] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e101] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

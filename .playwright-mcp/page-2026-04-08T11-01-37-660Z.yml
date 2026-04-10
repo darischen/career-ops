@@ -1,0 +1,269 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "Tenable, Inc. Logo" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - heading "Product Solutions Engineer - OT" [level=1] [ref=e10]
+            - generic [ref=e11]:
+              - img [ref=e12]
+              - generic [ref=e14]: Israel - Office - Tel Aviv
+          - button "Apply" [ref=e15] [cursor=pointer]
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - paragraph [ref=e18]:
+              - strong [ref=e19]: Who is Tenable?
+            - paragraph [ref=e20]: Tenable® is the Exposure Management company. 44,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 45 percent of the Global 2000, and large government agencies. Come be part of our journey!
+            - paragraph [ref=e21]:
+              - strong [ref=e22]: What makes Tenable such a great place to work?
+            - paragraph [ref=e23]: "Ask a member of our team and they’ll answer, “Our people!” We work together to build and innovate best-in-class cybersecurity solutions for our customers; all while creating a culture of belonging, respect, and excellence where we can be our best selves. When you’re part of our #OneTenable team, you can expect to partner with some of the most talented and passionate people in the industry, and have the support and resources you need to do work that truly matters. We deliver results that exceed expectations and we win together!"
+          - generic [ref=e24]:
+            - generic [ref=e26]:
+              - generic [ref=e27]:
+                - paragraph [ref=e28]: "Your Role:"
+                - paragraph [ref=e29]:
+                  - text: Tenable OT Security was established through the acquisition of a pioneering Israeli cybersecurity startup, marking a major milestone in Tenable’s mission to
+                  - text: provide proactive security for the world's most sensitive environments. Our solution offers critical visibility and risk management for Industrial Control Systems (ICS/SCADA), protecting essential infrastructures such as power plants, manufacturing floors, and smart buildings. While traditionally an on-premises solution designed to ensure operational continuity and prevent costly downtime, we are now evolving our technology to deliver market-leading risk visibility through advanced architectures and AI-driven capabilities. By combining deep on-premises expertise with proactive AI insights, we empower organizations to identify threats and network anomalies before any damage occurs.
+                  - generic [ref=e30]: "Your Opportunity:"
+                - list [ref=e31]:
+                  - listitem [ref=e32]: "Operates as a Product Solutions Engineer with a dual-expert skillset: deep L2-L7 networking knowledge and the ability to read, write, and debug production code"
+                  - listitem [ref=e33]: Serve as the primary technical bridge between the Product team and strategic customers, focusing 75% on customer-facing engineering initiatives
+                  - listitem [ref=e34]: Diagnose and resolve system issues using scripting, hot-patching, or by implementing long-term solutions within the system code
+                  - listitem [ref=e35]: Act as a liaison between Clients, Support, Sales, and R&D to translate complex customer requirements into engineering specifications
+                  - listitem [ref=e36]: Engineer solutions for unique deployment challenges and integration gaps by developing 3rd party integrations or custom scripts
+                  - listitem [ref=e37]: Leverage expert networking knowledge to troubleshoot complex connectivity issues
+                  - listitem [ref=e38]: Advocate for product features and quality improvements based on field feedback
+              - generic [ref=e39]:
+                - paragraph [ref=e40]:
+                  - generic [ref=e41]: "What You'll Need:"
+                - list [ref=e42]:
+                  - listitem [ref=e43]: 4+ years of technical experience in L2-L7 networking and IT infrastructure, combined with a solid R&D background
+                  - listitem [ref=e44]: Proficiency in reading, writing, and debugging code (Go, Python, Bash, etc.) to "hot patch" issues or build integration glue-code
+                  - listitem [ref=e45]: 2+ years of experience in a customer-facing technical role (e.g., Solutions Architect, TAM, Field Engineer) handling enterprise accounts
+                  - listitem [ref=e46]: Exceptional communication skills with the ability to de-escalate critical situations
+                  - listitem [ref=e47]: Ability to travel occasionally (up to 20%)
+                  - listitem [ref=e48]: Bachelor’s degree in Computer Science, Software Engineering, or a related field
+                  - listitem [ref=e49]: Full professional proficiency in English
+                - paragraph [ref=e50]:
+                  - generic [ref=e51]: "And Ideally:"
+                - list [ref=e52]:
+                  - listitem [ref=e53]: Familiarity with industrial environments (OT) or specialized hardware
+                  - listitem [ref=e54]: Cybersecurity domain expertise with a focus on network-level anomalies
+                  - listitem [ref=e55]: Experience facilitating customer onboarding transitions from Sales to Support
+            - paragraph [ref=e56]: "#LI-VA1 #LI-Office"
+          - generic [ref=e57]:
+            - paragraph [ref=e58]:
+              - emphasis [ref=e59]: We’re committed to promoting Equal Employment Opportunity (EEO) at Tenable - through all equal employment opportunity laws and regulations at the international, federal, state and local levels. If you need a reasonable accommodation due to a disability during the application or recruiting process, please contact
+              - emphasis [ref=e60]:
+                - link "Recruiting@Tenable.com" [ref=e61] [cursor=pointer]:
+                  - /url: mailto:Recruiting@Tenable.com
+              - emphasis [ref=e62]: for further assistance.
+            - separator [ref=e63]
+            - paragraph [ref=e64]:
+              - strong [ref=e65]: Tenable Data Consent Statement
+            - paragraph [ref=e66]:
+              - text: Tenable is committed to protecting the privacy and security of your personal data. This Notice describes how we collect and use your personal data during and after your working relationship with us, in accordance with the General Data Protection Regulation (“GDPR”). Please click
+              - link "here" [ref=e67] [cursor=pointer]:
+                - /url: https://static.tenable.com/content/General_Data_Protection_Regulation-GDPR.pdf
+              - text: to review.
+            - paragraph [ref=e68]:
+              - text: "For California Residents: The California Consumer Privacy Act (CCPA) requires that Tenable advise you of certain rights related to the collection of your private information. Please click"
+              - link "here" [ref=e69] [cursor=pointer]:
+                - /url: https://static.tenable.com/content/California_Consumer_Privacy_Act.pdf
+              - text: to review.
+        - generic [ref=e70]:
+          - img [ref=e71]
+          - generic [ref=e73]:
+            - paragraph [ref=e74]: Create a Job Alert
+            - paragraph [ref=e75]: Interested in building your career at Tenable, Inc.? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e76] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=tenableinc&source=job_alert_post
+      - separator [ref=e77]
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - heading "Apply for this job" [level=2] [ref=e82]
+            - generic [ref=e83]:
+              - paragraph [ref=e85]: "*"
+              - paragraph [ref=e86]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e89] [cursor=pointer]
+        - generic [ref=e90]:
+          - generic [ref=e91]:
+            - generic [ref=e94]:
+              - generic [ref=e95]: First Name*
+              - textbox "First Name" [ref=e96]
+            - generic [ref=e99]:
+              - generic [ref=e100]: Last Name*
+              - textbox "Last Name" [ref=e101]
+            - generic [ref=e104]:
+              - generic [ref=e105]: Email*
+              - textbox "Email" [ref=e106]
+            - group "Phone" [ref=e108]:
+              - generic [ref=e109]: Phone
+              - generic [ref=e112]:
+                - generic [ref=e113]: Country*
+                - generic [ref=e114]:
+                  - log [ref=e116]
+                  - generic [ref=e118]:
+                    - combobox "Country" [ref=e121]
+                    - button "Toggle flyout" [ref=e123] [cursor=pointer]:
+                      - img [ref=e124]
+                  - textbox
+              - generic [ref=e128]:
+                - generic [ref=e129]: Phone*
+                - textbox "Phone" [ref=e131]
+            - generic [ref=e132]:
+              - generic [ref=e134]:
+                - generic [ref=e135]: Location (City)*
+                - generic [ref=e136]:
+                  - log [ref=e138]
+                  - combobox "Location (City)" [ref=e143]
+                  - textbox
+              - button "Locate me" [ref=e144] [cursor=pointer]
+            - group "Resume/CV*" [ref=e146]:
+              - generic [ref=e147]: Resume/CV*
+              - generic [ref=e149]:
+                - generic [ref=e151]:
+                  - button "Attach" [ref=e152] [cursor=pointer]
+                  - generic [ref=e153]: Attach
+                  - button "Attach" [ref=e154]
+                - generic [ref=e156]:
+                  - button "Enter manually" [ref=e157] [cursor=pointer]
+                  - generic [ref=e158]: Enter manually
+                - paragraph [ref=e159]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e161]:
+              - generic [ref=e162]: Cover Letter
+              - generic [ref=e164]:
+                - generic [ref=e166]:
+                  - button "Attach" [ref=e167] [cursor=pointer]
+                  - generic [ref=e168]: Attach
+                  - button "Attach" [ref=e169]
+                - generic [ref=e171]:
+                  - button "Enter manually" [ref=e172] [cursor=pointer]
+                  - generic [ref=e173]: Enter manually
+                - paragraph [ref=e174]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e175]:
+            - separator [ref=e176]
+            - generic [ref=e179]:
+              - generic [ref=e180]: Address Line 1*
+              - textbox "Address Line 1" [ref=e181]
+            - generic [ref=e184]:
+              - generic [ref=e185]: Address Line 2
+              - textbox "Address Line 2" [ref=e186]
+            - generic [ref=e189]:
+              - generic [ref=e190]: Address Line 3
+              - textbox "Address Line 3" [ref=e191]
+            - generic [ref=e194]:
+              - generic [ref=e195]: City*
+              - textbox "City" [ref=e196]
+            - generic [ref=e197]:
+              - generic [ref=e199]:
+                - generic [ref=e200]: Region (State/County/Province)*
+                - textbox "Region (State/County/Province)" [ref=e201]
+              - paragraph [ref=e204]: (Please enter N/A if not applicable)
+            - generic [ref=e205]:
+              - generic [ref=e207]:
+                - generic [ref=e208]: Postal Code/Zip Code*
+                - textbox "Postal Code/Zip Code" [ref=e209]
+              - paragraph [ref=e212]: (Please enter N/A if not applicable)
+            - generic [ref=e215]:
+              - generic [ref=e216]: Country*
+              - generic [ref=e217]:
+                - log [ref=e219]
+                - generic [ref=e221]:
+                  - generic [ref=e222]:
+                    - generic [ref=e223]: Select...
+                    - combobox "Country" [ref=e225]
+                  - button "Toggle flyout" [ref=e227] [cursor=pointer]:
+                    - img [ref=e228]
+                - textbox
+            - generic [ref=e232]:
+              - generic [ref=e233]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e234]
+            - generic [ref=e237]:
+              - generic [ref=e238]: Website
+              - textbox "Website" [ref=e239]
+            - generic [ref=e242]:
+              - generic [ref=e243]: Have you ever previously worked for Tenable?*
+              - generic [ref=e244]:
+                - log [ref=e246]
+                - generic [ref=e248]:
+                  - generic [ref=e249]:
+                    - generic [ref=e250]: Select...
+                    - combobox "Have you ever previously worked for Tenable?" [ref=e252]
+                  - button "Toggle flyout" [ref=e254] [cursor=pointer]:
+                    - img [ref=e255]
+                - textbox
+            - generic [ref=e257]:
+              - generic [ref=e259]:
+                - generic [ref=e260]: Do you agree to Tenable's Background and Reference Check Disclosure, which will be carried out only when necessary and as permitted by law? Background checks will not be performed immediately upon your application submission.*
+                - generic [ref=e261]:
+                  - log [ref=e263]
+                  - generic [ref=e265]:
+                    - generic [ref=e266]:
+                      - generic [ref=e267]: Select...
+                      - combobox "Do you agree to Tenable's Background and Reference Check Disclosure, which will be carried out only when necessary and as permitted by law? Background checks will not be performed immediately upon your application submission." [ref=e269]
+                    - button "Toggle flyout" [ref=e271] [cursor=pointer]:
+                      - img [ref=e272]
+                  - textbox
+              - paragraph [ref=e276]:
+                - text: "For more details about the process:"
+                - text: US applicants, click
+                - link "here" [ref=e277] [cursor=pointer]:
+                  - /url: https://static.tenable.com/content/Tenable_Background_Check_Notice-US.pdf
+                - text: All other applicants, click
+                - link "here" [ref=e278] [cursor=pointer]:
+                  - /url: https://static.tenable.com/content/Tenable_Background_Check_Notice.pdf
+            - generic [ref=e281]:
+              - generic [ref=e282]: Do you have the legal right to work in the country within which you are applying?*
+              - generic [ref=e283]:
+                - log [ref=e285]
+                - generic [ref=e287]:
+                  - generic [ref=e288]:
+                    - generic [ref=e289]: Select...
+                    - combobox "Do you have the legal right to work in the country within which you are applying?" [ref=e291]
+                  - button "Toggle flyout" [ref=e293] [cursor=pointer]:
+                    - img [ref=e294]
+                - textbox
+            - generic [ref=e298]:
+              - generic [ref=e299]: Do you now, or will you in the future, require sponsorship?*
+              - generic [ref=e300]:
+                - log [ref=e302]
+                - generic [ref=e304]:
+                  - generic [ref=e305]:
+                    - generic [ref=e306]: Select...
+                    - combobox "Do you now, or will you in the future, require sponsorship?" [ref=e308]
+                  - button "Toggle flyout" [ref=e310] [cursor=pointer]:
+                    - img [ref=e311]
+                - textbox
+            - generic [ref=e315]:
+              - generic [ref=e316]: Do you have a non-compete, non-disclosure or non-solicitation agreement, or any other post-employment restrictive covenants?*
+              - generic [ref=e317]:
+                - log [ref=e319]
+                - generic [ref=e321]:
+                  - generic [ref=e322]:
+                    - generic [ref=e323]: Select...
+                    - combobox "Do you have a non-compete, non-disclosure or non-solicitation agreement, or any other post-employment restrictive covenants?" [ref=e325]
+                  - button "Toggle flyout" [ref=e327] [cursor=pointer]:
+                    - img [ref=e328]
+                - textbox
+            - generic [ref=e332]:
+              - generic [ref=e333]: If yes, please provide additional details or upload supporting documents when given the opportunity to add attachments.
+              - textbox "If yes, please provide additional details or upload supporting documents when given the opportunity to add attachments." [ref=e334]
+          - separator [ref=e335]
+          - generic [ref=e337]:
+            - paragraph [ref=e339]: We use Greenhouse's AI-powered Talent Matching tool to compare your application against our job requirements.
+            - link "Learn more" [ref=e340] [cursor=pointer]:
+              - /url: http://app8.greenhouse.io/ai_opt_out_request/job_post/5135859008/ai_opt_out
+          - button "Submit application" [ref=e342] [cursor=pointer]
+  - contentinfo [ref=e343]:
+    - generic [ref=e344]:
+      - paragraph [ref=e345]: Powered by
+      - link "Greenhouse logo" [ref=e346] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e347]
+  - iframe [ref=e361]:
+    - generic [ref=f16e6]:
+      - text: protected by
+      - strong [ref=f16e7]: reCAPTCHA

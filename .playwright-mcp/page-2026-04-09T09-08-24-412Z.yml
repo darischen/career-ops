@@ -1,0 +1,67 @@
+- generic [active] [ref=e1]:
+  - link "WeRide.ai logo" [ref=e4] [cursor=pointer]:
+    - /url: https://jobs.lever.co/weride
+    - img "WeRide.ai logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "New Grads 2026 - Software Engineer - Computer Vision" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: San Jose, CA
+          - generic [ref=e14]: Campus Recruiting /
+          - generic [ref=e15]: Full-time /
+          - generic [ref=e16]: On-site
+      - link "apply for this job" [ref=e18] [cursor=pointer]:
+        - /url: https://jobs.lever.co/weride/d87ddf51-0def-436f-a178-135481b88f96/apply
+    - generic [ref=e19]:
+      - generic [ref=e21]: "Established in 2017, WeRide (NASDAQ: WRD) is a leading global commercial-stage company that develops autonomous driving technologies from Level 2 to Level 4. WeRide is the only tech company in the world that holds driverless permits in China, the UAE, Singapore and the US, conducting autonomous driving R&D, tests and operations in over 30 cities of 10 countries around the world. WeRide has operated a self-driving fleet for more than 2,200 days."
+      - generic [ref=e23]:
+        - heading "What you will do:" [level=3] [ref=e24]
+        - generic [ref=e26]:
+          - list [ref=e27]:
+            - listitem [ref=e28]: "Team Introduction:"
+          - generic [ref=e29]: "The Perception team is responsible for developing CV/ML algorithms to understand the surroundings of ego vehicles in real time , including obstacle detection, online mapping, and scene understanding. The perception system takes inputs from multiple sensors across time, and outputs various obstacle-level and scene-level understandings for downstream modules such as prediction and planning, etc. In the Perception team, you will:"
+          - list [ref=e31]:
+            - listitem [ref=e32]: Develop and deploy cutting-edge perception and deep learning models, including computer vision models, vision-language and large language models (VLMs and LLMs), for real-time integration into our system.
+            - listitem [ref=e33]: Create and optimize data pipelines for data mining, labeling, training, and evaluation, supporting comprehensive onboard development.
+            - listitem [ref=e34]: Conduct advanced research in perception algorithms to address complex, real-world scenarios, focusing on areas like object detection, segmentation, road understanding, and motion prediction.
+            - listitem [ref=e35]: Leverage multi-modal sensor fusion techniques to build robust architectures tailored for autonomous driving.
+      - generic [ref=e37]:
+        - heading "Qualifications:" [level=3] [ref=e38]
+        - list [ref=e41]:
+          - listitem [ref=e42]: Currently pursuing a degree in Computer Science, Robotics, or a related field, with an expected graduation date between December 2025 and June 2026.
+          - listitem [ref=e43]: Strong programming experience in C++ or Python.
+          - listitem [ref=e44]: "Experienced in one or more of the following areas: machine learning, robotics, computer vision, data mining, LiDAR."
+          - listitem [ref=e45]: Knowledgeable in data structures, 3D geometry, and advanced algorithms. Solid foundation in core robotics principles, including state estimation, 3D reconstruction, and visual odometry.
+          - listitem [ref=e46]: Excellent software and computing fundamentals.
+      - generic [ref=e48]:
+        - heading "Bonus Points:" [level=3] [ref=e49]
+        - list [ref=e52]:
+          - listitem [ref=e53]: Experience with Large Language Models (LLM) or Vision Language Models (VLM)
+      - generic [ref=e54]:
+        - generic [ref=e55]: $120,000 - $165,000 a year
+        - generic [ref=e57]: Your base pay is one part of your total compensation package. For this position, the reasonably expected pay range is between $120,000 - $165,000 for the level at which this job has been scoped. Your base pay will depend on several factors, including your experience, qualifications, education, location, and skills. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for an annual performance bonus, equity, and a competitive benefits package.
+      - generic [ref=e58]:
+        - generic [ref=e59]: "What Happens Next:"
+        - generic [ref=e61]: We’ll take a few weeks to review all applications. If we’d like to move forward with you, we’ll reach out to arrange the next steps, which may include an online assessment, a call with a recruiter, and 4-5 interviews with your future colleagues to better inform our decision.
+        - generic [ref=e63]: During the interview process, we aim to learn more about your skills, experiences, and motivators. Many of our questions will focus on understanding how you might operate here at WeRide. Please note that, due to the high volume of applications we receive, we’re unable to offer individual feedback during the interview process.
+        - generic [ref=e65]: We recognize that interviewing for a new role is significant, and we appreciate you considering WeRide as the next step in your career. Our Recruiting Team is here to support you throughout the interview process. Come join us and apply today!
+        - generic [ref=e68]:
+          - link "WeRide.ai" [ref=e69] [cursor=pointer]:
+            - /url: http://weride.ai/
+          - text: "offers competitive salary depending on the experience. Employee benefits include:"
+        - generic [ref=e70]: Premium Medical, Dental and Vision Plan (No cost from employees or their families)
+        - generic [ref=e71]: Free Daily Breakfast, Lunch and Dinner
+        - generic [ref=e72]: Paid vacations and holidays
+        - generic [ref=e73]: 401K plan
+      - generic [ref=e75]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e77] [cursor=pointer]:
+        - /url: https://jobs.lever.co/weride/d87ddf51-0def-436f-a178-135481b88f96/apply
+  - generic [ref=e79]:
+    - paragraph [ref=e80]:
+      - link "WeRide.ai Home Page" [ref=e81] [cursor=pointer]:
+        - /url: https://www.weride.ai/
+    - link "Jobs powered by Lever logo" [ref=e82] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e83]: Jobs powered by
+      - img "Lever logo" [ref=e84]
