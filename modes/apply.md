@@ -97,6 +97,9 @@ Extract keywords from the job title, summary, and requirements. Score each resum
 ### Output Format
 
 **Present to user immediately in terminal, YOU MUST MATCH THIS EXACT FORMAT, DO NOT WRITE THIS TO output/essay.txt:**
+
+YOU MUST PRINT THIS EVERY SINGLE TIME EVEN WHEN THERE ARE NO ESSAY QUESTIONS. THIS IS CRITICAL FOR CONSISTENCY AND USER EXPERIENCE.
+
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📄 RESUME RECOMMENDATION
