@@ -4,7 +4,31 @@ Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` 
 
 ## Pending
 
-(All 53 pending URLs processed on 2026-04-09)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174757008 | Anthropic | Software Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5018110008 | Renaissance Learning | Software Engineer I
+- [ ] https://job-boards.greenhouse.io/8451university/jobs/8086852002 | 84.51° University | Software Engineer - Development Program 2026
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4667647005 | dbt Labs | Software Engineer, Fusion
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4370025006 | Figure | Software Engineer, Developer Tools and Productivity
+- [ ] https://jobs.ashbyhq.com/decagon/95a4707d-1def-481a-bb78-38a4b22b6891 | Decagon | Agent Software Engineer - New Grad (2026 Start)
+- [ ] https://jobs.ashbyhq.com/harvey/163860df-ae88-437d-81da-305efa554dff | Harvey | Software Engineer, New Grad (2026)
+- [ ] https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743 | Quora | Software Engineer, New Grad 2025-2026 - Data Infrastructure
+- [ ] https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d | WeRide.ai | New Grads 2026 - General Software Engineer
+- [ ] https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4 | Palantir | Software Engineer, New Grad - Infrastructure
+- [ ] https://jobs.lever.co/mistral/cf4616fc-977a-475c-bb2e-eb46a2c4a94f | Mistral AI | Software Engineer, New Grad
+- [ ] https://jobs.lever.co/whoop/3b94218d-3a5a-4dd1-91c7-5f18655c93a8 | Whoop | Software Engineer I (Backend)
+- [ ] https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839 | Brain Co. | Early Career AI/ML Engineer
+- [ ] https://jobs.ashbyhq.com/fastino-ai/478213e2-8cf8-4b68-9be3-9b0523119702 | fastino.ai | ML Engineer - Small Language Models
+- [ ] https://jobs.ashbyhq.com/mercor/547dead0-d223-4023-8357-206714d94d12 | Mercor | Machine Learning Engineer, Anonymization
+- [ ] https://jobs.ashbyhq.com/artemis/0234c387-d472-440a-bb1f-bdb5a4d74926 | Artemis | AI/ML Engineer
+- [ ] https://jobs.ashbyhq.com/Perplexity/3c656963-876a-458d-bca6-916a42a24c1a | Perplexity | AI Engineer, Applied ML
+- [ ] https://job-boards.greenhouse.io/loop/jobs/5780582004 | Loop | 2026 New Grad | Software Engineer, Full-Stack
+- [ ] https://job-boards.greenhouse.io/loop/jobs/5780584004 | Loop | 2026 New Grad | Software Engineer, AI
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8409376002 | Airtable | Software Engineer, New Grad (2026)
+- [ ] https://job-boards.greenhouse.io/freeformfuturecorp/jobs/6852163003 | Freeform | Software Engineer (New Grad Summer 2026)
+- [ ] https://job-boards.greenhouse.io/underdogfantasy/jobs/4647374005 | Underdog | Associate Software Engineer, 2026 New Grad
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003 | Sigma Computing | Software Engineer (New Grad Program)
+- [ ] https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7631560003 | Freeform | Electrical Engineer (New Grad Summer 2026)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4605996005 | Scale AI | Software Engineer - New Grad
 
 ## Processed (2026-04-08)
 
