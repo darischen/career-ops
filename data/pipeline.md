@@ -4,16 +4,7 @@ Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` 
 
 ## Pending
 
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174757008 | Anthropic | Software Engineer, Backend
-- [ ] https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5018110008 | Renaissance Learning | Software Engineer I
-- [ ] https://job-boards.greenhouse.io/8451university/jobs/8086852002 | 84.51° University | Software Engineer - Development Program 2026
-- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4667647005 | dbt Labs | Software Engineer, Fusion
-- [ ] https://job-boards.greenhouse.io/figureai/jobs/4370025006 | Figure | Software Engineer, Developer Tools and Productivity
-- [ ] https://jobs.ashbyhq.com/decagon/95a4707d-1def-481a-bb78-38a4b22b6891 | Decagon | Agent Software Engineer - New Grad (2026 Start)
-- [ ] https://jobs.ashbyhq.com/harvey/163860df-ae88-437d-81da-305efa554dff | Harvey | Software Engineer, New Grad (2026)
-- [ ] https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743 | Quora | Software Engineer, New Grad 2025-2026 - Data Infrastructure
-- [ ] https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d | WeRide.ai | New Grads 2026 - General Software Engineer
-- [ ] https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4 | Palantir | Software Engineer, New Grad - Infrastructure
+(First 10 processed on 2026-04-14. See Processed section below.)
 - [ ] https://jobs.lever.co/mistral/cf4616fc-977a-475c-bb2e-eb46a2c4a94f | Mistral AI | Software Engineer, New Grad
 - [ ] https://jobs.lever.co/whoop/3b94218d-3a5a-4dd1-91c7-5f18655c93a8 | Whoop | Software Engineer I (Backend)
 - [ ] https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839 | Brain Co. | Early Career AI/ML Engineer
@@ -63,6 +54,21 @@ Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` 
 | 18 | 2026-04-08 | Sentry | Software Engineer, New Grad | https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d | 3.6/5 | Evaluated | [018](reports/018-sentry-2026-04-08.md) |
 | 19 | 2026-04-08 | Replo | Software Engineer, New Grad | https://jobs.ashbyhq.com/replo/ec206174-ccc2-42fa-b295-8201421f21b0 | N/A | SKIP | [019](reports/019-replo-2026-04-08.md) |
 | 20 | 2026-04-08 | N1 | New Grad Software Engineer | https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a | 4.0/5 | Evaluated | [020](reports/020-n1-2026-04-08.md) |
+
+## Processed (2026-04-14)
+
+| # | Date | Company | Role | URL | Score | Status | Report |
+|---|------|---------|------|-----|-------|--------|--------|
+| 157 | 2026-04-14 | Anthropic | Software Engineer, Backend | https://job-boards.greenhouse.io/anthropic/jobs/5174757008 | 1.5/5 | SKIP | [157](reports/157-anthropic-2026-04-14.md) |
+| 158 | 2026-04-14 | Renaissance Learning | Software Engineer I | https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5018110008 | 4.0/5 | Evaluated | [158](reports/158-renaissance-learning-2026-04-14.md) |
+| 159 | 2026-04-14 | 84.51° University | Software Engineer - Development Program 2026 | https://job-boards.greenhouse.io/8451university/jobs/8086852002 | 3.5/5 | Evaluated | [159](reports/159-84-51-2026-04-14.md) |
+| 160 | 2026-04-14 | dbt Labs | Software Engineer, Fusion | https://job-boards.greenhouse.io/dbtlabsinc/jobs/4667647005 | 3.2/5 | Evaluated | [160](reports/160-dbt-labs-2026-04-14.md) |
+| 161 | 2026-04-14 | Figure | Software Engineer, Developer Tools and Productivity | https://job-boards.greenhouse.io/figureai/jobs/4370025006 | 2.8/5 | SKIP | [161](reports/161-figure-2026-04-14.md) |
+| 162 | 2026-04-14 | Decagon | Agent Software Engineer - New Grad (2026 Start) | https://jobs.ashbyhq.com/decagon/95a4707d-1def-481a-bb78-38a4b22b6891 | 4.1/5 | Evaluated | [162](reports/162-decagon-2026-04-14.md) |
+| 163 | 2026-04-14 | Harvey | Software Engineer, New Grad (2026) | https://jobs.ashbyhq.com/harvey/163860df-ae88-437d-81da-305efa554dff | 3.6/5 | Evaluated | [163](reports/163-harvey-2026-04-14.md) |
+| 164 | 2026-04-14 | Quora | Software Engineer, New Grad 2025-2026 - Data Infrastructure | https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743 | 3.8/5 | Evaluated | [164](reports/164-quora-2026-04-14.md) |
+| 165 | 2026-04-14 | WeRide | New Grads 2026 - General Software Engineer | https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d | 3.9/5 | Evaluated | [165](reports/165-weride-2026-04-14.md) |
+| 166 | 2026-04-14 | Palantir | Software Engineer, New Grad - Infrastructure | https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4 | 3.7/5 | Evaluated | [166](reports/166-palantir-2026-04-14.md) |
 
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5843010004 | Vercel | Anti-Abuse Automation Engineer
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5820658004 | Vercel | Content Engineer

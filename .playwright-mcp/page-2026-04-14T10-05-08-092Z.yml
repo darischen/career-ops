@@ -1,0 +1,172 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - banner [ref=e6]:
+        - link "Visa logo" [ref=e8] [cursor=pointer]:
+          - /url: https://usa.visa.com/about-visa/diversity-inclusion/life-at-visa.html
+          - img "Visa logo" [ref=e9]
+      - main [ref=e10]:
+        - heading "Software Engineer" [level=1] [ref=e11]
+        - list [ref=e12]:
+          - listitem [ref=e13]:
+            - generic [ref=e16]:
+              - generic [ref=e17]: Austin, TX, USA
+              - generic [ref=e18]:
+                - img [ref=e20]
+                - text: Employees work in a hybrid mode
+          - listitem [ref=e22]: Full-time
+          - listitem [ref=e23]: "Job Family Group: Engineering and Technology"
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - generic [ref=e26]:
+              - heading "Company Description" [level=2] [ref=e28]
+              - generic [ref=e29]:
+                - paragraph [ref=e30]:
+                  - strong [ref=e31]: Visa
+                  - text: is a world leader in payments and technology, with over 259 billion payments transactions flowing safely between consumers, merchants, financial institutions, and government entities in more than 200 countries and territories each year. Our mission is to connect the world through the most innovative, convenient, reliable, and secure payments network, enabling individuals, businesses, and economies to thrive while driven by a common purpose – to uplift everyone, everywhere by being the best way to pay and be paid.
+                - paragraph [ref=e32]: Make an impact with a purpose-driven industry leader. Join us today and experience Life at Visa.
+                - paragraph [ref=e33]:
+                  - strong [ref=e34]: Visa’s Technology Organization
+                  - text: is a community of problem solvers and innovators reshaping the future of commerce. We operate the world’s most sophisticated processing networks capable of handling more than 65k secure transactions a second across 80M merchants, 15k Financial Institutions, and billions of everyday people. While working with us you’ll get to work on complex distributed systems and solve massive scale problems centered on new payment flows, business and data solutions, cyber security, and B2C platforms.
+            - generic [ref=e35]:
+              - heading "Job Description" [level=2] [ref=e37]
+              - generic [ref=e38]:
+                - paragraph [ref=e39]:
+                  - strong [ref=e40]: "The Opportunity:"
+                - paragraph [ref=e41]: We are looking for Versatile, curious, and energetic Software Engineers who embrace solving complex challenges on a global scale. As a Visa Software Engineer, you will be an integral part of a multi-functional development team inventing, designing, building, and testing software products that reach a truly global customer base. While building components of powerful payment technology, you will get to see your efforts shaping the digital future of monetary transactions.
+                - paragraph [ref=e42]:
+                  - strong [ref=e43]: "The Work itself:"
+                - list [ref=e44]:
+                  - listitem [ref=e45]: Design code and systems that touch 40% of the world population while influencing Visa’s internal standards for scalability, security, and reusability
+                  - listitem [ref=e46]: Collaborate multi-functionally to create design artifacts and develop best-in-class software solutions for multiple Visa technical offerings
+                  - listitem [ref=e47]: Actively contribute to product quality improvements, valuable service technology, and new business flows in diverse agile squads
+                  - listitem [ref=e48]: Develop robust and scalable products intended for a myriad of customers including end-user merchants, b2b, and business to government solutions.
+                  - listitem [ref=e49]: Leverage innovative technologies to build the next generation of Payment Services, Transaction Platforms, Real-Time Payments, and Buy Now Pay Later Technology
+                  - listitem [ref=e50]: Opportunities to make a difference on a global or local scale through mentorship and continued learning opportunities
+                - paragraph [ref=e51]
+                - paragraph [ref=e52]:
+                  - strong [ref=e53]: "Essential Functions:"
+                - list [ref=e54]:
+                  - listitem [ref=e55]: Supports relationship with product owners to gather and refine requirements for one product task, adding and taking into account existing tools and solutions within a product.
+                  - listitem [ref=e56]: Begins to develop and design architect solutions, considering integrations with other solutions.
+                  - listitem [ref=e57]: Provides relevant knowledge on the development of user documentation of solutions and follows standard processes in user documentation.
+                  - listitem [ref=e58]: Plays a minor role in the development and delivery of new features within a product.
+                - paragraph [ref=e59]
+                - paragraph [ref=e60]:
+                  - strong [ref=e61]: "The Skills You Bring:"
+                - list [ref=e62]:
+                  - listitem [ref=e63]: "Energy and Experience: A growth mindset that is curious and passionate about technologies and enjoys challenging projects on a global scale"
+                  - listitem [ref=e64]: "Challenge the Status Quo: Comfort in pushing the boundaries, “hacking” beyond traditional solutions"
+                  - listitem [ref=e65]: "Language Expertise: Expertise in one or more general development languages (e.g., Java, C#, C++)"
+                  - listitem [ref=e66]: "Builder: Experience building and deploying modern services and web applications with quality and scalability"
+                  - listitem [ref=e67]: "Learner: Constant drive to learn new technologies such as Angular, React, Kubernetes, Docker, etc."
+                  - listitem [ref=e68]: "Partnership: Experience collaborating with Product, Test, Dev-ops, and Agile/Scrum teams"
+                - paragraph [ref=e69]
+                - paragraph [ref=e70]: "**We do not expect that any single candidate would fulfill all of these characteristics. For instance, we have exciting team members who are really focused on building scalable systems but didn’t work with payments technology or web applications before joining Visa"
+                - paragraph [ref=e71]: "**Visa does not support immigration for this role."
+                - paragraph [ref=e72]: "**Visa is not offering relocation assistance for this role."
+            - generic [ref=e73]:
+              - heading "Qualifications" [level=2] [ref=e75]
+              - generic [ref=e76]:
+                - paragraph [ref=e77]: Basic Qualifications
+                - list [ref=e78]:
+                  - listitem [ref=e79]:
+                    - text: Bachelor's degree in Math, Science, Engineering, or Computer Science, Information Systems or related field. OR
+                    - list [ref=e80]:
+                      - listitem [ref=e81]: Minimum 6 months to 2 years of experience
+                - paragraph [ref=e82]
+                - paragraph [ref=e83]: Preferred Qualifications
+                - list [ref=e84]:
+                  - listitem [ref=e85]: Knowledge of and ability to develop front-end code (e.g. HTML, CSS, and JavaScript) in support of package and product development. This includes the extension of capabilities of packages and products.
+                  - listitem [ref=e86]: The ability to select the "best available" values of some objective function to improve the functional effectiveness of web browsers.
+                  - listitem [ref=e87]: Knowledge of user interface design, which is the interaction where users and computers interact. This includes an understanding of how to provide an optimal industrial design experience through User Interface (UI) Design.
+                  - listitem [ref=e88]: Knowledge of and ability to develop back-end (e.g. Python, Java, C++, PHP) code in support of package and product development. This includes the extension of capabilities of packages and products.
+                  - listitem [ref=e89]: The ability to develop and use Application Program Interfaces (APIs), a set of routines, protocols, and tools for building software applications that specify how software components should interact and are used when programming graphical user interface (GUI) components. An API may be for a web-based system, operating system, database system, computer hardware, or software library.
+                  - listitem [ref=e90]: Knowledge of and the ability to use database software (e.g., applications, web-based applications, information systems) to maintain, modify, and output data.
+                  - listitem [ref=e91]: Knowledge of systems integration process in which separately produced components or subsystems are combined and problems in their interactions are addressed.
+                  - listitem [ref=e92]: Knowledge of data structures, which consist of data organization, management, and storage formats that enable efficient access and modifications. This includes a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
+            - generic [ref=e93]:
+              - heading "Additional Information" [level=2] [ref=e95]
+              - generic [ref=e96]:
+                - paragraph [ref=e97]:
+                  - strong [ref=e98]: "Work Hours:"
+                  - text: Varies upon the needs of the department.
+                - paragraph [ref=e99]:
+                  - strong [ref=e100]: "Travel Requirements:"
+                  - text: This position requires travel 5-10% of the time.
+                - paragraph [ref=e101]:
+                  - strong [ref=e102]: "Mental/Physical Requirements:"
+                  - text: This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers.
+                - paragraph [ref=e103]: Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.
+                - paragraph [ref=e104]: Visa will consider for employment qualified applicants with criminal histories in a manner consistent with applicable local law, including the requirements of Article 49 of the San Francisco Police Code.
+                - paragraph [ref=e105]:
+                  - strong [ref=e106]: "U.S. APPLICANTS ONLY: The estimated salary range for this position is $88,000 to $136,900 USD per year, which may include potential sales incentive payments (if applicable). Salary may vary depending on job-related factors which may include knowledge, skills, experience, and location. In addition, this position may be eligible for bonus and equity. Visa has a comprehensive benefits package for which this position may be eligible that includes Medical, Dental, Vision, 401 (k), FSA/HSA, Life Insurance, Paid Time Off, and Wellness Program."
+          - link "I'm interested" [ref=e108] [cursor=pointer]:
+            - /url: https://jobs.smartrecruiters.com/oneclick-ui/company/Visa/publication/2452a519-624c-4186-bb6a-bc4bf6a3541a?dcr_ci=Visa
+          - link "Privacy Notice" [ref=e110] [cursor=pointer]:
+            - /url: https://usa.visa.com/legal/global-privacy-notice.html
+          - button "Cookies Settings" [ref=e112] [cursor=pointer]
+    - complementary [ref=e114]:
+      - generic [ref=e115]:
+        - link "I'm interested" [ref=e116] [cursor=pointer]:
+          - /url: https://jobs.smartrecruiters.com/oneclick-ui/company/Visa/publication/2452a519-624c-4186-bb6a-bc4bf6a3541a?dcr_ci=Visa
+        - link "Refer a friend" [ref=e117] [cursor=pointer]:
+          - /url: https://jobs.smartrecruiters.com/external-referrals/company/Visa/publication/2452a519-624c-4186-bb6a-bc4bf6a3541a?dcr_ci=Visa
+      - generic [ref=e118]:
+        - heading "share this job" [level=2] [ref=e119]
+        - list [ref=e120]:
+          - listitem [ref=e121]:
+            - link "Share on LinkedIn" [ref=e122] [cursor=pointer]:
+              - /url: https://www.linkedin.com/shareArticle?title=Software%20Engineer&mini=true&source=SmartRecruiters&summary=Visa%20is%20looking%20for%3A%20Software%20Engineer%20in%20Austin%2C%20TX%2C%20USA.%20https%3A%2F%2Fjobs.smartrecruiters.com%2FVisa%2F744000120015357-software-engineer%3Ftrid%3D463ac537-35c8-4256-8fe4-47ea285de0a6&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FVisa%2F744000120015357-software-engineer%3Ftrid%3D463ac537-35c8-4256-8fe4-47ea285de0a6
+              - img [ref=e124]
+          - listitem [ref=e126]:
+            - link "Share on Facebook" [ref=e127] [cursor=pointer]:
+              - /url: http://www.facebook.com/sharer/sharer.php?s=100&u=https%3A%2F%2Fjobs.smartrecruiters.com%2FVisa%2F744000120015357-software-engineer%3Ftrid%3D162ef3c2-cdcc-47a9-8327-c69d95269302
+              - img [ref=e129]
+          - listitem [ref=e131]:
+            - link "Share on Twitter" [ref=e132] [cursor=pointer]:
+              - /url: https://twitter.com/share?text=Visa%20is%20looking%20for%3A%20Software%20Engineer.&via=SmartRecruiters&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FVisa%2F744000120015357-software-engineer%3Ftrid%3D33221b55-7baa-4189-992e-a7fac0c08950
+              - img [ref=e134]
+          - listitem [ref=e136]:
+            - link "Share via email" [ref=e137] [cursor=pointer]:
+              - /url: mailto:?&subject=Software%20Engineer&body=Visa%20is%20looking%20for%3A%20Software%20Engineer%20in%20Austin%2C%20TX%2C%20USA.%20https%3A%2F%2Fjobs.smartrecruiters.com%2FVisa%2F744000120015357-software-engineer
+              - img [ref=e139]
+          - listitem [ref=e141]:
+            - link "Share on Xing" [ref=e142] [cursor=pointer]:
+              - /url: https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fjobs.smartrecruiters.com%2FVisa%2F744000120015357-software-engineer%3Ftrid%3Ddafac7a1-12ef-45e2-8ca9-f875193e392b
+              - img [ref=e144]
+          - listitem [ref=e146]:
+            - link "Share on WeChat" [ref=e147] [cursor=pointer]:
+              - /url: https://jobs.smartrecruiters.com/Visa/744000120015357-software-engineer?trid=7d1dcdfa-96a8-4e55-bb9c-0db211f5a9b3
+              - img [ref=e149]
+      - generic [ref=e151]:
+        - heading "Other jobs at Visa" [level=2] [ref=e152]
+        - list [ref=e153]:
+          - listitem [ref=e154]:
+            - link "Sr. Director, Head of Finance, India & South Asia" [ref=e155] [cursor=pointer]:
+              - /url: /Visa/744000120612318-sr-director-head-of-finance-india-south-asia-
+              - paragraph [ref=e156]: Sr. Director, Head of Finance, India & South Asia
+            - paragraph [ref=e157]: Mumbai, India
+          - listitem [ref=e158]:
+            - link "Senior Software Engineer- Java backend- 3+yrs" [ref=e159] [cursor=pointer]:
+              - /url: /Visa/744000120605848-senior-software-engineer-java-backend-3-yrs
+              - paragraph [ref=e160]: Senior Software Engineer- Java backend- 3+yrs
+            - paragraph [ref=e161]: Bengaluru, India
+          - listitem [ref=e162]:
+            - link "Sr Manager - Sr. Manager, Payment Solution Architect" [ref=e163] [cursor=pointer]:
+              - /url: /Visa/744000120530997-sr-manager-sr-manager-payment-solution-architect
+              - paragraph [ref=e164]: Sr Manager - Sr. Manager, Payment Solution Architect
+            - paragraph [ref=e165]: Austin, TX
+          - listitem [ref=e166]:
+            - link "Show all jobs" [ref=e167] [cursor=pointer]:
+              - /url: https://usa.visa.com/careers.html
+  - generic [ref=e170]:
+    - generic [ref=e171]:
+      - paragraph [ref=e172]: Software Engineer
+      - list [ref=e173]:
+        - listitem [ref=e174]: Austin, TX, USA
+        - listitem [ref=e175]: Full-time
+    - complementary [ref=e176]:
+      - link [ref=e177] [cursor=pointer]:
+        - /url: https://jobs.smartrecruiters.com/oneclick-ui/company/Visa/publication/2452a519-624c-4186-bb6a-bc4bf6a3541a?dcr_ci=Visa
+        - text: I'm interested

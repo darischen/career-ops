@@ -4,6 +4,21 @@ Track your job applications and their status.
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 154 | 2026-04-14 | Visa | Software Engineer | 3.5/5 | Evaluated | ✅ | [154](reports/154-visa-2026-04-14.md) | Entry-level, Austin, competitive comp ($88K-$136.9K), large enterprise, slower iteration than early-stage startups |
+| 161 | 2026-04-14 | Figure | Software Engineer, Developer Tools and Productivity | 2.8/5 | NO APPLY | ❌ | [161](reports/161-figure-2026-04-14.md) | Cryptography + mid-level required. Not new grad role. Skip. |
+| 162 | 2026-04-14 | Decagon | Agent Software Engineer - New Grad (2026 Start) | 4.1/5 | Evaluated | ✅ | [162](reports/162-decagon-2026-04-14.md) | Agentic AI focus. Perfect new grad fit. LLM + evals match your strengths. Strong recommend apply. |
+| 163 | 2026-04-14 | Harvey | Software Engineer, New Grad (2026) | 3.6/5 | Evaluated | ✅ | [163](reports/163-harvey-2026-04-14.md) | Legal AI unicorn. Full-stack match. Relocation not funded (critical blocker). Apply if can self-fund SF move. |
+| 164 | 2026-04-14 | Quora | Software Engineer, New Grad 2025-2026 - Data Infrastructure | 3.8/5 | Evaluated | ✅ | [164](reports/164-quora-2026-04-14.md) | Data infrastructure. Remote-first. $126-144K. Mentorship guaranteed. Solid match. Recommend apply. |
+| 165 | 2026-04-14 | WeRide | New Grads 2026 - General Software Engineer | 3.9/5 | Evaluated | ✅ | [165](reports/165-weride-2026-04-14.md) | Autonomous driving. Real-time embedded focus. HB100 is perfect prep. Recommend apply if interested in vehicles/embedded. |
+| 166 | 2026-04-14 | 84.51° University | Software Engineer - Development Program 2026 | 3.5/5 | Evaluated | ✅ | [159](reports/159-84-51-2026-04-14.md) | 10-week internship first (summer 2026). Full-time post-grad. Cincinnati on-site. Apply if willing to intern. |
+| 146 | 2026-04-14 | Computer Aided Inc | Junior Data Engineer | Evaluated | Evaluated | 3.1/5 | ✅ |  |
+| 147 | 2026-04-14 | CACI International | Junior C++ Software Engineer | Evaluated | Evaluated | 3.4/5 | ✅ |  |
+| 148 | 2026-04-14 | PAE (Amentum) | Junior Software Engineer | Evaluated | Evaluated | 2.9/5 | ✅ |  |
+| 149 | 2026-04-14 | Axon | Software Engineer I | Evaluated | Evaluated | 4.2/5 | ✅ |  |
+| 150 | 2026-04-14 | Leidos | Junior Software Engineer | Evaluated | Evaluated | 3.0/5 | ✅ |  |
+| 151 | 2026-04-14 | KBR | Junior Communications Systems Software Engineer | Evaluated | Evaluated | 3.3/5 | ✅ |  |
+| 152 | 2026-04-14 | CVS Health | Associate Software Development Engineer | Evaluated | Evaluated | 2.6/5 | ✅ |  |
+| 153 | 2026-04-14 | Boeing | Entry-Level Simulation Software Test Engineer | Evaluated | Evaluated | 3.5/5 | ✅ |  |
 | 145 | 2026-04-14 | Empirical Security | Forward Deployed Data Scientist | 3.4/5 | Evaluated | ⏳ | [144](reports/144-empirical-security-fdd-2026-04-14.md) | CONDITIONAL APPLY. Strong data pipeline fit; zero security domain. Job posting welcomes domain learners. Pair with security team mentors. |
 | 140 | 2026-04-13 | Together AI | ML/Research Engineer (New Grad) | 4.6/5 | Evaluated | ✅ | [136](reports/136-together-ai-2026-04-13.md) | APPLY — Perfect archetype match. Exceeds requirements. Fair comp $150-200K. |
 | 141 | 2026-04-13 | Empirical Security | Junior Software Engineer | 4.8/5 | Evaluated | ✅ | [139](reports/139-empirical-security-2026-04-13.md) | STRONG MATCH — perfect level, data infrastructure, Python + PostgreSQL APIs. Negotiate $120K+ |
