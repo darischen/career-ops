@@ -4,7 +4,7 @@ Track your job applications and their status.
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 167 | 2026-04-14 | Decagon | Agent Success Manager | 1.5/5 | NO APPLY | ❌ | [167](reports/167-decagon-agent-success-2026-04-14.md) | Function mismatch (CS role, requires 4+ yrs; you're new grad engineer). Career detour, not advancement. |
+| 167 | 2026-04-14 | Quora | AI Engineer New Grad 2025-2026 - Poe | 4.6/5 | NO APPLY | ❌ | [167](reports/167-quora-poe-2026-04-14.md) | Re-eval 2026-04-14 (1.5→4.6). Perfect archetype match. LLMs, RAG, multi-model systems. Apply immediately. |
 | 154 | 2026-04-14 | Visa | Software Engineer | 3.5/5 | Evaluated | ✅ | [154](reports/154-visa-2026-04-14.md) | Entry-level, Austin, competitive comp ($88K-$136.9K), large enterprise, slower iteration than early-stage startups |
 | 161 | 2026-04-14 | Figure | Software Engineer, Developer Tools and Productivity | 2.8/5 | NO APPLY | ❌ | [161](reports/161-figure-2026-04-14.md) | Cryptography + mid-level required. Not new grad role. Skip. |
 | 162 | 2026-04-14 | Decagon | Agent Software Engineer - New Grad (2026 Start) | 4.1/5 | Evaluated | ✅ | [162](reports/162-decagon-2026-04-14.md) | Agentic AI focus. Perfect new grad fit. LLM + evals match your strengths. Strong recommend apply. |
