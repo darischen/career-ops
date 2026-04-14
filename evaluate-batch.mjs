@@ -178,7 +178,7 @@ async function generateReport(job) {
 
 **Top 5 CV Optimizations for this Role:**
 1. Add "Mentorship at Scale" to PatentIQ summary (led 14-person team)
-2. Emphasize "rapid learning" in FlipperZillow (48-hour ROCm mastery)
+2. Emphasize "rapid learning" in FlipperZillow (24-hour ROCm mastery)
 3. Highlight "production-grade code quality" (Lighthouse 100/100, cache optimization)
 4. Showcase "full-stack ownership" from architecture through deployment
 5. Note "API integration expertise" (Square, OpenAI, Claude, Hugging Face)
@@ -199,7 +199,7 @@ async function generateReport(job) {
 | # | JD Requirement | Story | S | T | A | R |
 |---|---|---|---|---|---|---|
 | 1 | Full-stack shipping | PatentIQ MVP | 14-member team, architect role | 4 months | Led architecture + implementation of semantic search | Shipped working product used by startups |
-| 2 | Learning velocity | FlipperZillow | 24-hour hackathon, 0 ML experience | 48 hours | Learned ROCm/DepthAnythingV2/DFormerV2 from scratch | Shipped working 3D tours with AI narration |
+| 2 | Learning velocity | FlipperZillow | 24-hour hackathon, 0 ML experience | 24 hours | Learned ROCm/DepthAnythingV2/DFormerV2 from scratch | Shipped working 3D tours with AI narration |
 | 3 | Performance optimization | Groundwork caching | Slow inventory API latency | 1 week | Built two-tier Redis + client-side coalescing cache | 90% API latency reduction, sub-200ms p99 |
 | 4 | Database design | PatentIQ pgvector | Chose tech stack under time pressure | 2 weeks | Advocated PostgreSQL + pgvector vs Pinecone/MongoDB | Lower cost, faster iteration, shipped faster |
 | 5 | Bug catching across layers | Mini-Stockfish | 77% latency overhead in inference | 2 weeks | Optimized critical path with Cython + C++ + Zobrist | Reduced eval time from 1.1ms to 0.25ms |

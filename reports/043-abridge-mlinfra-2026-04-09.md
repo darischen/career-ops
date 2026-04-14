@@ -69,9 +69,9 @@ This demonstrates that Daris has shipped production AI infrastructure, not just 
 1. Docker expertise (prerequisite)
 2. Distributed systems understanding (APIs, databases)
 3. Performance optimization mindset
-4. Proven ability to learn complex toolchains fast (ROCm/DepthAnythingV2 in 48 hours)
+4. Proven ability to learn complex toolchains fast (ROCm/DepthAnythingV2 in 24 hours)
 
-**How to position it:** "I've built production ML systems end-to-end. What I haven't done is Kubernetes at scale. But I learn quickly — I went from zero ROCm knowledge to shipping a working 3D inference pipeline in 48 hours. I'm excited to bring that learning velocity to ML infrastructure."
+**How to position it:** "I've built production ML systems end-to-end. What I haven't done is Kubernetes at scale. But I learn quickly — I went from zero ROCm knowledge to shipping a working 3D inference pipeline in 24 hours. I'm excited to bring that learning velocity to ML infrastructure."
 
 ---
 
@@ -97,7 +97,7 @@ This demonstrates that Daris has shipped production AI infrastructure, not just 
    - "For caching, I didn't use the default strategy. I analyzed the access patterns, designed a look-aside + client-side hybrid, and validated with metrics."
 
 3. **Emphasize learning velocity:**
-   - "I learned ROCm, DepthAnythingV2, DFormerV2, SAM3D from scratch in 48 hours on an unfamiliar cloud platform. That's the energy I bring to learning Kubernetes."
+   - "I learned ROCm, DepthAnythingV2, DFormerV2, SAM3D from scratch in 24 hours on an unfamiliar cloud platform. That's the energy I bring to learning Kubernetes."
 
 ### "If They Downlevel" Plan
 
@@ -362,7 +362,7 @@ These roles will value Daris' learning velocity and breadth, offer realistic com
 **If you want to pursue anyway:**
 1. Write cover letter emphasizing PatentIQ end-to-end ownership
 2. Highlight FastAPI backend + inference optimization work
-3. Be explicit: "I don't have Kubernetes yet, but I learn fast. I learned ROCm in 48 hours."
+3. Be explicit: "I don't have Kubernetes yet, but I learn fast. I learned ROCm in 24 hours."
 4. Expect downlevel offer or rejection
 5. Use interview as learning opportunity for Kubernetes questions
 

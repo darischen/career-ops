@@ -21,16 +21,16 @@ const APPS_FILE = existsSync(join(CAREER_OPS, 'data/applications.md'))
 const DRY_RUN = process.argv.includes('--dry-run');
 
 // Status advancement order (higher = more advanced in pipeline)
-// Aplicado > Rechazado because active application > terminal state
+// Applied > Rejected because active application > terminal state
 const STATUS_RANK = {
-  'no aplicar': 0,
-  'descartado': 0,
-  'rechazado': 1,  // Terminal — below active states
-  'evaluada': 2,
-  'aplicado': 3,
-  'respondido': 4,
-  'entrevista': 5,
-  'oferta': 6,
+  'NO APPLY': 0,
+  'Discarded': 0,
+  'Rejected': 1,  // Terminal — below active states
+  'Evaluated': 2,
+  'Applied': 3,
+  'Responded': 4,
+  'Interview': 5,
+  'Offer': 6,
 };
 
 function normalizeCompany(name) {

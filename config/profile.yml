@@ -63,7 +63,7 @@ narrative:
 
   # Learning velocity / adaptability
   learning_story: |
-    FlipperZillow (24-hour hackathon): Learned ROCm, DepthAnythingV2, DFormerV2, and SAM3D from scratch in 48 hours on an unfamiliar AMD cloud platform. Had to navigate unfamiliar toolchains, debug GPU compatibility issues, and integrate 5+ pre-trained models into a coherent pipeline under extreme time pressure. Shipped working 3D house tours with professional AI narration.
+    FlipperZillow (24-hour hackathon): Learned ROCm, DepthAnythingV2, DFormerV2, and SAM3D from scratch in 24 hours on an unfamiliar AMD cloud platform. Had to navigate unfamiliar toolchains, debug GPU compatibility issues, and integrate 5+ pre-trained models into a coherent pipeline under extreme time pressure. Shipped working 3D house tours with professional AI narration.
 
 compensation:
   target_minimum: "$80,000"
@@ -109,3 +109,13 @@ eeo:
   age: "18+"
   legal_work_authorization: "US Citizen"
   h1b_sponsorship_needed: false
+
+# Workflow preferences
+workflow:
+  # Set to false to disable automatic PDF generation in evaluations
+  # You can still request PDFs explicitly when needed ("generate PDF for this one")
+  pdf_generation_enabled: false
+
+  # Set to false to disable the update check at session start
+  # You can manually check for updates anytime with "check for updates"
+  update_check_enabled: false

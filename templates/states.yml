@@ -15,7 +15,7 @@ states:
 
   - id: applied
     label: Applied
-    aliases: [aplicado, enviada, aplicada, sent]
+    aliases: [aplicado, aplicada, enviada, sent]
     description: Application submitted
     dashboard_group: applied
 
@@ -50,7 +50,7 @@ states:
     dashboard_group: discarded
 
   - id: skip
-    label: SKIP
+    label: NO APPLY
     aliases: [no_aplicar, no aplicar, skip, monitor]
     description: Doesn't fit, don't apply
     dashboard_group: skip

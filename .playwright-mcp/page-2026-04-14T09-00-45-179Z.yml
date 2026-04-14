@@ -1,0 +1,530 @@
+- generic [active] [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/axon
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e12]: New
+        - generic [ref=e13]:
+          - generic [ref=e14]:
+            - heading "Software Engineer I" [level=1] [ref=e15]
+            - generic [ref=e16]:
+              - img [ref=e17]
+              - generic [ref=e19]: Washington, United States
+          - button "Apply" [ref=e20] [cursor=pointer]: Apply Now
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - heading "Join Axon and be a Force for Good." [level=4] [ref=e23]:
+              - strong [ref=e24]: Join Axon and be a Force for Good.
+            - paragraph [ref=e25]:
+              - text: At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of devices and cloud software. Like our products, we work better together. We connect with candor and care, seeking out diverse perspectives from our customers, communities and each other.
+              - text: Life at Axon is fast-paced, challenging and meaningful. Here, you’ll take ownership and drive real change. Constantly grow as you work hard for a mission that matters at a company where you matter.
+          - generic [ref=e26]:
+            - heading [level=4]
+            - heading "Your Impact" [level=3] [ref=e27]:
+              - strong [ref=e28]: Your Impact
+            - paragraph [ref=e29]:
+              - text: You are a Junior Software Engineer looking to take your career and technical skills to the next level. Your passion is learning new technical areas and coming up with innovative solutions for customer problems. You are looking for an opportunity to grow rapidly and take on high impact work alongside your team.
+              - text: At Axon, you will develop high quality mission critical software in a collaborative environment while leveraging modern frameworks, tools, and AI-assisted development workflows. You will operate in an AI-first engineering environment where intelligent tooling, code generation, and data-driven decision making are embedded into daily development practices.
+              - text: You will use your passion, experience, and analytical skills to help bring new solutions to public safety and leave a positive impact on the world.
+            - heading "What You’ll Do" [level=3] [ref=e30]:
+              - strong [ref=e31]: What You’ll Do
+            - 'heading "Location: Seattle, Scottsdale, Boston, Atlanta Reports to: Software Engineering Manager" [level=4] [ref=e32]':
+              - strong [ref=e33]: "Location:"
+              - text: Seattle, Scottsdale, Boston, Atlanta
+              - strong [ref=e34]: "Reports to:"
+              - text: Software Engineering Manager
+            - list [ref=e35]:
+              - listitem [ref=e36]: Participate in code reviews and architecture design meetings, incorporating AI-assisted insights and tooling
+              - listitem [ref=e37]: Own and drive end-to-end features with Product and Design, leveraging AI tools to accelerate development and improve quality
+              - listitem [ref=e38]: Ensure that your code hits a high bar for quality and performance, including validating AI-generated code outputs
+              - listitem [ref=e39]: Work in an AI-first environment where developer productivity is augmented through copilots, automation, and intelligent systems
+              - listitem [ref=e40]: Work together with like-minded people who are passionate about our mission
+              - listitem [ref=e41]: Work with the latest open source technologies and AI-enabled development platforms
+              - listitem [ref=e42]: Have mentorship from experienced engineers on both traditional and AI-assisted software engineering practices
+            - heading "What You Bring" [level=3] [ref=e43]:
+              - strong [ref=e44]: What You Bring
+            - list [ref=e45]:
+              - listitem [ref=e46]: Bachelor's Degree in Computer Science or Engineering, OR 2+ years of relevant experience, OR coding boot camp
+              - listitem [ref=e47]: Professional software development internship
+              - listitem [ref=e48]: Experience in at least one managed language such as Java, Scala, Go, C# or similar
+              - listitem [ref=e49]: Familiarity with or interest in AI-assisted development tools, code generation, and automation workflows
+              - listitem [ref=e50]: You follow the latest in software engineering, including emerging AI-driven development practices
+              - listitem [ref=e51]: You love delighting end users and solving novel challenges in a rapidly evolving technical landscape
+            - heading "Benefits that Benefit You" [level=3] [ref=e52]:
+              - strong [ref=e53]: Benefits that Benefit You
+            - list [ref=e54]:
+              - listitem [ref=e55]: Competitive salary and 401k with employer match
+              - listitem [ref=e56]: Discretionary time off
+              - listitem [ref=e57]: Paid parental leave for all
+              - listitem [ref=e58]: Medical, Dental, Vision plans
+              - listitem [ref=e59]: Fitness Programs
+              - listitem [ref=e60]: Emotional & Development Programs
+              - listitem [ref=e61]: And yes, we have snacks in our offices
+            - heading "Benefits listed herein may vary depending on the nature of your employment and the location where you work." [level=4] [ref=e62]:
+              - emphasis [ref=e63]: Benefits listed herein may vary depending on the nature of your employment and the location where you work.
+          - generic [ref=e65]:
+            - paragraph [ref=e69]:
+              - text: "Axon is a total compensation company, meaning compensation is made up of base pay, bonus, and stock awards. The actual base pay is dependent upon many factors, such as: level, function, training, transferable skills, work experience, business needs, geographic market, and often a combination of all these factors. Our benefits offer an array of options to help support you physically, financially and emotionally through the big milestones and in your everyday life. To see more details on our benefits offerings please visit"
+              - link "https://www.axon.com/careers" [ref=e70] [cursor=pointer]:
+                - /url: https://www.axon.com/careers
+              - text: .
+            - paragraph [ref=e71]: Base Pay Range
+            - paragraph [ref=e72]: $120,750 - $193,200 USD
+          - generic [ref=e73]:
+            - paragraph [ref=e74]: Don’t meet every single requirement? That's ok. At Axon, we Aim Far. We think big with a long-term view because we want to reinvent the world to be a safer, better place. We are also committed to building diverse teams that reflect the communities we serve.
+            - paragraph [ref=e75]: Studies have shown that women and people of color are less likely to apply to jobs unless they check every box in the job description. If you’re excited about this role and our mission to Protect Life but your experience doesn’t align perfectly with every qualification listed here, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+            - paragraph [ref=e76]:
+              - strong [ref=e77]: Important Notes
+            - paragraph [ref=e78]:
+              - emphasis [ref=e79]: The above job description is not intended as, nor should it be construed as, exhaustive of all duties, responsibilities, skills, efforts, or working conditions associated with this job. The job description may change or be supplemented at any time in accordance with business needs and conditions.
+            - paragraph [ref=e80]:
+              - emphasis [ref=e81]: Some roles may also require legal eligibility to work in a firearms environment.
+            - paragraph [ref=e82]:
+              - emphasis [ref=e83]:
+                - text: We collect personal information from applicants to evaluate candidates for employment. You may request access, deletion, or exercise other CCPA rights at
+                - strong [ref=e84]:
+                  - link "axongreenhousesupport@axon.com" [ref=e85] [cursor=pointer]:
+                    - /url: mailto:axongreenhousesupport@axon.com
+                - text: or via our
+                - link "Axon Privacy Web Form" [ref=e86] [cursor=pointer]:
+                  - /url: https://privacyportal.onetrust.com/webform/0efc1702-9321-4119-bc9d-a06c3a1d3e4e/ca57cc26-a159-4193-9f6e-58ffe3fd2509
+                - text: . For more information, please see the Your California Privacy Rights section of our
+                - link "Applicant and Candidate Privacy Notice." [ref=e87] [cursor=pointer]:
+                  - /url: https://www.axon.com/candidateprivacypolicy
+            - paragraph [ref=e88]:
+              - emphasis [ref=e89]: Axon’s mission is to Protect Life and is committed to the well-being and safety of its employees as well as Axon’s impact on the environment. All Axon employees must be aware of and committed to the appropriate environmental, health, and safety regulations, policies, and procedures. Axon employees are empowered to report safety concerns as they arise and activities potentially impacting the environment.
+            - paragraph [ref=e90]:
+              - emphasis [ref=e91]:
+                - text: We are an equal opportunity employer that promotes justice, advances equity, values diversity and fosters inclusion. We’re committed to hiring the best talent — regardless of race, creed, color, ancestry, religion, sex (including pregnancy), national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, genetic information, veteran status, or any other characteristic protected by applicable laws, regulations and ordinances — and empowering all of our employees so they can do their best work. If you have a disability or special need that requires assistance or accommodation during the application or the recruiting process, please email
+                - link "recruitingops@axon.com." [ref=e92] [cursor=pointer]:
+                  - /url: mailto:recruitingops@axon.com
+                - text: Please note that this email address is for accommodation purposes only. Axon will not respond to inquiries for other purposes.
+            - paragraph [ref=e93]:
+              - text: "Phishing alert: Axon will never ask you to pay for any part of the hiring process, including training, equipment, or background checks. We do not make job offers via text message, WhatsApp, or instant messaging platforms without a formal interview process. All legitimate job openings are listed on our official careers page at"
+              - link "https://www.axon.com/careers" [ref=e94] [cursor=pointer]:
+                - /url: https://www.axon.com/careers
+              - text: . If you receive a suspicious offer or outreach from an email address that is not
+              - strong [ref=e95]: "@axon.com"
+              - text: ", or if you are asked for sensitive personal information (bank details, Social Security Number) prematurely, please ignore the message and report it to"
+              - link "recruitingops@axon.com" [ref=e96] [cursor=pointer]:
+                - /url: mailto:recruitingops@axon.com
+              - text: .
+            - paragraph [ref=e97]
+        - generic [ref=e98]:
+          - img [ref=e99]
+          - generic [ref=e101]:
+            - paragraph [ref=e102]: Create a Job Alert
+            - paragraph [ref=e103]: Interested in building your career at Axon? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e104] [cursor=pointer]
+      - separator [ref=e105]
+      - generic [ref=e106]:
+        - generic [ref=e107]:
+          - generic [ref=e108]:
+            - heading "Apply for this job" [level=2] [ref=e110]
+            - generic [ref=e111]:
+              - paragraph [ref=e113]: "*"
+              - paragraph [ref=e114]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e117] [cursor=pointer]
+        - generic [ref=e118]:
+          - generic [ref=e119]:
+            - generic [ref=e122]:
+              - generic [ref=e123]: First Name*
+              - textbox "First Name" [ref=e124]
+            - generic [ref=e127]:
+              - generic [ref=e128]: Last Name*
+              - textbox "Last Name" [ref=e129]
+            - generic [ref=e132]:
+              - generic [ref=e133]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e134]
+            - generic [ref=e137]:
+              - generic [ref=e138]: Email*
+              - textbox "Email" [ref=e139]
+            - group "Phone" [ref=e141]:
+              - generic [ref=e142]: Phone
+              - generic [ref=e145]:
+                - generic [ref=e146]: Country*
+                - generic [ref=e147]:
+                  - log [ref=e149]
+                  - generic [ref=e151]:
+                    - combobox "Country" [ref=e154]
+                    - button "Toggle flyout" [ref=e156] [cursor=pointer]:
+                      - img [ref=e157]
+                  - textbox
+              - generic [ref=e161]:
+                - generic [ref=e162]: Phone*
+                - textbox "Phone" [ref=e163]
+            - generic [ref=e164]:
+              - generic [ref=e166]:
+                - generic [ref=e167]: Location (City)*
+                - generic [ref=e168]:
+                  - log [ref=e170]
+                  - combobox "Location (City)" [ref=e175]
+                  - textbox
+              - button "Locate me" [ref=e176] [cursor=pointer]
+            - group "Resume/CV*" [ref=e178]:
+              - generic [ref=e179]: Resume/CV*
+              - generic [ref=e181]:
+                - generic [ref=e183]:
+                  - button "Attach" [ref=e184] [cursor=pointer]
+                  - generic [ref=e185]: Attach
+                  - button "Attach" [ref=e186]
+                - button "Dropbox" [ref=e188] [cursor=pointer]
+                - button "Google Drive" [ref=e190] [cursor=pointer]
+                - generic [ref=e192]:
+                  - button "Enter manually" [ref=e193] [cursor=pointer]
+                  - generic [ref=e194]: Enter manually
+                - paragraph [ref=e195]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e197]:
+              - generic [ref=e198]: Cover Letter
+              - generic [ref=e200]:
+                - generic [ref=e202]:
+                  - button "Attach" [ref=e203] [cursor=pointer]
+                  - generic [ref=e204]: Attach
+                  - button "Attach" [ref=e205]
+                - button "Dropbox" [ref=e207] [cursor=pointer]
+                - button "Google Drive" [ref=e209] [cursor=pointer]
+                - generic [ref=e211]:
+                  - button "Enter manually" [ref=e212] [cursor=pointer]
+                  - generic [ref=e213]: Enter manually
+                - paragraph [ref=e214]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e215]:
+            - separator [ref=e216]
+            - generic [ref=e219]:
+              - generic [ref=e220]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e221]
+            - generic [ref=e224]:
+              - generic [ref=e225]: Website
+              - textbox "Website" [ref=e226]
+            - generic [ref=e229]:
+              - generic [ref=e230]: Are you legally authorized to work in the United States for any US employer now and in the future?*
+              - generic [ref=e231]:
+                - log [ref=e233]
+                - generic [ref=e235]:
+                  - generic [ref=e236]:
+                    - generic [ref=e237]: Select...
+                    - combobox "Are you legally authorized to work in the United States for any US employer now and in the future?" [ref=e239]
+                  - button "Toggle flyout" [ref=e241] [cursor=pointer]:
+                    - img [ref=e242]
+                - textbox
+            - generic [ref=e244]:
+              - generic [ref=e246]:
+                - generic [ref=e247]: Will you now or in the future require sponsorship for employment in the United States?*
+                - generic [ref=e248]:
+                  - log [ref=e250]
+                  - generic [ref=e252]:
+                    - generic [ref=e253]:
+                      - generic [ref=e254]: Select...
+                      - combobox "Will you now or in the future require sponsorship for employment in the United States?" [ref=e256]
+                    - button "Toggle flyout" [ref=e258] [cursor=pointer]:
+                      - img [ref=e259]
+                  - textbox
+              - paragraph [ref=e263]: "Please note prior to proceeding: Axon will determine, in its sole discretion, whether to sponsor or continue sponsorship of any employment-based visa, including an H-1B petition, transfer, or extension, or other petition. Axon cannot guarantee that work authorization will be sought and reserves the right to withdraw this offer or terminate employment in the event that Axon determines not to or is unable to proceed with visa sponsorship. Any verbal or written commitment made by Axon regarding visa sponsorship is non-binding and may be changed at any time in Axon's sole discretion."
+            - generic [ref=e266]:
+              - generic [ref=e267]: Can you provide verification of both your identity and authorization to work in the United States, to the extent required by law?*
+              - generic [ref=e268]:
+                - log [ref=e270]
+                - generic [ref=e272]:
+                  - generic [ref=e273]:
+                    - generic [ref=e274]: Select...
+                    - combobox "Can you provide verification of both your identity and authorization to work in the United States, to the extent required by law?" [ref=e276]
+                  - button "Toggle flyout" [ref=e278] [cursor=pointer]:
+                    - img [ref=e279]
+                - textbox
+            - generic [ref=e283]:
+              - generic [ref=e284]: Are you at least 18 years of age?*
+              - generic [ref=e285]:
+                - log [ref=e287]
+                - generic [ref=e289]:
+                  - generic [ref=e290]:
+                    - generic [ref=e291]: Select...
+                    - combobox "Are you at least 18 years of age?" [ref=e293]
+                  - button "Toggle flyout" [ref=e295] [cursor=pointer]:
+                    - img [ref=e296]
+                - textbox
+            - generic [ref=e298]:
+              - generic [ref=e300]:
+                - generic [ref=e301]: Based on the below information, would you meet the requirements for a deemed export license in order to access EAR - controlled technology?*
+                - generic [ref=e302]:
+                  - log [ref=e304]
+                  - generic [ref=e306]:
+                    - generic [ref=e307]:
+                      - generic [ref=e308]: Select...
+                      - combobox "Based on the below information, would you meet the requirements for a deemed export license in order to access EAR - controlled technology?" [ref=e310]
+                    - button "Toggle flyout" [ref=e312] [cursor=pointer]:
+                      - img [ref=e313]
+                  - textbox
+              - paragraph [ref=e317]: Due to the nature of Axon’s products and technology, certain job-related technical data is subject to U.S. Export Administration Regulations (EAR). In order for certain Non-U.S. Persons to access this technology/data, Axon must apply for and be issued a deemed export license from the U.S. Department of Commerce. Any Non-U.S. Person is subject to deemed export regulations except a Non-U.S. Person who (1) is granted U.S. Permanent Resident status, as demonstrated by the issuance of a permanent resident visa (i.e., Green Card); or (2) is granted U.S. citizenship; or (3) is granted status as a protected person (i.e., Asylee or Refugee) under 8 U.S.C. 1324b(a)(3).
+            - generic [ref=e320]:
+              - generic [ref=e321]: Do you have any contractual obligations, agreements, relationships, or commitments to another person or entity that would impact, impede or interfere with your ability to join Axon?*
+              - generic [ref=e322]:
+                - log [ref=e324]
+                - generic [ref=e326]:
+                  - generic [ref=e327]:
+                    - generic [ref=e328]: Select...
+                    - combobox "Do you have any contractual obligations, agreements, relationships, or commitments to another person or entity that would impact, impede or interfere with your ability to join Axon?" [ref=e330]
+                  - button "Toggle flyout" [ref=e332] [cursor=pointer]:
+                    - img [ref=e333]
+                - textbox
+            - generic [ref=e337]:
+              - generic [ref=e338]: ACKNOWLEDGMENT OF RECEIPT AND REVIEW I acknowledge that I received a copy of Axon’s Prohibited Possessor Questionnaire (“Questionnaire”) and that I read it, understood it, and answered the questions truthfully and accurately. I understand that Axon has the maximum discretion permitted by law to interpret, administer, change, modify, or delete this Questionnaire at any time with or without notice. I understand that neither this Questionnaire nor any other communication by a recruiter, hiring manager, supervisor, manager, Axon’s People Operations, or any other Axon employee, whether oral or written, is intended in any way to create a contract of employment. I understand that Axon will keep this information secure and confidential and will not use any such information for any unlawful purpose or in any unlawful way. Finally, I again represent that all the information provided herein is truthful and accurate.*
+              - generic [ref=e339]:
+                - log [ref=e341]
+                - generic [ref=e343]:
+                  - generic [ref=e344]:
+                    - generic [ref=e345]: Select...
+                    - combobox [ref=e347]
+                  - button "Toggle flyout" [ref=e349] [cursor=pointer]:
+                    - img [ref=e350]
+                - textbox
+            - generic [ref=e354]:
+              - generic [ref=e355]: Are you a fugitive from justice?*
+              - generic [ref=e356]:
+                - log [ref=e358]
+                - generic [ref=e360]:
+                  - generic [ref=e361]:
+                    - generic [ref=e362]: Select...
+                    - combobox "Are you a fugitive from justice?" [ref=e364]
+                  - button "Toggle flyout" [ref=e366] [cursor=pointer]:
+                    - img [ref=e367]
+                - textbox
+            - generic [ref=e371]:
+              - generic [ref=e372]: Are you an alien illegally or unlawfully in the United States?*
+              - generic [ref=e373]:
+                - log [ref=e375]
+                - generic [ref=e377]:
+                  - generic [ref=e378]:
+                    - generic [ref=e379]: Select...
+                    - combobox "Are you an alien illegally or unlawfully in the United States?" [ref=e381]
+                  - button "Toggle flyout" [ref=e383] [cursor=pointer]:
+                    - img [ref=e384]
+                - textbox
+            - generic [ref=e388]:
+              - generic [ref=e389]: Are you an alien who has been admitted to the United States under a nonimmigrant visa? (i.e. H-1B, TN, F1)*
+              - generic [ref=e390]:
+                - log [ref=e392]
+                - generic [ref=e394]:
+                  - generic [ref=e395]:
+                    - generic [ref=e396]: Select...
+                    - combobox "Are you an alien who has been admitted to the United States under a nonimmigrant visa? (i.e. H-1B, TN, F1)" [ref=e398]
+                  - button "Toggle flyout" [ref=e400] [cursor=pointer]:
+                    - img [ref=e401]
+                - textbox
+            - generic [ref=e403]:
+              - generic [ref=e405]:
+                - generic [ref=e406]: Are you an unlawful user of, or addicted to, marijuana or any depressant, stimulant, narcotic drug, or any other controlled substance? *
+                - generic [ref=e407]:
+                  - log [ref=e409]
+                  - generic [ref=e411]:
+                    - generic [ref=e412]:
+                      - generic [ref=e413]: Select...
+                      - combobox "Are you an unlawful user of, or addicted to, marijuana or any depressant, stimulant, narcotic drug, or any other controlled substance?" [ref=e415]
+                    - button "Toggle flyout" [ref=e417] [cursor=pointer]:
+                      - img [ref=e418]
+                  - textbox
+              - paragraph [ref=e422]:
+                - strong [ref=e423]: "Warning:"
+                - text: The use or possession of marijuana remains unlawful under Federal law regardless of whether it has been legalized or decriminalized for medicinal or recreational purposes in the state where you reside.
+            - generic [ref=e426]:
+              - generic [ref=e427]: Are you subject to a court order, including a Military Protection Order issued by a military judge or magistrate, restraining you from harassing, stalking, or threatening your child or an intimate partner or child of such partner?*
+              - generic [ref=e428]:
+                - log [ref=e430]
+                - generic [ref=e432]:
+                  - generic [ref=e433]:
+                    - generic [ref=e434]: Select...
+                    - combobox "Are you subject to a court order, including a Military Protection Order issued by a military judge or magistrate, restraining you from harassing, stalking, or threatening your child or an intimate partner or child of such partner?" [ref=e436]
+                  - button "Toggle flyout" [ref=e438] [cursor=pointer]:
+                    - img [ref=e439]
+                - textbox
+            - generic [ref=e443]:
+              - generic [ref=e444]: Are you under indictment or information in any court for a felony, or any other crime for which the judge could imprison you for more than one year, or are you a current member of the military who has been charged with violation(s) of the Uniform Code of Military Justice and whose charge(s) have been referred to a general court-martial?*
+              - generic [ref=e445]:
+                - log [ref=e447]
+                - generic [ref=e449]:
+                  - generic [ref=e450]:
+                    - generic [ref=e451]: Select...
+                    - combobox "Are you under indictment or information in any court for a felony, or any other crime for which the judge could imprison you for more than one year, or are you a current member of the military who has been charged with violation(s) of the Uniform Code of Military Justice and whose charge(s) have been referred to a general court-martial?" [ref=e453]
+                  - button "Toggle flyout" [ref=e455] [cursor=pointer]:
+                    - img [ref=e456]
+                - textbox
+            - generic [ref=e458]:
+              - group "Federal Firearms Licensee Employee Accessor Questionnaire *" [ref=e459]:
+                - generic [ref=e460]: Federal Firearms Licensee Employee Accessor Questionnaire *
+                - generic [ref=e461]:
+                  - checkbox "Acknowledge" [ref=e463]
+                  - generic [ref=e464]: Acknowledge
+              - generic [ref=e466]:
+                - paragraph [ref=e467]: The following questions apply only to an employee’s ability to access firearms in accordance with Reference 5.1, 18 U.SC. § 922(d), (g) and (n), Reference 5.7, 27 C.F.R. § 478.32. Answering dishonestly to any of the below questions may result in disciplinary action up to and including termination. Possession of firearms by Prohibited Possessors is a violation under U.S. federal law and can result in criminal penalties.
+                - paragraph [ref=e468]: Please answer all questions below in a “Yes” or “No” format.
+            - generic [ref=e471]:
+              - generic [ref=e472]: Have you ever been adjudicated as a mental defective OR have you ever been committed to a mental institution?*
+              - generic [ref=e473]:
+                - log [ref=e475]
+                - generic [ref=e477]:
+                  - generic [ref=e478]:
+                    - generic [ref=e479]: Select...
+                    - combobox "Have you ever been adjudicated as a mental defective OR have you ever been committed to a mental institution?" [ref=e481]
+                  - button "Toggle flyout" [ref=e483] [cursor=pointer]:
+                    - img [ref=e484]
+                - textbox
+            - generic [ref=e488]:
+              - generic [ref=e489]: Have you ever been convicted in any court of a misdemeanor crime of domestic violence, or are you or have you ever been a member of the military and been convicted of a crime that included, as an element, the use of force against a person as identified in the instructions?*
+              - generic [ref=e490]:
+                - log [ref=e492]
+                - generic [ref=e494]:
+                  - generic [ref=e495]:
+                    - generic [ref=e496]: Select...
+                    - combobox "Have you ever been convicted in any court of a misdemeanor crime of domestic violence, or are you or have you ever been a member of the military and been convicted of a crime that included, as an element, the use of force against a person as identified in the instructions?" [ref=e498]
+                  - button "Toggle flyout" [ref=e500] [cursor=pointer]:
+                    - img [ref=e501]
+                - textbox
+            - generic [ref=e505]:
+              - generic [ref=e506]: Have you ever been convicted in any court, including a military court, of a felony, or any other crime for which the judge could have imprisoned you for more than one year, even if you received a shorter sentence including probation?*
+              - generic [ref=e507]:
+                - log [ref=e509]
+                - generic [ref=e511]:
+                  - generic [ref=e512]:
+                    - generic [ref=e513]: Select...
+                    - combobox "Have you ever been convicted in any court, including a military court, of a felony, or any other crime for which the judge could have imprisoned you for more than one year, even if you received a shorter sentence including probation?" [ref=e515]
+                  - button "Toggle flyout" [ref=e517] [cursor=pointer]:
+                    - img [ref=e518]
+                - textbox
+            - generic [ref=e522]:
+              - generic [ref=e523]: Have you ever been discharged from the Armed Forces under dishonorable conditions?*
+              - generic [ref=e524]:
+                - log [ref=e526]
+                - generic [ref=e528]:
+                  - generic [ref=e529]:
+                    - generic [ref=e530]: Select...
+                    - combobox "Have you ever been discharged from the Armed Forces under dishonorable conditions?" [ref=e532]
+                  - button "Toggle flyout" [ref=e534] [cursor=pointer]:
+                    - img [ref=e535]
+                - textbox
+            - generic [ref=e539]:
+              - generic [ref=e540]: Have you ever renounced your United States citizenship?*
+              - generic [ref=e541]:
+                - log [ref=e543]
+                - generic [ref=e545]:
+                  - generic [ref=e546]:
+                    - generic [ref=e547]: Select...
+                    - combobox "Have you ever renounced your United States citizenship?" [ref=e549]
+                  - button "Toggle flyout" [ref=e551] [cursor=pointer]:
+                    - img [ref=e552]
+                - textbox
+            - generic [ref=e556]:
+              - generic [ref=e557]: What city do you currently reside in?*
+              - textbox "What city do you currently reside in?" [ref=e558]
+          - generic [ref=e559]:
+            - separator [ref=e560]
+            - generic [ref=e561]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e562]
+              - paragraph [ref=e563]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e564]: As set forth in Axon’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e567]:
+              - generic [ref=e568]: Gender*
+              - generic [ref=e569]:
+                - log [ref=e571]
+                - generic [ref=e573]:
+                  - generic [ref=e574]:
+                    - generic [ref=e575]: Select...
+                    - combobox "Gender" [ref=e577]
+                  - button "Toggle flyout" [ref=e579] [cursor=pointer]:
+                    - img [ref=e580]
+                - textbox
+            - generic [ref=e582]:
+              - generic [ref=e584]:
+                - generic [ref=e585]: Are you Hispanic/Latino?*
+                - generic [ref=e586]:
+                  - log [ref=e588]
+                  - generic [ref=e590]:
+                    - generic [ref=e591]:
+                      - generic [ref=e592]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e594]
+                    - button "Toggle flyout" [ref=e596] [cursor=pointer]:
+                      - img [ref=e597]
+                  - textbox
+              - link "Race & Ethnicity Definitions" [ref=e599] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e600]:
+              - paragraph [ref=e601]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e602]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e603]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e604]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e605]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e608]:
+              - generic [ref=e609]: Veteran Status*
+              - generic [ref=e610]:
+                - log [ref=e612]
+                - generic [ref=e614]:
+                  - generic [ref=e615]:
+                    - generic [ref=e616]: Select...
+                    - combobox "Veteran Status" [ref=e618]
+                  - button "Toggle flyout" [ref=e620] [cursor=pointer]:
+                    - img [ref=e621]
+                - textbox
+            - separator [ref=e623]
+            - generic [ref=e624]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e625]
+              - generic [ref=e626]:
+                - generic [ref=e627]:
+                  - generic [ref=e628]: Form CC-305
+                  - generic [ref=e629]: Page 1 of 1
+                - generic [ref=e630]:
+                  - generic [ref=e631]: OMB Control Number 1250-0005
+                  - generic [ref=e632]: Expires 04/30/2026
+              - strong [ref=e633]: Why are you being asked to complete this form?
+              - paragraph [ref=e634]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e635]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e636] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e637]: How do you know if you have a disability?
+              - paragraph [ref=e638]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e639]: "Disabilities include, but are not limited to:"
+              - list [ref=e640]:
+                - listitem [ref=e641]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e642]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e643]: Blind or low vision
+                - listitem [ref=e644]: Cancer (past or present)
+                - listitem [ref=e645]: Cardiovascular or heart disease
+                - listitem [ref=e646]: Celiac disease
+                - listitem [ref=e647]: Cerebral palsy
+                - listitem [ref=e648]: Deaf or serious difficulty hearing
+                - listitem [ref=e649]: Diabetes
+                - listitem [ref=e650]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e651]: Epilepsy or other seizure disorder
+                - listitem [ref=e652]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e653]: Intellectual or developmental disability
+                - listitem [ref=e654]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e655]: Missing limbs or partially missing limbs
+                - listitem [ref=e656]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e657]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e658]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e659]: Partial or complete paralysis (any cause)
+                - listitem [ref=e660]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e661]: Short stature (dwarfism)
+                - listitem [ref=e662]: Traumatic brain injury
+            - generic [ref=e665]:
+              - generic [ref=e666]: Disability Status*
+              - generic [ref=e667]:
+                - log [ref=e669]
+                - generic [ref=e671]:
+                  - generic [ref=e672]:
+                    - generic [ref=e673]: Select...
+                    - combobox "Disability Status" [ref=e675]
+                  - button "Toggle flyout" [ref=e677] [cursor=pointer]:
+                    - img [ref=e678]
+                - textbox
+            - paragraph [ref=e681]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e683] [cursor=pointer]
+  - contentinfo [ref=e684]:
+    - generic [ref=e685]:
+      - paragraph [ref=e686]: Powered by
+      - link "Greenhouse logo" [ref=e687] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e688]

@@ -57,7 +57,7 @@
 ### Gap Mitigation Strategy
 
 **Gap 1: Kubernetes** (Major)
-- **Why it's learnable:** Daris learned ROCm + DepthAnythingV2 + DFormerV2 + SAM3D from scratch in 48 hours. K8s has 3-4 core concepts (pods, services, deployments, custom resources) that are simpler than 5 pre-trained models.
+- **Why it's learnable:** Daris learned ROCm + DepthAnythingV2 + DFormerV2 + SAM3D from scratch in 24 hours. K8s has 3-4 core concepts (pods, services, deployments, custom resources) that are simpler than 5 pre-trained models.
 - **Adjacent skills:** Docker fundamentals + distributed systems + EC2 deployment. Understandable, not foreign.
 - **Timeline:** 2-4 weeks to competence, 2-3 months to expert-level administration.
 - **Recommendation:** Be honest in interview: "I haven't used K8s in production, but I've shipped distributed systems on EC2 and understand containerization via Docker. I learn infrastructure quickly (ROCm example). I'm ready to ramp K8s fast."
@@ -104,7 +104,7 @@
    - *Why it matters:* "I think like an infrastructure engineer, not just an ML engineer."
 
 3. **Rapid Learning Under Pressure:**
-   - Learned ROCm, DepthAnythingV2, DFormerV2, SAM3D from scratch in 48 hours (FlipperZillow)
+   - Learned ROCm, DepthAnythingV2, DFormerV2, SAM3D from scratch in 24 hours (FlipperZillow)
    - Debugged GPU compatibility issues, pivoted when tools broke
    - Shipped working product under extreme time pressure
    - *Why it matters:* "I can jump into unfamiliar infrastructure (like K8s) and ramp fast."
@@ -276,7 +276,7 @@ If Daris applies, prepare these 5 STAR+R stories:
 **Context:** K8s is unfamiliar; this story proves you ramp infrastructure fast.
 
 - **Situation:** FlipperZillow 24-hour hackathon (Feb 2026). Need to process real estate images through GPU pipeline on unfamiliar AMD ROCm cloud.
-- **Task:** Build multi-model inference pipeline (DepthAnythingV2 → DFormerV2 → SAM3D) in 48 hours on unfamiliar infrastructure.
+- **Task:** Build multi-model inference pipeline (DepthAnythingV2 → DFormerV2 → SAM3D) in 24 hours on unfamiliar infrastructure.
 - **Action:**
   1. Day 1: Learned ROCm, reviewed DepthAnythingV2 + DFormerV2 + SAM3D documentation, set up AMD cloud environment
   2. Day 1-2: Integrated 5 pre-trained models, built streaming inference pipeline

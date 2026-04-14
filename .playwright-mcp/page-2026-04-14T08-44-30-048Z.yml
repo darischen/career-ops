@@ -1,0 +1,136 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "NewsBreak Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://www.newsbreak.com/
+        - img "NewsBreak Logo" [ref=e6]
+      - heading "Current openings at NewsBreak" [level=1] [ref=e7]
+      - generic [ref=e11]:
+        - paragraph [ref=e12]: Founded in 2015, NewsBreak is the Content Intelligence platform shaping the future content economy. With over 40 million monthly active users, our flagship platform delivers highly personalized local news and information powered by advanced AI, recommendation systems, and adtech.
+        - paragraph [ref=e13]:
+          - text: Recognized by
+          - emphasis [ref=e14]: Fast Company
+          - text: "as #32 on the Top Workplaces for Innovators, we're proud to be Great Place to Work® certified and home to a dynamic team of technologists, product innovators, and business leaders who are passionate about solving meaningful challenges at scale."
+        - paragraph [ref=e15]: "Together, we reached unicorn status in 2021, and we remain committed to continuing this high-growth trajectory with the right team to fulfill our mission: building the infrastructure layer for content intelligence."
+        - paragraph [ref=e16]:
+          - text: If you’re inspired to dream big, innovate fast, and make a difference, we’d love to hear from you! For more information, visit
+          - link "www.newsbreak.com/about" [ref=e17] [cursor=pointer]:
+            - /url: http://www.newsbreak.com/about
+      - generic [ref=e18]:
+        - img [ref=e19]
+        - generic [ref=e21]:
+          - paragraph [ref=e22]: Create a Job Alert
+          - paragraph [ref=e23]: Level-up your career by having opportunities at NewsBreak sent directly to your inbox.
+          - button "Create alert" [ref=e24] [cursor=pointer]
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - generic [ref=e28]:
+            - generic [ref=e29]: Search
+            - textbox "Search" [ref=e30]
+          - generic [ref=e32]:
+            - generic [ref=e33]: Department
+            - generic [ref=e34]:
+              - log [ref=e36]
+              - generic [ref=e38]:
+                - generic [ref=e39]:
+                  - generic [ref=e40]: Select...
+                  - combobox "Department" [ref=e42]
+                - button "Toggle flyout" [ref=e44] [cursor=pointer]:
+                  - img [ref=e45]
+          - generic [ref=e48]:
+            - generic [ref=e49]: Office
+            - generic [ref=e50]:
+              - log [ref=e52]
+              - generic [ref=e54]:
+                - generic [ref=e55]:
+                  - generic [ref=e56]: Select...
+                  - combobox "Office" [ref=e58]
+                - button "Toggle flyout" [ref=e60] [cursor=pointer]:
+                  - img [ref=e61]
+        - generic [ref=e63]:
+          - heading "9 jobs" [level=2] [ref=e64]
+          - generic [ref=e65]:
+            - generic [ref=e66]:
+              - heading "Engineering" [level=3] [ref=e67]
+              - table [ref=e69]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e70]:
+                      - paragraph [ref=e71]: Job
+                - rowgroup [ref=e72]:
+                  - row "AI Development Engineer (AIGC & AI Agent) Mountain View, California, United States" [ref=e73]:
+                    - cell "AI Development Engineer (AIGC & AI Agent) Mountain View, California, United States" [ref=e74]:
+                      - link "AI Development Engineer (AIGC & AI Agent) Mountain View, California, United States" [ref=e75] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/newsbreak/jobs/4645685006
+                        - paragraph [ref=e76]: AI Development Engineer (AIGC & AI Agent)
+                        - paragraph [ref=e77]: Mountain View, California, United States
+                  - row "Senior Machine Learning Engineer, Recommendation & AI Applications Mountain View, California, United States" [ref=e78]:
+                    - cell "Senior Machine Learning Engineer, Recommendation & AI Applications Mountain View, California, United States" [ref=e79]:
+                      - link "Senior Machine Learning Engineer, Recommendation & AI Applications Mountain View, California, United States" [ref=e80] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/newsbreak/jobs/4645028006
+                        - paragraph [ref=e81]: Senior Machine Learning Engineer, Recommendation & AI Applications
+                        - paragraph [ref=e82]: Mountain View, California, United States
+                  - row "Senior Software Engineer, iOS Mountain View, California, United States" [ref=e83]:
+                    - cell "Senior Software Engineer, iOS Mountain View, California, United States" [ref=e84]:
+                      - link "Senior Software Engineer, iOS Mountain View, California, United States" [ref=e85] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/newsbreak/jobs/4313090006
+                        - paragraph [ref=e86]: Senior Software Engineer, iOS
+                        - paragraph [ref=e87]: Mountain View, California, United States
+                  - row "Software Engineer, ML Infra Mountain View, California, United States" [ref=e88]:
+                    - cell "Software Engineer, ML Infra Mountain View, California, United States" [ref=e89]:
+                      - link "Software Engineer, ML Infra Mountain View, California, United States" [ref=e90] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/newsbreak/jobs/4409616006
+                        - paragraph [ref=e91]: Software Engineer, ML Infra
+                        - paragraph [ref=e92]: Mountain View, California, United States
+                  - row "Staff Machine Learning Engineer, Recommendation & AI Platform Mountain View, California, United States" [ref=e93]:
+                    - cell "Staff Machine Learning Engineer, Recommendation & AI Platform Mountain View, California, United States" [ref=e94]:
+                      - link "Staff Machine Learning Engineer, Recommendation & AI Platform Mountain View, California, United States" [ref=e95] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/newsbreak/jobs/4645423006
+                        - paragraph [ref=e96]: Staff Machine Learning Engineer, Recommendation & AI Platform
+                        - paragraph [ref=e97]: Mountain View, California, United States
+            - generic [ref=e98]:
+              - heading "Internship Program" [level=3] [ref=e99]
+              - table [ref=e101]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e102]:
+                      - paragraph [ref=e103]: Job
+                - rowgroup [ref=e104]:
+                  - row "AI Development Intern, 2026 Mountain View, California, United States" [ref=e105]:
+                    - cell "AI Development Intern, 2026 Mountain View, California, United States" [ref=e106]:
+                      - link "AI Development Intern, 2026 Mountain View, California, United States" [ref=e107] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/newsbreak/jobs/4638840006
+                        - paragraph [ref=e108]: AI Development Intern, 2026
+                        - paragraph [ref=e109]: Mountain View, California, United States
+                  - row "Engineering High-Potential Launch Program (3-Month Internship to Full-Time Program) Mountain View, California, United States" [ref=e110]:
+                    - cell "Engineering High-Potential Launch Program (3-Month Internship to Full-Time Program) Mountain View, California, United States" [ref=e111]:
+                      - link "Engineering High-Potential Launch Program (3-Month Internship to Full-Time Program) Mountain View, California, United States" [ref=e112] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/newsbreak/jobs/4621307006
+                        - paragraph [ref=e113]: Engineering High-Potential Launch Program (3-Month Internship to Full-Time Program)
+                        - paragraph [ref=e114]: Mountain View, California, United States
+                  - row "Engineering Intern, NexBreak Venture Mountain View, California, United States" [ref=e115]:
+                    - cell "Engineering Intern, NexBreak Venture Mountain View, California, United States" [ref=e116]:
+                      - link "Engineering Intern, NexBreak Venture Mountain View, California, United States" [ref=e117] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/newsbreak/jobs/4655812006
+                        - paragraph [ref=e118]: Engineering Intern, NexBreak Venture
+                        - paragraph [ref=e119]: Mountain View, California, United States
+            - generic [ref=e120]:
+              - heading "Product and Design" [level=3] [ref=e121]
+              - table [ref=e123]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e124]:
+                      - paragraph [ref=e125]: Job
+                - rowgroup [ref=e126]:
+                  - row "Senior Product Manager Mountain View, California, United States" [ref=e127]:
+                    - cell "Senior Product Manager Mountain View, California, United States" [ref=e128]:
+                      - link "Senior Product Manager Mountain View, California, United States" [ref=e129] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/newsbreak/jobs/4648145006
+                        - paragraph [ref=e130]: Senior Product Manager
+                        - paragraph [ref=e131]: Mountain View, California, United States
+  - contentinfo [ref=e132]:
+    - generic [ref=e133]:
+      - paragraph [ref=e134]: Powered by
+      - link "Greenhouse logo" [ref=e135] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e136]

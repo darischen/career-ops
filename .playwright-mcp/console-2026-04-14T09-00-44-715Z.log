@@ -1,0 +1,5 @@
+[     149ms] [ERROR] Access to resource at 'https://community.workday.com/maintenance-page' (redirected from 'https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/undefined') from origin 'https://pae.wd1.myworkdayjobs.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Engineer_R0158659?utm_source=Simplify&ref=Simplify:0
+[     149ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://community.workday.com/maintenance-page:0
+[     724ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://my.greenhouse.io/users/self?job_post_id=7662648003:0
+[     726ms] UnauthorizedError: Unauthorized: User is not logged in.
+    at Gs.fetchProfile (https://job-boards.cdn.greenhouse.io/assets/entry.client-6xjydqH5.js:61:71218)

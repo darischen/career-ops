@@ -1,0 +1,624 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Perplexity" [ref=e6] [cursor=pointer]:
+        - /url: https://www.perplexity.ai/
+        - img "Perplexity" [ref=e7]
+    - listitem
+    - listitem
+  - generic [ref=e8]:
+    - status [ref=e10]:
+      - text: Open Positions
+      - generic [ref=e11]: (78)
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - generic [ref=e15]: "Filters:"
+          - button "Reset filters" [disabled]:
+            - img
+            - text: Reset filters
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - combobox "Department" [ref=e18]:
+              - option "All Departments"
+              - option "AI (23)"
+              - option "Business (5)"
+              - option "Communications (2)"
+              - option "Customer Success (1)"
+              - option "Customer Success & Support (6)"
+              - option "Data Science (2)"
+              - option "Finance (1)"
+              - option "IT (1)"
+              - option "Legal (3)"
+              - option "Mobile (3)"
+              - option "Platform & Infrastructure (3)"
+              - option "Product Engineering (8)"
+              - option "Residency Program (1)"
+              - option "Search (13)"
+              - option "Security (5)"
+              - option "Workplace (1)"
+            - generic:
+              - img
+          - generic [ref=e19]:
+            - combobox "Employment" [ref=e20]:
+              - option "All Employment Types"
+              - option "Contract (2)"
+              - option "Full time (76)"
+            - generic:
+              - img
+          - generic [ref=e21]:
+            - combobox "Location" [ref=e22]:
+              - option "All Locations"
+              - option "Belgrade (15)"
+              - option "Berlin (12)"
+              - option "London (24)"
+              - option "New York City (35)"
+              - option "Palo Alto (7)"
+              - option "Remote (United States) (5)"
+              - option "San Francisco (57)"
+              - option "Seattle (3)"
+              - option "Serbia (5)"
+              - option "Tokyo (2)"
+              - option "Washington D.C. (2)"
+            - generic:
+              - img
+          - generic [ref=e23]:
+            - combobox "Location Type" [ref=e24]:
+              - option "All Location Types"
+              - option "Hybrid (29)"
+              - option "On-site (4)"
+            - generic:
+              - img
+        - status [ref=e25]: No filters applied
+      - generic [ref=e26]:
+        - heading "AI" [level=2] [ref=e27]:
+          - generic [ref=e28]: AI
+        - generic [ref=e29]:
+          - link "AI Engineer, Applied ML AI • San Francisco; New York City; Palo Alto • Full time $220K – $405K • Offers Equity" [ref=e30] [cursor=pointer]:
+            - /url: /perplexity/3c656963-876a-458d-bca6-916a42a24c1a
+            - generic [ref=e31]:
+              - heading "AI Engineer, Applied ML" [level=3] [ref=e32]
+              - generic [ref=e33]:
+                - paragraph [ref=e34]: AI • San Francisco; New York City; Palo Alto • Full time
+                - paragraph [ref=e35]: $220K – $405K • Offers Equity
+          - link "AI Inference Engineer AI • San Francisco; New York City; Palo Alto • Full time $220K – $405K • Offers Equity" [ref=e36] [cursor=pointer]:
+            - /url: /perplexity/8a976851-9bef-4b07-8d36-567fa9540aef
+            - generic [ref=e37]:
+              - heading "AI Inference Engineer" [level=3] [ref=e38]
+              - generic [ref=e39]:
+                - paragraph [ref=e40]: AI • San Francisco; New York City; Palo Alto • Full time
+                - paragraph [ref=e41]: $220K – $405K • Offers Equity
+          - link "AI Inference Engineer AI • London • Full time" [ref=e42] [cursor=pointer]:
+            - /url: /perplexity/e4777627-ff8f-4257-8612-3a016bb58592
+            - generic [ref=e43]:
+              - heading "AI Inference Engineer" [level=3] [ref=e44]
+              - paragraph [ref=e46]: AI • London • Full time
+          - link "AI Infra Engineer AI • London • Full time • Hybrid" [ref=e47] [cursor=pointer]:
+            - /url: /perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e
+            - generic [ref=e48]:
+              - heading "AI Infra Engineer" [level=3] [ref=e49]
+              - paragraph [ref=e51]: AI • London • Full time • Hybrid
+          - link "AI Infra Engineer AI • San Francisco; Palo Alto • Full time $220K – $405K • Offers Equity" [ref=e52] [cursor=pointer]:
+            - /url: /perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315
+            - generic [ref=e53]:
+              - heading "AI Infra Engineer" [level=3] [ref=e54]
+              - generic [ref=e55]:
+                - paragraph [ref=e56]: AI • San Francisco; Palo Alto • Full time
+                - paragraph [ref=e57]: $220K – $405K • Offers Equity
+          - link "AI Research Lead AI • San Francisco • Full time $300K – $485K • Offers Equity" [ref=e58] [cursor=pointer]:
+            - /url: /perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03
+            - generic [ref=e59]:
+              - heading "AI Research Lead" [level=3] [ref=e60]
+              - generic [ref=e61]:
+                - paragraph [ref=e62]: AI • San Francisco • Full time
+                - paragraph [ref=e63]: $300K – $485K • Offers Equity
+          - link "AI Researcher AI • San Francisco; Palo Alto • Full time $220K – $485K • Offers Equity" [ref=e64] [cursor=pointer]:
+            - /url: /perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764
+            - generic [ref=e65]:
+              - heading "AI Researcher" [level=3] [ref=e66]
+              - generic [ref=e67]:
+                - paragraph [ref=e68]: AI • San Francisco; Palo Alto • Full time
+                - paragraph [ref=e69]: $220K – $485K • Offers Equity
+          - link "AI Software Engineer - Agents AI • San Francisco • Full time $220K – $405K • Offers Equity" [ref=e70] [cursor=pointer]:
+            - /url: /perplexity/bc1a6878-8de9-48c2-a791-95b2f8f27261
+            - generic [ref=e71]:
+              - heading "AI Software Engineer - Agents" [level=3] [ref=e72]
+              - generic [ref=e73]:
+                - paragraph [ref=e74]: AI • San Francisco • Full time
+                - paragraph [ref=e75]: $220K – $405K • Offers Equity
+          - link "Data Scientist, Evals AI • London; Belgrade; Berlin; San Francisco • Full time • Hybrid" [ref=e76] [cursor=pointer]:
+            - /url: /perplexity/4615ca06-bea7-47e3-9e57-f5cee52b75e6
+            - generic [ref=e77]:
+              - heading "Data Scientist, Evals" [level=3] [ref=e78]
+              - paragraph [ref=e80]: AI • London; Belgrade; Berlin; San Francisco • Full time • Hybrid
+          - link "Data Scientist/Engineer – Online Metrics AI • New York City; San Francisco • Full time • Hybrid" [ref=e81] [cursor=pointer]:
+            - /url: /perplexity/768efd34-3854-4c9b-9686-2a128ab35405
+            - generic [ref=e82]:
+              - heading "Data Scientist/Engineer – Online Metrics" [level=3] [ref=e83]
+              - paragraph [ref=e85]: AI • New York City; San Francisco • Full time • Hybrid
+          - link "Engineering Manager - Inference AI • San Francisco • Full time $300K – $405K • Offers Equity" [ref=e86] [cursor=pointer]:
+            - /url: /perplexity/2a87ccbf-82ef-4fc7-b1ed-4dd18b11baf9
+            - generic [ref=e87]:
+              - heading "Engineering Manager - Inference" [level=3] [ref=e88]
+              - generic [ref=e89]:
+                - paragraph [ref=e90]: AI • San Francisco • Full time
+                - paragraph [ref=e91]: $300K – $405K • Offers Equity
+          - link "Engineering Site Lead AI • London • Full time" [ref=e92] [cursor=pointer]:
+            - /url: /perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c
+            - generic [ref=e93]:
+              - heading "Engineering Site Lead" [level=3] [ref=e94]
+              - paragraph [ref=e96]: AI • London • Full time
+          - link "Forward Deployed Engineer - Applied AI AI • New York City; London; San Francisco; Seattle • Full time $205K – $335K • Offers Equity" [ref=e97] [cursor=pointer]:
+            - /url: /perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee
+            - generic [ref=e98]:
+              - heading "Forward Deployed Engineer - Applied AI" [level=3] [ref=e99]
+              - generic [ref=e100]:
+                - paragraph [ref=e101]: AI • New York City; London; San Francisco; Seattle • Full time
+                - paragraph [ref=e102]: $205K – $335K • Offers Equity
+          - link "Member of Technical Staff - AI Policy and Strategic Initiatives AI • San Francisco; Washington D.C. • Full time $200K – $330K • Offers Equity" [ref=e103] [cursor=pointer]:
+            - /url: /perplexity/0359ebb4-7cbd-4641-a6d1-1127823e2fd5
+            - generic [ref=e104]:
+              - heading "Member of Technical Staff - AI Policy and Strategic Initiatives" [level=3] [ref=e105]
+              - generic [ref=e106]:
+                - paragraph [ref=e107]: AI • San Francisco; Washington D.C. • Full time
+                - paragraph [ref=e108]: $200K – $330K • Offers Equity
+          - link "Member of Technical Staff - Secure Intelligence Institute AI • San Francisco • Full time $220K – $405K • Offers Equity" [ref=e109] [cursor=pointer]:
+            - /url: /perplexity/e48aaf8c-24cd-4733-aa5b-752773467bfa
+            - generic [ref=e110]:
+              - heading "Member of Technical Staff - Secure Intelligence Institute" [level=3] [ref=e111]
+              - generic [ref=e112]:
+                - paragraph [ref=e113]: AI • San Francisco • Full time
+                - paragraph [ref=e114]: $220K – $405K • Offers Equity
+          - link "Model Behavior Architect AI • San Francisco • Full time • On-site $180K – $270K • Offers Equity" [ref=e115] [cursor=pointer]:
+            - /url: /perplexity/9904db61-b8ca-4207-8f93-88ab6f0cd3fd
+            - generic [ref=e116]:
+              - heading "Model Behavior Architect" [level=3] [ref=e117]
+              - generic [ref=e118]:
+                - paragraph [ref=e119]: AI • San Francisco • Full time • On-site
+                - paragraph [ref=e120]: $180K – $270K • Offers Equity
+          - link "Research Engineering Manager - Model Training AI • San Francisco • Full time $300K – $485K • Offers Equity" [ref=e121] [cursor=pointer]:
+            - /url: /perplexity/08d510a4-c217-4967-a035-b5b8147e5c62
+            - generic [ref=e122]:
+              - heading "Research Engineering Manager - Model Training" [level=3] [ref=e123]
+              - generic [ref=e124]:
+                - paragraph [ref=e125]: AI • San Francisco • Full time
+                - paragraph [ref=e126]: $300K – $485K • Offers Equity
+          - link "Senior/Staff Software Engineer - Acceleration AI • San Francisco; New York City • Full time $250K – $405K • Offers Equity" [ref=e127] [cursor=pointer]:
+            - /url: /perplexity/c03bf199-9faa-48a4-809d-095c72b06000
+            - generic [ref=e128]:
+              - heading "Senior/Staff Software Engineer - Acceleration" [level=3] [ref=e129]
+              - generic [ref=e130]:
+                - paragraph [ref=e131]: AI • San Francisco; New York City • Full time
+                - paragraph [ref=e132]: $250K – $405K • Offers Equity
+          - link "Software Engineer - AI Platform AI • San Francisco; Palo Alto • Full time $220K – $405K • Offers Equity" [ref=e133] [cursor=pointer]:
+            - /url: /perplexity/8673866c-f624-4b58-b171-752cf003630e
+            - generic [ref=e134]:
+              - heading "Software Engineer - AI Platform" [level=3] [ref=e135]
+              - generic [ref=e136]:
+                - paragraph [ref=e137]: AI • San Francisco; Palo Alto • Full time
+                - paragraph [ref=e138]: $220K – $405K • Offers Equity
+          - link "Software Engineer - Data Flywheel AI • London; Belgrade; Berlin; San Francisco • Full time • Hybrid" [ref=e139] [cursor=pointer]:
+            - /url: /perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc
+            - generic [ref=e140]:
+              - heading "Software Engineer - Data Flywheel" [level=3] [ref=e141]
+              - paragraph [ref=e143]: AI • London; Belgrade; Berlin; San Francisco • Full time • Hybrid
+          - link "Staff Backend Software Engineer - API Platform AI • San Francisco; New York City; Seattle • Full time $250K – $405K • Offers Equity" [ref=e144] [cursor=pointer]:
+            - /url: /perplexity/9ac5e638-85f6-4308-bcd5-7dfe0a30a79b
+            - generic [ref=e145]:
+              - heading "Staff Backend Software Engineer - API Platform" [level=3] [ref=e146]
+              - generic [ref=e147]:
+                - paragraph [ref=e148]: AI • San Francisco; New York City; Seattle • Full time
+                - paragraph [ref=e149]: $250K – $405K • Offers Equity
+          - link "Tech Lead Manager - Agents AI • San Francisco • Full time $300K – $405K • Offers Equity" [ref=e150] [cursor=pointer]:
+            - /url: /perplexity/44181937-a55e-4c68-a2dc-9a86e0898498
+            - generic [ref=e151]:
+              - heading "Tech Lead Manager - Agents" [level=3] [ref=e152]
+              - generic [ref=e153]:
+                - paragraph [ref=e154]: AI • San Francisco • Full time
+                - paragraph [ref=e155]: $300K – $405K • Offers Equity
+          - link "UK Internship Program AI • London • Full time • Hybrid" [ref=e156] [cursor=pointer]:
+            - /url: /perplexity/79a07e2d-6150-4929-80fe-bbe13a641763
+            - generic [ref=e157]:
+              - heading "UK Internship Program" [level=3] [ref=e158]
+              - paragraph [ref=e160]: AI • London • Full time • Hybrid
+        - heading "Business" [level=2] [ref=e161]:
+          - generic [ref=e162]: Business
+        - generic [ref=e163]:
+          - link "Business Development Representative Business • San Francisco; New York City • Full time • Hybrid $90K – $130K • Offers Equity • Offers Commission" [ref=e164] [cursor=pointer]:
+            - /url: /perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd
+            - generic [ref=e165]:
+              - heading "Business Development Representative" [level=3] [ref=e166]
+              - generic [ref=e167]:
+                - paragraph [ref=e168]: Business • San Francisco; New York City • Full time • Hybrid
+                - paragraph [ref=e169]: $90K – $130K • Offers Equity • Offers Commission
+          - link "Community & Field Marketer Business • San Francisco; New York City • Full time • Hybrid $130K – $165K • Offers Equity" [ref=e170] [cursor=pointer]:
+            - /url: /perplexity/d7e05546-4d42-4f1a-8ccd-c95d2519f5f6
+            - generic [ref=e171]:
+              - heading "Community & Field Marketer" [level=3] [ref=e172]
+              - generic [ref=e173]:
+                - paragraph [ref=e174]: Business • San Francisco; New York City • Full time • Hybrid
+                - paragraph [ref=e175]: $130K – $165K • Offers Equity
+          - link "Demand Generation Lead Business • San Francisco; New York City • Full time • Hybrid $200K – $215K • Offers Equity" [ref=e176] [cursor=pointer]:
+            - /url: /perplexity/2be717cb-ad3e-4052-a464-79b107a70406
+            - generic [ref=e177]:
+              - heading "Demand Generation Lead" [level=3] [ref=e178]
+              - generic [ref=e179]:
+                - paragraph [ref=e180]: Business • San Francisco; New York City • Full time • Hybrid
+                - paragraph [ref=e181]: $200K – $215K • Offers Equity
+          - link "Enterprise Growth Lead Business • San Francisco; New York City • Full time $200K – $400K • Offers Equity • Offers Commission" [ref=e182] [cursor=pointer]:
+            - /url: /perplexity/b6ae7fbd-70e1-4d1f-9333-cc7ec3f73846
+            - generic [ref=e183]:
+              - heading "Enterprise Growth Lead" [level=3] [ref=e184]
+              - generic [ref=e185]:
+                - paragraph [ref=e186]: Business • San Francisco; New York City • Full time
+                - paragraph [ref=e187]: $200K – $400K • Offers Equity • Offers Commission
+          - link "Solutions Product Marketing Manager Business • San Francisco; New York City • Full time • Hybrid $150K – $185K • Offers Equity" [ref=e188] [cursor=pointer]:
+            - /url: /perplexity/9e3a4516-b893-4579-9a6a-3720658e4b6d
+            - generic [ref=e189]:
+              - heading "Solutions Product Marketing Manager" [level=3] [ref=e190]
+              - generic [ref=e191]:
+                - paragraph [ref=e192]: Business • San Francisco; New York City • Full time • Hybrid
+                - paragraph [ref=e193]: $150K – $185K • Offers Equity
+        - heading "Communications" [level=2] [ref=e194]:
+          - generic [ref=e195]: Communications
+        - generic [ref=e196]:
+          - link "Executive Communications Manager Communications • San Francisco • Full time • Hybrid $190K – $240K • Offers Equity" [ref=e197] [cursor=pointer]:
+            - /url: /perplexity/2df92d4a-48eb-422f-af9c-4a963fd6135c
+            - generic [ref=e198]:
+              - heading "Executive Communications Manager" [level=3] [ref=e199]
+              - generic [ref=e200]:
+                - paragraph [ref=e201]: Communications • San Francisco • Full time • Hybrid
+                - paragraph [ref=e202]: $190K – $240K • Offers Equity
+          - link "Product Marketing Manager Communications • San Francisco; New York City • Full time • Hybrid $220K – $290K • Offers Equity" [ref=e203] [cursor=pointer]:
+            - /url: /perplexity/5ec96ca1-319a-4b85-99ce-e06629099cf9
+            - generic [ref=e204]:
+              - heading "Product Marketing Manager" [level=3] [ref=e205]
+              - generic [ref=e206]:
+                - paragraph [ref=e207]: Communications • San Francisco; New York City • Full time • Hybrid
+                - paragraph [ref=e208]: $220K – $290K • Offers Equity
+        - heading "Customer Success" [level=2] [ref=e209]:
+          - generic [ref=e210]: Customer Success
+        - link "Customer Success Engineer (APAC, Remote) Customer Success • Tokyo • Full time • Hybrid" [ref=e212] [cursor=pointer]:
+          - /url: /perplexity/387fbd3f-7e4d-4683-b299-f94a770dce3f
+          - generic [ref=e213]:
+            - heading "Customer Success Engineer (APAC, Remote)" [level=3] [ref=e214]
+            - paragraph [ref=e216]: Customer Success • Tokyo • Full time • Hybrid
+        - heading "Customer Success & Support" [level=2] [ref=e217]:
+          - generic [ref=e218]: Customer Success & Support
+        - generic [ref=e219]:
+          - link "Customer Success Associate (Comet Browser) Customer Success & Support • New York City; Belgrade; London • Full time • Hybrid" [ref=e220] [cursor=pointer]:
+            - /url: /perplexity/5fd49e19-9ebd-4e0a-95c4-f8c4a3eb5fd3
+            - generic [ref=e221]:
+              - heading "Customer Success Associate (Comet Browser)" [level=3] [ref=e222]
+              - paragraph [ref=e224]: Customer Success & Support • New York City; Belgrade; London • Full time • Hybrid
+          - link "Customer Support and Success Associate APAC (Full Time) Customer Success & Support • Tokyo • Full time • Hybrid" [ref=e225] [cursor=pointer]:
+            - /url: /perplexity/c0c29041-ebcb-40e6-b4ab-80b386922d8c
+            - generic [ref=e226]:
+              - heading "Customer Support and Success Associate APAC (Full Time)" [level=3] [ref=e227]
+              - paragraph [ref=e229]: Customer Success & Support • Tokyo • Full time • Hybrid
+          - link "Enterprise Customer Success Manager Customer Success & Support • San Francisco • Full time $150K – $190K • Offers Equity" [ref=e230] [cursor=pointer]:
+            - /url: /perplexity/9a570310-305d-4f4e-9807-b8862b31194b
+            - generic [ref=e231]:
+              - heading "Enterprise Customer Success Manager" [level=3] [ref=e232]
+              - generic [ref=e233]:
+                - paragraph [ref=e234]: Customer Success & Support • San Francisco • Full time
+                - paragraph [ref=e235]: $150K – $190K • Offers Equity
+          - link "Enterprise Customer Support Specialist Customer Success & Support • San Francisco; New York City • Full time • Hybrid $110K – $130K • Offers Equity" [ref=e236] [cursor=pointer]:
+            - /url: /perplexity/111dfa6f-e6f3-45b6-9de4-69e4a28e3f12
+            - generic [ref=e237]:
+              - heading "Enterprise Customer Support Specialist" [level=3] [ref=e238]
+              - generic [ref=e239]:
+                - paragraph [ref=e240]: Customer Success & Support • San Francisco; New York City • Full time • Hybrid
+                - paragraph [ref=e241]: $110K – $130K • Offers Equity
+          - link "User Operations Generalist - Enterprise Billing & Product (Contract) Customer Success & Support • San Francisco; New York City • Contract • Hybrid" [ref=e242] [cursor=pointer]:
+            - /url: /perplexity/8c4afa48-ba85-4d05-ba3b-32d723dc1b59
+            - generic [ref=e243]:
+              - heading "User Operations Generalist - Enterprise Billing & Product (Contract)" [level=3] [ref=e244]
+              - paragraph [ref=e246]: Customer Success & Support • San Francisco; New York City • Contract • Hybrid
+          - link "User Operations Generalist – Product & Technical (Contract) Customer Success & Support • San Francisco; New York City • Contract • Hybrid $40 – $45 per hour" [ref=e247] [cursor=pointer]:
+            - /url: /perplexity/b79784e8-1b6e-4c89-bcb9-c3fcb9e4b290
+            - generic [ref=e248]:
+              - heading "User Operations Generalist – Product & Technical (Contract)" [level=3] [ref=e249]
+              - generic [ref=e250]:
+                - paragraph [ref=e251]: Customer Success & Support • San Francisco; New York City • Contract • Hybrid
+                - paragraph [ref=e252]: $40 – $45 per hour
+        - heading "Data Science" [level=2] [ref=e253]:
+          - generic [ref=e254]: Data Science
+        - generic [ref=e255]:
+          - link "Analytics Engineer Data Science • San Francisco • Full time $175K – $330K • Offers Equity" [ref=e256] [cursor=pointer]:
+            - /url: /perplexity/fed8d2c4-9c82-43ad-a168-434146c759ff
+            - generic [ref=e257]:
+              - heading "Analytics Engineer" [level=3] [ref=e258]
+              - generic [ref=e259]:
+                - paragraph [ref=e260]: Data Science • San Francisco • Full time
+                - paragraph [ref=e261]: $175K – $330K • Offers Equity
+          - link "Data Scientist Data Science • San Francisco • Full time • On-site $175K – $330K • Offers Equity" [ref=e262] [cursor=pointer]:
+            - /url: /perplexity/d680e788-14d3-43f6-8ce8-5df486ca32d0
+            - generic [ref=e263]:
+              - heading "Data Scientist" [level=3] [ref=e264]
+              - generic [ref=e265]:
+                - paragraph [ref=e266]: Data Science • San Francisco • Full time • On-site
+                - paragraph [ref=e267]: $175K – $330K • Offers Equity
+        - heading "Finance" [level=2] [ref=e268]:
+          - generic [ref=e269]: Finance
+        - link "Strategic Finance Lead - Core Finance • San Francisco • Full time $170K – $230K • Offers Equity" [ref=e271] [cursor=pointer]:
+          - /url: /perplexity/2e1ee70c-b070-4ccc-a2bf-8b394161bbde
+          - generic [ref=e272]:
+            - heading "Strategic Finance Lead - Core" [level=3] [ref=e273]
+            - generic [ref=e274]:
+              - paragraph [ref=e275]: Finance • San Francisco • Full time
+              - paragraph [ref=e276]: $170K – $230K • Offers Equity
+        - heading "IT" [level=2] [ref=e277]:
+          - generic [ref=e278]: IT
+        - link "IT Systems Administrator IT • San Francisco • Full time • On-site $150K – $180K • Offers Equity" [ref=e280] [cursor=pointer]:
+          - /url: /perplexity/18509f15-ab49-450d-8a01-4b280e464ad0
+          - generic [ref=e281]:
+            - heading "IT Systems Administrator" [level=3] [ref=e282]
+            - generic [ref=e283]:
+              - paragraph [ref=e284]: IT • San Francisco • Full time • On-site
+              - paragraph [ref=e285]: $150K – $180K • Offers Equity
+        - heading "Legal" [level=2] [ref=e286]:
+          - generic [ref=e287]: Legal
+        - generic [ref=e288]:
+          - link "Commercial Counsel Legal • San Francisco; New York City • Full time • Hybrid $200K – $265K • Offers Equity" [ref=e289] [cursor=pointer]:
+            - /url: /perplexity/09a2f0e5-c38c-49ee-a5af-9a179e137a44
+            - generic [ref=e290]:
+              - heading "Commercial Counsel" [level=3] [ref=e291]
+              - generic [ref=e292]:
+                - paragraph [ref=e293]: Legal • San Francisco; New York City • Full time • Hybrid
+                - paragraph [ref=e294]: $200K – $265K • Offers Equity
+          - link "Director, Commercial Legal (Enterprise) Legal • San Francisco; New York City • Full time • Hybrid $285K – $325K • Offers Equity" [ref=e295] [cursor=pointer]:
+            - /url: /perplexity/40fbae50-e61c-4d28-8122-8800988b8595
+            - generic [ref=e296]:
+              - heading "Director, Commercial Legal (Enterprise)" [level=3] [ref=e297]
+              - generic [ref=e298]:
+                - paragraph [ref=e299]: Legal • San Francisco; New York City • Full time • Hybrid
+                - paragraph [ref=e300]: $285K – $325K • Offers Equity
+          - link "Senior Counsel, Intellectual Property (Patent) Legal • San Francisco; New York City; Washington D.C. • Full time • Hybrid $225K – $325K • Offers Equity" [ref=e301] [cursor=pointer]:
+            - /url: /perplexity/be996347-b366-44a1-82b3-2df64a744afb
+            - generic [ref=e302]:
+              - heading "Senior Counsel, Intellectual Property (Patent)" [level=3] [ref=e303]
+              - generic [ref=e304]:
+                - paragraph [ref=e305]: Legal • San Francisco; New York City; Washington D.C. • Full time • Hybrid
+                - paragraph [ref=e306]: $225K – $325K • Offers Equity
+        - heading "Mobile" [level=2] [ref=e307]:
+          - generic [ref=e308]: Mobile
+        - generic [ref=e309]:
+          - link "Backend Software Engineer - Mobile Mobile • San Francisco; Belgrade; London; New York City; Palo Alto • Full time $220K – $405K • Offers Equity" [ref=e310] [cursor=pointer]:
+            - /url: /perplexity/f400c8b0-22aa-4952-b24c-4cacda96787e
+            - generic [ref=e311]:
+              - heading "Backend Software Engineer - Mobile" [level=3] [ref=e312]
+              - generic [ref=e313]:
+                - paragraph [ref=e314]: Mobile • San Francisco; Belgrade; London; New York City; Palo Alto • Full time
+                - paragraph [ref=e315]: $220K – $405K • Offers Equity
+          - link "iOS Engineer - Comet Mobile • San Francisco; New York City • Full time $200 – $300,000 • Offers Equity" [ref=e316] [cursor=pointer]:
+            - /url: /perplexity/8c6b0350-e920-47a5-a575-b018a280bbb9
+            - generic [ref=e317]:
+              - heading "iOS Engineer - Comet" [level=3] [ref=e318]
+              - generic [ref=e319]:
+                - paragraph [ref=e320]: Mobile • San Francisco; New York City • Full time
+                - paragraph [ref=e321]: $200 – $300,000 • Offers Equity
+          - link "Senior iOS Software Engineer Mobile • San Francisco • Full time $250K – $405K • Offers Equity" [ref=e322] [cursor=pointer]:
+            - /url: /perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602
+            - generic [ref=e323]:
+              - heading "Senior iOS Software Engineer" [level=3] [ref=e324]
+              - generic [ref=e325]:
+                - paragraph [ref=e326]: Mobile • San Francisco • Full time
+                - paragraph [ref=e327]: $250K – $405K • Offers Equity
+        - heading "Platform & Infrastructure" [level=2] [ref=e328]:
+          - generic [ref=e329]: Platform & Infrastructure
+        - generic [ref=e330]:
+          - link "Backend Software Engineer Platform & Infrastructure • San Francisco; New York City • Full time • Hybrid $220K – $405K • Offers Equity" [ref=e331] [cursor=pointer]:
+            - /url: /perplexity/2b5a9f9c-7cd5-4579-b7c2-69d09e0214c8
+            - generic [ref=e332]:
+              - heading "Backend Software Engineer" [level=3] [ref=e333]
+              - generic [ref=e334]:
+                - paragraph [ref=e335]: Platform & Infrastructure • San Francisco; New York City • Full time • Hybrid
+                - paragraph [ref=e336]: $220K – $405K • Offers Equity
+          - link "Senior/Staff Software Engineer - Infrastructure Platform & Infrastructure • London; Belgrade • Full time • Hybrid" [ref=e337] [cursor=pointer]:
+            - /url: /perplexity/2cef7831-6ed3-4663-aec4-57f79f08c95a
+            - generic [ref=e338]:
+              - heading "Senior/Staff Software Engineer - Infrastructure" [level=3] [ref=e339]
+              - paragraph [ref=e341]: Platform & Infrastructure • London; Belgrade • Full time • Hybrid
+          - link "Senior/Staff Web Platform Engineer Platform & Infrastructure • San Francisco; New York City; Seattle • Full time $250K – $405K • Offers Equity" [ref=e342] [cursor=pointer]:
+            - /url: /perplexity/cf179df1-3d69-4a9d-bda0-0c423efa9255
+            - generic [ref=e343]:
+              - heading "Senior/Staff Web Platform Engineer" [level=3] [ref=e344]
+              - generic [ref=e345]:
+                - paragraph [ref=e346]: Platform & Infrastructure • San Francisco; New York City; Seattle • Full time
+                - paragraph [ref=e347]: $250K – $405K • Offers Equity
+        - heading "Product Engineering" [level=2] [ref=e348]:
+          - generic [ref=e349]: Product Engineering
+        - generic [ref=e350]:
+          - link "Frontend Engineer - Design Systems Product Engineering • San Francisco • Full time $220K – $405K • Offers Equity" [ref=e351] [cursor=pointer]:
+            - /url: /perplexity/36afb111-5c9c-4aec-9066-a2beb6f25f4b
+            - generic [ref=e352]:
+              - heading "Frontend Engineer - Design Systems" [level=3] [ref=e353]
+              - generic [ref=e354]:
+                - paragraph [ref=e355]: Product Engineering • San Francisco • Full time
+                - paragraph [ref=e356]: $220K – $405K • Offers Equity
+          - link "Full Stack Software Engineer Product Engineering • San Francisco; New York City • Full time $220K – $405K • Offers Equity" [ref=e357] [cursor=pointer]:
+            - /url: /perplexity/f5bacc41-66d6-46cc-8a29-5dc6bf055bad
+            - generic [ref=e358]:
+              - heading "Full Stack Software Engineer" [level=3] [ref=e359]
+              - generic [ref=e360]:
+                - paragraph [ref=e361]: Product Engineering • San Francisco; New York City • Full time
+                - paragraph [ref=e362]: $220K – $405K • Offers Equity
+          - link "Full Stack Software Engineer - Applied AI Product Engineering • San Francisco; New York City; Palo Alto • Full time $220K – $405K • Offers Equity" [ref=e363] [cursor=pointer]:
+            - /url: /perplexity/8e98cd9a-ef90-4e9b-9f4d-3d93f6e3a8fc
+            - generic [ref=e364]:
+              - heading "Full Stack Software Engineer - Applied AI" [level=3] [ref=e365]
+              - generic [ref=e366]:
+                - paragraph [ref=e367]: Product Engineering • San Francisco; New York City; Palo Alto • Full time
+                - paragraph [ref=e368]: $220K – $405K • Offers Equity
+          - link "Full Stack Software Engineer - Finance Product Engineering • San Francisco; New York City • Full time $220K – $405K • Offers Equity" [ref=e369] [cursor=pointer]:
+            - /url: /perplexity/911a7fa6-a2e2-4800-89d3-5f105a01556e
+            - generic [ref=e370]:
+              - heading "Full Stack Software Engineer - Finance" [level=3] [ref=e371]
+              - generic [ref=e372]:
+                - paragraph [ref=e373]: Product Engineering • San Francisco; New York City • Full time
+                - paragraph [ref=e374]: $220K – $405K • Offers Equity
+          - link "Full Stack Software Engineer - Growth Product Engineering • San Francisco; New York City • Full time $220K – $405K • Offers Equity" [ref=e375] [cursor=pointer]:
+            - /url: /perplexity/9917ce6e-bd59-4d79-a8d2-ca47827bf9e2
+            - generic [ref=e376]:
+              - heading "Full Stack Software Engineer - Growth" [level=3] [ref=e377]
+              - generic [ref=e378]:
+                - paragraph [ref=e379]: Product Engineering • San Francisco; New York City • Full time
+                - paragraph [ref=e380]: $220K – $405K • Offers Equity
+          - link "Lead Design Engineer — Growth & Marketing Product Engineering • San Francisco; New York City • Full time • Hybrid $250K – $405K • Offers Equity" [ref=e381] [cursor=pointer]:
+            - /url: /perplexity/30d27c9c-6d6f-4614-b6b3-35bd3ce641a9
+            - generic [ref=e382]:
+              - heading "Lead Design Engineer — Growth & Marketing" [level=3] [ref=e383]
+              - generic [ref=e384]:
+                - paragraph [ref=e385]: Product Engineering • San Francisco; New York City • Full time • Hybrid
+                - paragraph [ref=e386]: $250K – $405K • Offers Equity
+          - link "Software Engineer - Agentic Commerce Product Engineering • San Francisco; New York City • Full time • Hybrid $220K – $405K • Offers Equity" [ref=e387] [cursor=pointer]:
+            - /url: /perplexity/e7f59bee-4960-4b86-a0f5-b312cafd10bc
+            - generic [ref=e388]:
+              - heading "Software Engineer - Agentic Commerce" [level=3] [ref=e389]
+              - generic [ref=e390]:
+                - paragraph [ref=e391]: Product Engineering • San Francisco; New York City • Full time • Hybrid
+                - paragraph [ref=e392]: $220K – $405K • Offers Equity
+          - link "Staff Full Stack Software Engineer Product Engineering • San Francisco; New York City • Full time $220K – $405K • Offers Equity" [ref=e393] [cursor=pointer]:
+            - /url: /perplexity/8df04206-7b62-4163-9d94-a4f28680eeb1
+            - generic [ref=e394]:
+              - heading "Staff Full Stack Software Engineer" [level=3] [ref=e395]
+              - generic [ref=e396]:
+                - paragraph [ref=e397]: Product Engineering • San Francisco; New York City • Full time
+                - paragraph [ref=e398]: $220K – $405K • Offers Equity
+        - heading "Residency Program" [level=2] [ref=e399]:
+          - generic [ref=e400]: Residency Program
+        - link "Research Resident Residency Program • San Francisco • Full time $220K" [ref=e402] [cursor=pointer]:
+          - /url: /perplexity/adf189e8-5802-4077-aa1f-3668206aacbb
+          - generic [ref=e403]:
+            - heading "Research Resident" [level=3] [ref=e404]
+            - generic [ref=e405]:
+              - paragraph [ref=e406]: Residency Program • San Francisco • Full time
+              - paragraph [ref=e407]: $220K
+        - heading "Search" [level=2] [ref=e408]:
+          - generic [ref=e409]: Search
+        - generic [ref=e410]:
+          - link "Backend Software Engineer - Search, Crawler Team Search • Belgrade; Berlin; London • Full time" [ref=e411] [cursor=pointer]:
+            - /url: /perplexity/94ccf41e-d3e1-41aa-9569-c3bcbffc4184
+            - generic [ref=e412]:
+              - heading "Backend Software Engineer - Search, Crawler Team" [level=3] [ref=e413]
+              - paragraph [ref=e415]: Search • Belgrade; Berlin; London • Full time
+          - link "Internship - Machine Learning Research Engineer Search • Berlin • Full time • Hybrid" [ref=e416] [cursor=pointer]:
+            - /url: /perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c
+            - generic [ref=e417]:
+              - heading "Internship - Machine Learning Research Engineer" [level=3] [ref=e418]
+              - paragraph [ref=e420]: Search • Berlin • Full time • Hybrid
+          - link "Internship - Search Backend Infra Engineer Search • Belgrade • Full time" [ref=e421] [cursor=pointer]:
+            - /url: /perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92
+            - generic [ref=e422]:
+              - heading "Internship - Search Backend Infra Engineer" [level=3] [ref=e423]
+              - paragraph [ref=e425]: Search • Belgrade • Full time
+          - link "Internship - Search Machine Learning Engineer Search • London • Full time" [ref=e426] [cursor=pointer]:
+            - /url: /perplexity/71168628-1998-47d3-87a9-be7bc56a430d
+            - generic [ref=e427]:
+              - heading "Internship - Search Machine Learning Engineer" [level=3] [ref=e428]
+              - paragraph [ref=e430]: Search • London • Full time
+          - link "Internship - Search Machine Learning Engineer Search • Belgrade • Full time" [ref=e431] [cursor=pointer]:
+            - /url: /perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2
+            - generic [ref=e432]:
+              - heading "Internship - Search Machine Learning Engineer" [level=3] [ref=e433]
+              - paragraph [ref=e435]: Search • Belgrade • Full time
+          - link "Machine Learning Research Engineer Search • Berlin • Full time" [ref=e436] [cursor=pointer]:
+            - /url: /perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c
+            - generic [ref=e437]:
+              - heading "Machine Learning Research Engineer" [level=3] [ref=e438]
+              - paragraph [ref=e440]: Search • Berlin • Full time
+          - link "Product Data Scientist, Search Quality Search • Belgrade; Berlin; London • Full time" [ref=e441] [cursor=pointer]:
+            - /url: /perplexity/a805e14b-061d-469c-9136-b9e6a1855902
+            - generic [ref=e442]:
+              - heading "Product Data Scientist, Search Quality" [level=3] [ref=e443]
+              - paragraph [ref=e445]: Search • Belgrade; Berlin; London • Full time
+          - link "Search Golang Engineer Search • Belgrade; Berlin; London • Full time • Hybrid" [ref=e446] [cursor=pointer]:
+            - /url: /perplexity/30a09c0f-8715-447d-92b7-9f0adb772fd6
+            - generic [ref=e447]:
+              - heading "Search Golang Engineer" [level=3] [ref=e448]
+              - paragraph [ref=e450]: Search • Belgrade; Berlin; London • Full time • Hybrid
+          - link "Search Quality Analyst Search • Belgrade; Berlin; London • Full time • Hybrid" [ref=e451] [cursor=pointer]:
+            - /url: /perplexity/3b349a2f-360e-44e6-a57d-6a87bc3016a7
+            - generic [ref=e452]:
+              - heading "Search Quality Analyst" [level=3] [ref=e453]
+              - paragraph [ref=e455]: Search • Belgrade; Berlin; London • Full time • Hybrid
+          - link "Search Rust Engineer Search • Belgrade; Berlin; London • Full time" [ref=e456] [cursor=pointer]:
+            - /url: /perplexity/a19f1774-5944-4981-b446-e3e40d0dd281
+            - generic [ref=e457]:
+              - heading "Search Rust Engineer" [level=3] [ref=e458]
+              - paragraph [ref=e460]: Search • Belgrade; Berlin; London • Full time
+          - link "Search Senior Backend/Infrastructure Engineer Search • Belgrade; Berlin; London • Full time" [ref=e461] [cursor=pointer]:
+            - /url: /perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194
+            - generic [ref=e462]:
+              - heading "Search Senior Backend/Infrastructure Engineer" [level=3] [ref=e463]
+              - paragraph [ref=e465]: Search • Belgrade; Berlin; London • Full time
+          - link "Search Senior Machine Learning Engineer Search • Belgrade; Berlin; London • Full time • Hybrid" [ref=e466] [cursor=pointer]:
+            - /url: /perplexity/0190699f-010b-44f2-8399-278899fef018
+            - generic [ref=e467]:
+              - heading "Search Senior Machine Learning Engineer" [level=3] [ref=e468]
+              - paragraph [ref=e470]: Search • Belgrade; Berlin; London • Full time • Hybrid
+          - link "Senior Search Engine Developer - Search Core Search • Belgrade; Berlin; London • Full time" [ref=e471] [cursor=pointer]:
+            - /url: /perplexity/27aa1a14-bc59-4613-a65a-38598695076f
+            - generic [ref=e472]:
+              - heading "Senior Search Engine Developer - Search Core" [level=3] [ref=e473]
+              - paragraph [ref=e475]: Search • Belgrade; Berlin; London • Full time
+        - heading "Security" [level=2] [ref=e476]:
+          - generic [ref=e477]: Security
+        - generic [ref=e478]:
+          - link "AI Security Engineer Security • San Francisco; London; New York City; Remote (United States); Serbia • Full time $220K – $405K • Offers Equity" [ref=e479] [cursor=pointer]:
+            - /url: /perplexity/cdbf6ccb-2078-4499-b0a6-af8a04754eee
+            - generic [ref=e480]:
+              - heading "AI Security Engineer" [level=3] [ref=e481]
+              - generic [ref=e482]:
+                - paragraph [ref=e483]: Security • San Francisco; London; New York City; Remote (United States); Serbia • Full time
+                - paragraph [ref=e484]: $220K – $405K • Offers Equity
+          - link "Application Security Engineer Security • San Francisco; London; New York City; Remote (United States); Serbia • Full time $220K – $405K • Offers Equity" [ref=e485] [cursor=pointer]:
+            - /url: /perplexity/63abf041-c7ba-4bd6-840c-1a4ac7925dee
+            - generic [ref=e486]:
+              - heading "Application Security Engineer" [level=3] [ref=e487]
+              - generic [ref=e488]:
+                - paragraph [ref=e489]: Security • San Francisco; London; New York City; Remote (United States); Serbia • Full time
+                - paragraph [ref=e490]: $220K – $405K • Offers Equity
+          - link "Cloud Security Engineer Security • San Francisco; London; New York City; Remote (United States); Serbia • Full time $220K – $405K • Offers Equity" [ref=e491] [cursor=pointer]:
+            - /url: /perplexity/b932d73f-49f3-4367-8fa7-a22f760e55a3
+            - generic [ref=e492]:
+              - heading "Cloud Security Engineer" [level=3] [ref=e493]
+              - generic [ref=e494]:
+                - paragraph [ref=e495]: Security • San Francisco; London; New York City; Remote (United States); Serbia • Full time
+                - paragraph [ref=e496]: $220K – $405K • Offers Equity
+          - link "Offensive Security Engineer Security • San Francisco; London; New York City; Remote (United States); Serbia • Full time • Hybrid $220K – $405K • Offers Equity" [ref=e497] [cursor=pointer]:
+            - /url: /perplexity/69fd6a56-0050-44f7-9ed2-2c3a7320908d
+            - generic [ref=e498]:
+              - heading "Offensive Security Engineer" [level=3] [ref=e499]
+              - generic [ref=e500]:
+                - paragraph [ref=e501]: Security • San Francisco; London; New York City; Remote (United States); Serbia • Full time • Hybrid
+                - paragraph [ref=e502]: $220K – $405K • Offers Equity
+          - link "Software Engineer - Security Security • San Francisco; London; New York City; Remote (United States); Serbia • Full time $220K – $405K • Offers Equity" [ref=e503] [cursor=pointer]:
+            - /url: /perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03
+            - generic [ref=e504]:
+              - heading "Software Engineer - Security" [level=3] [ref=e505]
+              - generic [ref=e506]:
+                - paragraph [ref=e507]: Security • San Francisco; London; New York City; Remote (United States); Serbia • Full time
+                - paragraph [ref=e508]: $220K – $405K • Offers Equity
+        - heading "Workplace" [level=2] [ref=e509]:
+          - generic [ref=e510]: Workplace
+        - link "Director, Workplace Operations Workplace • San Francisco • Full time • On-site $210K – $250K • Offers Equity" [ref=e512] [cursor=pointer]:
+          - /url: /perplexity/209036d1-278a-4a2f-a912-3c68a7881e6a
+          - generic [ref=e513]:
+            - heading "Director, Workplace Operations" [level=3] [ref=e514]
+            - generic [ref=e515]:
+              - paragraph [ref=e516]: Workplace • San Francisco • Full time • On-site
+              - paragraph [ref=e517]: $210K – $250K • Offers Equity
+  - contentinfo [ref=e518]:
+    - link "Learn more about Ashby" [ref=e519] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e520]: Powered by
+      - img "Ashby" [ref=e521]
+    - paragraph [ref=e527]:
+      - link "Privacy Policy" [ref=e528] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e529] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e530] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

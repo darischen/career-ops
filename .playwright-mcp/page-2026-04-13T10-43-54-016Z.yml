@@ -1,0 +1,85 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Artemis" [ref=e6] [cursor=pointer]:
+        - /url: https://goartemis.ai
+        - paragraph [ref=e7]: Artemis
+    - listitem [ref=e8]:
+      - link "Back to Artemis’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /artemis
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "AI/ML Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York City
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+      - generic [ref=e29]:
+        - tablist [ref=e30]:
+          - tab "Overview" [ref=e31] [cursor=pointer]
+          - tab "Application" [selected] [ref=e32] [cursor=pointer]
+        - tabpanel "Application" [ref=e131]:
+          - generic [ref=e132]:
+            - button "Choose File" [ref=e133]
+            - generic [ref=e135]:
+              - generic [ref=e136]:
+                - img [ref=e138]
+                - heading "Autofill from resume" [level=3] [ref=e140]
+              - paragraph [ref=e141]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e143] [cursor=pointer]
+          - generic [ref=e145]:
+            - generic [ref=e146]:
+              - generic [ref=e147]: Name*
+              - textbox "Name*" [ref=e149] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e150]:
+              - generic [ref=e151]: Email*
+              - textbox "Email*" [ref=e153] [cursor=pointer]:
+                - /placeholder: hello@example.com...
+            - generic [ref=e154]:
+              - generic [ref=e155]: Resume*
+              - button "Resume*" [ref=e156]
+              - generic [ref=e157]:
+                - button "Upload File" [ref=e158] [cursor=pointer]:
+                  - img [ref=e159]
+                  - generic [ref=e161]: Upload File
+                - paragraph [ref=e162]: or drag and drop here
+            - generic [ref=e163]:
+              - generic [ref=e164]: LinkedIn *
+              - textbox "LinkedIn *" [ref=e166] [cursor=pointer]:
+                - /placeholder: https://example.com...
+            - generic [ref=e167]:
+              - generic [ref=e168]: Do you have a work authorizations? *
+              - generic [ref=e169]:
+                - button "Yes" [ref=e170] [cursor=pointer]
+                - button "No" [ref=e171] [cursor=pointer]
+            - generic [ref=e172]:
+              - generic [ref=e173]: What is the best phone number to reach you?*
+              - textbox "What is the best phone number to reach you?*" [ref=e174] [cursor=pointer]:
+                - /placeholder: 1-415-555-1234...
+          - button "Submit Application" [ref=e175] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e176]
+  - contentinfo [ref=e118]:
+    - link "Learn more about Ashby" [ref=e119] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e120]: Powered by
+      - img "Ashby" [ref=e121]
+    - paragraph [ref=e127]:
+      - link "Privacy Policy" [ref=e128] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e129] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e130] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

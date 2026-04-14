@@ -1,0 +1,414 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Figure Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://www.figure.ai
+        - img "Figure Logo" [ref=e6]
+      - heading "Current openings at Figure" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - img [ref=e10]
+        - generic [ref=e12]:
+          - paragraph [ref=e13]: Create a Job Alert
+          - paragraph [ref=e14]: Level-up your career by having opportunities at Figure sent directly to your inbox.
+          - button "Create alert" [ref=e15] [cursor=pointer]
+      - generic [ref=e16]:
+        - generic [ref=e19]:
+          - generic [ref=e20]: Search
+          - textbox "Search" [ref=e21]
+        - generic [ref=e22]:
+          - heading "101 jobs" [level=2] [ref=e23]
+          - generic [ref=e24]:
+            - generic [ref=e25]:
+              - heading "AI - Helix Team" [level=3] [ref=e26]
+              - table [ref=e28]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e29]:
+                      - paragraph [ref=e30]: Job
+                - rowgroup [ref=e31]:
+                  - row "Helix AI Engineer, Agentic Systems San Jose, CA" [ref=e32]:
+                    - cell "Helix AI Engineer, Agentic Systems San Jose, CA" [ref=e33]:
+                      - link "Helix AI Engineer, Agentic Systems San Jose, CA" [ref=e34] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4659175006
+                        - paragraph [ref=e35]: Helix AI Engineer, Agentic Systems
+                        - paragraph [ref=e36]: San Jose, CA
+                  - row "Helix AI Engineer, Data Infrastructure San Jose, CA" [ref=e37]:
+                    - cell "Helix AI Engineer, Data Infrastructure San Jose, CA" [ref=e38]:
+                      - link "Helix AI Engineer, Data Infrastructure San Jose, CA" [ref=e39] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4345915006
+                        - paragraph [ref=e40]: Helix AI Engineer, Data Infrastructure
+                        - paragraph [ref=e41]: San Jose, CA
+                  - row "Helix AI Engineer, Generative AI New San Jose, CA" [ref=e42]:
+                    - cell "Helix AI Engineer, Generative AI New San Jose, CA" [ref=e43]:
+                      - link "Helix AI Engineer, Generative AI New San Jose, CA" [ref=e44] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4671699006
+                        - paragraph [ref=e45]:
+                          - text: Helix AI Engineer, Generative AI
+                          - generic [ref=e47]: New
+                        - paragraph [ref=e48]: San Jose, CA
+                  - row "Helix AI Engineer, Modeling New San Jose, CA" [ref=e49]:
+                    - cell "Helix AI Engineer, Modeling New San Jose, CA" [ref=e50]:
+                      - link "Helix AI Engineer, Modeling New San Jose, CA" [ref=e51] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4671712006
+                        - paragraph [ref=e52]:
+                          - text: Helix AI Engineer, Modeling
+                          - generic [ref=e54]: New
+                        - paragraph [ref=e55]: San Jose, CA
+                  - row "Helix AI Engineer, Pretraining New San Jose, CA" [ref=e56]:
+                    - cell "Helix AI Engineer, Pretraining New San Jose, CA" [ref=e57]:
+                      - link "Helix AI Engineer, Pretraining New San Jose, CA" [ref=e58] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4671704006
+                        - paragraph [ref=e59]:
+                          - text: Helix AI Engineer, Pretraining
+                          - generic [ref=e61]: New
+                        - paragraph [ref=e62]: San Jose, CA
+                  - row "Helix AI Engineer, Reinforcement Learning New San Jose, CA" [ref=e63]:
+                    - cell "Helix AI Engineer, Reinforcement Learning New San Jose, CA" [ref=e64]:
+                      - link "Helix AI Engineer, Reinforcement Learning New San Jose, CA" [ref=e65] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4671707006
+                        - paragraph [ref=e66]:
+                          - text: Helix AI Engineer, Reinforcement Learning
+                          - generic [ref=e68]: New
+                        - paragraph [ref=e69]: San Jose, CA
+                  - row "Helix AI Engineer, Robot Learning San Jose, CA" [ref=e70]:
+                    - cell "Helix AI Engineer, Robot Learning San Jose, CA" [ref=e71]:
+                      - link "Helix AI Engineer, Robot Learning San Jose, CA" [ref=e72] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4649851006
+                        - paragraph [ref=e73]: Helix AI Engineer, Robot Learning
+                        - paragraph [ref=e74]: San Jose, CA
+                  - row "Helix AI Engineer, Tooling San Jose, CA" [ref=e75]:
+                    - cell "Helix AI Engineer, Tooling San Jose, CA" [ref=e76]:
+                      - link "Helix AI Engineer, Tooling San Jose, CA" [ref=e77] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4660876006
+                        - paragraph [ref=e78]: Helix AI Engineer, Tooling
+                        - paragraph [ref=e79]: San Jose, CA
+                  - row "Helix AI Engineer, Training Infrastructure San Jose, CA" [ref=e80]:
+                    - cell "Helix AI Engineer, Training Infrastructure San Jose, CA" [ref=e81]:
+                      - link "Helix AI Engineer, Training Infrastructure San Jose, CA" [ref=e82] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4431092006
+                        - paragraph [ref=e83]: Helix AI Engineer, Training Infrastructure
+                        - paragraph [ref=e84]: San Jose, CA
+                  - row "Helix AI Engineer, Video Pretraining New San Jose, CA" [ref=e85]:
+                    - cell "Helix AI Engineer, Video Pretraining New San Jose, CA" [ref=e86]:
+                      - link "Helix AI Engineer, Video Pretraining New San Jose, CA" [ref=e87] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4671703006
+                        - paragraph [ref=e88]:
+                          - text: Helix AI Engineer, Video Pretraining
+                          - generic [ref=e90]: New
+                        - paragraph [ref=e91]: San Jose, CA
+            - generic [ref=e92]:
+              - heading "BotQ Manufacturing" [level=3] [ref=e93]
+              - table [ref=e95]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e96]:
+                      - paragraph [ref=e97]: Job
+                - rowgroup [ref=e98]:
+                  - row "CNC Machinist San Jose, CA" [ref=e99]:
+                    - cell "CNC Machinist San Jose, CA" [ref=e100]:
+                      - link "CNC Machinist San Jose, CA" [ref=e101] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4440430006
+                        - paragraph [ref=e102]: CNC Machinist
+                        - paragraph [ref=e103]: San Jose, CA
+                  - row "Fabricator San Jose, CA" [ref=e104]:
+                    - cell "Fabricator San Jose, CA" [ref=e105]:
+                      - link "Fabricator San Jose, CA" [ref=e106] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4439202006
+                        - paragraph [ref=e107]: Fabricator
+                        - paragraph [ref=e108]: San Jose, CA
+                  - row "Manufacturing Electrical Test Engineer San Jose, CA" [ref=e109]:
+                    - cell "Manufacturing Electrical Test Engineer San Jose, CA" [ref=e110]:
+                      - link "Manufacturing Electrical Test Engineer San Jose, CA" [ref=e111] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4573670006
+                        - paragraph [ref=e112]: Manufacturing Electrical Test Engineer
+                        - paragraph [ref=e113]: San Jose, CA
+                  - row "Manufacturing Engineer San Jose, CA" [ref=e114]:
+                    - cell "Manufacturing Engineer San Jose, CA" [ref=e115]:
+                      - link "Manufacturing Engineer San Jose, CA" [ref=e116] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4375064006
+                        - paragraph [ref=e117]: Manufacturing Engineer
+                        - paragraph [ref=e118]: San Jose, CA
+                  - row "Manufacturing Equipment Technician San Jose, CA" [ref=e119]:
+                    - cell "Manufacturing Equipment Technician San Jose, CA" [ref=e120]:
+                      - link "Manufacturing Equipment Technician San Jose, CA" [ref=e121] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4553552006
+                        - paragraph [ref=e122]: Manufacturing Equipment Technician
+                        - paragraph [ref=e123]: San Jose, CA
+                  - row "Manufacturing Software Test Engineer San Jose, CA" [ref=e124]:
+                    - cell "Manufacturing Software Test Engineer San Jose, CA" [ref=e125]:
+                      - link "Manufacturing Software Test Engineer San Jose, CA" [ref=e126] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4414646006
+                        - paragraph [ref=e127]: Manufacturing Software Test Engineer
+                        - paragraph [ref=e128]: San Jose, CA
+                  - row "Manufacturing Test Engineer, PCBA San Jose, CA" [ref=e129]:
+                    - cell "Manufacturing Test Engineer, PCBA San Jose, CA" [ref=e130]:
+                      - link "Manufacturing Test Engineer, PCBA San Jose, CA" [ref=e131] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4574399006
+                        - paragraph [ref=e132]: Manufacturing Test Engineer, PCBA
+                        - paragraph [ref=e133]: San Jose, CA
+                  - row "MES Engineer - Ignition/SCADA San Jose, CA" [ref=e134]:
+                    - cell "MES Engineer - Ignition/SCADA San Jose, CA" [ref=e135]:
+                      - link "MES Engineer - Ignition/SCADA San Jose, CA" [ref=e136] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4574734006
+                        - paragraph [ref=e137]: MES Engineer - Ignition/SCADA
+                        - paragraph [ref=e138]: San Jose, CA
+                  - row "Production Associate (All Levels) San Jose, CA" [ref=e139]:
+                    - cell "Production Associate (All Levels) San Jose, CA" [ref=e140]:
+                      - link "Production Associate (All Levels) San Jose, CA" [ref=e141] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4453797006
+                        - paragraph [ref=e142]: Production Associate (All Levels)
+                        - paragraph [ref=e143]: San Jose, CA
+                  - row "Production Associate (Swing Shift - All Levels) San Jose, CA" [ref=e144]:
+                    - cell "Production Associate (Swing Shift - All Levels) San Jose, CA" [ref=e145]:
+                      - link "Production Associate (Swing Shift - All Levels) San Jose, CA" [ref=e146] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4664176006
+                        - paragraph [ref=e147]: Production Associate (Swing Shift - All Levels)
+                        - paragraph [ref=e148]: San Jose, CA
+                  - row "Quality Engineering Technician, BotQ San Jose, CA" [ref=e149]:
+                    - cell "Quality Engineering Technician, BotQ San Jose, CA" [ref=e150]:
+                      - link "Quality Engineering Technician, BotQ San Jose, CA" [ref=e151] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4587570006
+                        - paragraph [ref=e152]: Quality Engineering Technician, BotQ
+                        - paragraph [ref=e153]: San Jose, CA
+                  - row "Quality Engineering Technician, Metrology San Jose, CA" [ref=e154]:
+                    - cell "Quality Engineering Technician, Metrology San Jose, CA" [ref=e155]:
+                      - link "Quality Engineering Technician, Metrology San Jose, CA" [ref=e156] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4626804006
+                        - paragraph [ref=e157]: Quality Engineering Technician, Metrology
+                        - paragraph [ref=e158]: San Jose, CA
+                  - row "Remanufacturing Technician San Jose, CA" [ref=e159]:
+                    - cell "Remanufacturing Technician San Jose, CA" [ref=e160]:
+                      - link "Remanufacturing Technician San Jose, CA" [ref=e161] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4609779006
+                        - paragraph [ref=e162]: Remanufacturing Technician
+                        - paragraph [ref=e163]: San Jose, CA
+                  - row "Senior Quality Engineer, BotQ San Jose, CA" [ref=e164]:
+                    - cell "Senior Quality Engineer, BotQ San Jose, CA" [ref=e165]:
+                      - link "Senior Quality Engineer, BotQ San Jose, CA" [ref=e166] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4652384006
+                        - paragraph [ref=e167]: Senior Quality Engineer, BotQ
+                        - paragraph [ref=e168]: San Jose, CA
+                  - row "Supplier Quality Engineer (Asia) Asia" [ref=e169]:
+                    - cell "Supplier Quality Engineer (Asia) Asia" [ref=e170]:
+                      - link "Supplier Quality Engineer (Asia) Asia" [ref=e171] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4626809006
+                        - paragraph [ref=e172]: Supplier Quality Engineer (Asia)
+                        - paragraph [ref=e173]: Asia
+                  - row "Supplier Quality Engineer, BotQ San Jose, CA" [ref=e174]:
+                    - cell "Supplier Quality Engineer, BotQ San Jose, CA" [ref=e175]:
+                      - link "Supplier Quality Engineer, BotQ San Jose, CA" [ref=e176] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4660300006
+                        - paragraph [ref=e177]: Supplier Quality Engineer, BotQ
+                        - paragraph [ref=e178]: San Jose, CA
+            - generic [ref=e179]:
+              - heading "Commercial Operations" [level=3] [ref=e180]
+              - table [ref=e182]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e183]:
+                      - paragraph [ref=e184]: Job
+                - rowgroup [ref=e185]:
+                  - row "Commercial Launch Technician San Jose, CA" [ref=e186]:
+                    - cell "Commercial Launch Technician San Jose, CA" [ref=e187]:
+                      - link "Commercial Launch Technician San Jose, CA" [ref=e188] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4651747006
+                        - paragraph [ref=e189]: Commercial Launch Technician
+                        - paragraph [ref=e190]: San Jose, CA
+                  - row "Deployment Logistics Coordinator San Jose, CA" [ref=e191]:
+                    - cell "Deployment Logistics Coordinator San Jose, CA" [ref=e192]:
+                      - link "Deployment Logistics Coordinator San Jose, CA" [ref=e193] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4666290006
+                        - paragraph [ref=e194]: Deployment Logistics Coordinator
+                        - paragraph [ref=e195]: San Jose, CA
+                  - row "Humanoid Robot Operator - Commercial Launch Team San Jose, CA" [ref=e196]:
+                    - cell "Humanoid Robot Operator - Commercial Launch Team San Jose, CA" [ref=e197]:
+                      - link "Humanoid Robot Operator - Commercial Launch Team San Jose, CA" [ref=e198] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4665205006
+                        - paragraph [ref=e199]: Humanoid Robot Operator - Commercial Launch Team
+                        - paragraph [ref=e200]: San Jose, CA
+                  - row "Service Tooling Engineer San Jose, CA" [ref=e201]:
+                    - cell "Service Tooling Engineer San Jose, CA" [ref=e202]:
+                      - link "Service Tooling Engineer San Jose, CA" [ref=e203] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4666285006
+                        - paragraph [ref=e204]: Service Tooling Engineer
+                        - paragraph [ref=e205]: San Jose, CA
+            - generic [ref=e206]:
+              - heading "Controls" [level=3] [ref=e207]
+              - table [ref=e209]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e210]:
+                      - paragraph [ref=e211]: Job
+                - rowgroup [ref=e212]:
+                  - row "Staff Reinforcement Learning Engineer – Whole Body Control New San Jose, CA" [ref=e213]:
+                    - cell "Staff Reinforcement Learning Engineer – Whole Body Control New San Jose, CA" [ref=e214]:
+                      - link "Staff Reinforcement Learning Engineer – Whole Body Control New San Jose, CA" [ref=e215] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4671442006
+                        - paragraph [ref=e216]:
+                          - text: Staff Reinforcement Learning Engineer – Whole Body Control
+                          - generic [ref=e218]: New
+                        - paragraph [ref=e219]: San Jose, CA
+            - generic [ref=e220]:
+              - heading "Data Collection" [level=3] [ref=e221]
+              - table [ref=e223]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e224]:
+                      - paragraph [ref=e225]: Job
+                - rowgroup [ref=e226]:
+                  - row "AI Data Operations Lead San Jose, CA" [ref=e227]:
+                    - cell "AI Data Operations Lead San Jose, CA" [ref=e228]:
+                      - link "AI Data Operations Lead San Jose, CA" [ref=e229] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4665206006
+                        - paragraph [ref=e230]: AI Data Operations Lead
+                        - paragraph [ref=e231]: San Jose, CA
+                  - row "Data Quality Analyst San Jose, CA" [ref=e232]:
+                    - cell "Data Quality Analyst San Jose, CA" [ref=e233]:
+                      - link "Data Quality Analyst San Jose, CA" [ref=e234] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4590702006
+                        - paragraph [ref=e235]: Data Quality Analyst
+                        - paragraph [ref=e236]: San Jose, CA
+                  - row "Data Quality Manager San Jose, CA" [ref=e237]:
+                    - cell "Data Quality Manager San Jose, CA" [ref=e238]:
+                      - link "Data Quality Manager San Jose, CA" [ref=e239] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4666836006
+                        - paragraph [ref=e240]: Data Quality Manager
+                        - paragraph [ref=e241]: San Jose, CA
+                  - row "Data Strategy Associate San Jose, CA" [ref=e242]:
+                    - cell "Data Strategy Associate San Jose, CA" [ref=e243]:
+                      - link "Data Strategy Associate San Jose, CA" [ref=e244] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4664781006
+                        - paragraph [ref=e245]: Data Strategy Associate
+                        - paragraph [ref=e246]: San Jose, CA
+                  - row "Hardware Technician (TeleOperations) San Jose, CA" [ref=e247]:
+                    - cell "Hardware Technician (TeleOperations) San Jose, CA" [ref=e248]:
+                      - link "Hardware Technician (TeleOperations) San Jose, CA" [ref=e249] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4666292006
+                        - paragraph [ref=e250]: Hardware Technician (TeleOperations)
+                        - paragraph [ref=e251]: San Jose, CA
+                  - row "Helix Data Creator San Jose, CA" [ref=e252]:
+                    - cell "Helix Data Creator San Jose, CA" [ref=e253]:
+                      - link "Helix Data Creator San Jose, CA" [ref=e254] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4585080006
+                        - paragraph [ref=e255]: Helix Data Creator
+                        - paragraph [ref=e256]: San Jose, CA
+                  - row "Helix Data Creator Spartanburg, SC" [ref=e257]:
+                    - cell "Helix Data Creator Spartanburg, SC" [ref=e258]:
+                      - link "Helix Data Creator Spartanburg, SC" [ref=e259] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4627110006
+                        - paragraph [ref=e260]: Helix Data Creator
+                        - paragraph [ref=e261]: Spartanburg, SC
+                  - row "Helix Data Creator Los Angeles, CA" [ref=e262]:
+                    - cell "Helix Data Creator Los Angeles, CA" [ref=e263]:
+                      - link "Helix Data Creator Los Angeles, CA" [ref=e264] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4627111006
+                        - paragraph [ref=e265]: Helix Data Creator
+                        - paragraph [ref=e266]: Los Angeles, CA
+                  - row "Humanoid Robot Pilot San Jose, CA" [ref=e267]:
+                    - cell "Humanoid Robot Pilot San Jose, CA" [ref=e268]:
+                      - link "Humanoid Robot Pilot San Jose, CA" [ref=e269] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4369739006
+                        - paragraph [ref=e270]: Humanoid Robot Pilot
+                        - paragraph [ref=e271]: San Jose, CA
+                  - row "Pilot Manager San Jose, CA" [ref=e272]:
+                    - cell "Pilot Manager San Jose, CA" [ref=e273]:
+                      - link "Pilot Manager San Jose, CA" [ref=e274] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4593982006
+                        - paragraph [ref=e275]: Pilot Manager
+                        - paragraph [ref=e276]: San Jose, CA
+            - generic [ref=e277]:
+              - heading "Electrical" [level=3] [ref=e278]
+              - table [ref=e280]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e281]:
+                      - paragraph [ref=e282]: Job
+                - rowgroup [ref=e283]:
+                  - row "Electrical Engineer (All Levels) San Jose, CA" [ref=e284]:
+                    - cell "Electrical Engineer (All Levels) San Jose, CA" [ref=e285]:
+                      - link "Electrical Engineer (All Levels) San Jose, CA" [ref=e286] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4313470006
+                        - paragraph [ref=e287]: Electrical Engineer (All Levels)
+                        - paragraph [ref=e288]: San Jose, CA
+                  - row "Electrical Rework Technician (PCBA & Micro-Soldering) San Jose, CA" [ref=e289]:
+                    - cell "Electrical Rework Technician (PCBA & Micro-Soldering) San Jose, CA" [ref=e290]:
+                      - link "Electrical Rework Technician (PCBA & Micro-Soldering) San Jose, CA" [ref=e291] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4648235006
+                        - paragraph [ref=e292]: Electrical Rework Technician (PCBA & Micro-Soldering)
+                        - paragraph [ref=e293]: San Jose, CA
+            - generic [ref=e294]:
+              - heading "Facilities" [level=3] [ref=e295]
+              - table [ref=e297]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e298]:
+                      - paragraph [ref=e299]: Job
+                - rowgroup [ref=e300]:
+                  - row "Facilities Technician San Jose, CA" [ref=e301]:
+                    - cell "Facilities Technician San Jose, CA" [ref=e302]:
+                      - link "Facilities Technician San Jose, CA" [ref=e303] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4613444006
+                        - paragraph [ref=e304]: Facilities Technician
+                        - paragraph [ref=e305]: San Jose, CA
+                  - row "Lab Technician San Jose, CA" [ref=e306]:
+                    - cell "Lab Technician San Jose, CA" [ref=e307]:
+                      - link "Lab Technician San Jose, CA" [ref=e308] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4647901006
+                        - paragraph [ref=e309]: Lab Technician
+                        - paragraph [ref=e310]: San Jose, CA
+            - generic [ref=e311]:
+              - heading "Hardware" [level=3] [ref=e312]
+              - table [ref=e314]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e315]:
+                      - paragraph [ref=e316]: Job
+                - rowgroup [ref=e317]:
+                  - row "Failure Analysis Engineer (All Levels) San Jose, CA" [ref=e318]:
+                    - cell "Failure Analysis Engineer (All Levels) San Jose, CA" [ref=e319]:
+                      - link "Failure Analysis Engineer (All Levels) San Jose, CA" [ref=e320] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4563653006
+                        - paragraph [ref=e321]: Failure Analysis Engineer (All Levels)
+                        - paragraph [ref=e322]: San Jose, CA
+                  - row "Hardware Reliability Intern [Summer 2026] San Jose, CA" [ref=e323]:
+                    - cell "Hardware Reliability Intern [Summer 2026] San Jose, CA" [ref=e324]:
+                      - link "Hardware Reliability Intern [Summer 2026] San Jose, CA" [ref=e325] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4613067006
+                        - paragraph [ref=e326]: Hardware Reliability Intern [Summer 2026]
+                        - paragraph [ref=e327]: San Jose, CA
+                  - row "Harness Integration Technician San Jose, CA" [ref=e328]:
+                    - cell "Harness Integration Technician San Jose, CA" [ref=e329]:
+                      - link "Harness Integration Technician San Jose, CA" [ref=e330] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4653375006
+                        - paragraph [ref=e331]: Harness Integration Technician
+                        - paragraph [ref=e332]: San Jose, CA
+                  - row "Mechanical Engineer - All Levels San Jose, CA" [ref=e333]:
+                    - cell "Mechanical Engineer - All Levels San Jose, CA" [ref=e334]:
+                      - link "Mechanical Engineer - All Levels San Jose, CA" [ref=e335] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4410831006
+                        - paragraph [ref=e336]: Mechanical Engineer - All Levels
+                        - paragraph [ref=e337]: San Jose, CA
+                  - row "Mechanical Engineer, Battery San Jose, CA" [ref=e338]:
+                    - cell "Mechanical Engineer, Battery San Jose, CA" [ref=e339]:
+                      - link "Mechanical Engineer, Battery San Jose, CA" [ref=e340] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/figureai/jobs/4656559006
+                        - paragraph [ref=e341]: Mechanical Engineer, Battery
+                        - paragraph [ref=e342]: San Jose, CA
+          - navigation "Pagination" [ref=e344]:
+            - button "Previous page" [disabled] [ref=e345]:
+              - img [ref=e346]
+            - list [ref=e348]:
+              - listitem [ref=e349]:
+                - button "Go to page 1": "1"
+              - listitem [ref=e350]:
+                - button "Go to page 2" [ref=e351] [cursor=pointer]: "2"
+              - listitem [ref=e352]:
+                - button "Go to page 3" [ref=e353] [cursor=pointer]: "3"
+            - button "Next page" [ref=e354] [cursor=pointer]:
+              - img [ref=e355]
+  - contentinfo [ref=e357]:
+    - generic [ref=e358]:
+      - paragraph [ref=e359]: Powered by
+      - link "Greenhouse logo" [ref=e360] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e361]

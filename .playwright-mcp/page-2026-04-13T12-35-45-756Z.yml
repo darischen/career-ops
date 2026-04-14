@@ -1,0 +1,391 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Sigma Computing Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://www.sigmacomputing.com/
+        - img "Sigma Computing Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/sigmacomputing
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e12]:
+          - generic [ref=e13]:
+            - heading "Software Engineer (New Grad Program)" [level=1] [ref=e14]
+            - generic [ref=e15]:
+              - img [ref=e16]
+              - generic [ref=e18]: San Francisco, CA and New York City, NY
+          - button "Apply" [ref=e19] [cursor=pointer]
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - paragraph [ref=e22]
+            - paragraph [ref=e23]
+          - generic [ref=e24]:
+            - paragraph [ref=e25]: Sigma unlocks the value of data by delivering cloud-scale analytics and business intelligence with the simplicity of a spreadsheet, complete with pivot tables and next generation dashboards. We empower business professionals, non-technical users, and data teams to quickly explore, analyze, visualize, and collaborate, leveraging all of their data across the organization.
+            - heading "Our New Grad (Temp-to-Hire) Program at Sigma:" [level=4] [ref=e26]:
+              - strong [ref=e27]: "Our New Grad (Temp-to-Hire) Program at Sigma:"
+            - paragraph [ref=e28]: Sigma’s early career program is the launchpad for the next generation of engineers and innovators. As a Software Engineering New Grad at Sigma, you’ll work on various production features and learn efficient engineering for large scalable systems. Our new grads work directly with our engineers, product leaders, and designers across the organization everyday. We’re looking for recent graduates who bring curiosity, a spirit for collaboration, and a desire for shaping the future of business insights and data exploration.
+            - paragraph [ref=e29]:
+              - strong [ref=e30]: "Note: Our New Grad Program is a temp-to-hire program. Participants will be hired in a 3 month temp role and converted to a FTE based on positive performance and evaluation."
+            - paragraph [ref=e31]: "New Grad Program Qualifications:"
+            - list [ref=e32]:
+              - listitem [ref=e33]:
+                - strong [ref=e34]: Authorization
+                - text: ":"
+              - list [ref=e35]:
+                - listitem [ref=e36]: You must be legally authorized to work in the US
+                - listitem [ref=e37]: Visa sponsorship is not available for our new grad positions
+              - listitem [ref=e38]:
+                - strong [ref=e39]: "Location:"
+              - list [ref=e40]:
+                - listitem [ref=e41]: Our new grad roles are in-person and located within San Francisco, CA or New York, NY. Relocation assistance will be provided for recent graduates who will need to relocate in the form of a relocation bonus.
+                - listitem [ref=e42]: Applicants must be able to work in-person in our offices either in San Francisco or New York City for the duration of their 3 month internship.
+            - paragraph [ref=e43]:
+              - strong [ref=e44]: "About the role:"
+            - paragraph [ref=e45]:
+              - text: Sigma’s Engineering organization is a dynamic, high performing team of Software Engineers who complement each other's skills. Our Engineers design, implement, and scale technical solutions that power our core product and enable our users to make data driven decisions in their businesses. As a
+              - strong [ref=e46]: Software Engineering New Grad
+              - text: ", you will experiment, prototype, and implement features that help our global user base analyze and gather insights from their data. During your new grad program, you’ll partner directly with your engineering mentor, as well as collaborate with other teams across the business."
+              - strong [ref=e47]: Our New Grad Program (Temp-to-Hire) is a direct pipeline into a full-time role and conversion will be available based on successful performance.
+              - text: From Product Designers, Product Managers, Sales, and, of course, actual users, you will collaborate across the company to determine the best solution for your technical challenge. New Grads will take their project from ideation through implementation, iterating and gathering feedback along the way. As a New Grad, you will deploy features and gather insights from customer metrics to aid you in making better development decisions and improve your business acumen.
+            - paragraph [ref=e48]:
+              - strong [ref=e49]: "Note: Our New Grad Program is a temp-to-hire program. Participants will be hired in a 3 month temp role and converted to a FTE based on positive performance and evaluation."
+            - paragraph [ref=e50]:
+              - strong [ref=e51]: "During your new grad program you will:"
+            - list [ref=e52]:
+              - listitem [ref=e53]: Learn how to build production software and understand how large Single Page Applications are built and extended with the user experience top of mind
+              - listitem [ref=e54]: Experience how backend scales to handle multiple customers and billions of data points while keeping user information secure
+              - listitem [ref=e55]: Gain an understanding of how to own a development project from beginning to end
+              - listitem [ref=e56]: Develop automated unit tests to get the relevant code coverage and work with product owners and techpubs to document your work
+              - listitem [ref=e57]: Partner with other Engineers, Product Managers, and Designers
+              - listitem [ref=e58]: Design and deliver innovative solutions to improve the Sigma user experience by implementing new features into our product
+              - listitem [ref=e59]: Find new ways to optimize the performance of one or more components of the product
+            - heading "What we’re looking for:" [level=4] [ref=e60]:
+              - strong [ref=e61]: "What we’re looking for:"
+            - list [ref=e62]:
+              - listitem [ref=e63]: Applicants must be a recent graduate (within the last 12 months) of a Bachelor’s or a Master’s degree program in Computer Science or a related field
+              - listitem [ref=e64]: Able to begin a 3 month temp-to-hire role beginning in May 2025 or thereafter
+              - listitem [ref=e65]: Have an intermediate to advanced grasp of Operating Systems, Data structures, algorithms and at least one modern programming language such as Java, Python, JavaScript, etc.
+              - listitem [ref=e66]: Excited to learn and build complex user interfaces, data visualizations, or backend systems
+              - listitem [ref=e67]: Solid project management and communication abilities. You love to find the right resources and can own tasks end to end with minimal supervision.
+              - listitem [ref=e68]: Have a drive and desire to navigate unknowns, after all, that’s what unlocks realizations
+              - listitem [ref=e69]: Ability to collaborate and work in a team environment
+              - listitem [ref=e70]: Able to commit 40 hrs a week for 12 weeks in-person in one of our office locations
+            - paragraph [ref=e71]:
+              - strong [ref=e72]: Additional Job details
+            - paragraph [ref=e73]: New Grads at Sigma are compensated with an hourly rate and relocation bonus (where applicable). Our hourly rate for this role is $65.00 per hour.
+          - generic [ref=e74]:
+            - heading "About us:" [level=4] [ref=e75]:
+              - strong [ref=e76]: "About us:"
+            - paragraph [ref=e77]: Sigma is the AI apps and analytics platform connected to the cloud data warehouse. Using Sigma, business and technical teams can build intelligent, production-ready AI apps that accelerate and automate operational workflows. Sigma provides a spreadsheet interface, SQL and Python editors, visual builders, and native AI to help teams turn live data into interactive applications, analysis, reports, and embedded experiences.
+            - paragraph [ref=e78]: Sigma announced its $200M in Series D financing in May 2024, to continue transforming BI through its innovations in AI infrastructure, data application development, enterprise-wide collaboration, and business user adoption. Spark Capital and Avenir Growth Capital co-led the Series D funding round, with additional participation from a group of past investors including Snowflake Ventures and Sutter Hill Ventures.The Series D funding, raised at a valuation 60% higher than the company’s Series C round three years ago, promises to further accelerate Sigma’s growth.
+            - paragraph [ref=e79]: Come join us!
+            - heading "Benefits For Our Full-Time Employees:" [level=4] [ref=e80]:
+              - strong [ref=e81]: "Benefits For Our Full-Time Employees:"
+            - list [ref=e82]:
+              - listitem [ref=e83]: Equity
+              - listitem [ref=e84]: Generous health benefits
+              - listitem [ref=e85]: Flexible time off policy. Take the time off you need!
+              - listitem [ref=e86]: Paid bonding time for all new parents
+              - listitem [ref=e87]: Traditional and Roth 401k
+              - listitem [ref=e88]: Commuter and FSA benefits
+              - listitem [ref=e89]: Lunch Program
+              - listitem [ref=e90]: Dog friendly office
+            - paragraph [ref=e91]:
+              - text: Sigma Computing is an equal opportunity employer.
+              - generic [ref=e92]:
+                - text: We are committed to building a smart and strong team regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We look forward to learning how your experience can enable all of us to grow
+                - emphasis [ref=e93]: .
+            - paragraph [ref=e94]:
+              - emphasis [ref=e96]: "Note: We have an in-office work environment in all our offices in SF, NYC, and London."
+            - paragraph [ref=e97]:
+              - strong [ref=e98]: Our Privacy Practices
+            - paragraph [ref=e99]:
+              - text: When you submit a job application on this site, Sigma processes your personal data for the purposes of evaluating your candidacy for employment at Sigma and as otherwise needed throughout the recruitment and hiring process. Please review Sigma’s
+              - link "Candidate Privacy Notice" [ref=e100] [cursor=pointer]:
+                - /url: https://www.sigmacomputing.com/legal/candidate-privacy-notice
+              - text: for more details. Please note that your personal data may be transferred to a country other than the one in which it was provided (including to USA, the UK, and Canada).
+            - paragraph [ref=e101]:
+              - strong [ref=e102]: Sigma’s use of AI
+            - paragraph [ref=e103]: This hiring process utilizes artificial intelligence tools to assist in candidate screening and assessment. Our AI tools are designed to complement, not replace, human decision-making.
+        - generic [ref=e104]:
+          - img [ref=e105]
+          - generic [ref=e107]:
+            - paragraph [ref=e108]: Create a Job Alert
+            - paragraph [ref=e109]: Interested in building your career at Sigma Computing? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e493] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=sigmacomputing&source=job_alert_post
+      - separator [ref=e111]
+      - generic [ref=e112]:
+        - generic [ref=e113]:
+          - generic [ref=e114]:
+            - heading "Apply for this job" [level=2] [ref=e116]
+            - generic [ref=e117]:
+              - paragraph [ref=e119]: "*"
+              - paragraph [ref=e120]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e123] [cursor=pointer]
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - generic [ref=e128]:
+              - generic [ref=e129]: First Name*
+              - textbox "First Name" [ref=e130]
+            - generic [ref=e133]:
+              - generic [ref=e134]: Last Name*
+              - textbox "Last Name" [ref=e135]
+            - generic [ref=e138]:
+              - generic [ref=e139]: Email*
+              - textbox "Email" [ref=e140]
+            - group "Phone" [ref=e142]:
+              - generic [ref=e143]: Phone
+              - generic [ref=e146]:
+                - generic [ref=e147]: Country*
+                - generic [ref=e148]:
+                  - log [ref=e150]
+                  - generic [ref=e152]:
+                    - combobox "Country" [ref=e155]
+                    - button "Toggle flyout" [ref=e157] [cursor=pointer]:
+                      - img [ref=e158]
+                  - textbox
+              - generic [ref=e162]:
+                - generic [ref=e163]: Phone*
+                - textbox "Phone" [ref=e164]
+            - generic [ref=e165]:
+              - generic [ref=e167]:
+                - generic [ref=e168]: Location (City)*
+                - generic [ref=e169]:
+                  - log [ref=e171]
+                  - combobox "Location (City)" [ref=e176]
+                  - textbox
+              - button "Locate me" [ref=e177] [cursor=pointer]
+            - group "Resume/CV*" [ref=e179]:
+              - generic [ref=e180]: Resume/CV*
+              - generic [ref=e182]:
+                - generic [ref=e184]:
+                  - button "Attach" [ref=e185] [cursor=pointer]
+                  - generic [ref=e186]: Attach
+                  - button "Attach" [ref=e187]
+                - button "Dropbox" [ref=e189] [cursor=pointer]
+                - button "Google Drive" [ref=e191] [cursor=pointer]
+                - generic [ref=e193]:
+                  - button "Enter manually" [ref=e194] [cursor=pointer]
+                  - generic [ref=e195]: Enter manually
+                - paragraph [ref=e196]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e197]:
+            - generic [ref=e198]:
+              - separator [ref=e199]
+              - paragraph [ref=e201]: Education
+              - generic [ref=e203]:
+                - generic [ref=e204]: School*
+                - generic [ref=e205]:
+                  - log [ref=e207]
+                  - generic [ref=e209]:
+                    - generic [ref=e210]:
+                      - generic [ref=e211]: Select...
+                      - combobox "School" [ref=e213]
+                    - button "Toggle flyout" [ref=e215] [cursor=pointer]:
+                      - img [ref=e216]
+                  - textbox
+              - generic [ref=e219]:
+                - generic [ref=e220]: Degree*
+                - generic [ref=e221]:
+                  - log [ref=e223]
+                  - generic [ref=e225]:
+                    - generic [ref=e226]:
+                      - generic [ref=e227]: Select...
+                      - combobox "Degree" [ref=e229]
+                    - button "Toggle flyout" [ref=e231] [cursor=pointer]:
+                      - img [ref=e232]
+                  - textbox
+            - button "Add another" [ref=e234] [cursor=pointer]
+          - generic [ref=e235]:
+            - separator [ref=e236]
+            - generic [ref=e239]:
+              - generic [ref=e240]: Personal Pronouns*
+              - generic [ref=e241]:
+                - log [ref=e243]
+                - generic [ref=e245]:
+                  - generic [ref=e246]:
+                    - generic [ref=e247]: Select...
+                    - combobox "Personal Pronouns" [ref=e249]
+                  - button "Toggle flyout" [ref=e251] [cursor=pointer]:
+                    - img [ref=e252]
+                - textbox
+            - generic [ref=e256]:
+              - generic [ref=e257]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e258]
+            - generic [ref=e261]:
+              - generic [ref=e262]: Website
+              - textbox "Website" [ref=e263]
+            - generic [ref=e266]:
+              - generic [ref=e267]: While we don't require any cover letter as a part of our application, we understand you might want to share more than just your resume. Is there anything else you'd like to share with our team at Sigma?
+              - textbox "While we don't require any cover letter as a part of our application, we understand you might want to share more than just your resume. Is there anything else you'd like to share with our team at Sigma?" [ref=e268]
+            - generic [ref=e271]:
+              - generic [ref=e272]: Are you open to working 4 days onsite in one of our central offices?*
+              - generic [ref=e273]:
+                - log [ref=e275]
+                - generic [ref=e277]:
+                  - generic [ref=e278]:
+                    - generic [ref=e279]: Select...
+                    - combobox "Are you open to working 4 days onsite in one of our central offices?" [ref=e281]
+                  - button "Toggle flyout" [ref=e283] [cursor=pointer]:
+                    - img [ref=e284]
+                - textbox
+            - generic [ref=e288]:
+              - generic [ref=e289]: If you are currently not local to one of our central offices, are you willing to relocate?*
+              - generic [ref=e290]:
+                - log [ref=e292]
+                - generic [ref=e294]:
+                  - generic [ref=e295]:
+                    - generic [ref=e296]: Select...
+                    - combobox "If you are currently not local to one of our central offices, are you willing to relocate?" [ref=e298]
+                  - button "Toggle flyout" [ref=e300] [cursor=pointer]:
+                    - img [ref=e301]
+                - textbox
+            - generic [ref=e305]:
+              - generic [ref=e306]: Current company *
+              - textbox "Current company" [ref=e307]
+            - generic [ref=e308]:
+              - generic [ref=e310]:
+                - generic [ref=e311]: Acknowledge, confirm, and agree to the following statements. *
+                - generic [ref=e312]:
+                  - log [ref=e314]
+                  - generic [ref=e316]:
+                    - generic [ref=e317]:
+                      - generic [ref=e318]: Select...
+                      - combobox "Acknowledge, confirm, and agree to the following statements." [ref=e320]
+                    - button "Toggle flyout" [ref=e322] [cursor=pointer]:
+                      - img [ref=e323]
+                  - textbox
+              - generic [ref=e326]:
+                - paragraph [ref=e327]:
+                  - text: 1. I acknowledge Sigma’s
+                  - link "Candidate Privacy Notice" [ref=e328] [cursor=pointer]:
+                    - /url: https://www.sigmacomputing.com/legal/candidate-privacy-notice
+                  - text: ", and I agree to the processing of my personal data in accordance with it."
+                  - text: 2. I confirm that all information provided as part of this application is true and correct. I understand that any willful dishonesty may lead to my application being disqualified.
+                - paragraph [ref=e329]: Please note that Sigma will not be able to consider your application, if you do not acknowledge and agree to these statements.
+            - generic [ref=e332]:
+              - generic [ref=e333]: Would you require a new H-1B sponsorship to work with us?*
+              - generic [ref=e334]:
+                - log [ref=e336]
+                - generic [ref=e338]:
+                  - generic [ref=e339]:
+                    - generic [ref=e340]: Select...
+                    - combobox "Would you require a new H-1B sponsorship to work with us?" [ref=e342]
+                  - button "Toggle flyout" [ref=e344] [cursor=pointer]:
+                    - img [ref=e345]
+                - textbox
+            - generic [ref=e349]:
+              - generic [ref=e350]: What is your current visa status?*
+              - textbox "What is your current visa status?" [ref=e351]
+          - generic [ref=e352]:
+            - separator [ref=e353]
+            - generic [ref=e354]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e355]
+              - paragraph [ref=e356]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e357]: As set forth in Sigma Computing’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e360]:
+              - generic [ref=e361]: Gender
+              - generic [ref=e362]:
+                - log [ref=e364]
+                - generic [ref=e366]:
+                  - generic [ref=e367]:
+                    - generic [ref=e368]: Select...
+                    - combobox "Gender" [ref=e370]
+                  - button "Toggle flyout" [ref=e372] [cursor=pointer]:
+                    - img [ref=e373]
+            - generic [ref=e375]:
+              - generic [ref=e377]:
+                - generic [ref=e378]: Are you Hispanic/Latino?
+                - generic [ref=e379]:
+                  - log [ref=e381]
+                  - generic [ref=e383]:
+                    - generic [ref=e384]:
+                      - generic [ref=e385]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e387]
+                    - button "Toggle flyout" [ref=e389] [cursor=pointer]:
+                      - img [ref=e390]
+              - link "Race & Ethnicity Definitions" [ref=e392] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e393]:
+              - paragraph [ref=e394]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e395]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e396]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e397]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e398]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e401]:
+              - generic [ref=e402]: Veteran Status
+              - generic [ref=e403]:
+                - log [ref=e405]
+                - generic [ref=e407]:
+                  - generic [ref=e408]:
+                    - generic [ref=e409]: Select...
+                    - combobox "Veteran Status" [ref=e411]
+                  - button "Toggle flyout" [ref=e413] [cursor=pointer]:
+                    - img [ref=e414]
+            - separator [ref=e416]
+            - generic [ref=e417]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e418]
+              - generic [ref=e419]:
+                - generic [ref=e420]:
+                  - generic [ref=e421]: Form CC-305
+                  - generic [ref=e422]: Page 1 of 1
+                - generic [ref=e423]:
+                  - generic [ref=e424]: OMB Control Number 1250-0005
+                  - generic [ref=e425]: Expires 04/30/2026
+              - strong [ref=e426]: Why are you being asked to complete this form?
+              - paragraph [ref=e427]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e428]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e429] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e430]: How do you know if you have a disability?
+              - paragraph [ref=e431]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e432]: "Disabilities include, but are not limited to:"
+              - list [ref=e433]:
+                - listitem [ref=e434]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e435]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e436]: Blind or low vision
+                - listitem [ref=e437]: Cancer (past or present)
+                - listitem [ref=e438]: Cardiovascular or heart disease
+                - listitem [ref=e439]: Celiac disease
+                - listitem [ref=e440]: Cerebral palsy
+                - listitem [ref=e441]: Deaf or serious difficulty hearing
+                - listitem [ref=e442]: Diabetes
+                - listitem [ref=e443]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e444]: Epilepsy or other seizure disorder
+                - listitem [ref=e445]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e446]: Intellectual or developmental disability
+                - listitem [ref=e447]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e448]: Missing limbs or partially missing limbs
+                - listitem [ref=e449]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e450]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e451]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e452]: Partial or complete paralysis (any cause)
+                - listitem [ref=e453]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e454]: Short stature (dwarfism)
+                - listitem [ref=e455]: Traumatic brain injury
+            - generic [ref=e458]:
+              - generic [ref=e459]: Disability Status
+              - generic [ref=e460]:
+                - log [ref=e462]
+                - generic [ref=e464]:
+                  - generic [ref=e465]:
+                    - generic [ref=e466]: Select...
+                    - combobox "Disability Status" [ref=e468]
+                  - button "Toggle flyout" [ref=e470] [cursor=pointer]:
+                    - img [ref=e471]
+            - paragraph [ref=e474]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e476] [cursor=pointer]
+  - contentinfo [ref=e477]:
+    - generic [ref=e478]:
+      - paragraph [ref=e479]: Powered by
+      - link "Greenhouse logo" [ref=e480] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e481]
+  - iframe [ref=e497]:
+    - generic [ref=f67e6]:
+      - text: protected by
+      - strong [ref=f67e7]: reCAPTCHA

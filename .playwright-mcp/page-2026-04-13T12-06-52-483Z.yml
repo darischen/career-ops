@@ -1,0 +1,258 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Underdog Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://underdogfantasy.com
+        - img "Underdog Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/underdogfantasy
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e12]:
+          - generic [ref=e13]:
+            - heading "Associate Software Engineer, 2026 New Grad" [level=1] [ref=e14]
+            - generic [ref=e15]:
+              - img [ref=e16]
+              - generic [ref=e18]: United States/Remote
+          - button "Apply" [ref=e19] [cursor=pointer]
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - paragraph [ref=e22]: At Underdog, we make sports more fun.
+            - paragraph [ref=e23]: "Our thesis is simple: build the best products and we’ll build the biggest company in the space, because there’s so much more to be built for sports fans. We’re just over five years in, and we’re one of the fastest-growing sports companies ever, most recently valued at $1.3B. And it’s still the early days."
+            - paragraph [ref=e24]: We’ve built and scaled multiple games and products across fantasy sports, sports betting, and prediction markets, all united in one seamless, simple, easy to use, intuitive and fun app.
+            - paragraph [ref=e25]: Underdog isn’t for everyone. One of our core values is give a sh*t. The people who win here are the ones who care, push, and perform. If that’s you, come join us.
+            - paragraph [ref=e26]: Winning as an Underdog is more fun.
+          - generic [ref=e27]:
+            - paragraph [ref=e28]: As an Associate Software Engineer, you’ll work on meaningful, user-facing features while learning from experienced engineers across the full development lifecycle. You’ll gain hands-on experience, contribute to real product decisions, and build features used by millions of sports fans. This is a strong opportunity to grow quickly and make a visible impact early in your career.
+            - heading "About the role" [level=3] [ref=e29]:
+              - strong [ref=e30]: About the role
+            - list [ref=e31]:
+              - listitem [ref=e32]: Work on cutting-edge projects that gamify and enhance the user experience across our products
+              - listitem [ref=e33]: Design and build clean, reusable, and performant features that will be used by millions of sports fans
+              - listitem [ref=e34]: Collaborate closely with product managers, designers, and engineers to deliver experiences
+              - listitem [ref=e35]: Contribute to the upkeep and ongoing development of our design system and components
+              - listitem [ref=e36]: Write well-tested, high-quality code while participating in code reviews and ensuring engineering best practices
+              - listitem [ref=e37]: Work in a high-agency environment where your voice matters in technical discussions and product direction
+              - listitem [ref=e38]: Learn from talented engineers and leaders in the fantasy and sports betting space while contributing your own unique perspective and expertise
+            - heading "Who you are" [level=3] [ref=e39]:
+              - strong [ref=e40]: Who you are
+            - list [ref=e41]:
+              - listitem [ref=e42]: B.S. (or higher) in Computer Science or a related STEM field; this role is best suited for candidates graduating in Spring 2026, given the Summer 2026 start date.
+              - listitem [ref=e43]: Experience with one or more object-oriented programming languages
+              - listitem [ref=e44]: Track record of shipping high-quality, feature-rich products with a portfolio of side projects
+              - listitem [ref=e45]: Desire to work in a fast-paced environment, continuously grow, and master your craft
+              - listitem [ref=e46]: Strong communication skills and a collaborative, consumer-facing, product-forward mindset
+              - listitem [ref=e47]: Extreme passion for sports; bonus points for sports or sports gaming–related side projects (e.g., apps, content, models, communities)
+            - heading "Even better if you have" [level=3] [ref=e48]:
+              - strong [ref=e49]: Even better if you have
+            - list [ref=e50]:
+              - listitem [ref=e51]: "Familiarity with or desire to learn our tech stack, which includes, but is not limited to: Swift (iOS), Kotlin (Android), and Ruby on Rails"
+            - paragraph [ref=e52]:
+              - emphasis [ref=e53]: Our target starting base salary range for this position is between $100,000 and $130,000, plus target equity. The starting base salary will depend on a number of factors including the candidate’s skills and experience, among other things.
+            - paragraph [ref=e54]: Please note that visa sponsorship is not available for this position.
+            - heading "What we can offer you:" [level=3] [ref=e55]:
+              - strong [ref=e56]: "What we can offer you:"
+            - list [ref=e57]:
+              - listitem [ref=e58]: Unlimited PTO for full-time employees (we're extremely flexible with the exception of the first few weeks before & into the NFL season)
+              - listitem [ref=e59]: 16 weeks of fully paid parental leave
+              - listitem [ref=e60]: Home office stipend
+              - listitem [ref=e61]: A connected virtual-first culture with a highly engaged distributed workforce
+              - listitem [ref=e62]: 5% 401k match, FSA, company paid health, dental, vision plan options for employees and dependents
+            - paragraph [ref=e63]: "#LI-DNI"
+          - generic [ref=e64]:
+            - paragraph [ref=e65]: We're a remote-first company and value in-person connection. That said, we expect everyone to gather 2-3 times per year for team and company offsites, trainings, and more.
+            - heading "This position may require sports betting licensure based on certain state regulations." [level=4] [ref=e66]:
+              - strong [ref=e67]:
+                - emphasis [ref=e68]: T
+              - strong [ref=e69]:
+                - emphasis [ref=e70]: his position may require sports betting licensure based on certain state regulations.
+            - paragraph [ref=e71]:
+              - emphasis [ref=e72]: Underdog is an equal opportunity employer and doesn't discriminate on the basis of creed, race, sexual orientation, gender, age, disability status, or any other defining characteristic.
+            - paragraph [ref=e73]:
+              - strong [ref=e74]: California Applicants
+              - text: ": Review our CPRA Privacy Notice"
+              - link "here" [ref=e75] [cursor=pointer]:
+                - /url: https://docs.google.com/document/d/e/2PACX-1vT4jT5hM0XA8bjXOmW9KRuGYDZTHaxnqeYCWUXM0hSwVO9t3TF_ChFO5ri-jHDBWg/pub
+              - text: .
+        - generic [ref=e76]:
+          - img [ref=e77]
+          - generic [ref=e79]:
+            - paragraph [ref=e80]: Create a Job Alert
+            - paragraph [ref=e81]: Interested in building your career at Underdog? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e82] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=underdogfantasy&source=job_alert_post
+      - separator [ref=e83]
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - generic [ref=e86]:
+            - heading "Apply for this job" [level=2] [ref=e88]
+            - generic [ref=e89]:
+              - paragraph [ref=e91]: "*"
+              - paragraph [ref=e92]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e95] [cursor=pointer]
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - generic [ref=e100]:
+              - generic [ref=e101]: First Name*
+              - textbox "First Name" [ref=e102]
+            - generic [ref=e105]:
+              - generic [ref=e106]: Last Name*
+              - textbox "Last Name" [ref=e107]
+            - generic [ref=e110]:
+              - generic [ref=e111]: Email*
+              - textbox "Email" [ref=e112]
+            - group "Phone" [ref=e114]:
+              - generic [ref=e115]: Phone
+              - generic [ref=e118]:
+                - generic [ref=e119]: Country*
+                - generic [ref=e120]:
+                  - log [ref=e122]
+                  - generic [ref=e124]:
+                    - combobox "Country" [ref=e127]
+                    - button "Toggle flyout" [ref=e129] [cursor=pointer]:
+                      - img [ref=e130]
+                  - textbox
+              - generic [ref=e134]:
+                - generic [ref=e135]: Phone*
+                - textbox "Phone" [ref=e137]
+            - group "Resume/CV*" [ref=e139]:
+              - generic [ref=e140]: Resume/CV*
+              - generic [ref=e142]:
+                - generic [ref=e144]:
+                  - button "Attach" [ref=e145] [cursor=pointer]
+                  - generic [ref=e146]: Attach
+                  - button "Attach" [ref=e147]
+                - button "Dropbox" [ref=e149] [cursor=pointer]
+                - button "Google Drive" [ref=e151] [cursor=pointer]
+                - generic [ref=e153]:
+                  - button "Enter manually" [ref=e154] [cursor=pointer]
+                  - generic [ref=e155]: Enter manually
+                - paragraph [ref=e156]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e158]:
+              - generic [ref=e159]: Cover Letter
+              - generic [ref=e161]:
+                - generic [ref=e163]:
+                  - button "Attach" [ref=e164] [cursor=pointer]
+                  - generic [ref=e165]: Attach
+                  - button "Attach" [ref=e166]
+                - button "Dropbox" [ref=e168] [cursor=pointer]
+                - button "Google Drive" [ref=e170] [cursor=pointer]
+                - generic [ref=e172]:
+                  - button "Enter manually" [ref=e173] [cursor=pointer]
+                  - generic [ref=e174]: Enter manually
+                - paragraph [ref=e175]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e176]:
+            - generic [ref=e177]:
+              - separator [ref=e178]
+              - paragraph [ref=e180]: Education
+              - generic [ref=e182]:
+                - generic [ref=e183]: School*
+                - generic [ref=e184]:
+                  - log [ref=e186]
+                  - generic [ref=e188]:
+                    - generic [ref=e189]:
+                      - generic [ref=e190]: Select...
+                      - combobox "School" [ref=e192]
+                    - button "Toggle flyout" [ref=e194] [cursor=pointer]:
+                      - img [ref=e195]
+                  - textbox
+              - generic [ref=e198]:
+                - generic [ref=e199]: Degree*
+                - generic [ref=e200]:
+                  - log [ref=e202]
+                  - generic [ref=e204]:
+                    - generic [ref=e205]:
+                      - generic [ref=e206]: Select...
+                      - combobox "Degree" [ref=e208]
+                    - button "Toggle flyout" [ref=e210] [cursor=pointer]:
+                      - img [ref=e211]
+                  - textbox
+              - generic [ref=e214]:
+                - generic [ref=e216]:
+                  - generic [ref=e217]: End date month*
+                  - generic [ref=e218]:
+                    - log [ref=e220]
+                    - generic [ref=e222]:
+                      - generic [ref=e223]:
+                        - generic [ref=e224]: Select...
+                        - combobox "End date month" [ref=e226]
+                      - button "Toggle flyout" [ref=e228] [cursor=pointer]:
+                        - img [ref=e229]
+                    - textbox
+                - generic [ref=e232]:
+                  - generic [ref=e233]: End date year*
+                  - spinbutton "End date year" [ref=e234]
+            - button "Add another" [ref=e235] [cursor=pointer]
+          - generic [ref=e236]:
+            - separator [ref=e237]
+            - generic [ref=e240]:
+              - generic [ref=e241]: Are you legally authorized to work in the United States?*
+              - generic [ref=e242]:
+                - log [ref=e244]
+                - generic [ref=e246]:
+                  - generic [ref=e247]:
+                    - generic [ref=e248]: Select...
+                    - combobox "Are you legally authorized to work in the United States?" [ref=e250]
+                  - button "Toggle flyout" [ref=e252] [cursor=pointer]:
+                    - img [ref=e253]
+                - textbox
+            - generic [ref=e257]:
+              - generic [ref=e258]: Will you now or in the future require sponsorship for employment visa status?*
+              - generic [ref=e259]:
+                - log [ref=e261]
+                - generic [ref=e263]:
+                  - generic [ref=e264]:
+                    - generic [ref=e265]: Select...
+                    - combobox "Will you now or in the future require sponsorship for employment visa status?" [ref=e267]
+                  - button "Toggle flyout" [ref=e269] [cursor=pointer]:
+                    - img [ref=e270]
+                - textbox
+            - generic [ref=e274]:
+              - generic [ref=e275]: What is your interest in fantasy sports, sports betting, or just sports in general?*
+              - textbox "What is your interest in fantasy sports, sports betting, or just sports in general?" [ref=e276]
+            - generic [ref=e279]:
+              - generic [ref=e280]: What is an achievement, accomplishment, or passion project that you are proud of?*
+              - textbox "What is an achievement, accomplishment, or passion project that you are proud of?" [ref=e281]
+            - generic [ref=e284]:
+              - generic [ref=e285]: Is there anything else relating to your background or experience that you would like to highlight?*
+              - textbox "Is there anything else relating to your background or experience that you would like to highlight?" [ref=e286]
+            - generic [ref=e289]:
+              - generic [ref=e290]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e291]
+            - generic [ref=e294]:
+              - generic [ref=e295]: "PLEASE NOTE: By proceeding with the application process, you acknowledge that, if hired by Underdog, your existing personal account will be restricted for the duration of your employment. All active contest entries on your account will be canceled, and any applicable refunds will be processed accordingly.*"
+              - generic [ref=e296]:
+                - log [ref=e298]
+                - generic [ref=e300]:
+                  - generic [ref=e301]:
+                    - generic [ref=e302]: Select...
+                    - 'combobox "PLEASE NOTE: By proceeding with the application process, you acknowledge that, if hired by Underdog, your existing personal account will be restricted for the duration of your employment. All active contest entries on your account will be canceled, and any applicable refunds will be processed accordingly." [ref=e304]'
+                  - button "Toggle flyout" [ref=e306] [cursor=pointer]:
+                    - img [ref=e307]
+                - textbox
+            - generic [ref=e311]:
+              - generic [ref=e312]: How did you hear about us?*
+              - generic [ref=e313]:
+                - log [ref=e315]
+                - generic [ref=e317]:
+                  - generic [ref=e318]:
+                    - generic [ref=e319]: Select...
+                    - combobox "How did you hear about us?" [ref=e321]
+                  - button "Toggle flyout" [ref=e323] [cursor=pointer]:
+                    - img [ref=e324]
+                - textbox
+            - generic [ref=e328]:
+              - generic [ref=e329]: If you selected 'Other', please specify here
+              - textbox "If you selected 'Other', please specify here" [ref=e330]
+          - button "Submit application" [ref=e332] [cursor=pointer]
+  - contentinfo [ref=e333]:
+    - generic [ref=e334]:
+      - paragraph [ref=e335]: Powered by
+      - link "Greenhouse logo" [ref=e336] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e337]
+  - iframe [ref=e351]:
+    - generic [ref=f62e6]:
+      - text: protected by
+      - strong [ref=f62e7]: reCAPTCHA

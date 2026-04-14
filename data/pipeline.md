@@ -29,6 +29,15 @@ Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` 
 - [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003 | Sigma Computing | Software Engineer (New Grad Program)
 - [ ] https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7631560003 | Freeform | Electrical Engineer (New Grad Summer 2026)
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4605996005 | Scale AI | Software Engineer - New Grad
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4835315007 | Together AI | Machine Learning / Research Engineer (New Grad)
+- [ ] https://job-boards.greenhouse.io/newsbreak/jobs/4338876006 | NewsBreak | Machine Learning Engineer (Junior & New Grad)
+- [ ] https://jobs.ashbyhq.com/enode/95054a03-a05b-4b86-addb-e7e7b2e5a4a4 | Enode | Junior Software Engineer
+- [ ] https://jobs.ashbyhq.com/empirical-security/16bd6ff1-2bd2-4f43-9108-b1ef22ad40e3 | Empirical Security | Junior Software Engineer
+- [ ] https://jobs.ashbyhq.com/GigaML/2e1e0adb-676a-4981-9896-03971a2a0ea4 | GigaML | Junior Software Engineer
+- [ ] https://jobs.ashbyhq.com/numeric/f9c9e075-7799-414f-8601-f770c0cd9061 | Numeric | Software Engineer, Early Career
+- [ ] https://jobs.ashbyhq.com/mirage/1c4a937b-894e-402a-b2fd-93435b86657f | Mirage | Software Engineer, Early Career
+- [ ] https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application | BRM | Entry Level Software Engineer
+- [ ] https://jobs.ashbyhq.com/trading212/5df786a3-53ac-4e13-8e12-34c73cc213d3 | Trading212 | Junior Software Engineer
 
 ## Processed (2026-04-08)
 
@@ -54,3 +63,585 @@ Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` 
 | 18 | 2026-04-08 | Sentry | Software Engineer, New Grad | https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d | 3.6/5 | Evaluated | [018](reports/018-sentry-2026-04-08.md) |
 | 19 | 2026-04-08 | Replo | Software Engineer, New Grad | https://jobs.ashbyhq.com/replo/ec206174-ccc2-42fa-b295-8201421f21b0 | N/A | SKIP | [019](reports/019-replo-2026-04-08.md) |
 | 20 | 2026-04-08 | N1 | New Grad Software Engineer | https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a | 4.0/5 | Evaluated | [020](reports/020-n1-2026-04-08.md) |
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5843010004 | Vercel | Anti-Abuse Automation Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5820658004 | Vercel | Content Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5530586004 | Vercel | Developer Success Engineer 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5829980004 | Vercel | Engineering Manager, AI Gateway
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5701765004 | Vercel | Engineering Manager, CDN
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5778418004 | Vercel | Forward-Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5752684004 | Vercel | Forward-Deployed Engineer 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5777645004 | Vercel | GTM Engineer 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5199830004 | Vercel | Head of Product Marketing 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5806456004 | Vercel | Manager, Solutions Architecture
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5719796004 | Vercel | Mobile Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5735116004 | Vercel | Sales Engineer, Startups 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5732855004 | Vercel | Site Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5804110004 | Vercel | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5796302004 | Vercel | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5806749004 | Vercel | Solutions Architect 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5461002004 | Vercel | Sr. Engineering Manager, Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183044008 | Anthropic | Anthropic Fellows Program — AI Safety
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5030244008 | Anthropic | Anthropic Fellows Program — AI Security
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183051008 | Anthropic | Anthropic Fellows Program — ML Systems & Performance
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4502508008 | Anthropic | Application Security Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5014500008 | Anthropic | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5055488008 | Anthropic | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5116274008 | Anthropic | Applied AI Engineer 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5068226008 | Anthropic | Applied AI Engineer, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057647008 | Anthropic | Applied AI Engineer (Digital Natives Business) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111942008 | Anthropic | Applied AI Engineer, Life Sciences (Beneficial Deployments)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5073277008 | Anthropic | Applied AI Engineer (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5127289008 | Anthropic | Business Systems Analyst, Data Enrichment
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5099202008 | Anthropic | Campus Security Manager
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5116927008 | Anthropic | Claude Evangelist, Applied AI (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5026678008 | Anthropic | Cloud Service Provider Accounting Manager
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5186518008 | Anthropic | Commercial Counsel, Compute & Infrastructure
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5044994008 | Anthropic | Commercial Counsel, Datacenters & Construction
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5159642008 | Anthropic | Data Center Engineer, Resource Efficiency – Compute Supply 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5156057008 | Anthropic | Data Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5184594008 | Anthropic | Data Scientist, Finance Forecasting
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5097186008 | Anthropic | Design Engineer, AI Capability Development (Education Labs)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5116525008 | Anthropic | Design Engineer, Web
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5159608008 | Anthropic | Engineering Manager, Agent Prompts & Evals
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4889396008 | Anthropic | Engineering Manager, Auth & Identity
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5141377008 | Anthropic | Engineering Manager, Cloud Inference AWS
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5068296008 | Anthropic | Engineering Manager, Detection and Response
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4741104008 | Anthropic | Engineering Manager, GPU (ML Accelerator)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4741102008 | Anthropic | Engineering Manager, Inference
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5155391008 | Anthropic | Engineering Manager, Inference Routing and Performance
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5119478008 | Anthropic | Engineering Manager, People Products
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146363008 | Anthropic | Engineering Manager, Product Monetization (Billing Platform)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5103078008 | Anthropic | Engineering Manager, Safeguards Data Infrastructure
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5140492008 | Anthropic | Engineering Manager, Vertical AI Products
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5109257008 | Anthropic | Enterprise Account Executive, Federal Civilian Sales (Veterans Affairs)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5104754008 | Anthropic | Enterprise Account Executive, Retail
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4532887008 | Anthropic | [Expression of Interest] Research Scientist / Engineer, Honesty
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5115678008 | Anthropic | External Affairs, Brussels
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5186669008 | Anthropic | Finance Systems Engineer, Revenue
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183021008 | Anthropic | Finance Systems, Head of AI & Innovation
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5155195008 | Anthropic | Finance Systems Integration Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5133449008 | Anthropic | Finance Systems, Program Manager - Quote-to-cash
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5121561008 | Anthropic | Forward Deployed Engineer, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5121563008 | Anthropic | Forward Deployed Engineer, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5012991008 | Anthropic | Forward Deployed Engineer, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5079562008 | Anthropic | Forward Deployed Engineer, Applied AI (Federal Civilian) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5082402008 | Anthropic | Global Partner Account Manager, Systems Integrators
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153580008 | Anthropic | Head of Programmatic Outcomes — Product
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5064817008 | Anthropic | Head of Solutions Architects, Applied AI (Korea)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5141849008 | Anthropic | Incentive Compensation System Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5042002008 | Anthropic | Incentive Compensation System Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4973067008 | Anthropic | Infrastructure Engineer, Pre-training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5030680008 | Anthropic | Infrastructure Engineer, Sandboxing
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5101923008 | Anthropic | Integrations Developer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4802076008 | Anthropic | IT Support Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4887952008 | Anthropic | IT Systems Engineer, Corporate Systems & Infrastructure
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161882008 | Anthropic | IT Systems Engineer, Enterprise SaaS
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4952079008 | Anthropic | Machine Learning Systems Engineer, Research Tools
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4952051008 | Anthropic | Machine Learning Systems Engineer, RL Engineering
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5173031008 | Anthropic | Manager, Applied AI Solutions Architecture - Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5142110008 | Anthropic | Manager, Applied AI (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5181763008 | Anthropic | Manager, Customer Productivity
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5099753008 | Anthropic | Manager, Forward Deployed Engineering
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183983008 | Anthropic | Manager of Forward Deployed Engineering, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5117652008 | Anthropic | Manager of Solutions Architecture, Applied AI (Industries)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4964610008 | Anthropic | Manager of Solutions Architecture, Applied AI (Industries)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5115884008 | Anthropic | Manager of Solutions Architecture, Applied AI (Industries)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146999008 | Anthropic | Manager of Solutions Architecture, Applied AI (Partnerships)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4778843008 | Anthropic | ML Infrastructure Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4949336008 | Anthropic | ML/Research Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5098025008 | Anthropic | Model Quality Software Engineer, Claude Code
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123011008 | Anthropic | Offensive Security Research Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5164616008 | Anthropic | Partner Manager DACH/CEE (AI Boutiques)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5171950008 | Anthropic | Partner Sales Manager, Systems Integrators
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5112486008 | Anthropic | Partner Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4950664008 | Anthropic | Partner Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5112493008 | Anthropic | Partner Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4020350008 | Anthropic | Performance Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4926227008 | Anthropic | Performance Engineer, GPU
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4929689008 | Anthropic | Platform Hardware Security
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5156326008 | Anthropic | Policy Design Manager, Age-Appropriate Design
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4949108008 | Anthropic | Privacy Research Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5152817008 | Anthropic | Product Designer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5104689008 | Anthropic | Product Designer, Claude Code
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123082008 | Anthropic | Product Management, Research
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5181852008 | Anthropic | Product Manager, API Growth
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4985920008 | Anthropic | Product Manager, Claude Code
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5127559008 | Anthropic | Product Manager, Consumer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153773008 | Anthropic | Product Manager, Monetization
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153924008 | Anthropic | Product Manager, Multi-Cloud Growth - Google
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5179882008 | Anthropic | Product Operations Manager, Feedback Loops
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5179891008 | Anthropic | Product Operations Manager, Research Product
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5186811008 | Anthropic | Product Support Manager
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4979585008 | Anthropic | Product Support Specialist
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5138042008 | Anthropic | Product Support Specialist
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5107121008 | Anthropic | Prompt Engineer, Agent Prompts & Evals
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5159669008 | Anthropic | Prompt Engineer, Claude Code
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4017544008 | Anthropic | Research Engineer, Agents
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125083008 | Anthropic | Research Engineer, AI Observability
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5025624008 | Anthropic | Research Engineer, Cybersecurity Reinforcement Learning
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4669581008 | Anthropic | Research Engineer, Discovery
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5071132008 | Anthropic | Research Engineer, Economic Research
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4951064008 | Anthropic | Research Engineer, Environment Scaling
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5067100008 | Anthropic | Research Engineer,  Frontier Red Team (Autonomy)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4980430008 | Anthropic | Research Engineer, Interpretability
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5115935008 | Anthropic | Research Engineer, Machine Learning (Reinforcement Learning)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4613568008 | Anthropic | Research Engineer, Machine Learning (Reinforcement Learning) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5160330008 | Anthropic | Research Engineer, Performance RL
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5119713008 | Anthropic | Research Engineer, Pretraining
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4938432008 | Anthropic | Research Engineer, Pretraining Scaling
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4613592008 | Anthropic | Research Engineer, Production Model Post-Training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5112018008 | Anthropic | Research Engineer, Production Model Post-Training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074815008 | Anthropic | Research Engineer/Research Scientist, Audio
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5135168008 | Anthropic | Research Engineer / Research Scientist, Pre-training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4616971008 | Anthropic | Research Engineer/Research Scientist, Pre-training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4951814008 | Anthropic |  Research Engineer / Research Scientist, Tokens
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074217008 | Anthropic | Research Engineer / Research Scientist, Vision
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5024831008 | Anthropic | Research Engineer, Reward Models Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5126127008 | Anthropic | Research Engineer, Science of Scaling
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4631822008 | Anthropic | Research Engineer / Scientist, Alignment Science
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5076477008 | Anthropic | Research Engineer / Scientist, Frontier Red Team (Cyber)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5076606008 | Anthropic | Research Engineer / Scientist, Societal Impacts
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5061517008 | Anthropic | Research Engineer, Universes
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4946308008 | Anthropic | Research Engineer, Virtual Collaborator (Cowork)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5097067008 | Anthropic | Research Product Manager, Model Behaviors
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5101433008 | Anthropic | Security Architect, Applied AI 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4982193008 | Anthropic | Security Engineer, Detection & Response
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5105509008 | Anthropic | Security Engineer, Offensive Security
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153564008 | Anthropic | Security Labs Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5160757008 | Anthropic | Security Risk & Compliance, HIPAA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4595463008 | Anthropic | Security Software Engineer, Detection & Response Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123587008 | Anthropic | Security Technology Deployment Specialist 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123039008 | Anthropic | Software Engineer, Account Abuse
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4899511008 | Anthropic | Software Engineer, Android
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4982198008 | Anthropic | Software Engineer, Business Technology 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5168829008 | Anthropic | Software Engineer, Cloud Inference Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5108982008 | Anthropic | Software Engineer, Compute Efficiency
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5063007008 | Anthropic | Software Engineer, Cybersecurity Products
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174743008 | Anthropic | Software Engineer, Full-stack
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5109273008 | Anthropic | Software Engineer, Human Data Interface
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111745008 | Anthropic | Software Engineer, Inference Deployment
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4572744008 | Anthropic | Software Engineer, iOS
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4951844008 | Anthropic | Software Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074908008 | Anthropic | Software Engineer, Safeguards Infrastructure 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5083039008 | Anthropic | Software Engineer, Sandboxing
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5025591008 | Anthropic | Software Engineer, Sandboxing (Systems)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4673416008 | Anthropic | Software Engineer, UI Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5076109008 | Anthropic | Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5117581008 | Anthropic | Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5062712008 | Anthropic | Solutions Architect, Applied AI (Beneficial Deployments)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146028008 | Anthropic | Solutions Architect, Applied AI (Beneficial Deployments)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5065835008 | Anthropic | Solutions Architect, Applied AI (Digital Native Business)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5079540008 | Anthropic | Solutions Architect, Applied AI (Federal Civilian)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5140405008 | Anthropic | Solutions Architect, Applied AI (Government Technology)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4977626008 | Anthropic |  Solutions Architect, Applied AI (Industries)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4977624008 | Anthropic |  Solutions Architect, Applied AI (Industries)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4461444008 | Anthropic | Solutions Architect, Applied AI (Industries)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5031670008 | Anthropic | Solutions Architect, Applied AI (Industries)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5079511008 | Anthropic | Solutions Architect, Applied AI (National Security)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057258008 | Anthropic | Solutions Architect, Applied AI (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4968059008 | Anthropic | Solutions Architect, Applied AI (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5140403008 | Anthropic | Solutions Architect, Applied AI (State and Local Government, West)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5126080008 | Anthropic | Solutions Architect, National Security
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5152348008 | Anthropic | Sr. Software Engineer, Inference
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5075093008 | Anthropic | Strategic Account Executive, Digital Native Business & Cybersecurity
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5041299008 | Anthropic | Strategic Account Executive, Retail & Commercial Banking
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5122119008 | Anthropic | Support Operations Specialist, AI Agent Management
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5017903008 | Anthropic | Technical Deployment, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5132995008 | Anthropic | Technical Productivity Manager
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5062968008 | Anthropic | Technical Program Manager, Consumer Engineering
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111783008 | Anthropic | Technical Program Manager, Infrastructure
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5157003008 | Anthropic | Technical Program Manager, Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5108695008 | Anthropic | Technical Program Manager, Safeguards (Infrastructure & Evals)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4989788008 | Anthropic | Technical Program Manager, Security
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123769008 | Anthropic | Technical Program Manager, Security (Coordinated Vulnerability Disclosure)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5056499008 | Anthropic | Technical Solutions Specialist, Data Operations
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074937008 | Anthropic | Threat Collections Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4720576008 | Anthropic | TPU Kernel Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5149802008 | Anthropic | Transformative AI Research Economist, Economic Research 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5026097008 | Anthropic | UI Software Engineer, Claude.ai Consumer Product 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5114848008 | Anthropic | Video Producer, Product Launches
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4609736005 | Scale AI | AI Product Manager
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4651491005 | Scale AI | AI Product Manager, Insights
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4472223005 | Scale AI | AI Strategy Consultant, Frontier Tech
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4536659005 | Scale AI | Applied AI Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4514173005 | Scale AI | Applied AI Engineer, Enterprise GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4413992005 | Scale AI | Applied AI Engineer, Global Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4613839005 | Scale AI | DevOps Engineer, GPS
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4674863005 | Scale AI | DevOps Engineer, Infrastructure & Security
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4632142005 | Scale AI | Distinguished Engineer
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625271005 | Scale AI | Engineering Manager, AgentOps
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4595555005 | Scale AI | Engineering Manager, Global Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4629589005 | Scale AI | Evals Engineer, Applied AI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4674529005 | Scale AI | Field Engineering Manager, Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4518690005 | Scale AI | Field Engineer, Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4602177005 | Scale AI | Forward Deployed AI Engineering Manager, Enterprise 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4593571005 | Scale AI | Forward Deployed Engineer, GenAI 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4589592005 | Scale AI | Forward Deployed Engineering Manager, GenAI Applications
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673051005 | Scale AI | Forward Deployed Product Manager, Enterprise
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4676602005 | Scale AI | Full-Stack Software Engineer, (Forward Deployed), GPS
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4676600005 | Scale AI | Full-Stack Software Engineer, (Forward Deployed), GPS
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4662232005 | Scale AI | GTM Architect 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4683055005 | Scale AI | Head of Finance Systems & Automation
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4665557005 | Scale AI | Infrastructure Software Engineer, Enterprise GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4677761005 | Scale AI | IT Support Engineer 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4413274005 | Scale AI | Machine Learning Engineer, Global Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625345005 | Scale AI |  Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625344005 | Scale AI | Machine Learning Research Engineer, Agents - Enterprise GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4490301005 | Scale AI | Machine Learning Research Engineer, GenAI Applied ML
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4600908005 | Scale AI | Machine Learning Research Engineer - Robotics
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4605596005 | Scale AI | Machine Learning Research Scientist / Engineer, Reasoning
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4528009005 | Scale AI | Machine Learning Research Scientist / Research Engineer, Post-Training
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625341005 | Scale AI | Machine Learning Systems Research Engineer, Agent Post-training - Enterprise GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4631811005 | Scale AI | Manager, Machine Learning Research Scientist, GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4631039005 | Scale AI | Mission Software Engineering Manager, Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4481921005 | Scale AI | Mission Software Engineer, Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4534631005 | Scale AI | ML Research Engineer, ML Systems
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4663053005 | Scale AI | ML Systems Engineer, Robotics
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4644742005 | Scale AI | Product Manager
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4670064005 | Scale AI | Product Manager, Data Engine
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4675842005 | Scale AI | Product Manager, Gen AI Platform
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4589749005 | Scale AI | Product Manager of AI Applications, Global Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4650514005 | Scale AI | Product Manager of AI Applications, Global Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4651559005 | Scale AI | Product Security Engineer - Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4675694005 | Scale AI | Research Scientist, AI Controls and Monitoring
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4655744005 | Scale AI | Robotics Engineer
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4684073005 | Scale AI | Security Engineer, Detection & Response
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4646888005 | Scale AI | Security Engineer, Infrastructure
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4643029005 | Scale AI | Security Engineer, Product Security
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4654831005 | Scale AI | Site Reliability Engineer / DevOps
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4676936005 | Scale AI | Software Engineer, AI Developer Tooling
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673771005 | Scale AI | Software Engineer, ARC Team
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4536653005 | Scale AI | Software Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4513943005 | Scale AI | Software Engineer, Enterprise AI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4363623005 | Scale AI | Software Engineer, Frontier AI Infrastructure
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4591300005 | Scale AI | Software Engineer, Gen AI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4302243005 | Scale AI | Software Engineer, Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4655050005 | Scale AI | Software Engineer, Robotics
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4612282005 | Scale AI | Software Engineer, Robotics
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4618065005 | Scale AI | Software Engineer, Robotics & Autonomous Systems
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4663481005 | Scale AI | Solutions Engineer (Clearance Required)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4554440005 | Scale AI | Solutions Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4642876005 | Scale AI | Solutions Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4640096005 | Scale AI | Solutions Engineer, Robotics
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4623533005 | Scale AI | Strategic Finance Manager, Gen AI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4663997005 | Scale AI | Technical Program Manager, Robotics Data
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4664399005 | dbt Labs | Customer Solutions Architect (Austin)
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4669953005 | dbt Labs | Customer Solutions Architect, Manager (Dublin)
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4674836005 | dbt Labs | GTM Automation Engineer
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4636257005 | dbt Labs | Manager, Customer Solutions Engineering 
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4663520005 | dbt Labs | Manager, Software Engineering
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4673630005 | dbt Labs | Partner Solutions Architect - North America
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4627942005 | dbt Labs | Resident Architect
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4671489005 | dbt Labs | Solutions Architect, Commercial
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4683888005 | dbt Labs | Solutions Architect, New Zealand
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4187681007 | Together AI | AI Researcher, Core ML (Turbo)
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5068767007 | Together AI | Backend Engineer 
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5064263007 | Together AI | Backend Software Engineer — Data Platform & AI Data Products
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5093510007 | Together AI | Customer Support Engineer (GPU Cluster)
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4840844007 | Together AI | Customer Support Engineer (GPU Cluster), India 
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5069532007 | Together AI | Customer Support Engineer (Inference), India
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5070909007 | Together AI | Engineering Manager, Model Serving
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5101687007 | Together AI | Executive Assistant- Finance and Infrastructure Strategy
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5065856007 | Together AI | Global Hardware Sourcing & Supply Manager 
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4687884007 | Together AI | LLM Inference Frameworks and Optimization Engineer
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4385540007 | Together AI | Machine Learning Engineer - Inference
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4835988007 | Together AI | Machine Learning, Platform Engineer
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4384627007 | Together AI | Research Engineer, Core ML
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4987660007 | Together AI | Research Engineer, Frontier Speculative Decoding
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4627491007 | Together AI | Solutions Architect 
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5052540007 | Together AI | Sr. Manager, Cloud Sourcing
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4188119007 | Together AI | Systems Research Engineer, GPU Programming
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397665002 | Airtable | Engineering Manager, Enterprise Product
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8455967002 | Airtable | Product Design Manager, Enterprise 
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8228847002 | Airtable | Product Design Manager, Self Serve 
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8199012002 | Airtable | Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8475571002 | Airtable | Product Manager, Funnel & Activation
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8245333002 | Airtable | Product Manager, Omni
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8194662002 | Airtable | Product Security Engineer
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8432883002 | Airtable | Professional Services Engineer (East Coast)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8382158002 | Airtable | Program Manager, AI Programs
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8442397002 | Airtable | Software Engineer, Compute (8+ YOE)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8400388002 | Airtable | Software Engineer, Infrastructure (8+ YOE)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397618002 | Airtable | Software Engineer, Product Backend (8+ YOE)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/7892134002 | Airtable | Solutions Consultant-Northeast
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8378476002 | Airtable | Solutions Consultant | Southern
+- [ ] https://job-boards.greenhouse.io/loop/jobs/5819779004 | Loop | AI Operations Associate
+- [ ] https://job-boards.greenhouse.io/loop/jobs/4102236004 | Loop | Software Engineer, Full-Stack
+- [ ] https://job-boards.greenhouse.io/loop/jobs/4830548004 | Loop | Software Engineer, Full-Stack
+- [ ] https://job-boards.greenhouse.io/loop/jobs/5840037004 | Loop | Supply Chain Engineer
+- [ ] https://stripe.com/jobs/search?gh_jid=7532733 | Stripe | Account Executive, AI Sales
+- [ ] https://stripe.com/jobs/search?gh_jid=7746909 | Stripe | Account Executive, AI Startups - Existing Business
+- [ ] https://stripe.com/jobs/search?gh_jid=7218796 | Stripe | Account Executive, Enterprise Platforms (New Business)
+- [ ] https://stripe.com/jobs/search?gh_jid=7576967 | Stripe | Account Executive, Platforms (Existing Business)
+- [ ] https://stripe.com/jobs/search?gh_jid=7353623 | Stripe | Account Executive, Platforms, Existing Business (French Speaking)
+- [ ] https://stripe.com/jobs/search?gh_jid=7451383 | Stripe | Account Executive, Platforms (French Speaking)
+- [ ] https://stripe.com/jobs/search?gh_jid=7459450 | Stripe | Account Executive, Platforms (Grower)
+- [ ] https://stripe.com/jobs/search?gh_jid=7577015 | Stripe | Account Executive, Platforms (Grower)
+- [ ] https://stripe.com/jobs/search?gh_jid=7675661 | Stripe | Account Executive, Product - Buy Now Pay Later
+- [ ] https://stripe.com/jobs/search?gh_jid=7393167 | Stripe | Account Executive, Product Sales, Billing
+- [ ] https://stripe.com/jobs/search?gh_jid=7393169 | Stripe | Account Executive, Product Sales, Billing
+- [ ] https://stripe.com/jobs/search?gh_jid=7728365 | Stripe | Account Executive, Product Sales - Capital
+- [ ] https://stripe.com/jobs/search?gh_jid=7390058 | Stripe | Account Executive, Product Sales, Managed Payments
+- [ ] https://stripe.com/jobs/search?gh_jid=7455982 | Stripe | Account Executive, Product Sales, Optimized Checkout
+- [ ] https://stripe.com/jobs/search?gh_jid=7782969 | Stripe | Account Executive, Product Sales - Payouts
+- [ ] https://stripe.com/jobs/search?gh_jid=7339700 | Stripe | Account Executive, Startup Platforms (Existing Business)
+- [ ] https://stripe.com/jobs/search?gh_jid=7695357 | Stripe | Affiliate Services Licensing Specialist, Regulatory Affairs (NORAM)
+- [ ] https://stripe.com/jobs/search?gh_jid=7286376 | Stripe | AI/ML Engineering Manager, Payment Intelligence
+- [ ] https://stripe.com/jobs/search?gh_jid=7694113 | Stripe | AML Operations Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=7543559 | Stripe | Android Engineer, Terminal
+- [ ] https://stripe.com/jobs/search?gh_jid=7550154 | Stripe | Android Engineer, Terminal Developer Productivity
+- [ ] https://stripe.com/jobs/search?gh_jid=7778627 | Stripe | Android Engineer, Terminal Global Payments
+- [ ] https://stripe.com/jobs/search?gh_jid=7557403 | Stripe | Android Engineer, Terminal OS Platform
+- [ ] https://stripe.com/jobs/search?gh_jid=7737241 | Stripe | Backend / API Engineer, Billing
+- [ ] https://stripe.com/jobs/search?gh_jid=7737237 | Stripe | Backend / API Engineer, Billing
+- [ ] https://stripe.com/jobs/search?gh_jid=6176758 | Stripe | Backend/API Engineer, Money as a Service
+- [ ] https://stripe.com/jobs/search?gh_jid=7369543 | Stripe | Backend / API Engineer, Payouts
+- [ ] https://stripe.com/jobs/search?gh_jid=7579264 | Stripe | Backend / API Engineer, Privacy Products
+- [ ] https://stripe.com/jobs/search?gh_jid=4921361 | Stripe | Backend Engineer/API, Payments and Risk
+- [ ] https://stripe.com/jobs/search?gh_jid=7217048 | Stripe | Backend Engineer, Billing/Tax
+- [ ] https://stripe.com/jobs/search?gh_jid=7182617 | Stripe | Backend Engineer, Core Technology
+- [ ] https://stripe.com/jobs/search?gh_jid=6042172 | Stripe | Backend Engineer, Core Technology
+- [ ] https://stripe.com/jobs/search?gh_jid=6865161 | Stripe | Backend Engineer, Data
+- [ ] https://stripe.com/jobs/search?gh_jid=7292520 | Stripe | Backend Engineer, Developer Experience & Product Platform 
+- [ ] https://stripe.com/jobs/search?gh_jid=7249744 | Stripe | Backend Engineer, Forward Deployed Engineering
+- [ ] https://stripe.com/jobs/search?gh_jid=7232592 | Stripe | Backend Engineer, Payments and Risk
+- [ ] https://stripe.com/jobs/search?gh_jid=6163230 | Stripe | Backend Engineer, Payments and Risk
+- [ ] https://stripe.com/jobs/search?gh_jid=7235875 | Stripe | Backend Engineer, Privy
+- [ ] https://stripe.com/jobs/search?gh_jid=7793636 | Stripe | Brand Designer, Creative Labs
+- [ ] https://stripe.com/jobs/search?gh_jid=7769564 | Stripe | Brand Designer, Identity
+- [ ] https://stripe.com/jobs/search?gh_jid=7476752 | Stripe | Brand Designer, Link
+- [ ] https://stripe.com/jobs/search?gh_jid=7456081 | Stripe | Bridge - Operations Associate, Financial Crimes (AML Investigations)
+- [ ] https://stripe.com/jobs/search?gh_jid=7584016 | Stripe | Campaign Operations Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=7736482 | Stripe | Corporate Network Engineering Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=7774312 | Stripe | Crypto Product Accountant
+- [ ] https://stripe.com/jobs/search?gh_jid=5601881 | Stripe | Data Analyst
+- [ ] https://stripe.com/jobs/search?gh_jid=6282403 | Stripe | Data Analyst
+- [ ] https://stripe.com/jobs/search?gh_jid=5416444 | Stripe | Data Analyst
+- [ ] https://stripe.com/jobs/search?gh_jid=7587256 | Stripe | Data - Regulatory Reporting, Luxembourg
+- [ ] https://stripe.com/jobs/search?gh_jid=7644403 | Stripe | Data Science Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=7809414 | Stripe | Data Scientist
+- [ ] https://stripe.com/jobs/search?gh_jid=5895430 | Stripe | Data Scientist
+- [ ] https://stripe.com/jobs/search?gh_jid=7743311 | Stripe | Data Writer and Editor 
+- [ ] https://stripe.com/jobs/search?gh_jid=7144975 | Stripe | Design Engineer, Presence
+- [ ] https://stripe.com/jobs/search?gh_jid=7657999 | Stripe | Engineering Manager, Agent Experience
+- [ ] https://stripe.com/jobs/search?gh_jid=7334661 | Stripe | Engineering Manager, Agentic Commerce
+- [ ] https://stripe.com/jobs/search?gh_jid=7812785 | Stripe | Engineering Manager, Compliance Data and Evidence Engine
+- [ ] https://stripe.com/jobs/search?gh_jid=7762324 | Stripe | Engineering Manager, Connect
+- [ ] https://stripe.com/jobs/search?gh_jid=7613386 | Stripe | Engineering Manager, Core Events
+- [ ] https://stripe.com/jobs/search?gh_jid=7762570 | Stripe | Engineering Manager, Core Events
+- [ ] https://stripe.com/jobs/search?gh_jid=7496118 | Stripe | Engineering Manager , Data Engineering Solutions
+- [ ] https://stripe.com/jobs/search?gh_jid=7688358 | Stripe | Engineering Manager, Data Transformation
+- [ ] https://stripe.com/jobs/search?gh_jid=7736943 | Stripe | Engineering Manager, Developer Productivity AI
+- [ ] https://stripe.com/jobs/search?gh_jid=7655222 | Stripe | Engineering Manager - Fraud Risk 
+- [ ] https://stripe.com/jobs/search?gh_jid=7540048 | Stripe | Engineering Manager, GPTN Integrations 
+- [ ] https://stripe.com/jobs/search?gh_jid=7760378 | Stripe | Engineering Manager, Issuing
+- [ ] https://stripe.com/jobs/search?gh_jid=7712852 | Stripe | Engineering Manager, Machine Learning Platform
+- [ ] https://stripe.com/jobs/search?gh_jid=7555997 | Stripe | Engineering Manager, Money Management Expansion
+- [ ] https://stripe.com/jobs/search?gh_jid=7747391 | Stripe | Engineering Manager of Managers, Data Platform
+- [ ] https://stripe.com/jobs/search?gh_jid=7663636 | Stripe | Engineering Manager, Payments API
+- [ ] https://stripe.com/jobs/search?gh_jid=7729216 | Stripe | Engineering Manager, Privy
+- [ ] https://stripe.com/jobs/search?gh_jid=7525370 | Stripe | Engineering Manager, Sales Systems
+- [ ] https://stripe.com/jobs/search?gh_jid=7773553 | Stripe | Engineering Manager, Support Experience
+- [ ] https://stripe.com/jobs/search?gh_jid=7747178 | Stripe | Engineering Program Manager, Infrastructure
+- [ ] https://stripe.com/jobs/search?gh_jid=7739260 | Stripe | Engineering Program Manager, Tech GRC
+- [ ] https://stripe.com/jobs/search?gh_jid=7375100 | Stripe | Enterprise Platforms Sales Manager (Existing Business)
+- [ ] https://stripe.com/jobs/search?gh_jid=7779497 | Stripe | Enterprise Solutions Architecture Manager, AMER
+- [ ] https://stripe.com/jobs/search?gh_jid=7525640 | Stripe | Financial Data Analyst, SDC
+- [ ] https://stripe.com/jobs/search?gh_jid=7061516 | Stripe | Financial Data Analyst, Technical Operations
+- [ ] https://stripe.com/jobs/search?gh_jid=7278434 | Stripe | Financial Data Analyst-User Billing
+- [ ] https://stripe.com/jobs/search?gh_jid=7747636 | Stripe | Forward Deployed AI Accelerator, Marketing
+- [ ] https://stripe.com/jobs/search?gh_jid=7747638 | Stripe | Forward Deployed AI Accelerator, Marketing
+- [ ] https://stripe.com/jobs/search?gh_jid=7747640 | Stripe | Forward Deployed AI Accelerator, Marketing
+- [ ] https://stripe.com/jobs/search?gh_jid=7230452 | Stripe | Forward Deployed Engineer, Privy
+- [ ] https://stripe.com/jobs/search?gh_jid=7671038 | Stripe | Forward Deployed Engineer, Professional Services
+- [ ] https://stripe.com/jobs/search?gh_jid=6786210 | Stripe | Frontend Engineer, Payments and Risk
+- [ ] https://stripe.com/jobs/search?gh_jid=7656562 | Stripe | Frontend Engineer, Privy
+- [ ] https://stripe.com/jobs/search?gh_jid=7743307 | Stripe | Frontend Platform Engineer, JavaScript Infrastructure
+- [ ] https://stripe.com/jobs/search?gh_jid=7737239 | Stripe |  Full Stack Engineer, Billing
+- [ ] https://stripe.com/jobs/search?gh_jid=7532806 | Stripe | Full Stack Engineer, Collaboration
+- [ ] https://stripe.com/jobs/search?gh_jid=6567104 | Stripe | Full Stack Engineer, Developer Experience & Product Platform
+- [ ] https://stripe.com/jobs/search?gh_jid=7403151 | Stripe | Full Stack Engineer, Ecosystem
+- [ ] https://stripe.com/jobs/search?gh_jid=7531158 | Stripe | Full Stack Engineer, Expansion
+- [ ] https://stripe.com/jobs/search?gh_jid=6447175 | Stripe | Full Stack Engineer, Link
+- [ ] https://stripe.com/jobs/search?gh_jid=6606581 | Stripe | Full Stack Engineer, Money as a Service
+- [ ] https://stripe.com/jobs/search?gh_jid=7091959 | Stripe | Fullstack Engineer, Privy
+- [ ] https://stripe.com/jobs/search?gh_jid=7591894 | Stripe | Full Stack Engineer, Risk & Support
+- [ ] https://stripe.com/jobs/search?gh_jid=7436086 | Stripe | Full Stack Engineer, Web Presence and Platform
+- [ ] https://stripe.com/jobs/search?gh_jid=7523947 | Stripe | Global Head of Specialist Solutions Architecture, Revenue
+- [ ] https://stripe.com/jobs/search?gh_jid=7375436 | Stripe | Head of Industry Pursuits, Enterprise Platforms (New Business)
+- [ ] https://stripe.com/jobs/search?gh_jid=7583815 | Stripe | Head of Integrated Campaigns, Startups & AI
+- [ ] https://stripe.com/jobs/search?gh_jid=7760773 | Stripe | Head of Platform Sales, AUNZ
+- [ ] https://stripe.com/jobs/search?gh_jid=7765976 | Stripe | HRIS Engineer
+- [ ] https://stripe.com/jobs/search?gh_jid=7462961 | Stripe | Infrastructure Engineer, Privy
+- [ ] https://stripe.com/jobs/search?gh_jid=7584018 | Stripe | Integrated Campaigns Manager, Account-Based Marketing
+- [ ] https://stripe.com/jobs/search?gh_jid=7587812 | Stripe | Integrated Campaigns Manager, Startups & AI
+- [ ] https://stripe.com/jobs/search?gh_jid=7594874 | Stripe | Integration Engineer 
+- [ ] https://stripe.com/jobs/search?gh_jid=7703911 | Stripe | Integration Engineer (AUNZ)
+- [ ] https://stripe.com/jobs/search?gh_jid=6651831 | Stripe | Integration Engineer, Professional Services
+- [ ] https://stripe.com/jobs/search?gh_jid=7733233 | Stripe | IT Support Engineer
+- [ ] https://stripe.com/jobs/search?gh_jid=7733216 | Stripe | IT Support Engineer
+- [ ] https://stripe.com/jobs/search?gh_jid=7773831 | Stripe | Learning Architect
+- [ ] https://stripe.com/jobs/search?gh_jid=7079044 | Stripe | Machine Learning Engineer, Payments ML Accelerator
+- [ ] https://stripe.com/jobs/search?gh_jid=7629052 | Stripe | Machine Learning Engineer, Stripe Assistant 
+- [ ] https://stripe.com/jobs/search?gh_jid=7384709 | Stripe | Machine Learning Engineer, Supportability
+- [ ] https://stripe.com/jobs/search?gh_jid=6785098 | Stripe | Manager, Financial Crimes (AML)
+- [ ] https://stripe.com/jobs/search?gh_jid=7739365 | Stripe | Market Researcher, Startups and AI
+- [ ] https://stripe.com/jobs/search?gh_jid=5902523 | Stripe | Operations Associate, Financial Crimes (AML Investigations)
+- [ ] https://stripe.com/jobs/search?gh_jid=7544547 | Stripe | Operations Associate, New Grad (Mexico)
+- [ ] https://stripe.com/jobs/search?gh_jid=5114866 | Stripe | Operations Associate, Product Support
+- [ ] https://stripe.com/jobs/search?gh_jid=7617049 | Stripe | Paid Digital Marketing Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=7607761 | Stripe | Partner Solutions Architect - AWS
+- [ ] https://stripe.com/jobs/search?gh_jid=7411434 | Stripe | Partner Solutions Architect - Consulting Partners
+- [ ] https://stripe.com/jobs/search?gh_jid=7582653 | Stripe | Partner Solutions Architect, Spain
+- [ ] https://stripe.com/jobs/search?gh_jid=7633713 | Stripe | Performance Marketing Campaign Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=7384489 | Stripe | Product Accounting, Loss Reserves and Data Analysis
+- [ ] https://stripe.com/jobs/search?gh_jid=7568117 | Stripe | Product Designer
+- [ ] https://stripe.com/jobs/search?gh_jid=7775422 | Stripe | Product Designer, Crypto
+- [ ] https://stripe.com/jobs/search?gh_jid=7657191 | Stripe | Product Designer, Growth Pricing
+- [ ] https://stripe.com/jobs/search?gh_jid=7520327 | Stripe | Product Designer, Issuing
+- [ ] https://stripe.com/jobs/search?gh_jid=7538361 | Stripe | Product Designer, Payments
+- [ ] https://stripe.com/jobs/search?gh_jid=7663023 | Stripe | Product Designer, Stablecoin
+- [ ] https://stripe.com/jobs/search?gh_jid=7561053 | Stripe | Product Manager, Banking as a Service
+- [ ] https://stripe.com/jobs/search?gh_jid=7721834 | Stripe | Product Manager, Capital
+- [ ] https://stripe.com/jobs/search?gh_jid=7561551 | Stripe | Product Manager, Commerce Systems
+- [ ] https://stripe.com/jobs/search?gh_jid=7812346 | Stripe | Product Manager IC-02
+- [ ] https://stripe.com/jobs/search?gh_jid=7392697 | Stripe | Product Manager, Link Consumer Product
+- [ ] https://stripe.com/jobs/search?gh_jid=7737124 | Stripe | Product Manager: New Grad Accelerator
+- [ ] https://stripe.com/jobs/search?gh_jid=7176530 | Stripe | Product Manager, Payments
+- [ ] https://stripe.com/jobs/search?gh_jid=7580706 | Stripe | Product Manager, Payments Intelligence
+- [ ] https://stripe.com/jobs/search?gh_jid=6473321 | Stripe | Product Manager, Revenue and Financial Automation 
+- [ ] https://stripe.com/jobs/search?gh_jid=7625842 | Stripe | Product Manager, Risk & Compliance
+- [ ] https://stripe.com/jobs/search?gh_jid=6651889 | Stripe | Product Manager, Stripe Infrastructure
+- [ ] https://stripe.com/jobs/search?gh_jid=7440429 | Stripe | Product Manager, Support Products - Support Experience
+- [ ] https://stripe.com/jobs/search?gh_jid=7397265 | Stripe | Product Manager, Terminal Device Expansion
+- [ ] https://stripe.com/jobs/search?gh_jid=6683456 | Stripe | Product Manager, Terminal - Unified Commerce
+- [ ] https://stripe.com/jobs/search?gh_jid=6348471 | Stripe | Product Marketing Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=7736274 | Stripe | Product Marketing Manager, Money Management
+- [ ] https://stripe.com/jobs/search?gh_jid=7591150 | Stripe | Product Marketing Manager, Radar
+- [ ] https://stripe.com/jobs/search?gh_jid=7421572 | Stripe | Product Marketing Manager, Stripe Billing
+- [ ] https://stripe.com/jobs/search?gh_jid=7564364 | Stripe | Product Marketing, Velocity (Mid-market & SMB) Segment
+- [ ] https://stripe.com/jobs/search?gh_jid=7389837 | Stripe | Product Sales Manager, Beachfront
+- [ ] https://stripe.com/jobs/search?gh_jid=7391537 | Stripe | Product Sales Manager, Capital
+- [ ] https://stripe.com/jobs/search?gh_jid=7657938 | Stripe | Product Strategy & Operations, Link
+- [ ] https://stripe.com/jobs/search?gh_jid=7678670 | Stripe | Product Support, Bridge 
+- [ ] https://stripe.com/jobs/search?gh_jid=7545852 | Stripe | Product Support Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=6814190 | Stripe | Product Support Operations Associate, Weekend Shift 
+- [ ] https://stripe.com/jobs/search?gh_jid=7645601 | Stripe | Product Support Operations Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=7524531 | Stripe | Product Support Specialist
+- [ ] https://stripe.com/jobs/search?gh_jid=7572741 | Stripe | Product Support Specialist
+- [ ] https://stripe.com/jobs/search?gh_jid=7604228 | Stripe | Product Support Specialist, Money Management
+- [ ] https://stripe.com/jobs/search?gh_jid=7593236 | Stripe | Program Manager, Global Partner Engineering & Operations (PE&O) 
+- [ ] https://stripe.com/jobs/search?gh_jid=7355652 | Stripe | SaaS Operations Engineer
+- [ ] https://stripe.com/jobs/search?gh_jid=7739207 | Stripe | Sales Compensation Analytics & Systems Specialist
+- [ ] https://stripe.com/jobs/search?gh_jid=7359215 | Stripe | Sales Enablement & Training Specialist
+- [ ] https://stripe.com/jobs/search?gh_jid=7688908 | Stripe | Salesforce Architect and Administrator
+- [ ] https://stripe.com/jobs/search?gh_jid=7325566 | Stripe | SDC Operations Manager, Financial Crimes (AML)
+- [ ] https://stripe.com/jobs/search?gh_jid=7736171 | Stripe | SDK Engineer (React/React Native), Privy
+- [ ] https://stripe.com/jobs/search?gh_jid=7657732 | Stripe | Security Analyst, Bridge
+- [ ] https://stripe.com/jobs/search?gh_jid=7776179 | Stripe | Security Engineer, Bridge
+- [ ] https://stripe.com/jobs/search?gh_jid=7477571 | Stripe | Security Engineer, New Grad 
+- [ ] https://stripe.com/jobs/search?gh_jid=7808471 | Stripe | Software Engineer
+- [ ] https://stripe.com/jobs/search?gh_jid=7788088 | Stripe | Software Engineer
+- [ ] https://stripe.com/jobs/search?gh_jid=7277110 | Stripe | Software Engineer, Bridge
+- [ ] https://stripe.com/jobs/search?gh_jid=7618977 | Stripe | Software Engineer, Core Technology
+- [ ] https://stripe.com/jobs/search?gh_jid=7529428 | Stripe | Software Engineer, Data & AI
+- [ ] https://stripe.com/jobs/search?gh_jid=7230670 | Stripe | Software Engineer, Data Orchestration
+- [ ] https://stripe.com/jobs/search?gh_jid=7600792 | Stripe | Software Engineer, Experimental Projects
+- [ ] https://stripe.com/jobs/search?gh_jid=7436194 | Stripe | Software Engineer, Fee Insights
+- [ ] https://stripe.com/jobs/search?gh_jid=7176977 | Stripe | Software Engineering, New Grad
+- [ ] https://stripe.com/jobs/search?gh_jid=7812279 | Stripe | Software Engineer L2
+- [ ] https://stripe.com/jobs/search?gh_jid=7746033 | Stripe | Software Engineer, Machine Learning Infrastructure
+- [ ] https://stripe.com/jobs/search?gh_jid=7376835 | Stripe | Software Engineer, Machine Learning Infrastructure
+- [ ] https://stripe.com/jobs/search?gh_jid=7555999 | Stripe | Software Engineer, Money as a Service
+- [ ] https://stripe.com/jobs/search?gh_jid=7208537 | Stripe | Software Engineer, Money Movement 
+- [ ] https://stripe.com/jobs/search?gh_jid=7206515 | Stripe | Software Engineer, New Grad
+- [ ] https://stripe.com/jobs/search?gh_jid=6717520 | Stripe | Software Engineer, Payments and Risk
+- [ ] https://stripe.com/jobs/search?gh_jid=7761694 | Stripe | Software Engineer, Product Security Data Platforms
+- [ ] https://stripe.com/jobs/search?gh_jid=7396679 | Stripe | Software Engineer, Secrets Infrastructure
+- [ ] https://stripe.com/jobs/search?gh_jid=7733246 | Stripe | Software Engineer, Security Analytics Infrastructure
+- [ ] https://stripe.com/jobs/search?gh_jid=6967304 | Stripe | Software Engineer,Service Ecosystem Sustainability 
+- [ ] https://stripe.com/jobs/search?gh_jid=7507904 | Stripe | Software Engineer - Smart Contract, Bridge
+- [ ] https://stripe.com/jobs/search?gh_jid=7574860 | Stripe | Solutions Architect, Commercial (German-Speaking) 
+- [ ] https://stripe.com/jobs/search?gh_jid=7601663 | Stripe | Solutions Architect, Enterprise
+- [ ] https://stripe.com/jobs/search?gh_jid=7361440 | Stripe | Solutions Architect, SMB
+- [ ] https://stripe.com/jobs/search?gh_jid=7601668 | Stripe | Solutions Architect, Startup & SMB (French-Speaking)
+- [ ] https://stripe.com/jobs/search?gh_jid=7442995 | Stripe | Solutions Architect, Startup & SMB (German-speaking)
+- [ ] https://stripe.com/jobs/search?gh_jid=7434912 | Stripe | Solutions Engineer, Bridge
+- [ ] https://stripe.com/jobs/search?gh_jid=7120766 | Stripe | Specialist Solutions Architect, Crypto & Stablecoins
+- [ ] https://stripe.com/jobs/search?gh_jid=7380371 | Stripe | Specialist Solutions Architect, Money Management
+- [ ] https://stripe.com/jobs/search?gh_jid=7377591 | Stripe | Specialist Solutions Architect, Payments
+- [ ] https://stripe.com/jobs/search?gh_jid=7377593 | Stripe | Specialist Solutions Architect, Payments
+- [ ] https://stripe.com/jobs/search?gh_jid=7365914 | Stripe | Specialist Solutions Architect, Radar (Fraud/Risk)
+- [ ] https://stripe.com/jobs/search?gh_jid=7809004 | Stripe | Technical Advisor (AI GTM Strategy & Solutions)
+- [ ] https://stripe.com/jobs/search?gh_jid=7377101 | Stripe | Technical Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4590702006 | Figure | Data Quality Analyst
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4666836006 | Figure | Data Quality Manager
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4664781006 | Figure | Data Strategy Associate
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4313470006 | Figure | Electrical Engineer (All Levels)
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4615918006 | Figure | Electrical Systems Integration Engineer – Head Subsystem
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4612710006 | Figure | Electrical Systems Integration Engineer – Power Systems
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4613429006 | Figure | Electrical Test Engineer – Test Infrastructure
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4615252006 | Figure | Electrical Validation Engineer – Hand Subsystem
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4589430006 | Figure | Embedded Systems Integration Engineer
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4657497006 | Figure | Engineering Test Technician
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4563653006 | Figure | Failure Analysis Engineer (All Levels)
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4612732006 | Figure | Full-Stack Engineer - Systems Integration
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4666292006 | Figure | Hardware Technician (TeleOperations)
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4659175006 | Figure | Helix AI Engineer, Agentic Systems
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4345915006 | Figure | Helix AI Engineer, Data Infrastructure 
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4671699006 | Figure | Helix AI Engineer, Generative AI
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4671712006 | Figure | Helix AI Engineer, Modeling
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4671704006 | Figure | Helix AI Engineer, Pretraining
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4671707006 | Figure | Helix AI Engineer, Reinforcement Learning
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4649851006 | Figure | Helix AI Engineer, Robot Learning
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4660876006 | Figure | Helix AI Engineer, Tooling 
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4431092006 | Figure | Helix AI Engineer, Training Infrastructure
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4671703006 | Figure | Helix AI Engineer, Video Pretraining
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4585080006 | Figure | Helix Data Creator
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4627110006 | Figure | Helix Data Creator
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4627111006 | Figure | Helix Data Creator
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4573670006 | Figure | Manufacturing Electrical Test Engineer
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4375064006 | Figure | Manufacturing Engineer
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4414646006 | Figure | Manufacturing Software Test Engineer
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4574399006 | Figure | Manufacturing Test Engineer, PCBA
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4410831006 | Figure | Mechanical Engineer - All Levels
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4656559006 | Figure | Mechanical Engineer, Battery
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4596416006 | Figure | Mechanical Engineer, Figure 03 Launch
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4643612006 | Figure | Mechanical Engineer - Hands
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4672013006 | Figure | Mechanical Engineer - Integration & Test
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4596418006 | Figure | Mechanical Engineer, Robot Ecosystem
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4442947006 | Figure | Mechanical Engineer - TeleOp 
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4627382006 | Figure | Mechanical Engineer, Thermal Prototyping
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4574734006 | Figure | MES Engineer - Ignition/SCADA
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4609306006 | Figure | Middleware Software Engineer
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4627386006 | Figure | NPI Engineer
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4653803006 | Figure | Product Architect, Data Collection Devices
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4315521006 | Figure | Product Compliance Engineer
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4453797006 | Figure | Production Associate (All Levels)
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4587570006 | Figure | Quality Engineering Technician, BotQ
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4626804006 | Figure | Quality Engineering Technician, Metrology
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4655262006 | Figure | Reliability Engineer (All Levels)
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4655255006 | Figure | Reliability Test Engineer, Hardware (All Levels)
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4655258006 | Figure | Reliability Test Engineer, Mechatronics (All Levels)
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4618906006 | Figure | Safety Systems Architect
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4666285006 | Figure | Service Tooling Engineer
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4618234006 | Figure | Software Integration Engineer
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4627384006 | Figure | Sr Hardware Analysis Engineer-Aero/Acoustic
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4627385006 | Figure | Sr Mechanical Engineer, Fan and Duct Design
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4626809006 | Figure | Supplier Quality Engineer (Asia)
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4660300006 | Figure | Supplier Quality Engineer, BotQ
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4626247006 | Figure | Systems Integration Engineer - Actuation Systems
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4612612006 | Figure | Systems Integration Engineer - Hand Subsystem
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7639794003 | Sigma Computing | Engineering Manager
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7690329003 | Sigma Computing | Group Product Manager, AI Builder
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7690379003 | Sigma Computing | Junior Technical Program Manager  
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7697621003 | Sigma Computing | Software Engineer - Compiler 
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7697620003 | Sigma Computing | Software Engineer - Compiler 
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7697622003 | Sigma Computing | Software Engineer - SDET
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7692339003 | Sigma Computing | Solution Engineer  
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7690417003 | Sigma Computing | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7690415003 | Sigma Computing | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7690418003 | Sigma Computing | Technical Support Engineer

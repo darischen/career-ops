@@ -1,0 +1,150 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#main"
+    - generic [ref=e6]:
+      - link "Home Electronic Arts" [ref=e8] [cursor=pointer]:
+        - /url: https://jobs.ea.com/en_US/careers
+        - img "Home" [ref=e9]
+        - heading "Electronic Arts" [level=1] [ref=e10]
+      - navigation "Main menu" [ref=e12]:
+        - button "Main menu toggle" [ref=e13] [cursor=pointer]
+  - heading "Full-Stack Software Engineer I" [level=2] [ref=e18]
+  - main [ref=e19]:
+    - list "breadcrumbs" [ref=e23]:
+      - listitem [ref=e24]:
+        - link "Home" [ref=e25] [cursor=pointer]:
+          - /url: https://jobs.ea.com/en_US/careers/Home
+      - listitem [ref=e26]:
+        - link "..." [ref=e27] [cursor=pointer]:
+          - /url: "#"
+      - listitem [ref=e28]:
+        - generic [ref=e29]: Role Detail
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - article [ref=e37]:
+            - heading "General Information" [level=3] [ref=e40]:
+              - generic [ref=e41]: w
+              - text: General Information
+            - generic [ref=e43]:
+              - generic [ref=e45]:
+                - strong [ref=e46]: Locations
+                - text: ": Vancouver, British Columbia, Canada"
+              - generic [ref=e47]:
+                - generic [ref=e48]: "Role ID :"
+                - generic [ref=e49]: "213633"
+              - generic [ref=e50]:
+                - generic [ref=e51]: "Worker Type :"
+                - generic [ref=e52]: Regular Employee
+              - generic [ref=e53]:
+                - generic [ref=e54]: "Studio/Department :"
+                - generic [ref=e55]: CT - Infrastructure & Platform
+              - generic [ref=e56]:
+                - generic [ref=e57]: "Work Model :"
+                - generic [ref=e58]: Hybrid
+          - article [ref=e59]:
+            - heading "Description & Requirements" [level=3] [ref=e62]:
+              - generic [ref=e63]: x
+              - text: Description & Requirements
+            - generic [ref=e65]:
+              - generic [ref=e67]: Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen.
+              - generic [ref=e70]:
+                - paragraph [ref=e71]: "As a Software Engineer I, you will develop essential internal tools and services that empower game teams and studios. You will ship full-stack features end-to-end: React frontends, NodeJS backends, and everything in between."
+                - paragraph [ref=e72]: Reporting to the Engineering Manager, you will work inside an AI-First development culture where agentic tooling is how we build, iterate, and deliver faster than teams twice our size.
+                - paragraph [ref=e73]: Our 24x7 live services mean on-call support is part of our responsibilities, as we support customers across broad time zones worldwide.
+                - paragraph [ref=e74]
+                - paragraph [ref=e75]:
+                  - strong [ref=e76]: Responsibilities
+                - list [ref=e77]:
+                  - listitem [ref=e78]: You will collaborate with team members to define project requirements, technical specifications, and deliverables, ensuring understanding of our goals.
+                  - listitem [ref=e79]: You will deliver quality features, identify risks and dependencies.
+                  - listitem [ref=e80]: You will write automated tests and deliver high-quality software.
+                  - listitem [ref=e81]: You will debug live incidents, even in unfamiliar territory or situations.
+                  - listitem [ref=e82]: You will participate in code reviews, contribute to documentation, and help identify opportunities for process improvement.
+                  - listitem [ref=e83]: You will use AI-powered coding agents (e.g., Claude Code, Copilot) as your primary development accelerator.
+                  - listitem [ref=e84]: You will steer AI-generated code with an attention to correctness, security, and maintainability.
+                - paragraph [ref=e85]
+                - paragraph [ref=e86]:
+                  - strong [ref=e87]: "Qualifications:"
+                - list [ref=e88]:
+                  - listitem [ref=e89]: 1+ years of software engineering experience
+                  - listitem [ref=e90]: Experience with web platforms and related technologies, including JavaScript, TypeScript, NodeJS, React, and ExpressJS
+                  - listitem [ref=e91]: Experience using AI-powered development tools as part of your workflow
+                - paragraph [ref=e92]
+                - paragraph [ref=e93]:
+                  - strong [ref=e94]: "Bonus:"
+                - list [ref=e95]:
+                  - listitem [ref=e96]: Experience with Python, NextJS, or Vite
+                  - listitem [ref=e97]: Familiarity with Git, CI/CD pipelines, and cloud deployments
+                  - listitem [ref=e98]: Exposure to DevOps or infrastructure systems such as Docker and Kubernetes
+                  - listitem [ref=e99]: Experience with AWS services (S3, EC2, RDS, CloudWatch, Lambda Functions)
+                  - listitem [ref=e100]: Knowledge of database technologies (SQL and NoSQL)
+                  - listitem [ref=e101]: Experience with testing solutions such as Cypress and Jest
+                - paragraph [ref=e102]
+                - paragraph [ref=e103]: The position is hybrid remote/in-office.
+              - strong [ref=e107]: Pay Transparency - North America
+              - generic [ref=e111]:
+                - strong [ref=e113]: COMPENSATION AND BENEFITS
+                - generic [ref=e115]: The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs).
+                - strong [ref=e118]: PAY RANGES
+              - generic [ref=e120]: "* British Columbia (depending on location e.g. Vancouver vs. Victoria) *$83,000 - $116,400 CAD"
+              - generic [ref=e124]: Pay is just one part of the overall compensation at EA.
+              - generic [ref=e127]: For Canada, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, paid top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, retirement plan to regular full-time employees. Certain roles may also be eligible for bonus and equity.
+              - generic [ref=e129]:
+                - generic [ref=e130]:
+                  - generic [ref=e131]:
+                    - strong:
+                      - emphasis
+                  - generic [ref=e132]:
+                    - strong:
+                      - emphasis
+                  - strong [ref=e134]:
+                    - emphasis [ref=e135]: About Electronic Arts
+                - generic [ref=e136]:
+                  - generic [ref=e137]: We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.
+                  - generic [ref=e139]: We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.
+                  - generic [ref=e141]: Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
+          - article [ref=e142]
+        - list [ref=e149]:
+          - listitem [ref=e150]:
+            - link "Back to Role List" [ref=e151] [cursor=pointer]:
+              - /url: https://jobs.ea.com/en_US/careers/Home
+      - generic [ref=e152]:
+        - article [ref=e153]:
+          - link "Apply" [ref=e157] [cursor=pointer]:
+            - /url: https://jobs.ea.com/en_US/careers/ApplicationMethods?jobId=213633
+          - article [ref=e158]:
+            - heading "Share this role:" [level=3] [ref=e161]
+            - list [ref=e163]:
+              - listitem [ref=e164]:
+                - button "Share with LinkedIn" [ref=e165] [cursor=pointer]: LinkedIn
+              - listitem [ref=e166]:
+                - button "Share with X" [ref=e167] [cursor=pointer]: X
+              - listitem [ref=e168]:
+                - button "Share with WhatsApp" [ref=e169] [cursor=pointer]: WhatsApp
+              - listitem [ref=e170]:
+                - button "Share with a friend via e-mail" [ref=e171] [cursor=pointer]: Email
+              - listitem [ref=e172]:
+                - button "Share with Facebook" [ref=e173] [cursor=pointer]: Facebook
+        - article [ref=e174]
+  - contentinfo "Footer" [ref=e175]:
+    - generic [ref=e177]:
+      - generic [ref=e179]: © 2026 Electronic Arts Inc.
+      - generic [ref=e180]:
+        - link "Candidate Privacy Notice" [ref=e181] [cursor=pointer]:
+          - /url: https://www.ea.com/careers/data-privacy-policy
+        - generic [ref=e182]: "|"
+        - link "Notice at Collection (California)" [ref=e183] [cursor=pointer]:
+          - /url: https://www.ea.com/legal/privacy-and-cookie-policy#information-we-collect
+      - generic [ref=e184]:
+        - link "Linkedin" [ref=e185] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/electronic-arts
+        - link "Facebook" [ref=e186] [cursor=pointer]:
+          - /url: https://www.facebook.com/EA/
+        - link "Twitter" [ref=e187] [cursor=pointer]:
+          - /url: https://twitter.com/ea
+        - link "Youtube" [ref=e188] [cursor=pointer]:
+          - /url: https://www.youtube.com/EA
+        - link "Instagram" [ref=e189] [cursor=pointer]:
+          - /url: https://www.instagram.com/ea/

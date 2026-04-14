@@ -277,7 +277,7 @@ Extract 15-20 keywords from JD:
 
 **Phase 3 — Learning Velocity (15 min):**
 - They'll ask: "How fast can you pick up unfamiliar tech?"
-- FlipperZillow story: "Learned ROCm, DepthAnythingV2, DFormerV2, SAM3D from scratch in 48 hours. Shipped working 3D pipeline."
+- FlipperZillow story: "Learned ROCm, DepthAnythingV2, DFormerV2, SAM3D from scratch in 24 hours. Shipped working 3D pipeline."
 - Show you've debugged across stack: GPU, Python, TypeScript, DevOps (Vercel, EC2, RapidAPI)
 
 **Phase 4 — Culture Fit (10 min):**

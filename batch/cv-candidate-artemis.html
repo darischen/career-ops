@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daris Chen — CV</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 11px; line-height: 1.5; color: #1a1a2e; background: #fff; }
+  .page { width: 8.5in; height: 11in; margin: 0 auto; padding: 0.6in; background: white; }
+  .header { margin-bottom: 12px; }
+  .header h1 { font-size: 24px; font-weight: 700; color: #1a1a2e; margin-bottom: 4px; }
+  .header-gradient { height: 2px; background: linear-gradient(to right, hsl(187,74%,32%), hsl(270,70%,45%)); margin-bottom: 8px; }
+  .contact-row { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 10px; color: #555; }
+  .contact-row a { color: #555; text-decoration: none; }
+  .section { margin-bottom: 10px; }
+  .section-header { font-size: 13px; font-weight: 700; color: hsl(187,74%,32%); text-transform: uppercase; letter-spacing: 0.04em; border-bottom: 1px solid #eee; padding-bottom: 4px; margin-bottom: 6px; }
+  .summary { font-size: 11px; line-height: 1.6; color: #333; }
+  .competencies-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px 8px; margin-bottom: 8px; }
+  .competency-tag { background: hsl(187,74%,95%); color: hsl(187,74%,28%); padding: 3px 6px; border-radius: 3px; font-size: 10px; font-weight: 500; display: inline-block; border: 0.5px solid hsl(187,74%,80%); }
+  .job { margin-bottom: 8px; }
+  .job-title { font-weight: 600; color: hsl(270,70%,45%); font-size: 11px; }
+  .company { font-weight: 600; color: hsl(270,70%,45%); }
+  .job-meta { font-size: 10px; color: #666; margin-bottom: 3px; }
+  .job-bullets li { list-style: none; padding-left: 12px; text-indent: -8px; font-size: 10.5px; line-height: 1.5; margin-bottom: 2px; color: #222; }
+  .job-bullets li:before { content: "• "; color: hsl(187,74%,32%); font-weight: bold; margin-right: 5px; }
+  .project { margin-bottom: 7px; }
+  .project-title { font-weight: 600; color: hsl(270,70%,45%); font-size: 11px; margin-bottom: 2px; }
+  .project-tags { font-size: 9px; color: #777; margin-bottom: 2px; }
+  .project-bullets li { list-style: none; padding-left: 12px; text-indent: -8px; font-size: 10px; line-height: 1.4; margin-bottom: 2px; color: #222; }
+  .project-bullets li:before { content: "• "; color: hsl(187,74%,32%); font-weight: bold; margin-right: 5px; }
+  .degree { font-weight: 600; color: #1a1a2e; font-size: 11px; }
+  .school { color: #666; font-size: 10px; }
+  .skills-category { margin-bottom: 5px; }
+  .skills-category-name { font-weight: 600; color: #1a1a2e; font-size: 10.5px; display: inline; }
+  .skills-list { display: inline; font-size: 10.5px; color: #333; }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="header">
+    <h1>DARIS CHEN</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <a href="mailto:daris.chen@gmail.com">daris.chen@gmail.com</a>
+      <span>(562) 386-3975</span>
+      <a href="https://linkedin.com/in/darischen">linkedin.com/in/darischen</a>
+      <a href="https://darischen.com">darischen.com</a>
+      <span>San Diego, CA</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header">Professional Summary</div>
+    <div class="summary">AI Platform Engineer with proven expertise shipping production LLM systems at scale. Built semantic search infrastructure with observability (15s→<2s latency optimization), deployed Claude API integrations in FastAPI backends, and optimized ML pipelines with quantified metrics. Experience with vector databases (pgvector, Pinecone), real-time data monitoring, and multi-agent LLM evaluation frameworks. Trained models with statistical rigor, engineered feature extraction for LLM consumption, and debugged production degradation across distributed systems.</div>
+  </div>
+
+  <div class="section">
+    <div class="section-header">Core Competencies</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">LLM Optimization</span>
+      <span class="competency-tag">Semantic Search</span>
+      <span class="competency-tag">Production ML</span>
+      <span class="competency-tag">Vector Databases</span>
+      <span class="competency-tag">Observability</span>
+      <span class="competency-tag">Feature Engineering</span>
+      <span class="competency-tag">Multi-Agent Systems</span>
+      <span class="competency-tag">FastAPI/PyTorch</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header">Work Experience</div>
+
+    <div class="job">
+      <div><div class="job-title">Lead Full-Stack Engineer</div><div class="company">PatentIQ</div></div>
+      <div class="job-meta">Jan 2026 – Apr 2026 | Remote</div>
+      <ul class="job-bullets">
+        <li>Engineered LLM-powered patent search optimizing production latency 15s→<2s via hybrid ranking (70% semantic / 30% keyword) with pgvector embeddings and Claude API integration for structured recommendations.</li>
+        <li>Architected end-to-end system: OpenAI embeddings→pgvector→recursive SQL query builder→LRU caching. Reduced database latency by 40%, achieved <500ms across 10+ concurrent filters on global USPTO dataset.</li>
+        <li>Built FastAPI backend on Vercel/EC2, integrated Auth0, connected Supabase. Implemented distributed caching and production observability monitoring.</li>
+        <li>Led 14-person cross-functional team through 4-month accelerator as architect. Shipped production MVP.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div><div class="job-title">Lead Full-Stack Engineer</div><div class="company">Groundwork Books</div></div>
+      <div class="job-meta">Aug 2025 – Mar 2026 | San Diego, CA</div>
+      <ul class="job-bullets">
+        <li>Optimized production API latency: two-tier caching (look-aside Redis + client-side coalescing) reduced Square POS p99 3s→200ms (90% reduction). >85% cache hit rate across 4,000+ SKUs.</li>
+        <li>Implemented real-time inventory sync. Engineered Pinecone semantic search enabling topic/concept discovery. Shipped serverless Next.js with live Square integration.</li>
+        <li>Built production observability: latency tracking, cache metrics, error alerting with measured impact.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div><div class="job-title">AI/ML Researcher</div><div class="company">FishSense (UCSD)</div></div>
+      <div class="job-meta">Feb 2025 – Mar 2026 | San Diego, CA</div>
+      <ul class="job-bullets">
+        <li>Engineered custom R-CNN training pipeline (ResNet-50, Detectron2) reducing setup time 40%, improved reproducibility via containerization.</li>
+        <li>Developed photogrammetry algorithm extracting biological metrics from 2D video. Sub-5% error in pixel-to-centimeter conversion with statistical validation.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header">Projects</div>
+
+    <div class="project">
+      <div class="project-title">RedShift LLM Jailbreak Framework</div>
+      <div class="project-tags">Python, PyTorch, Prompt Engineering, Multi-Agent | Jan–Mar 2025</div>
+      <ul class="project-bullets">
+        <li>Multi-agent LLM evaluation: attacker generates chain-of-thought jailbreaks, target LLM responds, judge scores success. Orchestrated with role-specific prompts.</li>
+        <li>Scalable pipeline (PyTorch DataLoaders) batch processing across 7 architectures (ChatGPT, Llama, DeepSeek, Grok). +67% attack coverage. Wandb tracking.</li>
+      </ul>
+    </div>
+
+    <div class="project">
+      <div class="project-title">FlipperZillow: AI 3D House Tours</div>
+      <div class="project-tags">Next.js, Claude API, AMD ROCm, DepthAnythingV2, DFormerV2 | Feb–Mar 2026</div>
+      <ul class="project-bullets">
+        <li>End-to-end pipeline: property address→Realtor photos→GPU pipelines (depth, segmentation, 3D)→Claude API script→ElevenLabs narration→WebSpatial. Shipped 48 hours.</li>
+        <li>AMD ROCm optimization through DepthAnythingV2→DFormerV2→SAM3D. Debugged GPU compatibility, fallback mesh optimization. <30s per property with error recovery.</li>
+      </ul>
+    </div>
+
+    <div class="project">
+      <div class="project-title">Mini-Stockfish Chess Engine</div>
+      <div class="project-tags">PyTorch, CUDA, Cython, C++, Optimization | Jan 2025–Mar 2026</div>
+      <ul class="project-bullets">
+        <li>Hybrid engine: HalfKP NNUE (316M positions) + alpha-beta search (killer moves, transposition tables, quiescence). ~1900 Elo strength.</li>
+        <li>Critical path optimization: Cython + C++ move generation. 77.2% latency reduction (1.1ms→0.25ms per eval).</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header">Education</div>
+    <div class="education-item">
+      <div class="degree">Bachelor of Science in Computer Engineering</div>
+      <div class="school">University of California San Diego | Graduated March 2026</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header">Technical Skills</div>
+    <div class="skills-category"><span class="skills-category-name">Programming:</span> <span class="skills-list">Python, JavaScript/TypeScript, C/C++, Java, SQL, Go</span></div>
+    <div class="skills-category"><span class="skills-category-name">ML/AI:</span> <span class="skills-list">PyTorch, TensorFlow, CUDA, ROCm, Transformers, Hugging Face, Claude API, LLM optimization, prompt engineering, vector databases</span></div>
+    <div class="skills-category"><span class="skills-category-name">Backend/Data:</span> <span class="skills-list">FastAPI, PostgreSQL, pgvector, Pinecone, Redis, Supabase, MongoDB, Firebase, real-time systems</span></div>
+    <div class="skills-category"><span class="skills-category-name">Frontend/Web:</span> <span class="skills-list">Next.js, React, TypeScript, Node.js, Tailwind CSS, Vercel</span></div>
+    <div class="skills-category"><span class="skills-category-name">Infrastructure:</span> <span class="skills-list">Docker, Kubernetes, AWS (EC2), GCP, GitHub Actions, CI/CD, serverless, observability</span></div>
+  </div>
+</div>
+</body>
+</html>

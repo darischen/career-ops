@@ -17,7 +17,7 @@ This file defines your personal narrative, role archetypes, and proof points for
 - **Top:** Distributed systems, LLMs, neural networks, semantic search, AI products
 
 This breadth means:
-1. **Rapid domain switching:** I can learn new tech stacks (ROCm, DepthAnythingV2, DFormerV2) in 48 hours under pressure
+1. **Rapid domain switching:** I can learn new tech stacks (ROCm, DepthAnythingV2, DFormerV2) in 24 hours under pressure
 2. **Subtle bug catching:** I understand how high-level choices (data structures, caching strategies) affect low-level performance
 3. **System thinking:** I can architect end-to-end solutions and manage trade-offs across layers
 
@@ -142,7 +142,7 @@ These proof points appear in evaluations and help score fit:
 
 ### Technical Depth
 - **Abstraction mastery:** Worked across physics → pseudocode stack
-- **Learning velocity:** ROCm + DepthAnythingV2 + DFormerV2 + SAM3D in 48 hours
+- **Learning velocity:** ROCm + DepthAnythingV2 + DFormerV2 + SAM3D in 24 hours
 - **Performance optimization:** 77.2% latency reduction (chess), 90% API latency reduction (Groundwork), 100/100 Lighthouse
 - **Large-scale data:** 316M-example neural network training (Mini-Stockfish), USPTO patent dataset
 
@@ -202,7 +202,7 @@ You want roles where the skills are modern and transferable. Avoid:
 **Situation:** FlipperZillow hackathon (24-hour deadline)  
 **Task:** Build an AI-powered house tour platform with 3D visualization  
 **Action:**
-- Learned ROCm, DepthAnythingV2, DFormerV2, SAM3D from scratch in 48 hours
+- Learned ROCm, DepthAnythingV2, DFormerV2, SAM3D from scratch in 24 hours
 - Navigated unfamiliar AMD cloud environment, debugged GPU compatibility issues
 - Integrated 5+ pre-trained models into a coherent pipeline
 - Pivoted when SAM3D broke on ROCm: switched to Nvidia cloud with CUDA

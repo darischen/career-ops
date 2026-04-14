@@ -1,0 +1,133 @@
+=== career-ops batch runner ===
+Parallel: 2 | Max retries: 2
+Input: 34 offers
+
+Pending: 2 offers
+
+--- Processing offer #32: https://jobs.ashbyhq.com/mirage/1c4a937b-894e-402a-b2fd-93435b86657f (report 145, attempt 2)
+--- Processing offer #33: https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application (report 146, attempt 2)
+    ❌ Failed (attempt 2, exit code 1)
+    ✅ Completed (score: -, report: 145)
+
+=== Merging tracker additions ===
+📊 Existing: 79 entries, max #141
+✅ No pending additions to merge.
+
+=== Verifying pipeline integrity ===
+
+📊 Checking 79 entries in applications.md
+
+❌ #88: Non-canonical status "Evaluada"
+❌ #89: Non-canonical status "Evaluada"
+❌ #129: Non-canonical status "Evaluada"
+❌ #130: Non-canonical status "Evaluada"
+❌ #131: Non-canonical status "Evaluada"
+❌ #132: Non-canonical status "Evaluada"
+❌ #133: Non-canonical status "Evaluada"
+❌ #134: Non-canonical status "NO APLICAR"
+❌ #135: Non-canonical status "Evaluada"
+❌ #136: Non-canonical status "Evaluada"
+❌ #137: Non-canonical status "Evaluada"
+❌ #138: Non-canonical status "NO APLICAR"
+❌ #139: Non-canonical status "Evaluada"
+❌ #67: Non-canonical status "Evaluada"
+❌ #68: Non-canonical status "Evaluada"
+❌ #69: Non-canonical status "Evaluada"
+❌ #70: Non-canonical status "Evaluada"
+❌ #71: Non-canonical status "Evaluada"
+❌ #72: Non-canonical status "Evaluada"
+❌ #73: Non-canonical status "Evaluada"
+❌ #74: Non-canonical status "Evaluada"
+❌ #75: Non-canonical status "Evaluada"
+❌ #76: Non-canonical status "Evaluada"
+❌ #77: Non-canonical status "Evaluada"
+❌ #78: Non-canonical status "Evaluada"
+❌ #79: Non-canonical status "Evaluada"
+❌ #80: Non-canonical status "Evaluada"
+❌ #81: Non-canonical status "Evaluada"
+❌ #83: Non-canonical status "Evaluada"
+❌ #84: Non-canonical status "Evaluada"
+❌ #85: Non-canonical status "Evaluada"
+❌ #86: Non-canonical status "Evaluada"
+❌ #87: Non-canonical status "Evaluada"
+❌ #45: Non-canonical status "Evaluada"
+❌ #46: Non-canonical status "Evaluada"
+❌ #47: Non-canonical status "NO APLICAR"
+❌ #48: Non-canonical status "Evaluada"
+❌ #44: Non-canonical status "Evaluada"
+❌ #1: Non-canonical status "Evaluada"
+❌ #2: Non-canonical status "Evaluada"
+❌ #3: Non-canonical status "NO APLICAR"
+❌ #4: Non-canonical status "NO APLICAR"
+❌ #5: Non-canonical status "Evaluada"
+❌ #6: Non-canonical status "Evaluada"
+❌ #7: Non-canonical status "NO APLICAR"
+❌ #8: Non-canonical status "NO APLICAR"
+❌ #9: Non-canonical status "NO APLICAR"
+❌ #10: Non-canonical status "NO APLICAR"
+❌ #11: Non-canonical status "Evaluada"
+❌ #12: Non-canonical status "Evaluada"
+❌ #13: Non-canonical status "Evaluada"
+❌ #14: Non-canonical status "Evaluada"
+❌ #16: Non-canonical status "Evaluada"
+❌ #17: Non-canonical status "Evaluada"
+❌ #18: Non-canonical status "Evaluada"
+❌ #19: Non-canonical status "NO APLICAR"
+❌ #21: Non-canonical status "Evaluada"
+❌ #22: Non-canonical status "Evaluada"
+❌ #23: Non-canonical status "Evaluada"
+❌ #24: Non-canonical status "Evaluada"
+❌ #25: Non-canonical status "NO APLICAR"
+❌ #26: Non-canonical status "Evaluada"
+❌ #27: Non-canonical status "Evaluada"
+❌ #28: Non-canonical status "Evaluada"
+❌ #29: Non-canonical status "Evaluada"
+❌ #30: Non-canonical status "Evaluada"
+❌ #32: Non-canonical status "Evaluada"
+❌ #34: Non-canonical status "Evaluada"
+❌ #35: Non-canonical status "Evaluada"
+❌ #36: Non-canonical status "NO APLICAR"
+❌ #37: Non-canonical status "Evaluada"
+❌ #38: Non-canonical status "NO APLICAR"
+❌ #39: Non-canonical status "NO APLICAR"
+❌ #40: Non-canonical status "Evaluada"
+❌ #41: Non-canonical status "Evaluada"
+❌ #42: Non-canonical status "Evaluada"
+❌ #43: Non-canonical status "Evaluada"
+⚠️  Possible duplicates: #131, #139 (Scale AI — Software Engineer - New Grad)
+⚠️  Possible duplicates: #45, #27 (Vercel — Software Engineer, Agent)
+⚠️  Possible duplicates: #41, #43 (N1 — New Grad Software Engineer, Full Stack)
+❌ #133: Report not found: reports/108-evenup-newproducts-2026-04-12.md
+❌ #1: Report not found: reports/001-seesaw-2026-04-08.md
+❌ #2: Report not found: reports/002-corestory-2026-04-08.md
+❌ #3: Report not found: reports/003-dashlane-2026-04-08.md
+❌ #4: Report not found: reports/004-tenable-2026-04-08.md
+❌ #5: Report not found: reports/005-ramp-2026-04-08.md
+❌ #6: Report not found: reports/006-perplexity-agents-2026-04-08.md
+❌ #7: Report not found: reports/007-mechanize-2026-04-08.md
+❌ #8: Report not found: reports/008-perplexity-ios-2026-04-08.md
+❌ #9: Report not found: reports/009-cobot-2026-04-08.md
+❌ #10: Report not found: reports/010-exa-2026-04-08.md
+❌ #11: Report not found: reports/011-replit-2026-04-08.md
+❌ #12: Report not found: reports/012-zip-2026-04-08.md
+❌ #13: Report not found: reports/013-suno-2026-04-08.md
+❌ #14: Report not found: reports/014-whatnot-2026-04-08.md
+❌ #16: Report not found: reports/016-netic-2026-04-08.md
+❌ #17: Report not found: reports/017-titan-2026-04-08.md
+❌ #18: Report not found: reports/018-sentry-2026-04-08.md
+❌ #19: Report not found: reports/019-replo-2026-04-08.md
+❌ #40: Report not found: reports/015-8vc-2026-04-08.md
+❌ #41: Report not found: reports/020-n1-2026-04-08.md
+✅ All scores valid
+✅ All rows properly formatted
+✅ No pending TSVs
+✅ No bold in scores
+
+==================================================
+📊 Pipeline Health: 98 errors, 3 warnings
+🔴 Pipeline has errors — fix before proceeding
+⚠️  Verification found issues (see above)
+
+=== Batch Summary ===
+Total: 34 | Completed: 33 | Failed: 1 | Pending: 0
+Average score: N/A/5 (14 scored)

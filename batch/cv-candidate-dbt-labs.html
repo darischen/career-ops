@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daris Chen — CV</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    line-height: 1.5;
+    color: #1a1a2e;
+    background: #ffffff;
+    padding: 0;
+    margin: 0;
+  }
+
+  .page {
+    width: 100%;
+    max-width: 8.5in;
+    margin: 0 auto;
+    padding: 0.6in;
+  }
+
+  /* === HEADER === */
+  .header {
+    margin-bottom: 16px;
+  }
+
+  .header h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #1a1a2e;
+    letter-spacing: -0.02em;
+    margin-bottom: 4px;
+  }
+
+  .header-gradient {
+    height: 2px;
+    background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%));
+    border-radius: 1px;
+    margin-bottom: 8px;
+  }
+
+  .contact-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 16px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    color: #555;
+  }
+
+  .contact-row a {
+    color: #555;
+    text-decoration: none;
+  }
+
+  /* === SECTIONS === */
+  .section-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: hsl(187, 74%, 32%);
+    margin-top: 12px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 4px;
+  }
+
+  /* === SUMMARY === */
+  .summary {
+    font-size: 11px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 8px;
+  }
+
+  /* === COMPETENCIES === */
+  .competencies {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 8px;
+  }
+
+  .competency-tag {
+    display: inline-block;
+    background: hsl(187, 74%, 92%);
+    color: hsl(187, 74%, 32%);
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 10px;
+    font-weight: 500;
+  }
+
+  /* === EXPERIENCE === */
+  .job {
+    margin-bottom: 12px;
+    page-break-inside: avoid;
+  }
+
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 2px;
+  }
+
+  .job-title {
+    font-weight: 700;
+    color: hsl(270, 70%, 45%);
+    font-size: 11px;
+  }
+
+  .job-company {
+    font-weight: 700;
+    color: hsl(270, 70%, 45%);
+    font-size: 11px;
+  }
+
+  .job-meta {
+    font-size: 10px;
+    color: #666;
+    margin-bottom: 4px;
+  }
+
+  .job-bullets {
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  .job-bullets li {
+    list-style: none;
+    margin-bottom: 3px;
+    font-size: 11px;
+    line-height: 1.4;
+    padding-left: 12px;
+    text-indent: -8px;
+  }
+
+  .job-bullets li:before {
+    content: "• ";
+    margin-right: 4px;
+  }
+
+  /* === PROJECTS === */
+  .project {
+    margin-bottom: 10px;
+    page-break-inside: avoid;
+  }
+
+  .project-title {
+    font-weight: 700;
+    color: hsl(270, 70%, 45%);
+    font-size: 11px;
+    margin-bottom: 2px;
+  }
+
+  .project-meta {
+    font-size: 10px;
+    color: #666;
+    margin-bottom: 3px;
+    font-style: italic;
+  }
+
+  .project-desc {
+    font-size: 11px;
+    line-height: 1.4;
+    margin-bottom: 0;
+  }
+
+  /* === EDUCATION === */
+  .education {
+    margin-bottom: 8px;
+    page-break-inside: avoid;
+  }
+
+  .education-school {
+    font-weight: 700;
+    font-size: 11px;
+    color: #1a1a2e;
+  }
+
+  .education-degree {
+    font-size: 11px;
+    color: #333;
+  }
+
+  .education-meta {
+    font-size: 10px;
+    color: #666;
+  }
+
+  /* === SKILLS === */
+  .skills {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .skill-category {
+    font-size: 11px;
+  }
+
+  .skill-label {
+    font-weight: 700;
+    color: #1a1a2e;
+    margin-right: 4px;
+  }
+
+  .skill-items {
+    color: #333;
+  }
+
+  @media print {
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    .page {
+      margin: 0;
+      padding: 0.6in;
+      page-break-after: always;
+    }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+<!-- HEADER -->
+<div class="header">
+  <h1>Daris Chen</h1>
+  <div class="header-gradient"></div>
+  <div class="contact-row">
+    <span>(562) 386-3975</span>
+    <span>daris.chen@gmail.com</span>
+    <a href="https://linkedin.com/in/darischen">linkedin.com/in/darischen</a>
+    <a href="https://github.com/darischen">github.com/darischen</a>
+    <a href="https://darischen.com">darischen.com</a>
+    <span>San Diego, CA | US Citizen</span>
+  </div>
+</div>
+
+<!-- PROFESSIONAL SUMMARY -->
+<div>
+  <h2 class="section-title">Professional Summary</h2>
+  <p class="summary">
+    Software engineer with full-stack abstraction mastery (physics → pseudocode). Shipped production systems across AI, distributed systems, and hardware. Expert in query optimization, database design, performance engineering, and distributed system architecture. Demonstrated learning velocity: mastered ROCm + GPU pipelines in 48 hours. Passionate about building scalable infrastructure that serves millions of users. Systems thinker who understands how high-level choices (data structures, caching strategies) impact low-level performance.
+  </p>
+</div>
+
+<!-- CORE COMPETENCIES -->
+<div>
+  <h2 class="section-title">Core Competencies</h2>
+  <div class="competencies">
+    <span class="competency-tag">Distributed Systems</span>
+    <span class="competency-tag">Query Optimization</span>
+    <span class="competency-tag">Database Design</span>
+    <span class="competency-tag">Performance Engineering</span>
+    <span class="competency-tag">Rust (Learning)</span>
+    <span class="competency-tag">Python</span>
+    <span class="competency-tag">C/C++</span>
+    <span class="competency-tag">Cloud Infrastructure</span>
+    <span class="competency-tag">PostgreSQL</span>
+    <span class="competency-tag">System Architecture</span>
+    <span class="competency-tag">Observability</span>
+    <span class="competency-tag">Full-Stack Shipping</span>
+  </div>
+</div>
+
+<!-- WORK EXPERIENCE -->
+<div>
+  <h2 class="section-title">Work Experience</h2>
+
+  <div class="job">
+    <div class="job-header">
+      <div>
+        <div class="job-title">Lead Full-Stack Engineer — PatentIQ</div>
+        <div class="job-meta">Product Manager Accelerator | Jan 2026 – Apr 2026 | Remote</div>
+      </div>
+    </div>
+    <ul class="job-bullets">
+      <li>Architected end-to-end distributed system for semantic patent search with PostgreSQL + pgvector; hybrid ranking system combining semantic similarity with SQL-based keyword ranking required deep understanding of query planning and database optimization.</li>
+      <li>Optimized database queries and implemented recursive SQL query builder with Zod validation; designed caching layer (LRU cache) reducing database latency for high-frequency queries.</li>
+      <li>Built FastAPI backend with authentication (Auth0) and real-time inventory sync patterns; shipped to production on Vercel + EC2 serving 50+ concurrent users at MVP stage.</li>
+      <li>Led 14-member cross-functional team (PMs, designers, developers, data scientist) through 4-month accelerator; assigned ownership, coordinated dependencies, served as primary technical contributor and lead architect.</li>
+      <li>Mentored team on distributed systems thinking: trade-offs between correctness, performance, and time-to-market; demonstrated pragmatism under pressure.</li>
+    </ul>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <div>
+        <div class="job-title">Lead Full-Stack Engineer — Groundwork Books</div>
+        <div class="job-meta">San Diego, CA | Aug 2025 – Mar 2026</div>
+      </div>
+    </div>
+    <ul class="job-bullets">
+      <li>Designed and implemented two-tier caching architecture: look-aside Redis reducing Square API latency by 90% (sub-200ms p99), plus client-side request coalescing reducing 50+ concurrent lookups to single API call with 2-minute TTL.</li>
+      <li>Migrated production e-commerce to Next.js for real-time inventory synchronization across 4,000+ SKUs; implemented semantic search layer using Pinecone vector database for concept-based discovery beyond exact keyword matching.</li>
+      <li>Demonstrated observability-first approach: monitored API latency, cache hit rates, query performance; architected system that remained performant at scale.</li>
+      <li>Shipped to production serving real users daily; trade-offs required strategic thinking about database access patterns vs. cache invalidation complexity.</li>
+    </ul>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <div>
+        <div class="job-title">FishSense Artificial Intelligence Researcher</div>
+        <div class="job-meta">UCSD Engineers for Exploration (E4E) | Feb 2025 – Mar 2026 | San Diego, CA</div>
+      </div>
+    </div>
+    <ul class="job-bullets">
+      <li>Engineered custom R-CNN training pipeline (ResNet-50 backbone) for underwater laser-profiling; standardized Detectron2 codebase to reduce inference setup time by 40% for new researchers and improve reproducibility.</li>
+      <li>Developed dual-laser photogrammetry algorithm extracting biological metrics from 2D video feeds with sub-5% error rates; required understanding of coordinate systems, camera calibration, and precision metrics.</li>
+    </ul>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <div>
+        <div class="job-title">Software Engineering Intern — PersonifyApp.ai</div>
+        <div class="job-meta">Remote | Jan 2025 – Sep 2025</div>
+      </div>
+    </div>
+    <ul class="job-bullets">
+      <li>Engineered data ingestion pipeline for unstructured text: implemented deduplication logic, NLP-based feature extraction to structure dataset inputs for recommendation engine; handled data quality and correctness.</li>
+      <li>Refactored feature leaderboard UI using Next.js, Tailwind CSS, Firebase; added duplicate-detection logic improving data pipeline integrity.</li>
+    </ul>
+  </div>
+
+</div>
+
+<!-- SELECTED PROJECTS -->
+<div>
+  <h2 class="section-title">Selected Projects</h2>
+
+  <div class="project">
+    <div class="project-title">Mini-Stockfish Chess Engine — Query Engine Optimization Study</div>
+    <div class="project-meta">PyTorch, Cython, C++, CUDA, NumPy | Mar 2025 – Mar 2026</div>
+    <div class="project-desc">
+      Architected hybrid chess engine combining HalfKP NNUE neural network evaluation with advanced alpha-beta search featuring killer moves, counter-move heuristics, history heuristics, quiescence search, NMP, and LMR. Optimized critical path using Cython + C++ move generation + Zobrist hashing, reducing leaf node evaluation latency from 1.1ms to 0.25ms (77.2% reduction). Demonstrates understanding of query-like evaluation trees, pruning strategies, caching (transposition tables), and incremental updates. Trained on 316M Stockfish-evaluated positions, showcasing large-scale data pipeline thinking.
+    </div>
+  </div>
+
+  <div class="project">
+    <div class="project-title">FlipperZillow — Distributed GPU Pipeline Architecture</div>
+    <div class="project-meta">Next.js, Python, PyTorch, AMD ROCm, DFormerV2, SAM3D, Three.js | Feb 2026 – Mar 2026</div>
+    <div class="project-desc">
+      Built end-to-end system for transforming property listings into interactive 3D tours. Integrated dual parallel GPU pipelines: DepthAnythingV2 + DFormerV2 for depth + semantic analysis, feeding Claude API for AI narration. Navigated unfamiliar toolchains, debugged GPU compatibility issues on ROCm. Pragmatic decision-making: when SAM3D broke on AMD hardware, cut scope and shipped working product rather than debugging forever. Demonstrates adaptability, observability thinking (profiling GPU bottlenecks), and systems design across layers (cloud → GPU → inference → frontend).
+    </div>
+  </div>
+
+  <div class="project">
+    <div class="project-title">Personal Portfolio Site — Performance Optimization & SSG Pipeline</div>
+    <div class="project-meta">React, TypeScript, Node.js, Express.js, Tailwind CSS, Vercel | Oct 2024 – Present</div>
+    <div class="project-desc">
+      Developed custom static site generator transforming Markdown/LaTeX into optimized HTML at build time. Achieved Lighthouse 100/100 performance, <0.8s First Contentful Paint globally via edge caching (Vercel), dynamic open-graph image generation, and asset optimization. Demonstrates end-to-end systems thinking: from build pipelines to runtime performance, proving ability to optimize across abstraction layers.
+    </div>
+  </div>
+
+</div>
+
+<!-- EDUCATION -->
+<div>
+  <h2 class="section-title">Education</h2>
+  <div class="education">
+    <div class="education-school">University of California San Diego</div>
+    <div class="education-degree">Bachelor of Science (B.S.) in Computer Engineering</div>
+    <div class="education-meta">San Diego, CA | Graduated: March 2026</div>
+  </div>
+</div>
+
+<!-- TECHNICAL SKILLS -->
+<div>
+  <h2 class="section-title">Technical Skills</h2>
+  <div class="skills">
+    <div class="skill-category">
+      <span class="skill-label">Languages:</span>
+      <span class="skill-items">Python, C/C++, JavaScript/TypeScript, Java, SQL, ARM Assembly, Verilog/SystemVerilog, Go, Cython, HTML/CSS</span>
+    </div>
+    <div class="skill-category">
+      <span class="skill-label">Systems & Performance:</span>
+      <span class="skill-items">Query optimization, database design, distributed systems, caching strategies (Redis, LRU), profiling, Lighthouse optimization, latency reduction</span>
+    </div>
+    <div class="skill-category">
+      <span class="skill-label">Databases:</span>
+      <span class="skill-items">PostgreSQL, MongoDB, Upstash Redis, Firebase, Pinecone, pgvector, Supabase</span>
+    </div>
+    <div class="skill-category">
+      <span class="skill-label">Cloud & DevOps:</span>
+      <span class="skill-items">AWS (EC2, Lambda, RDS), GCP, Vercel, Docker, Kubernetes (conceptual), CI/CD, GitHub Actions</span>
+    </div>
+    <div class="skill-category">
+      <span class="skill-label">Frameworks & Libraries:</span>
+      <span class="skill-items">FastAPI, Next.js, React, Node.js/Express.js, PyTorch, TensorFlow, CUDA, ROCm, Transformers, Detectron2, NumPy, pandas, Three.js, Tailwind CSS</span>
+    </div>
+    <div class="skill-category">
+      <span class="skill-label">Tools:</span>
+      <span class="skill-items">Git, GitHub, ClickUp, Jira, VS Code, Jest, Puppeteer, Wandb, Jupyter, Hugging Face, ModelSim, Quartus Prime</span>
+    </div>
+  </div>
+</div>
+
+</div>
+</body>
+</html>

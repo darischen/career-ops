@@ -1,0 +1,75 @@
+- generic [active] [ref=e1]:
+  - link "WeRide.ai logo" [ref=e4] [cursor=pointer]:
+    - /url: https://jobs.lever.co/weride
+    - img "WeRide.ai logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "New Grads 2026 - General Software Engineer" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: San Jose, CA
+          - generic [ref=e14]: Campus Recruiting /
+          - generic [ref=e15]: Full-time /
+          - generic [ref=e16]: On-site
+      - link "apply for this job" [ref=e18] [cursor=pointer]:
+        - /url: https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d/apply
+    - generic [ref=e19]:
+      - generic [ref=e21]: "Established in 2017, WeRide (NASDAQ: WRD) is a leading global commercial-stage company that develops autonomous driving technologies from Level 2 to Level 4. WeRide is the only tech company in the world that holds driverless permits in China, the UAE, Singapore and the US, conducting autonomous driving R&D, tests and operations in over 30 cities of 10 countries around the world. WeRide has operated a self-driving fleet for more than 2,200 days."
+      - generic [ref=e23]:
+        - heading "What you will do:" [level=3] [ref=e24]
+        - list [ref=e27]:
+          - listitem [ref=e28]: Build real-time, in-vehicle systems that ensure the AV operates safely and efficiently in its environment.
+          - listitem [ref=e29]: Develop a high-performance, highly reliable data transport framework, and enhance the logging infrastructure to support robust data collection.
+          - listitem [ref=e30]: Develop a real-time communication service framework between embedded devices and the host computer, enhancing the real-time troubleshooting capabilities of the in-vehicle system.
+          - listitem [ref=e31]: Develop cloud-based and backend systems that support the AV fleet, as well as create intelligent tools for our developers.
+          - listitem [ref=e32]: Design and develop new features to continuously optimize computational performance, and create tools to assist other teams by proactively informing developers of potential performance issues.
+          - listitem [ref=e33]: Build services and infrastructure bridging machine learning and distributed systems, while evaluating database-related changes submitted by other engineers or community contributors.
+          - listitem [ref=e34]: Work closely with other engineering teams and business groups to develop comprehensive end-to-end solutions.
+          - listitem [ref=e35]: Optimize for efficient model deployment, enhance the machine learning workflow, and build and support large-scale model evaluation systems.
+          - listitem [ref=e36]: Develop high-performance GPU/CPU kernels by utilizing low-level hardware features and knowledge of performance characteristics.
+          - listitem [ref=e37]: Build a model conversion, evaluation, and management system.
+          - listitem [ref=e38]: Develop and sustain scalable and high-performance infrastructure for training, optimizing, and deploying machine learning models.
+          - listitem [ref=e39]: Work with multiple algorithm teams and optimize efficient algorithms for self-driving vehicles.
+      - generic [ref=e42]:
+        - heading "Qualifications:" [level=3] [ref=e43]
+        - list [ref=e46]:
+          - listitem [ref=e47]: Pursuing a BS/MS degree in Computer Science, Software Engineering, Mathematics, or a related technical field, or equivalent practical experience, with an expected graduation date between December 2025 and June 2026.
+          - listitem [ref=e48]: Proficient in C++ and/or Python, Java, Go with knowledge of its latest features.
+          - listitem [ref=e49]: Have good programming practices, adhere to coding standards, and follow test-driven development.
+          - listitem [ref=e50]: Strong analytical and problem-solving skills.
+          - listitem [ref=e51]: Excellent communication, and cross-functional team collaboration abilities.
+          - listitem [ref=e52]: Passion for innovation in the autonomous vehicle industry.
+      - generic [ref=e54]:
+        - heading "Bonus Points:" [level=3] [ref=e55]
+        - list [ref=e58]:
+          - listitem [ref=e59]: Experience with field robotics and systems design
+          - listitem [ref=e60]: Experience with distributed systems, possesses design and debugging skills for complex system software, familiar with common design patterns and architectural trade-offs
+          - listitem [ref=e61]: Familiar with OS kernel and low-level system and computer architecture understanding
+          - listitem [ref=e62]: Familiar with GPU architecture
+      - generic [ref=e63]:
+        - generic [ref=e64]: $120,000 - $165,000 a year
+        - generic [ref=e66]: Your base pay is one part of your total compensation package. For this position, the reasonably expected pay range is between $120,000 - $165,000 for the level at which this job has been scoped. Your base pay will depend on several factors, including your experience, qualifications, education, location, and skills. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for an annual performance bonus, equity, and a competitive benefits package.
+      - generic [ref=e67]:
+        - generic [ref=e68]: "What Happens Next:"
+        - generic [ref=e70]: We’ll take a few weeks to review all applications. If we’d like to move forward with you, we’ll reach out to arrange the next steps, which may include an online assessment, a call with a recruiter, and 4-5 interviews with your future colleagues to better inform our decision.
+        - generic [ref=e72]: During the interview process, we aim to learn more about your skills, experiences, and motivators. Many of our questions will focus on understanding how you might operate here at WeRide. Please note that, due to the high volume of applications we receive, we’re unable to offer individual feedback during the interview process.
+        - generic [ref=e74]: We recognize that interviewing for a new role is significant, and we appreciate you considering WeRide as the next step in your career. Our Recruiting Team is here to support you throughout the interview process. Come join us and apply today!
+        - generic [ref=e77]:
+          - link "WeRide.ai" [ref=e78] [cursor=pointer]:
+            - /url: http://weride.ai/
+          - text: "offers competitive salary depending on the experience. Employee benefits include:"
+        - generic [ref=e79]: Premium Medical, Dental and Vision Plan (No cost from employees or their families)
+        - generic [ref=e80]: Free Daily Breakfast, Lunch and Dinner
+        - generic [ref=e81]: Paid vacations and holidays
+        - generic [ref=e82]: 401K plan
+      - generic [ref=e84]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e86] [cursor=pointer]:
+        - /url: https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d/apply
+  - generic [ref=e88]:
+    - paragraph [ref=e89]:
+      - link "WeRide.ai Home Page" [ref=e90] [cursor=pointer]:
+        - /url: https://www.weride.ai/
+    - link "Jobs powered by Lever logo" [ref=e91] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e92]: Jobs powered by
+      - img "Lever logo" [ref=e93]

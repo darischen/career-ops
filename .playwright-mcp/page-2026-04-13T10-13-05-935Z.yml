@@ -1,0 +1,145 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Brain Co." [ref=e6] [cursor=pointer]:
+        - /url: https://www.brain.co
+        - img "Brain Co." [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Brain Co.’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /brainco
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Early Career AI/ML Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco Bay Area
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+      - generic [ref=e29]:
+        - tablist [ref=e30]:
+          - tab "Overview" [selected] [ref=e31] [cursor=pointer]
+          - tab "Application" [ref=e32] [cursor=pointer]
+        - tabpanel "Overview" [ref=e34]:
+          - generic [ref=e35]:
+            - heading "About Brain Co." [level=2] [ref=e36]:
+              - strong [ref=e37]: About Brain Co.
+            - paragraph [ref=e38]:
+              - text: Brain Co. is an applied AI startup co-founded by Jared Kushner and Elad Gil, and backed by leading Silicon Valley builders including Patrick Collison and Andrej Karpathy.
+              - text: We are building AI applications for the world’s most important institutions, delivering impact on real-world problems across governments, healthcare systems, and critical industries.
+              - text: "Our progress so far:"
+            - list [ref=e39]:
+              - listitem [ref=e40]:
+                - paragraph [ref=e41]: Automated construction permitting for a sovereign government → 80% faster, unlocking $375M+ in value
+              - listitem [ref=e42]:
+                - paragraph [ref=e43]: Optimized supply chains for a leading global energy company → 30% lower cost, 99% reliability, preventing $100M+ in losses
+              - listitem [ref=e44]:
+                - paragraph [ref=e45]: Streamlined hospital patient care across national health systems → 40% better outcomes, 80% less admin work
+            - paragraph [ref=e46]: "Company momentum:"
+            - list [ref=e47]:
+              - listitem [ref=e48]:
+                - paragraph [ref=e49]: Raised a $55M Series A from leading investors
+              - listitem [ref=e50]:
+                - paragraph [ref=e51]: Built a team of 70+ AI experts from Tesla, Google DeepMind, NVIDIA, and Databricks
+            - paragraph [ref=e52]:
+              - text: At Brain Co., we focus on applying frontier AI to real institutional challenges, working alongside governments, healthcare systems, and critical industries to modernize how essential services operate.
+              - text: We are looking for leaders who want to help bring new technology into institutions that impact millions of people.
+            - paragraph [ref=e53]
+            - heading "About The Role" [level=2] [ref=e54]:
+              - strong [ref=e55]: About The Role
+            - paragraph [ref=e56]: As an AI/ML Engineer at Brain Co., you will play a crucial role in deploying state-of-the-art models to automate various real world problems in sectors such as healthcare, government and energy. Part of the role will involve turning research breakthroughs into practical solutions for various nation states. This role is your opportunity to make a significant impact by making AI technology both accessible and influential.
+            - paragraph [ref=e57]
+            - heading "In This Role, You Will:" [level=2] [ref=e58]:
+              - strong [ref=e59]: "In This Role, You Will:"
+            - list [ref=e60]:
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: "Innovate and Deploy: Design and deploy advanced LLM models to tackle real-world problems, particularly in automating complex, manual processes in a range of real-world verticals."
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: "Optimize and Scale: Build scalable data pipelines, optimize models for performance and accuracy, and prepare them for production. Monitor and maintain deployed models to ensure they continue delivering value across various governments worldwide."
+              - listitem [ref=e65]:
+                - paragraph [ref=e66]: "Make a Difference: Engage in projects including but not limited to optimizing the world's most advanced energy production systems, modernizing core government workflows, or improving patient outcomes in advanced public healthcare systems. Your work will directly impact how AI benefits individuals, businesses, and society at large."
+              - listitem [ref=e67]:
+                - paragraph [ref=e68]: "Engage with Leaders: interact directly with government officials in various countries and apply the first of its kind AI solutions while working alongside experienced ex. Founders, AI researchers, and software engineers to understand complex business challenges and deliver AI-powered solutions. Join a dynamic team where ideas are exchanged freely and creativity flourishes. You will be able to wear many hats: software building, product management, sales, interpersonal skills."
+              - listitem [ref=e69]:
+                - paragraph [ref=e70]: "Learn and Lead: Keep abreast of the latest developments in machine learning and AI. Participate in code reviews, share knowledge, and set an example with high-quality engineering practices."
+            - paragraph [ref=e71]
+            - heading "You Might Thrive In This Role If You:" [level=2] [ref=e72]:
+              - strong [ref=e73]: "You Might Thrive In This Role If You:"
+            - list [ref=e74]:
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: Have 0-2 years of industry experience in applied machine learning or related AI work.
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: Hold a BSc/Master’s/PhD degree in Computer Science, Machine Learning, Data Science, or a related field.
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Have hands-on experience building GenAI-focused applications (e.g., agents, reasoning workflows, or RAG) and a solid understanding of how large language models are architected and operated.
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: Have personally implemented models in common ML frameworks such as PyTorch, Jax or TensorFlow.
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: Possess a strong foundation in data structures, algorithms, and software engineering principles.
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: Exhibit excellent problem-solving and analytical skills, with a proactive approach to challenges.
+              - listitem [ref=e87]:
+                - paragraph [ref=e88]: Can work collaboratively with cross-functional teams.
+              - listitem [ref=e89]:
+                - paragraph [ref=e90]: Thrive in fast-paced environments where priorities or deadlines may compete.
+              - listitem [ref=e91]:
+                - paragraph [ref=e92]: Are eager to own problems end-to-end and willing to acquire any necessary knowledge to get the job done.
+            - paragraph [ref=e93]
+            - heading "Benefits" [level=2] [ref=e94]:
+              - strong [ref=e95]: Benefits
+            - list [ref=e96]:
+              - listitem [ref=e97]:
+                - paragraph [ref=e98]: Competitive salary
+              - listitem [ref=e99]:
+                - paragraph [ref=e100]: Medical, Dental, and Vision (100% Coverage)
+              - listitem [ref=e101]:
+                - paragraph [ref=e102]: Paid Maternity and Paternity Leave
+              - listitem [ref=e103]:
+                - paragraph [ref=e104]: 401(k)
+              - listitem [ref=e105]:
+                - paragraph [ref=e106]: Daily Lunches
+              - listitem [ref=e107]:
+                - paragraph [ref=e108]: Commuter Benefits
+              - listitem [ref=e109]:
+                - paragraph [ref=e110]: Unlimited PTO
+            - paragraph [ref=e111]
+            - heading "Why Join Us" [level=2] [ref=e112]:
+              - strong [ref=e113]: Why Join Us
+            - list [ref=e114]:
+              - listitem [ref=e115]:
+                - paragraph [ref=e116]: Ship quickly, iterate constantly and see your work deployed at global scale
+              - listitem [ref=e117]:
+                - paragraph [ref=e118]: Collaborate with industry veterans from Tesla, DeepMind, Databricks, and more
+              - listitem [ref=e119]:
+                - paragraph [ref=e120]: Accelerate your career with ownership based on impact, not tenure
+              - listitem [ref=e121]:
+                - paragraph [ref=e122]: Earn competitive compensation + meaningful equity in a high-growth company
+              - listitem [ref=e123]:
+                - paragraph [ref=e124]: Thrive in a culture built on speed, curiosity, and impact
+            - paragraph [ref=e125]:
+              - emphasis [ref=e126]: If you want to see your work deployed at scale with real impact, Brain Co. is the place to build.
+            - paragraph [ref=e127]
+          - link "Apply for this Job" [ref=e128] [cursor=pointer]:
+            - /url: /brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839/application
+            - button "Apply for this Job" [ref=e129]
+  - contentinfo [ref=e130]:
+    - link "Learn more about Ashby" [ref=e131] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e132]: Powered by
+      - img "Ashby" [ref=e133]
+    - paragraph [ref=e139]:
+      - link "Privacy Policy" [ref=e140] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e141] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e142] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

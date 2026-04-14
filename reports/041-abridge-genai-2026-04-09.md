@@ -65,7 +65,7 @@ Your strongest proof points for THIS role:
 2. **FlipperZillow (multi-stage pipeline)** — Shows orchestration of 5+ pre-trained models under pressure
 3. **RedShift (model evaluation)** — Matches "evaluation platforms for testing, A/B testing, safety validation"
 4. **Groundwork Books (real-time systems at scale)** — Matches "high-throughput systems"
-5. **Learning velocity** — 48 hours learning ROCm + DepthAnythingV2 + DFormerV2 + SAM3D signals adaptability for a fast-moving platform team
+5. **Learning velocity** — 24 hours learning ROCm + DepthAnythingV2 + DFormerV2 + SAM3D signals adaptability for a fast-moving platform team
 
 ---
 
@@ -89,7 +89,7 @@ Your strongest proof points for THIS role:
 
 3. **Shipping velocity:** "I shipped 5+ projects in the last 12 months. PatentIQ, Groundwork, Simplerfy all went to real users. I'm not interested in learning slowly — I want to ship and iterate fast."
 
-4. **Adaptability:** "FlipperZillow showed me I can learn unfamiliar frameworks (ROCm, DepthAnythingV2, SAM3D) in 48 hours under extreme time pressure. Platform teams move fast; I can keep up."
+4. **Adaptability:** "FlipperZillow showed me I can learn unfamiliar frameworks (ROCm, DepthAnythingV2, SAM3D) in 24 hours under extreme time pressure. Platform teams move fast; I can keep up."
 
 ### "If They Downlevel" Plan
 

@@ -1,0 +1,121 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Mercor" [ref=e6] [cursor=pointer]:
+        - /url: https://mercor.com/
+        - img "Mercor" [ref=e7]
+    - link "Back to Mercor’s Job Listings" [ref=e8] [cursor=pointer]:
+      - /url: https://mercor.com/careers
+      - img [ref=e9]
+    - listitem
+  - generic [ref=e11]:
+    - heading "Machine Learning Engineer, Anonymization" [level=1] [ref=e13]
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - heading "Location" [level=2] [ref=e17]
+          - paragraph [ref=e18]: San Francisco
+        - generic [ref=e19]:
+          - heading "Employment Type" [level=2] [ref=e20]
+          - paragraph [ref=e21]: Full time
+        - generic [ref=e22]:
+          - heading "Location Type" [level=2] [ref=e23]
+          - paragraph [ref=e24]: On-site
+        - generic [ref=e25]:
+          - heading "Department" [level=2] [ref=e26]
+          - paragraph [ref=e27]:
+            - generic [ref=e28]: Engineering ›
+            - generic [ref=e29]: Leverage Engineering
+        - generic [ref=e30]:
+          - heading "Compensation" [level=2] [ref=e31]
+          - list [ref=e32]:
+            - listitem [ref=e33]:
+              - generic [ref=e34]: $130K – $500K • Offers Equity
+      - generic [ref=e35]:
+        - tablist [ref=e36]:
+          - tab "Overview" [selected] [ref=e37] [cursor=pointer]
+          - tab "Application" [ref=e38] [cursor=pointer]
+        - tabpanel "Overview" [ref=e40]:
+          - generic [ref=e41]:
+            - heading "About Mercor" [level=2] [ref=e42]:
+              - strong [ref=e43]: About Mercor
+            - paragraph [ref=e44]: Mercor is defining the future of work. We partner with leading AI labs and enterprises to provide the human intelligence essential to AI development.
+            - paragraph [ref=e45]: "Our vast talent network trains frontier AI models in the same way teachers teach students: by sharing knowledge, experience, and context that can't be captured in code alone. Today, more than 30,000 experts in our network collectively earn over $2 million a day."
+            - paragraph [ref=e46]: Mercor is creating a new category of work where expertise powers AI advancement. Achieving this requires an ambitious, fast-paced and deeply committed team. You’ll work alongside researchers, operators, and AI companies at the forefront of shaping the systems that are redefining society.
+            - paragraph [ref=e47]: Mercor is a profitable Series C company valued at $10 billion. We work in-person five days a week in our San Francisco, NYC, or London offices.
+            - heading "About the Role" [level=2] [ref=e48]:
+              - strong [ref=e49]: About the Role
+            - paragraph [ref=e50]: As a Machine Learning Engineer focused on Anonymization at Mercor, you will be critical in designing and implementing our industry-best data privacy pipeline. You'll operate at the intersection of advanced ML techniques, sensitive data handling, and robust backend engineering. Your primary focus will be shipping production systems that employ state-of-the-art anonymization and de-identification methods, maximizing the realism and utility of our vast data network for model training while maintaining the highest standards of regulatory compliance. This role requires bringing deep statistical and modeling rigor to challenging problems in privacy-preserving data access.
+            - paragraph [ref=e51]:
+              - strong [ref=e52]: What You’ll Do
+            - list [ref=e53]:
+              - listitem [ref=e54]:
+                - paragraph [ref=e55]: Own the anonymization platform for the market leader in human data, building systems that enable proprietary data access at enterprise scale without compromising trust.
+              - listitem [ref=e56]:
+                - paragraph [ref=e57]: Design and ship production ML systems for anonymization and de-identification across multiple data modalities (text, documents, images, audio, video).
+              - listitem [ref=e58]:
+                - paragraph [ref=e59]: Build and maintain the core backend infrastructure and APIs to securely process and serve anonymized data.
+              - listitem [ref=e60]:
+                - paragraph [ref=e61]: Benchmark our anonymization pipeline against state-of-the-art-models, industry best practices, and regulatory standards . Define quality metrics and evaluation techniques that generalize to unseen data, continuously running experiments to improve both privacy guarantees and data utility.
+              - listitem [ref=e62]:
+                - paragraph [ref=e63]: Collaborate cross-functionally with vendors, account stakeholders, Legal, Security, and Engineering teams to translate compliance requirements into robust, model-driven solutions.
+              - listitem [ref=e64]:
+                - paragraph [ref=e65]: Act as the subject matter expert on data anonymization, flexing between applied ML, complex data pipeline engineering, and driving architectural decisions for data privacy.
+            - paragraph [ref=e66]:
+              - strong [ref=e67]: What We’re Looking For
+            - list [ref=e68]:
+              - listitem [ref=e69]:
+                - paragraph [ref=e70]: Strong backend engineering skills (ex. Python/Django or similar) plus a solid foundation in applied ML and statistics.
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]: Proven experience shipping production systems or ML-driven products end-to-end.
+              - listitem [ref=e73]:
+                - paragraph [ref=e74]: High ownership and comfort operating in ambiguous, fast-changing environments.
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: Demonstrated knowledge of industry best practices and common frameworks for data privacy and security.
+            - paragraph [ref=e77]:
+              - strong [ref=e78]: Why Mercor
+            - list [ref=e79]:
+              - listitem [ref=e80]:
+                - paragraph [ref=e81]:
+                  - strong [ref=e82]: "Impact:"
+                  - text: Your work powers how the world’s leading AI labs train and test their models.
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]:
+                  - strong [ref=e85]: "Learning:"
+                  - text: Get early insights into frontier model capabilities months before the market.
+              - listitem [ref=e86]:
+                - paragraph [ref=e87]:
+                  - strong [ref=e88]: "Growth:"
+                  - text: Work on both infrastructure and research-adjacent projects with fast paths to ownership.
+              - listitem [ref=e89]:
+                - paragraph [ref=e90]:
+                  - strong [ref=e91]: "Team:"
+                  - text: Work on complex, unsolved AI and ML problems alongside a small, high-caliber team of engineers.
+            - paragraph [ref=e92]:
+              - strong [ref=e93]: Benefits
+            - list [ref=e94]:
+              - listitem [ref=e95]:
+                - paragraph [ref=e96]: Generous equity grant vested over 4 years
+              - listitem [ref=e97]:
+                - paragraph [ref=e98]: A $10K housing bonus (if you live within 0.5 miles of our office)
+              - listitem [ref=e99]:
+                - paragraph [ref=e100]: A $1.5K monthly stipend for meals
+              - listitem [ref=e101]:
+                - paragraph [ref=e102]: Free Equinox membership
+              - listitem [ref=e103]:
+                - paragraph [ref=e104]: Health insurance
+          - link "Apply for this Job" [ref=e105] [cursor=pointer]:
+            - /url: /mercor/547dead0-d223-4023-8357-206714d94d12/application
+            - button "Apply for this Job" [ref=e106]
+  - contentinfo [ref=e107]:
+    - link "Learn more about Ashby" [ref=e108] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e109]: Powered by
+      - img "Ashby" [ref=e110]
+    - paragraph [ref=e116]:
+      - link "Privacy Policy" [ref=e117] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e118] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e119] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

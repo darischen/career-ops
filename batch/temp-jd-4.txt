@@ -1,0 +1,37 @@
+# Software Engineer, Fusion — dbt Labs
+
+## Position Overview
+As a Software Engineer working on dbt Fusion, you'll help build a next-generation analytics engine written in Rust that significantly improves performance, correctness, and developer experience across dbt workflows. You'll work on a modern, state-aware execution engine with deep SQL understanding across multiple data warehouses.
+
+## Key Responsibilities
+- Collaborate with Product, Design, Operations, and Security to deliver well-architected, scalable compute solutions
+- Participate in technical architecture discussions with a focus on query engines, storage systems, and distributed database design
+- Build services, APIs, and experiences that support user delight, quality, high availability, and performance
+- Tackle ambiguous, open-ended technical challenges with strategic thinking
+- Drive best practices in testing, observability, and system reliability
+
+## Required Qualifications
+- Strong coding skills in at least one of: Rust, Python, Go, or Java
+- Familiarity with cloud infrastructure (AWS, GCP, Azure, Kubernetes, Terraform)
+- Interest in systems, data infrastructure, compilers, or analytical tooling
+- Proven ability to participate in complex projects and collaborate across functions
+- Excellent problem-solving skills, clear communication, and strong sense of ownership
+- Experience working on non-trivial projects (coursework, internships, research, open-source, personal projects)
+- Willingness and enthusiasm to work across the stack and learn new technologies
+
+## Preferred Qualifications
+- Experience with performance optimization, observability, or large-scale query engines
+- Contributions to open source database technologies (Apache Arrow, DuckDB, MongoDB Runtime, etc.)
+- Experience with SQL and data warehouse systems
+
+## About dbt Fusion
+The dbt Fusion engine is a next-generation Rust-based analytics engine designed for speed, correctness, and has native understanding of SQL across multiple data warehouse SQL dialects.
+
+## Company: dbt Labs
+- Leading analytics engineering platform
+- Remote-first company
+- Focus on modern data stack, developer experience
+- Growing engineering team
+
+## Location
+- US Remote (likely)

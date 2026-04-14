@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daris Chen — CV</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin-ext.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin-ext.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    line-height: 1.5;
+    color: #1a1a2e;
+    background: #ffffff;
+    padding: 0.6in;
+    margin: 0;
+  }
+
+  .page {
+    width: 100%;
+    max-width: 8.5in;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  /* === HEADER === */
+  .header {
+    margin-bottom: 16px;
+  }
+
+  .header h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #1a1a2e;
+    letter-spacing: -0.02em;
+    margin-bottom: 4px;
+  }
+
+  .header-gradient {
+    height: 2px;
+    background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%));
+    border-radius: 1px;
+    margin-bottom: 8px;
+  }
+
+  .contact-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 16px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    color: #555;
+  }
+
+  .contact-row a {
+    color: #555;
+    text-decoration: none;
+  }
+
+  .contact-row .separator {
+    color: #ccc;
+  }
+
+  /* === SECTIONS === */
+  .section {
+    margin-bottom: 14px;
+  }
+
+  .section-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: hsl(187, 74%, 32%);
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 3px;
+    margin-bottom: 8px;
+  }
+
+  /* === PROFESSIONAL SUMMARY === */
+  .summary-text {
+    font-size: 11px;
+    line-height: 1.6;
+    color: #333;
+  }
+
+  /* Links must never break across lines */
+  a {
+    white-space: nowrap;
+  }
+
+  /* === CORE COMPETENCIES === */
+  .competencies-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .competency-tag {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    color: hsl(187, 74%, 28%);
+    background: hsl(187, 40%, 95%);
+    padding: 3px 10px;
+    border-radius: 3px;
+    border: 1px solid hsl(187, 40%, 88%);
+  }
+
+  /* === WORK EXPERIENCE === */
+  .job {
+    margin-bottom: 12px;
+  }
+
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 2px;
+  }
+
+  .job-company {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+
+  .job-period {
+    font-size: 10px;
+    color: #777;
+    white-space: nowrap;
+  }
+
+  .job-role {
+    font-size: 11px;
+    font-weight: 500;
+    color: #444;
+    margin-bottom: 4px;
+  }
+
+  .job-location {
+    font-size: 10px;
+    color: #888;
+  }
+
+  .job ul {
+    padding-left: 16px;
+    margin-top: 4px;
+  }
+
+  .job li {
+    font-size: 10.5px;
+    line-height: 1.5;
+    color: #333;
+    margin-bottom: 2px;
+  }
+
+  .job li strong {
+    font-weight: 600;
+  }
+
+  /* === PROJECTS === */
+  .project {
+    margin-bottom: 10px;
+  }
+
+  .project-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+
+  .project-badge {
+    font-size: 9px;
+    font-weight: 500;
+    color: hsl(187, 74%, 32%);
+    background: hsl(187, 40%, 95%);
+    padding: 1px 6px;
+    border-radius: 2px;
+    margin-left: 6px;
+  }
+
+  .project-desc {
+    font-size: 10.5px;
+    color: #444;
+    margin-top: 2px;
+  }
+
+  .project-tech {
+    font-size: 9.5px;
+    color: #888;
+    margin-top: 2px;
+  }
+
+  /* === EDUCATION === */
+  .edu-item {
+    margin-bottom: 6px;
+  }
+
+  .edu-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+
+  .edu-title {
+    font-weight: 600;
+    font-size: 11px;
+    color: #333;
+  }
+
+  .edu-org {
+    color: hsl(270, 70%, 45%);
+    font-weight: 500;
+  }
+
+  .edu-year {
+    font-size: 10px;
+    color: #777;
+  }
+
+  .edu-desc {
+    font-size: 10px;
+    color: #666;
+  }
+
+  /* === SKILLS === */
+  .skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 12px;
+  }
+
+  .skill-item {
+    font-size: 10.5px;
+    color: #444;
+  }
+
+  .skill-category {
+    font-weight: 600;
+    color: #333;
+    font-size: 10.5px;
+  }
+
+  /* === PRINT === */
+  @media print {
+    body {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+      padding: 0.6in;
+    }
+    .page {
+      padding: 0;
+    }
+  }
+
+  /* === PAGE BREAK CONTROL === */
+  .avoid-break {
+    break-inside: avoid;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header">
+    <h1>Daris Chen</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>daris.chen@gmail.com</span>
+      <span class="separator">|</span>
+      <a href="https://linkedin.com/in/darischen">linkedin.com/in/darischen</a>
+      <span class="separator">|</span>
+      <a href="https://darischen.com">darischen.com</a>
+      <span class="separator">|</span>
+      <span>San Diego, CA</span>
+    </div>
+  </div>
+
+  <!-- PROFESSIONAL SUMMARY -->
+  <div class="section">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">Full-stack engineer specializing in single page application architecture, component optimization, and production systems. Built and shipped 5 React/Next.js SPAs with measurable performance impact (90% latency reduction, sub-2 second search). Strong foundation in data structures, algorithms, and automated testing. Demonstrated learning velocity shipping production features across hardware, AI, and web stacks. Seeking to learn large-scale SPA architecture and feature delivery at Sigma.</div>
+  </div>
+
+  <!-- CORE COMPETENCIES -->
+  <div class="section">
+    <div class="section-title">Core Competencies</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">Single Page Applications (SPA)</span>
+      <span class="competency-tag">Next.js / React</span>
+      <span class="competency-tag">Component Optimization</span>
+      <span class="competency-tag">Automated Testing (Jest)</span>
+      <span class="competency-tag">Full-Stack Development</span>
+      <span class="competency-tag">Performance Tuning</span>
+      <span class="competency-tag">Feature Deployment</span>
+      <span class="competency-tag">API Integration</span>
+    </div>
+  </div>
+
+  <!-- WORK EXPERIENCE -->
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Groundwork Books</span>
+        <span class="job-period">Aug 2025 – Mar 2026</span>
+      </div>
+      <div class="job-role">Lead Full-Stack Engineer — SPA Development & Performance</div>
+      <div class="job-location">San Diego, CA</div>
+      <ul>
+        <li>Architected and deployed production Next.js single page application for e-commerce platform with real-time inventory synchronization across 4,000+ SKUs.</li>
+        <li>Engineered performance optimization reducing Square API latency by 90% (sub-200ms p99) via two-tier caching strategy: look-aside Redis + client-side request coalescing hook.</li>
+        <li>Designed semantic search layer using Pinecone vector embeddings, enabling discovery by topic and concept instead of exact title matching.</li>
+        <li>Deployed automated testing and implemented CI/CD pipeline via Vercel for continuous feature delivery and monitoring.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">PatentIQ</span>
+        <span class="job-period">Jan 2026 – Apr 2026</span>
+      </div>
+      <div class="job-role">Lead Full-Stack Engineer — SPA & AI Platform</div>
+      <div class="job-location">Remote | Product Manager Accelerator</div>
+      <ul>
+        <li>Architected production SPA using Next.js, FastAPI, and Supabase for AI-powered patent search and drafting assistant deployed on Vercel and EC2.</li>
+        <li>Engineered semantic search SPA reducing patent search latency from 15s (keyword-based) to under 2s via hybrid ranking combining OpenAI embeddings and PostgreSQL pgvector.</li>
+        <li>Built recursive SQL query builder with Zod-validated JSON filters and LRU cache reducing database latency across USPTO patent dataset of 10M+ records.</li>
+        <li>Orchestrated Agile development workflows coordinating 14-member cross-functional team (PMs, designers, engineers) while serving as primary technical contributor and architect.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">PersonifyApp.ai</span>
+        <span class="job-period">Jan 2025 – Sep 2025</span>
+      </div>
+      <div class="job-role">Software Engineering Intern</div>
+      <div class="job-location">Remote</div>
+      <ul>
+        <li>Refactored feature leaderboard UI using React, Next.js, Tailwind CSS and Firebase, increasing user engagement by 15% and reducing interaction time by 20%.</li>
+        <li>Implemented duplicate-detection logic in data pipeline and automated testing to ensure data quality at scale.</li>
+        <li>Engineered admin controls for feature approvals, rejections, and closures with vote-based ranking and category sorting.</li>
+      </ul>
+    </div>
+
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section avoid-break">
+    <div class="section-title">Projects</div>
+
+    <div class="project">
+      <span class="project-title">Simplerfy</span><span class="project-badge">Next.js, Chrome Extension, Claude API</span>
+      <div class="project-desc">SaaS platform combining web dashboard, browser extension, and Claude AI for job application automation. Built Chrome Extension API for form auto-detection and intelligent field mapping. Implemented Claude API integration for job description analysis and resume optimization with LaTeX-based PDF generation.</div>
+      <div class="project-tech">Technologies: Next.js, React, TypeScript, Chrome Extension API, Claude API, LaTeX, Firebase</div>
+    </div>
+
+    <div class="project">
+      <span class="project-title">Personal Portfolio Site</span><span class="project-badge">React, Next.js, Performance</span>
+      <div class="project-desc">Custom static site generator achieving perfect Lighthouse performance scores (100/100). Implemented dynamic open-graph image generation and edge-cached asset delivery on Vercel, reducing First Contentful Paint to under 0.8 seconds globally. Features multi-resume tabs and optimized image delivery.</div>
+      <div class="project-tech">Technologies: React, TypeScript, Next.js, Node.js, Tailwind CSS, Vercel, SSG pipeline</div>
+    </div>
+
+    <div class="project">
+      <span class="project-title">WeatherApp</span><span class="project-badge">Next.js, PostgreSQL, Full-Stack</span>
+      <div class="project-desc">Full-stack weather platform with real-time display, 5-day forecasts, and Google Places location search. Implemented database-backed records system for persistent weather data with multi-format export (CSV, PDF, XML). Integrated Leaflet maps and YouTube location-based content discovery.</div>
+      <div class="project-tech">Technologies: Next.js, React, TypeScript, Prisma, PostgreSQL, Tailwind CSS, Leaflet, APIs</div>
+    </div>
+
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="section avoid-break">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <span><span class="edu-org">University of California San Diego</span></span>
+        <span class="edu-year">Graduated: March 2026</span>
+      </div>
+      <div class="edu-title">Bachelor of Science in Computer Engineering</div>
+    </div>
+  </div>
+
+  <!-- SKILLS -->
+  <div class="section avoid-break">
+    <div class="section-title">Technical Skills</div>
+    <div class="skills-grid">
+      <span><span class="skill-category">Languages:</span> JavaScript/TypeScript, Python, Java, C/C++</span>
+      <span><span class="skill-category">Frontend:</span> React, Next.js, Tailwind CSS, HTML/CSS</span>
+      <span><span class="skill-category">Backend:</span> Node.js, Express.js, FastAPI, SQL, PostgreSQL</span>
+      <span><span class="skill-category">Testing:</span> Jest, automated testing, Firebase testing</span>
+      <span><span class="skill-category">Databases:</span> PostgreSQL, MongoDB, Firebase, Pinecone, pgvector</span>
+      <span><span class="skill-category">Tools:</span> Git, GitHub Actions, Docker, Vercel, GCP, VS Code, Figma</span>
+      <span><span class="skill-category">APIs:</span> REST, OpenAI/Claude API, Square POS, Instagram, Google Places</span>
+      <span><span class="skill-category">Design Tools:</span> Figma, Tailwind CSS, responsive design</span>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

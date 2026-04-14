@@ -1,0 +1,403 @@
+- generic [active] [ref=e501]:
+  - main [ref=e502]:
+    - generic [ref=e503]:
+      - link "Anthropic Logo" [ref=e505] [cursor=pointer]:
+        - /url: https://www.anthropic.com/jobs
+        - img "Anthropic Logo" [ref=e506]
+      - generic [ref=e507]:
+        - link "Back to jobs" [ref=e508] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/anthropic
+          - img [ref=e509]
+          - text: Back to jobs
+        - generic [ref=e513]: New
+        - generic [ref=e514]:
+          - generic [ref=e515]:
+            - heading "Software Engineer, Backend" [level=1] [ref=e516]
+            - generic [ref=e517]:
+              - img [ref=e518]
+              - generic [ref=e520]: San Francisco, CA | New York City, NY | Seattle, WA
+          - button "Apply" [ref=e521] [cursor=pointer]
+        - generic [ref=e522]:
+          - generic [ref=e523]:
+            - heading "About Anthropic" [level=2] [ref=e524]:
+              - strong [ref=e525]: About Anthropic
+            - paragraph [ref=e526]: Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
+          - generic [ref=e527]:
+            - heading "About the Role:" [level=2] [ref=e528]:
+              - strong [ref=e529]: "About the Role:"
+            - paragraph [ref=e530]: Anthropic is looking for backend software engineers to work across our product engineering organization. You'll build the products and systems that bring Claude's capabilities to users and developers - from the APIs that hundreds of thousands of developers build on, to the enterprise features that let Fortune 500 companies deploy Claude at scale, to the agentic tools that are redefining how developers write code.
+            - paragraph [ref=e531]:
+              - text: This is a high-impact role where you'll work at the intersection of complex distributed systems and user-facing product development. You'll partner closely with frontend engineers, researchers, designers, and product managers to translate product vision into robust, scalable backend systems. There's no shortage of hard problems to solve.
+              - emphasis [ref=e532]: This role is part of our engineering pipeline hiring process. Rather than hiring for a single team, we're looking for exceptional engineers who will be matched to the team where they can have the greatest impact. During the application process, you'll have the opportunity to indicate which teams interest you most, and we'll work with you to find the best fit.
+              - emphasis
+              - emphasis
+              - strong [ref=e533]: API Core
+              - text: ": You'll build and scale the foundation of the Claude API—the systems that deliver Claude's intelligence to every developer, from startups to enterprise. You'll own the performance, reliability, and efficiency of our core serving path, ensuring users get the most speed and value from our models. You'll partner closely with inference and safeguards to optimize the full stack."
+            - paragraph [ref=e534]:
+              - strong [ref=e535]: "API Capabilities:"
+              - text: You'll bring frontier model capabilities to developers through the Claude API, owning core features like vision, tool use, and computer use. You'll launch new models and ship the primitives that make Claude more capable with every release. You'll partner directly with research and inference to productionize what's next.
+              - strong [ref=e536]: "API Distributability:"
+              - text: "The Claude API today is a rapidly growing platform serving developers and enterprises at scale—but reaching the next tier of enterprise customers requires transforming how and where we deploy it. The Distributability team owns that transformation: making the Claude API a cloud-native, managed product that runs wherever our customers need it, cross-cloud and on Anthropic's own infrastructure, with the enterprise-grade security, compliance, and operational capabilities to support it."
+              - strong
+            - paragraph [ref=e537]:
+              - strong [ref=e538]: "API Knowledge:"
+              - text: You'll focus on transforming Claude into a true knowledge worker by ensuring the model has access to and understanding of the right knowledge at the right time. You'll work on making it possible for developers to securely give Claude access to their data while automatically processing and retrieving relevant information. You'll partner directly with research to bring state-of-the-art retrieval advancements to developers.
+            - paragraph [ref=e539]:
+              - strong [ref=e540]: "Developer Experience:"
+              - text: You’ll focus on building products and tools to enable developers to harness the full power of LLMs to create successful, reliable, and groundbreaking applications with ease. You’ll build the tools to accelerate developers from idea to deployment. You'll help figure out how to leverage Claude to improve developer's usage of the API, such as generating and evaluating prompts while collaborating closely with the teams above to bring Claude's current and future capabilities to developers.
+            - paragraph [ref=e541]:
+              - strong [ref=e542]: "API Agents:"
+              - text: You'll focus on building the infrastructure and APIs that enable developers to create powerful agentic applications within the Claude API. You'll help developers with agent orchestration through capabilities like tool use, multi-step reasoning, and long-running task execution that allow Claude to take actions and accomplish complex goals on behalf of users. You'll partner with research to bring cutting-edge agent capabilities to production.
+            - paragraph [ref=e543]:
+              - strong [ref=e544]: "Enterprise Foundations:"
+              - text: "We're looking for a software engineer to join our Enterprise Foundations team—the team that makes Claude enterprise-ready at scale. When a Fortune 500 company wants to roll out Claude to 100,000 employees, we're the team that makes it possible. You'll build the foundational systems that large organizations require before they can deploy AI at scale: user and permissions management, security and compliance features, and analytics infrastructure. This work directly converts product-market fit into revenue by removing the deployment blockers that prevent large organizations from adopting Claude broadly."
+            - heading "You Might Be a Good Fit If You:" [level=2] [ref=e545]:
+              - strong [ref=e546]: "You Might Be a Good Fit If You:"
+            - list [ref=e547]:
+              - listitem [ref=e548]: Have 5+ years of relevant industry experience as a backend or product engineer, ideally leading projects of multi-month, complex scale
+              - listitem [ref=e549]: Are proficient in Python, Go, or similar backend languages and have experience with modern cloud infrastructure
+              - listitem [ref=e550]: Have strong demonstrated product sense - you think about the user experience even when writing server-side code
+              - listitem [ref=e551]: Take full ownership of your work, from design through deployment and operations
+              - listitem [ref=e552]: Can navigate ambiguity and make sound technical decisions independently, and have ideally operated in 0 to 1 and more mature team or company settings
+              - listitem [ref=e553]: Communicate effectively across functions and can translate between product requirements and technical implementation
+              - listitem [ref=e554]: Care deeply about code quality, testing, and operational excellence, and about the societal impact of the systems you build
+            - heading "Strong candidates may also have:" [level=2] [ref=e555]:
+              - strong [ref=e556]: "Strong candidates may also have:"
+            - list [ref=e557]:
+              - listitem [ref=e558]: Experience building or maintaining billing, payments, or financial infrastructure where data consistency and correctness are critical
+              - listitem [ref=e559]: Familiarity with containerization, sandboxed execution environments, or security-focused infrastructure design
+              - listitem [ref=e560]: Experience with identity and access management systems (authentication, authorization, SSO, RBAC)
+              - listitem [ref=e561]: Exposure to ML/AI systems or an understanding of how LLM inference and model serving pipelines work
+              - listitem [ref=e562]: Experience building internal developer tools, CI/CD systems, or platform capabilities that improved engineering velocity across an organization
+              - listitem [ref=e563]: Experience with multi-cloud or cloud-agnostic infrastructure patterns
+              - listitem [ref=e564]: Experience with REST APIs and service-oriented architectures at scale
+              - listitem [ref=e565]: Familiarity with modern frontend frameworks like React (our platform engineers sometimes work across the stack)
+          - generic [ref=e567]:
+            - generic [ref=e570]:
+              - paragraph [ref=e571]: The annual compensation range for this role is listed below.
+              - paragraph [ref=e572]: For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.
+            - paragraph [ref=e573]: "Annual Salary:"
+            - paragraph [ref=e574]: $300,000 - $320,000 USD
+          - generic [ref=e575]:
+            - heading "Logistics" [level=2] [ref=e576]:
+              - strong [ref=e577]: Logistics
+            - paragraph [ref=e578]:
+              - strong [ref=e579]: "Minimum education:"
+              - text: Bachelor’s degree or an equivalent combination of education, training, and/or experience
+            - paragraph [ref=e580]:
+              - strong [ref=e581]: "Required field of study:"
+              - text: A field relevant to the role as demonstrated through coursework, training, or professional experience
+            - paragraph [ref=e582]:
+              - strong [ref=e583]: "Minimum years of experience:"
+              - text: Years of experience required will correlate with the internal job level requirements for the position
+            - paragraph [ref=e584]:
+              - strong [ref=e585]: "Location-based hybrid policy:"
+              - text: Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.
+            - paragraph [ref=e586]:
+              - strong [ref=e587]: "Visa sponsorship:"
+              - text: We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.
+            - paragraph [ref=e588]:
+              - strong [ref=e589]: We encourage you to apply even if you do not believe you meet every single qualification.
+              - text: Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.
+              - strong [ref=e590]: Your safety matters to us.
+              - text: To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit
+              - link "anthropic.com/careers" [ref=e592] [cursor=pointer]:
+                - /url: http://anthropic.com/careers
+              - text: directly for confirmed position openings.
+            - heading "How we're different" [level=2] [ref=e593]:
+              - strong [ref=e594]: How we're different
+            - paragraph [ref=e595]: We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.
+            - paragraph [ref=e596]: "The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI & Compute, Concrete Problems in AI Safety, and Learning from Human Preferences."
+            - heading "Come work with us!" [level=2] [ref=e597]:
+              - strong [ref=e598]: Come work with us!
+            - paragraph [ref=e599]:
+              - text: Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues.
+              - strong [ref=e600]: "Guidance on Candidates' AI Usage:"
+              - text: Learn about
+              - link "our policy" [ref=e601] [cursor=pointer]:
+                - /url: https://www.anthropic.com/candidate-ai-guidance
+              - text: for using AI in our application process
+        - generic [ref=e602]:
+          - img [ref=e603]
+          - generic [ref=e605]:
+            - paragraph [ref=e606]: Create a Job Alert
+            - paragraph [ref=e607]: Interested in building your career at Anthropic? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e608] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=anthropic&source=job_alert_post
+      - separator [ref=e609]
+      - generic [ref=e610]:
+        - generic [ref=e612]:
+          - heading "Apply for this job" [level=2] [ref=e614]
+          - generic [ref=e615]:
+            - paragraph [ref=e617]: "*"
+            - paragraph [ref=e618]: indicates a required field
+        - generic [ref=e619]:
+          - generic [ref=e620]:
+            - generic [ref=e623]:
+              - generic [ref=e624]: First Name*
+              - textbox "First Name" [ref=e625]
+            - generic [ref=e628]:
+              - generic [ref=e629]: Last Name*
+              - textbox "Last Name" [ref=e630]
+            - generic [ref=e633]:
+              - generic [ref=e634]: Email*
+              - textbox "Email" [ref=e635]
+            - group "Phone" [ref=e637]:
+              - generic [ref=e638]: Phone
+              - generic [ref=e641]:
+                - generic [ref=e642]: Country*
+                - generic [ref=e643]:
+                  - log [ref=e645]
+                  - generic [ref=e647]:
+                    - combobox "Country" [ref=e650]
+                    - button "Toggle flyout" [ref=e652] [cursor=pointer]:
+                      - img [ref=e653]
+                  - textbox
+              - generic [ref=e657]:
+                - generic [ref=e658]: Phone*
+                - textbox "Phone" [ref=e660]
+            - group "Resume/CV*" [ref=e662]:
+              - generic [ref=e663]: Resume/CV*
+              - generic [ref=e665]:
+                - generic [ref=e667]:
+                  - button "Attach" [ref=e668] [cursor=pointer]
+                  - generic [ref=e669]: Attach
+                  - button "Attach" [ref=e670]
+                - button "Dropbox" [ref=e672] [cursor=pointer]
+                - button "Google Drive" [ref=e674] [cursor=pointer]
+                - generic [ref=e676]:
+                  - button "Enter manually" [ref=e677] [cursor=pointer]
+                  - generic [ref=e678]: Enter manually
+                - paragraph [ref=e679]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e680]:
+            - separator [ref=e681]
+            - generic [ref=e682]:
+              - generic [ref=e684]:
+                - generic [ref=e685]: (Optional) Personal Preferences
+                - textbox "(Optional) Personal Preferences" [ref=e686]
+              - paragraph [ref=e689]: How do you pronounce your name?
+            - generic [ref=e692]:
+              - generic [ref=e693]: Website
+              - textbox "Website" [ref=e694]
+            - generic [ref=e697]:
+              - generic [ref=e698]: Are you open to working in-person in one of our offices 25% of the time?*
+              - generic [ref=e699]:
+                - log [ref=e701]
+                - generic [ref=e703]:
+                  - generic [ref=e704]:
+                    - generic [ref=e705]: Select...
+                    - combobox "Are you open to working in-person in one of our offices 25% of the time?" [ref=e707]
+                  - button "Toggle flyout" [ref=e709] [cursor=pointer]:
+                    - img [ref=e710]
+                - textbox
+            - generic [ref=e714]:
+              - generic [ref=e715]: When is the earliest you would want to start working with us?
+              - textbox "When is the earliest you would want to start working with us?" [ref=e716]
+            - generic [ref=e719]:
+              - generic [ref=e720]: Do you have any deadlines or timeline considerations we should be aware of?
+              - textbox "Do you have any deadlines or timeline considerations we should be aware of?" [ref=e721]
+            - generic [ref=e722]:
+              - generic [ref=e724]:
+                - generic [ref=e725]: AI Policy for Application*
+                - generic [ref=e726]:
+                  - log [ref=e728]
+                  - generic [ref=e730]:
+                    - generic [ref=e731]:
+                      - generic [ref=e732]: Select...
+                      - combobox "AI Policy for Application" [ref=e734]
+                    - button "Toggle flyout" [ref=e736] [cursor=pointer]:
+                      - img [ref=e737]
+                  - textbox
+              - paragraph [ref=e741]:
+                - text: We believe that AI will have a transformative impact on the world, and we’re seeking exceptional candidates who collaborate thoughtfully with Claude to realize this vision. At the same time, we want to understand your unique skills, expertise, and perspective through our hiring process. We invite you to review our
+                - link "AI partnership guidelines for candidates" [ref=e742] [cursor=pointer]:
+                  - /url: https://www.anthropic.com/candidate-ai-guidance
+                - text: and confirm your understanding by selecting “Yes.”
+            - generic [ref=e743]:
+              - generic [ref=e745]:
+                - generic [ref=e746]: Why Anthropic?*
+                - textbox "Why Anthropic?" [ref=e747]
+              - paragraph [ref=e750]: Why do you want to work at Anthropic? (We value this response highly - great answers are often 200-400 words.)
+            - generic [ref=e753]:
+              - generic [ref=e754]: Do you require visa sponsorship? *
+              - generic [ref=e755]:
+                - log [ref=e757]
+                - generic [ref=e759]:
+                  - generic [ref=e760]:
+                    - generic [ref=e761]: Select...
+                    - combobox "Do you require visa sponsorship?" [ref=e763]
+                  - button "Toggle flyout" [ref=e765] [cursor=pointer]:
+                    - img [ref=e766]
+                - textbox
+            - generic [ref=e770]:
+              - generic [ref=e771]: Will you now or will you in the future require employment visa sponsorship to work in the country in which the job you're applying for is located? *
+              - generic [ref=e772]:
+                - log [ref=e774]
+                - generic [ref=e776]:
+                  - generic [ref=e777]:
+                    - generic [ref=e778]: Select...
+                    - combobox "Will you now or will you in the future require employment visa sponsorship to work in the country in which the job you're applying for is located?" [ref=e780]
+                  - button "Toggle flyout" [ref=e782] [cursor=pointer]:
+                    - img [ref=e783]
+                - textbox
+            - generic [ref=e785]:
+              - generic [ref=e787]:
+                - generic [ref=e788]: Additional Information
+                - textbox "Additional Information" [ref=e789]
+              - paragraph [ref=e792]: Add a cover letter or anything else you want to share.
+            - generic [ref=e793]:
+              - generic [ref=e795]:
+                - generic [ref=e796]: LinkedIn Profile
+                - textbox "LinkedIn Profile" [ref=e797]
+              - paragraph [ref=e800]:
+                - text: Please ensure to provide
+                - emphasis [ref=e801]: either
+                - text: your LinkedIn profile or Resume, we require at least one of the two.
+            - generic [ref=e804]:
+              - generic [ref=e805]: Are you open to relocation for this role? *
+              - generic [ref=e806]:
+                - log [ref=e808]
+                - generic [ref=e810]:
+                  - generic [ref=e811]:
+                    - generic [ref=e812]: Select...
+                    - combobox "Are you open to relocation for this role?" [ref=e814]
+                  - button "Toggle flyout" [ref=e816] [cursor=pointer]:
+                    - img [ref=e817]
+                - textbox
+            - generic [ref=e821]:
+              - generic [ref=e822]: What is the address from which you plan on working? If you would need to relocate, please type "relocating".
+              - textbox "What is the address from which you plan on working? If you would need to relocate, please type \"relocating\"." [ref=e823]
+            - generic [ref=e826]:
+              - generic [ref=e827]: Have you ever interviewed at Anthropic before?*
+              - generic [ref=e828]:
+                - log [ref=e830]
+                - generic [ref=e832]:
+                  - generic [ref=e833]:
+                    - generic [ref=e834]: Select...
+                    - combobox "Have you ever interviewed at Anthropic before?" [ref=e836]
+                  - button "Toggle flyout" [ref=e838] [cursor=pointer]:
+                    - img [ref=e839]
+                - textbox
+            - generic [ref=e841]:
+              - generic [ref=e843]:
+                - generic [ref=e844]: Team placement occurs after the interview process, and accounts for your interests and experience alongside organizational needs/role availability. This flexible approach allows us to match talented engineers with the efforts where they'll have the greatest impact and growth potential. We'll do our best to match your preferences - please indicate which teams you have most interest in learning more about below (this is optional!).
+                - generic [ref=e845]:
+                  - log [ref=e847]
+                  - generic [ref=e849]:
+                    - generic [ref=e850]:
+                      - generic [ref=e851]: Select...
+                      - combobox "Team placement occurs after the interview process, and accounts for your interests and experience alongside organizational needs/role availability. This flexible approach allows us to match talented engineers with the efforts where they'll have the greatest impact and growth potential. We'll do our best to match your preferences - please indicate which teams you have most interest in learning more about below (this is optional!)." [ref=e853]
+                    - button "Toggle flyout" [ref=e855] [cursor=pointer]:
+                      - img [ref=e856]
+              - paragraph [ref=e860]: "Choose up to three (3) teams:"
+          - generic [ref=e861]:
+            - separator [ref=e862]
+            - generic [ref=e863]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e864]
+              - paragraph [ref=e865]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e866]: As set forth in Anthropic’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e869]:
+              - generic [ref=e870]: Gender
+              - generic [ref=e871]:
+                - log [ref=e873]
+                - generic [ref=e875]:
+                  - generic [ref=e876]:
+                    - generic [ref=e877]: Select...
+                    - combobox "Gender" [ref=e879]
+                  - button "Toggle flyout" [ref=e881] [cursor=pointer]:
+                    - img [ref=e882]
+            - generic [ref=e884]:
+              - generic [ref=e886]:
+                - generic [ref=e887]: Are you Hispanic/Latino?
+                - generic [ref=e888]:
+                  - log [ref=e890]
+                  - generic [ref=e892]:
+                    - generic [ref=e893]:
+                      - generic [ref=e894]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e896]
+                    - button "Toggle flyout" [ref=e898] [cursor=pointer]:
+                      - img [ref=e899]
+              - link "Race & Ethnicity Definitions" [ref=e901] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e902]:
+              - paragraph [ref=e903]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e904]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e905]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e906]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e907]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e910]:
+              - generic [ref=e911]: Veteran Status
+              - generic [ref=e912]:
+                - log [ref=e914]
+                - generic [ref=e916]:
+                  - generic [ref=e917]:
+                    - generic [ref=e918]: Select...
+                    - combobox "Veteran Status" [ref=e920]
+                  - button "Toggle flyout" [ref=e922] [cursor=pointer]:
+                    - img [ref=e923]
+            - separator [ref=e925]
+            - generic [ref=e926]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e927]
+              - generic [ref=e928]:
+                - generic [ref=e929]:
+                  - generic [ref=e930]: Form CC-305
+                  - generic [ref=e931]: Page 1 of 1
+                - generic [ref=e932]:
+                  - generic [ref=e933]: OMB Control Number 1250-0005
+                  - generic [ref=e934]: Expires 04/30/2026
+              - strong [ref=e935]: Why are you being asked to complete this form?
+              - paragraph [ref=e936]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e937]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e938] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e939]: How do you know if you have a disability?
+              - paragraph [ref=e940]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e941]: "Disabilities include, but are not limited to:"
+              - list [ref=e942]:
+                - listitem [ref=e943]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e944]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e945]: Blind or low vision
+                - listitem [ref=e946]: Cancer (past or present)
+                - listitem [ref=e947]: Cardiovascular or heart disease
+                - listitem [ref=e948]: Celiac disease
+                - listitem [ref=e949]: Cerebral palsy
+                - listitem [ref=e950]: Deaf or serious difficulty hearing
+                - listitem [ref=e951]: Diabetes
+                - listitem [ref=e952]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e953]: Epilepsy or other seizure disorder
+                - listitem [ref=e954]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e955]: Intellectual or developmental disability
+                - listitem [ref=e956]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e957]: Missing limbs or partially missing limbs
+                - listitem [ref=e958]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e959]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e960]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e961]: Partial or complete paralysis (any cause)
+                - listitem [ref=e962]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e963]: Short stature (dwarfism)
+                - listitem [ref=e964]: Traumatic brain injury
+            - generic [ref=e967]:
+              - generic [ref=e968]: Disability Status
+              - generic [ref=e969]:
+                - log [ref=e971]
+                - generic [ref=e973]:
+                  - generic [ref=e974]:
+                    - generic [ref=e975]: Select...
+                    - combobox "Disability Status" [ref=e977]
+                  - button "Toggle flyout" [ref=e979] [cursor=pointer]:
+                    - img [ref=e980]
+            - paragraph [ref=e983]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e985] [cursor=pointer]
+  - contentinfo [ref=e986]:
+    - generic [ref=e987]:
+      - paragraph [ref=e988]: Powered by
+      - link "Greenhouse logo" [ref=e989] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e990]
+  - iframe [ref=e1004]:
+    - generic [ref=f1e6]:
+      - text: protected by
+      - strong [ref=f1e7]: reCAPTCHA

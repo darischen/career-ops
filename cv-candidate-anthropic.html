@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daris Chen — CV</title>
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  body {
+    font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 11px;
+    line-height: 1.5;
+    color: #1a1a2e;
+    background: #ffffff;
+    padding: 0.6in;
+    margin: 0;
+  }
+
+  .page {
+    width: 8.5in;
+    margin: 0 auto;
+  }
+
+  .header {
+    margin-bottom: 14px;
+  }
+
+  .header h1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1a1a2e;
+    margin-bottom: 3px;
+  }
+
+  .header-line {
+    height: 2px;
+    background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%));
+    margin-bottom: 6px;
+  }
+
+  .contact {
+    font-size: 10px;
+    color: #555;
+    margin-bottom: 4px;
+  }
+
+  .section {
+    margin-bottom: 12px;
+  }
+
+  .section-header {
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: hsl(187, 74%, 32%);
+    margin-bottom: 6px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 3px;
+  }
+
+  .competencies {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 10px;
+  }
+
+  .tag {
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 4px 8px;
+    font-size: 10px;
+    color: hsl(270, 70%, 45%);
+    font-weight: 600;
+  }
+
+  .job {
+    margin-bottom: 10px;
+  }
+
+  .job-header {
+    margin-bottom: 2px;
+  }
+
+  .job-title {
+    font-weight: 700;
+    color: hsl(270, 70%, 45%);
+    font-size: 11px;
+  }
+
+  .job-company {
+    font-weight: 600;
+  }
+
+  .job-meta {
+    font-size: 10px;
+    color: #666;
+    margin-bottom: 3px;
+  }
+
+  .job-bullets {
+    margin-left: 12px;
+    font-size: 10px;
+  }
+
+  .job-bullets li {
+    margin-bottom: 2px;
+    line-height: 1.4;
+  }
+
+  .project {
+    margin-bottom: 8px;
+  }
+
+  .project-title {
+    font-weight: 700;
+    color: hsl(270, 70%, 45%);
+    font-size: 11px;
+  }
+
+  .project-tech {
+    font-size: 10px;
+    color: #666;
+    margin-bottom: 2px;
+  }
+
+  .skills-group {
+    display: flex;
+    margin-bottom: 4px;
+    font-size: 10px;
+  }
+
+  .skills-label {
+    font-weight: 700;
+    width: 90px;
+    color: #1a1a2e;
+  }
+
+  .skills-content {
+    color: #555;
+    flex-grow: 1;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+<!-- HEADER -->
+<div class="header">
+  <h1>Daris Chen</h1>
+  <div class="header-line"></div>
+  <div class="contact">daris.chen@gmail.com | linkedin.com/in/darischen | darischen.com | (562) 386-3975</div>
+</div>
+
+<!-- PROFESSIONAL SUMMARY -->
+<div class="section">
+  <div class="section-header">Professional Summary</div>
+  <p style="font-size: 10px; line-height: 1.5;">Backend systems engineer building AI infrastructure at scale. Shipped production systems combining FastAPI backends, semantic search infrastructure (PostgreSQL pgvector), and caching strategies. PatentIQ: architected semantic patent search MVP serving 12k+ patents with sub-2s latency; led 14-person team through 4-month accelerator. Groundwork Books: engineered two-tier caching reducing API latency 90% while serving 4,000+ SKUs real-time. Full-stack ownership from architecture through deployment. Proven ability to make technical trade-off decisions, lead cross-functional teams, and ship under deadline.</p>
+</div>
+
+<!-- CORE COMPETENCIES -->
+<div class="section">
+  <div class="section-header">Core Competencies</div>
+  <div class="competencies">
+    <span class="tag">Python / FastAPI</span>
+    <span class="tag">PostgreSQL / pgvector</span>
+    <span class="tag">Backend Systems</span>
+    <span class="tag">API Design</span>
+    <span class="tag">Caching Strategies</span>
+    <span class="tag">Performance Optimization</span>
+    <span class="tag">Cloud Infrastructure</span>
+    <span class="tag">Semantic Search</span>
+    <span class="tag">Production Scaling</span>
+    <span class="tag">LLM Integration</span>
+  </div>
+</div>
+
+<!-- WORK EXPERIENCE -->
+<div class="section">
+  <div class="section-header">Work Experience</div>
+
+  <!-- PatentIQ -->
+  <div class="job">
+    <div class="job-header">
+      <span class="job-title">Lead Full-Stack Engineer</span> — <span class="job-company">PatentIQ</span>
+    </div>
+    <div class="job-meta">Product Manager Accelerator | Jan 2026 — Apr 2026 | Remote</div>
+    <ul class="job-bullets">
+      <li>Architected semantic patent search MVP backend: PostgreSQL pgvector for vector storage, hybrid ranking (70% semantic, 30% keyword), recursive SQL query builder with Zod validation.</li>
+      <li>Implemented FastAPI backend serving 12k+ USPTO patents with sub-2s latency. LRU caching, request rate-limiting via Redis, structured logging and Sentry error tracking.</li>
+      <li>Led technical decisions: advocated for PostgreSQL pgvector over Pinecone/Weaviate. Presented cost analysis and schema flexibility arguments. Got buy-in from PMs and engineers within days.</li>
+      <li>Coordinated 14-person cross-functional team through 4-month accelerator. Tracked dependencies, assigned scope to skill, served as primary technical contributor.</li>
+      <li>Integrated LLM pipeline: Claude API for structured recommendations, Auth0 authentication, Supabase persistence, Vercel and EC2 deployment.</li>
+    </ul>
+  </div>
+
+  <!-- Groundwork Books -->
+  <div class="job">
+    <div class="job-header">
+      <span class="job-title">Lead Full-Stack Engineer</span> — <span class="job-company">Groundwork Books</span>
+    </div>
+    <div class="job-meta">San Diego, CA | Aug 2025 — Mar 2026</div>
+    <ul class="job-bullets">
+      <li>Architected e-commerce platform migration to Next.js with real-time Square POS API inventory sync across 4,000+ SKUs without manual updates.</li>
+      <li>Engineered two-tier caching reducing Square API latency 90% (sub-200ms p99). Upstash Redis look-aside cache for SKU hits, client-side request coalescing batching 50+ concurrent queries with 2-minute TTL.</li>
+      <li>Implemented semantic search layer using Pinecone for topic and concept-based book discovery, replacing keyword-only matching.</li>
+      <li>Designed optimized database schema for inventory. Profiled and improved query performance to handle peak traffic without API quota overages.</li>
+    </ul>
+  </div>
+
+  <!-- FishSense -->
+  <div class="job">
+    <div class="job-header">
+      <span class="job-title">AI Researcher</span> — <span class="job-company">FishSense, UCSD E4E</span>
+    </div>
+    <div class="job-meta">San Diego, CA | Feb 2025 — Mar 2026</div>
+    <ul class="job-bullets">
+      <li>Engineered custom R-CNN training pipeline (ResNet-50) for underwater laser-profiling using Detectron2. Reduced inference setup time by 40% for new researchers.</li>
+      <li>Developed dual-laser photogrammetry algorithm extracting biological metrics (fish length/mass) from 2D video feeds with sub-5% error rates.</li>
+    </ul>
+  </div>
+
+</div>
+
+<!-- PROJECTS -->
+<div class="section">
+  <div class="section-header">Projects</div>
+
+  <div class="project">
+    <div class="project-title">Personal Portfolio Site</div>
+    <div class="project-tech">React, TypeScript, Node.js, Tailwind CSS, Vercel</div>
+    <p style="font-size: 10px; line-height: 1.4;">Custom static site generator transforming Markdown/LaTeX into optimized HTML at build time. Lighthouse 100/100 performance. Dynamic open-graph generation. Edge-cached asset delivery reducing FCP under 0.8s globally. Multi-resume support.</p>
+  </div>
+
+  <div class="project">
+    <div class="project-title">Mini-Stockfish Chess Engine</div>
+    <div class="project-tech">Python, PyTorch, CUDA, Cython, C++</div>
+    <p style="font-size: 10px; line-height: 1.4;">Hybrid chess engine combining HalfKP NNUE with advanced alpha-beta search. Optimized critical path using Cython and C++ move generation, reducing latency 77.2% (1.1ms to 0.25ms). Trained on 316M positions.</p>
+  </div>
+
+</div>
+
+<!-- EDUCATION -->
+<div class="section">
+  <div class="section-header">Education</div>
+  <p style="font-size: 10px;">
+    <strong>University of California San Diego</strong><br>
+    Bachelor of Science in Computer Engineering | Graduated March 2026
+  </p>
+</div>
+
+<!-- TECHNICAL SKILLS -->
+<div class="section">
+  <div class="section-header">Technical Skills</div>
+
+  <div class="skills-group">
+    <div class="skills-label"><strong>Backend</strong></div>
+    <div class="skills-content">Python, JavaScript/Node.js, FastAPI, Express.js, Go, Java, C/C++</div>
+  </div>
+
+  <div class="skills-group">
+    <div class="skills-label"><strong>Databases</strong></div>
+    <div class="skills-content">PostgreSQL, MongoDB, Prisma, SQLAlchemy, pgvector, Upstash Redis, Firebase</div>
+  </div>
+
+  <div class="skills-group">
+    <div class="skills-label"><strong>Cloud/DevOps</strong></div>
+    <div class="skills-content">Docker, Kubernetes, Vercel, AWS (EC2, S3), GCP, GitHub Actions, CI/CD</div>
+  </div>
+
+  <div class="skills-group">
+    <div class="skills-label"><strong>AI/ML</strong></div>
+    <div class="skills-content">PyTorch, TensorFlow, CUDA, ROCm, Transformers, Detectron2, semantic embeddings, LLM APIs</div>
+  </div>
+
+  <div class="skills-group">
+    <div class="skills-label"><strong>Tools</strong></div>
+    <div class="skills-content">Git, GitHub, VS Code, Linux, Jira, Wandb, Jupyter</div>
+  </div>
+
+</div>
+
+</div>
+</body>
+</html>

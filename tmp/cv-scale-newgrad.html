@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daris Chen — CV</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('file:///C:/Users/daris/Desktop/Job/career-ops/templates/fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('file:///C:/Users/daris/Desktop/Job/career-ops/templates/fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    line-height: 1.5;
+    color: #1a1a2e;
+    background: #ffffff;
+  }
+
+  .page {
+    width: 8.5in;
+    margin: 0 auto;
+    padding: 0.6in;
+    background: white;
+  }
+
+  .header {
+    margin-bottom: 14px;
+  }
+
+  .header h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #1a1a2e;
+    margin-bottom: 4px;
+  }
+
+  .header-gradient {
+    height: 2px;
+    background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%));
+    margin-bottom: 8px;
+  }
+
+  .contact-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 14px;
+    font-size: 10px;
+    color: #555;
+  }
+
+  .contact-row a {
+    color: #555;
+    text-decoration: none;
+  }
+
+  .section {
+    margin-bottom: 12px;
+  }
+
+  .section-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: hsl(187, 74%, 32%);
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 3px;
+    margin-bottom: 7px;
+  }
+
+  .summary-text {
+    font-size: 11px;
+    line-height: 1.6;
+    color: #333;
+  }
+
+  .competencies-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+
+  .competency-tag {
+    font-size: 10px;
+    font-weight: 500;
+    color: hsl(187, 74%, 28%);
+    background: hsl(187, 40%, 95%);
+    padding: 3px 9px;
+    border-radius: 3px;
+    border: 1px solid hsl(187, 40%, 88%);
+  }
+
+  .job {
+    margin-bottom: 10px;
+  }
+
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2px;
+  }
+
+  .job-company {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+
+  .job-period {
+    font-size: 10px;
+    color: #777;
+  }
+
+  .job-role {
+    font-size: 10px;
+    font-weight: 500;
+    color: #444;
+  }
+
+  .job ul {
+    padding-left: 16px;
+    margin-top: 3px;
+  }
+
+  .job li {
+    font-size: 10px;
+    line-height: 1.45;
+    color: #333;
+    margin-bottom: 2px;
+  }
+
+  .project {
+    margin-bottom: 8px;
+  }
+
+  .project-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+
+  .project-badge {
+    font-size: 8px;
+    color: hsl(187, 74%, 32%);
+    background: hsl(187, 40%, 95%);
+    padding: 1px 5px;
+    border-radius: 2px;
+    margin-left: 5px;
+  }
+
+  .project-desc {
+    font-size: 10px;
+    color: #444;
+    margin-top: 1px;
+  }
+
+  .edu-item {
+    margin-bottom: 6px;
+  }
+
+  .edu-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1px;
+  }
+
+  .edu-title {
+    font-weight: 600;
+    font-size: 11px;
+    color: #333;
+  }
+
+  .edu-org {
+    color: hsl(270, 70%, 45%);
+    font-weight: 500;
+    font-size: 11px;
+  }
+
+  .edu-year {
+    font-size: 10px;
+    color: #777;
+  }
+
+  .skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+  }
+
+  .skills-col {
+    flex: 1;
+    min-width: 200px;
+  }
+
+  .skills-col strong {
+    font-size: 11px;
+    font-weight: 600;
+    color: #333;
+    display: block;
+    margin-bottom: 3px;
+  }
+
+  .skills-col p {
+    font-size: 10px;
+    color: #555;
+    line-height: 1.4;
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header">
+    <h1>Daris Chen</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>(562) 386-3975</span>
+      <span>daris.chen@gmail.com</span>
+      <span><a href="https://linkedin.com/in/darischen">linkedin.com/in/darischen</a></span>
+      <span><a href="https://github.com/darischen">github.com/darischen</a></span>
+      <span><a href="https://darischen.com">darischen.com</a></span>
+    </div>
+  </div>
+
+  <!-- PROFESSIONAL SUMMARY -->
+  <div class="section">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">
+      Recent computer engineering graduate with proven track record of shipping full-stack products at scale. Led 14-engineer team to deliver AI patent search MVP in 4-month accelerator. Built semantic search and real-time systems handling thousands of concurrent users and millions of data points. Expertise in end-to-end product engineering. Figure out what users need, build it, iterate fast. Ready to ship.
+    </div>
+  </div>
+
+  <!-- CORE COMPETENCIES -->
+  <div class="section">
+    <div class="section-title">Core Competencies</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">Full-Stack Engineering</span>
+      <span class="competency-tag">Product Shipping</span>
+      <span class="competency-tag">React</span>
+      <span class="competency-tag">TypeScript</span>
+      <span class="competency-tag">Python</span>
+      <span class="competency-tag">Node.js</span>
+      <span class="competency-tag">Semantic Search</span>
+      <span class="competency-tag">LLM Integration</span>
+      <span class="competency-tag">Real-time Systems</span>
+      <span class="competency-tag">Performance Optimization</span>
+      <span class="competency-tag">Databases</span>
+      <span class="competency-tag">API Design</span>
+    </div>
+  </div>
+
+  <!-- WORK EXPERIENCE -->
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">PatentIQ</span>
+        <span class="job-period">Jan 2026 – Apr 2026</span>
+      </div>
+      <div class="job-role">Lead Full-Stack Engineer</div>
+      <div class="job-location">Product Manager Accelerator, Remote</div>
+      <ul>
+        <li>Architected and shipped AI-powered patent search MVP serving real customers. Led 14-person cross-functional team through 4-month product accelerator.</li>
+        <li>Built full-stack system from requirements to production. Next.js frontend with TypeScript and Tailwind. FastAPI backend with semantic search pipelines. Supabase database with PostgreSQL and pgvector. Auth0 authentication. Vercel and EC2 hosting.</li>
+        <li>Engineered semantic search engine combining OpenAI embeddings with pgvector for high-dimensional similarity ranking across USPTO patent datasets. Implemented LRU cache and recursive SQL query builder reducing database latency.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Groundwork Books</span>
+        <span class="job-period">Aug 2025 – Mar 2026</span>
+      </div>
+      <div class="job-role">Lead Full-Stack Engineer</div>
+      <div class="job-location">San Diego, CA</div>
+      <ul>
+        <li>Led architectural migration of production e-commerce to Next.js and real-time inventory synchronization using Square API integration.</li>
+        <li>Engineered two-tier caching architecture. Redis look-aside cache reducing Square API latency by 90% to sub-200ms p99. Client-side request coalescing batching 50+ concurrent inventory lookups with 2-minute TTL cache.</li>
+        <li>Proposed and shipped semantic search feature using embeddings. Validated with search data. Increased product discoverability across 4,000+ SKU catalog.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">PersonifyApp.ai</span>
+        <span class="job-period">Jan 2025 – Sep 2025</span>
+      </div>
+      <div class="job-role">Software Engineering Intern</div>
+      <div class="job-location">Remote</div>
+      <ul>
+        <li>Shipped feature redesign for leaderboard UI using Next.js, Tailwind CSS, and Firebase. Increased user traffic by 15%.</li>
+        <li>Built admin controls for approvals, rejections, and closures. Implemented vote-based ranking and category sorting reducing resolution time by 50%.</li>
+        <li>Engineered data ingestion pipeline with deduplication and NLP-based feature extraction for recommendation engine.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section">
+    <div class="section-title">Projects</div>
+
+    <div class="project">
+      <div>
+        <span class="project-title">FlipperZillow AI House Tours</span>
+        <span class="project-badge">GPU, PyTorch, Next.js</span>
+      </div>
+      <div class="project-desc">Built AI-powered property visualization platform integrating DepthAnythingV2, DFormerV2, and SAM3D for 3D reconstruction from 2D images. Deployed GPU inference pipeline on AMD ROCm and CUDA. Piped spatial analysis to Claude Sonnet for AI narration and ElevenLabs audio synthesis. Shipped working 3D experience with Google Maps and WebSpatial for Vision Pro compatibility in 24-hour hackathon.</div>
+    </div>
+
+    <div class="project">
+      <div>
+        <span class="project-title">Mini-Stockfish Chess Engine</span>
+        <span class="project-badge">C++, PyTorch</span>
+      </div>
+      <div class="project-desc">Architected hybrid chess engine combining HalfKP NNUE neural network with advanced alpha-beta search. Optimized critical path using Cython and C++ legal move generation with Zobrist hashing, reducing leaf node evaluation latency by 77.2% (from 1.1ms to 0.25ms). Competitive play strength on single-threaded commodity hardware.</div>
+    </div>
+
+    <div class="project">
+      <div>
+        <span class="project-title">FishSense R-CNN Training Pipeline</span>
+        <span class="project-badge">PyTorch, Detectron2</span>
+      </div>
+      <div class="project-desc">Engineered custom R-CNN training pipeline with ResNet-50 backbone for underwater laser-profiling. Standardized Detectron2 codebase reducing inference setup time by 40% for new researchers. Developed photogrammetry algorithm extracting biological metrics from 2D video with sub-5% error rates.</div>
+    </div>
+
+    <div class="project">
+      <div>
+        <span class="project-title">Personal Portfolio Site</span>
+        <span class="project-badge">React, TypeScript, Node.js</span>
+      </div>
+      <div class="project-desc">Developed custom SSG pipeline transforming raw Markdown into statically optimized HTML at build time. Achieved perfect Lighthouse performance scores (100/100). Implemented dynamic open-graph image generation and edge-cached asset delivery, reducing global First Contentful Paint to under 0.8s.</div>
+    </div>
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="section">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <span><span class="edu-title">Bachelor of Science</span> in <span class="edu-org">Computer Engineering</span></span>
+        <span class="edu-year">Graduated Mar 2026</span>
+      </div>
+      <div style="font-size: 10px; color: #666;">University of California San Diego (UCSD)</div>
+    </div>
+  </div>
+
+  <!-- SKILLS -->
+  <div class="section">
+    <div class="section-title">Technical Skills</div>
+    <div class="skills-grid">
+      <div class="skills-col">
+        <strong>Languages</strong>
+        <p>Python, JavaScript/TypeScript, C/C++, SQL, Java, Go, SystemVerilog, ARM Assembly</p>
+      </div>
+      <div class="skills-col">
+        <strong>Frontend & Web</strong>
+        <p>React 19, Next.js 16, TypeScript, Tailwind CSS, HTML/CSS, Vercel, Responsive Design</p>
+      </div>
+      <div class="skills-col">
+        <strong>Backend & Databases</strong>
+        <p>Node.js, Express.js, FastAPI, PostgreSQL, MongoDB, Supabase, Firebase, Redis</p>
+      </div>
+      <div class="skills-col">
+        <strong>ML & Data</strong>
+        <p>PyTorch, TensorFlow, CUDA, ROCm, Transformers, Detectron2, NumPy, pandas, semantic search, LLM integration</p>
+      </div>
+      <div class="skills-col">
+        <strong>Tools & DevOps</strong>
+        <p>Git, GitHub Actions, Docker, Linux, Jira, ClickUp, VS Code, Figma</p>
+      </div>
+      <div class="skills-col">
+        <strong>Cloud & APIs</strong>
+        <p>Vercel, AWS, GCP, Auth0, OpenAI API, Claude API, Square API, Google Places, Leaflet Maps</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>

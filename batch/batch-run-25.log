@@ -1,0 +1,151 @@
+=== career-ops batch runner ===
+Parallel: 5 | Max retries: 2
+Input: 25 offers
+
+Pending: 25 offers
+
+--- Processing offer #1: https://job-boards.greenhouse.io/anthropic/jobs/5174757008 (report 106, attempt 1)
+--- Processing offer #5: https://job-boards.greenhouse.io/figureai/jobs/4370025006 (report 107, attempt 1)
+--- Processing offer #4: https://job-boards.greenhouse.io/dbtlabsinc/jobs/4667647005 (report 108, attempt 1)
+--- Processing offer #2: https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5018110008 (report 109, attempt 1)
+--- Processing offer #3: https://job-boards.greenhouse.io/8451university/jobs/8086852002 (report 110, attempt 1)
+    ✅ Completed (score: -, report: 107)
+--- Processing offer #6: https://jobs.ashbyhq.com/decagon/95a4707d-1def-481a-bb78-38a4b22b6891 (report 111, attempt 1)
+    ✅ Completed (score: -, report: 110)
+--- Processing offer #7: https://jobs.ashbyhq.com/harvey/163860df-ae88-437d-81da-305efa554dff (report 112, attempt 1)
+    ✅ Completed (score: -, report: 111)
+--- Processing offer #8: https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743 (report 113, attempt 1)
+    ✅ Completed (score: -, report: 113)
+    ✅ Completed (score: -, report: 112)
+--- Processing offer #9: https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d (report 114, attempt 1)
+--- Processing offer #10: https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4 (report 115, attempt 1)
+    ✅ Completed (score: 3.8, report: 108)
+--- Processing offer #11: https://jobs.lever.co/mistral/cf4616fc-977a-475c-bb2e-eb46a2c4a94f (report 116, attempt 1)
+    ✅ Completed (score: -, report: 109)
+--- Processing offer #12: https://jobs.lever.co/whoop/3b94218d-3a5a-4dd1-91c7-5f18655c93a8 (report 117, attempt 1)
+    ✅ Completed (score: -, report: 116)
+--- Processing offer #13: https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839 (report 118, attempt 1)
+    ✅ Completed (score: 4.0, report: 106)
+--- Processing offer #14: https://jobs.ashbyhq.com/fastino-ai/478213e2-8cf8-4b68-9be3-9b0523119702 (report 119, attempt 1)
+    ✅ Completed (score: -, report: 117)
+--- Processing offer #15: https://jobs.ashbyhq.com/mercor/547dead0-d223-4023-8357-206714d94d12 (report 120, attempt 1)
+    ✅ Completed (score: 4.2, report: 115)
+--- Processing offer #16: https://jobs.ashbyhq.com/artemis/0234c387-d472-440a-bb1f-bdb5a4d74926 (report 121, attempt 1)
+    ✅ Completed (score: -, report: 119)
+--- Processing offer #17: https://jobs.ashbyhq.com/Perplexity/3c656963-876a-458d-bca6-916a42a24c1a (report 122, attempt 1)
+    ✅ Completed (score: -, report: 118)
+--- Processing offer #18: https://job-boards.greenhouse.io/loop/jobs/5780582004 (report 123, attempt 1)
+    ✅ Completed (score: 4.3, report: 114)
+--- Processing offer #19: https://job-boards.greenhouse.io/loop/jobs/5780584004 (report 124, attempt 1)
+    ✅ Completed (score: -, report: 120)
+--- Processing offer #20: https://job-boards.greenhouse.io/airtable/jobs/8409376002 (report 125, attempt 1)
+    ✅ Completed (score: 3.5, report: 122)
+--- Processing offer #21: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/6852163003 (report 126, attempt 1)
+    ✅ Completed (score: 4.3, report: 123)
+--- Processing offer #22: https://job-boards.greenhouse.io/underdogfantasy/jobs/4647374005 (report 127, attempt 1)
+    ✅ Completed (score: 4.1, report: 121)
+--- Processing offer #23: https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003 (report 128, attempt 1)
+    ✅ Completed (score: -, report: 126)
+--- Processing offer #24: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7631560003 (report 129, attempt 1)
+    ✅ Completed (score: 4.6, report: 124)
+--- Processing offer #25: https://job-boards.greenhouse.io/scaleai/jobs/4605996005 (report 130, attempt 1)
+    ✅ Completed (score: 3.4, report: 129)
+    ✅ Completed (score: 4.6, report: 125)
+    ✅ Completed (score: 3.8, report: 127)
+    ✅ Completed (score: 3.8, report: 128)
+    ✅ Completed (score: 4.3, report: 130)
+
+=== Merging tracker additions ===
+📊 Existing: 64 entries, max #87
+📥 Found 24 pending additions
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+🔄 Update: #44 Renaissance Learning — Software Engineer I (4.3→4.5)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+➕ Add #88: dbt Labs — Software Engineer, Fusion (3.8/5)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+🔄 Update: #42 WeRide.ai — New Grads 2026 - General Software Engineer (4→4.3)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+🔄 Update: #42 Palantir — Software Engineer, New Grad - Infrastructure (4→4.2)
+⏭️  Skip: Brain Co — Early Career AI/ML Engineer (existing #44 4.3 >= new 4.2)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+⏭️  Skip: Mercor — Machine Learning Engineer, Anonymization (existing #44 4.3 >= new 3.9)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+⏭️  Skip: Artemis — AI/ML Engineer (existing #44 4.3 >= new 4.1)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+➕ Add #89: Loop — Full-Stack Engineer (New Grad) (4.3/5)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+🔄 Update: #44 Loop — 2026 New Grad Software Engineer, AI (4.3→4.6)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+🔄 Update: #44 Airtable — Software Engineer, New Grad (2026) (4.3→4.6)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+⏭️  Skip: Underdog — Associate Software Engineer, 2026 New Grad (existing #44 4.3 >= new 3.8)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+➕ Add #129: Freeform — Electrical Engineer (New Grad) (3.4/5)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+⏭️  Skip: Anthropic — Software Engineer, Backend (existing #44 4.3 >= new 4)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+➕ Add #130: EvenUp — Software Engineer (New Grad), Cases Product (4.0/5)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+➕ Add #131: Scale AI — Software Engineer - New Grad (4.6/5)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+➕ Add #132: Electronic Arts — Full-Stack Software Engineer I (3.8/5)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+➕ Add #133: EvenUp — Software Engineer (New Grad), New Products (4.2/5)
+➕ Add #134: Collins Aerospace — Software Engineer I (Onsite) (2.5/5)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+➕ Add #135: The Trade Desk — Software Engineer I (4.3/5)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+➕ Add #136: Nordstrom — Engineer 1, Product Group Technology Team (3.9/5)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+➕ Add #137: Affirm — Software Engineer I, Full-Stack (4.1/5)
+➕ Add #138: Perplexity — AI Engineer, Applied ML (3.5/5)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+⏭️  Skip: Sigma Computing — Software Engineer (New Grad Program) (existing #44 4.3 >= new 3.8)
+⚠️  Non-canonical status "Evaluated" → defaulting to "Evaluada"
+➕ Add #139: Scale AI — Software Engineer - New Grad (4.3/5)
+
+✅ Moved 24 TSVs to merged/
+
+📊 Summary: +13 added, 🔄2 updated, ⏭️6 skipped
+
+=== Verifying pipeline integrity ===
+
+📊 Checking 77 entries in applications.md
+
+✅ All statuses are canonical
+⚠️  Possible duplicates: #131, #139 (Scale AI — Software Engineer - New Grad)
+⚠️  Possible duplicates: #45, #27 (Vercel — Software Engineer, Agent)
+⚠️  Possible duplicates: #41, #43 (N1 — New Grad Software Engineer, Full Stack)
+❌ #1: Report not found: reports/001-seesaw-2026-04-08.md
+❌ #2: Report not found: reports/002-corestory-2026-04-08.md
+❌ #3: Report not found: reports/003-dashlane-2026-04-08.md
+❌ #4: Report not found: reports/004-tenable-2026-04-08.md
+❌ #5: Report not found: reports/005-ramp-2026-04-08.md
+❌ #6: Report not found: reports/006-perplexity-agents-2026-04-08.md
+❌ #7: Report not found: reports/007-mechanize-2026-04-08.md
+❌ #8: Report not found: reports/008-perplexity-ios-2026-04-08.md
+❌ #9: Report not found: reports/009-cobot-2026-04-08.md
+❌ #10: Report not found: reports/010-exa-2026-04-08.md
+❌ #11: Report not found: reports/011-replit-2026-04-08.md
+❌ #12: Report not found: reports/012-zip-2026-04-08.md
+❌ #13: Report not found: reports/013-suno-2026-04-08.md
+❌ #14: Report not found: reports/014-whatnot-2026-04-08.md
+❌ #16: Report not found: reports/016-netic-2026-04-08.md
+❌ #17: Report not found: reports/017-titan-2026-04-08.md
+❌ #18: Report not found: reports/018-sentry-2026-04-08.md
+❌ #19: Report not found: reports/019-replo-2026-04-08.md
+❌ #40: Report not found: reports/015-8vc-2026-04-08.md
+❌ #41: Report not found: reports/020-n1-2026-04-08.md
+✅ All scores valid
+✅ All rows properly formatted
+✅ No pending TSVs
+✅ No bold in scores
+
+==================================================
+📊 Pipeline Health: 20 errors, 3 warnings
+🔴 Pipeline has errors — fix before proceeding
+⚠️  Verification found issues (see above)
+
+=== Batch Summary ===
+Total: 25 | Completed: 25 | Failed: 0 | Pending: 0
+Average score: N/A/5 (13 scored)
