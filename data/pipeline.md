@@ -273,7 +273,7 @@ Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` 
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4651491005 | Scale AI | AI Product Manager, Insights
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4472223005 | Scale AI | AI Strategy Consultant, Frontier Tech
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4536659005 | Scale AI | Applied AI Engineer, Enterprise
-- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4514173005 | Scale AI | Applied AI Engineer, Enterprise GenAI
+- [x] #192 | https://job-boards.greenhouse.io/scaleai/jobs/4514173005 | Scale AI | Applied AI Engineer, Enterprise GenAI | 4.4/5 | ✅
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4413992005 | Scale AI | Applied AI Engineer, Global Public Sector
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4613839005 | Scale AI | DevOps Engineer, GPS
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4674863005 | Scale AI | DevOps Engineer, Infrastructure & Security
@@ -323,7 +323,7 @@ Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` 
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4536653005 | Scale AI | Software Engineer, Enterprise
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4513943005 | Scale AI | Software Engineer, Enterprise AI
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4363623005 | Scale AI | Software Engineer, Frontier AI Infrastructure
-- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4591300005 | Scale AI | Software Engineer, Gen AI
+- [x] #186 | https://job-boards.greenhouse.io/scaleai/jobs/4591300005 | Scale AI | Software Engineer, Gen AI | 3.2/5 | ✅
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4302243005 | Scale AI | Software Engineer, Public Sector
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4655050005 | Scale AI | Software Engineer, Robotics
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4612282005 | Scale AI | Software Engineer, Robotics
@@ -374,7 +374,7 @@ Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` 
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8397618002 | Airtable | Software Engineer, Product Backend (8+ YOE)
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/7892134002 | Airtable | Solutions Consultant-Northeast
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8378476002 | Airtable | Solutions Consultant | Southern
-- [ ] https://job-boards.greenhouse.io/loop/jobs/5819779004 | Loop | AI Operations Associate
+- [x] #191 | https://job-boards.greenhouse.io/loop/jobs/5819779004 | Loop | AI Operations Associate | 3.1/5 | ✅
 - [ ] https://job-boards.greenhouse.io/loop/jobs/4102236004 | Loop | Software Engineer, Full-Stack
 - [ ] https://job-boards.greenhouse.io/loop/jobs/4830548004 | Loop | Software Engineer, Full-Stack
 - [ ] https://job-boards.greenhouse.io/loop/jobs/5840037004 | Loop | Supply Chain Engineer
@@ -586,7 +586,7 @@ Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` 
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4590702006 | Figure | Data Quality Analyst
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4666836006 | Figure | Data Quality Manager
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4664781006 | Figure | Data Strategy Associate
-- [ ] https://job-boards.greenhouse.io/figureai/jobs/4313470006 | Figure | Electrical Engineer (All Levels)
+- [x] #193 | https://job-boards.greenhouse.io/figureai/jobs/4313470006 | Figure | Electrical Engineer (All Levels) | 3.4/5 | ✅
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4615918006 | Figure | Electrical Systems Integration Engineer – Head Subsystem
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4612710006 | Figure | Electrical Systems Integration Engineer – Power Systems
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4613429006 | Figure | Electrical Test Engineer – Test Infrastructure
@@ -594,11 +594,11 @@ Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` 
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4589430006 | Figure | Embedded Systems Integration Engineer
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4657497006 | Figure | Engineering Test Technician
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4563653006 | Figure | Failure Analysis Engineer (All Levels)
-- [ ] https://job-boards.greenhouse.io/figureai/jobs/4612732006 | Figure | Full-Stack Engineer - Systems Integration
+- [x] #187 | https://job-boards.greenhouse.io/figureai/jobs/4612732006 | Figure | Full-Stack Engineer - Systems Integration | 4.3/5 | ✅
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4666292006 | Figure | Hardware Technician (TeleOperations)
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4659175006 | Figure | Helix AI Engineer, Agentic Systems
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4345915006 | Figure | Helix AI Engineer, Data Infrastructure 
-- [ ] https://job-boards.greenhouse.io/figureai/jobs/4671699006 | Figure | Helix AI Engineer, Generative AI
+- [x] #188 | https://job-boards.greenhouse.io/figureai/jobs/4671699006 | Figure | Helix AI Engineer, Generative AI | 4.8/5 | ✅
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4671712006 | Figure | Helix AI Engineer, Modeling
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4671704006 | Figure | Helix AI Engineer, Pretraining
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4671707006 | Figure | Helix AI Engineer, Reinforcement Learning
