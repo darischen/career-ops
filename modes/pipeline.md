@@ -52,18 +52,6 @@ Processes job offer URLs accumulated in `data/pipeline.md`. You add URLs wheneve
 2. Extract prefix number (e.g., `142-medispend...` → 142)
 3. New number = max found + 1
 
-## PDF Generation (CRITICAL)
-
-For each offer, after evaluation:
-1. Read `modes/pdf.md` — follow the complete PDF generation pipeline
-2. Extract JD keywords, rewrite Professional Summary, build competency grid
-3. Generate HTML from template
-4. **Execute**: `node generate-pdf.mjs /tmp/cv-candidate-{company}.html output/cv-candidate-{company}-{YYYY-MM-DD}.pdf --format={letter|a4}`
-5. Verify file exists in `output/`
-6. Update tracker with ✅ if successful, ❌ if failed
-
-**DO NOT skip PDF generation.** Every offer must have a tailored PDF, even scores below 3.0.
-
 ## Sync verification
 
 Before processing any URL, verify sync:
