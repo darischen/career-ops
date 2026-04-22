@@ -11,9 +11,8 @@ Processes job offer URLs accumulated in `data/pipeline.md`. You add URLs wheneve
    c. If URL is inaccessible → mark as `- [!]` with note and continue
    d. **Run full auto-pipeline** (MANDATORY all steps):
       - i. A-F evaluation (read `modes/_shared.md` for scoring framework)
-      - ii. Save report .md to `reports/{REPORT_NUM}-{company-slug}-{DATE}.md`
-      - iii. **Generate PDF** (ALWAYS, even for scores < 3.0): Read `modes/pdf.md` and execute complete PDF pipeline. Output to `output/cv-candidate-{company-slug}-{DATE}.pdf`. Mark ✅ if successful, ❌ if failed.
-      - iv. Register in tracker (TSV format to `batch/tracker-additions/`)
+      - ii. Save report .md (ALWAYS, even for scores < 3.0) to `reports/{REPORT_NUM}-{company-slug}-{DATE}.md`
+      - iii. Register in tracker (TSV format to `batch/tracker-additions/`)
    e. **Move from "Pending" to "Processed"**: `- [x] #NNN | URL | Company | Role | Score/5 | PDF ✅/❌`
 3. **If 3+ pending URLs**, launch agents in parallel (Agent tool with `run_in_background`) to maximize speed
 4. **When done**, show summary table:
