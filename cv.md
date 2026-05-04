@@ -13,7 +13,7 @@ San Diego, CA | Graduated: March 2026
 ## Work Experience
 
 **Lead Full-Stack Engineer — PatentIQ**  
-Product Manager Accelerator | Jan 2026 – Apr 2026 | Remote
+Product Manager Accelerator | Jan 2026 – Present | Remote
 
 - Orchestrated Agile development workflows via ClickUp for a 14-member cross-functional team while serving as lead architect and primary contributor to deliver the foundational PatentIQ AI technical MVP.
 - Constructed an AI-powered patent search and drafting assistant hosted on Vercel, EC2, and Supabase using Next.js, Auth0, and FastAPI to simplify intellectual property research for early-stage founders.
