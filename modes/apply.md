@@ -1,6 +1,6 @@
 # Mode: apply — Live Application Assistant
 
-Interactive mode for when you're filling out a job application form in Chrome. Reads what's on screen, loads previous offer context, and generates personalized answers for each form question.
+Interactive mode for when you're filling out a job application form in Chrome. Reads what's on screen, loads previous offer context, and generates personalized answers for each form question. DO NOT USE A SUBAGENT FOR THIS MODE. This is a direct interaction mode that requires your input and review at every step.
 
 ## Requirements
 
