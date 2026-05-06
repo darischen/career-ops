@@ -260,6 +260,7 @@ The apply command is resilient. Browser failures don't kill the whole process.
 ## Step 9 — CSV Output for Google Sheets (PRINT AT END)
 
 **ALWAYS output this AFTER all interview prep, cover letter, and compensation strategy.**
+IF YOU DO NOT DETECT ANY QUESTIONS OR ESSAY FIELDS, STILL OUTPUT THE CSV LINE WITH COMPANY, TITLE, SITE FOUND, AND RESUME USED. THIS ENSURES CONSISTENCY IN YOUR TRACKER AND HELPS YOU KEEP A COMPLETE Record of all applications, even those without essay questions.
 
 After generating answers for one or multiple offers, output a CSV line (or lines for batch) that you can copy directly into your Google Sheets tracker.
 
