@@ -132,37 +132,44 @@ async function generatePDF() {
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
 
-  // Set content with file base URL for any relative resources
-  await page.setContent(html, {
-    waitUntil: 'networkidle',
-    baseURL: `file://${dirname(inputPath)}/`,
-  });
+  try {
+    // Set content with file base URL for any relative resources
+    await page.setContent(html, {
+      waitUntil: 'networkidle',
+      baseURL: `file://${dirname(inputPath)}/`,
+      timeout: 15000,
+    });
 
-  // Wait for fonts to load
-  await page.evaluate(() => document.fonts.ready);
+    // Wait for fonts to load
+    await page.evaluate(() => document.fonts.ready, { timeout: 15000 });
 
-  // Generate PDF
-  const pdfBuffer = await page.pdf({
-    format: format,
-    printBackground: true,
-    margin: {
-      top: '0.6in',
-      right: '0.6in',
-      bottom: '0.6in',
-      left: '0.6in',
-    },
-    preferCSSPageSize: false,
-  });
+    // Generate PDF
+    const pdfBuffer = await page.pdf({
+      format: format,
+      printBackground: true,
+      margin: {
+        top: '0.6in',
+        right: '0.6in',
+        bottom: '0.6in',
+        left: '0.6in',
+      },
+      preferCSSPageSize: false,
+      timeout: 15000,
+    });
 
-  // Write PDF
-  const { writeFile } = await import('fs/promises');
-  await writeFile(outputPath, pdfBuffer);
+    // Write PDF
+    const { writeFile } = await import('fs/promises');
+    await writeFile(outputPath, pdfBuffer);
 
-  // Count pages (approximate from PDF structure)
-  const pdfString = pdfBuffer.toString('latin1');
-  const pageCount = (pdfString.match(/\/Type\s*\/Page[^s]/g) || []).length;
+    // Count pages (approximate from PDF structure)
+    const pdfString = pdfBuffer.toString('latin1');
+    const pageCount = (pdfString.match(/\/Type\s*\/Page[^s]/g) || []).length;
 
-  await browser.close();
+    await browser.close();
+  } catch (e) {
+    await browser.close().catch(() => {});
+    throw e;
+  }
 
   console.log(`✅ PDF generated: ${outputPath}`);
   console.log(`📊 Pages: ${pageCount}`);

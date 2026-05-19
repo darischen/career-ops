@@ -15,16 +15,19 @@ const urls = [
 const browser = await chromium.launch();
 
 for (const { num, name, url } of urls) {
+  let page;
   try {
-    const page = await browser.newPage();
-    await page.goto(url, { waitUntil: 'networkidle' });
+    page = await browser.newPage();
+    await page.goto(url, { waitUntil: 'networkidle', timeout: 15000 });
     const content = await page.content();
     const fs = await import('fs');
     fs.writeFileSync(`./batch/jd-${num}-${name}.html`, content);
-    await page.close();
     console.log(`${num}. ${name}: OK`);
   } catch (e) {
-    console.log(`${num}. ${name}: ERROR - ${e.message}`);
+    const reason = e.message.includes('Timeout') ? 'TIMEOUT (15s)' : e.message;
+    console.log(`${num}. ${name}: ERROR - ${reason}`);
+  } finally {
+    if (page) await page.close().catch(() => {});
   }
 }
 

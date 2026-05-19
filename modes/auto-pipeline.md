@@ -22,10 +22,7 @@ Run exactly like the `offer` mode (read `modes/offer.md` for all blocks A-F).
 ## Step 2 — Save Report .md
 Save full evaluation to `reports/{###}-{company-slug}-{YYYY-MM-DD}.md` (format in `modes/offer.md`).
 
-## Step 3 — Generate PDF
-Run full pipeline from `pdf` mode (read `modes/pdf.md`).
-
-## Step 4 — Draft Application Answers (only if score >= 4.5)
+## Step 3 — Draft Application Answers (only if score >= 4.5)
 
 If final score is >= 4.5, generate draft answers for application form:
 
@@ -61,7 +58,7 @@ If final score is >= 4.5, generate draft answers for application form:
 
 **Language**: Always in JD language (EN default).
 
-## Step 5 — Update Tracker
+## Step 4 — Update Tracker
 Register in `data/applications.md` with all columns including Report and PDF ✅.
 
 **If any step fails**, continue with next steps and mark failed step as pending in tracker.

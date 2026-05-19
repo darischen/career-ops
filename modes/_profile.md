@@ -24,7 +24,7 @@ This breadth means:
 **Best Achievement:** PatentIQ (Patent Search MVP)
 - End-to-end ownership: architect, primary contributor, team lead
 - 14-member team (PMs, designers, developers)
-- Shipped AI-powered patent search + drafting assistant in 4 months
+- Shipped AI-powered patent search + drafting assistant MVP in 6 weeks
 - Hybrid semantic search (OpenAI embeddings + PostgreSQL pgvector)
 - Auth (Auth0), hosting (Vercel/EC2), database (Supabase)
 

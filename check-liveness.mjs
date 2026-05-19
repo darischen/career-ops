@@ -73,7 +73,7 @@ async function checkUrl(page, url) {
       }
     }
 
-    const bodyText = await page.evaluate(() => document.body?.innerText ?? '');
+    const bodyText = await page.evaluate(() => document.body?.innerText ?? '', { timeout: 15000 });
 
     // Apply button is the strongest positive signal — check it first.
     // This short-circuits before expired patterns that can appear on active pages
@@ -123,21 +123,23 @@ async function main() {
 
   let active = 0, expired = 0, uncertain = 0;
 
-  // Sequential — project rule: never Playwright in parallel
-  for (const url of urls) {
-    const { result, reason } = await checkUrl(page, url);
-    const icon = { active: '✅', expired: '❌', uncertain: '⚠️' }[result];
-    console.log(`${icon} ${result.padEnd(10)} ${url}`);
-    if (result !== 'active') console.log(`           ${reason}`);
-    if (result === 'active') active++;
-    else if (result === 'expired') expired++;
-    else uncertain++;
+  try {
+    // Sequential — project rule: never Playwright in parallel
+    for (const url of urls) {
+      const { result, reason } = await checkUrl(page, url);
+      const icon = { active: '✅', expired: '❌', uncertain: '⚠️' }[result];
+      console.log(`${icon} ${result.padEnd(10)} ${url}`);
+      if (result !== 'active') console.log(`           ${reason}`);
+      if (result === 'active') active++;
+      else if (result === 'expired') expired++;
+      else uncertain++;
+    }
+
+    console.log(`\nResults: ${active} active  ${expired} expired  ${uncertain} uncertain`);
+    if (expired > 0 || uncertain > 0) process.exit(1);
+  } finally {
+    await browser.close().catch(() => {});
   }
-
-  await browser.close();
-
-  console.log(`\nResults: ${active} active  ${expired} expired  ${uncertain} uncertain`);
-  if (expired > 0 || uncertain > 0) process.exit(1);
 }
 
 main().catch(err => {
