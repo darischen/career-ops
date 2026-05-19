@@ -24,7 +24,7 @@ Determine the mode from `{{mode}}`:
 | `project` | `project` |
 | `tracker` | `tracker` |
 | `pipeline` | `pipeline` |
-| `apply` | `apply` |
+| `apply` | `apply-router` (counts links → routes to `apply` for 0-1 or `batch-apply` for 2+) |
 | `scan` | `scan` |
 | `batch` | `batch` |
 | `resume` | `resume` -- Smart resume selector |
@@ -85,7 +85,7 @@ After determining the mode, load the necessary files before executing:
 ### Modes that require `_shared.md` + their mode file:
 Read `modes/_shared.md` + `modes/{mode}.md`
 
-Applies to: `auto-pipeline`, `offer`, `offers`, `pdf`, `contact`, `apply`, `pipeline`, `scan`, `batch`
+Applies to: `auto-pipeline`, `offer`, `offers`, `pdf`, `contact`, `apply`, `apply-router`, `batch-apply`, `pipeline`, `scan`, `batch`
 
 ### Standalone modes (only their mode file):
 Read `modes/{mode}.md`

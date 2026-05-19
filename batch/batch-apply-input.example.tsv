@@ -1,0 +1,8 @@
+# Batch Apply Input Template
+# Format: id	company	role	jd_file	form_file
+# jd_file: path to job description text file
+# form_file: path to application form questions (optional)
+
+1	Anthropic	Software Engineer, Agent Architecture	jd-1-anthropic.txt	form-1-anthropic.txt
+2	Vercel	Software Engineer, AI SDK	jd-2-vercel.txt	form-2-vercel.txt
+3	Hugging Face	ML Engineer	jd-3-hf.txt

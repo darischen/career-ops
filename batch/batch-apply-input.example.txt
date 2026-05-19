@@ -1,0 +1,21 @@
+# Batch Apply Interactive Input — One link per line
+
+# Example:
+https://anthropic.com/careers/software-engineer-agent-architecture
+https://vercel.com/careers/software-engineer-ai-sdk
+https://huggingface.co/jobs/ml-engineer
+https://openai.com/careers/software-engineer
+
+# Instructions:
+# 1. Copy this file to batch-apply-interactive-input.txt
+# 2. Replace with your actual job links
+# 3. Run: node batch/batch-apply-interactive.mjs batch-apply-interactive-input.txt
+#
+# Or pass links directly:
+# node batch/batch-apply-interactive.mjs https://anthropic.com/... https://vercel.com/...
+#
+# Output:
+# - Each job's materials saved to output/application-{company}.md
+# - Resume gets cached and reused across all jobs
+# - All jobs processed in parallel (finish in ~5-10 min instead of 20-30)
+# - Cache hits save ~90% on resume tokens after first job
