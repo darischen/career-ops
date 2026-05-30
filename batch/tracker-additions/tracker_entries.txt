@@ -1,0 +1,32 @@
+503	2026-05-24	Magical	Junior SWE, AI	Evaluated	4.1/5	✅	[503](reports/503-magical-junior-swe-2026-05-24.md)	Full-stack + AI product fit
+504	2026-05-24	Quora	MLEng, Ads	Evaluated	3.9/5	❌	[504](reports/504-quora-mleng-ads-2026-05-24.md)	Large-scale ranking ML
+505	2026-05-24	Together AI	ML/Research Engineer	Evaluated	4.2/5	✅	[505](reports/505-together-ai-mlresearch-2026-05-24.md)	LLM inference optimization
+506	2026-05-24	Airtable	SWE, New Grad	Evaluated	4.0/5	✅	[506](reports/506-airtable-newgrad-2026-05-24.md)	Large-scale database product
+507	2026-05-24	Loop	Full-Stack SWE	Evaluated	4.3/5	✅	[507](reports/507-loop-fullstack-2026-05-24.md)	Series A fintech, ownership
+508	2026-05-24	WebFX	Jr Frontend Dev	Evaluated	3.4/5	❌	[508](reports/508-webfx-frontend-2026-05-24.md)	Agency work, below target comp
+509	2026-05-24	WebFX	Jr Backend SWE	Evaluated	3.4/5	❌	[509](reports/509-webfx-backend-2026-05-24.md)	Agency work, below target comp
+510	2026-05-24	WebFX	Entry-Level SWE	Evaluated	3.4/5	❌	[510](reports/510-webfx-entry-level-2026-05-24.md)	Agency, below target comp
+511	2026-05-24	Meshy	SWE, New Grad	Evaluated	3.9/5	✅	[511](reports/511-meshy-newgrad-2026-05-24.md)	3D/AI product platform
+512	2026-05-24	Acorns	SWE I	Evaluated	4.0/5	✅	[512](reports/512-acorns-swe-2026-05-24.md)	Fintech, real-time data
+513	2026-05-24	Madestays	Junior Full-Stack	Evaluated	3.9/5	✅	[513](reports/513-madestays-limited-2026-05-24.md)	Vacation rental e-commerce
+514	2026-05-24	Pylon	SWE, New Grad	Evaluated	3.8/5	❌	[514](reports/514-pylon-2026-05-24.md)	Fintech, good fit
+515	2026-05-24	Netic	ML Engineer	Evaluated	4.0/5	✅	[515](reports/515-netic-2026-05-24.md)	ML infrastructure
+516	2026-05-24	Quora	AI Engineer Poe	Evaluated	4.0/5	✅	[516](reports/516-quora-ai-2026-05-24.md)	AI agents, remote
+517	2026-05-24	Distyl AI	AI Engineer	Evaluated	4.1/5	✅	[517](reports/517-distyl-ai-2026-05-24.md)	NLP/AI platform
+518	2026-05-24	Genmo	SWE, New Grad	Evaluated	4.0/5	✅	[518](reports/518-genmo-2026-05-24.md)	AI video creative
+519	2026-05-24	NewsBreak	SWE Junior	Evaluated	3.7/5	❌	[519](reports/519-newsbreak-2026-05-24.md)	News ML infrastructure
+520	2026-05-24	NewsBreak	ML Engineer	Evaluated	3.9/5	✅	[520](reports/520-newsbreak-mleng-2026-05-24.md)	Recommendation systems
+521	2026-05-24	NewsBreak	ML Infra SWE	Evaluated	3.9/5	✅	[521](reports/521-newsbreak-mlinfra-2026-05-24.md)	ML infrastructure
+522	2026-05-24	SmithRx	SWE, New Grad	Evaluated	3.5/5	❌	[522](reports/522-smithrx-2026-05-24.md)	Healthcare tech
+523	2026-05-24	Woo	Junior SWE	Evaluated	3.6/5	❌	[523](reports/523-woo-2026-05-24.md)	Fintech payments
+524	2026-05-24	D3	Frontend Engineer	Evaluated	3.7/5	❌	[524](reports/524-d3-2026-05-24.md)	Pure frontend
+525	2026-05-24	Nextdoor Campus	SWE, New Grad	Evaluated	3.6/5	❌	[525](reports/525-nextdoor-2026-05-24.md)	Maps/location tech
+526	2026-05-24	Atoms	SWE, New Grad	Evaluated	3.8/5	❌	[526](reports/526-atoms-2026-05-24.md)	E-commerce logistics
+527	2026-05-24	NewsBreak	ML Recommendation	Evaluated	3.9/5	✅	[527](reports/527-newsbreak-rec-2026-05-24.md)	Recommendation ML
+528	2026-05-24	iCapital	ML/AI Intern	Evaluated	3.3/5	❌	[528](reports/528-icapital-2026-05-24.md)	Fintech ML internship
+529	2026-05-24	Scale AI	SWE Public Sector	Evaluated	3.4/5	❌	[529](reports/529-scale-ai-2026-05-24.md)	Government sector AI
+530	2026-05-24	Instabase	Full-Stack SWE	Evaluated	4.0/5	✅	[530](reports/530-instabase-2026-05-24.md)	Document AI infra
+531	2026-05-24	Valkyrie Trading	Junior SWE	Evaluated	3.6/5	❌	[531](reports/531-valkyrie-2026-05-24.md)	Trading tech
+532	2026-05-24	Henderson	Entry Design/Eng	Evaluated	3.0/5	❌	[532](reports/532-henderson-2026-05-24.md)	Hardware/civil eng mismatch
+533	2026-05-24	OakNorth	Junior SWE AI	Evaluated	4.1/5	✅	[533](reports/533-oaknorth-2026-05-24.md)	AI-native fintech
+534	2026-05-24	Whoop	SWE I Backend	Evaluated	3.9/5	✅	[534](reports/534-whoop-2026-05-24.md)	Wearable/ML infrastructure

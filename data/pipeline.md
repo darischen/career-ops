@@ -2,6 +2,103 @@
 
 Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` to process them.
 
+## Processed (2026-05-24 Manual Batch) — 4 URLs (3 Evaluated, 1 Inaccessible)
+
+### Apply Recommended (2)
+
+- [x] #498 | https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5859292004 | Sony Interactive Entertainment | Software Engineer I — Trust & Safety Platform | 3.8/5 | PDF ✅ | [498](reports/498-sony-interactive-entertainment-2026-05-24.md)
+- [x] #499 | https://job-boards.greenhouse.io/pagerduty/jobs/6004772004 | PagerDuty | Software Engineer I — Core Product (Notification Platform) | 4.1/5 | PDF ✅ | [499](reports/499-pagerduty-2026-05-24.md)
+
+### Skip (Do Not Apply) — 1
+
+- [x] #497 | https://job-boards.greenhouse.io/captivation/jobs/5230024008 | Captivation Software | Software Engineer 1 (Linux/HPC/Bash) | 2.2/5 | PDF ❌ | [497](reports/497-captivation-2026-05-24.md) | Security clearance blocker + onsite Maryland. Below apply threshold.
+
+### Inaccessible (1)
+
+- [!] #500 | https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Product-Engineer-I---AiBLE-CST---Remote-within-CO_R64518 | Medtronic | Product Engineer I — AiBLE CST | INACCESSIBLE | [500](reports/500-medtronic.md) | Workday portal requires session auth.
+
+---
+
+## Processed (2026-05-25 Manual Batch — Three URLs) — 3 Evaluated (1 Apply, 1 Elite, 1 Skip)
+
+### Apply Recommended (1)
+
+- [x] #504 | https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Seattle-400-Dexter---WA---US/AI-Engineer_R1602671-1 | Bristol Myers Squibb | AI Engineer (AI Venture Studio) | 3.9/5 | PDF ❌ | [504](reports/504-bms-2026-05-25.md) | Exceptional match on agentic AI + data pipelines
+
+### Elite Opportunity (1)
+
+- [x] #505 | https://job-boards.greenhouse.io/scoutai/jobs/4643324008 | Scout AI | AI Engineer (Fury Team — Robotic Foundation Models) | 4.2/5 | PDF ❌ | [505](reports/505-scoutai-2026-05-25.md) | Robotic foundation models, $160-400K comp, exceptional learning curve
+
+### Skip (Do Not Apply) — 1
+
+- [x] #503 | https://job-boards.greenhouse.io/striveworks/jobs/7713741003 | Striveworks | ML Engineer (Active Secret Clearance) | 3.4/5 | PDF ❌ | [503](reports/503-striveworks-2026-05-25.md) | Security clearance requirement is blocker
+
+---
+
+## Processed (2026-05-29 Manual Single Evaluations)
+
+### Skip (Do Not Apply) — 1
+
+- [x] #532 | https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4833389101?src=Greenhouse-FH | Fuze Health | Graduate Software Engineer - Fuze Services | 3.0/5 | PDF ❌ | [532](reports/532-fuze-health-2026-05-29.md) | Overqualified (led teams, shipped products). Role is operational triage (log analysis), not SWE. Below comp target ($76K vs $80K+). Career misalignment.
+
+---
+
+## Processed (2026-05-29 Stability AI Batch) — 4 Roles Evaluated (1 Apply, 3 Skip)
+
+### Apply Recommended (1)
+
+- [x] #528 | http://stability.ai/careers?gh_jid=4874202101 | Stability AI | Junior Software Engineer | 4.0/5 | PDF ❌ | [528](reports/528-stability-ai-junior-swe-2026-05-29.md) | Full-stack experience (PatentIQ) directly maps. Remote-friendly. Recommend applying.
+
+### Skip (Do Not Apply) — 3
+
+- [x] #527 | http://stability.ai/careers?gh_jid=4712826101 | Stability AI | Generative AI Inference Engineer | 2.8/5 | PDF ❌ | [527](reports/527-stability-ai-inference-engineer-2026-05-29.md) | 7+ YOE requirement is hard blocker (new grad, 0 YOE). ATS filter.
+- [x] #529 | http://stability.ai/careers?gh_jid=4770256101 | Stability AI | Multimodal Generative AI Researcher | 2.2/5 | PDF ❌ | [529](reports/529-stability-ai-multimodal-researcher-2026-05-29.md) | PhD requirement (you have BS). No published research. Not a career goal anyway.
+- [x] #530 | http://stability.ai/careers?gh_jid=4840171101 | Stability AI | Solutions Engineer | 2.8/5 | PDF ❌ | [530](reports/530-stability-ai-solutions-engineer-2026-05-29.md) | Role mismatch (pre-sales vs. product engineering). Career detour, not progression.
+
+---
+
+## Processed (2026-05-26 Portal Scan) — EARLIER BATCH (6 URLs)
+
+### Pending Evaluation (6 URLs from 2026-05-26)
+
+- [ ] https://jobs.lever.co/belvederetrading/f81a8965-5537-4a4b-aec6-c02dfa51815e | Belvedere Trading | Software Engineer - Entry Level 2026
+- [ ] https://jobs.ashbyhq.com/Acorns/5618f1de-cf18-4114-9408-11cd73153a9d | Acorns | Software Engineer I, Recent Graduate
+- [ ] https://job-boards.greenhouse.io/flex/jobs/4632053005 | Flex | Software Engineer I, Backend (New Grad - 2025)
+- [ ] https://job-boards.greenhouse.io/ziprecruiter/jobs/6165341 | ZipRecruiter | Software Engineer - New Grad
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003 | Sigma Computing | Software Engineer (New Grad Program)
+- [ ] https://job-boards.greenhouse.io/newsbreak/jobs/4054592006 | NewsBreak | Software Engineer (Junior & New Grad)
+
+---
+
+## Processed (2026-05-25 Portal Scan) — 3 Evaluated (1 Apply, 2 Skip)
+
+### Apply Recommended (1)
+
+- [x] #500 | https://job-boards.greenhouse.io/newtonresearch/jobs/5202112008 | Newton Research | Junior Software Engineer (Backend + AI) | 4.6/5 | PDF ✅ | [500](reports/500-newton-research-2026-05-25.md)
+
+### Skip (Do Not Apply) — 2
+
+- [x] #501 | https://job-boards.greenhouse.io/gleanwork/jobs/4501783005 | Glean | Software Engineer, AI Infrastructure | 2.8/5 | PDF ❌ | [501](reports/501-glean-2026-05-25.md) | Requires 2-5 YOE; Daris is new grad (0 YOE)
+- [x] #502 | https://job-boards.greenhouse.io/cloudflare/jobs/7914628 | Cloudflare | Machine Learning Engineer Intern (Summer 2026) | 2.2/5 | PDF ❌ | [502](reports/502-cloudflare-2026-05-25.md) | Requires current university enrollment; Daris graduated March 2026
+
+---
+
+## Processed (2026-05-24 WebSearch Scan) — DISCARDED
+
+**Status:** All 32 offers from this scan have expired job postings (stale WebSearch results). None are currently available. Batch removed from tracker.
+
+---
+
+## Processed (2026-05-21 Manual) — 1 Evaluated (1 Skip — Credential Gate)
+
+### Skipped / Do Not Apply
+
+- [x] #469 | https://www.pgcareers.com/us/en/job/R000146287/Software-Engineer-One-Digital-Warehouse | Procter & Gamble | Software Engineer - One Digital Warehouse | 2.2/5 | DISCARDED | [469](../reports/469-pg-one-digital-warehouse-2026-05-21.md)
+
+**Recommendation:** Do not apply. Role explicitly requires "Experienced Professionals" tier with 3+ years of professional Python + SWE experience. You will be filtered at ATS screen (resume requirement gate). Revisit in 3–4 years when you have the professional track record. Focus instead on new grad programs and entry-level roles that evaluate on demonstrated capability (portfolio, projects).
+
+---
+
 ## Processed (2026-05-17 Portal Scan) — 16 Evaluated (11 New + 5 Duplicates)
 
 ### Tier 1: APPLY IMMEDIATELY (1 role, score 4.0+)
@@ -38,7 +135,27 @@ Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` 
 
 ---
 
-## Pending (none)
+## Processed (2026-05-22 Portal Scan) — 9 URLs Evaluated (4 Accessible, 5 Closed)
+
+### Tier 1: APPLY IMMEDIATELY
+
+- [x] #484 | https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189 | BRM | Entry Level Software Engineer | 3.9/5 | PDF ❌ | [484](reports/484-brm-2026-05-22.md)
+- [x] #485 | https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891 | Junior AI | Software Engineering Intern (Summer 2026) | 4.1/5 | PDF ❌ | [485](reports/485-junior-ai-2026-05-22.md)
+
+### Tier 2: SKIP (Below threshold or hard blockers)
+
+- [x] #486 | https://jobs.ashbyhq.com/canals/06a7ec78-d84f-4035-9799-747524dbdc49 | Canals | Junior Software Engineer | 3.4/5 | PDF ❌ | [486](reports/486-canals-2026-05-22.md) | LATAM location lock
+- [x] #487 | https://jobs.ashbyhq.com/unlimitedindustries/5c5706fe-26ae-46d6-8423-e4721a5a98fc | Unlimited | Software Engineer, Junior | 3.1/5 | PDF ❌ | [487](reports/487-unlimited-2026-05-22.md) | Insufficient info, too vague
+
+### Inaccessible (5 URLs closed/not found)
+
+- [!] https://jobs.ashbyhq.com/vanta/14f2aa15-7d35-43cc-8978-48986a325c4a | Vanta | Software Engineer, Entry Level | CLOSED | Job not found
+- [!] https://jobs.ashbyhq.com/unlikelyai/c25da9b0-1027-4d9f-8599-4beefd81e29f | UnlikelyAI | Junior Software Engineer | CLOSED | Job not found
+- [!] https://jobs.ashbyhq.com/Jerry.ai/c28271c9-4a76-4c63-b783-2f54ce347d29 | Jerry.ai | Software Engineer (entry) | CLOSED | Job not found
+- [!] https://job-boards.greenhouse.io/poppulo/jobs/7768607 | Poppulo | Graduate Machine Learning Engineer | CLOSED | Greenhouse redirect failed
+- [!] https://job-boards.greenhouse.io/nextdoorcampus/jobs/6194603 | Nextdoor Campus | Machine Learning Engineer - New Grad 2025 | CLOSED | Greenhouse redirect failed (2025 cohort closed)
+
+---
 
 ---
 

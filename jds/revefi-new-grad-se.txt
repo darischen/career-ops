@@ -1,0 +1,44 @@
+Revefi - Software Engineer – New Graduate (Seattle)
+
+About Revefi
+Founded in 2021 by Sanjay Agrawal and Shashank Gupta, the visionary co-founders of ThoughtSpot (Gartner's BI Magic Quadrant leader), Revefi is a Series A funded startup that has raised $30 Million from renowned investment firms like Icon Ventures, Mayfield Fund, GTM Capital, and StepStone Group.
+Revefi's Agentic AI solution is transforming how modern enterprises manage their data reliability, operations, quality, and cost.
+Our flagship AI Agent is a cross-platform solution that spans all major cloud data providers, and is enabling major corporations like Verisk, AMD, Ocean Spray, and Stanley Black & Decker optimize cloud spend, ensuring high data quality, and operational performance through AI-powered automation and intelligence.
+We're building the future of Cloud Data Cost Optimization and Cloud Data Operations, and are looking for the right individuals to join us on this journey.
+Revefi was recently recognised as a 2025 Gartner® Cool Vendor™.
+
+The Role: Graduate Software Engineer
+We're looking for motivated 2025 Computer Science graduates who are excited to start their careers building real-world backend systems at scale. As a Graduate Software Engineer, you'll work closely with experienced engineers and founders to help build and evolve our cloud-native SaaS platform.
+If you're curious about backend development, distributed systems, and cloud technologies—and want to learn by building impactful products—this is a great opportunity to grow fast in an early-stage, product-driven environment.
+
+What You'll Do
+- Build and enhance backend services for our cloud-native SaaS platform
+- Assist in designing and implementing scalable backend components
+- Write clean, well-tested code using Java, Python, C++ (or similar languages)
+- Collaborate with product, frontend, and DevOps teams to deliver end-to-end features
+- Debug issues, improve performance, and help maintain system reliability
+- Participate in code reviews and continuously learn backend, cloud, and system design best practices
+
+What We're Looking For
+- 2025 graduate with a Bachelor's or Dual degree in Computer Science
+- Internship, capstone, or project experience with backend or cloud-based systems
+- Strong fundamentals in data structures, algorithms, and object-oriented programming
+- Academic or project experience in backend development (Java, C++, Python, Golang, etc.)
+- Basic understanding of systems design, APIs, and distributed systems concepts
+- Good problem-solving skills and attention to detail
+- Clear communication skills and eagerness to collaborate in a team setting
+- Passion for building scalable products and learning modern engineering practices
+
+Bonus Skills (Nice to Have)
+- Exposure to AWS, GCP, or Azure (through coursework, internships, or projects)
+- Familiarity with databases (SQL and/or NoSQL)
+- Basic experience with Docker or containerized applications
+- Interest in SaaS platforms, data systems, or cloud-native technologies
+- Contributions to open-source projects, hackathons, or developer communities
+
+Benefits
+- Learn from a world-class founding team with a strong track record of building successful products
+- Work on real backend and cloud systems that power a modern SaaS platform
+- Gain hands-on experience solving meaningful problems across cloud, data, and AI
+- Grow quickly through mentorship, code reviews, and ownership of well-scoped features
+- Build a strong foundation in how modern enterprises manage and optimize data and cloud infrastructure

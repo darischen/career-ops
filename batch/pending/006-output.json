@@ -1,0 +1,32 @@
+{
+  "company": "DataVisor",
+  "role": "AI Engineer",
+  "jd_source": "batch/pending/006-jd.txt",
+  "recommendation": {
+    "top_resume": "AI",
+    "ai_score": 82,
+    "swe_score": 79,
+    "confidence": "HIGH",
+    "summary": "Strong fit for production agentic AI systems role. AI resume directly maps to DataVisor's core mandates: LLM integration, agent orchestration, and real-time intelligent data pipelines.",
+    "key_strengths": [
+      "LLM & Agent Architecture: Career-Ops pipeline demonstrates production agent systems with retry loops, structured schema enforcement, and token optimization via prompt caching. Maps directly to DataVisor's 'own and evolve internal AI agent workflows' requirement.",
+      "Semantic Search & High-Dimensional Data: PatentIQ's hybrid search combining OpenAI embeddings + PostgreSQL pgvector is exact pattern for their 'intelligence graph' architecture.",
+      "Real-Time Data Pipelines: Personify NLP feature extraction and Groundwork Redis caching (90% latency reduction, sub-200ms p99) show capability for 10,000+ TPS handling.",
+      "Python Production Engineering: Deep skills across semantic search, caching logic, query builders, and inference pipelines. R-CNN training pipeline shows ML systems thinking.",
+      "Cloud Infrastructure: EC2, Supabase, Docker, Kubernetes demonstrate familiarity with their stack."
+    ],
+    "experience_gaps": [
+      "No explicit Spark, Kafka, Flink experience (not a hard blocker; semantic search + caching patterns show distributed thinking)",
+      "No domain-specific fraud/AML work (they noted this is a plus, not required)"
+    ],
+    "recommendation_action": "APPLY",
+    "recommendation_tone": "Apply with strong confidence. This is a genuine match, not a stretch. Lead with Career-Ops pipeline, PatentIQ semantic search, and Groundwork latency optimization."
+  },
+  "form_detected": false,
+  "form_type": "NO_FORM_DETECTED",
+  "essay_answers": [],
+  "csv_line": "DataVisor,AI Engineer,Career Ops,,,,APPLY",
+  "timestamp": "2026-05-28T00:00:00Z",
+  "batch_job_id": "006",
+  "status": "complete"
+}

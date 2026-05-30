@@ -1,0 +1,49 @@
+{
+  "company": "Silvus Technologies",
+  "role": "Machine Learning Engineer",
+  "location": "Los Angeles, CA",
+  "recommendation": {
+    "scores": {
+      "ai": 12,
+      "swe": 4,
+      "ee": 18,
+      "wd": 1
+    },
+    "recommended": "EE",
+    "confidence": 95,
+    "top_signals": [
+      "Signal processing and DSP expertise (Butterworth filters, FFTs, Kalman Filter)",
+      "Direct RF engineering experience with HB100 microwave sensor and intermediate frequency signal processing",
+      "Embedded systems and real-time signal processing on constrained hardware (ESP32)"
+    ],
+    "explanation": "This role requires applying ML to real-world RF challenges in wireless communications. Your EE resume demonstrates deep expertise in signal processing, DSP algorithms, and embedded RF engineering. The Phased Array Microwave Sensor project directly maps to Silvus' needs for analyzing RF data and implementing real-time adaptive systems. While your AI resume covers TensorFlow and PyTorch, the EE resume's signal processing foundation and RF hardware experience is the stronger strategic fit for this MIMO-focused role."
+  },
+  "csv_line": "Silvus Technologies,Machine Learning Engineer,Career Ops,,,,EE",
+  "form_detected": true,
+  "form_fields": [
+    "First Name",
+    "Last Name",
+    "Email",
+    "Phone",
+    "Country",
+    "Resume/CV",
+    "Cover Letter",
+    "LinkedIn Profile",
+    "Website",
+    "Current Company",
+    "Education acknowledgment",
+    "Experience acknowledgment",
+    "US Citizen acknowledgment",
+    "Gender",
+    "Hispanic/Latino",
+    "Veteran Status",
+    "Disability Status"
+  ],
+  "essay_questions": [],
+  "custom_questions": [
+    "I acknowledge that I meet the minimum education requirements for this role.*",
+    "I acknowledge that I meet the minimum experience requirements for this role.*",
+    "I acknowledge that I am a US Citizen.*"
+  ],
+  "notes": "All form fields are either boilerplate (name, email, phone, etc.) or EEO self-identification (which apply.md specifies to skip). No essay questions detected. No custom open-ended prompts requiring generated answers. Proceed with CSV output and ready-to-submit form."
+}

@@ -1,0 +1,11 @@
+{
+  "job_id": "006",
+  "timestamp": "2026-05-28T00:00:00Z",
+  "issues": [
+    "Missing recommendation_block field - must be a single formatted string with all 8 sections (header, title, scores, recommended, confidence, signals, why, footer)",
+    "CSV code is 'APPLY' but must be a 2-letter resume code: AI|SWE|EE|WD",
+    "recommendation object should be converted to formatted recommendation_block string matching apply.md specification",
+    "Missing resume_code field"
+  ],
+  "message": "Please fix the following issues and rewrite 006-output.json:\n1. Format recommendation object into a single recommendation_block string with all 8 sections\n2. Change CSV code from 'APPLY' to 'AI' (the top_resume from recommendation)\n3. Add resume_code field with value 'AI'\n4. Keep recommendation_block format exactly as specified in apply.md with header/footer separators, keyword scores, recommended resume line, confidence, top 3 signals, and why explanation"
+}

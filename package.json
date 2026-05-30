@@ -30,6 +30,8 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.97.1",
+    "jsdom": "^29.1.1",
     "playwright": "^1.58.1"
   }
 }

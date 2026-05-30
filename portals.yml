@@ -264,7 +264,8 @@ tracked_companies:
 
   - name: Spotify
     careers_url: https://jobs.lever.co/spotify
-    notes: "Stockholm SE / NYC / London. Large ML/personalization org."
+    api: https://api.lever.co/v0/postings/spotify?mode=json
+    notes: "Stockholm SE / NYC / London. Large ML/personalization org. Lever ATS."
     enabled: true
 
   - name: Dropbox
@@ -660,13 +661,14 @@ tracked_companies:
 
   - name: Perplexity
     careers_url: https://jobs.ashbyhq.com/perplexity
-    scan_method: websearch
-    scan_query: 'site:jobs.ashbyhq.com/perplexity'
+    api: https://api.ashbyhq.com/posting-api/job-board/perplexity?includeCompensation=true
+    notes: "Ashby ATS"
     enabled: true
 
   - name: Cohere
     careers_url: https://jobs.ashbyhq.com/cohere
-    notes: "AI/LLM provider. Toronto + remote."
+    api: https://api.ashbyhq.com/posting-api/job-board/cohere?includeCompensation=true
+    notes: "AI/LLM provider. Toronto + remote. Ashby ATS."
     enabled: true
 
   - name: Stability AI
@@ -677,7 +679,8 @@ tracked_companies:
 
   - name: Mistral AI
     careers_url: https://jobs.lever.co/mistral
-    notes: "Paris. European AI lab."
+    api: https://api.lever.co/v0/postings/mistral?mode=json
+    notes: "Paris. European AI lab. Lever ATS."
     enabled: true
 
   # ========================================

@@ -42,7 +42,30 @@ This breadth means:
 
 You have **no strong preference** — all roles equally interesting. The system will evaluate fit across these four archetypes and pick the best match per application.
 
-### 1. Full-Stack Software Engineer
+### 1. AI/ML Engineer
+
+**Level:** Junior/Mid  
+**Why you fit:**
+- FlipperZillow: GPU-accelerated inference (DepthAnythingV2, DFormerV2, SAM3D), multi-stage pipeline
+- RedShift: Adversarial red teaming, batch evaluation, 7+ model architectures
+- Mini-Stockfish: NNUE neural network (trained on 316M positions), search algorithms
+- FishSense: R-CNN training pipeline, photogrammetry, sub-5% error metrics
+
+**Skills this emphasizes:**
+- Deep Learning: PyTorch, TensorFlow, CUDA/ROCm, Transformers, inference optimization
+- Computer Vision: Detectron2, depth estimation, semantic segmentation, 3D reconstruction
+- LLMs: Prompt engineering, adversarial testing, safety evaluation, Claude/OpenAI APIs
+- Data Pipeline: PyTorch DataLoaders, batch processing, large-scale training (316M examples)
+
+**Projects for this archetype:**
+- FlipperZillow (GPU pipelines, depth + segmentation + 3D)
+- RedShift (adversarial LLM evaluation, multi-agent setup)
+- Mini-Stockfish (NNUE + search, neural network inference)
+- PatentIQ (semantic embeddings, hybrid ranking)
+
+---
+
+### 2. Full-Stack Software Engineer
 
 **Level:** Junior/Mid  
 **Why you fit:**
@@ -63,29 +86,6 @@ You have **no strong preference** — all roles equally interesting. The system 
 - Simplerfy (full-stack SaaS)
 - WeatherApp (full-stack with database)
 - Personal Portfolio Site (SSG, performance optimization)
-
----
-
-### 2. AI/ML Engineer
-
-**Level:** Junior/Mid  
-**Why you fit:**
-- FlipperZillow: GPU-accelerated inference (DepthAnythingV2, DFormerV2, SAM3D), multi-stage pipeline
-- RedShift: Adversarial red teaming, batch evaluation, 7+ model architectures
-- Mini-Stockfish: NNUE neural network (trained on 316M positions), search algorithms
-- FishSense: R-CNN training pipeline, photogrammetry, sub-5% error metrics
-
-**Skills this emphasizes:**
-- Deep Learning: PyTorch, TensorFlow, CUDA/ROCm, Transformers, inference optimization
-- Computer Vision: Detectron2, depth estimation, semantic segmentation, 3D reconstruction
-- LLMs: Prompt engineering, adversarial testing, safety evaluation, Claude/OpenAI APIs
-- Data Pipeline: PyTorch DataLoaders, batch processing, large-scale training (316M examples)
-
-**Projects for this archetype:**
-- FlipperZillow (GPU pipelines, depth + segmentation + 3D)
-- RedShift (adversarial LLM evaluation, multi-agent setup)
-- Mini-Stockfish (NNUE + search, neural network inference)
-- PatentIQ (semantic embeddings, hybrid ranking)
 
 ---
 

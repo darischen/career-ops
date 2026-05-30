@@ -1,0 +1,58 @@
+Home
+Projects
+Factory
+Careers
+Blog
+Press
+Contact
+Search
+LinkedIn
+X (not us)
+YouTube
+Privacy & Terms
+Google
+Alphabet
+Machine Learning Engineer (Tapestry)
+Software EngineeringMountain View, CA (HQ)
+About the team:
+Tapestry is X’s moonshot for the electric grid. We’re transforming how the world makes, moves and uses electricity, using AI to reshape energy on a global scale.
+We’re looking for curious minds who want to be a part of this extraordinary moment in energy. You would be joining a multidisciplinary team from a wide variety of experiences and backgrounds—from ML/AI and power systems experts to software engineers and energy entrepreneurs– working together to realize Tapestry’s mission to make the grid visible so that everyone, everywhere can access reliable, abundant, and clean energy.
+Tapestry is incubating at X, Alphabet’s Moonshot Factory—the birthplace of breakthrough technologies like Waymo, Android and Google Brain. At Tapestry, you’ll have the chance to be part of a rapidly growing team that has the agility and impact of an early stage company with the resources and technical excellence of Alphabet. If developing multimodal AI solutions gets you up in the morning and load growth challenges keep you up at night, we'd love to meet you.
+Learn more about our team and our mission here.
+About the role:
+We're looking for an early career Machine Learning Engineer to join our team. In this role you will build and deploy state of the art machine learning models to solve complex challenges that face today’s electric grid. You will work closely with other Machine Learning Engineers, Data Scientists and Software Engineers across diverse ML domains spanning multimodal machine learning, information retrieval, natural language processing and agentic AI.
+How you will make 10x impact:
+Train, and deploy machine learning models in production environments.
+Work with senior team members to develop enterprise quality ML systems, spanning multiple ML domains
+Operationalize ML model training at serving at enterprise scale
+Stay abreast of the latest advancements in machine learning
+What you should have:
+Master’s Degree/Bachelor's Degree in Machine Learning, Computer Science, Statistics or related field
+Experience in machine learning model development and engineering.
+Expertise in one or more of the following areas: multimodal machine learning NLP or agentic AI, planning, control and reinforcement learning
+Strong programming skills in Python and experience with ML frameworks like PyTorch or TensorFlow.
+Experience with building and deploying ML systems at scale, OR a proven ability to perform applied ML research and develop the state of the art in an academic setting
+It’d be great if you also had these:
+PhD in Machine Learning, Computer Science, Statistics, or a related field
+Experience with cloud platforms such as AWS, GCP, or Azure.
+A strong portfolio of projects demonstrating ML expertise.
+Our values
+Take charge: We take initiative and own outcomes that move the mission forward.
+Transform with purpose: We build solutions that solve real problems and create meaningful impact.
+Be a Tapestry, not a thread: We collaborate across diverse skills and perspectives to achieve more than we can individually.
+Always fine-tune: We stay curious, seek feedback, and refine our understanding as we learn.
+Stay grounded: We listen openly, value different perspectives, and stay focused on what matters most.
+What we offer
+A culture that supports growth, ownership, and meaningful impact, along with:
+Competitive salary and equity
+Medical, dental, and vision coverage
+Generous PTO and flexible hybrid work model
+401(k) with employer contribution
+Professional development
+The ability to work on important real-world problems within an Alphabet-backed environment
+The US base salary range for this full-time position is $166,000 - $244,000 + bonus + equity + benefits. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your location during the hiring process.
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.
+.
+An Equal Opportunity Workplace
+At X, we don't just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. We are proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+If you have a disability or special need that requires accommodation, please con

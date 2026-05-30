@@ -1,0 +1,11 @@
+{
+  "job_id": "003",
+  "timestamp": "2026-05-28T00:00:00Z",
+  "issues": [
+    "Missing recommendation_block field - must be a formatted string (not nested object) with header separator, title, keyword scores, recommended resume type, confidence score, top signals, and explanation",
+    "CSV code is '003' but should be 'AI' (the recommended resume type) - format must be Company,Title,Career Ops,,,,RESUME_CODE",
+    "No job_id field required in output (remove it)",
+    "recommendation object is structured wrong - convert it to a single recommendation_block string matching apply.md format"
+  ],
+  "message": "Please fix the following issues and rewrite 003-output.json:\n1. Format recommendation object into a single recommendation_block string\n2. Fix CSV code from '003' to 'AI' (the recommended resume)\n3. Remove job_id field from output root\n4. Add resume_code field with value 'AI'\n5. Keep all 8 recommendation sections: header, title, scores, recommended, confidence, signals, why, footer"
+}

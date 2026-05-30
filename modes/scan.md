@@ -33,9 +33,24 @@ Read `portals.yml` which contains:
 
 **Every company MUST have `careers_url` in portals.yml.** If it doesn't, find it once, save it, and use in future scans.
 
-### Level 2 — Greenhouse API (COMPLEMENTARY)
+### Level 2 — Job Board APIs (COMPLEMENTARY)
 
-For companies using Greenhouse, the JSON API (`boards-api.greenhouse.io/v1/boards/{slug}/jobs`) returns clean structured data. Use as a fast complement to Level 1 — faster than Playwright but only works with Greenhouse.
+For companies using Greenhouse, Ashby, or Lever, public JSON APIs return clean structured data. Use as a fast complement to Level 1 — faster than Playwright and real-time.
+
+**Greenhouse API:**
+- Endpoint: `https://boards-api.greenhouse.io/v1/boards/{slug}/jobs`
+- Public, no auth required
+- Returns full job listings + apply URLs
+
+**Ashby API:**
+- Endpoint: `https://api.ashbyhq.com/posting-api/job-board/{slug}?includeCompensation=true`
+- Public, no auth required
+- Returns full job listings + apply URLs + compensation
+
+**Lever API:**
+- Endpoint: `https://api.lever.co/v0/postings/{slug}?mode=json`
+- Public, no auth required
+- Returns full job listings + apply URLs + categories
 
 ### Level 3 — WebSearch queries (BROAD DISCOVERY)
 
@@ -64,11 +79,13 @@ Levels are additive — all run, results are merged and deduplicated.
    f. Accumulate in candidate list
    g. If `careers_url` fails (404, redirect), try `scan_query` as fallback and annotate for URL update
 
-5. **Level 2 — Greenhouse APIs** (parallel):
+5. **Level 2 — Job Board APIs** (parallel):
    For each company in `tracked_companies` with `api:` defined and `enabled: true`:
    a. WebFetch the API URL → JSON with job list
    b. For each job extract: `{title, url, company}`
    c. Accumulate in candidate list (dedup with Level 1)
+   
+   Supported platforms: Greenhouse, Ashby, Lever (all public, no auth required)
 
 6. **Level 3 — WebSearch queries** (parallel if possible):
    For each query in `search_queries` with `enabled: true`:
