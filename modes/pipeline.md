@@ -13,13 +13,15 @@ Processes job offer URLs accumulated in `data/pipeline.md`. You add URLs wheneve
       - i. A-F evaluation (read `modes/_shared.md` for scoring framework)
       - ii. Save report .md (ALWAYS, even for scores < 3.0) to `reports/{REPORT_NUM}-{company-slug}-{DATE}.md`
       - iii. Register in tracker (TSV format to `batch/tracker-additions/`)
-   e. **Move from "Pending" to "Processed"**: `- [x] #NNN | URL | Company | Role | Score/5 | PDF ✅/❌`
+   e. **Move from "Pending" to "Processed"**: `- [x] #NNN | URL | Company | Role | Score/5`
 3. **If 3+ pending URLs**, launch agents in parallel (Agent tool with `run_in_background`) to maximize speed
 4. **When done**, show summary table:
 
 ```
-| # | Company | Role | Score | PDF | Action |
+| # | Company | Role | Score | Action |
 ```
+
+Pipeline does NOT generate PDFs. It evaluates, saves the report, and registers the tracker line.
 
 ## Format of pipeline.md
 
@@ -30,8 +32,8 @@ Processes job offer URLs accumulated in `data/pipeline.md`. You add URLs wheneve
 - [!] https://private.url/job — Error: login required
 
 ## Processed
-- [x] #143 | https://jobs.example.com/posting/789 | Acme Corp | AI PM | 4.2/5 | PDF ✅
-- [x] #144 | https://boards.greenhouse.io/xyz/jobs/012 | BigCo | SA | 2.1/5 | PDF ❌
+- [x] #143 | https://jobs.example.com/posting/789 | Acme Corp | AI PM | 4.2/5
+- [x] #144 | https://boards.greenhouse.io/xyz/jobs/012 | BigCo | SA | 2.1/5
 ```
 
 ## Smart JD detection from URL

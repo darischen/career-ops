@@ -103,7 +103,7 @@ Agent(
 )
 ```
 
-**IMPORTANT for pipeline mode:** Include `modes/pdf.md` content in the subagent prompt. For each evaluated offer with score >= 3.0, PDF generation is MANDATORY. The subagent must execute the complete PDF pipeline (extract keywords, rewrite summary, generate HTML, run generate-pdf.mjs) for each offer. Do not skip PDF generation.
+**IMPORTANT for pipeline mode:** Pipeline does NOT generate PDFs. The subagent evaluates each offer, saves the report, and registers the tracker line. Do not load `modes/pdf.md`, do not run `generate-pdf.mjs`, and do not generate a CV PDF for any offer.
 
 **IMPORTANT for apply mode:** 
 
