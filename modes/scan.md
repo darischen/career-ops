@@ -17,7 +17,7 @@ Agent(
 ## Configuration
 
 Read `portals.yml` which contains:
-- `search_queries`: List of WebSearch queries with `site:` filters by portal (broad discovery)
+- `search_queries`: List of `site:`-filtered search strings, executed by navigating a search results page with Playwright and scraping the hits (broad discovery)
 - `tracked_companies`: Specific companies with `careers_url` for direct navigation
 - `title_filter`: Positive/negative/seniority_boost keywords for title filtering
 
@@ -52,14 +52,14 @@ For companies using Greenhouse, Ashby, or Lever, public JSON APIs return clean s
 - Public, no auth required
 - Returns full job listings + apply URLs + categories
 
-### Level 3 — WebSearch queries (BROAD DISCOVERY)
+### Level 3 — Browser search scrape (BROAD DISCOVERY)
 
-The `search_queries` with `site:` filters cover portals transversely (all Ashby, all Greenhouse, etc.). Useful for discovering NEW companies not yet in `tracked_companies`, but results may be stale.
+The `search_queries` with `site:` filters cover portals transversely (all Ashby, all Greenhouse, etc.). Run each by navigating a search results page with Playwright (`browser_navigate`) and scraping the result list (`browser_snapshot`). Useful for discovering NEW companies not yet in `tracked_companies`, but scraped results may point to stale postings, so verify liveness (step 9).
 
 **Execution priority:**
 1. Level 1: Playwright → all `tracked_companies` with `careers_url`
 2. Level 2: API → all `tracked_companies` with `api:`
-3. Level 3: WebSearch → all `search_queries` with `enabled: true`
+3. Level 3: Browser search scrape → all `search_queries` with `enabled: true`
 
 Levels are additive — all run, results are merged and deduplicated.
 
@@ -87,9 +87,9 @@ Levels are additive — all run, results are merged and deduplicated.
    
    Supported platforms: Greenhouse, Ashby, Lever (all public, no auth required)
 
-6. **Level 3 — WebSearch queries** (parallel if possible):
+6. **Level 3 — Browser search scrape** (sequential — NEVER parallel Playwright):
    For each query in `search_queries` with `enabled: true`:
-   a. Execute WebSearch with defined `query`
+   a. Navigate the search results page for the `query` with Playwright, then snapshot and scrape the results
    b. From each result extract: `{title, url, company}`
       - **title**: from result title (before " @ " or " | ")
       - **url**: result URL
@@ -108,7 +108,7 @@ Levels are additive — all run, results are merged and deduplicated.
 
 9. **Verify result liveness (Level 3 only)** — BEFORE adding to pipeline:
 
-   WebSearch results may be stale (Google caches results for weeks or months). To avoid evaluating expired offers, verify each new Level 3 URL with Playwright. Levels 1 and 2 are inherently real-time and don't require this verification.
+   Scraped search results may be stale (search engines cache pages for weeks or months). To avoid evaluating expired offers, verify each new Level 3 URL with Playwright. Levels 1 and 2 are inherently real-time and don't require this verification.
 
    For each new Level 3 URL (sequential — NEVER parallel Playwright):
    a. `browser_navigate` to URL
@@ -132,9 +132,9 @@ Levels are additive — all run, results are merged and deduplicated.
 12. **Duplicate offers**: register with status `skipped_dup`
 13. **Expired offers (Level 3)**: register with status `skipped_expired`
 
-## Extracting title and company from WebSearch results
+## Extracting title and company from scraped results
 
-WebSearch results come in format: `"Job Title @ Company"` or `"Job Title | Company"` or `"Job Title — Company"`.
+Scraped search results come in format: `"Job Title @ Company"` or `"Job Title | Company"` or `"Job Title — Company"`.
 
 Extraction patterns by portal:
 - **Ashby**: `"Senior AI PM (Remote) @ EverAI"` → title: `Senior AI PM`, company: `EverAI`
@@ -158,7 +158,7 @@ url	first_seen	portal	title	company	status
 https://...	2026-02-10	Ashby — AI PM	PM AI	Acme	added
 https://...	2026-02-10	Greenhouse — SA	Junior Dev	BigCo	skipped_title
 https://...	2026-02-10	Ashby — AI PM	SA AI	OldCo	skipped_dup
-https://...	2026-02-10	WebSearch — AI PM	PM AI	ClosedCo	skipped_expired
+https://...	2026-02-10	Search scrape — AI PM	PM AI	ClosedCo	skipped_expired
 ```
 
 ## Output summary
@@ -191,7 +191,7 @@ Every company in `tracked_companies` must have `careers_url` — the direct URL 
 
 **If `careers_url` doesn't exist** for a company:
 1. Try the known pattern for its platform
-2. If that fails, do a quick WebSearch: `"{company}" careers jobs`
+2. If that fails, scrape a quick search for `"{company}" careers jobs` (Playwright navigate + snapshot)
 3. Navigate with Playwright to confirm it works
 4. **Save the found URL in portals.yml** for future scans
 
