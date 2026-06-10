@@ -13,10 +13,10 @@ Claude Conductor (claude --chrome --dangerously-skip-permissions)
   │  Reads DOM directly — you see everything in real-time
   │
   ├─ Offer 1: reads JD from DOM + URL
-  │    └─► claude -p worker → report .md + PDF + tracker-line
+  │    └─► claude -p worker → report .md + tracker-line
   │
   ├─ Offer 2: click next, reads JD + URL
-  │    └─► claude -p worker → report .md + PDF + tracker-line
+  │    └─► claude -p worker → report .md + tracker-line
   │
   └─ End: merge tracker-additions → applications.md + summary
 ```
@@ -44,9 +44,10 @@ batch/
    a. Chrome: click offer → read JD text from DOM
    b. Save JD to `/tmp/batch-jd-{id}.txt`
    c. Calculate next REPORT_NUM sequentially
-   d. Execute via Bash:
+   d. Execute via Bash (explicit tool allowlist, no Bash for the worker, so a
+      scraped JD cannot run host commands):
       ```bash
-      claude -p --dangerously-skip-permissions \
+      claude -p --allowed-tools 'Read,Write,WebFetch,WebSearch' \
         --append-system-prompt-file batch/batch-prompt.md \
         "Process this offer. URL: {url}. JD: /tmp/batch-jd-{id}.txt. Report: {num}. ID: {id}"
       ```
@@ -90,9 +91,10 @@ Each worker receives `batch-prompt.md` as system prompt. Self-contained.
 
 Worker produces:
 1. Report `.md` in `reports/`
-2. PDF in `output/`
-3. Tracker line in `batch/tracker-additions/{id}.tsv`
-4. JSON result via stdout
+2. Tracker line in `batch/tracker-additions/{id}.tsv`
+3. JSON result via stdout
+
+No PDF generation. The worker evaluates and records only.
 
 ## Error Handling
 
@@ -103,7 +105,6 @@ Worker produces:
 | Portal layout changes | Conductor reasons about HTML, adapts |
 | Worker crashes | Conductor marks `failed`, next. Retry with `--retry-failed` |
 | Conductor dies | Re-execute → reads state → skips completed |
-| PDF fails | Report .md saved. PDF marked pending |
 
 ---
 
