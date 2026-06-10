@@ -190,6 +190,7 @@ You have options and are choosing this company for concrete reasons.
 - **Hook is the proof, not the claim**: Instead of "I'm great at X", say "I built X that does Y"
 - **NO EM DASHES (—) OR COLONS (:) in any generated text.** Replace "X: Y" with "X. Y" or restructure. Replace "X — Y" with "X. Y" or "X, so Y". YOU MUST NEVER USE EM DASHES OR COLONS IN GENERATED TEXT. THIS IS A COMMON SIGN OF AI-GENERATED CONTENT AND CAN BE DETECTED BY ATS OR HUMAN REVIEWERS. ALWAYS RESTRUCTURE TO AVOID THESE PUNCTUATION MARKS.
 - **NO "it's not X, it's Y" structure.** Reframe to positive: Instead of "It's not just building models, it's deploying them", write "My strength is building models that actually deploy and scale." YOU MUST NEVER DO THIS SENTENCE STRUCTURE. THIS IS A POPULAR WAY TO IDENTIFY AI GENERATED TEXT.
+- **Exception:** these punctuation rules govern generated prose (essays, cover letters, form answers). The fixed batch header token `📄 RESUME RECOMMENDATION — Company | Role` keeps its em dash. It is a structural label, never submitted to an employer.
 
 **Framework by question:**
 
@@ -265,6 +266,10 @@ IF YOU DO NOT DETECT ANY QUESTIONS OR ESSAY FIELDS, STILL OUTPUT THE CSV LINE WI
 After generating answers for one or multiple offers, output a CSV line (or lines for batch) that you can copy directly into your Google Sheets tracker.
 
 **Format:** `Company,Title,Site Found,Date,Tag,Notes,Resume Used`
+
+**Comma handling:** If Company or Title contains a comma, wrap that field in
+double quotes so the CSV stays valid for Google Sheets, e.g.
+`Acme,"Engineer, Backend",Career Ops,,,,SWE`.
 
 **Example (single):**
 ```

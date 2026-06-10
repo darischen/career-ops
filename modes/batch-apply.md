@@ -221,7 +221,9 @@ Each worker (no browser access):
    [2-3 sentence explanation]
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    ```
-5. Generate CSV line: `Company,Role,Career Ops,,,,CODE`
+5. Generate CSV line: `Company,Role,Career Ops,,,,CODE`. If Company or Role
+   contains a comma, wrap that field in double quotes
+   (e.g. `Acme,"Engineer, Backend",Career Ops,,,,SWE`).
 6. Generate essay answers (only if FORM != "NO_FORM_DETECTED")
 7. Write `batch/pending/{id}-output.json`:
    ```json
@@ -242,22 +244,25 @@ Each worker (no browser access):
 
 ## Phase 3 — Judge
 
-Spawn **one** agent (background, persistent):
+The judge is the **deterministic script** `batch/judge.mjs`, not an LLM agent.
+Format validation must be reproducible, so run it in the background right after
+the conductor finishes:
 
 ```javascript
-Agent({
-  description: "Judge: validate outputs",
-  subagent_type: "haiku",
-  prompt: `[from batch/pending-plan.json]`,
-  run_in_background: true
-});
+Bash({ command: "node batch/judge.mjs", run_in_background: true });
 ```
+
+The script implements the loop below. (There is no LLM judge agent. Using a
+script removes the old "two judges" ambiguity and makes gating deterministic.)
 
 Judge loop (sequential, no concurrent processing):
 1. Watch `batch/pending/*-output.json`
 2. For each, validate:
    - Recommendation block has 8 sections
-   - CSV format correct (Company,Role,Career Ops,,,,CODE)
+   - CSV ends with the fixed suffix `,Career Ops,,,,CODE` (CODE = AI|SWE|EE|WD).
+     Company/Title may contain commas when wrapped in double quotes, e.g.
+     `Acme,"Engineer, Backend",Career Ops,,,,SWE`. Validate the suffix, not the
+     column count, so commas inside titles do not cause false rejects.
    - Resume code matches recommendation
    - Header includes "Company | Role"
 3. **If valid (CRITICAL — append in exact order):**
@@ -410,5 +415,10 @@ Each company clearly identified with **Company | Role** in header.
 3. **NEVER allow concurrent Playwright** — conductor is the only browser user
 4. **NEVER allow concurrent batch.txt writes** — only judge writes
 5. **ALWAYS clean batch/pending/** — triple-redundant cleanup hooks
-6. **ALWAYS use Haiku for workers + judge** — not reasoning-intensive
+6. **ALWAYS use Haiku for workers** — not reasoning-intensive. The judge is the
+   deterministic script `batch/judge.mjs`, not an agent.
 7. **ALWAYS validate before commit** — judge gates batch.txt writes
+8. **Em-dash exception:** the no-em-dash writing rule applies to generated prose
+   (essays, cover letters, form answers). The fixed header token
+   `📄 RESUME RECOMMENDATION — Company | Role` keeps its em dash. It is a
+   structural label written to batch.txt/terminal, never submitted to an employer.

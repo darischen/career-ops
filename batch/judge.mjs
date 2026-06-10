@@ -47,8 +47,10 @@ function validateRecommendationBlock(block) {
     issues.push("Missing or incorrect title format");
   }
 
-  // Check for company | role pattern
-  if (!block.match(/RECOMMENDATION\s*—\s*\w+\s*\|\s*/)) {
+  // Check for company | role pattern.
+  // Company may be multi-word ("Bank of America", "Career Ops"), so match
+  // any non-pipe text between the em dash and the "|" role separator.
+  if (!block.match(/RECOMMENDATION\s*—\s*[^|\n]+\|\s*\S/)) {
     issues.push("Title must match format: 📄 RESUME RECOMMENDATION — Company | Role");
   }
 
@@ -88,26 +90,28 @@ function validateRecommendationBlock(block) {
 
 function validateCsvLine(csvLine, recommendedResume) {
   const issues = [];
+  const line = csvLine.trim();
 
-  // Check format: Company,Title,Career Ops,,,,CODE
-  const parts = csvLine.split(",");
-  if (parts.length !== 7) {
-    issues.push(`CSV line has ${parts.length} columns, expected 7`);
+  // The CSV is Company,Title,Career Ops,,,,CODE.
+  // Company and Title may legitimately contain commas (e.g. "Engineer, Backend"),
+  // in which case the producer wraps them in double quotes. Counting commas or
+  // banning ", " would falsely reject those, so validate the fixed structural
+  // suffix instead: ,Career Ops,,,,CODE
+  const suffixMatch = line.match(/,Career Ops,,,,(AI|SWE|EE|WD)$/);
+  if (!suffixMatch) {
+    issues.push('CSV must end with ",Career Ops,,,,CODE" where CODE is AI|SWE|EE|WD');
     return issues;
   }
 
-  // Check for spaces after commas
-  if (csvLine.includes(", ")) {
-    issues.push("CSV line has spaces after commas (should be compact)");
+  const csvCode = suffixMatch[1];
+
+  // There must be a Company and Title before the suffix
+  const prefix = line.slice(0, suffixMatch.index);
+  if (!prefix.includes(",")) {
+    issues.push("CSV missing Company,Title before ',Career Ops'");
   }
 
-  // Check that last column (resume code) matches recommendation
-  const csvCode = parts[6].trim();
-  if (!["AI", "SWE", "EE", "WD"].includes(csvCode)) {
-    issues.push(`CSV code '${csvCode}' must be AI|SWE|EE|WD`);
-  }
-
-  // Extract recommended code from recommendation block
+  // Resume code in CSV must match the recommendation block
   const codeMatch = recommendedResume.match(/Recommended\s*:\s*(AI|SWE|EE|WD)|Resume:\s*(AI|SWE|EE|WD)/i);
   const blockCode = codeMatch ? (codeMatch[1] || codeMatch[2]) : null;
 
@@ -148,9 +152,11 @@ function validateOutput(jobId, data) {
 // FILE OPERATIONS
 // ═══════════════════════════════════════════════════════════════
 
+const BATCH_SEPARATOR = "─".repeat(80);
+
 function appendToBatch(recommendation_block, csv_line) {
   let content = fs.readFileSync(batchTxtPath, "utf-8");
-  content += recommendation_block + "\n\n" + csv_line + "\n────\n";
+  content += recommendation_block + "\n\n" + csv_line + "\n" + BATCH_SEPARATOR + "\n";
   fs.writeFileSync(batchTxtPath, content);
 }
 
@@ -189,11 +195,9 @@ async function runJudge() {
   console.log("Judge: Batch Apply Validator");
   console.log("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n");
 
-  const expectedJobIds = [
-    "001", "002", "003", "004", "005", "006", "007", "008", "009", "010",
-    "011", "012", "013", "014", "015"
-  ];
-
+  // Job count is discovered dynamically from *-output.json files in pending/.
+  // The loop exits when the conductor signals done and no outputs/feedbacks
+  // remain, so there is no fixed cap on batch size.
   let processedCount = 0;
   let approvedCount = 0;
   let rejectedCount = 0;
@@ -222,6 +226,10 @@ async function runJudge() {
             appendToEssay(data.company, data.role, data.essay_answers);
           }
           fs.unlinkSync(outputPath);
+          // Clear any stale feedback from a prior rejection so the exit
+          // condition (no remaining feedback files) can be reached.
+          const feedbackPath = path.join(pendingDir, `${jobId}-feedback.json`);
+          if (fs.existsSync(feedbackPath)) fs.unlinkSync(feedbackPath);
           console.log(`[${jobId}] ✓ APPROVED → batch.txt`);
           approvedCount++;
         } else {

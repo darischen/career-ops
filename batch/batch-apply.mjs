@@ -248,50 +248,17 @@ WORKFLOW:
 CRITICAL:
 - Read apply.md for tone, PDF reading rules, and CSV format
 - Recommendation header: "📄 RESUME RECOMMENDATION — ${company} | [JOB TITLE]"
-- CSV exactly formatted (no spaces after commas)
+- CSV format: Company,Title,Career Ops,,,,CODE (no spaces after the structural commas)
+- If Company or Title contains a comma, wrap THAT field in double quotes,
+  e.g. Acme,"Engineer, Backend",Career Ops,,,,SWE — this keeps the CSV valid
+  for Google Sheets and for the judge
 - Resume code in CSV must match recommendation
 - All 8 recommendation sections required`;
 }
 
-function buildJudgePrompt(jobIds) {
-  return `You are the judge for batch apply outputs. Validate sequentially. NO concurrent processing.
-
-Watch batch/pending/ for *-output.json files. Process ONE AT A TIME.
-
-For each batch/pending/{id}-output.json:
-  1. Read and parse JSON
-  2. Validate recommendation_block has all 8 sections:
-     - Header line (━━━)
-     - Title: "📄 RESUME RECOMMENDATION — Company | Role"
-     - Keyword Scores line
-     - Recommended: AI|SWE|EE|WD Resume
-     - Confidence: XX/100
-     - Top 3 Signals (3 items)
-     - Why This Resume (2-3 sentences)
-     - Footer line (━━━)
-  3. Validate csv_line:
-     - Format: Company,Title,Career Ops,,,,CODE
-     - No spaces after commas
-     - Resume code matches recommendation
-  4. If VALID:
-     - Append recommendation_block + blank line + csv_line + separator to output/batch.txt
-     - Append essay_answers to output/essay.txt (if non-empty)
-     - DELETE batch/pending/{id}-output.json
-     - Print: "[${"id"}] APPROVED → batch.txt"
-  5. If INVALID:
-     - Write batch/pending/{id}-feedback.json with specific issues
-     - Print: "[id] REJECTED → feedback sent"
-     - DO NOT delete output.json (subagent will overwrite after fix)
-
-Job IDs to process: ${jobIds.join(", ")}
-
-Exit when ALL these conditions met:
-  - batch/pending/conductor-done.txt exists
-  - All output.json files have been approved AND deleted
-  - No feedback files pending response
-
-Loop every 3 seconds. Print status.`;
-}
+// The judge is the deterministic script batch/judge.mjs (run in the background
+// after the conductor finishes). It replaces the former LLM judge agent so
+// format validation is reproducible. See modes/batch-apply.md Phase 3.
 
 // ═══════════════════════════════════════════════════════════════
 // MAIN
@@ -384,13 +351,13 @@ async function main() {
     console.log("  run_in_background: false  // Wait for completion");
     console.log("});\n");
 
-    console.log("Step 2: Once conductor done, spawn judge (background, persistent)\n");
-    console.log("Agent({");
-    console.log('  description: "Judge: validate outputs",');
-    console.log('  subagent_type: "haiku",');
-    console.log('  prompt: `[judge prompt]`,');
-    console.log("  run_in_background: true");
-    console.log("});\n");
+    console.log("Step 2: Once conductor done, start the judge (deterministic, background)\n");
+    console.log("Run the judge script in the background (NOT an LLM agent):");
+    console.log("  Bash({ command: \"node batch/judge.mjs\", run_in_background: true })\n");
+    console.log("  The script polls batch/pending/*-output.json, validates format,");
+    console.log("  appends approved blocks to output/batch.txt, and writes feedback.json");
+    console.log("  for any rejects. It exits when conductor-done.txt exists and no");
+    console.log("  outputs or feedbacks remain.\n");
 
     console.log("Step 3: Spawn subagent workers (background, all parallel)\n");
     jobs.forEach((j) => {
@@ -432,7 +399,7 @@ async function main() {
             company: j.company,
             prompt: buildSubagentPrompt(j.id, j.company, j.url),
           })),
-          judge_prompt: buildJudgePrompt(jobs.map((j) => j.id)),
+          judge_command: "node batch/judge.mjs",
         },
         null,
         2

@@ -122,6 +122,6 @@ WRITING RULES (ENFORCED):
 
 These rules apply to ALL generated text (cover letters, form answers, additional info, interview prep).
 
-At the end of the message, always output the CSV at the end. Format: `{Company},{Title},Career Ops,,,,{ResumType}`. ResumType is detected from JD keywords: AI (agent/llm/model/neural/multimodal/rag) | EE (hardware/fpga/circuit/verilog/embedded) | WD (react/frontend/web/next.js/typescript/css) | SWE (default). For batch (multiple offers), output one CSV line per offer.
+At the end of the message, always output the CSV at the end. Format: `{Company},{Title},Career Ops,,,,{ResumType}`. If Company or Title contains a comma, wrap that field in double quotes (e.g. `Acme,"Engineer, Backend",Career Ops,,,,SWE`) so the CSV stays valid for Google Sheets. ResumType is detected from JD keywords: AI (agent/llm/model/neural/multimodal/rag) | EE (hardware/fpga/circuit/verilog/embedded) | WD (react/frontend/web/next.js/typescript/css) | SWE (default). For batch (multiple offers), output one CSV line per offer.
 
 Execute the instructions from the loaded mode file.
