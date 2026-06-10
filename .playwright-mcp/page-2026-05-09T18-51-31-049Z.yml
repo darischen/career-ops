@@ -1,0 +1,44 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - generic "We use cookies to make the safest and most effective website possible." [ref=e9]:
+    - paragraph [ref=e11]: We use cookies to make the safest and most effective website possible.
+    - generic [ref=e12]:
+      - button "Decline" [ref=e15] [cursor=pointer]
+      - button "Accept Cookies" [ref=e19] [cursor=pointer]
+  - banner [ref=e22]:
+    - generic [ref=e24]:
+      - link "PTC Careers careers home" [ref=e27] [cursor=pointer]:
+        - /url: https://www.ptc.com/en/careers
+        - img "PTC Careers careers home" [ref=e28]
+      - heading "PTC Careers" [level=1] [ref=e30]
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - button "English" [ref=e35] [cursor=pointer]:
+            - generic [ref=e39]: English
+          - button "Sign In" [ref=e41] [cursor=pointer]:
+            - generic [ref=e46]: Sign In
+        - navigation [ref=e47]:
+          - button "Home" [ref=e48] [cursor=pointer]
+          - button "Search for Jobs" [ref=e49] [cursor=pointer]
+          - button "Introduce Yourself" [ref=e50] [cursor=pointer]
+  - generic [ref=e57]:
+    - generic [ref=e58]: Follow Us
+    - list [ref=e59]:
+      - listitem [ref=e60] [cursor=pointer]:
+        - link "YouTube" [ref=e61]:
+          - /url: https://www.youtube.com/ptc
+      - listitem [ref=e67] [cursor=pointer]:
+        - link "X" [ref=e68]:
+          - /url: https://twitter.com/PTC
+      - listitem [ref=e72] [cursor=pointer]:
+        - link "LinkedIn" [ref=e73]:
+          - /url: https://www.linkedin.com/company/ptc
+      - listitem [ref=e77] [cursor=pointer]:
+        - link "Facebook" [ref=e78]:
+          - /url: https://www.facebook.com/PTC.Inc
+    - link "PTC Privacy Policy" [ref=e83] [cursor=pointer]:
+      - /url: https://www.ptc.com/en/documents/policies/privacy
+    - generic [ref=e84]:
+      - img [ref=e88]
+      - generic [ref=e108]: © 2026 Workday, Inc. All rights reserved.

@@ -1,0 +1,120 @@
+- generic [ref=e2]:
+  - list [ref=e7]:
+    - listitem [ref=e8]:
+      - link "Valon Tech" [ref=e9] [cursor=pointer]:
+        - /url: https://www.valon.ai
+        - img "Valon Tech" [ref=e10]
+    - listitem [ref=e11]:
+      - link "Back to Valon Tech’s Job Listings" [ref=e12] [cursor=pointer]:
+        - /url: /Valon
+        - img [ref=e13]
+    - listitem
+  - generic [ref=e15]:
+    - heading "Software Engineer" [level=1] [ref=e17]
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - heading "Location" [level=2] [ref=e21]
+          - paragraph [ref=e22]: New York; Remote; San Francisco
+        - generic [ref=e23]:
+          - heading "Employment Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Full time
+        - generic [ref=e26]:
+          - heading "Location Type" [level=2] [ref=e27]
+          - paragraph [ref=e28]: On-site
+        - generic [ref=e29]:
+          - heading "Department" [level=2] [ref=e30]
+          - paragraph [ref=e31]:
+            - generic [ref=e32]: Engineering
+        - generic [ref=e33]:
+          - heading "Compensation" [level=2] [ref=e34]
+          - list [ref=e35]:
+            - listitem [ref=e36]:
+              - generic [ref=e37]: $170K – $200K • Offers Equity
+      - generic [ref=e38]:
+        - tablist [ref=e39]:
+          - tab "Overview" [selected] [ref=e40] [cursor=pointer]
+          - tab "Application" [ref=e41] [cursor=pointer]
+        - tabpanel "Overview" [ref=e43]:
+          - generic [ref=e44]:
+            - heading "About the Company" [level=2] [ref=e45]:
+              - strong [ref=e46]: About the Company
+            - paragraph [ref=e47]:
+              - text: Valon is building the AI-native operating system for regulated finance, starting with mortgage servicing.
+              - text: We're a Series C company backed by a16z, transforming industries that others have written off as too complex to innovate.
+              - text: "Rather than build on top of broken legacy systems, we took a different approach: we built and operate our own mortgage servicing business managing $110+ billion in loans. This wasn't the end goal, it was how we deeply understood the complexity needed to build software that actually works in regulated industries."
+              - text: The results speak for themselves. We've transformed mortgage servicing from a 0% margin business into 60%+ margins while dramatically improving customer experience. Major enterprise contracts are now deploying across the industry.
+              - text: ValonOS is our unified platform that makes every process structured and programmable and it is perfectly positioned for the AI era. When everything flows through one system with rich data, AI agents don't just automate tasks, they continuously improve entire operations. Mortgage servicing is just the beginning of our vision to transform regulated industries and beyond.
+            - paragraph [ref=e48]
+            - heading "Engineering at Valon" [level=2] [ref=e49]:
+              - strong [ref=e50]: Engineering at Valon
+            - paragraph [ref=e51]: Our engineering team is here to power the software ecosystem to disrupt one of the most outdated and regulated spaces in the financial sector - the mortgage industry. We’ve built out the foundation of a modern mortgage servicing platform that can accurately handle billions of dollars at scale, but we’re just getting started. At Valon, we want you to do the best work of your life. You'll be surrounded by a tight-knit community of exceptional people from places like Stripe, Jane Street, Meta, and Google who care deeply about their work and each other. Our problem space is complex, but you’ll get a lot of autonomy so that you can learn quickly, execute effectively, and deliver the highest level of business impact. Our tech stack is built on Python, React, Docker, Kubernetes, and Google Cloud Platform.
+            - paragraph [ref=e52]
+            - paragraph [ref=e53]: Our headquarters are in New York City, and this year, we’re excited to open a new office in San Francisco. Plus, we fully support remote work!
+            - paragraph [ref=e54]
+            - heading "Responsibilities" [level=2] [ref=e55]:
+              - strong [ref=e56]: Responsibilities
+            - list [ref=e57]:
+              - listitem [ref=e58]:
+                - paragraph [ref=e59]: Responsible for learning new concepts and technologies quickly and apply them to challenging problems.
+              - listitem [ref=e60]:
+                - paragraph [ref=e61]: Designing and building robust and extensible infrastructure to handle evolving and complex federal, state, and agency regulations.
+              - listitem [ref=e62]:
+                - paragraph [ref=e63]: Dive deep to understand the inner workings of a highly complex industry.
+              - listitem [ref=e64]:
+                - paragraph [ref=e65]: Work with Product and Design to define the best experience for our customers.
+            - paragraph [ref=e66]
+            - heading "Ideal Background" [level=2] [ref=e67]:
+              - strong [ref=e68]: Ideal Background
+            - list [ref=e69]:
+              - listitem [ref=e70]:
+                - paragraph [ref=e71]: Bachelor’s degree in Computer Science or related field.
+              - listitem [ref=e72]:
+                - paragraph [ref=e73]: Requires 1 year of software engineering experience building quality software applications at scale, including ability to work cross-functionally to balance product and technical requirements, building scalable systems from scratch with a fast turnaround.
+              - listitem [ref=e74]:
+                - paragraph [ref=e75]: "Experience with one of the following: web application development, mobile application development, building large-scale distributed systems, or infrastructure management."
+              - listitem [ref=e76]:
+                - paragraph [ref=e77]: Must have legal authority to work in the U.S. EEOE.
+            - paragraph [ref=e78]
+            - heading "Benefits" [level=2] [ref=e79]:
+              - strong [ref=e80]: Benefits
+            - list [ref=e81]:
+              - listitem [ref=e82]:
+                - paragraph [ref=e83]: "Compensation: competitive salary with a meaningful stake in the company via equity, and 401k plan. NB: The base salary range reflects multiple levels. We assess level based on a combination of past experience and interview performance"
+              - listitem [ref=e84]:
+                - paragraph [ref=e85]: "Health & well-being: we’ll invest in your physical and mental well-being with comprehensive medical, dental, & vision benefits"
+              - listitem [ref=e86]:
+                - paragraph [ref=e87]: "Commuter benefits: We offer pre-tax deductions for public transportation, rideshare services, and parking expenses to make your commute more affordable and convenient"
+              - listitem [ref=e88]:
+                - paragraph [ref=e89]: "Grow together: Company wide orientation for you to successfully onboard and other learning & development opportunities including regular review cycles that feature 360 degree feedback"
+              - listitem [ref=e90]:
+                - paragraph [ref=e91]: "Play together: quarterly budgets for team and company outings. Use it for team swag, cooking classes, or team dinners!"
+              - listitem [ref=e92]:
+                - paragraph [ref=e93]: "Generous time off: flexible paid time off, sick days, and 11 company holidays"
+              - listitem [ref=e94]:
+                - paragraph [ref=e95]: "Baby bonding time!: 12 weeks off for both birthing and non-birthing parents - fully paid so you can focus your energy on your newest addition"
+            - paragraph [ref=e96]
+            - paragraph [ref=e97]:
+              - emphasis [ref=e98]: Throughout the interview process, please remember that emails will only be from
+              - link "valon.com" [ref=e99] [cursor=pointer]:
+                - /url: http://valon.com
+                - emphasis [ref=e100]: valon.com
+              - emphasis [ref=e101]: email addresses. We will never ask for any personally identifiable information during the interview process itself. Please reach out to talent@valon.com if you have any requests to verify the authenticity of an outreach.
+            - paragraph [ref=e102]
+            - paragraph [ref=e103]:
+              - emphasis [ref=e104]: Valon is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws. Valon makes hiring decisions based solely on qualifications, merit, and business needs at the time.
+          - link "Apply for this Job" [ref=e105] [cursor=pointer]:
+            - /url: /Valon/495b5050-0d48-4ff7-ab21-2a6155d62658/application
+            - button "Apply for this Job" [ref=e106]
+  - contentinfo [ref=e107]:
+    - link "Learn more about Ashby" [ref=e108] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e109]: Powered by
+      - img "Ashby" [ref=e110]
+    - paragraph [ref=e116]:
+      - link "Privacy Policy" [ref=e117] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e118] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e119] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

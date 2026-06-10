@@ -1,0 +1,17 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - img "ServiceNow Logo" [ref=e6]
+    - generic [ref=e7]:
+      - paragraph [ref=e8]: Associate Software Engineer, Search Infrastructure - Moveworks
+      - paragraph [ref=e9]:
+        - generic "Location" [ref=e10]:
+          - img [ref=e11]
+        - text: 1400 Terra Bella Avenue, 94043 Mountain View, CALIFORNIA, United States
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - status
+              - alert

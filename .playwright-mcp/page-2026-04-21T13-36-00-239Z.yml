@@ -1,0 +1,143 @@
+- generic [ref=e6]:
+  - link "Skip to main content" [ref=e7] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e10]:
+    - generic [ref=e12]:
+      - link "careers home" [ref=e15] [cursor=pointer]:
+        - /url: http://careers.adobe.com
+        - img "careers home" [ref=e16]
+      - generic [ref=e17]:
+        - heading [level=1]
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - button "English" [ref=e22] [cursor=pointer]:
+            - generic [ref=e26]: English
+          - button "Sign In" [ref=e28] [cursor=pointer]:
+            - generic [ref=e33]: Sign In
+        - navigation [ref=e34]:
+          - button "Search for Jobs" [ref=e35] [cursor=pointer]
+  - main [ref=e38]:
+    - generic [ref=e39]:
+      - generic [ref=e40]:
+        - link "Back to Job Posting" [ref=e42] [cursor=pointer]:
+          - generic [ref=e46]: Back to Job Posting
+        - heading "2026 University Graduate - Software Development Engineer" [level=2] [ref=e47]
+      - generic "Application Progress" [ref=e48]:
+        - list [ref=e49]:
+          - listitem [ref=e50]:
+            - generic: current step 1 of 6
+            - generic [ref=e56]: My Information
+          - listitem [ref=e57]:
+            - generic: step 2 of 6
+            - generic [ref=e63]: My Experience
+          - listitem [ref=e64]:
+            - generic: step 3 of 6
+            - generic [ref=e70]: Application Questions
+          - listitem [ref=e71]:
+            - generic: step 4 of 6
+            - generic [ref=e77]: Voluntary Disclosures
+          - listitem [ref=e78]:
+            - generic: step 5 of 6
+            - generic [ref=e84]: Self Identify
+          - listitem [ref=e85]:
+            - generic: step 6 of 6
+            - generic [ref=e91]: Review
+      - generic [ref=e92]:
+        - generic [ref=e93]:
+          - heading "My Information" [level=3] [ref=e94]
+          - generic [ref=e95]: "* Indicates a required field"
+          - generic [ref=e96]:
+            - group [ref=e97]:
+              - generic [ref=e99]:
+                - generic [ref=e101]: How Did You Hear About Us?*
+                - generic [ref=e107] [cursor=pointer]:
+                  - textbox "How Did You Hear About Us?" [ref=e108]:
+                    - /placeholder: Search
+                  - generic [ref=e109]: 0 items selected
+            - group [ref=e113]:
+              - group "Have you been employed by Adobe in the past?" [ref=e116]:
+                - generic [ref=e119]: Have you been employed by Adobe in the past?*
+                - generic "Have you been employed by Adobe in the past?" [ref=e122]:
+                  - generic [ref=e123]:
+                    - radio "Yes" [ref=e125] [cursor=pointer]
+                    - generic [ref=e126]: "Yes"
+                  - generic [ref=e127]:
+                    - radio "No" [ref=e129] [cursor=pointer]
+                    - generic [ref=e130]: "No"
+            - group [ref=e131]:
+              - generic [ref=e133]:
+                - generic [ref=e135]: Country*
+                - button "Country United States of America Required" [ref=e139]: United States of America
+            - group "Name" [ref=e141]:
+              - heading "Name" [level=4] [ref=e142]
+              - generic [ref=e143]:
+                - generic [ref=e144]:
+                  - generic [ref=e146]: First Name*
+                  - textbox "First Name" [ref=e149]
+                - generic [ref=e150]:
+                  - generic [ref=e152]: Last Name*
+                  - textbox "Last Name" [ref=e155]
+            - group "Address" [ref=e157]:
+              - heading "Address" [level=4] [ref=e158]
+              - generic [ref=e159]:
+                - generic [ref=e160]:
+                  - generic [ref=e161]: Address Line 1
+                  - textbox "Address Line 1" [ref=e164]
+                - generic [ref=e165]:
+                  - generic [ref=e166]: Address Line 2
+                  - textbox "Address Line 2" [ref=e169]
+                - generic [ref=e170]:
+                  - generic [ref=e171]: City
+                  - textbox "City" [ref=e174]
+                - generic [ref=e175]:
+                  - generic [ref=e176]: State
+                  - button "State Select One" [ref=e180]: Select One
+                - generic [ref=e181]:
+                  - generic [ref=e182]: Postal Code
+                  - textbox "Postal Code" [ref=e185]
+            - group "Email Address" [ref=e187]:
+              - heading "Email Address" [level=4] [ref=e188]
+              - generic [ref=e190]:
+                - generic [ref=e192]: Email*
+                - textbox "Email" [ref=e195]
+            - group "Phone" [ref=e197]:
+              - heading "Phone" [level=4] [ref=e198]
+              - generic [ref=e199]:
+                - generic [ref=e200]:
+                  - generic [ref=e202]: Phone Device Type*
+                  - button "Phone Device Type Select One Required" [ref=e206]: Select One
+                - generic [ref=e207]:
+                  - generic [ref=e209]: Country Phone Code*
+                  - generic [ref=e214] [cursor=pointer]:
+                    - generic:
+                      - textbox "Country Phone Code" [ref=e215]:
+                        - /placeholder: Search
+                      - generic [ref=e216]: 1 item selected, United States of America (+1)
+                    - listbox "items selected" [ref=e218]:
+                      - option "United States of America (+1), press delete to clear value." [ref=e219]:
+                        - paragraph [ref=e224]: United States of America (+1)
+                - generic [ref=e228]:
+                  - generic [ref=e230]: Phone Number*
+                  - textbox "Phone Number" [ref=e233]
+                - generic [ref=e234]:
+                  - generic [ref=e235]: Phone Extension
+                  - textbox "Phone Extension" [ref=e238]
+        - button "Next" [ref=e242] [cursor=pointer]
+  - generic [ref=e243]:
+    - generic [ref=e244]: Follow Us
+    - list [ref=e245]:
+      - listitem [ref=e246] [cursor=pointer]:
+        - link "YouTube" [ref=e247]:
+          - /url: http://www.youtube.com/adobecareers
+      - listitem [ref=e253] [cursor=pointer]:
+        - link "X" [ref=e254]:
+          - /url: https://twitter.com/AdobeCareers
+      - listitem [ref=e258] [cursor=pointer]:
+        - link "Glassdoor" [ref=e259]:
+          - /url: https://www.glassdoor.com/Overview/Working-at-Adobe-EI_IE1090.11,16.htm
+      - listitem [ref=e264] [cursor=pointer]:
+        - link "LinkedIn" [ref=e265]:
+          - /url: https://www.linkedin.com/company/adobe
+    - generic [ref=e269]:
+      - img [ref=e273]
+      - generic [ref=e293]: © 2026 Workday, Inc. All rights reserved.

@@ -1,0 +1,3 @@
+[    2015ms] [LOG] Product Feed Test:8574194002 @ :0
+[100817405ms] [ERROR] Framing 'https://www.recaptcha.net/' violates the following report-only Content Security Policy directive: "frame-ancestors 'self'". The violation has been logged, but no further action has been taken.
+ @ :0

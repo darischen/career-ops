@@ -1,0 +1,476 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Torc Robotics Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://torc.ai/careers/?gh_src=Simplify
+        - img "Torc Robotics Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/torcrobotics?gh_src=Simplify
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e12]:
+          - generic [ref=e13]:
+            - heading "Software Engineer, I - BaseOS" [level=1] [ref=e14]
+            - generic [ref=e15]:
+              - img [ref=e16]
+              - generic [ref=e18]: Ann Arbor, MI
+          - button "Apply" [ref=e19] [cursor=pointer]
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - paragraph [ref=e22]
+            - paragraph [ref=e23]:
+              - strong [ref=e24]: About the Company
+            - paragraph [ref=e25]:
+              - text: At Torc, we have always believed that autonomous vehicle technology will transform how we travel, move freight, and do business.
+              - text: A leader in autonomous driving since 2007, Torc has spent over a decade commercializing our solutions with experienced partners.
+              - link "Now a part of the Daimler family" [ref=e26] [cursor=pointer]:
+                - /url: https://torc.ai/daimler-testing-automated-trucks-public/
+                - generic [ref=e27]: Now a part of the Daimler family
+              - text: ", we are focused solely on developing software for automated trucks to transform how the world moves freight."
+              - text: Join us and catapult your career with the company that helped pioneer autonomous technology, and the first AV software company with the vision to partner directly with a truck manufacturer.
+            - paragraph [ref=e28]:
+              - strong [ref=e29]: Meet the Team
+            - paragraph [ref=e30]:
+              - generic [ref=e34]: The Operating System Team develops and maintains a light-weight in-house modified Linux distribution based on the usage of open source technologies. This also comprises the integration of third party libraries to efficiently run Machine Learning based Applications on NVIDIA target SoCs as wall as the development, operation and maintenance of the required build-system technologies.
+            - paragraph [ref=e35]:
+              - strong [ref=e36]:
+                - generic [ref=e37]: "What you'll do:"
+            - list [ref=e38]:
+              - listitem [ref=e39]: Work on Linux kernel modules
+            - list [ref=e40]:
+              - listitem [ref=e41]: Incorporate Linux Distribution in to build and deployment toolchain
+            - list [ref=e42]:
+              - listitem [ref=e43]: Perform system-level debugging and performance tuning
+            - list [ref=e44]:
+              - listitem [ref=e45]: Develop shell scripts and automation tools
+            - list [ref=e46]:
+              - listitem [ref=e47]: Troubleshoot system issues and optimize performance
+            - list [ref=e48]:
+              - listitem [ref=e49]: Collaborate with cross-functional teams (DevOps, QA, Hardware, Networking)
+            - list [ref=e50]:
+              - listitem [ref=e51]: Ensure system security, stability, and scalability
+            - list [ref=e52]:
+              - listitem [ref=e53]: Manage package builds and deployments
+            - list [ref=e54]:
+              - listitem [ref=e55]: Contribute to documentation and technical design discussions
+            - list [ref=e56]:
+              - listitem [ref=e57]: Optimize performance, memory usage, and real-time behavior of embedded applications.
+            - list [ref=e58]:
+              - listitem [ref=e59]: Integrate and maintain third-party software and open-source software
+            - paragraph [ref=e60]:
+              - strong [ref=e61]:
+                - generic [ref=e62]: "What you’ll need to succeed:"
+            - list [ref=e63]:
+              - listitem [ref=e64]:
+                - generic [ref=e65]: Bachelor's or Master's Degree in Computer Engineering, Computer Science, Mathematics or related field with 1-5+ years of experience.
+              - listitem [ref=e66]: Strong understanding of Linux internals, including user space vs kernel space, device trees, systemd and system boot-up.
+            - list [ref=e67]:
+              - listitem [ref=e68]:
+                - text: Familiar with Linux
+                - strong [ref=e69]: Kernel architecture (
+                - text: Scheduler (CFS vs RT), Memory management (paging, slab, CMA), Interrupt handling, softirq/tasklets)
+            - list [ref=e70]:
+              - listitem [ref=e71]: Deep understanding of Process and IPC (fork/exec, signals, shared memory, pipes, sokcets).
+            - list [ref=e72]:
+              - listitem [ref=e73]: Familiar with Linux boot up sequence and bootloaders.
+            - list [ref=e74]:
+              - listitem [ref=e75]: Experience with device drivers and user space drivers. (PCIe, DMA, Ethernet, CAN)
+            - list [ref=e76]:
+              - listitem [ref=e77]: Linux security knowledge (secure boot chain, signed kernel modules), filesystem hardening, namespace isolation (LSM).
+            - list [ref=e78]:
+              - listitem [ref=e79]: Strong experience with Linux development in Embedded Systems, latency analysis (CyclicTest,ftrace)
+            - list [ref=e80]:
+              - listitem [ref=e81]: Strong knowledge in building real time Embedded Systems for automotive or similar industries
+            - list [ref=e82]:
+              - listitem [ref=e83]: Knowledge of build systems (Make, CMake, Yocto, Buildstream, Bazel)
+            - list [ref=e84]:
+              - listitem [ref=e85]: Proficiency in C/C++ programming
+            - list [ref=e86]:
+              - listitem [ref=e87]: Namespace Isolations (Containers, CGroups)
+            - list [ref=e88]:
+              - listitem [ref=e89]: Experience with Shell scripting (Bash)
+            - list [ref=e90]:
+              - listitem [ref=e91]: Familiarity with system calls, memory management, and process management
+            - list [ref=e92]:
+              - listitem [ref=e93]: Knowledge of networking protocols (TCP/IP, SSH, HTTP)
+            - list [ref=e94]:
+              - listitem [ref=e95]: Experience with debugging tools like GDB, strace, and Valgrind
+            - list [ref=e96]:
+              - listitem [ref=e97]: Experience working in multi-threaded, multi-core, and multi-processor systems.
+            - list [ref=e98]:
+              - listitem [ref=e99]:
+                - text: Solid understanding of Semaphore, Mutex, Message Queue, shared memory and other operating
+                - text: system concepts.
+            - list [ref=e100]:
+              - listitem [ref=e101]:
+                - text: Familiarity with hardware interfaces such as SPI, I2C, UART, Automotive Ethernet, CAN, and
+                - text: GPIO.
+            - list [ref=e102]:
+              - listitem [ref=e103]: Knowledge of software version control (e.g., Git), CI/CD practices, and issue tracking systems.
+            - list [ref=e104]:
+              - listitem [ref=e105]: Experience with Python, Bash scripting, or other relevant tools for automation and testing.
+            - list [ref=e106]:
+              - listitem [ref=e107]: Exposure to Nvidia DriveOs.
+            - list [ref=e108]:
+              - listitem [ref=e109]: Experience with Vector Cast or GTest for unit testing.
+            - list [ref=e110]:
+              - listitem [ref=e111]: Experience working with scrum / Agile teams.
+            - list [ref=e112]:
+              - listitem [ref=e113]: Knowledge of ISO 61508 or/and ISO 26262 desirable.
+            - list [ref=e114]:
+              - listitem [ref=e115]: Automotive ASPICE knowledge – V Cycle
+            - paragraph [ref=e116]:
+              - strong [ref=e117]: Perks of Being a Full-time Torc’r
+              - text: "Torc cares about our team members and we strive to provide benefits and resources to support their health, work/life balance, and future. Our culture is collaborative, energetic, and team focused. Torc offers:"
+            - list [ref=e118]:
+              - listitem [ref=e119]: A competitive compensation package that includes a bonus component and stock options
+            - list [ref=e120]:
+              - listitem [ref=e121]: 100% paid medical, dental, and vision premiums for full-time employees
+            - list [ref=e122]:
+              - listitem [ref=e123]: 401K plan with a 6% employer match
+            - list [ref=e124]:
+              - listitem [ref=e125]: Flexibility in schedule and generous paid vacation (available immediately after start date)
+            - list [ref=e126]:
+              - listitem [ref=e127]: AD+D and Life Insurance
+            - paragraph [ref=e128]:
+              - generic [ref=e129]:
+                - generic [ref=e130]: At Torc, we’re committed to building a diverse and inclusive workplace. We celebrate the uniqueness of our Torc’rs and do not discriminate based on race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, veteran status, or disabilities.
+                - generic [ref=e132]: Even if you don’t meet 100% of the qualifications listed for this opportunity, we encourage you to apply.
+            - paragraph [ref=e133]: Our compensation reflects the cost of labor across several geographic markets. Pay is based on a number of factors and may vary depending on job-related knowledge, skills, and experience. Torc's total compensation package will also include our corporate bonus and stock option plan. Dependent on the position offered, sign-on payments, relocation, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits.
+            - paragraph [ref=e134]:
+              - generic [ref=e135]: "Job ID:"
+              - text: "102527"
+          - generic [ref=e137]:
+            - strong [ref=e142]: Hiring Range for Job Opening
+            - paragraph [ref=e143]: US Pay Range
+            - paragraph [ref=e144]: $114,400 - $137,300 USD
+        - generic [ref=e145]:
+          - img [ref=e146]
+          - generic [ref=e148]:
+            - paragraph [ref=e149]: Create a Job Alert
+            - paragraph [ref=e150]: Interested in building your career at Torc Robotics? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e151] [cursor=pointer]
+      - separator [ref=e152]
+      - generic [ref=e153]:
+        - generic [ref=e154]:
+          - generic [ref=e155]:
+            - heading "Apply for this job" [level=2] [ref=e157]
+            - generic [ref=e158]:
+              - paragraph [ref=e160]: "*"
+              - paragraph [ref=e161]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e164] [cursor=pointer]
+        - generic [ref=e165]:
+          - generic [ref=e166]:
+            - generic [ref=e169]:
+              - generic [ref=e170]: First Name*
+              - textbox "First Name" [ref=e171]
+            - generic [ref=e174]:
+              - generic [ref=e175]: Last Name*
+              - textbox "Last Name" [ref=e176]
+            - generic [ref=e179]:
+              - generic [ref=e180]: Email*
+              - textbox "Email" [ref=e181]
+            - group "Phone" [ref=e183]:
+              - generic [ref=e184]: Phone
+              - generic [ref=e187]:
+                - generic [ref=e188]: Country*
+                - generic [ref=e189]:
+                  - log [ref=e191]
+                  - generic [ref=e193]:
+                    - combobox "Country" [ref=e196]
+                    - button "Toggle flyout" [ref=e198] [cursor=pointer]:
+                      - img [ref=e199]
+                  - textbox
+              - generic [ref=e203]:
+                - generic [ref=e204]: Phone*
+                - textbox "Phone" [ref=e205]
+            - generic [ref=e206]:
+              - generic [ref=e208]:
+                - generic [ref=e209]: Location (City)*
+                - generic [ref=e210]:
+                  - log [ref=e212]
+                  - combobox "Location (City)" [ref=e217]
+                  - textbox
+              - button "Locate me" [ref=e218] [cursor=pointer]
+            - group "Resume/CV*" [ref=e220]:
+              - generic [ref=e221]: Resume/CV*
+              - generic [ref=e223]:
+                - generic [ref=e225]:
+                  - button "Attach" [ref=e226] [cursor=pointer]
+                  - generic [ref=e227]: Attach
+                  - button "Attach" [ref=e228]
+                - button "Dropbox" [ref=e230] [cursor=pointer]
+                - button "Google Drive" [ref=e232] [cursor=pointer]
+                - generic [ref=e234]:
+                  - button "Enter manually" [ref=e235] [cursor=pointer]
+                  - generic [ref=e236]: Enter manually
+                - paragraph [ref=e237]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e239]:
+              - generic [ref=e240]: Cover Letter
+              - generic [ref=e242]:
+                - generic [ref=e244]:
+                  - button "Attach" [ref=e245] [cursor=pointer]
+                  - generic [ref=e246]: Attach
+                  - button "Attach" [ref=e247]
+                - button "Dropbox" [ref=e249] [cursor=pointer]
+                - button "Google Drive" [ref=e251] [cursor=pointer]
+                - generic [ref=e253]:
+                  - button "Enter manually" [ref=e254] [cursor=pointer]
+                  - generic [ref=e255]: Enter manually
+                - paragraph [ref=e256]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e257]:
+            - generic [ref=e258]:
+              - separator [ref=e259]
+              - paragraph [ref=e261]: Education
+              - generic [ref=e263]:
+                - generic [ref=e264]: School
+                - generic [ref=e265]:
+                  - log [ref=e267]
+                  - generic [ref=e269]:
+                    - generic [ref=e270]:
+                      - generic [ref=e271]: Select...
+                      - combobox "School" [ref=e273]
+                    - button "Toggle flyout" [ref=e275] [cursor=pointer]:
+                      - img [ref=e276]
+              - generic [ref=e279]:
+                - generic [ref=e280]: Degree
+                - generic [ref=e281]:
+                  - log [ref=e283]
+                  - generic [ref=e285]:
+                    - generic [ref=e286]:
+                      - generic [ref=e287]: Select...
+                      - combobox "Degree" [ref=e289]
+                    - button "Toggle flyout" [ref=e291] [cursor=pointer]:
+                      - img [ref=e292]
+            - button "Add another" [ref=e294] [cursor=pointer]
+          - generic [ref=e295]:
+            - separator [ref=e296]
+            - generic [ref=e299]:
+              - generic [ref=e300]: Are you local to Ann Arbor, MI?*
+              - generic [ref=e301]:
+                - log [ref=e303]
+                - generic [ref=e305]:
+                  - generic [ref=e306]:
+                    - generic [ref=e307]: Select...
+                    - combobox "Are you local to Ann Arbor, MI?" [ref=e309]
+                  - button "Toggle flyout" [ref=e311] [cursor=pointer]:
+                    - img [ref=e312]
+                - textbox
+            - generic [ref=e316]:
+              - generic [ref=e317]: How did you first hear about this job? Please list the site, event, or person that referred you.*
+              - textbox "How did you first hear about this job? Please list the site, event, or person that referred you." [ref=e318]
+            - generic [ref=e321]:
+              - generic [ref=e322]: What is your availability or desired start date?*
+              - textbox "What is your availability or desired start date?" [ref=e323]
+            - generic [ref=e326]:
+              - generic [ref=e327]: What are your salary expectations?*
+              - textbox "What are your salary expectations?" [ref=e328]
+            - generic [ref=e331]:
+              - generic [ref=e332]: Are you legally authorized to work in the United States for TORC Robotics?*
+              - generic [ref=e333]:
+                - log [ref=e335]
+                - generic [ref=e337]:
+                  - generic [ref=e338]:
+                    - generic [ref=e339]: Select...
+                    - combobox "Are you legally authorized to work in the United States for TORC Robotics?" [ref=e341]
+                  - button "Toggle flyout" [ref=e343] [cursor=pointer]:
+                    - img [ref=e344]
+                - textbox
+            - generic [ref=e348]:
+              - generic [ref=e349]: Do you require or will you require sponsorship for employment visa status (e.g., H-1B visa status, etc.) to work legally in the United States for TORC Robotics?*
+              - generic [ref=e350]:
+                - log [ref=e352]
+                - generic [ref=e354]:
+                  - generic [ref=e355]:
+                    - generic [ref=e356]: Select...
+                    - combobox "Do you require or will you require sponsorship for employment visa status (e.g., H-1B visa status, etc.) to work legally in the United States for TORC Robotics?" [ref=e358]
+                  - button "Toggle flyout" [ref=e360] [cursor=pointer]:
+                    - img [ref=e361]
+                - textbox
+            - generic [ref=e363]:
+              - 'group "U.S. Export Control Requirements - Are you a citizen, national, or resident of any of the following countries/regions? Check each that apply: *" [ref=e364]':
+                - generic [ref=e365]: "U.S. Export Control Requirements - Are you a citizen, national, or resident of any of the following countries/regions? Check each that apply: *"
+                - generic [ref=e366]:
+                  - checkbox "Cuba" [ref=e368]
+                  - generic [ref=e369]: Cuba
+                - generic [ref=e370]:
+                  - checkbox "Iran" [ref=e372]
+                  - generic [ref=e373]: Iran
+                - generic [ref=e374]:
+                  - checkbox "North Korea" [ref=e376]
+                  - generic [ref=e377]: North Korea
+                - generic [ref=e378]:
+                  - checkbox "Syria" [ref=e380]
+                  - generic [ref=e381]: Syria
+                - generic [ref=e382]:
+                  - checkbox "The disputed Crimea, Donetsk, or Luhansk regions of Ukraine" [ref=e384]
+                  - generic [ref=e385]: The disputed Crimea, Donetsk, or Luhansk regions of Ukraine
+                - generic [ref=e386]:
+                  - checkbox "None/Not applicable" [ref=e388]
+                  - generic [ref=e389]: None/Not applicable
+              - paragraph [ref=e392]:
+                - strong [ref=e393]: "Please note:"
+                - text: Torc is committed to complying with applicable export control and technology transfer laws in the United States and the other countries where it operates. This question and the two that follow help us comply with these requirements. Any information you provide will be considered and protected in accordance with applicable export control and employments laws.
+            - generic [ref=e394]:
+              - 'group "If you checked any of the boxes above other than None / Not applicable, then please provide additional information regarding your immigration and residency status. Check each that apply: *" [ref=e395]':
+                - generic [ref=e396]: "If you checked any of the boxes above other than None / Not applicable, then please provide additional information regarding your immigration and residency status. Check each that apply: *"
+                - generic [ref=e397]:
+                  - checkbox "I am a U.S. Citizen or Legal Permanent Resident." [ref=e399]
+                  - generic [ref=e400]: I am a U.S. Citizen or Legal Permanent Resident.
+                - generic [ref=e401]:
+                  - checkbox "I am a Citizen or Legal Permanent Resident of a different country." [ref=e403]
+                  - generic [ref=e404]: I am a Citizen or Legal Permanent Resident of a different country.
+                - generic [ref=e405]:
+                  - checkbox "I reside in a different country and have a valid work visa there." [ref=e407]
+                  - generic [ref=e408]: I reside in a different country and have a valid work visa there.
+                - generic [ref=e409]:
+                  - checkbox "I reside in Cuba, Iran, North Korea, Syria, The disputed Crimea, Donetsk, or Luhansk regions of Ukraine." [ref=e411]
+                  - generic [ref=e412]: I reside in Cuba, Iran, North Korea, Syria, The disputed Crimea, Donetsk, or Luhansk regions of Ukraine.
+                - generic [ref=e413]:
+                  - checkbox "None/Not applicable" [ref=e415]
+                  - generic [ref=e416]: None/Not applicable
+              - paragraph [ref=e419]:
+                - strong [ref=e420]: "Please note:"
+                - text: Citizenship or residency in these countries will not automatically disqualify you from consideration. However, individuals from certain countries or regions may be subject to additional review and authorization requirements in accordance with U.S. and other applicable laws.
+            - generic [ref=e423]:
+              - generic [ref=e424]: If you checked either 'I am a Citizen or Legal Permanent Resident of a different country' or 'I reside in a different country and have a valid work visa there' please indicate the applicable country or countries. Type N/A if not applicable.*
+              - textbox "If you checked either 'I am a Citizen or Legal Permanent Resident of a different country' or 'I reside in a different country and have a valid work visa there' please indicate the applicable country or countries. Type N/A if not applicable." [ref=e425]
+            - generic [ref=e428]:
+              - generic [ref=e429]: Do you have an agreement between you and your current or former employer that may restrict your ability to accept this offer of employment with Torc or restrict any work that you may do for Torc? *
+              - generic [ref=e430]:
+                - log [ref=e432]
+                - generic [ref=e434]:
+                  - generic [ref=e435]:
+                    - generic [ref=e436]: Select...
+                    - combobox "Do you have an agreement between you and your current or former employer that may restrict your ability to accept this offer of employment with Torc or restrict any work that you may do for Torc?" [ref=e438]
+                  - button "Toggle flyout" [ref=e440] [cursor=pointer]:
+                    - img [ref=e441]
+                - textbox
+            - generic [ref=e445]:
+              - generic [ref=e446]: Do you have any relatives or family members currently employed at Torc Robotics?*
+              - generic [ref=e447]:
+                - log [ref=e449]
+                - generic [ref=e451]:
+                  - generic [ref=e452]:
+                    - generic [ref=e453]: Select...
+                    - combobox "Do you have any relatives or family members currently employed at Torc Robotics?" [ref=e455]
+                  - button "Toggle flyout" [ref=e457] [cursor=pointer]:
+                    - img [ref=e458]
+                - textbox
+            - generic [ref=e462]:
+              - generic [ref=e463]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e464]
+            - generic [ref=e467]:
+              - generic [ref=e468]: Website / Portfolio
+              - textbox "Website / Portfolio" [ref=e469]
+            - generic [ref=e472]:
+              - generic [ref=e473]: If there is any additional information you would like us to consider when evaluating your application, please provide it below.
+              - textbox "If there is any additional information you would like us to consider when evaluating your application, please provide it below." [ref=e474]
+          - generic [ref=e475]:
+            - separator [ref=e476]
+            - generic [ref=e477]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e478]
+              - paragraph [ref=e479]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e480]: As set forth in Torc Robotics’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e483]:
+              - generic [ref=e484]: Gender
+              - generic [ref=e485]:
+                - log [ref=e487]
+                - generic [ref=e489]:
+                  - generic [ref=e490]:
+                    - generic [ref=e491]: Select...
+                    - combobox "Gender" [ref=e493]
+                  - button "Toggle flyout" [ref=e495] [cursor=pointer]:
+                    - img [ref=e496]
+            - generic [ref=e498]:
+              - generic [ref=e500]:
+                - generic [ref=e501]: Are you Hispanic/Latino?
+                - generic [ref=e502]:
+                  - log [ref=e504]
+                  - generic [ref=e506]:
+                    - generic [ref=e507]:
+                      - generic [ref=e508]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e510]
+                    - button "Toggle flyout" [ref=e512] [cursor=pointer]:
+                      - img [ref=e513]
+              - link "Race & Ethnicity Definitions" [ref=e515] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e516]:
+              - paragraph [ref=e517]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e518]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e519]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e520]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e521]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e524]:
+              - generic [ref=e525]: Veteran Status
+              - generic [ref=e526]:
+                - log [ref=e528]
+                - generic [ref=e530]:
+                  - generic [ref=e531]:
+                    - generic [ref=e532]: Select...
+                    - combobox "Veteran Status" [ref=e534]
+                  - button "Toggle flyout" [ref=e536] [cursor=pointer]:
+                    - img [ref=e537]
+            - separator [ref=e539]
+            - generic [ref=e540]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e541]
+              - generic [ref=e542]:
+                - generic [ref=e543]:
+                  - generic [ref=e544]: Form CC-305
+                  - generic [ref=e545]: Page 1 of 1
+                - generic [ref=e546]:
+                  - generic [ref=e547]: OMB Control Number 1250-0005
+                  - generic [ref=e548]: Expires 04/30/2026
+              - strong [ref=e549]: Why are you being asked to complete this form?
+              - paragraph [ref=e550]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e551]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e552] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e553]: How do you know if you have a disability?
+              - paragraph [ref=e554]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e555]: "Disabilities include, but are not limited to:"
+              - list [ref=e556]:
+                - listitem [ref=e557]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e558]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e559]: Blind or low vision
+                - listitem [ref=e560]: Cancer (past or present)
+                - listitem [ref=e561]: Cardiovascular or heart disease
+                - listitem [ref=e562]: Celiac disease
+                - listitem [ref=e563]: Cerebral palsy
+                - listitem [ref=e564]: Deaf or serious difficulty hearing
+                - listitem [ref=e565]: Diabetes
+                - listitem [ref=e566]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e567]: Epilepsy or other seizure disorder
+                - listitem [ref=e568]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e569]: Intellectual or developmental disability
+                - listitem [ref=e570]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e571]: Missing limbs or partially missing limbs
+                - listitem [ref=e572]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e573]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e574]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e575]: Partial or complete paralysis (any cause)
+                - listitem [ref=e576]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e577]: Short stature (dwarfism)
+                - listitem [ref=e578]: Traumatic brain injury
+            - generic [ref=e581]:
+              - generic [ref=e582]: Disability Status
+              - generic [ref=e583]:
+                - log [ref=e585]
+                - generic [ref=e587]:
+                  - generic [ref=e588]:
+                    - generic [ref=e589]: Select...
+                    - combobox "Disability Status" [ref=e591]
+                  - button "Toggle flyout" [ref=e593] [cursor=pointer]:
+                    - img [ref=e594]
+            - paragraph [ref=e597]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e599] [cursor=pointer]
+  - contentinfo [ref=e600]:
+    - generic [ref=e601]:
+      - paragraph [ref=e602]: Powered by
+      - link "Greenhouse logo" [ref=e603] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e604]

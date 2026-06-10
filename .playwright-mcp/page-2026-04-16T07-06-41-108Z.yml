@@ -1,0 +1,9 @@
+- generic [active] [ref=e1]:
+  - heading "SNC Software Engineer I" [level=1] [ref=e2]
+  - paragraph [ref=e3]:
+    - strong [ref=e4]: "Score:"
+    - text: 3.2/5
+  - paragraph [ref=e5]:
+    - strong [ref=e6]: "Recommendation:"
+    - text: DO NOT APPLY
+  - paragraph [ref=e7]: Defense contractor role requiring Secret U.S. Security Clearance and in-office in Plano, TX. Below compensation target. Not aligned with full-stack or AI/ML career goals.

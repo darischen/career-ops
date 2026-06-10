@@ -1,0 +1,666 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation "Global" [ref=e4]:
+      - list [ref=e6]:
+        - listitem [ref=e7]:
+          - link "Apple" [ref=e8] [cursor=pointer]:
+            - /url: https://www.apple.com/
+            - generic:
+              - img
+            - generic: Apple
+        - listitem [ref=e9]:
+          - generic [ref=e11]:
+            - list [ref=e13]:
+              - listitem [ref=e14]:
+                - link "Store" [ref=e15] [cursor=pointer]:
+                  - /url: https://www.apple.com/us/shop/goto/store
+                  - generic [ref=e16]:
+                    - generic:
+                      - img
+                    - generic: Store
+              - listitem:
+                - button "Store menu":
+                  - generic:
+                    - img
+            - list [ref=e18]:
+              - listitem [ref=e19]:
+                - link "Mac" [ref=e20] [cursor=pointer]:
+                  - /url: https://www.apple.com/mac/
+                  - generic [ref=e21]:
+                    - generic:
+                      - img
+                    - generic: Mac
+              - listitem:
+                - button "Mac menu":
+                  - generic:
+                    - img
+            - list [ref=e23]:
+              - listitem [ref=e24]:
+                - link "iPad" [ref=e25] [cursor=pointer]:
+                  - /url: https://www.apple.com/ipad/
+                  - generic [ref=e26]:
+                    - generic:
+                      - img
+                    - generic: iPad
+              - listitem:
+                - button "iPad menu":
+                  - generic:
+                    - img
+            - list [ref=e28]:
+              - listitem [ref=e29]:
+                - link "iPhone" [ref=e30] [cursor=pointer]:
+                  - /url: https://www.apple.com/iphone/
+                  - generic [ref=e31]:
+                    - generic:
+                      - img
+                    - generic: iPhone
+              - listitem:
+                - button "iPhone menu":
+                  - generic:
+                    - img
+            - list [ref=e33]:
+              - listitem [ref=e34]:
+                - link "Watch" [ref=e35] [cursor=pointer]:
+                  - /url: https://www.apple.com/watch/
+                  - generic [ref=e36]:
+                    - generic:
+                      - img
+                    - generic: Watch
+              - listitem:
+                - button "Watch menu":
+                  - generic:
+                    - img
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Vision" [ref=e40] [cursor=pointer]:
+                  - /url: https://www.apple.com/apple-vision-pro/
+                  - generic [ref=e41]:
+                    - generic:
+                      - img
+                    - generic: Vision
+              - listitem:
+                - button "Vision menu":
+                  - generic:
+                    - img
+            - list [ref=e43]:
+              - listitem [ref=e44]:
+                - link "AirPods" [ref=e45] [cursor=pointer]:
+                  - /url: https://www.apple.com/airpods/
+                  - generic [ref=e46]:
+                    - generic:
+                      - img
+                    - generic: AirPods
+              - listitem:
+                - button "AirPods menu":
+                  - generic:
+                    - img
+            - list [ref=e48]:
+              - listitem [ref=e49]:
+                - link "TV and Home" [ref=e50] [cursor=pointer]:
+                  - /url: https://www.apple.com/tv-home/
+                  - generic [ref=e51]:
+                    - generic:
+                      - img
+                    - generic: TV & Home
+              - listitem:
+                - button "TV and Home menu":
+                  - generic:
+                    - img
+            - list [ref=e53]:
+              - listitem [ref=e54]:
+                - link "Entertainment" [ref=e55] [cursor=pointer]:
+                  - /url: https://www.apple.com/entertainment/
+                  - generic [ref=e56]:
+                    - generic:
+                      - img
+                    - generic: Entertainment
+              - listitem:
+                - button "Entertainment menu":
+                  - generic:
+                    - img
+            - list [ref=e58]:
+              - listitem [ref=e59]:
+                - link "Accessories" [ref=e60] [cursor=pointer]:
+                  - /url: https://www.apple.com/us/shop/goto/buy_accessories
+                  - generic [ref=e61]:
+                    - generic:
+                      - img
+                    - generic: Accessories
+              - listitem:
+                - button "Accessories menu":
+                  - generic:
+                    - img
+            - list [ref=e63]:
+              - listitem [ref=e64]:
+                - link "Support" [ref=e65] [cursor=pointer]:
+                  - /url: https://support.apple.com/?cid=gn-ols-home-hp-tab
+                  - generic [ref=e66]:
+                    - generic:
+                      - img
+                    - generic: Support
+              - listitem:
+                - button "Support menu":
+                  - generic:
+                    - img
+        - listitem [ref=e67]:
+          - button "Search apple.com" [ref=e68] [cursor=pointer]:
+            - generic:
+              - img
+        - listitem [ref=e69]:
+          - button "Shopping Bag" [ref=e71] [cursor=pointer]:
+            - generic:
+              - img
+  - navigation "Careers" [ref=e73]:
+    - generic [ref=e76]:
+      - link "Careers at Apple" [ref=e78] [cursor=pointer]:
+        - /url: /careers/us/index.html
+      - list [ref=e81]:
+        - listitem [ref=e82]:
+          - link "Overview" [ref=e83] [cursor=pointer]:
+            - /url: /careers/us/index.html
+        - listitem [ref=e84] [cursor=pointer]:
+          - list [ref=e85]:
+            - listitem [ref=e86]:
+              - link "Work at Apple" [ref=e87]:
+                - /url: /careers/us/work-at-apple.html
+            - listitem:
+              - button "Work at Apple menu" [ref=e88]
+        - listitem [ref=e89] [cursor=pointer]:
+          - list [ref=e90]:
+            - listitem [ref=e91]:
+              - link "Life at Apple" [ref=e92]:
+                - /url: /careers/us/life-at-apple.html
+            - listitem:
+              - button "Life at Apple menu" [ref=e93]
+        - listitem [ref=e94]:
+          - link "My Profile" [ref=e95] [cursor=pointer]:
+            - /url: https://jobs.apple.com/app/en-us/profile/info
+        - listitem [ref=e96]:
+          - link "Search Roles" [ref=e97] [cursor=pointer]:
+            - /url: https://jobs.apple.com/en-us/search
+  - main [ref=e98]:
+    - generic [ref=e99]:
+      - generic [ref=e106]:
+        - text: Join us part-time. Be you full-time.
+        - link "Get a seasonal job at the Apple Store " [ref=e107] [cursor=pointer]:
+          - /url: https://jobs.apple.com/en-us/details/114438158/us-specialist-full-time-part-time-and-part-time-temporary.html?team=APPST&cid=RetailbannerA_us&board_id=JB111
+      - generic [ref=e110]:
+        - generic [ref=e111]:
+          - img "Series of colorful Apple logos in motion" [ref=e112]
+          - generic [ref=e115]:
+            - heading "Join us. Be you." [level=1]
+            - button "Watch the film about individuality at Apple" [ref=e117] [cursor=pointer]:
+              - generic [ref=e118]: Watch the film
+          - button "Pause Animation of Apple logo" [ref=e120] [cursor=pointer]:
+            - generic [ref=e121]:
+              - img
+        - generic:
+          - paragraph: This is where individual imaginations gather together, committing to the values that lead to great work. Here, you’ll do more than join something — you’ll add something.
+      - generic [ref=e123]:
+        - heading "Work at Apple" [level=2] [ref=e124]
+        - paragraph [ref=e125]:
+          - generic "Join a team and inspire the work." [ref=e126]:
+            - generic [ref=e127]:
+              - text: Join a team and
+              - text: inspire the work.
+        - paragraph [ref=e129]: "Discover how you can make an impact: See our teams, worldwide locations, and opportunities for students."
+        - link "Learn about work at Apple" [ref=e130] [cursor=pointer]:
+          - /url: /careers/us/work-at-apple.html
+      - generic [ref=e132]:
+        - img "Closeup of man working at table in a tech facility" [ref=e133]
+        - generic:
+          - button "Pause film of Ehsan":
+            - generic:
+              - generic:
+                - img
+        - generic [ref=e137]:
+          - blockquote [ref=e138]: “ We aren’t merely creating products. We’re creating something magical for the person who uses it.”
+          - generic [ref=e139]: Ehsan, Engineering Manager
+          - generic [ref=e140]:
+            - button "Watch the film of Ehsan" [ref=e142] [cursor=pointer]:
+              - generic [ref=e143]: Watch the film
+            - link "Learn about working in Hardware " [ref=e144] [cursor=pointer]:
+              - /url: /careers/us/work-at-apple/teams/hardware.html
+      - generic [ref=e146]:
+        - heading "Life at Apple" [level=2] [ref=e147]
+        - paragraph [ref=e148]:
+          - generic "Join our community and help define it." [ref=e149]:
+            - generic [ref=e150]:
+              - text: Join our community
+              - text: and help define it.
+        - paragraph [ref=e152]: Explore a collaborative culture of inclusion, growth, and originality, supported by resources that make a difference in your life.
+        - link "Learn about life at Apple" [ref=e153] [cursor=pointer]:
+          - /url: /careers/us/life-at-apple.html
+      - generic [ref=e155]:
+        - img "Woman helping customer in Apple Store" [ref=e156]
+        - generic:
+          - button "Pause film of Sujin.":
+            - generic:
+              - generic:
+                - img
+        - generic [ref=e160]:
+          - blockquote [ref=e161]: “ At Apple, you can unapologetically be yourself and grow and thrive.”
+          - generic [ref=e162]: Sujin, Apple Store
+          - generic [ref=e163]:
+            - button "Watch the film of Sujin" [ref=e165] [cursor=pointer]:
+              - generic [ref=e166]: Watch the film
+            - link "Learn about Apple Retail " [ref=e167] [cursor=pointer]:
+              - /url: /careers/us/work-at-apple/retail.html
+      - generic [ref=e173]:
+        - heading "Search for what you love to do." [level=3] [ref=e175]
+        - generic [ref=e176]:
+          - combobox "Search by role or keyword" [ref=e177]
+          - generic [ref=e178]: 
+          - text:  
+          - text:     
+      - generic [ref=e181]:
+        - heading "Our values are part of everything built here — including careers." [level=2] [ref=e183]
+        - generic "Our Values Gallery" [ref=e184]:
+          - list [ref=e186]:
+            - listitem [ref=e187]:
+              - generic [ref=e188]:
+                - heading "Accessibility" [level=3] [ref=e189]
+                - paragraph [ref=e190]: Technology is most powerful when everyone can make their mark.
+                - link "Learn about Apple’s accessibility innovations" [ref=e191] [cursor=pointer]:
+                  - /url: https://www.apple.com/accessibility
+                  - text: Learn about Apple’s accessibility innovations
+                  - generic [ref=e192]: 
+                - link "Learn about Apple's workplace accommodations" [ref=e193] [cursor=pointer]:
+                  - /url: /careers/us/accessibility.html
+                  - text: Learn about Apple's workplace
+                  - text: accommodations
+                  - generic [ref=e194]: 
+            - listitem [ref=e195]:
+              - generic [ref=e196]:
+                - heading "Education" [level=3] [ref=e197]
+                - paragraph [ref=e198]: Education is the great equalizer and a powerful source of opportunity for all.
+                - link "Learn about Apple and education" [ref=e199] [cursor=pointer]:
+                  - /url: https://www.apple.com/connectED
+                  - text: Learn about Apple
+                  - text: and education
+                  - generic [ref=e200]: 
+            - listitem [ref=e201]:
+              - generic [ref=e202]:
+                - heading "Environment" [level=3] [ref=e203]
+                - paragraph [ref=e204]: Our goal is to leave the planet better than we found it.
+                - link "Learn about Apple’s environmental efforts" [ref=e205] [cursor=pointer]:
+                  - /url: https://www.apple.com/environment
+                  - text: Learn about Apple’s environmental efforts
+                  - generic [ref=e206]: 
+            - listitem [ref=e207]:
+              - generic [ref=e208]:
+                - heading "Inclusion and Diversity" [level=3] [ref=e209]
+                - paragraph [ref=e210]: We’re committed to making Apple more inclusive and the world more just.
+                - link "Learn about inclusion and diversity at Apple" [ref=e211] [cursor=pointer]:
+                  - /url: https://www.apple.com/diversity
+                  - text: Learn about inclusion and diversity at Apple
+                  - generic [ref=e212]: 
+            - listitem [ref=e213]:
+              - generic [ref=e214]:
+                - heading "Privacy" [level=3] [ref=e215]
+                - paragraph [ref=e216]: We design Apple products to protect your privacy and give you control over your information.
+                - link "Learn about privacy at Apple" [ref=e217] [cursor=pointer]:
+                  - /url: https://www.apple.com/privacy
+                  - text: Learn about privacy at Apple
+                  - generic [ref=e218]: 
+            - listitem [ref=e219]:
+              - generic [ref=e220]:
+                - heading "Racial Equity and Justice Initiative" [level=3] [ref=e221]
+                - paragraph [ref=e222]: This is a long-term effort to help ensure more positive outcomes for communities of color.
+                - link "Learn about Apple’s Racial Equity and Justice Initiative" [ref=e223] [cursor=pointer]:
+                  - /url: https://www.apple.com/racial-equity-justice-initiative
+                  - text: Learn about Apple’s Racial Equity and
+                  - text: Justice Initiative
+                  - generic [ref=e224]: 
+            - listitem [ref=e225]:
+              - generic [ref=e226]:
+                - heading "Supplier Responsibility" [level=3] [ref=e227]
+                - paragraph [ref=e228]: We believe in a safe, respectful, and supportive workplace for everyone.
+                - link "Learn about supplier responsibility at Apple" [ref=e229] [cursor=pointer]:
+                  - /url: https://www.apple.com/supplier-responsibility
+                  - text: Learn about supplier responsibility at Apple
+                  - generic [ref=e230]: 
+          - generic:
+            - list:
+              - listitem:
+                - button "Previous" [disabled]: 
+              - listitem:
+                - button "Next" [ref=e231] [cursor=pointer]: 
+  - contentinfo "Apple Footer" [ref=e232]:
+    - generic [ref=e233]:
+      - heading "Apple Footer" [level=2] [ref=e234]
+      - generic [ref=e235]:
+        - paragraph [ref=e236]:
+          - text: Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.
+          - link "Learn more about your EEO rights as an applicant (Opens in a new window)" [ref=e237] [cursor=pointer]:
+            - /url: https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf
+            - text: Learn more about your EEO rights as an applicant
+            - generic [ref=e238]: (Opens in a new window)
+          - text: .
+        - paragraph [ref=e239]: Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation.
+        - paragraph [ref=e240]:
+          - text: Apple participates in the E-Verify program in certain locations as required by law.
+          - link "Learn more about the E-Verify program (Opens in a new window)" [ref=e241] [cursor=pointer]:
+            - /url: https://www.apple.com/careers/pdf/EverifyPosterEnglish.pdf
+            - text: Learn more about the E-Verify program
+            - generic [ref=e242]: (Opens in a new window)
+          - text: .
+        - paragraph [ref=e243]:
+          - text: Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities.
+          - link "Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window)" [ref=e244] [cursor=pointer]:
+            - /url: https://www.apple.com/careers/us/accommodation.html
+            - generic [ref=e245]: Reasonable Accommodation and Drug Free Workplace policy
+            - text: Learn more
+            - generic [ref=e246]: (Opens in a new window)
+          - text: .
+        - paragraph
+        - paragraph [ref=e247]:
+          - text: Apple is a drug-free workplace.
+          - link "Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window)" [ref=e248] [cursor=pointer]:
+            - /url: https://www.apple.com/careers/us/accommodation.html
+            - generic [ref=e249]: Reasonable Accommodation and Drug Free Workplace policy
+            - text: Learn more
+            - generic [ref=e250]: (Opens in a new window)
+          - text: .
+        - paragraph
+        - paragraph [ref=e251]:
+          - text: Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in San Francisco, review the
+          - link "San Francisco Fair Chance Ordinance guidelines (opens in a new window)" [ref=e252] [cursor=pointer]:
+            - /url: https://www.sf.gov/sites/default/files/2022-12/FCO%20poster2020_0.pdf
+            - generic [ref=e253]: San Francisco Fair Chance Ordinance
+            - text: guidelines
+            - generic [ref=e254]: (opens in a new window)
+          - text: applicable in your area.
+        - paragraph
+        - paragraph [ref=e255]: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+      - navigation "Breadcrumbs" [ref=e256]:
+        - link "Apple" [ref=e257] [cursor=pointer]:
+          - /url: https://www.apple.com/
+          - generic [ref=e258]: 
+          - generic [ref=e259]: Apple
+        - generic [ref=e260]:
+          - list:
+            - listitem [ref=e261]:
+              - link "Careers at Apple" [ref=e262] [cursor=pointer]:
+                - /url: /careers/us/index.html
+                - generic [ref=e263]: Careers at Apple
+            - listitem [ref=e264]:
+              - generic [ref=e265]: Careers at Apple
+      - navigation "Apple Directory" [ref=e266]:
+        - generic [ref=e267]:
+          - generic:
+            - heading "Shop and Learn" [level=3] [ref=e268]:
+              - generic [ref=e269]: Shop and Learn
+            - list [ref=e270]:
+              - listitem [ref=e271]:
+                - link "Store" [ref=e272] [cursor=pointer]:
+                  - /url: https://www.apple.com/us/shop/goto/store
+              - listitem [ref=e273]:
+                - link "Mac" [ref=e274] [cursor=pointer]:
+                  - /url: https://www.apple.com/mac/
+              - listitem [ref=e275]:
+                - link "iPad" [ref=e276] [cursor=pointer]:
+                  - /url: https://www.apple.com/ipad/
+              - listitem [ref=e277]:
+                - link "iPhone" [ref=e278] [cursor=pointer]:
+                  - /url: https://www.apple.com/iphone/
+              - listitem [ref=e279]:
+                - link "Watch" [ref=e280] [cursor=pointer]:
+                  - /url: https://www.apple.com/watch/
+              - listitem [ref=e281]:
+                - link "Vision" [ref=e282] [cursor=pointer]:
+                  - /url: https://www.apple.com/apple-vision-pro/
+              - listitem [ref=e283]:
+                - link "AirPods" [ref=e284] [cursor=pointer]:
+                  - /url: https://www.apple.com/airpods/
+              - listitem [ref=e285]:
+                - link "TV & Home" [ref=e286] [cursor=pointer]:
+                  - /url: https://www.apple.com/tv-home/
+              - listitem [ref=e287]:
+                - link "AirTag" [ref=e288] [cursor=pointer]:
+                  - /url: https://www.apple.com/airtag/
+              - listitem [ref=e289]:
+                - link "Accessories" [ref=e290] [cursor=pointer]:
+                  - /url: https://www.apple.com/us/shop/goto/buy_accessories
+              - listitem [ref=e291]:
+                - link "Gift Cards" [ref=e292] [cursor=pointer]:
+                  - /url: https://www.apple.com/us/shop/goto/giftcards
+          - generic:
+            - heading "Apple Wallet" [level=3] [ref=e293]:
+              - generic [ref=e294]: Apple Wallet
+            - list [ref=e295]:
+              - listitem [ref=e296]:
+                - link "Wallet" [ref=e297] [cursor=pointer]:
+                  - /url: https://www.apple.com/wallet/
+              - listitem [ref=e298]:
+                - link "Apple Card" [ref=e299] [cursor=pointer]:
+                  - /url: https://www.apple.com/apple-card/
+              - listitem [ref=e300]:
+                - link "Apple Pay" [ref=e301] [cursor=pointer]:
+                  - /url: https://www.apple.com/apple-pay/
+              - listitem [ref=e302]:
+                - link "Apple Cash" [ref=e303] [cursor=pointer]:
+                  - /url: https://www.apple.com/apple-cash/
+        - generic [ref=e304]:
+          - generic:
+            - heading "Account" [level=3] [ref=e305]:
+              - generic [ref=e306]: Account
+            - list [ref=e307]:
+              - listitem [ref=e308]:
+                - link "Manage Your Apple Account" [ref=e309] [cursor=pointer]:
+                  - /url: https://account.apple.com/
+              - listitem [ref=e310]:
+                - link "Apple Store Account" [ref=e311] [cursor=pointer]:
+                  - /url: https://www.apple.com/us/shop/goto/account
+              - listitem [ref=e312]:
+                - link "iCloud.com" [ref=e313] [cursor=pointer]:
+                  - /url: https://www.icloud.com
+          - generic:
+            - heading "Entertainment" [level=3] [ref=e314]:
+              - generic [ref=e315]: Entertainment
+            - list [ref=e316]:
+              - listitem [ref=e317]:
+                - link "Apple One" [ref=e318] [cursor=pointer]:
+                  - /url: https://www.apple.com/apple-one/
+              - listitem [ref=e319]:
+                - link "Apple TV+" [ref=e320] [cursor=pointer]:
+                  - /url: https://www.apple.com/apple-tv-plus/
+              - listitem [ref=e321]:
+                - link "Apple Music" [ref=e322] [cursor=pointer]:
+                  - /url: https://www.apple.com/apple-music/
+              - listitem [ref=e323]:
+                - link "Apple Arcade" [ref=e324] [cursor=pointer]:
+                  - /url: https://www.apple.com/apple-arcade/
+              - listitem [ref=e325]:
+                - link "Apple Fitness+" [ref=e326] [cursor=pointer]:
+                  - /url: https://www.apple.com/apple-fitness-plus/
+              - listitem [ref=e327]:
+                - link "Apple News+" [ref=e328] [cursor=pointer]:
+                  - /url: https://www.apple.com/apple-news/
+              - listitem [ref=e329]:
+                - link "Apple Podcasts" [ref=e330] [cursor=pointer]:
+                  - /url: https://www.apple.com/apple-podcasts/
+              - listitem [ref=e331]:
+                - link "Apple Books" [ref=e332] [cursor=pointer]:
+                  - /url: https://www.apple.com/apple-books/
+              - listitem [ref=e333]:
+                - link "App Store" [ref=e334] [cursor=pointer]:
+                  - /url: https://www.apple.com/app-store/
+        - generic [ref=e335]:
+          - generic:
+            - heading "Apple Store" [level=3] [ref=e336]:
+              - generic [ref=e337]: Apple Store
+            - list [ref=e338]:
+              - listitem [ref=e339]:
+                - link "Find a Store" [ref=e340] [cursor=pointer]:
+                  - /url: https://www.apple.com/retail/
+              - listitem [ref=e341]:
+                - link "Genius Bar" [ref=e342] [cursor=pointer]:
+                  - /url: https://www.apple.com/retail/geniusbar/
+              - listitem [ref=e343]:
+                - link "Today at Apple" [ref=e344] [cursor=pointer]:
+                  - /url: https://www.apple.com/today/
+              - listitem [ref=e345]:
+                - link "Group Reservations" [ref=e346] [cursor=pointer]:
+                  - /url: https://www.apple.com/today/groups/
+              - listitem [ref=e347]:
+                - link "Apple Camp" [ref=e348] [cursor=pointer]:
+                  - /url: https://www.apple.com/today/camp/
+              - listitem [ref=e349]:
+                - link "Apple Store App" [ref=e350] [cursor=pointer]:
+                  - /url: https://apps.apple.com/us/app/apple-store/id375380948
+              - listitem [ref=e351]:
+                - link "Certified Refurbished" [ref=e352] [cursor=pointer]:
+                  - /url: https://www.apple.com/us/shop/goto/special_deals
+              - listitem [ref=e353]:
+                - link "Apple Trade In" [ref=e354] [cursor=pointer]:
+                  - /url: https://www.apple.com/us/shop/goto/trade_in
+              - listitem [ref=e355]:
+                - link "Financing" [ref=e356] [cursor=pointer]:
+                  - /url: https://www.apple.com/us/shop/goto/payment_plan
+              - listitem [ref=e357]:
+                - link "Carrier Deals at Apple" [ref=e358] [cursor=pointer]:
+                  - /url: https://www.apple.com/us/shop/goto/buy_iphone/carrier_offers
+              - listitem [ref=e359]:
+                - link "Order Status" [ref=e360] [cursor=pointer]:
+                  - /url: https://www.apple.com/us/shop/goto/order/list
+              - listitem [ref=e361]:
+                - link "Shopping Help" [ref=e362] [cursor=pointer]:
+                  - /url: https://www.apple.com/us/shop/goto/help
+        - generic [ref=e363]:
+          - generic:
+            - heading "For Business" [level=3] [ref=e364]:
+              - generic [ref=e365]: For Business
+            - list [ref=e366]:
+              - listitem [ref=e367]:
+                - link "Apple and Business" [ref=e368] [cursor=pointer]:
+                  - /url: https://www.apple.com/business/
+              - listitem [ref=e369]:
+                - link "Shop for Business" [ref=e370] [cursor=pointer]:
+                  - /url: https://www.apple.com/retail/business/
+          - generic:
+            - heading "For Education" [level=3] [ref=e371]:
+              - generic [ref=e372]: For Education
+            - list [ref=e373]:
+              - listitem [ref=e374]:
+                - link "Apple and Education" [ref=e375] [cursor=pointer]:
+                  - /url: https://www.apple.com/education/
+              - listitem [ref=e376]:
+                - link "Shop for K-12" [ref=e377] [cursor=pointer]:
+                  - /url: https://www.apple.com/education/k12/how-to-buy/
+              - listitem [ref=e378]:
+                - link "Shop for College" [ref=e379] [cursor=pointer]:
+                  - /url: https://www.apple.com/us/shop/goto/educationrouting
+          - generic:
+            - heading "For Healthcare" [level=3] [ref=e380]:
+              - generic [ref=e381]: For Healthcare
+            - list [ref=e382]:
+              - listitem [ref=e383]:
+                - link "Apple in Healthcare" [ref=e384] [cursor=pointer]:
+                  - /url: https://www.apple.com/healthcare/
+              - listitem [ref=e385]:
+                - link "Mac in Healthcare" [ref=e386] [cursor=pointer]:
+                  - /url: https://www.apple.com/healthcare/mac/
+              - listitem [ref=e387]:
+                - link "Health on Apple Watch" [ref=e388] [cursor=pointer]:
+                  - /url: https://www.apple.com/healthcare/apple-watch/
+              - listitem [ref=e389]:
+                - link "Health Records on iPhone and iPad" [ref=e390] [cursor=pointer]:
+                  - /url: https://www.apple.com/healthcare/health-records/
+          - generic:
+            - heading "For Government" [level=3] [ref=e391]:
+              - generic [ref=e392]: For Government
+            - list [ref=e393]:
+              - listitem [ref=e394]:
+                - link "Shop for Government" [ref=e395] [cursor=pointer]:
+                  - /url: https://www.apple.com/r/store/government/
+              - listitem [ref=e396]:
+                - link "Shop for Veterans and Military" [ref=e397] [cursor=pointer]:
+                  - /url: https://www.apple.com/us/shop/goto/eppstore/veteransandmilitary
+        - generic [ref=e398]:
+          - generic:
+            - heading "Apple Values" [level=3] [ref=e399]:
+              - generic [ref=e400]: Apple Values
+            - list [ref=e401]:
+              - listitem [ref=e402]:
+                - link "Accessibility" [ref=e403] [cursor=pointer]:
+                  - /url: https://www.apple.com/accessibility/
+              - listitem [ref=e404]:
+                - link "Education" [ref=e405] [cursor=pointer]:
+                  - /url: https://www.apple.com/education-initiative/
+              - listitem [ref=e406]:
+                - link "Environment" [ref=e407] [cursor=pointer]:
+                  - /url: https://www.apple.com/environment/
+              - listitem [ref=e408]:
+                - link "Inclusion and Diversity" [ref=e409] [cursor=pointer]:
+                  - /url: https://www.apple.com/diversity/
+              - listitem [ref=e410]:
+                - link "Privacy" [ref=e411] [cursor=pointer]:
+                  - /url: https://www.apple.com/privacy/
+              - listitem [ref=e412]:
+                - link "Racial Equity and Justice" [ref=e413] [cursor=pointer]:
+                  - /url: https://www.apple.com/racial-equity-justice-initiative/
+              - listitem [ref=e414]:
+                - link "Supply Chain Innovation" [ref=e415] [cursor=pointer]:
+                  - /url: https://www.apple.com/supply-chain/
+          - generic:
+            - heading "About Apple" [level=3] [ref=e416]:
+              - generic [ref=e417]: About Apple
+            - list [ref=e418]:
+              - listitem [ref=e419]:
+                - link "Newsroom" [ref=e420] [cursor=pointer]:
+                  - /url: https://www.apple.com/newsroom/
+              - listitem [ref=e421]:
+                - link "Apple Leadership" [ref=e422] [cursor=pointer]:
+                  - /url: https://www.apple.com/leadership/
+              - listitem [ref=e423]:
+                - link "Career Opportunities" [ref=e424] [cursor=pointer]:
+                  - /url: https://www.apple.com/careers/us/
+              - listitem [ref=e425]:
+                - link "Investors" [ref=e426] [cursor=pointer]:
+                  - /url: https://investor.apple.com/
+              - listitem [ref=e427]:
+                - link "Ethics & Compliance" [ref=e428] [cursor=pointer]:
+                  - /url: https://www.apple.com/compliance/
+              - listitem [ref=e429]:
+                - link "Events" [ref=e430] [cursor=pointer]:
+                  - /url: https://www.apple.com/apple-events/
+              - listitem [ref=e431]:
+                - link "Contact Apple" [ref=e432] [cursor=pointer]:
+                  - /url: https://www.apple.com/contact/
+      - generic [ref=e433]:
+        - generic [ref=e434]:
+          - text: "More ways to shop:"
+          - link "Find an Apple Store" [ref=e435] [cursor=pointer]:
+            - /url: https://www.apple.com/retail/
+          - text: or
+          - link "other retailer" [ref=e436] [cursor=pointer]:
+            - /url: https://locate.apple.com/
+          - text: near you.
+          - generic [ref=e437]:
+            - text: Or call
+            - link "1-800-MY-APPLE" [ref=e438] [cursor=pointer]:
+              - /url: tel:1-800-692-7753
+            - text: (1-800-692-7753).
+        - link "United States. Choose your country or region" [ref=e440] [cursor=pointer]:
+          - /url: /careers/choose-country-region.html
+          - text: United States
+        - generic [ref=e441]:
+          - generic [ref=e442]: Copyright © 2026 Apple Inc. All rights reserved.
+          - list [ref=e443]:
+            - listitem [ref=e444]:
+              - link "Privacy Policy" [ref=e445] [cursor=pointer]:
+                - /url: https://www.apple.com/legal/privacy/
+            - listitem [ref=e446]:
+              - link "Terms of Use" [ref=e447] [cursor=pointer]:
+                - /url: https://www.apple.com/legal/internet-services/terms/site.html
+            - listitem [ref=e448]:
+              - link "Sales and Refunds" [ref=e449] [cursor=pointer]:
+                - /url: https://www.apple.com/us/shop/goto/help/sales_refunds
+            - listitem [ref=e450]:
+              - link "Legal" [ref=e451] [cursor=pointer]:
+                - /url: https://www.apple.com/legal/
+            - listitem [ref=e452]:
+              - link "Site Map" [ref=e453] [cursor=pointer]:
+                - /url: https://www.apple.com/sitemap/
+  - text:   

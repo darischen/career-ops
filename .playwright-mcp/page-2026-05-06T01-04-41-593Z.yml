@@ -1,0 +1,308 @@
+- generic [active] [ref=e1]:
+  - navigation "link navigation":
+    - link "Skip to Main Content" [ref=e2] [cursor=pointer]
+  - main [ref=e3]:
+    - text:  
+    - navigation [ref=e4]:
+      - generic [ref=e5]:
+        - link "logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "logo" [ref=e7]
+        - button "Toggle navigation" [ref=e8] [cursor=pointer]:
+          - generic [ref=e9]: Toggle navigation
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - link "Work at Viasat" [ref=e15] [cursor=pointer]:
+              - /url: /workatviasat
+            - button [ref=e16] [cursor=pointer]:
+              - generic [ref=e17]: 
+            - list:
+              - listitem [ref=e18]:
+                - button "Back" [ref=e19] [cursor=pointer]:
+                  - generic [ref=e20]: 
+                  - text: Back
+              - listitem [ref=e21]:
+                - link "Early career full-time" [ref=e22] [cursor=pointer]:
+                  - /url: /earlycareers
+              - listitem [ref=e23]:
+                - link "Early career internships" [ref=e24] [cursor=pointer]:
+                  - /url: /internships
+              - listitem [ref=e25]:
+                - link "How we hire" [ref=e26] [cursor=pointer]:
+                  - /url: /howwehire
+              - listitem [ref=e27]:
+                - link "Locations" [ref=e28] [cursor=pointer]:
+                  - /url: /ourlocations
+              - listitem [ref=e29]:
+                - link "Teams" [ref=e30] [cursor=pointer]:
+                  - /url: /teams
+          - listitem [ref=e31]:
+            - link "Life at Viasat" [ref=e32] [cursor=pointer]:
+              - /url: /lifeatviasat
+            - button [ref=e33] [cursor=pointer]:
+              - generic [ref=e34]: 
+            - list:
+              - listitem [ref=e35]:
+                - button "Back" [ref=e36] [cursor=pointer]:
+                  - generic [ref=e37]: 
+                  - text: Back
+              - listitem [ref=e38]:
+                - link "Benefits" [ref=e39] [cursor=pointer]:
+                  - /url: /benefits
+              - listitem [ref=e40]:
+                - link "Culture" [ref=e41] [cursor=pointer]:
+                  - /url: /culture
+              - listitem [ref=e42]:
+                - link "Military at Viasat" [ref=e43] [cursor=pointer]:
+                  - /url: /militaryatviasat
+              - listitem [ref=e44]:
+                - link "Social Impact" [ref=e45] [cursor=pointer]:
+                  - /url: /socialimpact
+          - listitem [ref=e46]:
+            - link "Search Jobs" [ref=e47] [cursor=pointer]:
+              - /url: /jobs
+          - listitem [ref=e48]:
+            - generic [ref=e49]: Sign in
+            - button [ref=e50] [cursor=pointer]:
+              - generic [ref=e51]: 
+            - list:
+              - listitem [ref=e52]:
+                - button "Back" [ref=e53] [cursor=pointer]:
+                  - generic [ref=e54]: 
+                  - text: Back
+              - listitem [ref=e55]:
+                - link "Careers" [ref=e56] [cursor=pointer]:
+                  - /url: https://careers-viasat.icims.com/jobs/login
+              - listitem [ref=e57]:
+                - link "Viasat Employees" [ref=e58] [cursor=pointer]:
+                  - /url: https://internal-careers.viasat.com
+    - generic [ref=e61]:
+      - link "Back" [ref=e63] [cursor=pointer]:
+        - /url: "javascript: history.go(-1)"
+        - generic [ref=e64]: 
+        - text: Back
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - heading "SW/Agentic Engineer, Early Career" [level=1] [ref=e68]
+            - text:  
+            - list [ref=e70]:
+              - listitem "Job Location Carlsbad, California" [ref=e71]: Locations:Carlsbad, California
+              - listitem "Job Category Engineering" [ref=e72]: Categories:Engineering
+              - listitem "JOB_DESCRIPTION.TAGS1_ARIA_LABEL Early Career" [ref=e73]: Requisition Type:Early Career
+              - listitem "JOB_DESCRIPTION.TAGS2_ARIA_LABEL None" [ref=e74]: Clearance Requirement:None
+              - listitem "JOB_DESCRIPTION.TAGS3_ARIA_LABEL US Citizenship" [ref=e75]: Citizenship Requirement:US Citizenship
+              - listitem "JOB_DESCRIPTION.TAGS5_ARIA_LABEL Engineering" [ref=e76]: Business Function:Engineering
+              - listitem "Job ID 6087" [ref=e77]: Req ID:6087
+          - generic [ref=e79]:
+            - heading "Job Description" [level=2] [ref=e80]
+            - article "Job Description" [ref=e81]:
+              - strong [ref=e82]: About us
+              - paragraph [ref=e83]: One team. Global challenges. Infinite opportunities. At Viasat, we’re on a mission to deliver connections with the capacity to change the world. For more than 35 years, Viasat has helped shape how consumers, businesses, governments and militaries around the globe communicate. We’re looking for people who think big, act fearlessly, and create an inclusive environment that drives positive impact to join our team.
+              - strong [ref=e84]: What you'll do
+              - paragraph [ref=e85]: We are thrilled to announce an exciting opportunity for an Agentic Software Developer to join our dynamic team in Carlsbad, CA, to start as soon as possible!
+              - paragraph [ref=e86]: As an Entry Level Agentic Software Developer within Viasat’s Capacity Engineering Team, you will collaborate alongside Senior Engineers and Product Managers to build, test, and deploy AI-driven agentic workflows tailored to network capacity optimization and cloud engineering. You will help integrate Large Language Models (LLMs) into internal forecasting tools, automate complex resource allocation processes, and bridge the gap between generative AI and robust cloud infrastructure. By bringing a curious, experimental mindset to the team, you will help unlock new opportunities for our engineering teams to deliver cutting-edge, resilient capacity pipelines and autonomous cloud operations.
+              - strong [ref=e87]: The day-to-day
+              - list [ref=e88]:
+                - listitem [ref=e89]: Design, construct, and iteratively test prompts and agent instructions specifically aimed at automating capacity modeling, data extraction, and cloud infrastructure tasks.
+                - listitem [ref=e90]: Assist in integrating API-driven LLMs (e.g., Gemini, Claude, OpenAI) into our existing Capacity Engineering tools and predictive data pipelines.
+                - listitem [ref=e91]: Monitor and evaluate the outputs of AI agents, tuning system prompts and context windows to safely process telemetric system constraints and network loads.
+                - listitem [ref=e92]: Collaborate with cloud and data engineering teams to map out manual capacity planning workflows and prototype scalable, agentic replacements.
+                - listitem [ref=e93]: Write clean, maintainable code (Python, TypeScript, or Rust) to securely deploy agentic scripts onto cloud architecture.
+                - listitem [ref=e94]: Maintain clear documentation on agent behaviors, cloud infrastructure deployments, and reliability methodologies.
+                - listitem [ref=e95]: Stay curious and continuously explore emerging methodologies in AI, such as Retrieval-Augmented Generation (RAG), alongside foundational cloud engineering practices.
+              - paragraph [ref=e96]
+              - paragraph [ref=e97]: "Additional Information:"
+              - list [ref=e98]:
+                - listitem [ref=e99]: This position is located onsite. Viasat embraces a flexible work environment and onsite/hybrid work is determined by individual roles and teams. Relocation assistance is available pending eligibility.
+                - listitem [ref=e100]: As an Early Career hire, you will participate in our Graduate Development Program during your first 12+ months at Viasat. This program is designed to support your transition from university to the workplace through dedicated mentorship, building relationships with your cohort of new grad hires, technical upskilling, soft skills development and more to ensure you’re set up for success as you begin your professional journey with Viasat
+              - strong [ref=e101]: What you'll need
+              - list [ref=e102]:
+                - listitem [ref=e103]:
+                  - paragraph [ref=e104]: Completion of Bachelor’s degree or higher in computer science, software engineering, systems engineering or related field
+                - listitem [ref=e105]:
+                  - paragraph [ref=e106]: 0-3 years of full-time, relevant industry experience
+                - listitem [ref=e107]: Proficiency in at least one modern programming language commonly used in AI and cloud development (e.g., Python, TypeScript/JavaScript, or Rust).
+                - listitem [ref=e108]:
+                  - paragraph [ref=e109]: Foundational understanding of Large Language Models (LLMs) and/or how to interact with them programmatically via APIs.
+                - listitem [ref=e110]:
+                  - paragraph [ref=e111]: Basic understanding of cloud computing principles (such as compute instances, scalable storage, and networking).
+                - listitem [ref=e112]:
+                  - paragraph [ref=e113]: Experience with basic software engineering practices, including version control (Git), debugging, and/or writing functional code.
+                - listitem [ref=e114]:
+                  - paragraph [ref=e115]: Strong analytical and problem-solving skills, with a willingness to experiment through rapid trial and error.
+                - listitem [ref=e116]:
+                  - paragraph [ref=e117]: Excellent communication skills, with the ability to explain technical AI behaviors and unexpected outputs clearly.
+                - listitem [ref=e118]:
+                  - paragraph [ref=e119]: A passion for both emerging AI technologies and high-resilience systems.
+                - listitem [ref=e120]: "Citizenship: This position requires U.S. citizenship"
+              - strong [ref=e121]: What will help you on the job
+              - list [ref=e122]:
+                - listitem [ref=e123]: Familiarity with agentic frameworks (e.g., LangChain, LlamaIndex, AutoGen) or experience building custom multi-agent interaction loops.
+                - listitem [ref=e124]: Foundational knowledge of public cloud platforms, especially Google Cloud Platform (GCP) or AWS.
+                - listitem [ref=e125]:
+                  - text: Academic or personal project experience with Infrastructure as Code (e.g., Terraform) or container orchestration (e.g., Docker, Kubernetes).
+                  - text: Exposure to processing telemetry, network logs, or handling capacity/performance metrics.
+                - listitem [ref=e126]: Experience evaluating LLM responses programmatically using automated metrics or automated testing suites.
+                - listitem [ref=e127]: Experience/familiarity with Telecom or Non-terrestrial communication concepts
+                - listitem [ref=e128]: Familiarity with agile development methodologies such as Scrum or Kanban.
+              - strong [ref=e129]: Salary range
+              - text: $95,000.00 - $150,000.00 / annually. For specific work locations within San Jose, the San Francisco Bay area and New York City metropolitan area, the base pay range for this role is $118,000.00- $177,000.00/ annually
+              - text: At Viasat, we consider many factors when it comes to compensation, including the scope of the position as well as your background and experience. Base pay may vary depending on job-related knowledge, skills, and experience. Additional cash or stock incentives may be provided as part of the compensation package, in addition to a range of medical, financial, and/or other benefits, dependent on the position offered. Learn more about Viasat’s comprehensive benefit offerings that are focused on your holistic health and wellness at careers.viasat.com/LifeAtViasat/Benefits.
+              - strong [ref=e130]: EEO Statement
+              - paragraph [ref=e131]:
+                - text: Viasat is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, ancestry, physical or mental disability, medical condition, marital status, genetics, age, or veteran status or any other applicable legally protected status or characteristic. If you would like to request an accommodation on the basis of disability for completing this on-line application, please click
+                - link "here" [ref=e132] [cursor=pointer]:
+                  - /url: mailto:careers@viasat.com
+                - text: .
+              - paragraph [ref=e133]
+        - complementary [ref=e134]:
+          - generic [ref=e136]:
+            - generic [ref=e137]:
+              - 'link "Apply : SW/Agentic Engineer, Early Career" [ref=e138] [cursor=pointer]':
+                - /url: https://careers-viasat.icims.com/jobs/6087/login?iis=Job Board&iisn=HANDSHAKE
+                - text: Apply
+              - generic [ref=e141]:
+                - link "Share on Facebook" [ref=e142] [cursor=pointer]:
+                  - /url: "javascript:"
+                  - generic [ref=e143]: 
+                - link "Share on Twitter" [ref=e144] [cursor=pointer]:
+                  - /url: "javascript:"
+                - link "Share on LinkedIn" [ref=e146] [cursor=pointer]:
+                  - /url: "javascript:"
+                  - generic [ref=e147]: 
+                - link "Share link via email" [ref=e148] [cursor=pointer]:
+                  - /url: "javascript:"
+                  - generic [ref=e149]: 
+            - text:  
+    - generic [ref=e151]:
+      - list [ref=e154]:
+        - listitem [ref=e155]:
+          - link [ref=e156] [cursor=pointer]:
+            - /url: https://twitter.com/viasat
+            - img [ref=e157]
+        - listitem [ref=e158]:
+          - link [ref=e159] [cursor=pointer]:
+            - /url: https://www.facebook.com/Viasat
+            - img [ref=e160]
+        - listitem [ref=e161]:
+          - link [ref=e162] [cursor=pointer]:
+            - /url: https://www.instagram.com/viasat/
+            - img [ref=e163]
+        - listitem [ref=e164]:
+          - link [ref=e165] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/viasat/mycompany/
+            - img [ref=e166]
+        - listitem [ref=e167]:
+          - link [ref=e168] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/ViaSatInc
+            - img [ref=e169]
+      - generic [ref=e171]:
+        - generic [ref=e172]:
+          - heading "Work at Viasat" [level=4] [ref=e173]: Work at Viasat 
+          - list [ref=e174]:
+            - listitem [ref=e175]:
+              - link "Early careers internship" [ref=e176] [cursor=pointer]:
+                - /url: /internships
+            - listitem [ref=e177]:
+              - link "Early career full-time" [ref=e178] [cursor=pointer]:
+                - /url: /earlycareers
+            - listitem [ref=e179]:
+              - link "How we hire" [ref=e180] [cursor=pointer]:
+                - /url: /howwehire
+            - listitem [ref=e181]:
+              - link "Locations" [ref=e182] [cursor=pointer]:
+                - /url: /ourlocations
+            - listitem [ref=e183]:
+              - link "Teams" [ref=e184] [cursor=pointer]:
+                - /url: /teams
+        - generic [ref=e185]:
+          - heading "Life at Viasat" [level=4] [ref=e186]: Life at Viasat 
+          - list [ref=e187]:
+            - listitem [ref=e188]:
+              - link "Benefits" [ref=e189] [cursor=pointer]:
+                - /url: /benefits
+            - listitem [ref=e190]:
+              - link "Culture" [ref=e191] [cursor=pointer]:
+                - /url: /culture
+            - listitem [ref=e192]:
+              - link "Military at Viasat" [ref=e193] [cursor=pointer]:
+                - /url: /militaryatviasat
+            - listitem [ref=e194]:
+              - link "Social Impact" [ref=e195] [cursor=pointer]:
+                - /url: /socialimpact
+        - generic [ref=e196]:
+          - heading "Additional Resources" [level=4] [ref=e197]: Additional Resources 
+          - list [ref=e198]:
+            - listitem [ref=e199]:
+              - link "Newsroom" [ref=e200] [cursor=pointer]:
+                - /url: https://www.viasat.com/news/
+            - listitem [ref=e201]:
+              - link "Talent Community" [ref=e202] [cursor=pointer]:
+                - /url: /interest/talentcommunity/form
+            - listitem [ref=e203]:
+              - link "Viasat.com" [ref=e204] [cursor=pointer]:
+                - /url: https://www.viasat.com
+      - generic [ref=e206]:
+        - img "logo" [ref=e208]
+        - list [ref=e209]:
+          - listitem [ref=e210]: ©2026 Viasat, Inc.
+          - listitem [ref=e211]:
+            - link "Legal" [ref=e212] [cursor=pointer]:
+              - /url: https://www.viasat.com/legal/
+          - listitem [ref=e213]:
+            - link "Privacy" [ref=e214] [cursor=pointer]:
+              - /url: https://www.viasat.com/privacy-policy/
+          - listitem [ref=e215]:
+            - link "Do Not Sell or Share My Personal Information" [ref=e216] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e217]:
+            - link "Accessibility" [ref=e218] [cursor=pointer]:
+              - /url: https://www.viasat.com/accessibility-statement/
+          - listitem [ref=e219]:
+            - link [ref=e220] [cursor=pointer]:
+              - /url: https://www.levelaccess.com/a/viasat/?
+              - img [ref=e221]
+  - dialog [ref=e238]:
+    - generic [ref=e239]:
+      - generic [ref=e240]:
+        - paragraph [ref=e242]:
+          - text: Cookies are used on this site to assist in continually improving the candidate experience and all the interaction data we store of our visitors is anonymous. Learn more about your rights on our
+          - link "Privacy Policy" [ref=e243] [cursor=pointer]:
+            - /url: https://www.viasat.com/privacy/
+          - text: page.
+        - button "Okay" [ref=e245] [cursor=pointer]
+      - button "Close" [ref=e246] [cursor=pointer]: x
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - button "Open Skye's AI Recruiting Assistant" [ref=e249] [cursor=pointer]:
+            - img "Open Skye's AI Recruiting Assistant" [ref=e250]
+          - log [ref=e251]: Skye said, Hi! I'm Skye, your personal job assistant at Viasat! You can ask me anything about our business, culture, team and more.
+      - tooltip "AI Recruiter Conversation Widget" [ref=e252]:
+        - generic [ref=e253]:
+          - banner [ref=e254]:
+            - 'heading "Assistant Name: Skye" [level=1] [ref=e257]': Skye
+            - img "Viasat logo" [ref=e259]
+            - button "Close widget chat" [ref=e260] [cursor=pointer]:
+              - generic [ref=e261]: 
+          - generic [ref=e263]:
+            - group "chat window" [ref=e265]:
+              - list "conversation" [ref=e268]:
+                - listitem [ref=e269]:
+                  - generic [ref=e273]: May 5, 2026 at 6:04 PM
+                  - generic [ref=e278]:
+                    - generic [ref=e279]: Hi! I'm Skye, your personal job assistant at Viasat! You can ask me anything about our business, culture, team and more.
+                    - paragraph [ref=e280]:
+                      - generic [ref=e281]: Skye said,
+                      - text: Hi! I'm Skye, your personal job assistant at Viasat! You can ask me anything about our business, culture, team and more.
+            - generic [ref=e288]:
+              - textbox "Write a reply..." [ref=e291]
+              - button "Send message" [disabled] [ref=e292]:
+                - generic [ref=e293]: 
+          - contentinfo [ref=e294]:
+            - generic [ref=e296]:
+              - text: Powered by
+              - link "Paradox" [ref=e298] [cursor=pointer]:
+                - /url: https://www.paradox.ai/powered-by-paradox

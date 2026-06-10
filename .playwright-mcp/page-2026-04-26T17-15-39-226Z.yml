@@ -1,0 +1,138 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - button "Main menu" [ref=e5] [cursor=pointer]:
+          - img [ref=e6]
+        - link "Careers" [ref=e10] [cursor=pointer]:
+          - /url: /about/careers/applications/
+          - generic [ref=e12]: Careers
+      - generic [ref=e13]:
+        - link "Skip navigation links" [ref=e14]:
+          - generic: Skip navigation links
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - generic [ref=e25] [cursor=pointer]:
+              - generic [ref=e26]: help_outline
+              - link "Help link" [ref=e27]:
+                - /url: https://support.google.com/googlecareers
+            - tooltip [ref=e28]: Help link
+          - generic [ref=e29]:
+            - button "Send feedback" [ref=e30] [cursor=pointer]:
+              - generic [ref=e31]: feedback
+            - tooltip [ref=e32]: Send feedback
+      - generic [ref=e34]:
+        - button "Google apps" [ref=e38] [cursor=pointer]:
+          - img [ref=e39]
+        - link "Sign in" [ref=e42] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://www.google.com/about/careers/applications/jobs/results/112954792476582598-software-engineer/&followup=https://www.google.com/about/careers/applications/jobs/results/112954792476582598-software-engineer/&ec=GAZA6QE
+  - generic [ref=e50]:
+    - heading "job details" [level=1]
+    - generic [ref=e53]:
+      - generic [ref=e55]:
+        - generic [ref=e56] [cursor=pointer]:
+          - generic [ref=e57]: arrow_back
+          - link "Back to jobs search" [ref=e58]:
+            - /url: jobs/results
+        - generic [ref=e59]: Back to jobs search
+      - main [ref=e60]:
+        - generic [ref=e65]:
+          - heading "Job not found." [level=2] [ref=e66]
+          - text: This job may have been taken down.
+          - generic [ref=e69]:
+            - generic [ref=e71]: Search again
+            - link "Search again" [ref=e72] [cursor=pointer]:
+              - /url: jobs/results
+      - contentinfo [ref=e74]:
+        - generic [ref=e76]:
+          - generic [ref=e77]:
+            - heading "Follow Life at Google on" [level=2] [ref=e78]
+            - list [ref=e79]:
+              - listitem [ref=e80]:
+                - link "View our Instagram feed (Opens in a new tab)" [ref=e81] [cursor=pointer]:
+                  - /url: https://www.instagram.com/lifeatgoogle/
+              - listitem [ref=e86]:
+                - link "View our Twitter feed (Opens in a new tab)" [ref=e87] [cursor=pointer]:
+                  - /url: https://twitter.com/lifeatgoogle
+              - listitem [ref=e90]:
+                - link "View our YouTube channel (Opens in a new tab)" [ref=e91] [cursor=pointer]:
+                  - /url: https://www.youtube.com/lifeatgoogle
+              - listitem [ref=e94]:
+                - link "View LinkedIn (Opens in a new tab)" [ref=e95] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/google/jobs/
+              - listitem [ref=e98]:
+                - link "View our Facebook (Opens in a new tab)" [ref=e99] [cursor=pointer]:
+                  - /url: https://www.facebook.com/lifeatgoogle/
+          - generic [ref=e104]:
+            - generic [ref=e105]:
+              - heading "More about us" [level=2] [ref=e106]
+              - generic [ref=e107]:
+                - link "About us (opens in a new tab)" [ref=e108] [cursor=pointer]:
+                  - /url: https://about.google/
+                  - text: About us
+                  - generic [ref=e110]: open_in_new
+                - link "Contact us (opens in a new tab)" [ref=e111] [cursor=pointer]:
+                  - /url: https://about.google/contact-google/
+                  - text: Contact us
+                  - generic [ref=e113]: open_in_new
+                - link "Press (opens in a new tab)" [ref=e114] [cursor=pointer]:
+                  - /url: https://blog.google/press/
+                  - text: Press
+                  - generic [ref=e116]: open_in_new
+            - generic [ref=e117]:
+              - heading "Related Information" [level=2] [ref=e118]
+              - generic [ref=e119]:
+                - link "Investor relations (opens in a new tab)" [ref=e120] [cursor=pointer]:
+                  - /url: https://abc.xyz/investor/
+                  - text: Investor relations
+                  - generic [ref=e122]: open_in_new
+                - link "Blog (opens in a new tab)" [ref=e123] [cursor=pointer]:
+                  - /url: https://blog.google/
+                  - text: Blog
+                  - generic [ref=e125]: open_in_new
+            - generic [ref=e126]:
+              - heading "Equal Opportunity" [level=2] [ref=e127]
+              - paragraph [ref=e128]:
+                - text: Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also
+                - link "Google's EEO Policy" [ref=e129] [cursor=pointer]:
+                  - /url: https://www.google.com/about/careers/applications/eeo/
+                - text: ","
+                - 'link "Know your rights: workplace discrimination is illegal" [ref=e130] [cursor=pointer]':
+                  - /url: https://careers.google.com/jobs/dist/legal/EEOC_KnowYourRights_10_20.pdf
+                - text: ","
+                - link "Belonging at Google" [ref=e131] [cursor=pointer]:
+                  - /url: https://about.google/belonging/
+                - text: ", and"
+                - link "How we hire" [ref=e132] [cursor=pointer]:
+                  - /url: https://careers.google.com/how-we-hire/
+                - text: .
+          - generic [ref=e133]:
+            - link "google.com (Opens in a new tab)" [ref=e135] [cursor=pointer]:
+              - /url: https://www.google.com/
+              - img "Google" [ref=e136]
+            - generic [ref=e137]:
+              - generic [ref=e138]:
+                - link "Privacy (opens in a new tab)" [ref=e140] [cursor=pointer]:
+                  - /url: https://policies.google.com/privacy
+                  - text: Privacy
+                  - generic [ref=e142]: open_in_new
+                - link "Applicant & Candidate Privacy (opens in a new tab)" [ref=e144] [cursor=pointer]:
+                  - /url: ./privacy-policy
+                  - text: Applicant & Candidate Privacy
+                  - generic [ref=e146]: open_in_new
+                - link "Terms (opens in a new tab)" [ref=e148] [cursor=pointer]:
+                  - /url: https://policies.google.com/terms
+                  - text: Terms
+                  - generic [ref=e150]: open_in_new
+              - generic [ref=e151]:
+                - link "Help (opens in a new tab)" [ref=e152] [cursor=pointer]:
+                  - /url: https://support.google.com/googlecareers/#topic=6095159
+                  - generic [ref=e154]: help
+                  - text: Help
+                  - generic [ref=e156]: open_in_new
+                - combobox "Select language" [ref=e160] [cursor=pointer]:
+                  - generic: language
+                  - generic:
+                    - generic: English
+                  - generic:
+                    - img

@@ -1,0 +1,136 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Outtake" [ref=e6] [cursor=pointer]:
+        - /url: https://www.outtake.ai/
+        - img "Outtake" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Outtake’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /outtake?utm_source=LinkedInJobSlot
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer (General)" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York City
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]:
+            - generic [ref=e29]: Engineering
+      - generic [ref=e30]:
+        - tablist [ref=e31]:
+          - tab "Overview" [selected] [ref=e32] [cursor=pointer]
+          - tab "Application" [ref=e33] [cursor=pointer]
+        - tabpanel "Overview" [ref=e35]:
+          - generic [ref=e36]:
+            - paragraph [ref=e37]: "Outtake exists to empower and facilitate trust for a digital-first world. Today, impersonation, fraud, AI-driven scams, and identity abuse spread faster than any security team can respond to. So we built something different: an agentic AI platform that proactively detects, monitors and takes down impersonators and automates protection in hours, not weeks."
+            - paragraph [ref=e38]: "Built by ex-Palantir, ex-CTO/founders, and ex-Notion engineers, Outtake is designed for clarity, autonomy, and velocity. Our goal is ambitious: become the trust layer of the modern internet. And we intend to do it with a lean, dense, exceptionally talented team."
+            - heading "About You" [level=1] [ref=e39]
+            - paragraph [ref=e40]:
+              - text: Engineering at Outtake is built on ownership, clarity, and end-to-end impact. We hire
+              - strong [ref=e41]: entrepreneurial generalists
+              - text: who think in systems, not tickets — people who want to design architecture, ship fast, and solve problems that span the entire stack.
+            - paragraph [ref=e42]: "Our teams are flat and autonomous: engineers ship fast, make product decisions, and own outcomes from concept to deployment. We optimize for grit + velocity, which means every engineer operates with the scope, influence, and equity of a future CTO."
+            - paragraph [ref=e43]:
+              - text: Our goal is to bring on engineers who will grow
+              - emphasis [ref=e44]: with
+              - text: Outtake's trajectory - and
+              - emphasis [ref=e45]: because of
+              - text: the responsibility, autonomy and talent density here.
+            - paragraph [ref=e46]
+            - heading "What we're looking for" [level=1] [ref=e47]
+            - paragraph [ref=e48]: When the life-support systems on your Mars habitat begin to fail, are you the engineer the team trusts to hack together a solution in hours?
+            - paragraph [ref=e49]: No worries, neither are we - but we DO want you to be the type of engineer who is unafraid to dive into any part of the codebase to accomplish the mission.
+            - paragraph [ref=e50]: Often getting the job done involves building functional v0s that eventually evolve into scalable production systems. Can you navigate this journey effectively?
+            - paragraph [ref=e51]: Do you have well reasoned opinions that rapidly update to new information - whether from customers, peers, or the environment?
+            - paragraph [ref=e52]
+            - heading "What you’ll achieve" [level=1] [ref=e53]
+            - list [ref=e54]:
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]: Contribute to the whole platform - whether it’s in the BE where you tinker with agent framework that achieves all complex tasks or the FE where you make our incredibly powerful workflows simple & intuitive.
+              - listitem [ref=e57]:
+                - paragraph [ref=e58]: Partner with customers who are some of the most socially meaningful individuals on the planet - these brands, reputations, and names move billions daily.
+              - listitem [ref=e59]:
+                - paragraph [ref=e60]: Work with an elite team with high success track record at prior companies & become a better version of yourself in the process.
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: Learn the ability to carry zen into any situation of chaos as you continuously overcome obstacles and fully grow into your abilities.
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: Become a leader as Outtake grows and define the culture of a high impact organization.
+                - paragraph [ref=e65]
+            - heading "What you’ll need to bring" [level=1] [ref=e66]
+            - list [ref=e67]:
+              - listitem [ref=e68]:
+                - paragraph [ref=e69]:
+                  - strong [ref=e70]: "Proven track record of execution:"
+                  - text: 2+ years experience as software engineer building world class products.
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]:
+                  - strong [ref=e73]: "Thoughtful problem solver:"
+                  - text: You approach problems holistically, starting with a clear and accurate understanding of the context. You think critically about the implications of your decisions, and are able to consider both the business and the technical tradeoffs of your solutions.
+              - listitem [ref=e74]:
+                - paragraph [ref=e75]:
+                  - strong [ref=e76]: "Not ideological about technology:"
+                  - text: To you, technologies are about tradeoffs. You may be opinionated, but you’re not ideological, can learn new technologies and are receptive to new ideas.
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]:
+                  - strong [ref=e79]: "Organized and self-sufficient:"
+                  - text: You are comfortable managing yourself, navigate ambiguity and finding ways to create impact.
+              - listitem [ref=e80]:
+                - paragraph [ref=e81]:
+                  - strong [ref=e82]: "Owner of your mission:"
+                  - text: You are a owner of the products that you create, meaning you take pride in the quality, maintenance and understandability of the products you build and the code you write.
+                - paragraph [ref=e83]
+            - heading "Bonus points if…" [level=1] [ref=e84]
+            - list [ref=e85]:
+              - listitem [ref=e86]:
+                - paragraph [ref=e87]: You have experience working in a high growth early stage startup.
+              - listitem [ref=e88]:
+                - paragraph [ref=e89]: You have experience building agents, or fine-tuning LLMs to accomplish complex tasks.
+              - listitem [ref=e90]:
+                - paragraph [ref=e91]: You have experience in building large scale content indexing systems.
+              - listitem [ref=e92]:
+                - paragraph [ref=e93]: You’ve built apps or are familiar with our stack - NextJS, React, Typescript, tRPC, Vercel, Postgres.
+            - paragraph [ref=e94]
+            - heading "Life at Outtake" [level=1] [ref=e95]: Life at Outtake
+            - paragraph [ref=e96]: "Outtake is backed by top-tier investors and operators who believe in our mission and our model: a lean, dense, exceptionally talented team building a category-defining product. With strong financial footing and a long runway, we prioritize creating an environment where people can do the best work of their careers."
+            - list [ref=e97]:
+              - listitem [ref=e98]:
+                - paragraph [ref=e99]:
+                  - strong [ref=e100]: "Office:"
+                  - text: We are an in-person team (5 days a week, with flexibility as needed) working out of a stunning waterfront office in Brooklyn. Collaboration, speed, and clarity matter.
+              - listitem [ref=e101]:
+                - paragraph [ref=e102]:
+                  - strong [ref=e103]: "Health:"
+                  - text: 100% company-paid medical, dental, and vision for employees.
+              - listitem [ref=e104]:
+                - paragraph [ref=e105]:
+                  - strong [ref=e106]: "Time Away:"
+                  - text: Flexible PTO. We trust adults to manage energy, not clock time.
+              - listitem [ref=e107]:
+                - paragraph [ref=e108]:
+                  - strong [ref=e109]: "Culture & Team:"
+                  - text: Annual company retreats and regular in-person events.
+          - link "Apply for this Job" [ref=e110] [cursor=pointer]:
+            - /url: /outtake/68c04032-39b7-4ab9-afee-10130d5a0ca2/application?utm_source=LinkedInJobSlot
+            - button "Apply for this Job" [ref=e111]
+  - contentinfo [ref=e112]:
+    - link "Learn more about Ashby" [ref=e113] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e114]: Powered by
+      - img "Ashby" [ref=e115]
+    - paragraph [ref=e121]:
+      - link "Privacy Policy" [ref=e122] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e123] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e124] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

@@ -1,0 +1,194 @@
+- generic [active] [ref=e1]:
+  - link "Valkyrie Trading logo" [ref=e4] [cursor=pointer]:
+    - /url: http://www.valkyrietrading.com/careers
+    - img "Valkyrie Trading logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - heading "Junior Software Engineer" [level=2] [ref=e10]
+      - generic [ref=e11]:
+        - generic [ref=e12]: Chicago, IL
+        - generic [ref=e13]: Software Development /
+        - generic [ref=e14]: Full Time /
+        - generic [ref=e15]: On-site
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - heading "Submit your application" [level=4] [ref=e19]
+        - list [ref=e20]:
+          - listitem [ref=e21]:
+            - generic [ref=e22]:
+              - generic [ref=e23]:
+                - text: Resume/CV
+                - generic [ref=e24]: ✱
+              - link "ATTACH RESUME/CV Resume/CV ✱" [ref=e26] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e27]
+                - generic [ref=e29]: ATTACH RESUME/CV
+                - button "Resume/CV ✱ ATTACH RESUME/CV" [ref=e30]
+          - listitem [ref=e31]:
+            - generic [ref=e32]:
+              - generic [ref=e33]:
+                - text: Full name
+                - generic [ref=e34]: ✱
+              - textbox "Full name ✱" [ref=e36]
+          - listitem [ref=e37]:
+            - generic [ref=e38]:
+              - generic [ref=e39]:
+                - text: Email
+                - generic [ref=e40]: ✱
+              - textbox "Email ✱" [ref=e42]
+          - listitem [ref=e43]:
+            - generic [ref=e44]:
+              - generic [ref=e45]:
+                - text: Phone
+                - generic [ref=e46]: ✱
+              - textbox "Phone ✱" [ref=e48]
+          - listitem [ref=e49]:
+            - generic [ref=e50]:
+              - generic [ref=e51]: Current location
+              - textbox "Current location" [ref=e53]
+          - listitem [ref=e54]:
+            - generic [ref=e55]:
+              - generic [ref=e56]: Current company
+              - textbox "Current company" [ref=e58]
+      - generic [ref=e59]:
+        - heading "Links" [level=4] [ref=e60]
+        - list [ref=e61]:
+          - listitem [ref=e62]:
+            - generic [ref=e63]:
+              - generic [ref=e64]: LinkedIn URL
+              - textbox "LinkedIn URL" [ref=e66]
+          - listitem [ref=e67]:
+            - generic [ref=e68]:
+              - generic [ref=e69]: Twitter URL
+              - textbox "Twitter URL" [ref=e71]
+          - listitem [ref=e72]:
+            - generic [ref=e73]:
+              - generic [ref=e74]: GitHub URL
+              - textbox "GitHub URL" [ref=e76]
+          - listitem [ref=e77]:
+            - generic [ref=e78]:
+              - generic [ref=e79]: Portfolio URL
+              - textbox "Portfolio URL" [ref=e81]
+          - listitem [ref=e82]:
+            - generic [ref=e83]:
+              - generic [ref=e84]: Other website
+              - textbox "Other website" [ref=e86]
+      - generic [ref=e87]:
+        - heading "Valkyrie Trading" [level=4] [ref=e88]
+        - list [ref=e89]:
+          - listitem [ref=e90]:
+            - generic [ref=e91]:
+              - generic [ref=e93]:
+                - text: What is your desired start date?
+                - generic [ref=e94]: ✱
+              - textbox "Type your response" [ref=e96]
+          - listitem [ref=e97]:
+            - generic [ref=e98]:
+              - generic [ref=e100]:
+                - text: What are your salary expectations?
+                - generic [ref=e101]: ✱
+              - textbox "Type your response" [ref=e103]
+          - listitem [ref=e104]:
+            - generic [ref=e105]:
+              - generic [ref=e107]:
+                - text: From what college/university did you (or will you) graduate?
+                - generic [ref=e108]: ✱
+              - generic [ref=e110]:
+                - combobox [ref=e111]
+                - combobox "Choose you most recent institution if you have multiple degrees" [ref=e114] [cursor=pointer]:
+                  - generic [ref=e115]: Choose you most recent institution if you have multiple degrees
+          - listitem [ref=e116]:
+            - generic [ref=e117]:
+              - generic [ref=e119]:
+                - text: How many years of full-time work experience do you have?
+                - generic [ref=e120]: ✱
+              - combobox [ref=e123]:
+                - option "Select..." [selected]
+                - option "0-1 year"
+                - option "1-2 years"
+                - option "2-3 years"
+                - option "3+ years"
+          - listitem [ref=e124]:
+            - generic [ref=e125]:
+              - generic [ref=e127]:
+                - text: Are you currently authorized to work in the United States for any employer, without the need for a company-sponsored or self-initiated immigration filing (e.g., H-1B, TN, O-1, or F-1 OPT/STEM extensions)?
+                - generic [ref=e128]: ✱
+              - list [ref=e130]:
+                - listitem [ref=e131]:
+                  - generic [ref=e132] [cursor=pointer]:
+                    - radio "Yes" [ref=e133]
+                    - generic [ref=e134]: "Yes"
+                - listitem [ref=e135]:
+                  - generic [ref=e136] [cursor=pointer]:
+                    - radio "No" [ref=e137]
+                    - generic [ref=e138]: "No"
+          - listitem [ref=e139]:
+            - generic [ref=e140]:
+              - generic [ref=e142]:
+                - text: Will you now, or at any point in the future, require the Company to commence, sign, or support any immigration petition or status maintenance, including those managed by your own external counsel?
+                - generic [ref=e143]: ✱
+              - list [ref=e145]:
+                - listitem [ref=e146]:
+                  - generic [ref=e147] [cursor=pointer]:
+                    - radio "Yes" [ref=e148]
+                    - generic [ref=e149]: "Yes"
+                - listitem [ref=e150]:
+                  - generic [ref=e151] [cursor=pointer]:
+                    - radio "No" [ref=e152]
+                    - generic [ref=e153]: "No"
+          - listitem [ref=e154]:
+            - generic [ref=e155]:
+              - generic [ref=e157]:
+                - text: What type of work environment are you seeking?
+                - generic [ref=e158]: ✱
+              - list [ref=e160]:
+                - listitem [ref=e161]:
+                  - generic [ref=e162] [cursor=pointer]:
+                    - checkbox "In-person" [ref=e163]
+                    - generic [ref=e164]: In-person
+                - listitem [ref=e165]:
+                  - generic [ref=e166] [cursor=pointer]:
+                    - checkbox "Hybrid" [ref=e167]
+                    - generic [ref=e168]: Hybrid
+                - listitem [ref=e169]:
+                  - generic [ref=e170] [cursor=pointer]:
+                    - checkbox "Fully remote" [ref=e171]
+                    - generic [ref=e172]: Fully remote
+          - listitem [ref=e173]:
+            - generic [ref=e174]:
+              - generic [ref=e176]:
+                - text: Why are you interested in joining Valkyrie's team?
+                - generic [ref=e177]: ✱
+              - textbox [ref=e179]
+          - listitem [ref=e180]:
+            - generic [ref=e181]:
+              - generic [ref=e183]:
+                - text: How did you hear about us?
+                - generic [ref=e184]: ✱
+              - textbox "Type your response" [ref=e186]
+          - listitem [ref=e187]:
+            - generic [ref=e188]:
+              - generic [ref=e190]: Do you have any questions for us?
+              - textbox [ref=e192]
+      - generic [ref=e193]:
+        - heading "From what college/university did you (or will you) graduate?" [level=4] [ref=e194]
+        - list [ref=e195]:
+          - listitem [ref=e196]:
+            - generic [ref=e197]:
+              - generic [ref=e199]:
+                - text: Choose you most recent institution if you have multiple degrees
+                - generic [ref=e200]: ✱
+              - generic [ref=e202]:
+                - combobox [ref=e203]
+                - combobox "Select a university or college" [ref=e206] [cursor=pointer]:
+                  - generic [ref=e207]: Select a university or college
+      - button "Submit application" [ref=e209] [cursor=pointer]
+  - generic [ref=e211]:
+    - paragraph [ref=e212]:
+      - link "Valkyrie Trading Home Page" [ref=e213] [cursor=pointer]:
+        - /url: http://www.valkyrietrading.com/careers
+    - paragraph [ref=e215]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+    - link "Jobs powered by Lever logo" [ref=e216] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e217]: Jobs powered by
+      - img "Lever logo" [ref=e218]

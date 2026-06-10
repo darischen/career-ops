@@ -1,0 +1,276 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - link [ref=e379] [cursor=pointer]:
+      - /url: ""
+      - text: Skip to main content
+    - generic [ref=e380]:
+      - paragraph [ref=e11]:
+        - text: In order to provide a more relevant experience for you, our Workday Recruiting platform uses cookies to enable some website functionality (such as apply with LinkedIn) and capture some of your activity on the careers site. It doesn’t record any personal details. For more information, please read our
+        - link [ref=e381] [cursor=pointer]:
+          - /url: https://www.accenture.com/us-en/support/company-cookies-similar-technology
+          - text: Cookie Policy
+        - text: and
+        - link [ref=e382] [cursor=pointer]:
+          - /url: https://www.accenture.com/us-en/careers/life-at-accenture/privacy-policy
+          - text: Recruitment & Hiring Privacy Statement
+        - text: .
+      - generic [ref=e14]:
+        - button [ref=e383] [cursor=pointer]: Decline
+        - button [ref=e384] [cursor=pointer]: Accept Cookies
+    - banner [ref=e24]:
+      - generic [ref=e26]:
+        - link [ref=e385] [cursor=pointer]:
+          - /url: https://www.accenture.com/jobsearch
+          - img [ref=e386]
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - button [ref=e387] [cursor=pointer]:
+              - generic [ref=e40]: English
+            - button [ref=e388] [cursor=pointer]:
+              - generic [ref=e47]: Sign In
+          - navigation [ref=e48]:
+            - button [ref=e389] [cursor=pointer]: Search Careers
+            - button [ref=e390] [cursor=pointer]: Introduce Yourself
+    - generic [ref=e55]:
+      - alert [ref=e56]: Entry Level Technology Development Program - Claude/Anthropic Tech Arch Analyst - NAELFY26 page is loaded
+      - generic [ref=e57]:
+        - generic [ref=e59]:
+          - heading [level=2] [ref=e391]: Entry Level Technology Development Program - Claude/Anthropic Tech Arch Analyst - NAELFY26
+          - button [ref=e392] [cursor=pointer]: Apply
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - generic [ref=e68]:
+              - generic [ref=e75]:
+                - term [ref=e76]: locations
+                - definition [ref=e77]: IL - Chicago
+                - definition [ref=e78]: Los Angeles, 6181 W Centinela Ave, Corp
+                - definition [ref=e79]: Charlotte, 1120 S Tryon St., Corp
+                - definition [ref=e80]: Atlanta, 75 Fifth, Corp
+                - definition [ref=e81]: Houston, 1301 Fannin, Corp
+              - button [ref=e393] [cursor=pointer]:
+                - generic [ref=e83]: View All 10 Locations
+            - generic [ref=e87]:
+              - generic [ref=e96]:
+                - term [ref=e97]: time type
+                - definition [ref=e98]: Full time
+              - generic [ref=e107]:
+                - term [ref=e108]: posted on
+                - definition [ref=e109]: Posted 4 Days Ago
+              - generic [ref=e118]:
+                - term [ref=e119]: job requisition id
+                - definition [ref=e120]: R00326038
+          - generic [ref=e122]:
+            - paragraph [ref=e123]: Kickstart your consulting career by joining Accenture's Technology Development Program! Leverage your skills and strengths to help our clients solve their most pressing business challenges, embracing the latest technology to become the next best version of themselves.
+            - paragraph [ref=e124]: Not only will you have amazing opportunities to learn, develop and grow your skills, you will join a collaborative environment that unleashes innovation, allows our people to perform at their very best and supports a culture in which everyone feels they have an equal opportunity to belong and build a career.
+            - paragraph [ref=e125]
+            - paragraph [ref=e126]: Looking to expand your AI technical skills using Claude and the broader Anthropic ecosystem? Check out the Anthropic/Claude Analyst Role within our Technology Development Program.
+            - paragraph [ref=e127]
+            - paragraph [ref=e128]: The Role
+            - paragraph [ref=e129]: This role is designed for non‑Claude certified candidates who will be trained and certified in Claude and grow into a Claude Analyst role supporting clients. As an Anthropic/Claude Analyst, work at the intersection of business, technology, and AI – using Claude models and the broader Anthropic ecosystem, including the Claude API, Claude Code, etc. to design, build, and deploy intelligent solutions that solve real client problems.
+            - paragraph [ref=e130]
+            - paragraph [ref=e131]: Key Responsibilities
+            - list [ref=e132]:
+              - listitem [ref=e133]:
+                - paragraph [ref=e134]: Design, test, and iterate on prompts and system instructions to optimize Claude's output quality across diverse client projects.
+              - listitem [ref=e135]:
+                - paragraph [ref=e136]: Identify, prioritize, and document high-impact opportunities for Claude integration across client projects (e.g., customer support, research, legal review, software development).
+              - listitem [ref=e137]:
+                - paragraph [ref=e138]: Define and track KPIs to evaluate the effectiveness, accuracy, and ROI of Claude-powered workflows, present insights and recommendations to clients.
+              - listitem [ref=e139]:
+                - paragraph [ref=e140]: Collaborate with engineering teams to support API integrations, tool use implementations, and agentic workflow design using Anthropic's platform.
+            - paragraph [ref=e141]
+            - paragraph [ref=e142]: Ways of Working
+            - paragraph [ref=e143]: We are looking for candidates who actively and frequently use AI in their day to‑day work or studies. Successful candidates can demonstrate practical, everyday examples of how they leverage AI; ability to write effective prompts, iterate on outputs, and adapt AI responses to solve real problems.
+            - paragraph [ref=e144]: Candidates should demonstrate sound judgment when using AI, validate outputs, understand limitations, and show curiosity about how AI is reshaping modern software engineering.
+            - paragraph [ref=e145]
+            - paragraph [ref=e146]: "#LI-DNI"
+            - paragraph [ref=e147]: "#IND-DNI"
+            - paragraph [ref=e149]
+            - paragraph [ref=e150]
+            - paragraph [ref=e151]
+            - paragraph [ref=e152]
+            - paragraph [ref=e153]: Basic Qualifications
+            - list [ref=e154]:
+              - listitem [ref=e155]:
+                - paragraph [ref=e156]: Bachelor’s degree in computer science, computer engineering, software engineering, or related field
+              - listitem [ref=e157]:
+                - paragraph [ref=e158]: Foundational programming experience (Python, or Node.js)
+              - listitem [ref=e159]:
+                - paragraph [ref=e160]: Demonstrated hands-on experience with Claude or comparable AI platforms (e.g., OpenAI/Codex)
+              - listitem [ref=e161]:
+                - paragraph [ref=e162]: Basic understanding of web technologies (JavaScript, HTML, CSS)
+              - listitem [ref=e163]:
+                - paragraph [ref=e164]: Academic projects or internships experiences with large language models (LLMs) or AI/ML tools in a professional setting
+              - listitem [ref=e165]:
+                - paragraph [ref=e166]: Understanding of Agile fundamentals
+            - paragraph [ref=e167]: Preferred Skills & Exposure
+            - list [ref=e168]:
+              - listitem [ref=e169]:
+                - paragraph [ref=e170]: Experience as a Claude Campus Ambassador or similar initiative advocating for AI use in a Campus Setting
+              - listitem [ref=e171]:
+                - paragraph [ref=e172]: API and service-oriented architecture
+              - listitem [ref=e173]:
+                - paragraph [ref=e174]: Databases (SQL or NoSQL)
+              - listitem [ref=e175]:
+                - paragraph [ref=e176]: Cloud platforms (AWS, Azure, GCP)
+              - listitem [ref=e177]:
+                - paragraph [ref=e178]: DevOps concepts and automation
+              - listitem [ref=e179]:
+                - paragraph [ref=e180]: Frontend frameworks such as React or Angular
+              - listitem [ref=e181]:
+                - paragraph [ref=e182]: Prompt engineering and iterative refinement of AI outputs
+              - listitem [ref=e183]:
+                - paragraph [ref=e184]: Ability to evaluate, validate, and improve AI-generated responses
+            - paragraph [ref=e185]: Mindsets & Soft Skills
+            - list [ref=e186]:
+              - listitem [ref=e187]:
+                - paragraph [ref=e188]: Curiosity and learning agility
+              - listitem [ref=e189]:
+                - paragraph [ref=e190]: Storytelling and clear communication
+              - listitem [ref=e191]:
+                - paragraph [ref=e192]: Entrepreneurial mindset and ownership
+              - listitem [ref=e193]:
+                - paragraph [ref=e194]: Adaptability and resilience
+              - listitem [ref=e195]:
+                - paragraph [ref=e196]: Collaboration in diverse, global teams
+            - paragraph [ref=e197]
+            - paragraph [ref=e198]
+            - paragraph [ref=e199]
+            - paragraph [ref=e200]:
+              - generic [ref=e201]: About Accenture
+            - text: Accenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.
+            - paragraph [ref=e202]:
+              - text: Visit us at
+              - link [ref=e394] [cursor=pointer]:
+                - /url: http://www.accenture.com/
+                - text: www.accenture.com
+            - paragraph [ref=e204]
+            - paragraph [ref=e205]
+            - paragraph [ref=e206]
+            - paragraph [ref=e207]:
+              - generic [ref=e208]: What We Believe
+            - paragraph [ref=e209]
+            - paragraph [ref=e210]: We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.
+            - paragraph [ref=e211]
+            - paragraph [ref=e212]:
+              - text: Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities.
+              - link [ref=e395] [cursor=pointer]:
+                - /url: https://www.accenture.com/us-en/about/inclusion-diversity/us-workforce
+                - text: Read more here
+            - paragraph [ref=e214]
+            - paragraph [ref=e215]:
+              - generic [ref=e216]: Requesting An Accommodation
+            - paragraph [ref=e217]: Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+            - paragraph [ref=e218]
+            - paragraph [ref=e219]:
+              - text: If you would like to be considered for employment opportunities with Accenture and have accommodation needs such as for a disability or religious observance, please call us toll free at 1 (877) 889-9009 or send us an
+              - link [ref=e396] [cursor=pointer]:
+                - /url: https://www.accenture.com/us-en/about/contact-us
+                - text: email
+              - text: or speak with your recruiter.
+            - paragraph [ref=e221]
+            - paragraph [ref=e222]:
+              - generic [ref=e223]: Equal Employment Opportunity Statement
+            - paragraph [ref=e224]: We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.
+            - paragraph [ref=e225]
+            - paragraph [ref=e226]
+            - paragraph [ref=e227]:
+              - text: For details, view a copy of the
+              - link [ref=e397] [cursor=pointer]:
+                - /url: http://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Equal-Employment-Opportunity-Statement.pdf#zoom=50
+                - text: Accenture Equal Opportunity Statement
+            - paragraph [ref=e229]
+            - paragraph [ref=e230]: Accenture is an EEO and Affirmative Action Employer of Veterans/Individuals with Disabilities.
+            - paragraph [ref=e231]
+            - paragraph [ref=e232]: Accenture is committed to providing veteran employment opportunities to our service men and women.
+            - paragraph [ref=e233]
+            - paragraph [ref=e234]:
+              - generic [ref=e235]: Other Employment Statements
+            - paragraph [ref=e236]: Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+            - paragraph [ref=e237]
+            - paragraph [ref=e238]: Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+            - paragraph [ref=e239]
+            - paragraph [ref=e240]: Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process. Further, at Accenture a criminal conviction history is not an absolute bar to employment.
+            - paragraph [ref=e241]
+            - paragraph [ref=e242]: The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.
+            - paragraph [ref=e243]
+            - paragraph [ref=e244]:
+              - text: California requires additional notifications for applicants and employees. If you are a California resident, live in or plan to work from Los Angeles County upon being hired for this position, please
+              - link [ref=e398] [cursor=pointer]:
+                - /url: https://www.accenture.com/us-en/careers/life-at-accenture/e-verify-legal-notices
+                - text: click here
+              - text: for additional important information.
+            - paragraph [ref=e246]
+            - paragraph [ref=e247]:
+              - text: Please read Accenture’s
+              - link [ref=e399] [cursor=pointer]:
+                - /url: https://www.accenture.com/us-en/careers/life-at-accenture/privacy-policy
+                - text: Recruiting and Hiring Statement
+              - text: for more information on how we process your data during the Recruiting and Hiring process.
+      - generic [ref=e250]:
+        - heading [level=3] [ref=e400]: Similar Jobs (1)
+        - generic [ref=e253]:
+          - link [ref=e401] [cursor=pointer]:
+            - /url: /en-US/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Technology-Architecture-Senior-Manager---Mid-Market_R00308391?utm_source=Simplify&ref=Simplify
+            - heading [level=4] [ref=e402]: SAP Technology Architecture Senior Manager - Mid-Market
+          - generic [ref=e265]:
+            - term [ref=e266]: remote type
+            - definition [ref=e267]: Hybrid
+          - generic [ref=e275]:
+            - term [ref=e276]: locations
+            - definition [ref=e277]: 45 Locations
+          - generic [ref=e286]:
+            - term [ref=e287]: time type
+            - definition [ref=e288]: Full time
+          - generic [ref=e297]:
+            - term [ref=e298]: posted on
+            - definition [ref=e299]: Posted 30+ Days Ago
+      - generic [ref=e301]:
+        - generic [ref=e302]:
+          - heading [level=3] [ref=e403]: Reinvent with Accenture
+          - img [ref=e404]
+          - generic [ref=e308]:
+            - paragraph [ref=e309]: Bring your incredible skills and join our global team of innovators. We come together from different backgrounds across the world and work with the latest technologies to create value and growth for our clients. With us, you’ll continue to learn and grow so you can advance in your career. Your personal dreams and ambitions are just as important to us; that’s why we offer support any way we can—when you thrive, we all thrive.
+            - paragraph [ref=e310]: Explore your next step at Accenture
+        - generic [ref=e312]:
+          - heading [level=3] [ref=e405]: Join a team of Reinventors
+          - img [ref=e406]
+          - generic [ref=e318]:
+            - paragraph [ref=e319]: Belong. Grow. Thrive.
+            - paragraph [ref=e320]
+            - paragraph [ref=e321]: Join a great place to work for reinventors who drive meaningful change for our clients, communities, and the world. Wo
+            - paragraph [ref=e322]: rld.
+            - paragraph [ref=e323]:
+              - link [ref=e407] [cursor=pointer]:
+                - /url: https://www.accenture.com/us-en/careers
+                - generic [ref=e326]: Explore your next step at Accenture
+    - generic [ref=e327]:
+      - generic [ref=e328]: Follow Us
+      - list [ref=e329]:
+        - listitem [ref=e330] [cursor=pointer]:
+          - link [ref=e408]:
+            - /url: https://www.youtube.com/accenture
+        - listitem [ref=e337] [cursor=pointer]:
+          - link [ref=e409]:
+            - /url: https://www.facebook.com/accenture
+        - listitem [ref=e342] [cursor=pointer]:
+          - link [ref=e410]:
+            - /url: https://twitter.com/Accenture
+        - listitem [ref=e347] [cursor=pointer]:
+          - link [ref=e411]:
+            - /url: https://www.linkedin.com/company/accenture/
+      - link [ref=e412] [cursor=pointer]:
+        - /url: https://www.accenture.com/us-en/careers/life-at-accenture/privacy-policy
+        - text: Accenture Privacy Policy
+      - generic [ref=e354]:
+        - img [ref=e358]
+        - generic [ref=e378]: © 2026 Workday, Inc. All rights reserved.
+  - dialog "Start Your Application" [ref=e416]:
+    - button "Close" [active] [ref=e418] [cursor=pointer]
+    - generic [ref=e424]:
+      - heading "Start Your Application" [level=2] [ref=e425]
+      - heading "Entry Level Technology Development Program - Claude/Anthropic Tech Arch Analyst - NAELFY26" [level=3] [ref=e426]
+      - paragraph [ref=e427]: Please choose how you want to apply by clicking on your preferred option below.
+      - button "Autofill with Resume" [ref=e431] [cursor=pointer]
+      - button "Apply Manually" [ref=e435] [cursor=pointer]
+      - button "Use My Last Application" [ref=e440] [cursor=pointer]

@@ -1,0 +1,104 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Liquid" [ref=e6] [cursor=pointer]:
+        - /url: http://tryliquid.xyz/
+        - img "Liquid" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Liquid’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /liquid?utm_source=Simplify&ref=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Member of Technical Staff" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York City
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $160K – $320K • Offers Equity • Offers Bonus
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [ref=e36] [cursor=pointer]
+          - tab "Application" [active] [selected] [ref=e37] [cursor=pointer]
+        - tabpanel "Application" [ref=e115]:
+          - generic [ref=e116]:
+            - button "Choose File" [ref=e117]
+            - generic [ref=e119]:
+              - generic [ref=e120]:
+                - img [ref=e122]
+                - heading "Autofill from resume" [level=3] [ref=e124]
+              - paragraph [ref=e125]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e127] [cursor=pointer]
+          - generic [ref=e129]:
+            - heading "Basics" [level=2] [ref=e131]
+            - generic [ref=e132]:
+              - generic [ref=e133]: Name*
+              - textbox "Name*" [ref=e135] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e136]:
+              - generic [ref=e137]: Email*
+              - textbox "Email*" [ref=e139] [cursor=pointer]:
+                - /placeholder: hello@example.com...
+            - generic [ref=e140]:
+              - generic [ref=e141]: Phone Number*
+              - paragraph [ref=e143]: We may reach out to you directly.
+              - textbox "Phone Number*" [ref=e144] [cursor=pointer]:
+                - /placeholder: 1-415-555-1234...
+            - generic [ref=e145]:
+              - generic [ref=e146]: Resumé*
+              - button "Resumé*" [ref=e147]
+              - generic [ref=e148]:
+                - button "Upload File" [ref=e149] [cursor=pointer]:
+                  - img [ref=e150]
+                  - generic [ref=e152]: Upload File
+                - paragraph [ref=e153]: or drag and drop here
+            - generic [ref=e154]:
+              - generic [ref=e155]: GitHub
+              - textbox "GitHub" [ref=e157] [cursor=pointer]:
+                - /placeholder: https://example.com...
+            - generic [ref=e158]:
+              - generic [ref=e159]: LinkedIn
+              - textbox "LinkedIn" [ref=e161] [cursor=pointer]:
+                - /placeholder: Type here...
+            - group [ref=e162]:
+              - generic [ref=e163]: Will you now, or in the future, require sponsorship for employment visa status (e.g., H-1B visa) to legally work for in the US?*
+              - generic [ref=e164]:
+                - radio "Yes" [ref=e167] [cursor=pointer]
+                - generic [ref=e168]: "Yes"
+              - generic [ref=e169]:
+                - radio "No" [ref=e172] [cursor=pointer]
+                - generic [ref=e173]: "No"
+            - generic [ref=e174]:
+              - generic [ref=e175]: Explain one of your favorite projects, and why it was exceptional to you.*
+              - paragraph [ref=e177]: Preferably, under 100 words, explain one of your favorite projects.
+              - textbox "Explain one of your favorite projects, and why it was exceptional to you.*" [ref=e178] [cursor=pointer]:
+                - /placeholder: Type here...
+          - button "Submit Application" [ref=e179] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e180]
+  - contentinfo [ref=e102]:
+    - link "Learn more about Ashby" [ref=e103] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e104]: Powered by
+      - img "Ashby" [ref=e105]
+    - paragraph [ref=e111]:
+      - link "Privacy Policy" [ref=e112] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e113] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e114] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

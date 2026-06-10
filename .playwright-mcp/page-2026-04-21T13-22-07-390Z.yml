@@ -1,0 +1,35 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e8]:
+    - generic [ref=e10]:
+      - generic [ref=e12]:
+        - heading [level=1]
+      - generic [ref=e14]:
+        - button "Sign In" [ref=e16] [cursor=pointer]:
+          - generic [ref=e21]: Sign In
+        - navigation [ref=e22]:
+          - button "Search for Jobs" [ref=e23] [cursor=pointer]
+  - generic [ref=e27]:
+    - generic [ref=e28]: Follow Us
+    - list [ref=e29]:
+      - listitem [ref=e30] [cursor=pointer]:
+        - link "Google Plus" [ref=e31]:
+          - /url: https://plus.google.com/+cadencedesignsystems
+      - listitem [ref=e35] [cursor=pointer]:
+        - link "YouTube" [ref=e36]:
+          - /url: https://www.youtube.com/user/CadenceDesign
+      - listitem [ref=e42] [cursor=pointer]:
+        - link "LinkedIn" [ref=e43]:
+          - /url: https://www.linkedin.com/company/cadence-design-systems
+      - listitem [ref=e47] [cursor=pointer]:
+        - link "X" [ref=e48]:
+          - /url: https://twitter.com/cadence
+      - listitem [ref=e52] [cursor=pointer]:
+        - link "Facebook" [ref=e53]:
+          - /url: https://www.facebook.com/CadenceDesign
+    - link "Privacy" [ref=e58] [cursor=pointer]:
+      - /url: https://www.cadence.com/en_US/home/privacy.html
+    - generic [ref=e59]:
+      - img [ref=e63]
+      - generic [ref=e83]: © 2026 Workday, Inc. All rights reserved.

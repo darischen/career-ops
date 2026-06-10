@@ -1,0 +1,141 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "Veeva Careers" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img "Veeva Careers" [ref=e6]
+        - button "Toggle navigation" [ref=e7] [cursor=pointer]
+  - main [ref=e9]:
+    - generic [ref=e13]:
+      - heading "Associate Software Engineer - Seeking 2025 & 2026 Grads" [level=1] [ref=e14]
+      - generic [ref=e16]:
+        - heading "Page 1 of 3 - Basic Information" [level=3] [ref=e17]
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - text: Full name
+            - superscript [ref=e20]: ✱
+          - textbox "Full name ✱" [ref=e22]
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - text: Email
+            - superscript [ref=e25]: ✱
+          - textbox "Email ✱" [ref=e27]:
+            - /placeholder: name@example.com
+        - generic [ref=e28]:
+          - generic [ref=e29]: Phone
+          - textbox "Phone" [ref=e31]
+        - generic [ref=e32]:
+          - generic [ref=e33]: LinkedIn URL
+          - textbox "LinkedIn URL" [ref=e35]
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - text: Resume
+            - superscript [ref=e38]: ✱
+            - text: (.pdf, .docx, .doc)
+          - button "Resume ✱ (.pdf, .docx, .doc)" [ref=e40]
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - text: "Please upload your most recent transcript:"
+            - superscript [ref=e43]: ✱
+            - text: (.pdf, .docx, .doc)
+          - 'button "Please upload your most recent transcript: ✱ (.pdf, .docx, .doc)" [ref=e45]'
+        - generic [ref=e46]:
+          - generic [ref=e47]:
+            - text: Do you have the unrestricted right to work in the United States?
+            - superscript [ref=e48]: ✱
+          - combobox [ref=e50]:
+            - option "Select..." [selected]
+            - option "Yes"
+            - option "No"
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - text: Will you now or in the future require sponsorship for work authorization?
+            - superscript [ref=e53]: ✱
+          - combobox [ref=e55]:
+            - option "Select..." [selected]
+            - option "Yes"
+            - option "No"
+        - button "NEXT" [ref=e58] [cursor=pointer]
+  - contentinfo [ref=e59]:
+    - generic [ref=e63]:
+      - link [ref=e64] [cursor=pointer]:
+        - /url: /
+        - img [ref=e65]
+      - navigation [ref=e71]:
+        - list [ref=e72]:
+          - listitem [ref=e73]:
+            - link "Careers Home" [ref=e74] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e75]:
+            - link "Why Veeva" [ref=e76] [cursor=pointer]:
+              - /url: https://careers.veeva.com/why-veeva/
+          - listitem [ref=e77]:
+            - link "Teams" [ref=e78] [cursor=pointer]:
+              - /url: /#teams
+          - listitem [ref=e79]:
+            - link "Generation Veeva" [ref=e80] [cursor=pointer]:
+              - /url: https://www.veeva.com/generationveeva/
+          - listitem [ref=e81]:
+            - link "Applicant Privacy Notice" [ref=e82] [cursor=pointer]:
+              - /url: https://www.veeva.com/job-applicant-data-privacy-notice/
+          - listitem [ref=e83]:
+            - link "Clinical Solutions" [ref=e84] [cursor=pointer]:
+              - /url: https://www.veeva.com/products/vault-clinical/
+          - listitem [ref=e85]:
+            - link "Regulatory Solutions" [ref=e86] [cursor=pointer]:
+              - /url: https://www.veeva.com/products/vault-rim/
+          - listitem [ref=e87]:
+            - link "Quality Solutions" [ref=e88] [cursor=pointer]:
+              - /url: https://www.veeva.com/products/vault-quality/
+          - listitem [ref=e89]:
+            - link "Safety Solutions" [ref=e90] [cursor=pointer]:
+              - /url: https://www.veeva.com/products/vault-safety/
+          - listitem [ref=e91]:
+            - link "Medical Solutions" [ref=e92] [cursor=pointer]:
+              - /url: https://www.veeva.com/products/medical-suite/
+          - listitem [ref=e93]:
+            - link "Commercial Solutions" [ref=e94] [cursor=pointer]:
+              - /url: https://www.veeva.com/products/commercial-cloud/
+          - listitem [ref=e95]:
+            - link "Industry Segments" [ref=e96] [cursor=pointer]:
+              - /url: https://www.veeva.com/products/pharma-biotech/
+          - listitem [ref=e97]:
+            - link "Services" [ref=e98] [cursor=pointer]:
+              - /url: https://www.veeva.com/services/
+          - listitem [ref=e99]:
+            - link "Customers" [ref=e100] [cursor=pointer]:
+              - /url: https://www.veeva.com/customers/
+          - listitem [ref=e101]:
+            - link "Resources" [ref=e102] [cursor=pointer]:
+              - /url: https://www.veeva.com/resources/
+          - listitem [ref=e103]:
+            - link "Events" [ref=e104] [cursor=pointer]:
+              - /url: https://www.veeva.com/events/
+      - paragraph [ref=e106]:
+        - text: Global Headquarters
+        - text: Veeva Systems Inc.
+        - text: 4280 Hacienda Drive
+        - text: Pleasanton, CA 94588
+      - generic [ref=e107]:
+        - paragraph [ref=e108]: Follow us on social
+        - list [ref=e109]:
+          - listitem [ref=e110]:
+            - link "LinkedIn" [ref=e111] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/veeva-systems
+              - img "facebook-linkedin" [ref=e112]
+          - listitem [ref=e113]:
+            - link "Youtube" [ref=e114] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/VeevaSystems
+              - img "youtube-social" [ref=e115]
+          - listitem [ref=e116]:
+            - link "Medium" [ref=e117] [cursor=pointer]:
+              - /url: https://medium.com/veeva-systems
+              - img "medium" [ref=e118]
+    - paragraph [ref=e123]:
+      - text: Veeva Systems - Cloud-based Software for the Global Life Sciences Industry | © Copyright 2026 Veeva Systems
+      - link "Privacy Notice" [ref=e124] [cursor=pointer]:
+        - /url: https://www.veeva.com/privacy/
+      - text: "|"
+      - link "Terms" [ref=e125] [cursor=pointer]:
+        - /url: https://www.veeva.com/terms/

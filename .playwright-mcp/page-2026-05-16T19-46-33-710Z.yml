@@ -1,0 +1,118 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Aven" [ref=e6] [cursor=pointer]:
+        - /url: https://aven.com/
+        - img "Aven" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Aven’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /aven
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: Campbell, CA
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+      - generic [ref=e29]:
+        - tablist [ref=e30]:
+          - tab "Overview" [ref=e31] [cursor=pointer]
+          - tab "Application" [selected] [ref=e32] [cursor=pointer]
+        - tabpanel "Application" [ref=e95]:
+          - generic [ref=e96]:
+            - button "Choose File" [ref=e97]
+            - generic [ref=e99]:
+              - generic [ref=e100]:
+                - img [ref=e102]
+                - heading "Autofill from resume" [level=3] [ref=e104]
+              - paragraph [ref=e105]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e107] [cursor=pointer]
+          - generic [ref=e109]:
+            - generic [ref=e110]:
+              - generic [ref=e111]: Name*
+              - textbox "Name*" [ref=e113] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e114]:
+              - generic [ref=e115]: Phone Number*
+              - textbox "Phone Number*" [ref=e116] [cursor=pointer]:
+                - /placeholder: 1-415-555-1234...
+            - generic [ref=e117]:
+              - generic [ref=e118]: Email*
+              - textbox "Email*" [ref=e120] [cursor=pointer]:
+                - /placeholder: hello@example.com...
+            - generic [ref=e121]:
+              - generic [ref=e122]: LinkedIn*
+              - textbox "LinkedIn*" [ref=e124] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e125]:
+              - generic [ref=e126]: Resume*
+              - button "Resume*" [ref=e127]
+              - generic [ref=e128]:
+                - button "Upload File" [ref=e129] [cursor=pointer]:
+                  - img [ref=e130]
+                  - generic [ref=e132]: Upload File
+                - paragraph [ref=e133]: or drag and drop here
+            - generic [ref=e134]:
+              - generic [ref=e135]: If you graduated within the last four years, please attach your transcript
+              - button "If you graduated within the last four years, please attach your transcript" [ref=e136]
+              - generic [ref=e137]:
+                - button "Upload File" [ref=e138] [cursor=pointer]:
+                  - img [ref=e139]
+                  - generic [ref=e141]: Upload File
+                - paragraph [ref=e142]: or drag and drop here
+            - generic [ref=e143]:
+              - generic [ref=e144]: If you graduated within the last four years, please attach an official SAT or ACT score report
+              - button "If you graduated within the last four years, please attach an official SAT or ACT score report" [ref=e145]
+              - generic [ref=e146]:
+                - button "Upload File" [ref=e147] [cursor=pointer]:
+                  - img [ref=e148]
+                  - generic [ref=e150]: Upload File
+                - paragraph [ref=e151]: or drag and drop here
+            - group [ref=e153]:
+              - generic [ref=e154]: Which university did you attend for undergrad?*
+              - generic [ref=e155]:
+                - combobox "Start typing..." [ref=e156] [cursor=pointer]
+                - button [ref=e157] [cursor=pointer]:
+                  - img [ref=e158]
+            - generic [ref=e160]:
+              - generic [ref=e161]: What is the highest-impact project that you have done?*
+              - textbox "What is the highest-impact project that you have done?*" [ref=e162] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e163]:
+              - generic [ref=e164]: What is the hardest thing you have ever worked on in your life?*
+              - textbox "What is the hardest thing you have ever worked on in your life?*" [ref=e165] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e166]:
+              - generic [ref=e167]: What do you think is your single biggest accomplishment to date?*
+              - textbox "What do you think is your single biggest accomplishment to date?*" [ref=e168] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e169]:
+              - generic [ref=e170]: If you were referred, please list the referrer’s name and email.
+              - textbox "If you were referred, please list the referrer’s name and email." [ref=e172] [cursor=pointer]:
+                - /placeholder: Type here...
+          - button "Submit Application" [ref=e173] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e174]
+  - contentinfo [ref=e82]:
+    - link "Learn more about Ashby" [ref=e83] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e84]: Powered by
+      - img "Ashby" [ref=e85]
+    - paragraph [ref=e91]:
+      - link "Privacy Policy" [ref=e92] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e93] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e94] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

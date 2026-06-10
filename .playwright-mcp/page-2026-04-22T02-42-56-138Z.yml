@@ -1,0 +1,159 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - link [ref=e272] [cursor=pointer]:
+      - /url: ""
+      - text: Skip to main content
+    - banner [ref=e8]:
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - button [ref=e273] [cursor=pointer]:
+            - generic [ref=e20]: English
+          - button [ref=e274] [cursor=pointer]:
+            - generic [ref=e27]: Sign In
+        - navigation [ref=e28]:
+          - button [ref=e275] [cursor=pointer]: Careers Home
+          - button [ref=e276] [cursor=pointer]: Search for Jobs
+    - generic [ref=e35]:
+      - alert [ref=e36]: Software Engineer 1 page is loaded
+      - generic [ref=e37]:
+        - generic [ref=e39]:
+          - heading [level=2] [ref=e277]: Software Engineer 1
+          - button [ref=e278] [cursor=pointer]: Apply
+        - generic [ref=e46]:
+          - generic [ref=e47]:
+            - generic [ref=e55]:
+              - term [ref=e56]: locations
+              - definition [ref=e57]: England - Cambridge
+            - generic [ref=e58]:
+              - generic [ref=e67]:
+                - term [ref=e68]: time type
+                - definition [ref=e69]: Full time
+              - generic [ref=e78]:
+                - term [ref=e79]: posted on
+                - definition [ref=e80]: Posted 5 Days Ago
+              - generic [ref=e88]:
+                - term [ref=e89]: time left to apply
+                - definition [ref=e90]: "End Date: April 30, 2026 (7 days left to apply)"
+              - generic [ref=e99]:
+                - term [ref=e100]: job requisition id
+                - definition [ref=e101]: 42598-JOB
+          - generic [ref=e103]:
+            - text: What if the work you did every day could impact the lives of people you know? Or all of humanity?
+            - paragraph [ref=e104]
+            - text: At Illumina, we are expanding access to genomic technology to realize health equity for billions of people around the world. Our efforts enable life-changing discoveries that are transforming human health through the early detection and diagnosis of diseases and new treatment options for patients.
+            - paragraph [ref=e105]
+            - text: Working at Illumina means being part of something bigger than yourself. Every person, in every role, has the opportunity to make a difference. Surrounded by extraordinary people, inspiring leaders, and world changing projects, you will do more and become more than you ever thought possible.
+            - paragraph [ref=e106]
+            - paragraph [ref=e107]: "Job Title: Software Engineer 1"
+            - paragraph [ref=e108]: "Location: Cambridge"
+            - paragraph [ref=e109]: "Job Type: Full-time"
+            - paragraph [ref=e110]: "Experience Level: Entry-Level / Junior (SE1)"
+            - paragraph [ref=e111]
+            - paragraph [ref=e112]
+            - paragraph [ref=e113]: Are you interested in solving real-world customer problems with rigorous engineering? Do you have a strong technical background and excellent communication skills? Do you want to work on products that have a real positive impact on the world? If so, you might be the perfect fit for our Software Engineer 1 role within the End-To-End Solutions Software team in Cambridge (UK).
+            - paragraph [ref=e114]
+            - paragraph [ref=e115]
+            - paragraph [ref=e116]: Why Us
+            - paragraph [ref=e117]
+            - paragraph [ref=e118]: We develop a range of software products, in product areas such as Oncology and NIPT (non-invasive prenatal testing), which truly make a difference to human health. The initial focus of the role will be in the support and development of our on-market portfolio, initially working on NIPT which is a method of screening for genetic disorders in unborn babies. You will have the opportunity to work with multi-disciplinary teams to develop end-to-end solutions that address critical customer problems in a variety of areas.
+            - paragraph [ref=e119]
+            - paragraph [ref=e120]
+            - paragraph [ref=e121]: Why You
+            - paragraph [ref=e122]
+            - paragraph [ref=e123]: As Software Engineer 1 here at Illumina in Cambridge, you will join the End‑To‑End Solutions Software team, contributing to software products that have a meaningful impact on human health. Guided by our people‑first culture and shared commitment to integrity, collaboration, and innovation, you will work on on‑market solutions within areas such as Oncology and Non‑Invasive Prenatal Testing (NIPT). In this role, you will collaborate openly with cross‑functional and multi‑disciplinary teams, applying curiosity, analytical thinking, and engineering rigour to solve real‑world customer problems. You will be encouraged to learn continuously, share ideas, and take ownership of your work while contributing to inclusive team environments where diverse perspectives are valued. This is an exciting opportunity for a graduate or early‑career engineer (1-2 years experience) to build strong technical foundations while helping to push the boundaries of what’s possible in genomics and precision health.
+            - paragraph [ref=e124]
+            - paragraph [ref=e125]
+            - paragraph [ref=e126]: "Responsibilities of the role:"
+            - list [ref=e127]:
+              - listitem [ref=e128]: Work collaboratively in cross-functional teams to design, code, and maintain high quality on-market solutions using established processes in a scrum team setting
+              - listitem [ref=e129]: Implement bugfixes, improvements and new features in products, in areas such as generating reports from genetic analyses, RESTful APIs, web UI, database operations
+              - listitem [ref=e130]: Write clean, maintainable code while adhering to best practices
+              - listitem [ref=e131]: Participate in code reviews and continuous learning
+              - listitem [ref=e132]: Occasionally provide technical assistance to escalated on-market issues
+            - paragraph [ref=e133]
+            - paragraph [ref=e134]
+            - paragraph [ref=e135]: "Skills and qualifications:"
+            - list [ref=e136]:
+              - listitem [ref=e137]: University degree in a technical or analytical subject
+              - listitem [ref=e138]: "0-2 years of software-lifecycle experience: software requirements, design, implementation, testing and maintenance"
+              - listitem [ref=e139]: Knowledge and experience with Java, Python or similar high-level language
+              - listitem [ref=e140]: Be curious, detail oriented, and analytical, with a proven ability to learn quickly
+              - listitem [ref=e141]: Be customer-focused, team-oriented, and motivated, taking ownership of assigned tasks
+              - listitem [ref=e142]: Have proven verbal and written communication skills
+            - paragraph [ref=e143]
+            - paragraph [ref=e144]
+            - paragraph [ref=e145]: "Desired but not essential:"
+            - list [ref=e146]:
+              - listitem [ref=e147]: Collaborating in a team environment and delivering high-quality software products using established agile development methodologies (such as Scrum, Kanban, etc.) against formal schedules
+              - listitem [ref=e148]: Understanding of object-oriented analysis and design
+              - listitem [ref=e149]: Experience with source control management tools (such as Git) and CM practices
+              - listitem [ref=e150]: Experience with data persistence technologies (such as relational databases)
+              - listitem [ref=e151]: Experience with Java based frameworks such as Hibernate (JPA), Jersey (JAX-RS), Unit testing
+              - listitem [ref=e152]: Experience in container-based app development such as Docker or Podman
+              - listitem [ref=e153]: Understanding of Genomics, Bioinformatics, or related field of biology
+            - paragraph [ref=e154]
+            - paragraph [ref=e155]
+            - paragraph [ref=e156]: "What can you expect:"
+            - paragraph [ref=e157]
+            - paragraph [ref=e158]: Our team members are bright, energetic, and dedicated - they are the driving force behind our innovation and impact. To attract the best and brightest, we offer a competitive employee benefits program. We view it as a smart investment in our people, one that recognizes the tremendous value they bring to our business every day.
+            - paragraph [ref=e159]: This role is primarily based out of Illumina’s European headquarters, just outside of Cambridge, UK. Partial remote working may be possible, but some office-based work will be required.
+            - paragraph [ref=e160]
+            - paragraph [ref=e161]
+            - text: "We are a company deeply rooted in belonging, promoting an inclusive environment where employees feel valued and empowered to contribute to our mission. Built on a strong foundation, Illumina has always prioritized openness, collaboration, and seeking alternative perspectives to propel innovation in genomics. We are proud to confirm a zero-net gap in pay, regardless of gender, ethnicity, or race. We also have several Employee Resource Groups (ERG) that deliver career development experiences, increase cultural awareness, and offer opportunities to engage in social responsibility. We are proud to be an equal opportunity employer committed to providing employment opportunity regardless of sex, race, creed, color, gender, religion, marital status, domestic partner status, age, national origin or ancestry, physical or mental disability, medical condition, sexual orientation, pregnancy, military or veteran status, citizenship status, and genetic information. Illumina conducts background checks on applicants for whom a conditional offer of employment has been made. Qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable local, state, and federal laws. Background check results may potentially result in the withdrawal of a conditional offer of employment. The background check process and any decisions made as a result shall be made in accordance with all applicable local, state, and federal laws. Illumina prohibits the use of generative artificial intelligence (AI) in the application and interview process. If you require accommodation to complete the application or interview process, please contact accommodations@illumina.com. To learn more, visit: https://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf. The position will be posted until a final candidate is selected or the requisition has a sufficient number of qualified applicants. This role is not eligible for visa sponsorship."
+      - generic [ref=e163]:
+        - heading [level=3] [ref=e279]: Similar Jobs (1)
+        - generic [ref=e166]:
+          - link [ref=e280] [cursor=pointer]:
+            - /url: /en-US/illumina-careers/job/England---Cambridge/Senior-Software-Engineer_42586-JOB-1?utm_source=Simplify&ref=Simplify
+            - heading [level=4] [ref=e281]: Senior Software Engineer
+          - generic [ref=e179]:
+            - term [ref=e180]: locations
+            - definition [ref=e181]: England - Cambridge
+          - generic [ref=e190]:
+            - term [ref=e191]: time type
+            - definition [ref=e192]: Full time
+          - generic [ref=e201]:
+            - term [ref=e202]: posted on
+            - definition [ref=e203]: Posted 12 Days Ago
+      - generic [ref=e206]:
+        - heading [level=3] [ref=e282]: About Us
+        - img [ref=e283]
+        - paragraph [ref=e213]:
+          - text: The potential of genomics to change the world is unparalleled. At Illumina, we are leading the way.
+          - link [ref=e284] [cursor=pointer]:
+            - /url: https://www.illumina.com/company/news-center/feature-articles/25-greatest-impacts-in-25-years--a-look-back-at-illumina-and-the.html
+            - text: Our technology
+          - text: empowers researchers and clinicians globally to improve cancer treatments, change the course of diseases, protect the environment, and fight food insecurity. We are made up of dedicated professionals, all-in on creating a better world – and we need every skill set on our path to making genomics useful for all.
+          - link [ref=e285] [cursor=pointer]:
+            - /url: https://www.illumina.com/company/careers.html
+            - text: Learn more
+          - text: about life at Illumina.
+    - generic [ref=e216]:
+      - generic [ref=e217]: Follow Us
+      - list [ref=e218]:
+        - listitem [ref=e219] [cursor=pointer]:
+          - link [ref=e286]:
+            - /url: https://twitter.com/illumina
+        - listitem [ref=e224] [cursor=pointer]:
+          - link [ref=e287]:
+            - /url: https://www.youtube.com/playlist?list=PLKRu7cmBQlai7YdNq6jrP1jxDueGBtteZ
+        - listitem [ref=e231] [cursor=pointer]:
+          - link [ref=e288]:
+            - /url: https://www.glassdoor.com/Overview/Working-at-Illumina-EI_IE11671.11,19.htm
+        - listitem [ref=e237] [cursor=pointer]:
+          - link [ref=e289]:
+            - /url: https://www.linkedin.com/company/illumina/
+        - listitem [ref=e242] [cursor=pointer]:
+          - link [ref=e290]:
+            - /url: https://www.facebook.com/illuminainc
+      - generic [ref=e247]:
+        - img [ref=e251]
+        - generic [ref=e271]: © 2026 Workday, Inc. All rights reserved.
+  - dialog "Start Your Application" [ref=e294]:
+    - button "Close" [active] [ref=e296] [cursor=pointer]
+    - generic [ref=e302]:
+      - heading "Start Your Application" [level=2] [ref=e303]
+      - heading "Software Engineer 1" [level=3] [ref=e304]
+      - button "Autofill with Resume" [ref=e308] [cursor=pointer]
+      - button "Apply Manually" [ref=e312] [cursor=pointer]
+      - button "Use My Last Application" [ref=e317] [cursor=pointer]

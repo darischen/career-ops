@@ -1,0 +1,196 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e8]:
+    - generic [ref=e10]:
+      - link "careers home" [ref=e13] [cursor=pointer]:
+        - /url: https://careers.travelers.com/
+        - img "careers home" [ref=e14]
+      - generic [ref=e15]:
+        - heading [level=1]
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - button "English" [ref=e20] [cursor=pointer]:
+            - generic [ref=e24]: English
+          - button "Sign In" [ref=e26] [cursor=pointer]:
+            - generic [ref=e31]: Sign In
+        - navigation [ref=e32]:
+          - button "Careers Website" [ref=e33] [cursor=pointer]
+  - generic [ref=e38]:
+    - alert [ref=e39]: Software Engineer I - Personal Insurance (Typescript, NodeJs, C#, AI) page is loaded
+    - generic [ref=e40]:
+      - generic [ref=e42]:
+        - heading "Software Engineer I - Personal Insurance (Typescript, NodeJs, C#, AI)" [level=2] [ref=e43]
+        - button "Apply" [ref=e48] [cursor=pointer]
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - generic [ref=e51]:
+            - generic [ref=e58]:
+              - term [ref=e59]: remote type
+              - definition [ref=e60]: Hybrid
+            - generic [ref=e67]:
+              - term [ref=e68]: locations
+              - definition [ref=e69]: CT - Hartford
+              - definition [ref=e70]: GA - Atlanta
+              - definition [ref=e71]: MN - St. Paul
+              - definition [ref=e72]: MD - Hunt Valley
+          - generic [ref=e73]:
+            - generic [ref=e82]:
+              - term [ref=e83]: time type
+              - definition [ref=e84]: Full time
+            - generic [ref=e93]:
+              - term [ref=e94]: posted on
+              - definition [ref=e95]: Posted Today
+            - generic [ref=e104]:
+              - term [ref=e105]: job requisition id
+              - definition [ref=e106]: R-50807
+        - generic [ref=e108]:
+          - heading "Who Are We?" [level=2] [ref=e109]
+          - paragraph [ref=e110]: Taking care of our customers, our communities and each other. That’s the Travelers Promise. By honoring this commitment, we have maintained our reputation as one of the best property casualty insurers in the industry for over 170 years. Join us to discover a culture that is rooted in innovation and thrives on collaboration. Imagine loving what you do and where you do it.
+          - paragraph [ref=e111]
+          - heading "Job Category" [level=2] [ref=e147]
+          - text: Technology
+          - paragraph [ref=e148]
+          - heading "Compensation Overview" [level=2] [ref=e149]
+          - paragraph [ref=e150]: The annual base salary range provided for this position is a nationwide market range and represents a broad range of salaries for this role across the country. The actual salary for this position will be determined by a number of factors, including the scope, complexity and location of the role; the skills, education, training, credentials and experience of the candidate; and other conditions of employment. As part of our comprehensive compensation and benefits program, employees are also eligible for performance-based cash incentive awards.
+          - paragraph [ref=e151]
+          - heading "Salary Range" [level=2] [ref=e152]
+          - text: $99,100.00 - $163,400.00
+          - paragraph [ref=e153]
+          - heading "Target Openings" [level=2] [ref=e189]
+          - text: "1"
+          - paragraph [ref=e190]
+          - heading "What Is the Opportunity?" [level=2] [ref=e298]
+          - text: Travelers is seeking a Software Engineer I to join our Personal Insurance organization as we grow and transform our Technology landscape. Individual will complete intermediate end to end engineering tasks for specific system assignments including developing, analyzing, configuring, testing, debugging, troubleshooting, documenting, health monitoring/alerting, and implementing based on user or system design specifications, as well as participating in troubleshooting, conducting impact analysis and escalating appropriately.
+          - text: Applicants must be authorized to work for ANY employer in the U.S. The company does not sponsor/support H-1B petitions, TN, or Forms I-983/STEM OPT, for this role.
+          - heading "What Will You Do?" [level=2] [ref=e299]
+          - list [ref=e300]:
+            - listitem [ref=e301]: Perform analysis, design, development, and configuration functions as well as define technical requirements for assignments of intermediate complexity.
+            - listitem [ref=e302]: Participate with team to perform analysis, assessment and resolution for defects and incidents of intermediate complexity and escalate appropriately.
+            - listitem [ref=e303]: Work within guidelines set by team to independently tackle well-scoped problems.
+            - listitem [ref=e304]: Seek opportunities to expand technical knowledge and capabilities.
+            - listitem [ref=e305]: Perform other responsibilities as assigned.
+          - heading "What Will Our Ideal Candidate Have?" [level=2] [ref=e306]
+          - list [ref=e307]:
+            - listitem [ref=e308]:
+              - generic [ref=e310]: Three years of programming/development experience.
+            - listitem [ref=e311]:
+              - generic [ref=e313]: Proficient in building scalable web applications using TypeScript.
+            - listitem [ref=e314]:
+              - generic [ref=e316]: Backend experience building scalable applications with Node.js and C#.
+            - listitem [ref=e317]:
+              - generic [ref=e319]: Practical exposure to AI and Generative AI integration.
+            - listitem [ref=e320]: Delivery - Intermediate delivery skills including the ability to deliver work at a steady, predictable pace to achieve commitments, decompose work assignments into small batch releases and contribute to tradeoff and negotiation discussions.
+            - listitem [ref=e321]: Domain Expertise - Demonstrated track record of domain expertise including the ability to understand technical concepts necessary to do the job effectively, demonstrate willingness, cooperation, and concern for business issues and possess in-depth knowledge of immediate systems worked on.
+            - listitem [ref=e322]: Problem Solving - Proven problem solving skills including debugging skills, allowing you to determine source of issues in unfamiliar code or systems and the ability to recognize and solve repetitive problems rather than working around them, recognize mistakes using them as learning opportunities and break down large problems into smaller, more manageable ones.
+            - listitem [ref=e323]: Communication - Strong communication skills with the ability to clearly and concisely interact with team members, document work in a clear, easy to follow manner, collaborate well with team members, take in well- scoped requirements and ask the right questions to ensure clarification, seek out and receive constructive criticism well and listen when others are speaking.
+            - listitem [ref=e324]: Leadership - Intermediate leadership skills with a proven track record of self-motivation in identifying personal growth opportunities.
+          - paragraph [ref=e325]
+          - heading "What is a Must Have?" [level=2] [ref=e326]
+          - list [ref=e327]:
+            - listitem [ref=e328]: Bachelor’s degree in computer science, related STEM field, or its equivalent in education and/or work experience.
+            - listitem [ref=e329]: 2 additional years of software engineering experience.
+          - paragraph [ref=e330]
+          - generic [ref=e331]:
+            - heading "What Is in It for You?" [level=2] [ref=e332]
+            - list [ref=e333]:
+              - listitem [ref=e334]: "Health Insurance: Employees and their eligible family members – including spouses, domestic partners, and children – are eligible for coverage from the first day of employment."
+              - listitem [ref=e335]: "Retirement: Travelers matches your 401(k) contributions dollar-for-dollar up to your first 5% of eligible pay, subject to an annual maximum. If you have student loan debt, you can enroll in the Paying it Forward Savings Program. When you make a payment toward your student loan, Travelers will make an annual contribution into your 401(k) account. You are also eligible for a Pension Plan that is 100% funded by Travelers."
+              - listitem [ref=e336]: "Paid Time Off: Start your career at Travelers with a minimum of 20 days Paid Time Off annually, plus nine paid company Holidays."
+              - listitem [ref=e337]: "Wellness Program: The Travelers wellness program is comprised of tools, discounts and resources that empower you to achieve your wellness goals and caregiving needs. In addition, our mental health program provides access to free professional counseling services, health coaching and other resources to support your daily life needs."
+              - listitem [ref=e338]: "Volunteer Encouragement: We have a deep commitment to the communities we serve and encourage our employees to get involved. Travelers has a Matching Gift and Volunteer Rewards program that enables you to give back to the charity of your choice."
+            - paragraph [ref=e339]
+            - generic [ref=e340]:
+              - heading "Employment Practices" [level=2] [ref=e341]
+              - paragraph [ref=e342]: Travelers is an equal opportunity employer. We value the unique abilities and talents each individual brings to our organization and recognize that we benefit in numerous ways from our differences.
+              - paragraph [ref=e343]
+              - paragraph [ref=e344]: In accordance with local law, candidates seeking employment in Colorado are not required to disclose dates of attendance at or graduation from educational institutions.
+              - paragraph [ref=e345]
+              - paragraph [ref=e346]:
+                - text: If you are a candidate and have specific questions regarding the physical requirements of this role, please send us an
+                - link "email" [ref=e348] [cursor=pointer]:
+                  - /url: mailto:4-ESU@travelers.com
+                - text: so we may assist you.
+              - paragraph [ref=e349]
+              - paragraph [ref=e350]: Travelers reserves the right to fill this position at a level above or below the level included in this posting.
+              - paragraph [ref=e351]
+              - paragraph [ref=e352]:
+                - text: To learn more about our comprehensive benefit programs please visit
+                - link "http://careers.travelers.com/life-at-travelers/benefits/" [ref=e354] [cursor=pointer]:
+                  - /url: http://careers.travelers.com/life-at-travelers/benefits/
+                  - generic [ref=e356]: http://careers.travelers.com/life-at-travelers/benefits/
+                - text: .
+    - generic [ref=e359]:
+      - heading "About Us" [level=3] [ref=e360]
+      - img "Logo" [ref=e361]
+      - generic [ref=e363]:
+        - generic [ref=e365]:
+          - paragraph [ref=e366]
+          - list [ref=e367]:
+            - listitem [ref=e368]:
+              - paragraph [ref=e369]:
+                - text: Travelers has more than 30,000 employees in the United States, Canada, the United Kingdom, and Ireland. >>
+                - link [ref=e370] [cursor=pointer]:
+                  - /url: https://careers.travelers.com/life-at-travelers/
+                  - text: Explore life at Travelers
+                - generic [ref=e371]: .
+            - listitem [ref=e372]:
+              - paragraph [ref=e373]:
+                - text: Open to all employees, our 10 Diversity Networks celebrate culture and communities and create spaces for all employees through powerful forums for dialogue and support. >>
+                - link [ref=e374] [cursor=pointer]:
+                  - /url: https://careers.travelers.com/life-at-travelers/diversity/
+                  - text: Discover diversity and inclusion
+                - text: .
+            - listitem [ref=e375]:
+              - paragraph [ref=e376]:
+                - text: Employees and their eligible family members – including spouses, domestic partners and children – are eligible for coverage from the first day of employment. >>
+                - link [ref=e377] [cursor=pointer]:
+                  - /url: https://careers.travelers.com/life-at-travelers/benefits/
+                  - text: Explore benefits
+                - generic [ref=e378]: .
+            - listitem [ref=e379]:
+              - paragraph [ref=e380]:
+                - text: Travelers has been recognized by organizations such as G.I. Jobs and Military Times. >>
+                - link [ref=e381] [cursor=pointer]:
+                  - /url: https://careers.travelers.com/life-at-travelers/why-travelers/
+                  - text: Read more about recognition
+                - text: .
+            - listitem [ref=e382]:
+              - paragraph [ref=e383]:
+                - text: Our employees are valuable assets to their hometowns, volunteering for important causes each year. >>
+                - link [ref=e384] [cursor=pointer]:
+                  - /url: https://careers.travelers.com/life-at-travelers/community-involvement/
+                  - text: Learn about community involvement
+                - text: .
+            - listitem [ref=e385]:
+              - paragraph [ref=e386]:
+                - text: Imagine other opportunities
+                - link [ref=e387] [cursor=pointer]:
+                  - /url: https://careers.travelers.com/
+                  - text: here
+                - text: .
+        - button "Read More" [ref=e390] [cursor=pointer]:
+          - generic [ref=e391]: Read More
+  - generic [ref=e395]:
+    - heading "Follow Us" [level=4] [ref=e396]
+    - list [ref=e397]:
+      - listitem [ref=e398] [cursor=pointer]:
+        - link "LinkedIn" [ref=e399]:
+          - /url: http://us.linkedin.com/company/travelers
+      - listitem [ref=e403] [cursor=pointer]:
+        - link "X" [ref=e404]:
+          - /url: https://twitter.com/TRV_Careers
+      - listitem [ref=e408] [cursor=pointer]:
+        - link "Facebook" [ref=e409]:
+          - /url: https://www.facebook.com/TravelersCareers
+      - listitem [ref=e413] [cursor=pointer]:
+        - link "YouTube" [ref=e414]:
+          - /url: http://www.youtube.com/user/TravelersInsurance
+      - listitem [ref=e420] [cursor=pointer]:
+        - link "Glassdoor" [ref=e421]:
+          - /url: https://www.glassdoor.com/Overview/Working-at-Travelers-EI_IE1904.11,20.htm
+    - link "Privacy Policy" [ref=e427] [cursor=pointer]:
+      - /url: https://www.travelers.com/about-travelers/privacy-statements
+    - generic [ref=e428]:
+      - img [ref=e432]
+      - generic [ref=e452]: © 2026 Workday, Inc. All rights reserved.

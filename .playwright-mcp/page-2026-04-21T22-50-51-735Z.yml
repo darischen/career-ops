@@ -1,0 +1,86 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e6]:
+    - navigation [ref=e7]:
+      - link "Go to Uber Careers home page" [ref=e10] [cursor=pointer]:
+        - /url: https://www.uber.com/us/en/careers/
+        - text: Uber Careers
+    - generic [ref=e12]:
+      - navigation "Breadcrumbs navigation" [ref=e14]:
+        - list [ref=e15]:
+          - listitem [ref=e16]:
+            - text: Roles at Uber
+            - img [ref=e18]
+          - listitem [ref=e20]:
+            - text: Role details
+            - img [ref=e22]
+          - listitem [ref=e24]: Application
+      - generic [ref=e27]:
+        - heading "Software Engineer I" [level=1] [ref=e28]
+        - generic [ref=e29]: San Francisco, USA
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - heading "Uber Careers account" [level=4] [ref=e35]
+          - paragraph [ref=e36]: Sign in to pre-fill and save information used from your most recent application
+        - button "Sign in" [ref=e38] [cursor=pointer]:
+          - generic [ref=e39]: Sign in
+        - paragraph [ref=e41]:
+          - text: Don’t have an Uber Careers account?
+          - link "Create account" [ref=e42] [cursor=pointer]:
+            - /url: ""
+    - contentinfo [ref=e43]:
+      - link "Uber Careers" [ref=e46] [cursor=pointer]:
+        - /url: "#"
+        - img [ref=e47]:
+          - generic "Uber logo" [ref=e48]
+        - generic [ref=e51]: Uber
+        - text: Careers
+      - list [ref=e54]:
+        - listitem [ref=e55]:
+          - link "Uber for Android" [ref=e56] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.ubercab
+            - img "Uber for Android" [ref=e57]
+        - listitem [ref=e58]:
+          - link "Uber for Apple device" [ref=e59] [cursor=pointer]:
+            - /url: https://itunes.apple.com/us/app/uber/id368677368
+            - img "Uber for Apple device" [ref=e60]
+      - generic [ref=e61]:
+        - paragraph [ref=e62]: © 2026 Uber Technologies Inc.
+        - list [ref=e63]:
+          - listitem [ref=e64]:
+            - link "Privacy" [ref=e65] [cursor=pointer]:
+              - /url: https://www.uber.com/legal/privacy/users/en/
+          - listitem [ref=e66]:
+            - link "Terms" [ref=e67] [cursor=pointer]:
+              - /url: https://www.uber.com/legal/terms/us/
+  - generic:
+    - generic [ref=e69] [cursor=pointer]:
+      - img "face happy" [ref=e70]
+      - generic [ref=e72]: Feedback
+    - generic [ref=e73]:
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - text: Share your feedback
+          - img "close" [ref=e77] [cursor=pointer]
+        - generic [ref=e79]:
+          - generic [ref=e80]: How Satisfied are you with the Job Application Process?
+          - generic [ref=e81]:
+            - img "angry face" [ref=e85] [cursor=pointer]
+            - img "sad face" [ref=e95] [cursor=pointer]
+            - img "neutral face" [ref=e103] [cursor=pointer]
+            - img "happy face" [ref=e111] [cursor=pointer]
+            - img "very happy face" [ref=e119] [cursor=pointer]
+      - textbox [ref=e125]
+      - generic [ref=e127] [cursor=pointer]:
+        - generic:
+          - generic: Drop files here to attach…
+          - generic:
+            - img
+            - generic: Browse files
+      - generic [ref=e129] [cursor=pointer]: Send
+    - generic [ref=e130]:
+      - generic [ref=e131]:
+        - text: Thank you
+        - img "close" [ref=e133] [cursor=pointer]
+      - img [ref=e137]
+  - generic:
+    - iframe

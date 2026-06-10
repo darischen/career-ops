@@ -1,0 +1,347 @@
+- generic [ref=e9]:
+  - link [ref=e10] [cursor=pointer]:
+    - /url: "#mdc-main-content"
+    - generic [ref=e13]: Skip to main content
+  - navigation [ref=e15]:
+    - generic [ref=e19]:
+      - generic [ref=e21]:
+        - button [ref=e23] [cursor=pointer]:
+          - img [ref=e25]
+        - link [ref=e27] [cursor=pointer]:
+          - /url: /
+          - img [ref=e28]
+      - button [ref=e32] [cursor=pointer]:
+        - img [ref=e35]
+  - generic [ref=e38]:
+    - generic [ref=e40]:
+      - generic [ref=e42]:
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - generic [ref=e46]:
+              - navigation [ref=e47]:
+                - list [ref=e48]:
+                  - listitem [ref=e49]:
+                    - generic [ref=e50]:
+                      - button [ref=e51] [cursor=pointer]:
+                        - generic [ref=e53]: Jobs
+                      - img [ref=e54]
+                  - listitem [ref=e56]:
+                    - generic [ref=e59]: Product Operations Manager, AI Implementations - WhatsApp
+              - generic [ref=e60]:
+                - heading [level=1] [ref=e62]: Product Operations Manager, AI Implementations - WhatsApp
+                - generic [ref=e63]:
+                  - generic [ref=e64]:
+                    - text: Austin, TX
+                    - button [ref=e65] [cursor=pointer]: +2 locations
+                  - generic [ref=e66]:
+                    - generic [ref=e69]: Operations
+                    - button [ref=e70] [cursor=pointer]:
+                      - generic [ref=e73]: + 1 more
+            - button [ref=e74] [cursor=pointer]:
+              - img [ref=e77]
+          - button [ref=e80] [cursor=pointer]:
+            - generic [ref=e83]: Apply now
+          - generic [ref=e85]: Meta is seeking a Product Operations Manager to join WhatsApp Product Operations and drive product quality, AI-powered automation, and operational excellence across WhatsApp surfaces. We are in the middle of a transformation, becoming an AI-driven, individual-contributor-led organization that scales through orchestration, deep product expertise, and technical excellence. Our team is building and operating autonomous agents that handle end-to-end workflows (triage, bug resolution, launches, dogfooding, evals) with minimal human intervention. If you're energized by owning complex quality programs end-to-end, building and operating AI-driven workflows, and driving measurable product improvements in a fast-paced environment, this role is for you. You will be responsible for investigating and communicating the quality of WhatsApp's products to engineering, product, design, and other cross-functional partners. You will own AI builds for collecting, generating, and triaging reported quality issues. Additionally, you will partner with product and engineering teams to implement process and tooling improvements focused on driving developer efficiency, resolution of issues, and improved product quality.
+          - separator [ref=e86]
+          - generic [ref=e87]:
+            - heading [level=2] [ref=e88]: Product Operations Manager, AI Implementations - WhatsApp Responsibilities
+            - list [ref=e89]:
+              - generic [ref=e90]:
+                - listitem [ref=e91]: Become an expert in the health and quality of WhatsApp's products, identifying trends, regressions, and user pain points through data analysis and hands-on product usage
+                - listitem [ref=e92]: Own end-to-end product quality programs for your area, including launches, dogfooding, root cause analyses, severity incidents, and app health regressions automating first and operating with high reliability
+                - listitem [ref=e93]: "Design, build, and operate autonomous AI agents and workflows for your product area: bug triage, prioritization, classification, deduplication, and resolution"
+                - listitem [ref=e94]: Partner with engineering and product teams to drive resolution of high-priority issues and influence product roadmap based on quality insights
+                - listitem [ref=e95]: Prepare communication materials and progress tracking for multiple audiences including delivering updates to leadership stakeholders
+                - listitem [ref=e96]: Collect, analyze, and leverage data to identify quality trends and inform product decisions; build dashboards and metrics to drive data-driven decision making
+                - listitem [ref=e97]: Build and maintain an evals practice for your area, ensuring AI solutions meet accuracy thresholds through LLM judges, labellers, and governance frameworks
+                - listitem [ref=e98]: Assess and improve existing AI solutions within your scope, driving migration to standard platforms and partnering with AI Implementations leadership on scaling decisions
+                - listitem [ref=e99]: Coordinate with cross-functional teams and Foundations partners to align on org-wide priorities and share best practices
+                - listitem [ref=e100]: Design and operate AI workflows that comply with WhatsApp's data sensitivity guardrails, ensuring quality signals are collected and processed within encryption boundaries and privacy-first constraints
+          - generic [ref=e101]:
+            - heading [level=2] [ref=e102]: Minimum Qualifications
+            - list [ref=e103]:
+              - generic [ref=e104]:
+                - listitem [ref=e105]: Bachelor's degree in a directly related field, or equivalent practical experience
+                - listitem [ref=e106]: Experience building or deploying AI/ML solutions or automation in production workflows
+                - listitem [ref=e107]: 5+ years of related strategy, operations, consulting, or data analyst experience
+                - listitem [ref=e108]: Experience breaking down ambiguous issues into component parts to develop structured solutions
+                - listitem [ref=e109]: Currently has, or is in the process of obtaining a Bachelor's degree in a directly related field, or equivalent practical experience. Degree must be completed prior to joining Meta
+                - listitem [ref=e110]: Analytical experience using data to tell a story and influence product direction using intermediate to advanced SQL
+                - listitem [ref=e111]: Ability to design AI workflows that operate effectively within WhatsApp's data sensitivity constraints, balancing quality signal collection with privacy-first principles and encryption guardrails
+                - listitem [ref=e112]: Experience with WhatsApp or similar messaging/communication platforms, with understanding of mobile-first product behaviors, encryption, and multi-platform feature parity
+                - listitem [ref=e113]: Strong communication skills with ability to influence multiple cross-functional stakeholders and senior leadership
+          - generic [ref=e114]:
+            - heading [level=2] [ref=e115]: Preferred Qualifications
+            - list [ref=e116]:
+              - generic [ref=e117]:
+                - listitem [ref=e118]: Experience in product quality, QA, or technical program management
+                - listitem [ref=e119]: Experience working with global/remote teams
+                - listitem [ref=e120]: Familiarity with LLMs, AI agents, or ML evaluation frameworks
+                - listitem [ref=e121]: Prior experience working on or with WhatsApp or comparable large-scale messaging products
+                - listitem [ref=e122]: Experience operating in flat, individual-contributor-heavy org structures with high individual autonomy
+                - listitem [ref=e123]: Demonstrated ability to integrate AI tools to optimize/redesign workflows and drive measurable impact (e.g., efficiency gains, quality improvements)
+                - listitem [ref=e124]: Experience adhering to and implementing responsible, ethical AI practices (e.g., risk assessment, bias mitigation, quality and accuracy reviews)
+                - listitem [ref=e125]: Demonstrated ongoing AI skill development (e.g., prompt/context engineering, agent orchestration) and staying current with emerging AI technologies
+          - separator [ref=e126]
+          - generic [ref=e127]:
+            - heading [level=2] [ref=e128]: About Meta
+            - generic [ref=e131]: Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+          - generic [ref=e136]:
+            - text: For those who live in or expect to work from California if hired for this position, please click
+            - link [ref=e137] [cursor=pointer]:
+              - /url: https://scontent-lax3-1.xx.fbcdn.net/v/t39.2365-6/457477312_480861821467896_777041002100550877_n.pdf?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=WNJKUQaZ0zYQ7kNvwETmvNg&_nc_oc=AdrCxWEHBep1AjncfFwJotaeZGjg2r4V8T8E5tvFrO3TgXpb-gvmsGOZjpduQGliLznJwXOcMv9yGFF6k96qNCkp&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=0PFUI2MUMxr0hBqgeohobg&_nc_ss=7b289&oh=00_Af-cT0ew-39ZacAoSSmtoZF3flLw8jTrqbMk2q32RClK1Q&oe=6A3E776B
+              - text: here
+            - text: for additional information.
+          - generic [ref=e138]:
+            - generic [ref=e140]: "United States of America: $99,000/year to $144,000/year + bonus + equity + benefits"
+            - generic [ref=e141]:
+              - text: Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about
+              - link [ref=e142] [cursor=pointer]:
+                - /url: https://www.metacareers.com/benefits/
+                - text: benefits
+              - text: at Meta.
+          - generic [ref=e144]:
+            - heading [level=2] [ref=e145]: Equal Employment Opportunity
+            - generic [ref=e149]:
+              - text: Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice
+              - link [ref=e150] [cursor=pointer]:
+                - /url: https://www.metacareers.com/profile/footer_link/redirect/?page=equal_opportunity_policy
+                - text: here
+              - text: .
+            - generic [ref=e153]:
+              - text: Meta is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, fill out the
+              - link [ref=e154] [cursor=pointer]:
+                - /url: https://www.metacareers.com/accommodations_request
+                - text: Accommodations request form
+              - text: .
+        - separator [ref=e155]
+        - generic [ref=e157]:
+          - generic [ref=e159]: Apply for this job
+          - generic [ref=e160]: Take the first step toward a rewarding career at Meta.
+          - button [ref=e165] [cursor=pointer]:
+            - generic [ref=e168]: Apply now
+        - generic [ref=e188]:
+          - paragraph [ref=e191]: APPLY NOW
+          - heading [level=2] [ref=e193]:
+            - paragraph [ref=e194]: Find your role
+          - paragraph [ref=e195]: Explore jobs that match your skills and experience. Search by technology, team or location to find an opening that’s right for you.
+          - link [ref=e196] [cursor=pointer]:
+            - /url: https://www.metacareers.com/jobs
+            - text: View jobs
+      - generic [ref=e199]:
+        - generic [ref=e201]:
+          - img [ref=e204]
+          - button [ref=e212] [cursor=pointer]:
+            - img [ref=e215]
+        - generic [ref=e217]:
+          - generic [ref=e222]:
+            - text: Recruiters can view your conversations with AI. Using AI is optional and does not impact the outcome of your application process.
+            - button [ref=e223] [cursor=pointer]: Learn more
+            - text: about AI usage and settings.
+          - generic [ref=e227]:
+            - button [ref=e229] [cursor=pointer]:
+              - img [ref=e232]
+            - generic [ref=e235]:
+              - generic [ref=e236]: Ask follow-up questions
+              - button [ref=e237] [cursor=pointer]:
+                - generic [ref=e238]:
+                  - img [ref=e239]
+                  - generic [ref=e241]: Sign up
+              - generic [ref=e242]: to ask follow-up questions
+    - contentinfo [ref=e243]:
+      - generic [ref=e244]:
+        - separator [ref=e245]
+        - generic [ref=e247]:
+          - generic [ref=e249]:
+            - generic [ref=e251]:
+              - img [ref=e253]
+              - list [ref=e255]
+            - generic [ref=e257]:
+              - generic [ref=e258]:
+                - heading [level=2] [ref=e261]:
+                  - link [ref=e263] [cursor=pointer]:
+                    - /url: /jobsearch
+                    - text: Job Search
+                - generic [ref=e265]:
+                  - heading [level=2] [ref=e266]:
+                    - generic [ref=e267]: Technology Teams
+                  - list [ref=e268]:
+                    - listitem [ref=e269]:
+                      - link [ref=e271] [cursor=pointer]:
+                        - /url: /teams/technology/ai
+                        - text: Artificial Intelligence
+                    - listitem [ref=e272]:
+                      - link [ref=e274] [cursor=pointer]:
+                        - /url: /teams/technology/creative
+                        - text: Creative
+                    - listitem [ref=e275]:
+                      - link [ref=e277] [cursor=pointer]:
+                        - /url: /teams/technology/infrastructure
+                        - text: Infrastructure
+                    - listitem [ref=e278]:
+                      - link [ref=e280] [cursor=pointer]:
+                        - /url: /teams/technology/metaverse-and-wearables
+                        - text: Metaverse and Wearables
+                    - listitem [ref=e281]:
+                      - link [ref=e283] [cursor=pointer]:
+                        - /url: /teams/technology/product-and-program-management
+                        - text: Product and Program Management
+                    - listitem [ref=e284]:
+                      - link [ref=e286] [cursor=pointer]:
+                        - /url: /teams/technology/research-and-data
+                        - text: Research and Data
+                    - listitem [ref=e287]:
+                      - link [ref=e289] [cursor=pointer]:
+                        - /url: /teams/technology/security
+                        - text: Security
+                    - listitem [ref=e290]:
+                      - link [ref=e292] [cursor=pointer]:
+                        - /url: /teams/technology/software-engineering
+                        - text: Software Engineering
+              - generic [ref=e293]:
+                - generic [ref=e295]:
+                  - heading [level=2] [ref=e296]:
+                    - generic [ref=e297]: Business Teams
+                  - list [ref=e298]:
+                    - listitem [ref=e299]:
+                      - link [ref=e301] [cursor=pointer]:
+                        - /url: /teams/business/business-operations
+                        - text: Business Operations
+                    - listitem [ref=e302]:
+                      - link [ref=e304] [cursor=pointer]:
+                        - /url: /teams/business/partnerships
+                        - text: Partnerships
+                    - listitem [ref=e305]:
+                      - link [ref=e307] [cursor=pointer]:
+                        - /url: /teams/business/sales-and-marketing
+                        - text: Sales and Marketing
+                - generic [ref=e309]:
+                  - heading [level=2] [ref=e310]:
+                    - generic [ref=e311]: Career Programs
+                  - list [ref=e312]:
+                    - listitem [ref=e313]:
+                      - link [ref=e315] [cursor=pointer]:
+                        - /url: /careerprograms/research
+                        - text: Research
+                    - listitem [ref=e316]:
+                      - link [ref=e318] [cursor=pointer]:
+                        - /url: /careerprograms/accelerate-eng-talent
+                        - text: Accelerate Eng Talent
+                    - listitem [ref=e319]:
+                      - link [ref=e321] [cursor=pointer]:
+                        - /url: /careerprograms/students
+                        - text: Students and Grads
+                    - listitem [ref=e322]:
+                      - link [ref=e324] [cursor=pointer]:
+                        - /url: /rotational-programs
+                        - text: Rotational Programs
+                - generic [ref=e326]:
+                  - heading [level=2] [ref=e327]:
+                    - generic [ref=e328]: Working at Meta
+                  - list [ref=e329]:
+                    - listitem [ref=e330]:
+                      - link [ref=e332] [cursor=pointer]:
+                        - /url: /accessibility-and-engagement
+                        - text: Accessiblity and Engagement
+                    - listitem [ref=e333]:
+                      - link [ref=e335] [cursor=pointer]:
+                        - /url: /benefits
+                        - text: Benefits
+                    - listitem [ref=e336]:
+                      - link [ref=e338] [cursor=pointer]:
+                        - /url: /culture
+                        - text: Culture
+                    - listitem [ref=e339]:
+                      - link [ref=e341] [cursor=pointer]:
+                        - /url: /hiring-process
+                        - text: Hiring Process
+              - generic [ref=e342]:
+                - generic [ref=e344]:
+                  - heading [level=2] [ref=e345]:
+                    - generic [ref=e346]: My account
+                  - list [ref=e347]:
+                    - listitem [ref=e348]:
+                      - link [ref=e350] [cursor=pointer]:
+                        - /url: /profile/info
+                        - text: Career profile
+                    - listitem [ref=e351]:
+                      - link [ref=e353] [cursor=pointer]:
+                        - /url: /profile/settings
+                        - text: Account settings
+                    - listitem [ref=e354]:
+                      - link [ref=e356] [cursor=pointer]:
+                        - /url: /profile/messages
+                        - text: Messages
+                - heading [level=2] [ref=e359]:
+                  - link [ref=e361] [cursor=pointer]:
+                    - /url: /blog
+                    - text: Meta Careers Blog
+                - heading [level=2] [ref=e364]:
+                  - link [ref=e366] [cursor=pointer]:
+                    - /url: /podcasts
+                    - text: Meta Tech Podcasts
+                - generic [ref=e368]:
+                  - heading [level=2] [ref=e369]:
+                    - generic [ref=e370]: About us
+                  - list [ref=e371]:
+                    - listitem [ref=e372]:
+                      - link [ref=e374] [cursor=pointer]:
+                        - /url: https://www.meta.com/about/company-info/
+                        - text: About Meta
+                    - listitem [ref=e375]:
+                      - link [ref=e377] [cursor=pointer]:
+                        - /url: https://www.meta.com/media-gallery/
+                        - text: Media gallery
+                    - listitem [ref=e378]:
+                      - link [ref=e380] [cursor=pointer]:
+                        - /url: https://www.meta.com/brand/resources/
+                        - text: Brand resources
+                    - listitem [ref=e381]:
+                      - link [ref=e383] [cursor=pointer]:
+                        - /url: https://investor.atmeta.com/home/default.aspx
+                        - text: For investors
+                    - listitem [ref=e384]:
+                      - link [ref=e386] [cursor=pointer]:
+                        - /url: https://us.meta.talentnet.community/
+                        - text: Looking for contractor roles?
+          - generic [ref=e388]:
+            - generic [ref=e391]:
+              - link [ref=e393] [cursor=pointer]:
+                - /url: https://transparency.meta.com/policies/community-standards
+                - text: Community Standards
+              - link [ref=e395] [cursor=pointer]:
+                - /url: /privacy
+                - text: Data Policy
+              - link [ref=e397] [cursor=pointer]:
+                - /url: https://www.facebook.com/terms.php
+                - text: Terms
+              - link [ref=e399] [cursor=pointer]:
+                - /url: /policy/cookies
+                - text: Cookie Policy
+            - generic [ref=e401]:
+              - text: Equal Employment Opportunity
+              - paragraph [ref=e402]:
+                - text: Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice
+                - link [ref=e403] [cursor=pointer]:
+                  - /url: https://www.metacareers.com/profile/footer_link/redirect?page=equal_opportunity_policy
+                  - text: here
+                - text: .
+              - paragraph [ref=e404]:
+                - text: Meta is committed to providing reasonable support (called accommodations) in our recruiting processes for candidates with disabilities, long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support. If you need assistance or an accommodation due to a disability, fill out the
+                - link [ref=e405] [cursor=pointer]:
+                  - /url: https://www.metacareers.com/accommodations_request
+                  - text: Accommodations request form
+              - text: Notice regarding automated employment decision tools in New York City
+              - paragraph [ref=e406]:
+                - text: Learn more about this
+                - link [ref=e407] [cursor=pointer]:
+                  - /url: /nyc-disclosure-notice
+                  - text: here
+                - text: .
+              - paragraph [ref=e408]: ©2026 Meta.
+            - generic [ref=e409]:
+              - text: If you have any trouble, you can report an issue
+              - button [ref=e411] [cursor=pointer]:
+                - generic [ref=e412]:
+                  - img [ref=e413]
+                  - text: Report a bug

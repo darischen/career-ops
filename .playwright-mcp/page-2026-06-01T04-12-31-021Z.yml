@@ -1,0 +1,284 @@
+- generic [active] [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - link "Instabase Logo" [ref=e7] [cursor=pointer]:
+        - /url: https://instabase.com/careers/?gh_src=Simplify
+        - img "Instabase Logo" [ref=e8]
+      - generic [ref=e9]:
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - heading "Full-stack Software Engineer (New Grad)" [level=1] [ref=e13]
+            - generic [ref=e14]:
+              - img [ref=e15]
+              - generic [ref=e17]: San Francisco, CA
+          - button "Apply" [ref=e18] [cursor=pointer]
+        - generic [ref=e19]:
+          - generic [ref=e20]:
+            - paragraph [ref=e21]: At Instabase, we're passionate about democratizing access to cutting-edge AI innovation to enable any organization to solve previously unsolvable unstructured data problems in their industry. With customers representing some of the largest and most complex organizations in the world, and investors like Greylock, Andreessen Horowitz, and Index Ventures, our market opportunity is near infinite.
+            - paragraph [ref=e22]: Instabase offers a consumption-based pricing model where customers can pay only for what they use, aligning directly with the value our products deliver. It empowers our clients to explore our AI Hub platform features extensively, enabling them to uncover crucial business insights. This customer-centric model allows Instabase to glean insights from diverse use cases and behaviors, ensuring we deliver top-tier solutions that provide unmatched advantages for everyday business operations.
+            - paragraph [ref=e23]:
+              - generic [ref=e24]:
+                - text: With offices in San Francisco and Bengaluru, Instabase is a truly global company. We are
+                - strong [ref=e25]: people-first
+                - text: ", and we've built a fearlessly experimental, endlessly curious, customer obsessed team who work together and help organizations around the world turn their unstructured data into insights instantly."
+          - generic [ref=e26]:
+            - paragraph [ref=e27]:
+              - strong [ref=e28]: Our Engineering Team
+              - text: architects the underlying operating system, core services, platform infrastructure, dev toolkits, core algorithms, machine learning models, packaged end-user apps, and app store marketplace. Instabase engineers are excited to solve hard problems for complex organizations and are self-starters from day one.
+            - paragraph [ref=e29]:
+              - strong [ref=e30]: As a Software Engineer
+              - text: ", you’ll design and develop Instabase services and applications, touching various layers of the stack. Our product and infrastructure is written in Go, Python, Java, and C++. Our tech stack is React and Typescript on the frontend. We operate using the micro-services model and leverage Docker and Kubernetes for our deployments."
+            - paragraph [ref=e31]: We're hiring across all teams and technical areas, which includes Product Engineering and Infrastructure Engineering!
+            - paragraph [ref=e32]:
+              - strong [ref=e33]: "What you’ll do:"
+            - list [ref=e34]:
+              - listitem [ref=e35]: Collaborate with other engineers, product designers, and product managers to drive new features and applications from ideation to implementation to production
+              - listitem [ref=e36]: Develop the user interfaces of applications, the core platform, and reusable components
+              - listitem [ref=e37]: Evaluating new frontend libraries and technologies to fit our needs and iterating on and maintaining Instabase's frontend stack
+              - listitem [ref=e38]: Develop new features that can be leveraged by the other Instabase teams to develop apps and solutions
+              - listitem [ref=e39]: Move fast and be empowered to make product and design decisions. You will start contributing to our codebase during your first week, and as an early team member, you will help shape the UI and direction of our product
+            - paragraph [ref=e40]:
+              - strong [ref=e41]: "About you:"
+            - list [ref=e42]:
+              - listitem [ref=e43]: Bachelor’s, Master’s, or PhD program in Computer Science, Human Computer Interaction, Applied Mathematics, Computer Engineering, or a degree in a related field
+              - listitem [ref=e44]: Preferred graduation date between May 2026 - June 2026
+              - listitem [ref=e45]: "Proficient in one of more of the following languages and frameworks: Python, Go, React, and REST APIs."
+              - listitem [ref=e46]: Solid communication and collaboration and a strong eagerness to learn
+            - paragraph [ref=e47]:
+              - strong [ref=e48]: "Compensation:"
+              - text: The base salary range for this role is
+              - strong [ref=e49]: $140,000 to $145,455
+              - text: + bonus, equity, and US benefits. The actual pay may vary based on factors such as location, experience, and skills.
+            - paragraph [ref=e50]:
+              - strong [ref=e51]: "US Benefits:"
+            - list [ref=e52]:
+              - listitem [ref=e53]: "Flexible PTO: Because life is better when you actually live it!"
+              - listitem [ref=e54]: "Comprehensive Coverage: Top-notch medical, dental, and vision insurance."
+              - listitem [ref=e55]: "401(k) with Matching: We’ve got your back for a secure future."
+              - listitem [ref=e56]: "Parental Leave & Fertility Benefits: Supporting you in growing your family, your way."
+              - listitem [ref=e57]: "Therapy Sessions Covered: Mental health matters—10 free sessions through Samata Health."
+              - listitem [ref=e58]: "Wellness Stipend: For gym memberships, fitness tech, or whatever keeps you thriving."
+              - listitem [ref=e59]: "Lunch on Us: Enjoy a lunch credit when you’re in the office."
+            - paragraph [ref=e60]: "#Li-Hybrid"
+          - paragraph [ref=e62]:
+            - generic [ref=e63]: Instabase is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Research shows that in order to apply for a job, women feel they need to meet 100% of the criteria while men usually apply after meeting about 60%. Regardless of how you identify, if you believe you can do the job and are a good match, we encourage you to apply.
+        - generic [ref=e64]:
+          - img [ref=e65]
+          - generic [ref=e67]:
+            - paragraph [ref=e68]: Create a Job Alert
+            - paragraph [ref=e69]: Interested in building your career at Instabase? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e70] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=instabase&source=job_alert_post
+      - separator [ref=e71]
+      - generic [ref=e72]:
+        - generic [ref=e73]:
+          - generic [ref=e74]:
+            - heading "Apply for this job" [level=2] [ref=e76]
+            - generic [ref=e77]:
+              - paragraph [ref=e79]: "*"
+              - paragraph [ref=e80]: indicates a required field
+          - button "Quick Apply with MyGreenhouse" [ref=e83] [cursor=pointer]
+        - generic [ref=e84]:
+          - generic [ref=e85]:
+            - generic [ref=e88]:
+              - generic [ref=e89]: First Name*
+              - textbox "First Name" [ref=e90]
+            - generic [ref=e93]:
+              - generic [ref=e94]: Last Name*
+              - textbox "Last Name" [ref=e95]
+            - generic [ref=e98]:
+              - generic [ref=e99]: Email*
+              - textbox "Email" [ref=e100]
+            - group "Phone" [ref=e102]:
+              - generic [ref=e103]: Phone
+              - generic [ref=e106]:
+                - generic [ref=e107]: Country*
+                - generic [ref=e108]:
+                  - log [ref=e110]
+                  - generic [ref=e112]:
+                    - combobox "Country" [ref=e115]
+                    - button "Toggle flyout" [ref=e117] [cursor=pointer]:
+                      - img [ref=e118]
+                  - textbox
+              - generic [ref=e122]:
+                - generic [ref=e123]: Phone*
+                - textbox "Phone" [ref=e125]
+            - group "Resume/CV" [ref=e127]:
+              - generic [ref=e128]: Resume/CV
+              - generic [ref=e130]:
+                - generic [ref=e132]:
+                  - button "Attach" [ref=e133] [cursor=pointer]
+                  - generic [ref=e134]: Attach
+                  - button "Attach" [ref=e135]
+                - button "Dropbox" [ref=e137] [cursor=pointer]
+                - button "Google Drive" [ref=e139] [cursor=pointer]
+                - generic [ref=e141]:
+                  - button "Enter manually" [ref=e142] [cursor=pointer]
+                  - generic [ref=e143]: Enter manually
+                - paragraph [ref=e144]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e146]:
+              - generic [ref=e147]: Cover Letter
+              - generic [ref=e149]:
+                - generic [ref=e151]:
+                  - button "Attach" [ref=e152] [cursor=pointer]
+                  - generic [ref=e153]: Attach
+                  - button "Attach" [ref=e154]
+                - button "Dropbox" [ref=e156] [cursor=pointer]
+                - button "Google Drive" [ref=e158] [cursor=pointer]
+                - generic [ref=e160]:
+                  - button "Enter manually" [ref=e161] [cursor=pointer]
+                  - generic [ref=e162]: Enter manually
+                - paragraph [ref=e163]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e164]:
+            - separator [ref=e165]
+            - generic [ref=e168]:
+              - generic [ref=e169]: Graduation Date*
+              - generic [ref=e170]:
+                - log [ref=e172]
+                - generic [ref=e174]:
+                  - generic [ref=e175]:
+                    - generic [ref=e176]: Select...
+                    - combobox "Graduation Date" [ref=e178]
+                  - button "Toggle flyout" [ref=e180] [cursor=pointer]:
+                    - img [ref=e181]
+                - textbox
+            - generic [ref=e185]:
+              - generic [ref=e186]: Target Start Date*
+              - generic [ref=e187]:
+                - log [ref=e189]
+                - generic [ref=e191]:
+                  - generic [ref=e192]:
+                    - generic [ref=e193]: Select...
+                    - combobox "Target Start Date" [ref=e195]
+                  - button "Toggle flyout" [ref=e197] [cursor=pointer]:
+                    - img [ref=e198]
+                - textbox
+            - generic [ref=e202]:
+              - generic [ref=e203]: Area of Interest*
+              - generic [ref=e204]:
+                - log [ref=e206]
+                - generic [ref=e208]:
+                  - generic [ref=e209]:
+                    - generic [ref=e210]: Select...
+                    - combobox "Area of Interest" [ref=e212]
+                  - button "Toggle flyout" [ref=e214] [cursor=pointer]:
+                    - img [ref=e215]
+                - textbox
+            - generic [ref=e219]:
+              - generic [ref=e220]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e221]
+            - generic [ref=e224]:
+              - generic [ref=e225]: Github Profile*
+              - textbox "Github Profile" [ref=e226]
+          - generic [ref=e227]:
+            - separator [ref=e228]
+            - generic [ref=e229]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e230]
+              - paragraph [ref=e231]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e232]: As set forth in Instabase’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e235]:
+              - generic [ref=e236]: Gender
+              - generic [ref=e237]:
+                - log [ref=e239]
+                - generic [ref=e241]:
+                  - generic [ref=e242]:
+                    - generic [ref=e243]: Select...
+                    - combobox "Gender" [ref=e245]
+                  - button "Toggle flyout" [ref=e247] [cursor=pointer]:
+                    - img [ref=e248]
+            - generic [ref=e250]:
+              - generic [ref=e252]:
+                - generic [ref=e253]: Are you Hispanic/Latino?
+                - generic [ref=e254]:
+                  - log [ref=e256]
+                  - generic [ref=e258]:
+                    - generic [ref=e259]:
+                      - generic [ref=e260]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e262]
+                    - button "Toggle flyout" [ref=e264] [cursor=pointer]:
+                      - img [ref=e265]
+              - link "Race & Ethnicity Definitions" [ref=e267] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e268]:
+              - paragraph [ref=e269]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e270]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e271]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e272]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e273]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e276]:
+              - generic [ref=e277]: Veteran Status
+              - generic [ref=e278]:
+                - log [ref=e280]
+                - generic [ref=e282]:
+                  - generic [ref=e283]:
+                    - generic [ref=e284]: Select...
+                    - combobox "Veteran Status" [ref=e286]
+                  - button "Toggle flyout" [ref=e288] [cursor=pointer]:
+                    - img [ref=e289]
+            - separator [ref=e291]
+            - generic [ref=e292]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e293]
+              - generic [ref=e294]:
+                - generic [ref=e295]:
+                  - generic [ref=e296]: Form CC-305
+                  - generic [ref=e297]: Page 1 of 1
+                - generic [ref=e298]:
+                  - generic [ref=e299]: OMB Control Number 1250-0005
+                  - generic [ref=e300]: Expires 04/30/2026
+              - strong [ref=e301]: Why are you being asked to complete this form?
+              - paragraph [ref=e302]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e303]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e304] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e305]: How do you know if you have a disability?
+              - paragraph [ref=e306]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e307]: "Disabilities include, but are not limited to:"
+              - list [ref=e308]:
+                - listitem [ref=e309]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e310]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e311]: Blind or low vision
+                - listitem [ref=e312]: Cancer (past or present)
+                - listitem [ref=e313]: Cardiovascular or heart disease
+                - listitem [ref=e314]: Celiac disease
+                - listitem [ref=e315]: Cerebral palsy
+                - listitem [ref=e316]: Deaf or serious difficulty hearing
+                - listitem [ref=e317]: Diabetes
+                - listitem [ref=e318]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e319]: Epilepsy or other seizure disorder
+                - listitem [ref=e320]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e321]: Intellectual or developmental disability
+                - listitem [ref=e322]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e323]: Missing limbs or partially missing limbs
+                - listitem [ref=e324]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e325]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e326]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e327]: Partial or complete paralysis (any cause)
+                - listitem [ref=e328]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e329]: Short stature (dwarfism)
+                - listitem [ref=e330]: Traumatic brain injury
+            - generic [ref=e333]:
+              - generic [ref=e334]: Disability Status
+              - generic [ref=e335]:
+                - log [ref=e337]
+                - generic [ref=e339]:
+                  - generic [ref=e340]:
+                    - generic [ref=e341]: Select...
+                    - combobox "Disability Status" [ref=e343]
+                  - button "Toggle flyout" [ref=e345] [cursor=pointer]:
+                    - img [ref=e346]
+            - paragraph [ref=e349]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e351] [cursor=pointer]
+  - contentinfo [ref=e352]:
+    - generic [ref=e353]:
+      - paragraph [ref=e354]: Powered by
+      - link "Greenhouse logo" [ref=e355] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e356]
+  - iframe [ref=e370]:
+    - generic [ref=f28e6]:
+      - text: protected by
+      - strong [ref=f28e7]: reCAPTCHA

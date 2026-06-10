@@ -1,0 +1,438 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - img [ref=e6]
+    - paragraph [ref=e8]: The job you are looking for is no longer open.
+  - main [ref=e9]:
+    - generic [ref=e10]:
+      - img "SmithRx Logo" [ref=e12]
+      - heading "Current openings at SmithRx" [level=1] [ref=e13]
+      - generic [ref=e15]:
+        - img [ref=e16]
+        - generic [ref=e18]:
+          - paragraph [ref=e19]: Create a Job Alert
+          - paragraph [ref=e20]: Level-up your career by having opportunities at SmithRx sent directly to your inbox.
+          - link "Create alert" [ref=e21] [cursor=pointer]:
+            - /url: https://my.greenhouse.io/users/sign_in?job_board=smithrx&source=job_alert_board
+      - generic [ref=e22]:
+        - generic [ref=e25]:
+          - generic [ref=e26]: Search
+          - textbox "Search" [ref=e27]
+        - generic [ref=e28]:
+          - heading "45 jobs" [level=2] [ref=e29]
+          - generic [ref=e30]:
+            - generic [ref=e31]:
+              - paragraph [ref=e33]: Customer Success
+              - heading "Account Management" [level=3] [ref=e34]
+              - table [ref=e36]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e37]:
+                      - paragraph [ref=e38]: Job
+                - rowgroup [ref=e39]:
+                  - row "Account Manager Remote" [ref=e40]:
+                    - cell "Account Manager Remote" [ref=e41]:
+                      - link "Account Manager Remote" [ref=e42] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8328583002
+                        - paragraph [ref=e43]: Account Manager
+                        - paragraph [ref=e44]: Remote
+                  - row "Account Specialist Lehi, UT; Plano, TX" [ref=e45]:
+                    - cell "Account Specialist Lehi, UT; Plano, TX" [ref=e46]:
+                      - link "Account Specialist Lehi, UT; Plano, TX" [ref=e47] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8502545002
+                        - paragraph [ref=e48]: Account Specialist
+                        - paragraph [ref=e49]: Lehi, UT; Plano, TX
+            - generic [ref=e50]:
+              - paragraph [ref=e52]: Customer Success
+              - heading "Implementation & Integrations" [level=3] [ref=e53]
+              - table [ref=e55]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e56]:
+                      - paragraph [ref=e57]: Job
+                - rowgroup [ref=e58]:
+                  - row "Implementation Manager I Remote" [ref=e59]:
+                    - cell "Implementation Manager I Remote" [ref=e60]:
+                      - link "Implementation Manager I Remote" [ref=e61] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8438069002
+                        - paragraph [ref=e62]: Implementation Manager I
+                        - paragraph [ref=e63]: Remote
+                  - row "Integration Manager Remote" [ref=e64]:
+                    - cell "Integration Manager Remote" [ref=e65]:
+                      - link "Integration Manager Remote" [ref=e66] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8465181002
+                        - paragraph [ref=e67]: Integration Manager
+                        - paragraph [ref=e68]: Remote
+                  - row "Manager, Health Plan Implementation Remote" [ref=e69]:
+                    - cell "Manager, Health Plan Implementation Remote" [ref=e70]:
+                      - link "Manager, Health Plan Implementation Remote" [ref=e71] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8504152002
+                        - paragraph [ref=e72]: Manager, Health Plan Implementation
+                        - paragraph [ref=e73]: Remote
+                  - row "Senior Pharmacy Implementation Manager Remote" [ref=e74]:
+                    - cell "Senior Pharmacy Implementation Manager Remote" [ref=e75]:
+                      - link "Senior Pharmacy Implementation Manager Remote" [ref=e76] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8455495002
+                        - paragraph [ref=e77]: Senior Pharmacy Implementation Manager
+                        - paragraph [ref=e78]: Remote
+                  - row "Technical Integration Specialist Remote" [ref=e79]:
+                    - cell "Technical Integration Specialist Remote" [ref=e80]:
+                      - link "Technical Integration Specialist Remote" [ref=e81] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8465167002
+                        - paragraph [ref=e82]: Technical Integration Specialist
+                        - paragraph [ref=e83]: Remote
+            - generic [ref=e84]:
+              - paragraph [ref=e86]: Customer Success
+              - heading "Patient Access Programs" [level=3] [ref=e87]
+              - table [ref=e89]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e90]:
+                      - paragraph [ref=e91]: Job
+                - rowgroup [ref=e92]:
+                  - row "Patient Access Specialist (Seasonal Contract-to-Hire) Plano, TX" [ref=e93]:
+                    - cell "Patient Access Specialist (Seasonal Contract-to-Hire) Plano, TX" [ref=e94]:
+                      - link "Patient Access Specialist (Seasonal Contract-to-Hire) Plano, TX" [ref=e95] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8471678002
+                        - paragraph [ref=e96]: Patient Access Specialist (Seasonal Contract-to-Hire)
+                        - paragraph [ref=e97]: Plano, TX
+            - generic [ref=e98]:
+              - paragraph [ref=e100]: Customer Success
+              - heading "Plan Operations" [level=3] [ref=e101]
+              - table [ref=e103]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e104]:
+                      - paragraph [ref=e105]: Job
+                - rowgroup [ref=e106]:
+                  - row "Incident Manager Remote" [ref=e107]:
+                    - cell "Incident Manager Remote" [ref=e108]:
+                      - link "Incident Manager Remote" [ref=e109] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8477271002
+                        - paragraph [ref=e110]: Incident Manager
+                        - paragraph [ref=e111]: Remote
+                  - row "Manager, Benefit Operations Testing & QA Remote" [ref=e112]:
+                    - cell "Manager, Benefit Operations Testing & QA Remote" [ref=e113]:
+                      - link "Manager, Benefit Operations Testing & QA Remote" [ref=e114] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8472307002
+                        - paragraph [ref=e115]: Manager, Benefit Operations Testing & QA
+                        - paragraph [ref=e116]: Remote
+                  - row "Partner Operations Specialist Remote" [ref=e117]:
+                    - cell "Partner Operations Specialist Remote" [ref=e118]:
+                      - link "Partner Operations Specialist Remote" [ref=e119] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8504620002
+                        - paragraph [ref=e120]: Partner Operations Specialist
+                        - paragraph [ref=e121]: Remote
+                  - row "Partner Relationship Manager Remote" [ref=e122]:
+                    - cell "Partner Relationship Manager Remote" [ref=e123]:
+                      - link "Partner Relationship Manager Remote" [ref=e124] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8472170002
+                        - paragraph [ref=e125]: Partner Relationship Manager
+                        - paragraph [ref=e126]: Remote
+                  - row "Senior Benefits QA Analyst Remote" [ref=e127]:
+                    - cell "Senior Benefits QA Analyst Remote" [ref=e128]:
+                      - link "Senior Benefits QA Analyst Remote" [ref=e129] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8384225002
+                        - paragraph [ref=e130]: Senior Benefits QA Analyst
+                        - paragraph [ref=e131]: Remote
+            - generic [ref=e132]:
+              - paragraph [ref=e134]: Customer Success
+              - heading "Utilization Management" [level=3] [ref=e135]
+              - table [ref=e137]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e138]:
+                      - paragraph [ref=e139]: Job
+                - rowgroup [ref=e140]:
+                  - row "Clinical Review Quality Assurance Pharmacist Remote" [ref=e141]:
+                    - cell "Clinical Review Quality Assurance Pharmacist Remote" [ref=e142]:
+                      - link "Clinical Review Quality Assurance Pharmacist Remote" [ref=e143] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8493245002
+                        - paragraph [ref=e144]: Clinical Review Quality Assurance Pharmacist
+                        - paragraph [ref=e145]: Remote
+            - generic [ref=e146]:
+              - paragraph [ref=e148]: General & Administrative
+              - heading "Finance" [level=3] [ref=e149]
+              - table [ref=e151]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e152]:
+                      - paragraph [ref=e153]: Job
+                - rowgroup [ref=e154]:
+                  - row "Accounts Receivable Analyst Remote" [ref=e155]:
+                    - cell "Accounts Receivable Analyst Remote" [ref=e156]:
+                      - link "Accounts Receivable Analyst Remote" [ref=e157] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8498936002
+                        - paragraph [ref=e158]: Accounts Receivable Analyst
+                        - paragraph [ref=e159]: Remote
+                  - row "Senior Strategic Finance Manager Remote" [ref=e160]:
+                    - cell "Senior Strategic Finance Manager Remote" [ref=e161]:
+                      - link "Senior Strategic Finance Manager Remote" [ref=e162] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8437487002
+                        - paragraph [ref=e163]: Senior Strategic Finance Manager
+                        - paragraph [ref=e164]: Remote
+            - generic [ref=e165]:
+              - paragraph [ref=e167]: Product Strategy
+              - heading "Clinical Strategy" [level=3] [ref=e168]
+              - table [ref=e170]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e171]:
+                      - paragraph [ref=e172]: Job
+                - rowgroup [ref=e173]:
+                  - row "Clinical Strategy Pharmacist Remote" [ref=e174]:
+                    - cell "Clinical Strategy Pharmacist Remote" [ref=e175]:
+                      - link "Clinical Strategy Pharmacist Remote" [ref=e176] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8502521002
+                        - paragraph [ref=e177]: Clinical Strategy Pharmacist
+                        - paragraph [ref=e178]: Remote
+            - generic [ref=e179]:
+              - paragraph [ref=e181]: Product Strategy
+              - heading "Supply Chain" [level=3] [ref=e182]
+              - table [ref=e184]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e185]:
+                      - paragraph [ref=e186]: Job
+                - rowgroup [ref=e187]:
+                  - row "Pharmacy Network Provider Relations Manager Remote" [ref=e188]:
+                    - cell "Pharmacy Network Provider Relations Manager Remote" [ref=e189]:
+                      - link "Pharmacy Network Provider Relations Manager Remote" [ref=e190] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8465983002
+                        - paragraph [ref=e191]: Pharmacy Network Provider Relations Manager
+                        - paragraph [ref=e192]: Remote
+                  - row "Pharmacy Network Support Associate Remote" [ref=e193]:
+                    - cell "Pharmacy Network Support Associate Remote" [ref=e194]:
+                      - link "Pharmacy Network Support Associate Remote" [ref=e195] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8438075002
+                        - paragraph [ref=e196]: Pharmacy Network Support Associate
+                        - paragraph [ref=e197]: Remote
+                  - row "Rebate Operations Manager Remote" [ref=e198]:
+                    - cell "Rebate Operations Manager Remote" [ref=e199]:
+                      - link "Rebate Operations Manager Remote" [ref=e200] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8493411002
+                        - paragraph [ref=e201]: Rebate Operations Manager
+                        - paragraph [ref=e202]: Remote
+            - generic [ref=e203]:
+              - heading "Sales & Marketing" [level=3] [ref=e204]
+              - table [ref=e206]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e207]:
+                      - paragraph [ref=e208]: Job
+                - rowgroup [ref=e209]:
+                  - row "Founding Enterprise Business Development Representative Remote" [ref=e210]:
+                    - cell "Founding Enterprise Business Development Representative Remote" [ref=e211]:
+                      - link "Founding Enterprise Business Development Representative Remote" [ref=e212] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8504142002
+                        - paragraph [ref=e213]: Founding Enterprise Business Development Representative
+                        - paragraph [ref=e214]: Remote
+            - generic [ref=e215]:
+              - paragraph [ref=e217]: Sales & Marketing
+              - heading "Marketing" [level=3] [ref=e218]
+              - table [ref=e220]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e221]:
+                      - paragraph [ref=e222]: Job
+                - rowgroup [ref=e223]:
+                  - row "Events Marketing Manager Remote" [ref=e224]:
+                    - cell "Events Marketing Manager Remote" [ref=e225]:
+                      - link "Events Marketing Manager Remote" [ref=e226] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8488127002
+                        - paragraph [ref=e227]: Events Marketing Manager
+                        - paragraph [ref=e228]: Remote
+                  - row "Marketing Operations Manager, Member Communications Remote" [ref=e229]:
+                    - cell "Marketing Operations Manager, Member Communications Remote" [ref=e230]:
+                      - link "Marketing Operations Manager, Member Communications Remote" [ref=e231] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8483160002
+                        - paragraph [ref=e232]: Marketing Operations Manager, Member Communications
+                        - paragraph [ref=e233]: Remote
+                  - row "Senior Manager, Member Communications Remote" [ref=e234]:
+                    - cell "Senior Manager, Member Communications Remote" [ref=e235]:
+                      - link "Senior Manager, Member Communications Remote" [ref=e236] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8480910002
+                        - paragraph [ref=e237]: Senior Manager, Member Communications
+                        - paragraph [ref=e238]: Remote
+            - generic [ref=e239]:
+              - paragraph [ref=e241]: Sales & Marketing
+              - heading "Revenue" [level=3] [ref=e242]
+              - table [ref=e244]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e245]:
+                      - paragraph [ref=e246]: Job
+                - rowgroup [ref=e247]:
+                  - row "Enterprise Pricing Analyst Remote" [ref=e248]:
+                    - cell "Enterprise Pricing Analyst Remote" [ref=e249]:
+                      - link "Enterprise Pricing Analyst Remote" [ref=e250] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8497991002
+                        - paragraph [ref=e251]: Enterprise Pricing Analyst
+                        - paragraph [ref=e252]: Remote
+                  - row "Pricing Strategy Director Remote" [ref=e253]:
+                    - cell "Pricing Strategy Director Remote" [ref=e254]:
+                      - link "Pricing Strategy Director Remote" [ref=e255] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8461357002
+                        - paragraph [ref=e256]: Pricing Strategy Director
+                        - paragraph [ref=e257]: Remote
+                  - row "Pricing Systems Analyst New Remote" [ref=e258]:
+                    - cell "Pricing Systems Analyst New Remote" [ref=e259]:
+                      - link "Pricing Systems Analyst New Remote" [ref=e260] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8517146002
+                        - paragraph [ref=e261]:
+                          - text: Pricing Systems Analyst
+                          - generic [ref=e263]: New
+                        - paragraph [ref=e264]: Remote
+                  - row "Proposal Manager Remote" [ref=e265]:
+                    - cell "Proposal Manager Remote" [ref=e266]:
+                      - link "Proposal Manager Remote" [ref=e267] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8461621002
+                        - paragraph [ref=e268]: Proposal Manager
+                        - paragraph [ref=e269]: Remote
+                  - row "Proposals Pricing Analyst New Remote" [ref=e270]:
+                    - cell "Proposals Pricing Analyst New Remote" [ref=e271]:
+                      - link "Proposals Pricing Analyst New Remote" [ref=e272] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8509984002
+                        - paragraph [ref=e273]:
+                          - text: Proposals Pricing Analyst
+                          - generic [ref=e275]: New
+                        - paragraph [ref=e276]: Remote
+            - generic [ref=e277]:
+              - paragraph [ref=e279]: Sales & Marketing
+              - heading "Sales" [level=3] [ref=e280]
+              - table [ref=e282]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e283]:
+                      - paragraph [ref=e284]: Job
+                - rowgroup [ref=e285]:
+                  - row "Consultant Partnerships Manager New Remote" [ref=e286]:
+                    - cell "Consultant Partnerships Manager New Remote" [ref=e287]:
+                      - link "Consultant Partnerships Manager New Remote" [ref=e288] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8510548002
+                        - paragraph [ref=e289]:
+                          - text: Consultant Partnerships Manager
+                          - generic [ref=e291]: New
+                        - paragraph [ref=e292]: Remote
+            - generic [ref=e293]:
+              - paragraph [ref=e295]: Technology
+              - heading "Data" [level=3] [ref=e296]
+              - table [ref=e298]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e299]:
+                      - paragraph [ref=e300]: Job
+                - rowgroup [ref=e301]:
+                  - row "Senior Staff Data Engineer Remote" [ref=e302]:
+                    - cell "Senior Staff Data Engineer Remote" [ref=e303]:
+                      - link "Senior Staff Data Engineer Remote" [ref=e304] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8353976002
+                        - paragraph [ref=e305]: Senior Staff Data Engineer
+                        - paragraph [ref=e306]: Remote
+                  - row "Senior Staff Data Scientist Remote" [ref=e307]:
+                    - cell "Senior Staff Data Scientist Remote" [ref=e308]:
+                      - link "Senior Staff Data Scientist Remote" [ref=e309] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8478171002
+                        - paragraph [ref=e310]: Senior Staff Data Scientist
+                        - paragraph [ref=e311]: Remote
+                  - row "Staff Data Analyst Remote" [ref=e312]:
+                    - cell "Staff Data Analyst Remote" [ref=e313]:
+                      - link "Staff Data Analyst Remote" [ref=e314] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8481111002
+                        - paragraph [ref=e315]: Staff Data Analyst
+                        - paragraph [ref=e316]: Remote
+                  - row "Staff Data Engineer Remote" [ref=e317]:
+                    - cell "Staff Data Engineer Remote" [ref=e318]:
+                      - link "Staff Data Engineer Remote" [ref=e319] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8483880002
+                        - paragraph [ref=e320]: Staff Data Engineer
+                        - paragraph [ref=e321]: Remote
+            - generic [ref=e322]:
+              - paragraph [ref=e324]: Technology
+              - heading "Engineering" [level=3] [ref=e325]
+              - table [ref=e327]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e328]:
+                      - paragraph [ref=e329]: Job
+                - rowgroup [ref=e330]:
+                  - row "Principal Software Engineer Remote" [ref=e331]:
+                    - cell "Principal Software Engineer Remote" [ref=e332]:
+                      - link "Principal Software Engineer Remote" [ref=e333] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8478197002
+                        - paragraph [ref=e334]: Principal Software Engineer
+                        - paragraph [ref=e335]: Remote
+                  - row "Senior Database Administrator Remote" [ref=e336]:
+                    - cell "Senior Database Administrator Remote" [ref=e337]:
+                      - link "Senior Database Administrator Remote" [ref=e338] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8489865002
+                        - paragraph [ref=e339]: Senior Database Administrator
+                        - paragraph [ref=e340]: Remote
+                  - row "Senior DevOps Engineer Remote" [ref=e341]:
+                    - cell "Senior DevOps Engineer Remote" [ref=e342]:
+                      - link "Senior DevOps Engineer Remote" [ref=e343] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8477046002
+                        - paragraph [ref=e344]: Senior DevOps Engineer
+                        - paragraph [ref=e345]: Remote
+                  - row "Senior Software Engineer, Applications Remote" [ref=e346]:
+                    - cell "Senior Software Engineer, Applications Remote" [ref=e347]:
+                      - link "Senior Software Engineer, Applications Remote" [ref=e348] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8472593002
+                        - paragraph [ref=e349]: Senior Software Engineer, Applications
+                        - paragraph [ref=e350]: Remote
+                  - row "Senior Software Engineer (Tools & Frameworks), Applications Remote" [ref=e351]:
+                    - cell "Senior Software Engineer (Tools & Frameworks), Applications Remote" [ref=e352]:
+                      - link "Senior Software Engineer (Tools & Frameworks), Applications Remote" [ref=e353] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8489711002
+                        - paragraph [ref=e354]: Senior Software Engineer (Tools & Frameworks), Applications
+                        - paragraph [ref=e355]: Remote
+                  - row "Senior Staff Software Engineer, AI, Platform Remote" [ref=e356]:
+                    - cell "Senior Staff Software Engineer, AI, Platform Remote" [ref=e357]:
+                      - link "Senior Staff Software Engineer, AI, Platform Remote" [ref=e358] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8490526002
+                        - paragraph [ref=e359]: Senior Staff Software Engineer, AI, Platform
+                        - paragraph [ref=e360]: Remote
+                  - row "Senior Staff Software Engineer, Platform Remote" [ref=e361]:
+                    - cell "Senior Staff Software Engineer, Platform Remote" [ref=e362]:
+                      - link "Senior Staff Software Engineer, Platform Remote" [ref=e363] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8484000002
+                        - paragraph [ref=e364]: Senior Staff Software Engineer, Platform
+                        - paragraph [ref=e365]: Remote
+                  - row "Software Engineer, AI, Platform Remote" [ref=e366]:
+                    - cell "Software Engineer, AI, Platform Remote" [ref=e367]:
+                      - link "Software Engineer, AI, Platform Remote" [ref=e368] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8490595002
+                        - paragraph [ref=e369]: Software Engineer, AI, Platform
+                        - paragraph [ref=e370]: Remote
+                  - row "Staff Machine Learning Engineer, Applications Remote" [ref=e371]:
+                    - cell "Staff Machine Learning Engineer, Applications Remote" [ref=e372]:
+                      - link "Staff Machine Learning Engineer, Applications Remote" [ref=e373] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8397221002
+                        - paragraph [ref=e374]: Staff Machine Learning Engineer, Applications
+                        - paragraph [ref=e375]: Remote
+                  - row "Staff Software Engineer, Platform Remote" [ref=e376]:
+                    - cell "Staff Software Engineer, Platform Remote" [ref=e377]:
+                      - link "Staff Software Engineer, Platform Remote" [ref=e378] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8472599002
+                        - paragraph [ref=e379]: Staff Software Engineer, Platform
+                        - paragraph [ref=e380]: Remote
+            - generic [ref=e381]:
+              - paragraph [ref=e383]: Technology
+              - heading "Product Management" [level=3] [ref=e384]
+              - table [ref=e386]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e387]:
+                      - paragraph [ref=e388]: Job
+                - rowgroup [ref=e389]:
+                  - row "Senior Product Manager - Data & AI Remote" [ref=e390]:
+                    - cell "Senior Product Manager - Data & AI Remote" [ref=e391]:
+                      - link "Senior Product Manager - Data & AI Remote" [ref=e392] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/smithrx/jobs/8457684002
+                        - paragraph [ref=e393]: Senior Product Manager - Data & AI
+                        - paragraph [ref=e394]: Remote
+  - contentinfo [ref=e395]:
+    - generic [ref=e396]:
+      - paragraph [ref=e397]: Powered by
+      - link "Greenhouse logo" [ref=e398] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e399]

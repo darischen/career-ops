@@ -1,0 +1,96 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Pylon" [ref=e6] [cursor=pointer]:
+        - /url: https://usepylon.com/
+        - img "Pylon" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Pylon’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /pylon-labs?utm_source=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $180K – $300K • Offers Equity
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [ref=e36] [cursor=pointer]
+          - tab "Application" [selected] [ref=e37] [cursor=pointer]
+        - tabpanel "Application" [ref=e39]:
+          - generic [ref=e41]:
+            - generic [ref=e42]:
+              - generic [ref=e43]: Name*
+              - textbox "Name*" [ref=e45] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e46]:
+              - generic [ref=e47]: Email*
+              - textbox "Email*" [ref=e49] [cursor=pointer]:
+                - /placeholder: hello@example.com...
+            - generic [ref=e50]:
+              - generic [ref=e51]: LinkedIn URL*
+              - textbox "LinkedIn URL*" [ref=e53] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e54]:
+              - generic [ref=e55]: Resume*
+              - button "Resume*" [ref=e56]
+              - generic [ref=e57]:
+                - button "Upload File" [ref=e58] [cursor=pointer]:
+                  - img [ref=e59]
+                  - generic [ref=e61]: Upload File
+                - paragraph [ref=e62]: or drag and drop here
+            - generic [ref=e63]:
+              - generic [ref=e64]: Do you current live in the San Francisco Bay Area?*
+              - generic [ref=e65]:
+                - button "Yes" [ref=e66] [cursor=pointer]
+                - button "No" [ref=e67] [cursor=pointer]
+            - generic [ref=e68]:
+              - generic [ref=e69]: If not currently based in the San Francisco Area, are you open to relocating?*
+              - generic [ref=e70]:
+                - button "Yes" [ref=e71] [cursor=pointer]
+                - button "No" [ref=e72] [cursor=pointer]
+            - generic [ref=e73]:
+              - generic [ref=e74]: Will you now or in the future require sponsorship to work in the US?*
+              - generic [ref=e75]:
+                - button "Yes" [ref=e76] [cursor=pointer]
+                - button "No" [ref=e77] [cursor=pointer]
+            - generic [ref=e78]:
+              - generic [ref=e79]: Have you worked with any startups previously? If so, list and describe.*
+              - textbox "Have you worked with any startups previously? If so, list and describe.*" [ref=e80] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e81]:
+              - generic [ref=e82]: Why do you want to work at Pylon?*
+              - textbox "Why do you want to work at Pylon?*" [ref=e83] [cursor=pointer]:
+                - /placeholder: Type here...
+          - button "Submit Application" [ref=e84] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e85]
+  - contentinfo [ref=e87]:
+    - link "Learn more about Ashby" [ref=e88] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e89]: Powered by
+      - img "Ashby" [ref=e90]
+    - paragraph [ref=e96]:
+      - link "Privacy Policy" [ref=e97] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e98] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e99] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

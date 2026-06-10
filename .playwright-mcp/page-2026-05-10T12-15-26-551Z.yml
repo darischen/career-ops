@@ -1,0 +1,76 @@
+- generic [active] [ref=e1]:
+  - dialog "cookieconsent" [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: 🍪
+      - heading "Privacy Notice" [level=4] [ref=e6]
+      - paragraph [ref=e7]: This website uses cookies to improve your web experience. By clicking Accept, you agree to the use of cookies.
+      - generic [ref=e8]:
+        - button "Deny" [ref=e9] [cursor=pointer]
+        - button "Accept" [ref=e10] [cursor=pointer]
+  - link "Hermeus logo" [ref=e13] [cursor=pointer]:
+    - /url: https://jobs.lever.co/hermeus
+    - img "Hermeus logo" [ref=e14]
+  - generic [ref=e16]:
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - heading "Software Engineer HILs" [level=2] [ref=e20]
+        - generic [ref=e21]:
+          - generic [ref=e22]: Atlanta, GA
+          - generic [ref=e23]: Engineering – Flight Software /
+          - generic [ref=e24]: Full-time /
+          - generic [ref=e25]: On-site
+      - link "apply for this job" [ref=e27] [cursor=pointer]:
+        - /url: https://jobs.lever.co/hermeus/00b4f74f-2b3e-45f3-963a-1409552c7677/apply
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - generic [ref=e30]: Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.
+        - generic [ref=e32]: We are seeking a multidisciplinary engineer that will help us develop our next generation Hardware-in-the-Loop (HIL) testbeds for our hypersonic aircraft. In this role, you will be responsible for designing, developing, and maintaining HIL testbeds that will validate complex avionics systems. You will work closely with software, hardware, and systems engineers to ensure product reliability, functionality, and compliance with specifications.
+        - generic [ref=e34]: We are open to hiring a fresh graduate with experience working on a highly integrated school project/team like Cubesat, Rocketry, Drone Racing or similar.
+      - generic [ref=e36]:
+        - heading "Key Responsibilities:" [level=3] [ref=e37]
+        - list [ref=e40]:
+          - listitem [ref=e41]: Design, implement, and maintain HIL test benches including low voltage harnesses.
+          - listitem [ref=e42]: Develop test scripts, models, and automation frameworks to execute and validate embedded control software.
+          - listitem [ref=e43]: Integrate HIL systems with other avionics components.
+          - listitem [ref=e44]: Simulate sensor and actuator interfaces using real-time models and signal conditioning hardware.
+          - listitem [ref=e45]: SIL (Software-in-the-Loop), and HIL test workflows throughout the development lifecycle.
+          - listitem [ref=e46]: Troubleshoot hardware and software issues on the HIL bench and work cross-functionally to resolve defects.
+          - listitem [ref=e47]: Create and maintain test documentation including test plans, test cases, and validation reports.
+          - listitem [ref=e48]: Collaborate with system architects and software engineers to define test coverage and improve test strategies.
+      - generic [ref=e50]:
+        - heading "Required Qualifications:" [level=3] [ref=e51]
+        - list [ref=e54]:
+          - listitem [ref=e55]: Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, Mechatronics, or a related field.
+          - listitem [ref=e56]: Strong knowledge of MATLAB/Simulink and scripting languages (Python, Julia, etc.).
+          - listitem [ref=e57]: Experience in developing and executing test cases for embedded control systems.
+          - listitem [ref=e58]: Familiarity with communication protocols (CAN, Ethernet, RS-485).
+          - listitem [ref=e59]: Strong problem-solving and analytical skills.
+      - generic [ref=e61]:
+        - heading "Preferred Qualifications:" [level=3] [ref=e62]
+        - list [ref=e65]:
+          - listitem [ref=e66]: Hands-on experience with one of the HIL platforms is a plus (e.g. dSPACE, NI PXI/VeriStand, or Speedgoat with Simulink Real-Time).
+          - listitem [ref=e67]: Experience in automotive, aerospace, or industrial automation industries.
+          - listitem [ref=e68]: Exposure to Agile development processes and CI/CD pipelines (e.g., Jenkins).
+          - listitem [ref=e69]: Knowledge of safety-critical systems and relevant standards (e.g., DO-178C, ISO 26262, IEC 61508).
+          - listitem [ref=e70]: Experience with automated testing frameworks or tools (e.g., ECU-TEST, TestStand).
+          - listitem [ref=e71]: Experience with requirements-based testing and tools like DOORS, Polarion, or Jama.
+      - generic [ref=e72]:
+        - strong [ref=e74]: U.S. EXPORT CONTROL COMPLIANCE STATUS
+        - generic [ref=e75]:
+          - text: The person hired will have access to information and items subject to U.S. export controls, and therefore, must either be a “U.S. person” as defined by
+          - link "22 C.F.R. § 120.62" [ref=e76] [cursor=pointer]:
+            - /url: https://www.ecfr.gov/current/title-22/section-120.62
+          - text: or otherwise eligible for deemed export licensing. US persons include U.S. citizens, U.S. nationals, lawful permanent residents (green card holders), and asylees and refugees with such status granted, not pending.
+        - strong [ref=e80]: EQUAL OPPORTUNITY
+        - generic [ref=e81]: Hermeus is an Equal Opportunity Employer. Employment decisions at Hermeus are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.
+      - generic [ref=e84]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e86] [cursor=pointer]:
+        - /url: https://jobs.lever.co/hermeus/00b4f74f-2b3e-45f3-963a-1409552c7677/apply
+  - generic [ref=e88]:
+    - paragraph [ref=e89]:
+      - link "Hermeus Home Page" [ref=e90] [cursor=pointer]:
+        - /url: http://www.hermeus.com
+    - link "Jobs powered by Lever logo" [ref=e91] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e92]: Jobs powered by
+      - img "Lever logo" [ref=e93]

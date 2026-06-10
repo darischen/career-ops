@@ -1,0 +1,322 @@
+- generic [active] [ref=e1]:
+  - navigation "Main" [ref=e4]:
+    - generic [ref=e5]:
+      - link "Careers" [ref=e6] [cursor=pointer]:
+        - /url: https://www.esri.com/en-us/about/careers/overview
+      - button "Menu" [ref=e7]:
+        - generic [ref=e8]: Menu
+        - img [ref=e9]
+  - banner [ref=e11]:
+    - generic [ref=e13]:
+      - paragraph
+      - heading "Software Development Engineer I – Agentic AI, ArcGIS Enterprise" [level=1] [ref=e14]
+      - link "Apply Now" [ref=e16] [cursor=pointer]:
+        - /url: "#grnhse_app"
+        - generic [ref=e17]:
+          - generic: Apply Now
+        - img [ref=e19]
+  - main [ref=e21]:
+    - generic [ref=e22]:
+      - article [ref=e23]:
+        - heading "Overview" [level=2] [ref=e24]
+        - paragraph
+        - paragraph [ref=e25]: At Esri, our users come first. With thousands of customers and millions of users worldwide, we want your help building the next generation of ArcGIS Enterprise, a suite of products delivering state-of-the-art mapping and analytics capability. Our team builds cutting-edge, highly scalable, and reliable distributed software for on-premises and the cloud to make maps, geographic information, and analyses available on any device, anywhere, at any time.
+        - paragraph [ref=e26]: As a Software Engineer with focus on Agentic AI development, you will build and operate intelligent, goal driven features within production software systems. In this role, you will apply strong software engineering fundamentals to ship reliable software embedding agentic AI capabilities into APIs, services, and applications that scale, integrate cleanly with existing systems, and meet product and operational requirements.
+      - article [ref=e27]:
+        - heading "Responsibilities" [level=2] [ref=e28]
+        - paragraph
+        - list [ref=e29]:
+          - listitem [ref=e30]: Design, implement and own production features and services that support agentic AI behavior
+          - listitem [ref=e31]: Develop backend systems, APIs, and data integrations that support agentic workflows as scale
+          - listitem [ref=e32]: Add logging, metrics, and tracing to ensure systems are observable and debuggable in production
+          - listitem [ref=e33]: Collaborate with product, design, and platform teams to translate workflows and requirements into technical solutions
+          - listitem [ref=e34]: Participate actively in code reviews, design discussions, and security reviews
+      - article [ref=e35]:
+        - heading "Requirements" [level=2] [ref=e36]
+        - paragraph
+        - list [ref=e37]:
+          - listitem [ref=e38]: 1+ years professional software engineering experience, with strong proficiency in Python or a similar backend language
+          - listitem [ref=e39]: Experience designing and operating production services or distributed systems
+          - listitem [ref=e40]: Hands on experience using LLMs or generative AI APIs in real applications
+          - listitem [ref=e41]: Solid understanding of agentic AI patterns, including tool use, task decomposition, planning, and feedback loops
+          - listitem [ref=e42]: Experience integrating with REST APIs, databases, queues, and third party services
+          - listitem [ref=e43]: Experience with observability and evaluation of AI systems (logging, tracing, offline or online evaluation)
+          - listitem [ref=e44]: Ability to reason about scalability, latency, reliability, and cost trade offs
+          - listitem [ref=e45]: Clear written and verbal communication skills, with attention to detail
+          - listitem [ref=e46]: Bachelor's degree in computer science, engineering, or related field
+      - article [ref=e47]:
+        - heading "Recommended Qualifications" [level=2] [ref=e48]
+        - paragraph
+        - list [ref=e49]:
+          - listitem [ref=e50]: Experience using agentic AI or orchestration frameworks (such as LangChain/LangGraph, CrewAI, and more)
+          - listitem [ref=e51]: Familiarity with cloud infrastructure, containerization, and CI/CD pipelines
+          - listitem [ref=e52]: Demonstrated ability to learn and apply emerging AI tools and patterns quickly
+          - listitem [ref=e53]: Exposure to ArcGIS Enterprise, ArcGIS Online or other geospatial technologies
+        - paragraph [ref=e54]: "#LI-TA1"
+        - paragraph [ref=e55]: "#LI-Onsite"
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - paragraph [ref=e59]:
+              - strong [ref=e60]: Total Rewards
+            - paragraph [ref=e61]: "Esri’s competitive total rewards strategy includes industry-leading health and welfare benefits: medical, dental, vision, basic and supplemental life insurance for employees (and their families), 401(k) and profit-sharing programs, minimum accrual of 80 hours of vacation leave, twelve paid holidays throughout the calendar year, and opportunities for personal and professional growth. Base salary is one component of our total rewards strategy. Compensation decisions and the base range for this role take into account many factors including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs."
+          - generic [ref=e62]: A reasonable estimate of the base salary range is
+          - generic [ref=e63]: $79,040-$133,016 USD
+      - article [ref=e64]:
+        - heading "About Esri" [level=2] [ref=e65]
+        - paragraph
+        - paragraph [ref=e66]:
+          - text: At Esri, diversity is more than just a word on a map. When employees of different experiences, perspectives, backgrounds, and cultures come together, we are more innovative and ultimately a better place to work. We believe in having a diverse workforce that is unified under our mission of creating positive global change. We understand that diversity, equity, and inclusion is not a destination but an ongoing process. We are committed to the continuation of learning, growing, and changing our workplace so every employee can contribute to their life’s best work. Our commitment to these principles extends to the global communities we serve by creating positive change with GIS technology. For more information on Esri’s Racial Equity and Social Justice initiatives, please visit our website
+          - link "here" [ref=e67] [cursor=pointer]:
+            - /url: https://www.esri.com/en-us/racial-equity/overview#engage-communities
+          - text: .
+        - paragraph [ref=e68]:
+          - strong [ref=e69]: If you don’t meet all of the preferred qualifications for this position, we encourage you to still apply!
+        - paragraph [ref=e70]:
+          - text: Esri is an equal opportunity employer (EOE) and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law. If you need reasonable accommodation for any part of the employment process, please email
+          - link "askcareers@esri.com" [ref=e71] [cursor=pointer]:
+            - /url: mailto:askcareers@esri.com
+          - text: and let us know the nature of your request and your contact information. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this e-mail address.
+        - paragraph [ref=e72]:
+          - link "Esri Privacy" [ref=e73] [cursor=pointer]:
+            - /url: https://www.esri.com/en-us/privacy/overview
+          - text: Esri takes our responsibility to protect your privacy seriously. We are committed to respecting your privacy by providing transparency in how we acquire and use your information, giving you control of your information and preferences, and holding ourselves to the highest national and international standards, including CCPA and GDPR compliance.
+      - article [ref=e74]:
+        - paragraph [ref=e75]: "Requisition ID: 2026-4074"
+      - iframe [ref=e77]:
+        - main [ref=f6e2]:
+          - generic [ref=f6e3]:
+            - img "Esri Logo" [ref=f6e5]
+            - separator [ref=f6e6]
+            - generic [ref=f6e7]:
+              - generic [ref=f6e9]:
+                - heading "Apply for this job" [level=2] [ref=f6e11]
+                - generic [ref=f6e12]:
+                  - paragraph [ref=f6e14]: "*"
+                  - paragraph [ref=f6e15]: indicates a required field
+              - generic [ref=f6e16]:
+                - generic [ref=f6e17]:
+                  - generic [ref=f6e20]:
+                    - generic [ref=f6e21]: First Name*
+                    - textbox "First Name" [ref=f6e22]
+                  - generic [ref=f6e25]:
+                    - generic [ref=f6e26]: Last Name*
+                    - textbox "Last Name" [ref=f6e27]
+                  - generic [ref=f6e30]:
+                    - generic [ref=f6e31]: Preferred First Name
+                    - textbox "Preferred First Name" [ref=f6e32]
+                  - generic [ref=f6e35]:
+                    - generic [ref=f6e36]: Email*
+                    - textbox "Email" [ref=f6e37]
+                  - group "Phone" [ref=f6e39]:
+                    - generic [ref=f6e40]: Phone
+                    - generic [ref=f6e43]:
+                      - generic [ref=f6e44]: Country*
+                      - generic [ref=f6e45]:
+                        - log [ref=f6e47]
+                        - generic [ref=f6e49]:
+                          - combobox "Country" [ref=f6e52]
+                          - button "Toggle flyout" [ref=f6e54] [cursor=pointer]:
+                            - img [ref=f6e55]
+                        - textbox
+                    - generic [ref=f6e59]:
+                      - generic [ref=f6e60]: Phone*
+                      - textbox "Phone" [ref=f6e61]
+                  - group "Resume/CV*" [ref=f6e63]:
+                    - generic [ref=f6e64]: Resume/CV*
+                    - generic [ref=f6e66]:
+                      - generic [ref=f6e68]:
+                        - button "Attach" [ref=f6e69] [cursor=pointer]
+                        - generic [ref=f6e70]: Attach
+                        - button "Attach" [ref=f6e71]
+                      - button "Dropbox" [ref=f6e73] [cursor=pointer]
+                      - generic [ref=f6e75]:
+                        - button "Enter manually" [ref=f6e76] [cursor=pointer]
+                        - generic [ref=f6e77]: Enter manually
+                      - paragraph [ref=f6e78]: "Accepted file types: pdf, doc, docx, txt, rtf"
+                  - group "Cover Letter" [ref=f6e80]:
+                    - generic [ref=f6e81]: Cover Letter
+                    - generic [ref=f6e83]:
+                      - generic [ref=f6e85]:
+                        - button "Attach" [ref=f6e86] [cursor=pointer]
+                        - generic [ref=f6e87]: Attach
+                        - button "Attach" [ref=f6e88]
+                      - button "Dropbox" [ref=f6e90] [cursor=pointer]
+                      - generic [ref=f6e92]:
+                        - button "Enter manually" [ref=f6e93] [cursor=pointer]
+                        - generic [ref=f6e94]: Enter manually
+                      - paragraph [ref=f6e95]: "Accepted file types: pdf, doc, docx, txt, rtf"
+                - generic [ref=f6e96]:
+                  - separator [ref=f6e97]
+                  - generic [ref=f6e98]:
+                    - generic [ref=f6e100]:
+                      - generic [ref=f6e101]: By selecting yes to this question you confirm that you have read Esri’s Applicant Privacy Notice.*
+                      - generic [ref=f6e102]:
+                        - log [ref=f6e104]
+                        - generic [ref=f6e106]:
+                          - generic [ref=f6e107]:
+                            - generic [ref=f6e108]: Select...
+                            - combobox "By selecting yes to this question you confirm that you have read Esri’s Applicant Privacy Notice." [ref=f6e110]
+                          - button "Toggle flyout" [ref=f6e112] [cursor=pointer]:
+                            - img [ref=f6e113]
+                        - textbox
+                    - paragraph [ref=f6e117]:
+                      - text: Esri's
+                      - link "Applicant Privacy Notice" [ref=f6e118] [cursor=pointer]:
+                        - /url: https://www.esri.com/content/dam/esrisites/en-us/media/legal/privacy/applicant-privacy-notice.pdf
+                  - generic [ref=f6e121]:
+                    - generic [ref=f6e122]: Will you now or in the future require visa sponsorship from Esri for employment (e.g., H-1B visa)?
+                    - generic [ref=f6e123]:
+                      - log [ref=f6e125]
+                      - generic [ref=f6e127]:
+                        - generic [ref=f6e128]:
+                          - generic [ref=f6e129]: Select...
+                          - combobox "Will you now or in the future require visa sponsorship from Esri for employment (e.g., H-1B visa)?" [ref=f6e131]
+                        - button "Toggle flyout" [ref=f6e133] [cursor=pointer]:
+                          - img [ref=f6e134]
+                  - generic [ref=f6e138]:
+                    - generic [ref=f6e139]: Are you able to work onsite in the Esri location of this job posting, or relocate to do so?
+                    - generic [ref=f6e140]:
+                      - log [ref=f6e142]
+                      - generic [ref=f6e144]:
+                        - generic [ref=f6e145]:
+                          - generic [ref=f6e146]: Select...
+                          - combobox "Are you able to work onsite in the Esri location of this job posting, or relocate to do so?" [ref=f6e148]
+                        - button "Toggle flyout" [ref=f6e150] [cursor=pointer]:
+                          - img [ref=f6e151]
+                  - generic [ref=f6e155]:
+                    - generic [ref=f6e156]: What is your annual salary range requirement?
+                    - textbox "What is your annual salary range requirement?" [ref=f6e157]
+                - generic [ref=f6e158]:
+                  - separator [ref=f6e159]
+                  - generic [ref=f6e160]:
+                    - heading "Voluntary Self-Identification" [level=2] [ref=f6e161]
+                    - paragraph [ref=f6e162]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+                    - paragraph [ref=f6e163]: As set forth in Esri’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+                  - generic [ref=f6e166]:
+                    - generic [ref=f6e167]: Gender*
+                    - generic [ref=f6e168]:
+                      - log [ref=f6e170]
+                      - generic [ref=f6e172]:
+                        - generic [ref=f6e173]:
+                          - generic [ref=f6e174]: Select...
+                          - combobox "Gender" [ref=f6e176]
+                        - button "Toggle flyout" [ref=f6e178] [cursor=pointer]:
+                          - img [ref=f6e179]
+                      - textbox
+                  - generic [ref=f6e181]:
+                    - generic [ref=f6e183]:
+                      - generic [ref=f6e184]: Are you Hispanic/Latino?*
+                      - generic [ref=f6e185]:
+                        - log [ref=f6e187]
+                        - generic [ref=f6e189]:
+                          - generic [ref=f6e190]:
+                            - generic [ref=f6e191]: Select...
+                            - combobox "Are you Hispanic/Latino?" [ref=f6e193]
+                          - button "Toggle flyout" [ref=f6e195] [cursor=pointer]:
+                            - img [ref=f6e196]
+                        - textbox
+                    - link "Race & Ethnicity Definitions" [ref=f6e198] [cursor=pointer]:
+                      - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+                  - generic [ref=f6e199]:
+                    - paragraph [ref=f6e200]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+                    - paragraph [ref=f6e201]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+                    - paragraph [ref=f6e202]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+                    - paragraph [ref=f6e203]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+                    - paragraph [ref=f6e204]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+                  - generic [ref=f6e207]:
+                    - generic [ref=f6e208]: Veteran Status*
+                    - generic [ref=f6e209]:
+                      - log [ref=f6e211]
+                      - generic [ref=f6e213]:
+                        - generic [ref=f6e214]:
+                          - generic [ref=f6e215]: Select...
+                          - combobox "Veteran Status" [ref=f6e217]
+                        - button "Toggle flyout" [ref=f6e219] [cursor=pointer]:
+                          - img [ref=f6e220]
+                      - textbox
+                  - separator [ref=f6e222]
+                  - generic [ref=f6e223]:
+                    - heading "Voluntary Self-Identification of Disability" [level=2] [ref=f6e224]
+                    - generic [ref=f6e225]:
+                      - generic [ref=f6e226]:
+                        - generic [ref=f6e227]: Form CC-305
+                        - generic [ref=f6e228]: Page 1 of 1
+                      - generic [ref=f6e229]:
+                        - generic [ref=f6e230]: OMB Control Number 1250-0005
+                        - generic [ref=f6e231]: Expires 04/30/2026
+                    - strong [ref=f6e232]: Why are you being asked to complete this form?
+                    - paragraph [ref=f6e233]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+                    - paragraph [ref=f6e234]:
+                      - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                      - link "www.dol.gov/ofccp" [ref=f6e235] [cursor=pointer]:
+                        - /url: https://www.dol.gov/ofccp
+                      - text: .
+                    - strong [ref=f6e236]: How do you know if you have a disability?
+                    - paragraph [ref=f6e237]:
+                      - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                      - strong [ref=f6e238]: "Disabilities include, but are not limited to:"
+                    - list [ref=f6e239]:
+                      - listitem [ref=f6e240]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                      - listitem [ref=f6e241]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                      - listitem [ref=f6e242]: Blind or low vision
+                      - listitem [ref=f6e243]: Cancer (past or present)
+                      - listitem [ref=f6e244]: Cardiovascular or heart disease
+                      - listitem [ref=f6e245]: Celiac disease
+                      - listitem [ref=f6e246]: Cerebral palsy
+                      - listitem [ref=f6e247]: Deaf or serious difficulty hearing
+                      - listitem [ref=f6e248]: Diabetes
+                      - listitem [ref=f6e249]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                      - listitem [ref=f6e250]: Epilepsy or other seizure disorder
+                      - listitem [ref=f6e251]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                      - listitem [ref=f6e252]: Intellectual or developmental disability
+                      - listitem [ref=f6e253]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                      - listitem [ref=f6e254]: Missing limbs or partially missing limbs
+                      - listitem [ref=f6e255]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                      - listitem [ref=f6e256]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                      - listitem [ref=f6e257]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                      - listitem [ref=f6e258]: Partial or complete paralysis (any cause)
+                      - listitem [ref=f6e259]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                      - listitem [ref=f6e260]: Short stature (dwarfism)
+                      - listitem [ref=f6e261]: Traumatic brain injury
+                  - generic [ref=f6e264]:
+                    - generic [ref=f6e265]: Disability Status*
+                    - generic [ref=f6e266]:
+                      - log [ref=f6e268]
+                      - generic [ref=f6e270]:
+                        - generic [ref=f6e271]:
+                          - generic [ref=f6e272]: Select...
+                          - combobox "Disability Status" [ref=f6e274]
+                        - button "Toggle flyout" [ref=f6e276] [cursor=pointer]:
+                          - img [ref=f6e277]
+                      - textbox
+                  - paragraph [ref=f6e280]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+                - button "Submit application" [ref=f6e282] [cursor=pointer]
+    - complementary [ref=e78]:
+      - article [ref=e79]:
+        - heading "Available in" [level=2] [ref=e80]
+        - paragraph [ref=e81]: Redlands, CA
+      - article [ref=e82]:
+        - heading "Job Category" [level=2] [ref=e83]
+        - paragraph [ref=e84]: Software Development and Engineering
+      - article [ref=e85]:
+        - heading "Role Type" [level=2] [ref=e86]
+        - paragraph [ref=e87]: Individual Contributor
+      - article [ref=e88]:
+        - heading "Experience Level" [level=2] [ref=e89]
+        - paragraph [ref=e90]: Early Career
+  - generic [ref=e97]:
+    - heading "Work with us" [level=2] [ref=e99]
+    - paragraph [ref=e101]: Help us make technology that matters
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - heading "Find open positions" [level=3] [ref=e104]
+        - link "Search jobs" [ref=e107] [cursor=pointer]:
+          - /url: https://www.esri.com/en-us/about/careers/job-search
+          - generic [ref=e108]:
+            - generic: Search jobs
+      - generic [ref=e111]:
+        - heading "Application resources" [level=3] [ref=e112]
+        - link "View FAQ and resources" [ref=e115] [cursor=pointer]:
+          - /url: https://www.esri.com/en-us/about/careers/application-resources
+          - generic [ref=e116]:
+            - generic: View FAQ and resources

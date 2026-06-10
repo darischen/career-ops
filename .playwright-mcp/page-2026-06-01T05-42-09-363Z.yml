@@ -1,0 +1,135 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "Loop Logo" [ref=e5]
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/loop
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - heading "Software Engineer, Full-Stack" [level=1] [ref=e13]
+            - generic [ref=e14]:
+              - img [ref=e15]
+              - generic [ref=e17]: San Francisco, CA
+          - button "Apply" [ref=e18] [cursor=pointer]
+        - generic [ref=e20]:
+          - paragraph [ref=e21]:
+            - strong [ref=e22]: About Loop
+          - paragraph [ref=e23]: Loop is the data platform for the global supply chain. Logistics runs on messy, unstructured data—trapped in PDFs, emails, and legacy systems. We use AI to structure this chaos, creating a "source of truth" that automates payments and audits for the Fortune 100.
+          - paragraph [ref=e24]: We are building the financial nervous system for a $100 trillion physical economy. Our technology ensures freight moves efficiently and carriers get paid instantly.
+          - paragraph [ref=e25]: Backed by Founders Fund, Index Ventures and 8VC, we are scaling rapidly. We are looking for engineers ready to deploy production AI that powers the physical economy.
+          - paragraph [ref=e26]:
+            - strong [ref=e27]: About You
+            - strong
+            - text: As a full-stack engineer, you will work closely with founders and customers to understand and solve their logistics billing and payment pain points. You will help define the product and ship features that directly impact our customers. You will face and solve many complex technical challenges while you receive guidance and feedback from the team. You will shape the Loop DNA and define how we grow as a company.
+          - paragraph [ref=e28]:
+            - strong [ref=e29]: Responsibilities
+          - list [ref=e30]:
+            - listitem [ref=e31]: Work cross-functionally with product, design, and sales to understand requirements and ship thoughtful solutions.
+            - listitem [ref=e32]: Write high-quality code optimized for extensibility.
+            - listitem [ref=e33]: Engage in code reviews to maintain a high bar of engineering excellence.
+            - listitem [ref=e34]: Lead discussions and documentation to communicate and arrive at the best technical design.
+            - listitem [ref=e35]: Work across different component boundaries, from frontend to backend, and even infrastructure layers.
+            - listitem [ref=e36]: Adopt AI technologies such as Cursor/Codex/Claude to accelerate software development and champion adoption of AI tools across the organization for increased productivity.
+            - listitem [ref=e37]: Promote better practices and share technical knowledge across the team.
+            - listitem [ref=e38]: Help grow Loop through deliberate feedback on product, process, and culture.
+          - paragraph [ref=e39]:
+            - strong [ref=e40]: Qualifications
+          - list [ref=e41]:
+            - listitem [ref=e42]: Willing to work in the SF or Chicago office three days a week
+            - listitem [ref=e43]: Two years of software engineering experience.
+            - listitem [ref=e44]: Experience with TypeScript and tools such as GraphQL, Relay, React, and Node.js.
+            - listitem [ref=e45]: Experience working at early-stage companies where you shipped products end-to-end and wore many hats.
+          - paragraph [ref=e46]:
+            - strong [ref=e47]: Under the Hood
+          - list [ref=e48]:
+            - listitem [ref=e49]: "Infrastructure: AWS, CDK, Fargate ECS"
+            - listitem [ref=e50]: "Backend: TypeScript, Node.js, Prisma, NestJS, PostgreSQL, Kafka, Redis, Elasticsearch, GraphQL"
+            - listitem [ref=e51]: "Frontend: TypeScript, React, Relay, Ant Design, Vite, GraphQL"
+          - paragraph [ref=e52]:
+            - strong [ref=e53]: Compensation
+          - list [ref=e54]:
+            - listitem [ref=e55]: Base pay 150k+ per year
+          - paragraph [ref=e56]:
+            - strong [ref=e57]: Benefits & Perks
+          - list [ref=e58]:
+            - listitem [ref=e59]: Premium Medical, Dental, and Vision Insurance plans
+            - listitem [ref=e60]: Insurance premiums covered 100% for you
+            - listitem [ref=e61]: Unlimited PTO
+            - listitem [ref=e62]: Fireside chats with industry leading keynote speakers
+            - listitem [ref=e63]: Generous professional development budget to feed your curiosity
+            - listitem [ref=e64]: Physical and Mental fitness subsidies for yoga, meditation, gym, or ski memberships
+          - paragraph [ref=e65]:
+            - link "Why you should join Loop?" [ref=e66] [cursor=pointer]:
+              - /url: https://whyyoushouldjoin.substack.com/p/loop
+          - paragraph [ref=e67]: "#LI-LOOP"
+        - generic [ref=e68]:
+          - img [ref=e69]
+          - generic [ref=e71]:
+            - paragraph [ref=e72]: Create a Job Alert
+            - paragraph [ref=e73]: Interested in building your career at Loop? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e74] [cursor=pointer]
+      - separator [ref=e75]
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - heading "Apply for this job" [level=2] [ref=e80]
+            - generic [ref=e81]:
+              - paragraph [ref=e83]: "*"
+              - paragraph [ref=e84]: indicates a required field
+          - button "Quick Apply with MyGreenhouse" [ref=e87] [cursor=pointer]
+        - generic [ref=e88]:
+          - generic [ref=e89]:
+            - generic [ref=e92]:
+              - generic [ref=e93]: First Name*
+              - textbox "First Name" [ref=e94]
+            - generic [ref=e97]:
+              - generic [ref=e98]: Last Name*
+              - textbox "Last Name" [ref=e99]
+            - generic [ref=e102]:
+              - generic [ref=e103]: Email*
+              - textbox "Email" [ref=e104]
+            - group "Phone" [ref=e106]:
+              - generic [ref=e107]: Phone
+              - generic [ref=e110]:
+                - generic [ref=e111]: Country*
+                - generic [ref=e112]:
+                  - log [ref=e114]
+                  - generic [ref=e116]:
+                    - combobox "Country" [ref=e119]
+                    - button "Toggle flyout" [ref=e121] [cursor=pointer]:
+                      - img [ref=e122]
+                  - textbox
+              - generic [ref=e126]:
+                - generic [ref=e127]: Phone*
+                - textbox "Phone" [ref=e128]
+            - group "Resume/CV*" [ref=e130]:
+              - generic [ref=e131]: Resume/CV*
+              - generic [ref=e133]:
+                - generic [ref=e135]:
+                  - button "Attach" [ref=e136] [cursor=pointer]
+                  - generic [ref=e137]: Attach
+                  - button "Attach" [ref=e138]
+                - button "Dropbox" [ref=e140] [cursor=pointer]
+                - button "Google Drive" [ref=e142] [cursor=pointer]
+                - generic [ref=e144]:
+                  - button "Enter manually" [ref=e145] [cursor=pointer]
+                  - generic [ref=e146]: Enter manually
+                - paragraph [ref=e147]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e148]:
+            - separator [ref=e149]
+            - generic [ref=e152]:
+              - generic [ref=e153]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e154]
+            - generic [ref=e157]:
+              - generic [ref=e158]: Website
+              - textbox "Website" [ref=e159]
+          - button "Submit application" [ref=e161] [cursor=pointer]
+  - contentinfo [ref=e162]:
+    - generic [ref=e163]:
+      - paragraph [ref=e164]: Powered by
+      - link "Greenhouse logo" [ref=e165] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e166]

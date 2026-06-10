@@ -1,0 +1,467 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - navigation "main-nav" [ref=e5]:
+          - link "Skip to Content" [ref=e6] [cursor=pointer]:
+            - /url: "#start-of-content"
+          - button "Navigation menu" [ref=e9]:
+            - img [ref=e10]
+          - link "Go to SeatGeek homepage" [ref=e12] [cursor=pointer]:
+            - /url: /
+            - img "SeatGeek Logo" [ref=e16]
+          - search [ref=e28]:
+            - combobox "Search by team, artist, event, or venue" [ref=e29]:
+              - img [ref=e31]
+              - textbox "Search by team, artist, event, or venue" [ref=e33]:
+                - /placeholder: What do you want to see live?
+        - navigation "user-nav" [ref=e34]:
+          - button "Set your language and currency" [ref=e37] [cursor=pointer]
+          - generic [ref=e41]:
+            - link "Sell" [ref=e42] [cursor=pointer]:
+              - /url: /sell
+              - paragraph [ref=e43]: Sell
+            - link "Support" [ref=e44] [cursor=pointer]:
+              - /url: /help
+              - paragraph [ref=e45]: Support
+          - button "Sign in" [ref=e53] [cursor=pointer]:
+            - generic [ref=e55]: Sign in
+    - generic [ref=e58]:
+      - generic [ref=e61]:
+        - generic [ref=e62] [cursor=pointer]:
+          - img [ref=e63]
+          - paragraph [ref=e66]: View all jobs
+        - heading "Software Engineer - New Grad" [level=1] [ref=e68]
+        - paragraph [ref=e70]: New York, New York
+      - iframe [ref=e72]:
+        - generic [active] [ref=f5e1]:
+          - main [ref=f5e2]:
+            - generic [ref=f5e3]:
+              - generic [ref=f5e4]:
+                - generic [ref=f5e6]:
+                  - generic [ref=f5e7]:
+                    - heading "Software Engineer - New Grad" [level=1] [ref=f5e8]
+                    - generic [ref=f5e9]:
+                      - img [ref=f5e10]
+                      - generic [ref=f5e12]: New York, New York
+                  - button "Apply" [ref=f5e13] [cursor=pointer]
+                - generic [ref=f5e15]:
+                  - heading "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we’re simplifying and modernizing the ticketing industry." [level=3] [ref=f5e16]:
+                    - strong [ref=f5e17]: SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we’re simplifying and modernizing the ticketing industry.
+                  - paragraph [ref=f5e18]: We’re building an awesome entertainment ecosystem where fans have effortless access to incredible live experiences, while sports teams, venues, and shows have unprecedented access to their audiences – because everyone should expect more from the ticketing industry.
+                  - heading "Open roles for new graduates" [level=3] [ref=f5e19]:
+                    - strong [ref=f5e20]: Open roles for new graduates
+                  - paragraph [ref=f5e21]: We are looking for the best and brightest Spring/Summer 2026 college graduates to help us make live entertainment even better! Experience is preferred, but not required – in fact, we look forward to supporting you by teaching you new technologies and mentoring you in software development craft as a member of our world-class engineering team.
+                  - paragraph [ref=f5e22]: "We have roles open in the following technologies:"
+                  - list [ref=f5e23]:
+                    - listitem [ref=f5e24]: Backend (Python, Go, C#)
+                    - listitem [ref=f5e25]: Frontend Web (Typescript + React)
+                    - listitem [ref=f5e26]: Mobile (Kotlin, Swift)
+                    - listitem [ref=f5e27]: Platform (AWS, Docker, Python, Go)
+                  - heading "What you'll do" [level=3] [ref=f5e28]:
+                    - strong [ref=f5e29]: What you'll do
+                  - list [ref=f5e30]:
+                    - listitem [ref=f5e31]: Solve unique and challenging customer problems
+                    - listitem [ref=f5e32]: Work with leading-edge tech in the cloud or on web and mobile
+                    - listitem [ref=f5e33]: Help scale our software as we grow our booming business
+                    - listitem [ref=f5e34]: Take on the challenges of building software for a many-sided marketplace
+                    - listitem [ref=f5e35]: Empower decision-making at a rapidly growing data-driven company
+                    - listitem [ref=f5e36]: Run experiments and evaluate new technologies that will determine the future of our business for years to come
+                    - listitem [ref=f5e37]: Build performant, beautiful, inclusive user interfaces that delight our users and enhance our brand
+                  - heading "What you have" [level=3] [ref=f5e38]:
+                    - strong [ref=f5e40]: What you have
+                  - list [ref=f5e41]:
+                    - listitem [ref=f5e42]: You are a college student graduating in the Spring/Summer of 2026, ideally in computer science or a related degree
+                    - listitem [ref=f5e43]: Experience in building software. We'll be interested in hearing about what you've built and how you built it
+                    - listitem [ref=f5e44]: Problem solving abilities, adept at handling technical challenges. SeatGeek engineers create custom solutions to unique ticketing problems, including venue mapping, inventory tracking, and event matching. We'll be excited to hear about the problems you've solved
+                    - listitem [ref=f5e45]: Passion for software craftsmanship and product. You hold yourself and your code to a high standard
+                    - listitem [ref=f5e46]: Commitment to your teammates. You enjoy working with a diverse group of people with different experiences and take pride in mentoring and learning from others
+                  - heading "Our stack" [level=3] [ref=f5e47]:
+                    - strong [ref=f5e48]: Our stack
+                  - paragraph [ref=f5e49]: You do not need experience with all of these, but we thought you might be curious. What we care about is your experience, skills, and approach to problem-solving. Tools can be learned.
+                  - list [ref=f5e50]:
+                    - listitem [ref=f5e51]:
+                      - strong [ref=f5e52]: "Languages:"
+                      - text: Python, Go, C#+.NET Core, React+Typescript, Swift, Kotlin
+                    - listitem [ref=f5e53]:
+                      - strong [ref=f5e54]: "Datastores:"
+                      - text: Postgres, Redis, Elasticsearch
+                    - listitem [ref=f5e55]:
+                      - strong [ref=f5e56]: "Cloud:"
+                      - text: AWS
+                    - listitem [ref=f5e57]:
+                      - strong [ref=f5e58]: "Version control:"
+                      - text: Gitlab
+                  - heading "Perks" [level=3] [ref=f5e59]:
+                    - strong [ref=f5e60]: Perks
+                  - list [ref=f5e61]:
+                    - listitem [ref=f5e62]: Equity stake
+                    - listitem [ref=f5e63]: Discretionary annual bonus
+                    - listitem [ref=f5e64]: Flexible work environment, allowing you to work as many days a week in the office as you’d like or 100% remotely
+                    - listitem [ref=f5e65]: A WFH stipend to support your home office setup
+                    - listitem [ref=f5e66]: Unlimited PTO
+                    - listitem [ref=f5e67]: Eligible for the SG discretionary annual bonus based on individual and company performance
+                    - listitem [ref=f5e68]: Up to 16 weeks of fully-paid family leave
+                    - listitem [ref=f5e69]: 401(k) matching
+                    - listitem [ref=f5e70]: Student loan matching program
+                    - listitem [ref=f5e71]: Health, vision, dental, and life insurance
+                    - listitem [ref=f5e72]: Up to $25k towards family building, reproductive health services and Gender-affirming care
+                    - listitem [ref=f5e73]: $500 per year for wellness expenses
+                    - listitem [ref=f5e74]: Subscriptions to Headspace (meditation), Headspace Care (therapy), and One Medical
+                    - listitem [ref=f5e75]: $120 per month to spend on tickets to live events
+                    - listitem [ref=f5e76]: Annual subscription to Spotify, Apple Music, or Amazon music
+                  - heading "**Please note you are expected to come into the SeatGeek New York City Office at least 3 days a week**" [level=3] [ref=f5e77]:
+                    - strong [ref=f5e80]:
+                      - emphasis [ref=f5e81]: "**Please note you are expected to come into the SeatGeek New York City Office at least 3 days a week**"
+                  - separator [ref=f5e82]
+                  - paragraph [ref=f5e83]:
+                    - emphasis [ref=f5e84]: The salary range for this role is $110,000-$130,000 USD. This role is equity eligible. In addition, you may receive a discretionary annual bonus based on individual and company performance. Actual compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skill set, years and depth of experience, certifications, and specific location.
+                  - paragraph [ref=f5e85]:
+                    - emphasis [ref=f5e86]:
+                      - generic [ref=f5e87]: SeatGeek is committed to providing equal employment opportunities to all employees and applicants for employment regardless of race, color, religion, creed, age, national origin or ancestry, ethnicity, sex, sexual orientation, gender identity or expression, disability, military or veteran status, or any other category protected by federal, state, or local law. As an equal opportunities employer, we recognize that diversity is a positive attribute and we welcome the differences and benefits that a diverse culture brings. Come join us!
+                  - paragraph [ref=f5e88]:
+                    - generic [ref=f5e89]:
+                      - text: To review our candidate privacy notice,
+                      - link "click here." [ref=f5e90] [cursor=pointer]:
+                        - /url: https://seatgeek.com/privacy/USApplicantNotice
+                  - heading "#LI-Remote" [level=6] [ref=f5e91]:
+                    - emphasis [ref=f5e92]:
+                      - strong [ref=f5e93]: "#LI-Remote"
+              - separator [ref=f5e94]
+              - generic [ref=f5e95]:
+                - generic [ref=f5e97]:
+                  - heading "Apply for this job" [level=2] [ref=f5e99]
+                  - generic [ref=f5e100]:
+                    - paragraph [ref=f5e102]: "*"
+                    - paragraph [ref=f5e103]: indicates a required field
+                - generic [ref=f5e104]:
+                  - generic [ref=f5e105]:
+                    - generic [ref=f5e108]:
+                      - generic [ref=f5e109]: First Name*
+                      - textbox "First Name" [ref=f5e110]
+                    - generic [ref=f5e113]:
+                      - generic [ref=f5e114]: Last Name*
+                      - textbox "Last Name" [ref=f5e115]
+                    - generic [ref=f5e118]:
+                      - generic [ref=f5e119]: Email*
+                      - textbox "Email" [ref=f5e120]
+                    - group "Phone" [ref=f5e122]:
+                      - generic [ref=f5e123]: Phone
+                      - generic [ref=f5e126]:
+                        - generic [ref=f5e127]: Country*
+                        - generic [ref=f5e128]:
+                          - log [ref=f5e130]
+                          - generic [ref=f5e132]:
+                            - combobox "Country" [ref=f5e135]
+                            - button "Toggle flyout" [ref=f5e137] [cursor=pointer]:
+                              - img [ref=f5e138]
+                          - textbox
+                      - generic [ref=f5e142]:
+                        - generic [ref=f5e143]: Phone*
+                        - textbox "Phone" [ref=f5e145]
+                    - group "Resume/CV*" [ref=f5e147]:
+                      - generic [ref=f5e148]: Resume/CV*
+                      - generic [ref=f5e150]:
+                        - generic [ref=f5e152]:
+                          - button "Attach" [ref=f5e153] [cursor=pointer]
+                          - generic [ref=f5e154]: Attach
+                          - button "Attach" [ref=f5e155]
+                        - button "Dropbox" [ref=f5e157] [cursor=pointer]
+                        - generic [ref=f5e159]:
+                          - button "Enter manually" [ref=f5e160] [cursor=pointer]
+                          - generic [ref=f5e161]: Enter manually
+                        - paragraph [ref=f5e162]: "Accepted file types: pdf, doc, docx, txt, rtf"
+                    - group "Cover Letter" [ref=f5e164]:
+                      - generic [ref=f5e165]: Cover Letter
+                      - generic [ref=f5e167]:
+                        - generic [ref=f5e169]:
+                          - button "Attach" [ref=f5e170] [cursor=pointer]
+                          - generic [ref=f5e171]: Attach
+                          - button "Attach" [ref=f5e172]
+                        - button "Dropbox" [ref=f5e174] [cursor=pointer]
+                        - generic [ref=f5e176]:
+                          - button "Enter manually" [ref=f5e177] [cursor=pointer]
+                          - generic [ref=f5e178]: Enter manually
+                        - paragraph [ref=f5e179]: "Accepted file types: pdf, doc, docx, txt, rtf"
+                  - generic [ref=f5e180]:
+                    - generic [ref=f5e181]:
+                      - separator [ref=f5e182]
+                      - paragraph [ref=f5e184]: Education
+                      - generic [ref=f5e186]:
+                        - generic [ref=f5e187]: School*
+                        - generic [ref=f5e188]:
+                          - log [ref=f5e190]
+                          - generic [ref=f5e192]:
+                            - generic [ref=f5e193]:
+                              - generic [ref=f5e194]: Select...
+                              - combobox "School" [ref=f5e196]
+                            - button "Toggle flyout" [ref=f5e198] [cursor=pointer]:
+                              - img [ref=f5e199]
+                          - textbox
+                    - button "Add another" [ref=f5e201] [cursor=pointer]
+                  - generic [ref=f5e202]:
+                    - separator [ref=f5e203]
+                    - generic [ref=f5e206]:
+                      - generic [ref=f5e207]: Are you currently authorized to work in the United States?*
+                      - generic [ref=f5e208]:
+                        - log [ref=f5e210]
+                        - generic [ref=f5e212]:
+                          - generic [ref=f5e213]:
+                            - generic [ref=f5e214]: Select...
+                            - combobox "Are you currently authorized to work in the United States?" [ref=f5e216]
+                          - button "Toggle flyout" [ref=f5e218] [cursor=pointer]:
+                            - img [ref=f5e219]
+                        - textbox
+                    - generic [ref=f5e223]:
+                      - generic [ref=f5e224]: Will you now, or in the future, require employer visa sponsorship (e.g. H-1B)?*
+                      - generic [ref=f5e225]:
+                        - log [ref=f5e227]
+                        - generic [ref=f5e229]:
+                          - generic [ref=f5e230]:
+                            - generic [ref=f5e231]: Select...
+                            - combobox "Will you now, or in the future, require employer visa sponsorship (e.g. H-1B)?" [ref=f5e233]
+                          - button "Toggle flyout" [ref=f5e235] [cursor=pointer]:
+                            - img [ref=f5e236]
+                        - textbox
+                    - generic [ref=f5e240]:
+                      - generic [ref=f5e241]: This role is located in New York City and you will be required to be in the NYC office at least 50% of the work week. Are you either living in or willing to relocate to New York City?*
+                      - generic [ref=f5e242]:
+                        - log [ref=f5e244]
+                        - generic [ref=f5e246]:
+                          - generic [ref=f5e247]:
+                            - generic [ref=f5e248]: Select...
+                            - combobox "This role is located in New York City and you will be required to be in the NYC office at least 50% of the work week. Are you either living in or willing to relocate to New York City?" [ref=f5e250]
+                          - button "Toggle flyout" [ref=f5e252] [cursor=pointer]:
+                            - img [ref=f5e253]
+                        - textbox
+                    - generic [ref=f5e257]:
+                      - generic [ref=f5e258]: LinkedIn Profile
+                      - textbox "LinkedIn Profile" [ref=f5e259]
+                    - generic [ref=f5e262]:
+                      - generic [ref=f5e263]: Out of the following four areas, please select your first choice of interest. *
+                      - generic [ref=f5e264]:
+                        - log [ref=f5e266]
+                        - generic [ref=f5e268]:
+                          - generic [ref=f5e269]:
+                            - generic [ref=f5e270]: Select...
+                            - combobox "Out of the following four areas, please select your first choice of interest." [ref=f5e272]
+                          - button "Toggle flyout" [ref=f5e274] [cursor=pointer]:
+                            - img [ref=f5e275]
+                        - textbox
+                    - generic [ref=f5e279]:
+                      - generic [ref=f5e280]: Out of the following four areas, please select your second choice of interest. *
+                      - generic [ref=f5e281]:
+                        - log [ref=f5e283]
+                        - generic [ref=f5e285]:
+                          - generic [ref=f5e286]:
+                            - generic [ref=f5e287]: Select...
+                            - combobox "Out of the following four areas, please select your second choice of interest." [ref=f5e289]
+                          - button "Toggle flyout" [ref=f5e291] [cursor=pointer]:
+                            - img [ref=f5e292]
+                        - textbox
+                    - generic [ref=f5e296]:
+                      - generic [ref=f5e297]: If Mobile Engineer is your first or second choice, please identify if you are interested in Android or iOS.
+                      - generic [ref=f5e298]:
+                        - log [ref=f5e300]
+                        - generic [ref=f5e302]:
+                          - generic [ref=f5e303]:
+                            - generic [ref=f5e304]: Select...
+                            - combobox "If Mobile Engineer is your first or second choice, please identify if you are interested in Android or iOS." [ref=f5e306]
+                          - button "Toggle flyout" [ref=f5e308] [cursor=pointer]:
+                            - img [ref=f5e309]
+                    - generic [ref=f5e313]:
+                      - generic [ref=f5e314]: What is your expected graduation year? *
+                      - generic [ref=f5e315]:
+                        - log [ref=f5e317]
+                        - generic [ref=f5e319]:
+                          - generic [ref=f5e320]:
+                            - generic [ref=f5e321]: Select...
+                            - combobox "What is your expected graduation year?" [ref=f5e323]
+                          - button "Toggle flyout" [ref=f5e325] [cursor=pointer]:
+                            - img [ref=f5e326]
+                        - textbox
+                  - separator [ref=f5e328]
+                  - generic [ref=f5e329]:
+                    - heading "Voluntary Demographic Questions" [level=3] [ref=f5e330]
+                    - generic [ref=f5e332]:
+                      - paragraph [ref=f5e333]: We love live events because they bring people of all walks together. We strive to bring the same feeling of connectedness into our own organization by embracing people of all backgrounds because we understand that different ideas and perspectives power the innovation that is key to our success.
+                      - paragraph [ref=f5e334]: In order to better understand our efforts in this regard, we invite applicants to self-identify as to their gender, sexual orientation, race/ethnicity, and veteran status. Completion of this form is entirely voluntary and declining to provide this information will not subject you to adverse treatment. Any information that you do provide will be maintained confidentially and will not be shared with hiring managers.
+                      - paragraph [ref=f5e335]: SeatGeek is committed to providing equal employment opportunities to all employees and applicants for employment regardless of race, color, religion, creed, age, national origin or ancestry, ethnicity, sex, sexual orientation, gender identity or expression, disability, military or veteran status, or any other category protected by federal, state, or local law. You are being given the opportunity to provide the following information in order to help us measure our own diversity and inclusion efforts and to comply with applicable federal and state Equal Employment Opportunity record-keeping and reporting obligations.
+                      - paragraph [ref=f5e336]
+                    - generic [ref=f5e338]:
+                      - generic [ref=f5e339]: I identify my gender as
+                      - generic [ref=f5e340]:
+                        - log [ref=f5e342]
+                        - generic [ref=f5e344]:
+                          - generic [ref=f5e345]:
+                            - generic [ref=f5e346]: Select...
+                            - combobox "I identify my gender as" [ref=f5e348]
+                          - button "Toggle flyout" [ref=f5e350] [cursor=pointer]:
+                            - img [ref=f5e351]
+                    - generic [ref=f5e354]:
+                      - generic [ref=f5e355]: I consider myself a member of the LGBTQ+ community
+                      - generic [ref=f5e356]:
+                        - log [ref=f5e358]
+                        - generic [ref=f5e360]:
+                          - generic [ref=f5e361]:
+                            - generic [ref=f5e362]: Select...
+                            - combobox "I consider myself a member of the LGBTQ+ community" [ref=f5e364]
+                          - button "Toggle flyout" [ref=f5e366] [cursor=pointer]:
+                            - img [ref=f5e367]
+                    - generic [ref=f5e370]:
+                      - generic [ref=f5e371]: Race
+                      - generic [ref=f5e372]:
+                        - log [ref=f5e374]
+                        - generic [ref=f5e376]:
+                          - generic [ref=f5e377]:
+                            - generic [ref=f5e378]: Select...
+                            - combobox "Race" [ref=f5e380]
+                          - button "Toggle flyout" [ref=f5e382] [cursor=pointer]:
+                            - img [ref=f5e383]
+                    - generic [ref=f5e386]:
+                      - generic [ref=f5e387]: Veteran Status
+                      - generic [ref=f5e388]:
+                        - log [ref=f5e390]
+                        - generic [ref=f5e392]:
+                          - generic [ref=f5e393]:
+                            - generic [ref=f5e394]: Select...
+                            - combobox "Veteran Status" [ref=f5e396]
+                          - button "Toggle flyout" [ref=f5e398] [cursor=pointer]:
+                            - img [ref=f5e399]
+                    - generic [ref=f5e402]:
+                      - generic [ref=f5e403]: Disability Status
+                      - generic [ref=f5e404]:
+                        - log [ref=f5e406]
+                        - generic [ref=f5e408]:
+                          - generic [ref=f5e409]:
+                            - generic [ref=f5e410]: Select...
+                            - combobox "Disability Status" [ref=f5e412]
+                          - button "Toggle flyout" [ref=f5e414] [cursor=pointer]:
+                            - img [ref=f5e415]
+                  - button "Submit application" [ref=f5e418] [cursor=pointer]
+          - iframe [ref=f5e421]:
+            - generic [ref=f9e6]:
+              - text: protected by
+              - strong [ref=f9e7]: reCAPTCHA
+    - contentinfo [ref=e73]:
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - heading "Download the App" [level=2] [ref=e77]
+          - generic [ref=e82]:
+            - textbox "Enter your phone number" [ref=e83]
+            - button "Send a download link to your phone" [ref=e85] [cursor=pointer]:
+              - img [ref=e86]
+          - paragraph [ref=e89]: Message and data rates may apply.
+          - generic [ref=e90]:
+            - link "Download on the App Store" [ref=e91] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/seatgeek-buy-event-tickets/id582790430?mt=8
+              - img [ref=e93]
+            - link "Download on the Google Play Store" [ref=e100] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.seatgeek.android&utm_source=seatgeek.com&utm_campaign=footer&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
+              - img [ref=e102]
+          - iframe [ref=e115]:
+            - generic "Slider controls TrustScore" [ref=f3e2]:
+              - link "Based on 16K reviews Rated Excellent 4.4 out of 5 star rating on Trustpilot" [ref=f3e6] [cursor=pointer]:
+                - /url: https://www.trustpilot.com/review/seatgeek.com?utm_medium=trustbox&utm_source=FlexTrustScore
+                - generic [ref=f3e7]:
+                  - img [ref=f3e9]
+                  - generic [ref=f3e12]:
+                    - generic [ref=f3e13]:
+                      - generic [ref=f3e15]:
+                        - text: Based on
+                        - strong [ref=f3e16]: 16K
+                        - text: reviews
+                      - generic [ref=f3e17]:
+                        - generic [ref=f3e18]:
+                          - text: Rated
+                          - strong [ref=f3e19]: Excellent
+                        - img "4.4 out of 5 star rating on Trustpilot" [ref=f3e25]
+                    - img [ref=f3e49]
+        - generic [ref=e116]:
+          - generic [ref=e117]:
+            - paragraph [ref=e119]: Resources
+            - list [ref=e120]:
+              - listitem [ref=e121]:
+                - link "About" [ref=e122] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=e123]:
+                - link "Press" [ref=e124] [cursor=pointer]:
+                  - /url: /press
+              - listitem [ref=e125]:
+                - link "Jobs" [ref=e126] [cursor=pointer]:
+                  - /url: /jobs
+              - listitem [ref=e127]:
+                - link "Inclusion" [ref=e128] [cursor=pointer]:
+                  - /url: /diversity-equity-inclusion
+              - listitem [ref=e129]:
+                - link "Why Trust SeatGeek" [ref=e130] [cursor=pointer]:
+                  - /url: /is-seatgeek-legit
+              - listitem [ref=e131]:
+                - link "Digital Accessibility" [ref=e132] [cursor=pointer]:
+                  - /url: /accessibility
+              - listitem [ref=e133]:
+                - link "SeatGeek Blog" [ref=e134] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=e135]:
+                - link "Help & Support" [ref=e136] [cursor=pointer]:
+                  - /url: /help
+              - listitem [ref=e137]:
+                - link "Sell on SeatGeek" [ref=e138] [cursor=pointer]:
+                  - /url: /sell
+              - listitem [ref=e139]:
+                - link "SeatGeek Enterprise" [ref=e140] [cursor=pointer]:
+                  - /url: /enterprise
+              - listitem [ref=e141]:
+                - link "SeatGeek Creators" [ref=e142] [cursor=pointer]:
+                  - /url: /ambassador
+          - generic [ref=e143]:
+            - paragraph [ref=e145]: Social
+            - list [ref=e146]:
+              - listitem [ref=e147]:
+                - link "Twitter" [ref=e148] [cursor=pointer]:
+                  - /url: https://twitter.com/seatgeek
+              - listitem [ref=e149]:
+                - link "Facebook" [ref=e150] [cursor=pointer]:
+                  - /url: https://www.facebook.com/SeatGeek
+              - listitem [ref=e151]:
+                - link "Instagram" [ref=e152] [cursor=pointer]:
+                  - /url: https://www.instagram.com/seatgeek/
+              - listitem [ref=e153]:
+                - link "TikTok" [ref=e154] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@seatgeek
+          - generic [ref=e155]:
+            - paragraph [ref=e157]: Developers
+            - list [ref=e158]:
+              - listitem [ref=e159]:
+                - link "Platform" [ref=e160] [cursor=pointer]:
+                  - /url: /build
+              - listitem [ref=e161]:
+                - link "Developer Blog" [ref=e162] [cursor=pointer]:
+                  - /url: https://chairnerd.seatgeek.com
+      - generic [ref=e163]:
+        - generic [ref=e164]:
+          - link "Go to SeatGeek homepage" [ref=e165] [cursor=pointer]:
+            - /url: /
+            - img [ref=e167]
+          - paragraph [ref=e175]: © 2026 SeatGeek. All rights reserved.
+        - list [ref=e177]:
+          - listitem [ref=e178]:
+            - button "Set your language and currency" [ref=e179] [cursor=pointer]:
+              - paragraph [ref=e182]: USD
+          - listitem [ref=e183]:
+            - button "Your privacy choices" [ref=e184] [cursor=pointer]:
+              - img [ref=e185]
+              - text: Your privacy choices
+          - listitem [ref=e190]:
+            - link "Terms" [ref=e191] [cursor=pointer]:
+              - /url: /terms
+          - listitem [ref=e192]:
+            - link "Privacy" [ref=e193] [cursor=pointer]:
+              - /url: /privacy
+          - listitem [ref=e194]:
+            - link "Site map" [ref=e195] [cursor=pointer]:
+              - /url: /sitemap
+  - alert [ref=e196]
+  - generic:
+    - list
+  - textbox [ref=e197]

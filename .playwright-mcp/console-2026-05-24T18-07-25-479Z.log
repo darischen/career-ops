@@ -1,0 +1,10 @@
+[    1871ms] Uncaught TypeError: Cannot read properties of null (reading 'tagName')
+    at n.load (https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js:0:1296)
+    at t (https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js:1:36)
+    at <anonymous> (https://stability.ai/careers:4849:14)
+[    2718ms] [WARNING] yui: NOT loaded: squarespace-visitor_site_error_reporter @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-4924be797bc441f5-min.en-US.js:7
+[    2718ms] [WARNING] yui: NOT loaded: squarespace-cldr_resource_pack @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-4924be797bc441f5-min.en-US.js:7
+[    2718ms] [WARNING] yui: NOT loaded: squarespace-common_vendors_stable @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-4924be797bc441f5-min.en-US.js:7
+[    2718ms] [WARNING] yui: NOT loaded: squarespace-common_vendors @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-4924be797bc441f5-min.en-US.js:7
+[    2722ms] [WARNING] yui: NOT loaded: squarespace-user_account_core @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-4924be797bc441f5-min.en-US.js:7
+[    2723ms] [WARNING] yui: NOT loaded: squarespace-performance @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-4924be797bc441f5-min.en-US.js:7

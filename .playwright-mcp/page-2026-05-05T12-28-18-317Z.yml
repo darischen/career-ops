@@ -1,0 +1,183 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - img "ServiceNow Logo" [ref=e6]
+    - generic [ref=e7]:
+      - paragraph [ref=e8]: Associate Software Engineer, Search Infrastructure - Moveworks
+      - paragraph [ref=e9]:
+        - generic "Location" [ref=e10]:
+          - img [ref=e11]
+        - text: 1400 Terra Bella Avenue, 94043 Mountain View, CALIFORNIA, United States
+  - generic [ref=e15]:
+    - generic:
+      - generic [ref=e19]:
+        - banner:
+          - heading "Associate Software Engineer, Search Infrastructure - Moveworks" [level=1] [ref=e20]
+        - main [ref=e21]:
+          - generic [ref=e22]:
+            - generic [ref=e23]:
+              - generic [ref=e25]:
+                - heading "Easy Apply" [level=3] [ref=e27]:
+                  - generic: Easy Apply
+                - paragraph [ref=e29]:
+                  - generic: Choose an option to autocomplete your application. You can still fill your profile manually.
+                - generic [ref=e30]:
+                  - generic [ref=e34]:
+                    - generic [ref=e36]:
+                      - generic [ref=e37]:
+                        - generic [ref=e38]: Choose a file
+                        - generic [ref=e39]: or drop it here
+                      - button "Choose a file or drop it here" [ref=e40] [cursor=pointer]
+                      - generic [ref=e41]: 10MB size limit
+                    - alert:
+                      - paragraph
+                  - paragraph [ref=e43]:
+                    - generic: or
+                  - generic [ref=e46]:
+                    - iframe [ref=e50]:
+                      - main [ref=f12e2]:
+                        - button "Apply With LinkedIn" [ref=f12e3] [cursor=pointer]:
+                          - img [ref=f12e5]
+                          - generic [ref=f12e7]: Apply With LinkedIn
+                    - button "Apply With Indeed" [ref=e53] [cursor=pointer]
+              - generic [ref=e55]:
+                - heading "Personal information" [level=3] [ref=e57]:
+                  - generic: Personal information
+                - paragraph [ref=e59]:
+                  - generic: Fields marked with * are required.
+                - generic [ref=e60]:
+                  - generic [ref=e65]:
+                    - generic [ref=e70] [cursor=pointer]: First name*
+                    - textbox "First name" [ref=e73]:
+                      - /placeholder: ""
+                    - alert [ref=e74]:
+                      - paragraph
+                  - generic [ref=e79]:
+                    - generic [ref=e84] [cursor=pointer]: Last name*
+                    - textbox "Last name" [ref=e87]:
+                      - /placeholder: ""
+                    - alert [ref=e88]:
+                      - paragraph
+                - generic [ref=e89]:
+                  - generic [ref=e94]:
+                    - generic [ref=e99] [cursor=pointer]: Email*
+                    - textbox "Email" [ref=e102]:
+                      - /placeholder: ""
+                    - alert [ref=e103]:
+                      - paragraph
+                  - generic [ref=e108]:
+                    - generic [ref=e113] [cursor=pointer]: Confirm your email*
+                    - textbox "Confirm your email" [ref=e116]:
+                      - /placeholder: ""
+                    - alert [ref=e117]:
+                      - paragraph
+                - generic [ref=e118]:
+                  - generic [ref=e125]:
+                    - generic:
+                      - generic [ref=e129]:
+                        - generic [ref=e132]:
+                          - generic [ref=e137] [cursor=pointer]: City*
+                          - combobox "City" [ref=e140]
+                        - img [ref=e144]
+                      - status [ref=e146]
+                    - alert [ref=e147]:
+                      - paragraph
+                  - generic [ref=e154]:
+                    - generic [ref=e159] [cursor=pointer]: Phone number*
+                    - generic [ref=e160]:
+                      - button "Country code" [ref=e167] [cursor=pointer]:
+                        - generic [ref=e170]:
+                          - img "United States" [ref=e172]
+                          - paragraph [ref=e174]:
+                            - generic: "+1"
+                        - img [ref=e176]
+                      - textbox "Phone number" [ref=e183]:
+                        - /placeholder: ""
+                    - alert [ref=e184]:
+                      - paragraph
+              - generic [ref=e186]:
+                - generic [ref=e187]:
+                  - heading "Experience" [level=3] [ref=e189]:
+                    - generic: Experience
+                  - generic "Add experience entry" [ref=e191]:
+                    - button "Add" [ref=e192] [cursor=pointer]:
+                      - generic [ref=e193]:
+                        - img [ref=e195]
+                        - generic [ref=e197]: Add
+                - generic:
+                  - list
+              - generic [ref=e199]:
+                - generic [ref=e200]:
+                  - heading "Education" [level=3] [ref=e202]:
+                    - generic: Education
+                  - generic "Add education entry" [ref=e204]:
+                    - button "Add" [ref=e205] [cursor=pointer]:
+                      - generic [ref=e206]:
+                        - img [ref=e208]
+                        - generic [ref=e210]: Add
+                - generic:
+                  - list
+              - generic [ref=e212]:
+                - heading "Your Profiles" [level=3] [ref=e214]:
+                  - generic: Your Profiles
+                - paragraph [ref=e216]:
+                  - generic: Fields marked with * are required.
+                - generic [ref=e217]:
+                  - generic [ref=e221]:
+                    - generic [ref=e226] [cursor=pointer]: LinkedIn
+                    - textbox "LinkedIn" [ref=e229]:
+                      - /placeholder: ""
+                    - alert [ref=e230]:
+                      - paragraph
+                  - generic [ref=e234]:
+                    - generic [ref=e239] [cursor=pointer]: Facebook
+                    - textbox "Facebook" [ref=e242]:
+                      - /placeholder: ""
+                    - alert [ref=e243]:
+                      - paragraph
+                  - generic [ref=e247]:
+                    - generic [ref=e252] [cursor=pointer]: X (fka Twitter)
+                    - textbox "X (fka Twitter)" [ref=e255]:
+                      - /placeholder: ""
+                    - alert [ref=e256]:
+                      - paragraph
+                  - generic [ref=e260]:
+                    - generic [ref=e265] [cursor=pointer]: Website
+                    - textbox "Website" [ref=e268]:
+                      - /placeholder: ""
+                    - alert [ref=e269]:
+                      - paragraph
+              - generic [ref=e271]:
+                - heading "Resume" [level=3] [ref=e273]:
+                  - generic: Resume
+                - generic [ref=e276]:
+                  - generic [ref=e277]:
+                    - generic [ref=e278]:
+                      - generic [ref=e279]:
+                        - generic [ref=e280]: Choose a file
+                        - generic [ref=e281]: or drop it here
+                      - button "Choose a file or drop it here" [ref=e282] [cursor=pointer]
+                      - generic [ref=e283]: 10MB size limit
+                    - list
+                  - alert:
+                    - paragraph
+              - generic [ref=e285]:
+                - heading "Message to the Hiring Team" [level=3] [ref=e287]:
+                  - generic: Message to the Hiring Team
+                - generic [ref=e292]:
+                  - generic [ref=e297] [cursor=pointer]: Let the company know about your interest working there
+                  - textbox "Let the company know about your interest working there" [ref=e299]:
+                    - /placeholder: ""
+                  - alert [ref=e300]:
+                    - paragraph
+            - button "Next" [ref=e307] [cursor=pointer]:
+              - generic [ref=e309]: Next
+            - link "Privacy Notice, opens in new tab" [ref=e312] [cursor=pointer]:
+              - /url: https://www.servicenow.com/applicant-privacy.html
+              - text: Privacy Notice
+        - generic [ref=e315]:
+          - img "SmartRecruiters - Logo" [ref=e318]
+          - button "Cookie Settings" [ref=e319] [cursor=pointer]
+      - generic:
+        - generic:
+          - status
+          - alert

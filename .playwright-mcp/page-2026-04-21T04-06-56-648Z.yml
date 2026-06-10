@@ -1,0 +1,217 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - link [ref=e398] [cursor=pointer]:
+      - /url: ""
+      - text: Skip to main content
+    - banner [ref=e8]:
+      - generic [ref=e10]:
+        - link [ref=e399] [cursor=pointer]:
+          - /url: https://www.sncorp.com/
+          - img [ref=e400]
+        - generic [ref=e17]:
+          - button [ref=e401] [cursor=pointer]:
+            - generic [ref=e24]: Sign In
+          - navigation [ref=e25]:
+            - button [ref=e402] [cursor=pointer]: SNC Home
+            - button [ref=e403] [cursor=pointer]: Search for Jobs
+    - generic [ref=e31]:
+      - alert [ref=e32]: Software Engineer I page is loaded
+      - generic [ref=e33]:
+        - generic [ref=e35]:
+          - heading [level=2] [ref=e404]: Software Engineer I
+          - button [ref=e405] [cursor=pointer]: Apply
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - generic [ref=e44]:
+              - generic [ref=e51]:
+                - term [ref=e52]: remote type
+                - definition [ref=e53]: In office
+              - generic [ref=e60]:
+                - term [ref=e61]: locations
+                - definition [ref=e62]: Plano, TX
+            - generic [ref=e63]:
+              - generic [ref=e72]:
+                - term [ref=e73]: time type
+                - definition [ref=e74]: Full time
+              - generic [ref=e83]:
+                - term [ref=e84]: posted on
+                - definition [ref=e85]: Posted 5 Days Ago
+              - generic [ref=e94]:
+                - term [ref=e95]: job requisition id
+                - definition [ref=e96]: R0029684
+          - generic [ref=e98]:
+            - paragraph [ref=e99]
+            - paragraph [ref=e100]
+            - text: Do you enjoy developing new products and services? Join us! Our Software Engineers work in an agile, collective environment. As a Software Engineer I, you will assist in the development and maintenance of software systems for aerospace applications. You will collaborate with cross-functional teams to ensure software quality and performance throughout the development lifecycle.
+            - paragraph [ref=e101]
+            - paragraph [ref=e102]
+            - text: The Mission Solutions and Technologies (MST) business area provides affordable, turn-key command/control, communications, integrated ISR, force protection and security solutions worldwide. The MST team has a long legacy of supporting the Department of Defense, Department of Homeland Security, commercial and international customers with years of experience in platform operations, engineering and full lifecycle management across domains – air, land, sea, space and cyber.
+            - paragraph [ref=e103]
+            - paragraph [ref=e104]
+            - paragraph [ref=e105]: "Responsibilities:"
+            - list [ref=e106]:
+              - listitem [ref=e107]: Assist in the design, development, and testing of software components.
+              - listitem [ref=e108]: Debug and troubleshoot software issues.
+              - listitem [ref=e109]: Write and maintain code documentation.
+              - listitem [ref=e110]: Collaborate with team members to ensure code quality and adherence to standards.
+              - listitem [ref=e111]: Participate in code reviews and provide constructive feedback.
+              - listitem [ref=e112]: Support the integration of software with hardware systems.
+            - paragraph [ref=e113]
+            - paragraph [ref=e114]: "Qualifications You Must Have:"
+            - list [ref=e115]:
+              - listitem [ref=e116]: Bachelor's degree in Computer Science, Software Engineering, or related field.
+              - listitem [ref=e117]: 0-2+ years of experience in software development.
+              - listitem [ref=e118]: Basic proficiency in programming languages such as C++, Java, or Python.
+              - listitem [ref=e119]: Familiarity with Linux-based Operating Systems, preferably RedHat or its equivalents.
+              - listitem [ref=e120]: Foundational understanding of engineering principles and software development best practices.
+              - listitem [ref=e121]: Willingness to collaborate and learn as part of multi-disciplinary teams.
+              - listitem [ref=e122]: Demonstrated eagerness to learn and adapt to new technological requirements.
+              - listitem [ref=e123]: Basic knowledge of Linux OS system administration tasks (e.g., navigating file systems, managing files and processes).
+              - listitem [ref=e124]: Understanding of at least one compiled, object-oriented programming language (e.g., C++, Java), as distinct from interpreted or scripting languages.
+              - listitem [ref=e125]: Exposure to scripting languages such as Python or Bash (Bourne-Again Shell).
+              - listitem [ref=e126]: Familiarity with software development tools (e.g., version control, issue tracking, code review tools) is a plus.
+              - listitem [ref=e127]: Awareness of software development methodologies, such as Agile/Scrum or Waterfall.
+              - listitem [ref=e128]: Basic understanding of common data structures (e.g., linked lists, hash tables, arrays) and their use in problem-solving.
+              - listitem [ref=e129]: Entry-level role is designed for candidates with 0–2 years of experience. We value a willingness to learn, teamwork, and foundational technical skills. You’ll have the opportunity to grow and develop your expertise in a collaborative environment.
+            - paragraph [ref=e130]
+            - paragraph [ref=e131]: "Qualifications We Prefer:"
+            - list [ref=e132]:
+              - listitem [ref=e133]: Internship or cooperative education experience in software development.
+              - listitem [ref=e134]: Exposure to the Aerospace and Defense industry.
+              - listitem [ref=e135]: Understanding of industry standard software languages such as C, C#, C++, HTML, Java, Python, and Bash.
+              - listitem [ref=e136]: Experience with software tools for requirements tracking, code reviews, static analysis, library and artifact repository, and automated build.
+              - listitem [ref=e137]: Knowledge of software development methodologies such as Agile/Scrum, Waterfall, and Spiral.
+              - listitem [ref=e138]: Familiarity with data structures.
+            - paragraph [ref=e139]
+            - paragraph [ref=e140]: "Essential Functions:"
+            - list [ref=e141]:
+              - listitem [ref=e142]: Ability to work on a computer for extended periods.
+              - listitem [ref=e143]: Hand/finger dexterity for coding and testing.
+              - listitem [ref=e144]: Ability to work in a hybrid environment with occasional travel.
+            - paragraph [ref=e145]
+            - paragraph [ref=e146]
+            - paragraph [ref=e147]
+            - paragraph [ref=e148]: This posting will be open for application for a minimum of 5 days and may be extended based on business needs.
+            - paragraph [ref=e149]
+            - paragraph [ref=e150]
+            - paragraph [ref=e151]
+            - paragraph [ref=e152]
+            - paragraph [ref=e153]:
+              - text: SNC offers a generous benefit package, including medical, dental, and vision plans, 401(k) with 150% match up to 6%, life insurance, 3 weeks paid time off, tuition reimbursement, and
+              - link [ref=e406] [cursor=pointer]:
+                - /url: https://www.sncorp.com/careers/total-rewards/
+                - text: more
+              - text: .
+            - paragraph [ref=e155]
+            - paragraph [ref=e156]
+            - paragraph [ref=e157]: "IMPORTANT NOTICE:"
+            - text: This position requires the ability to obtain and maintain a Secret U.S. Security Clearance. U.S. Citizenship status is required as this position needs an active U.S. Security Clearance for employment. Non-U.S. citizens may not be eligible to obtain a security clearance. The Department of Defense Consolidated Adjudications Facility (DoD CAF), a federal government agency, handles the adjudicative aspects of the security clearance eligibility process for industry applicants. Adjudicative factors which affect the outcome of the eligibility determination include, but are not limited to, allegiance to the U.S., foreign influence, foreign preference, criminal conduct, security violations and illegal drug use.
+            - paragraph [ref=e163]:
+              - link [ref=e407] [cursor=pointer]:
+                - /url: https://www.dcsa.mil/About/
+                - text: Learn more about the background check process for Security Clearances.
+            - paragraph [ref=e165]
+            - paragraph [ref=e166]
+            - paragraph [ref=e167]: SNC is a global leader in aerospace and national security committed to moving the American Dream forward. We’re known and respected for our mission and execution focus, agility, and disruptive and rapid innovation. We provide leading edge technologies and transformative solutions that support our nation’s most critical security needs. If you are mission-focused, thrive in collaborative environments, and want to make our country stronger with state-of-the-art technologies that safeguard freedom, join our team!
+            - paragraph [ref=e168]
+            - paragraph [ref=e169]:
+              - generic [ref=e170]:
+                - text: SNC is an Equal Opportunity Employer committed to an environment free of
+                - generic [ref=e173]: discrimination. Employment
+                - text: decisions are made based on merit without regard to race, color, age, religion, sex, national origin, disability, status as a protected veteran or other characteristics protected by law.
+            - paragraph [ref=e174]
+      - generic [ref=e176]:
+        - heading [level=3] [ref=e408]: Similar Jobs (5)
+        - generic [ref=e178]:
+          - generic [ref=e179]:
+            - link [ref=e409] [cursor=pointer]:
+              - /url: /en-US/snc_external_career_site/job/Hagerstown-MD/Systems-Engineer-I_R0029686?utm_source=Simplify&ref=Simplify
+              - heading [level=4] [ref=e410]: Systems Engineer I
+            - generic [ref=e191]:
+              - term [ref=e192]: remote type
+              - definition [ref=e193]: Hybrid or in office
+            - generic [ref=e201]:
+              - term [ref=e202]: locations
+              - definition [ref=e203]: 2 Locations
+            - generic [ref=e212]:
+              - term [ref=e213]: time type
+              - definition [ref=e214]: Full time
+            - generic [ref=e223]:
+              - term [ref=e224]: posted on
+              - definition [ref=e225]: Posted Today
+          - generic [ref=e226]:
+            - link [ref=e411] [cursor=pointer]:
+              - /url: /en-US/snc_external_career_site/job/Plano-TX/Sr-Software-Engineer_R0029553?utm_source=Simplify&ref=Simplify
+              - heading [level=4] [ref=e412]: Sr. Software Engineer
+            - generic [ref=e238]:
+              - term [ref=e239]: remote type
+              - definition [ref=e240]: Hybrid or in office
+            - generic [ref=e248]:
+              - term [ref=e249]: locations
+              - definition [ref=e250]: 2 Locations
+            - generic [ref=e259]:
+              - term [ref=e260]: time type
+              - definition [ref=e261]: Full time
+            - generic [ref=e270]:
+              - term [ref=e271]: posted on
+              - definition [ref=e272]: Posted 19 Days Ago
+          - generic [ref=e273]:
+            - link [ref=e413] [cursor=pointer]:
+              - /url: /en-US/snc_external_career_site/job/Plano-TX/Systems-Engineer-II_R0029124?utm_source=Simplify&ref=Simplify
+              - heading [level=4] [ref=e414]: Systems Engineer II
+            - generic [ref=e285]:
+              - term [ref=e286]: remote type
+              - definition [ref=e287]: Hybrid or in office
+            - generic [ref=e295]:
+              - term [ref=e296]: locations
+              - definition [ref=e297]: Plano, TX
+            - generic [ref=e306]:
+              - term [ref=e307]: time type
+              - definition [ref=e308]: Full time
+            - generic [ref=e317]:
+              - term [ref=e318]: posted on
+              - definition [ref=e319]: Posted 19 Days Ago
+        - button [ref=e415] [cursor=pointer]:
+          - generic [ref=e326]: View All 5 Jobs
+      - generic [ref=e329]:
+        - heading [level=3] [ref=e416]: About SNC
+        - img [ref=e417]
+        - generic [ref=e333]:
+          - generic [ref=e335]:
+            - paragraph [ref=e336]: SNC is a trusted global leader in aerospace and national security. Our innovative solutions enable connected protection through command, control and communications systems, as well as ISR, cyber, electromagnetic spectrum management, and other high capabilities for systems across all domains – sea, land, air, space and cyber.
+            - paragraph [ref=e337]
+            - paragraph [ref=e338]: As a longstanding leader in defense technology, SNC is the optimum intersection of commercial, defense and non-traditional contractors. We are one of the only privately owned mid-tier A&D contractors and we pride ourselves on our ability to invest early and often to ensure mission success on or ahead of schedule. It’s part of our mission to always stay one step ahead; working on solutions today to solve the problems of tomorrow.
+            - paragraph [ref=e339]
+            - paragraph [ref=e340]: Founded in 1963, SNC is owned by Chairwoman Eren Ozmen and CEO Fatih Ozmen.
+            - paragraph [ref=e341]
+          - button [ref=e418] [cursor=pointer]:
+            - generic [ref=e345]: Read More
+    - generic [ref=e349]:
+      - generic [ref=e350]: Follow Us
+      - list [ref=e351]:
+        - listitem [ref=e352] [cursor=pointer]:
+          - link [ref=e419]:
+            - /url: https://twitter.com/sierranevcorp/
+        - listitem [ref=e357] [cursor=pointer]:
+          - link [ref=e420]:
+            - /url: http://www.facebook.com/sierranevcorp/
+        - listitem [ref=e362] [cursor=pointer]:
+          - link [ref=e421]:
+            - /url: https://www.linkedin.com/company/sierra-nevada-corporation
+        - listitem [ref=e367] [cursor=pointer]:
+          - link [ref=e422]:
+            - /url: http://www.glassdoor.com/
+      - generic [ref=e373]:
+        - img [ref=e377]
+        - generic [ref=e397]: © 2026 Workday, Inc. All rights reserved.
+  - dialog "Start Your Application" [ref=e426]:
+    - button "Close" [active] [ref=e428] [cursor=pointer]
+    - generic [ref=e434]:
+      - heading "Start Your Application" [level=2] [ref=e435]
+      - heading "Software Engineer I" [level=3] [ref=e436]
+      - button "Autofill with Resume" [ref=e440] [cursor=pointer]
+      - button "Apply Manually" [ref=e444] [cursor=pointer]
+      - button "Use My Last Application" [ref=e449] [cursor=pointer]
+      - iframe [ref=e453]:
+        - generic [ref=f14e3]:
+          - iframe

@@ -1,0 +1,13 @@
+[     655ms] Uncaught TypeError: Cannot read properties of null (reading 'tagName')
+    at n.load (https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js:0:1296)
+    at t (https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js:1:36)
+    at <anonymous> (https://stability.ai/careers?gh_jid=4712826101:4891:14)
+[     761ms] [WARNING] yui: NOT loaded: squarespace-visitor_site_error_reporter @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-219c33e5378d8300-min.en-US.js:7
+[     761ms] [WARNING] yui: NOT loaded: squarespace-cldr_resource_pack @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-219c33e5378d8300-min.en-US.js:7
+[     761ms] [WARNING] yui: NOT loaded: squarespace-common_vendors_stable @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-219c33e5378d8300-min.en-US.js:7
+[     761ms] [WARNING] yui: NOT loaded: squarespace-common_vendors @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-219c33e5378d8300-min.en-US.js:7
+[     763ms] [WARNING] yui: NOT loaded: squarespace-user_account_core @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-219c33e5378d8300-min.en-US.js:7
+[     763ms] [WARNING] yui: NOT loaded: squarespace-performance @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-219c33e5378d8300-min.en-US.js:7
+[    2008ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://my.greenhouse.io/users/self?job_post_id=4712826101:0
+[    2007ms] UnauthorizedError: Unauthorized: User is not logged in.
+    at Gs.fetchProfile (https://job-boards.cdn.greenhouse.io/assets/entry.client-DJvenSzz.js:61:71218)

@@ -1,0 +1,264 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - generic "This website uses cookies to enhance user experience and to analyze performance and traffic on our website. Some of these cookies will share information about your visit with our analytics partners to provide us with further insights, please accept or decline these cookies below." [ref=e9]:
+    - paragraph [ref=e11]: This website uses cookies to enhance user experience and to analyze performance and traffic on our website. Some of these cookies will share information about your visit with our analytics partners to provide us with further insights, please accept or decline these cookies below.
+    - generic [ref=e12]:
+      - button "Decline" [ref=e15] [cursor=pointer]
+      - button "Accept Cookies" [ref=e19] [cursor=pointer]
+  - banner [ref=e22]:
+    - generic [ref=e24]:
+      - link "careers home" [ref=e27] [cursor=pointer]:
+        - /url: https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions
+        - img "careers home" [ref=e28]
+      - heading "Careers" [level=1] [ref=e30]
+      - generic [ref=e32]:
+        - button "Sign In" [ref=e34] [cursor=pointer]:
+          - generic [ref=e39]: Sign In
+        - navigation [ref=e40]:
+          - button "Home" [ref=e41] [cursor=pointer]
+          - button "Search for Jobs" [ref=e42] [cursor=pointer]
+          - button "Introduce Yourself" [ref=e43] [cursor=pointer]
+  - main [ref=e108]:
+    - generic [ref=e109]:
+      - generic [ref=e110]:
+        - link "Back to Job Posting" [ref=e112] [cursor=pointer]:
+          - generic [ref=e116]: Back to Job Posting
+        - heading "Software Engineer I" [level=2] [ref=e117]
+      - generic "Application Progress" [ref=e118]:
+        - list [ref=e119]:
+          - listitem [ref=e120]:
+            - generic: current step 1 of 6
+            - generic [ref=e126]: My Information
+          - listitem [ref=e127]:
+            - generic: step 2 of 6
+            - generic [ref=e133]: My Experience
+          - listitem [ref=e134]:
+            - generic: step 3 of 6
+            - generic [ref=e140]: Application Questions
+          - listitem [ref=e141]:
+            - generic: step 4 of 6
+            - generic [ref=e147]: Voluntary Disclosures
+          - listitem [ref=e148]:
+            - generic: step 5 of 6
+            - generic [ref=e154]: Self Identify
+          - listitem [ref=e155]:
+            - generic: step 6 of 6
+            - generic [ref=e161]: Review
+      - generic [ref=e162]:
+        - generic [ref=e163]:
+          - heading "My Information" [level=3] [ref=e164]
+          - generic [ref=e165]: "* Indicates a required field"
+          - generic [ref=e381]:
+            - heading "Errors Found" [level=3] [ref=e382]:
+              - button "Errors Found" [expanded] [active] [ref=e383] [cursor=pointer]:
+                - generic [ref=e384]: Errors Found
+            - list [ref=e395]:
+              - listitem [ref=e396]:
+                - generic [ref=e397]:
+                  - button "Error How Did You Hear About Us?" [ref=e398] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e399]: "-"
+                    - text: How Did You Hear About Us?
+                  - generic [ref=e400]: The field How Did You Hear About Us? is required and must have a value.
+              - listitem [ref=e401]:
+                - generic [ref=e402]:
+                  - 'button "Error Have you previously been employed by Apex Fintech Solutions or PEAK6 and any of its subsidiary companies? CURRENT EMPLOYEES: Please apply via your internal Workday account instead." [ref=e403] [cursor=pointer]':
+                    - text: Error
+                    - generic [ref=e404]: "-"
+                    - text: "Have you previously been employed by Apex Fintech Solutions or PEAK6 and any of its subsidiary companies? CURRENT EMPLOYEES: Please apply via your internal Workday account instead."
+                  - generic [ref=e405]: "The field Have you previously been employed by Apex Fintech Solutions or PEAK6 and any of its subsidiary companies? CURRENT EMPLOYEES: Please apply via your internal Workday account instead. is required and must have a value."
+              - listitem [ref=e406]:
+                - generic [ref=e407]:
+                  - button "Error First Name" [ref=e408] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e409]: "-"
+                    - text: First Name
+                  - generic [ref=e410]: The field First Name is required and must have a value.
+              - listitem [ref=e411]:
+                - generic [ref=e412]:
+                  - button "Error Last Name" [ref=e413] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e414]: "-"
+                    - text: Last Name
+                  - generic [ref=e415]: The field Last Name is required and must have a value.
+              - listitem [ref=e416]:
+                - generic [ref=e417]:
+                  - button "Error City" [ref=e418] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e419]: "-"
+                    - text: City
+                  - generic [ref=e420]: The field City is required and must have a value.
+              - listitem [ref=e421]:
+                - generic [ref=e422]:
+                  - button "Error State" [ref=e423] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e424]: "-"
+                    - text: State
+                  - generic [ref=e425]: The field State is required and must have a value.
+              - listitem [ref=e426]:
+                - generic [ref=e427]:
+                  - button "Error Email" [ref=e428] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e429]: "-"
+                    - text: Email
+                  - generic [ref=e430]: The field Email is required and must have a value.
+              - listitem [ref=e431]:
+                - generic [ref=e432]:
+                  - button "Error Phone Device Type" [ref=e433] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e434]: "-"
+                    - text: Phone Device Type
+                  - generic [ref=e435]: The field Phone Device Type is required and must have a value.
+              - listitem [ref=e436]:
+                - generic [ref=e437]:
+                  - button "Error Phone Number" [ref=e438] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e439]: "-"
+                    - text: Phone Number
+                  - generic [ref=e440]: The field Phone Number is required and must have a value.
+          - generic [ref=e166]:
+            - group [ref=e167]:
+              - generic [ref=e236]:
+                - generic [ref=e238]: How Did You Hear About Us?*
+                - generic [ref=e239]:
+                  - generic [ref=e244] [cursor=pointer]:
+                    - textbox "How Did You Hear About Us?" [ref=e245]:
+                      - /placeholder: Search
+                    - generic [ref=e246]: 0 items selected
+                  - paragraph [ref=e442]:
+                    - generic [ref=e443]: "Error:"
+                    - text: The field How Did You Hear About Us? is required and must have a value.
+            - group [ref=e173]:
+              - 'group "Have you previously been employed by Apex Fintech Solutions or PEAK6 and any of its subsidiary companies? CURRENT EMPLOYEES: Please apply via your internal Workday account instead." [ref=e252]':
+                - generic [ref=e255]: "Have you previously been employed by Apex Fintech Solutions or PEAK6 and any of its subsidiary companies? CURRENT EMPLOYEES: Please apply via your internal Workday account instead.*"
+                - generic [ref=e256]:
+                  - 'generic "Have you previously been employed by Apex Fintech Solutions or PEAK6 and any of its subsidiary companies? CURRENT EMPLOYEES: Please apply via your internal Workday account instead." [ref=e258]':
+                    - generic [ref=e259]:
+                      - radio "Yes" [ref=e261] [cursor=pointer]
+                      - generic [ref=e262]: "Yes"
+                    - generic [ref=e263]:
+                      - radio "No" [ref=e265] [cursor=pointer]
+                      - generic [ref=e266]: "No"
+                  - paragraph [ref=e445]:
+                    - generic [ref=e446]: "Error:"
+                    - text: "The field Have you previously been employed by Apex Fintech Solutions or PEAK6 and any of its subsidiary companies? CURRENT EMPLOYEES: Please apply via your internal Workday account instead. is required and must have a value."
+            - group [ref=e184]:
+              - generic [ref=e186]:
+                - generic [ref=e188]: Country*
+                - button "Country United States of America Required" [ref=e267]: United States of America
+            - group "Legal Name" [ref=e193]:
+              - heading "Legal Name" [level=4] [ref=e194]
+              - generic [ref=e269]:
+                - generic [ref=e270]:
+                  - generic [ref=e271]: Prefix
+                  - button "Prefix Select One" [ref=e275]: Select One
+                - generic [ref=e276]:
+                  - generic [ref=e278]: First Name*
+                  - generic [ref=e279]:
+                    - textbox "First Name" [ref=e281]
+                    - paragraph [ref=e448]:
+                      - generic [ref=e449]: "Error:"
+                      - text: The field First Name is required and must have a value.
+                - generic [ref=e282]:
+                  - generic [ref=e283]: Middle Name
+                  - textbox "Middle Name" [ref=e286]
+                - generic [ref=e287]:
+                  - generic [ref=e289]: Last Name*
+                  - generic [ref=e290]:
+                    - textbox "Last Name" [ref=e292]
+                    - paragraph [ref=e451]:
+                      - generic [ref=e452]: "Error:"
+                      - text: The field Last Name is required and must have a value.
+                - generic [ref=e293]:
+                  - generic [ref=e294]: Suffix
+                  - button "Suffix Select One" [ref=e298]: Select One
+                - generic [ref=e299]:
+                  - generic [ref=e300]: I have a preferred name
+                  - checkbox "I have a preferred name" [ref=e305] [cursor=pointer]
+            - group "Address" [ref=e204]:
+              - heading "Address" [level=4] [ref=e205]
+              - generic [ref=e307]:
+                - generic [ref=e308]:
+                  - generic [ref=e309]: Address Line 1
+                  - textbox "Address Line 1" [ref=e312]
+                - generic [ref=e313]:
+                  - generic [ref=e315]: City*
+                  - generic [ref=e316]:
+                    - textbox "City" [ref=e318]
+                    - paragraph [ref=e454]:
+                      - generic [ref=e455]: "Error:"
+                      - text: The field City is required and must have a value.
+                - generic [ref=e319]:
+                  - generic [ref=e321]: State*
+                  - generic [ref=e322]:
+                    - button "State Select One Required" [ref=e325]: Select One
+                    - paragraph [ref=e457]:
+                      - generic [ref=e458]: "Error:"
+                      - text: The field State is required and must have a value.
+                - generic [ref=e326]:
+                  - generic [ref=e327]: Postal Code
+                  - textbox "Postal Code" [ref=e330]
+            - group "Email Address" [ref=e213]:
+              - heading "Email Address" [level=4] [ref=e214]
+              - generic [ref=e333]:
+                - generic [ref=e335]: Email*
+                - generic [ref=e336]:
+                  - textbox "Email" [ref=e338]
+                  - paragraph [ref=e460]:
+                    - generic [ref=e461]: "Error:"
+                    - text: The field Email is required and must have a value.
+            - group "Phone" [ref=e222]:
+              - heading "Phone" [level=4] [ref=e223]
+              - generic [ref=e340]:
+                - generic [ref=e341]:
+                  - generic [ref=e343]: Phone Device Type*
+                  - generic [ref=e344]:
+                    - button "Phone Device Type Select One Required" [ref=e347]: Select One
+                    - paragraph [ref=e463]:
+                      - generic [ref=e464]: "Error:"
+                      - text: The field Phone Device Type is required and must have a value.
+                - generic [ref=e348]:
+                  - generic [ref=e350]: Country Phone Code*
+                  - generic [ref=e355] [cursor=pointer]:
+                    - generic:
+                      - textbox "Country Phone Code" [ref=e356]:
+                        - /placeholder: Search
+                      - generic [ref=e357]: 1 item selected, United States of America (+1)
+                    - listbox "items selected" [ref=e359]:
+                      - option "United States of America (+1), press delete to clear value." [ref=e360]:
+                        - paragraph [ref=e365]: United States of America (+1)
+                - generic [ref=e369]:
+                  - generic [ref=e371]: Phone Number*
+                  - generic [ref=e372]:
+                    - textbox "Phone Number" [ref=e374]
+                    - paragraph [ref=e466]:
+                      - generic [ref=e467]: "Error:"
+                      - text: The field Phone Number is required and must have a value.
+                - generic [ref=e375]:
+                  - generic [ref=e376]: Phone Extension
+                  - textbox "Phone Extension" [ref=e379]
+        - button "Next" [ref=e234] [cursor=pointer]
+  - generic [ref=e50]:
+    - generic [ref=e51]: Follow Us
+    - list [ref=e52]:
+      - listitem [ref=e53] [cursor=pointer]:
+        - link "X" [ref=e54]:
+          - /url: https://twitter.com/apexfintech
+      - listitem [ref=e58] [cursor=pointer]:
+        - link "Facebook" [ref=e59]:
+          - /url: https://www.facebook.com/apexfintechsolutions/
+      - listitem [ref=e63] [cursor=pointer]:
+        - link "Glassdoor" [ref=e64]:
+          - /url: https://www.glassdoor.com/Overview/Working-at-Apex-Fintech-Solutions-EI_IE599382.11,33.htm
+      - listitem [ref=e69] [cursor=pointer]:
+        - link "YouTube" [ref=e70]:
+          - /url: https://www.youtube.com/channel/UC-EfblC9n-E-fw0k6serhSw
+      - listitem [ref=e76] [cursor=pointer]:
+        - link "LinkedIn" [ref=e77]:
+          - /url: https://www.linkedin.com/company/apex-fintech/
+    - link "PEAK6 Privacy Policy" [ref=e82] [cursor=pointer]:
+      - /url: https://peak6.com/privacy-policy/
+    - generic [ref=e83]:
+      - img [ref=e87]
+      - generic [ref=e107]: © 2026 Workday, Inc. All rights reserved.

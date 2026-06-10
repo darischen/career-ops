@@ -1,0 +1,114 @@
+- generic [active] [ref=e1]:
+  - link "Skip to Main Content" [ref=e2] [cursor=pointer]:
+    - /url: "#iCIMS_Header"
+  - link [ref=e4] [cursor=pointer]:
+    - /url: https://careers-iridium.icims.com/jobs?hashed=-435596479
+    - img [ref=e5]
+  - text: 
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - link "Welcome page" [ref=e11] [cursor=pointer]:
+        - /url: https://careers-iridium.icims.com/jobs/intro
+        - generic [ref=e12]: 
+        - text: Welcome page
+      - generic [ref=e15]:
+        - generic [ref=e16]: Returning Candidate?
+        - link "Log back in!" [ref=e18] [cursor=pointer]:
+          - /url: https://careers-iridium.icims.com/jobs/4940/software-engineer-i/login?loginOnly=1&redirect=job&hashed=-435596479
+    - generic [ref=e20]:
+      - generic [ref=e22]:
+        - heading "Software Engineer I" [level=1] [ref=e25]
+        - generic [ref=e26]:
+          - generic [ref=e27]: Job Locations
+          - text: US-AZ-Chandler | US-VA-Reston
+        - generic [ref=e28]:
+          - generic [ref=e29]: Job ID
+          - text: 2026-4940
+        - generic [ref=e31]:
+          - generic [ref=e32]:
+            - term [ref=e33]: Category
+            - definition [ref=e34]: Engineering
+          - generic [ref=e35]:
+            - term [ref=e36]: Worker Category
+            - definition [ref=e37]: Regular Full-Time[F]
+      - heading "Company Overview" [level=2] [ref=e38]
+      - generic [ref=e41]:
+        - paragraph [ref=e42]: Iridium is an award-winning and innovative satellite communications company with bragging rights to the only network that offers voice and data connectivity anywhere in the world. For over 20 years, Iridium’s unique network and services have supported critical communications needs for individuals, businesses, and the evolving Internet of Things.
+        - paragraph [ref=e43]
+        - paragraph [ref=e44]: At Iridium, we understand the importance of staying connected and the limitations of traditional communications networks. People across the globe, including first responders, humanitarians, global militaries, scientific researchers, and lone workers, as well as ships, aircraft and remote operations all rely on Iridium to stay connected. We take our responsibility for providing these essential communications very seriously and pride ourselves on offering a reliable lifeline when needed. Likewise, Iridium is committed to providing an exciting and innovative workplace, where employees are challenged to think outside the box and collaborate on new, bold ideas and solutions. Our talented teams are passionate about their work and the impact our company makes around the world. Iridium fosters an empowering and inclusive culture that allows employees to genuinely be their best selves. We are looking for others who want to join this truly unique company that celebrates our employees and provides the opportunity to truly make a difference in the world.
+      - heading [level=2]
+      - generic [ref=e47]:
+        - heading "What We’re Looking For:" [level=2] [ref=e48]
+        - paragraph [ref=e49]:
+          - generic [ref=e50]: If you enjoy learning about and working with breakthrough technologies, and are enthusiastic about working in the space industry, then you will be excited about the Engineer I, Software Developer opening with Iridium for a Space Development Agency (SDA) project. As a Software Engineer on the SDA program, you will gain experience in software development and maintenance used to monitor/schedule/operate a constellation of satellites. You will work to deliver high-quality work projects/deliverables to completion within the larger development team to support cross-functional efforts across all areas of ground system software development.
+        - heading "What You’ll Do:" [level=2] [ref=e51]
+        - list [ref=e53]:
+          - listitem [ref=e54]:
+            - generic [ref=e55]: Work collaboratively with your team to develop and enhance software related to the SDA project
+          - listitem [ref=e56]: Assist in developing optimized code for both scalability and performance
+          - listitem [ref=e57]: Work within the Agile/Scrum framework for software development (Atlassian tool suite desired)
+          - listitem [ref=e58]: Support efforts in creating and/or maintaining build environments for software products
+          - listitem [ref=e59]: Work within team objectives to assist in planning and executing software releases per stakeholder/program schedules and budgets
+          - listitem [ref=e60]: Participate in updating issue/feature data in Atlassian Project/Software tracking tools
+          - listitem [ref=e61]: Follow existing Iridium processes for Change Control, Prioritization, Risk Management, Commercial off the Shelf (COTS) Management, Build, and Test software deployments and use knowledge to assist in development of process/procedure documentation materials
+          - listitem [ref=e62]: Edit, structure, and present data, concepts, and arguments clearly and succinctly, through briefings and documentation
+      - heading [level=2]
+      - generic [ref=e65]:
+        - heading "What You’ll Need to Succeed:" [level=2] [ref=e66]
+        - list [ref=e69]:
+          - listitem [ref=e70]:
+            - generic [ref=e71]: Bachelor of Science degree in Computer Science, or other engineering discipline
+          - listitem [ref=e72]: Exposure to Agile based teams
+          - listitem [ref=e73]: Working knowledge of one or more programming languages (e.g., C, C++, Python, Java, or similar)
+          - listitem [ref=e74]: Familiarity with version control tools (e.g., Git) and basic debugging practices
+          - listitem [ref=e75]: Strong communication skills, with the ability to communicate key messages and ideas clearly and effectively.
+          - listitem [ref=e76]: Can cultivate meaningful relationships with your manager and members of your team, while being open and responsive to constructive feedback as they guide and mentor you
+          - listitem [ref=e77]: The ability to think outside the box to help solve problems, with the humility to ask for help when needed
+          - listitem [ref=e78]: Adaptability to a dynamic environment and the readiness to take on any new tasks that are handed to you
+          - listitem [ref=e79]: A motivation to achieve outcomes and results
+          - listitem [ref=e80]: Capable of handling multiple tasks at once and completing them on time with mostly no errors
+          - listitem [ref=e81]: Must be able to prioritize your tasks, be self-aware enough to identify and correct mistakes, and not be afraid to ask for help when needed
+          - listitem [ref=e82]: Be active in seeking out ways to improve yourself and gain new knowledge, and be enthusiastic in sharing knowledge with others
+        - paragraph [ref=e83]:
+          - strong [ref=e85]: "We’ll also need you to:"
+        - list [ref=e87]:
+          - listitem [ref=e88]:
+            - generic [ref=e89]: Work in the office at least 3 or more days a week to foster collaboration with the team and stakeholders
+          - listitem [ref=e90]: Be a U.S. citizen
+          - listitem [ref=e91]: Be able to obtain and maintain a U.S. Government security clearance
+      - heading [level=2]
+      - generic [ref=e94]:
+        - heading "Work Environment:" [level=2] [ref=e95]
+        - paragraph [ref=e96]: This position primarily works in an office setting and is largely sedentary with the majority of the position working with a computer. The role typically requires the use of basic office equipment such as a phone, video, computer, keyboard, mouse, and printer.
+        - paragraph [ref=e97]
+        - paragraph [ref=e98]: We believe in-person connection drives innovation, strengthens mentorship, and builds culture, while flexibility enables employees to do their best work. Under Iridium’s Hybrid Work Policy, employees are expected to work at least three days per week (approximately 60%) in an Iridium office to support collaboration, relationship-building, and professional growth.
+        - paragraph [ref=e99]:
+          - strong [ref=e101]
+        - paragraph [ref=e102]:
+          - strong [ref=e104]: Additional Information
+        - paragraph [ref=e105]: This job description outlines the general nature and level of work for this role and is not a comprehensive list of duties, responsibilities, or qualifications. Employees may be assigned additional responsibilities as needed.
+        - paragraph [ref=e106]
+        - paragraph [ref=e107]:
+          - strong [ref=e109]: Iridium is an Equal Opportunity Employer, including individuals with disabilities and protected veterans.
+      - generic [ref=e110]:
+        - heading "Options" [level=2] [ref=e111]
+        - generic [ref=e112]:
+          - link "Apply for this job online" [ref=e113] [cursor=pointer]:
+            - /url: https://careers-iridium.icims.com/jobs/4940/software-engineer-i/job?mode=apply&apply=yes&hashed=-336032017
+            - generic [ref=e114]: Apply for this job online
+          - link "Email this job to a friend" [ref=e115] [cursor=pointer]:
+            - /url: https://careers-iridium.icims.com/jobs/4940/software-engineer-i/referral?hashed=-435596479
+            - generic [ref=e116]: Email this job to a friend
+        - generic [ref=e117]:
+          - text: 
+          - heading "Share on your newsfeed" [level=2] [ref=e118]
+          - generic [ref=e120]:
+            - img "..." [ref=e121]
+            - generic [ref=e122]: Loading...
+      - generic [ref=e123]:
+        - link "Application FAQs" [ref=e124] [cursor=pointer]:
+          - /url: https://icims.help/candidate-faq
+        - paragraph [ref=e126]:
+          - text: Software Powered by iCIMS
+          - link "www.icims.com" [ref=e127] [cursor=pointer]:
+            - /url: http://www.icims.com/platform_help?utm_source=platform&utm_medium=link&utm_content=page1&utm_campaign=platform%20help

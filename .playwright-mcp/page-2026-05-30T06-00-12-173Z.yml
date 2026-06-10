@@ -1,0 +1,380 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - banner [ref=e6]:
+      - generic [ref=e8]:
+        - button "Main Menu" [ref=e10] [cursor=pointer]
+        - generic [ref=e15]:
+          - link "Technology" [ref=e16] [cursor=pointer]:
+            - /url: /technology
+          - link "Solutions" [ref=e17] [cursor=pointer]:
+            - /url: /solutions
+          - link "Company" [ref=e18] [cursor=pointer]:
+            - /url: /company
+          - link "Safety" [ref=e19] [cursor=pointer]:
+            - /url: /safety
+          - link "Careers" [ref=e20] [cursor=pointer]:
+            - /url: /careers
+        - link "Nuro logo" [ref=e23] [cursor=pointer]:
+          - /url: /
+          - generic "Nuro logo" [ref=e24]:
+            - img [ref=e25]
+    - generic:
+      - generic:                 
+  - text:                  
+  - generic [ref=e32]:
+    - main [ref=e33]:
+      - iframe [ref=e37]:
+        - main [ref=f1e2]:
+          - generic [ref=f1e3]:
+            - img "Nuro Logo" [ref=f1e5]
+            - generic [ref=f1e6]:
+              - link "Back to jobs" [ref=f1e7] [cursor=pointer]:
+                - /url: https://www.nuro.ai/careers?gh_src=Simplify
+                - img [ref=f1e8]
+                - text: Back to jobs
+              - generic [ref=f1e11]:
+                - generic [ref=f1e12]:
+                  - heading "Software Engineer, AI Platform - New Grad" [level=1] [ref=f1e13]
+                  - generic [ref=f1e14]:
+                    - img [ref=f1e15]
+                    - generic [ref=f1e17]: Mountain View, California (HQ)
+                - button "Apply" [ref=f1e18] [cursor=pointer]
+              - generic [ref=f1e20]:
+                - paragraph [ref=f1e21]:
+                  - strong [ref=f1e22]: Who We Are
+                - paragraph [ref=f1e23]: Nuro is a self-driving technology company on a mission to make autonomy accessible to all. Founded in 2016, Nuro is building the world’s most scalable driver, combining cutting-edge AI with automotive-grade hardware. Nuro licenses its core technology, the Nuro Driver™, to support a wide range of applications, from robotaxis and commercial fleets to personally owned vehicles. With technology proven over years of self-driving deployments, Nuro gives the automakers and mobility platforms a clear path to AVs at commercial scale—empowering a safer, richer, and more connected future.
+                - paragraph [ref=f1e24]:
+                  - strong [ref=f1e25]: About the Role
+                  - text: Our software team is growing, and we are looking for talented engineers
+                  - strong [ref=f1e26]: who are graduating by December 2026
+                  - text: "to join us and be instrumental to one of the following areas: Data Platform, Onboard Systems, ML Infrastructure, Simulation, or Technical Infrastructure teams."
+                - paragraph [ref=f1e27]:
+                  - strong [ref=f1e28]: About the Work
+                - paragraph [ref=f1e29]: "Depending on your skill set and areas of interest you will work on some or all of the following:"
+                - list [ref=f1e30]:
+                  - listitem [ref=f1e31]:
+                    - strong [ref=f1e32]: "Data Platform:"
+                    - text: The Data Platform serves as a comprehensive management system for Nuro AI Driver's data, labels, and metrics, facilitating seamless access functionality. The team focuses on data annotation across various domains, including 2D/3D perception, mapping, behavior trajectory, and language/text. It also handles data ingestion and mining, employing methods such as heuristics and embedding search. Additionally, the platform supports the autonomy evaluation infrastructure by providing detailed introspection.
+                  - listitem [ref=f1e33]:
+                    - strong [ref=f1e34]: "Onboard Systems:"
+                    - text: Our onboard system team’s software engineers provide a reliable and high-performance platform that allows our autonomy teams to integrate their autonomy software and algorithms that work across various self-driving platforms. This work requires close collaboration with our software teams, hardware teams, and systems/safety team to make sure new software and hardware work together safely and reliably and resolve onboard error and performance problems.
+                  - listitem [ref=f1e35]:
+                    - strong [ref=f1e36]: "Technical Infrastructure:"
+                    - text: "this group owns few fundamental services for entire engineering organizations: generic compute platform to host mission-critical workflows such as data processing and simulation, storage management service which manages hundreds of PB of data, cloud infrastructure serves as IaaC which provisions and maintains all cloud resources, engineering productivity provides tools such as build and CI/CD to make engineering work more efficient."
+                - paragraph [ref=f1e37]:
+                  - strong [ref=f1e38]: About You
+                - paragraph [ref=f1e39]: "You have deep expertise and prior experience in some or many of the following areas:"
+                - list [ref=f1e40]:
+                  - listitem [ref=f1e41]:
+                    - text: You are a current Bachelor’s Degree or Master’s Degree candidate in Computer Science, Electrical Engineering, Robotics, or related field,
+                    - strong [ref=f1e42]: graduating before July 2026.
+                  - listitem [ref=f1e43]: "You have experience in one or more of the following areas: large-scale distributed systems; data storage and processing systems; advanced algorithms using C++ and Python; machine learning, multithreading; x86 architecture; and software performance tuning and optimization, robotics software frameworks, different compute modalities (CPU, GPU, FPGA) etc."
+                  - listitem [ref=f1e44]: You have strong problem-solving and programming skills.
+                - paragraph [ref=f1e45]: At Nuro, your base pay is one part of your total compensation package. For this position, the reasonably expected base pay range is between $145,000 and $170,000 for the level at which this job has been scoped. Your base pay will depend on several factors, including your experience, qualifications, education, location, and skills. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for an annual performance bonus, equity, and a competitive benefits package
+                - paragraph [ref=f1e46]:
+                  - emphasis [ref=f1e47]: At Nuro, we celebrate differences and are committed to a diverse workplace that fosters inclusion and psychological safety for all employees. Nuro is proud to be an equal opportunity employer and expressly prohibits any form of workplace discrimination based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other legally protected characteristics.
+              - generic [ref=f1e48]:
+                - img [ref=f1e49]
+                - generic [ref=f1e51]:
+                  - paragraph [ref=f1e52]: Create a Job Alert
+                  - paragraph [ref=f1e53]: Interested in building your career at Nuro? Get future opportunities sent straight to your email.
+                  - button "Create alert" [ref=f1e54] [cursor=pointer]
+            - separator [ref=f1e55]
+            - generic [ref=f1e56]:
+              - generic [ref=f1e57]:
+                - generic [ref=f1e58]:
+                  - heading "Apply for this job" [level=2] [ref=f1e60]
+                  - generic [ref=f1e61]:
+                    - paragraph [ref=f1e63]: "*"
+                    - paragraph [ref=f1e64]: indicates a required field
+                - button "Quick Apply with MyGreenhouse" [ref=f1e67] [cursor=pointer]
+              - generic [ref=f1e68]:
+                - generic [ref=f1e69]:
+                  - generic [ref=f1e72]:
+                    - generic [ref=f1e73]: First Name*
+                    - textbox "First Name" [ref=f1e74]
+                  - generic [ref=f1e77]:
+                    - generic [ref=f1e78]: Last Name*
+                    - textbox "Last Name" [ref=f1e79]
+                  - generic [ref=f1e82]:
+                    - generic [ref=f1e83]: Email*
+                    - textbox "Email" [ref=f1e84]
+                  - group "Phone" [ref=f1e86]:
+                    - generic [ref=f1e87]: Phone
+                    - generic [ref=f1e90]:
+                      - generic [ref=f1e91]: Country*
+                      - generic [ref=f1e92]:
+                        - log [ref=f1e94]
+                        - generic [ref=f1e96]:
+                          - combobox "Country" [ref=f1e99]
+                          - button "Toggle flyout" [ref=f1e101] [cursor=pointer]:
+                            - img [ref=f1e102]
+                        - textbox
+                    - generic [ref=f1e106]:
+                      - generic [ref=f1e107]: Phone*
+                      - textbox "Phone" [ref=f1e108]
+                  - group "Resume/CV*" [ref=f1e110]:
+                    - generic [ref=f1e111]: Resume/CV*
+                    - generic [ref=f1e113]:
+                      - generic [ref=f1e115]:
+                        - button "Attach" [ref=f1e116] [cursor=pointer]
+                        - generic [ref=f1e117]: Attach
+                        - button "Attach" [ref=f1e118]
+                      - button "Dropbox" [ref=f1e120] [cursor=pointer]
+                      - generic [ref=f1e122]:
+                        - button "Enter manually" [ref=f1e123] [cursor=pointer]
+                        - generic [ref=f1e124]: Enter manually
+                      - paragraph [ref=f1e125]: "Accepted file types: pdf, doc, docx, txt, rtf"
+                  - group "Cover Letter" [ref=f1e127]:
+                    - generic [ref=f1e128]: Cover Letter
+                    - generic [ref=f1e130]:
+                      - generic [ref=f1e132]:
+                        - button "Attach" [ref=f1e133] [cursor=pointer]
+                        - generic [ref=f1e134]: Attach
+                        - button "Attach" [ref=f1e135]
+                      - button "Dropbox" [ref=f1e137] [cursor=pointer]
+                      - generic [ref=f1e139]:
+                        - button "Enter manually" [ref=f1e140] [cursor=pointer]
+                        - generic [ref=f1e141]: Enter manually
+                      - paragraph [ref=f1e142]: "Accepted file types: pdf, doc, docx, txt, rtf"
+                - generic [ref=f1e143]:
+                  - separator [ref=f1e144]
+                  - generic [ref=f1e147]:
+                    - generic [ref=f1e148]: LinkedIn Profile
+                    - textbox "LinkedIn Profile" [ref=f1e149]
+                  - generic [ref=f1e152]:
+                    - generic [ref=f1e153]: Website
+                    - textbox "Website" [ref=f1e154]
+                  - generic [ref=f1e157]:
+                    - generic [ref=f1e158]: Are you authorized to work in the country in which you are applying?*
+                    - generic [ref=f1e159]:
+                      - log [ref=f1e161]
+                      - generic [ref=f1e163]:
+                        - generic [ref=f1e164]:
+                          - generic [ref=f1e165]: Select...
+                          - combobox "Are you authorized to work in the country in which you are applying?" [ref=f1e167]
+                        - button "Toggle flyout" [ref=f1e169] [cursor=pointer]:
+                          - img [ref=f1e170]
+                      - textbox
+                  - generic [ref=f1e174]:
+                    - generic [ref=f1e175]: Do you now, or will you in the future, require sponsorship for employment in the country which you are applying?*
+                    - generic [ref=f1e176]:
+                      - log [ref=f1e178]
+                      - generic [ref=f1e180]:
+                        - generic [ref=f1e181]:
+                          - generic [ref=f1e182]: Select...
+                          - combobox "Do you now, or will you in the future, require sponsorship for employment in the country which you are applying?" [ref=f1e184]
+                        - button "Toggle flyout" [ref=f1e186] [cursor=pointer]:
+                          - img [ref=f1e187]
+                      - textbox
+                  - generic [ref=f1e191]:
+                    - generic [ref=f1e192]: This position is hybrid and requires 4 days a week in office, including Thursdays in our Mountain View, CA headquarters and the remaining 3 days in either Mountain View or our San Francisco, CA office. Are you able to meet this requirement?*
+                    - generic [ref=f1e193]:
+                      - log [ref=f1e195]
+                      - generic [ref=f1e197]:
+                        - generic [ref=f1e198]:
+                          - generic [ref=f1e199]: Select...
+                          - combobox "This position is hybrid and requires 4 days a week in office, including Thursdays in our Mountain View, CA headquarters and the remaining 3 days in either Mountain View or our San Francisco, CA office. Are you able to meet this requirement?" [ref=f1e201]
+                        - button "Toggle flyout" [ref=f1e203] [cursor=pointer]:
+                          - img [ref=f1e204]
+                      - textbox
+                - generic [ref=f1e206]:
+                  - separator [ref=f1e207]
+                  - generic [ref=f1e208]:
+                    - heading "Voluntary Self-Identification" [level=2] [ref=f1e209]
+                    - paragraph [ref=f1e210]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+                    - paragraph [ref=f1e211]: As set forth in Nuro’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+                  - generic [ref=f1e214]:
+                    - generic [ref=f1e215]: Gender
+                    - generic [ref=f1e216]:
+                      - log [ref=f1e218]
+                      - generic [ref=f1e220]:
+                        - generic [ref=f1e221]:
+                          - generic [ref=f1e222]: Select...
+                          - combobox "Gender" [ref=f1e224]
+                        - button "Toggle flyout" [ref=f1e226] [cursor=pointer]:
+                          - img [ref=f1e227]
+                  - generic [ref=f1e229]:
+                    - generic [ref=f1e231]:
+                      - generic [ref=f1e232]: Are you Hispanic/Latino?
+                      - generic [ref=f1e233]:
+                        - log [ref=f1e235]
+                        - generic [ref=f1e237]:
+                          - generic [ref=f1e238]:
+                            - generic [ref=f1e239]: Select...
+                            - combobox "Are you Hispanic/Latino?" [ref=f1e241]
+                          - button "Toggle flyout" [ref=f1e243] [cursor=pointer]:
+                            - img [ref=f1e244]
+                    - link "Race & Ethnicity Definitions" [ref=f1e246] [cursor=pointer]:
+                      - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+                  - generic [ref=f1e247]:
+                    - paragraph [ref=f1e248]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+                    - paragraph [ref=f1e249]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+                    - paragraph [ref=f1e250]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+                    - paragraph [ref=f1e251]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+                    - paragraph [ref=f1e252]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+                  - generic [ref=f1e255]:
+                    - generic [ref=f1e256]: Veteran Status
+                    - generic [ref=f1e257]:
+                      - log [ref=f1e259]
+                      - generic [ref=f1e261]:
+                        - generic [ref=f1e262]:
+                          - generic [ref=f1e263]: Select...
+                          - combobox "Veteran Status" [ref=f1e265]
+                        - button "Toggle flyout" [ref=f1e267] [cursor=pointer]:
+                          - img [ref=f1e268]
+                  - separator [ref=f1e270]
+                  - generic [ref=f1e271]:
+                    - heading "Voluntary Self-Identification of Disability" [level=2] [ref=f1e272]
+                    - generic [ref=f1e273]:
+                      - generic [ref=f1e274]:
+                        - generic [ref=f1e275]: Form CC-305
+                        - generic [ref=f1e276]: Page 1 of 1
+                      - generic [ref=f1e277]:
+                        - generic [ref=f1e278]: OMB Control Number 1250-0005
+                        - generic [ref=f1e279]: Expires 04/30/2026
+                    - strong [ref=f1e280]: Why are you being asked to complete this form?
+                    - paragraph [ref=f1e281]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+                    - paragraph [ref=f1e282]:
+                      - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                      - link "www.dol.gov/ofccp" [ref=f1e283] [cursor=pointer]:
+                        - /url: https://www.dol.gov/ofccp
+                      - text: .
+                    - strong [ref=f1e284]: How do you know if you have a disability?
+                    - paragraph [ref=f1e285]:
+                      - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                      - strong [ref=f1e286]: "Disabilities include, but are not limited to:"
+                    - list [ref=f1e287]:
+                      - listitem [ref=f1e288]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                      - listitem [ref=f1e289]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                      - listitem [ref=f1e290]: Blind or low vision
+                      - listitem [ref=f1e291]: Cancer (past or present)
+                      - listitem [ref=f1e292]: Cardiovascular or heart disease
+                      - listitem [ref=f1e293]: Celiac disease
+                      - listitem [ref=f1e294]: Cerebral palsy
+                      - listitem [ref=f1e295]: Deaf or serious difficulty hearing
+                      - listitem [ref=f1e296]: Diabetes
+                      - listitem [ref=f1e297]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                      - listitem [ref=f1e298]: Epilepsy or other seizure disorder
+                      - listitem [ref=f1e299]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                      - listitem [ref=f1e300]: Intellectual or developmental disability
+                      - listitem [ref=f1e301]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                      - listitem [ref=f1e302]: Missing limbs or partially missing limbs
+                      - listitem [ref=f1e303]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                      - listitem [ref=f1e304]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                      - listitem [ref=f1e305]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                      - listitem [ref=f1e306]: Partial or complete paralysis (any cause)
+                      - listitem [ref=f1e307]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                      - listitem [ref=f1e308]: Short stature (dwarfism)
+                      - listitem [ref=f1e309]: Traumatic brain injury
+                  - generic [ref=f1e312]:
+                    - generic [ref=f1e313]: Disability Status
+                    - generic [ref=f1e314]:
+                      - log [ref=f1e316]
+                      - generic [ref=f1e318]:
+                        - generic [ref=f1e319]:
+                          - generic [ref=f1e320]: Select...
+                          - combobox "Disability Status" [ref=f1e322]
+                        - button "Toggle flyout" [ref=f1e324] [cursor=pointer]:
+                          - img [ref=f1e325]
+                  - paragraph [ref=f1e328]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+                - button "Submit application" [ref=f1e330] [cursor=pointer]
+    - contentinfo [ref=e38]:
+      - generic [ref=e39]:
+        - generic [ref=e40]:
+          - generic [ref=e42]:
+            - generic [ref=e43]:
+              - link " Technology" [ref=e45] [cursor=pointer]:
+                - /url: /technology
+                - generic [ref=e47]: 
+                - text: Technology
+              - link " Nuro Driver" [ref=e49] [cursor=pointer]:
+                - /url: /nuro-driver
+                - generic [ref=e51]: 
+                - text: Nuro Driver
+              - link " Nuro Toolkit" [ref=e53] [cursor=pointer]:
+                - /url: /nuro-toolkit
+                - generic [ref=e55]: 
+                - text: Nuro Toolkit
+              - link " Solutions" [ref=e57] [cursor=pointer]:
+                - /url: /solutions
+                - generic [ref=e59]: 
+                - text: Solutions
+              - link " Company" [ref=e61] [cursor=pointer]:
+                - /url: /company
+                - generic [ref=e63]: 
+                - text: Company
+              - link " Careers" [ref=e65] [cursor=pointer]:
+                - /url: /careers
+                - generic [ref=e67]: 
+                - text: Careers
+              - link " Safety" [ref=e69] [cursor=pointer]:
+                - /url: /safety
+                - generic [ref=e71]: 
+                - text: Safety
+              - link " Press" [ref=e73] [cursor=pointer]:
+                - /url: /press
+                - generic [ref=e75]: 
+                - text: Press
+              - link " Blog" [ref=e77] [cursor=pointer]:
+                - /url: /blog
+                - generic [ref=e79]: 
+                - text: Blog
+            - generic [ref=e80]:
+              - link " Contact" [ref=e82] [cursor=pointer]:
+                - /url: /contact
+                - generic [ref=e84]: 
+                - text: Contact
+              - link " First Responders" [ref=e86] [cursor=pointer]:
+                - /url: /first-responders
+                - generic [ref=e88]: 
+                - text: First Responders
+              - link " Nuro Lucid Uber Robotaxi" [ref=e90] [cursor=pointer]:
+                - /url: /nuro-lucid-uber-robotaxi
+                - generic [ref=e92]: 
+                - text: Nuro Lucid Uber Robotaxi
+              - generic [ref=e94]: Follow
+              - link " LinkedIn" [ref=e96] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/nuro-inc.
+                - generic [ref=e98]: 
+                - text: LinkedIn
+              - link " X" [ref=e100] [cursor=pointer]:
+                - /url: https://x.com/nuro
+                - generic [ref=e102]: 
+                - text: X
+              - link " Instagram" [ref=e104] [cursor=pointer]:
+                - /url: https://www.instagram.com/nuroteam
+                - generic [ref=e106]: 
+                - text: Instagram
+              - link " YouTube" [ref=e108] [cursor=pointer]:
+                - /url: https://www.youtube.com/c/NuroTeam
+                - generic [ref=e110]: 
+                - text: YouTube
+              - link " Facebook" [ref=e112] [cursor=pointer]:
+                - /url: https://www.facebook.com/nurobots
+                - generic [ref=e114]: 
+                - text: Facebook
+          - generic [ref=e116]:
+            - heading "Stay connected" [level=3] [ref=e117]
+            - generic [ref=e118]:
+              - textbox "Email" [ref=e120]:
+                - /placeholder: E-mail
+              - button "Submit" [ref=e121] [cursor=pointer]:
+                - img [ref=e124]
+                - generic [ref=e128]: Submit
+              - generic [ref=e129]:
+                - text: By clicking submit, you acknowledge that you have read and agree to the
+                - link "Nuro Privacy Policy." [ref=e130] [cursor=pointer]:
+                  - /url: /privacy-policy
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - link "Privacy Policy" [ref=e133] [cursor=pointer]:
+              - /url: /privacy-policy
+            - link "Terms of Use" [ref=e134] [cursor=pointer]:
+              - /url: /terms
+            - link "Legal" [ref=e135] [cursor=pointer]:
+              - /url: /legal
+          - generic [ref=e136]:
+            - generic "Nuro logo" [ref=e137]:
+              - img [ref=e138]
+            - generic [ref=e143]: © 2026 Nuro, Inc.

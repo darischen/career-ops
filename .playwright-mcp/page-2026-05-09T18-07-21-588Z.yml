@@ -1,0 +1,22 @@
+- main [ref=e2]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - img "Iridium" [ref=e7]
+      - heading "Enter Your Password" [level=1] [ref=e8]
+      - generic:
+        - paragraph
+    - generic [ref=e10]:
+      - generic [ref=e12]:
+        - generic [ref=e14]:
+          - generic [ref=e15]: daris.chen@gmail.com
+          - link "Edit email address" [ref=e16] [cursor=pointer]:
+            - /url: /u/login/identifier?state=hqFo2SByY0dCSmF3LXlGa2xJWUNzUVVvZE9FOHZPRlkwRmZseKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFU5WG5JVzQ0NGszeTgzRURDUGctTFg3Z3FfMWZ3c3ZTo2NpZNkgS0pBOTVEeEhPUE5PNTZVYU5SZFJZNTdwem42Q01IY22lb3JnaWS0b3JnX21HbnlRODZqNVZ0R1NzOGunb3JnbmFtZadpcmlkaXVt
+            - text: Edit
+        - generic [ref=e18]:
+          - generic [ref=e19]: Password *
+          - textbox "Password" [active] [ref=e20]
+          - switch "Show password" [ref=e21] [cursor=pointer]
+      - paragraph [ref=e22]:
+        - link "Reset your password" [ref=e23] [cursor=pointer]:
+          - /url: /u/login/password-reset-start/hs-9138/daris.chen%40gmail.com?state=hqFo2SByY0dCSmF3LXlGa2xJWUNzUVVvZE9FOHZPRlkwRmZseKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFU5WG5JVzQ0NGszeTgzRURDUGctTFg3Z3FfMWZ3c3ZTo2NpZNkgS0pBOTVEeEhPUE5PNTZVYU5SZFJZNTdwem42Q01IY22lb3JnaWS0b3JnX21HbnlRODZqNVZ0R1NzOGunb3JnbmFtZadpcmlkaXVt
+      - button "LOG IN" [ref=e25] [cursor=pointer]

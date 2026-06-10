@@ -1,0 +1,128 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Maybern" [ref=e6] [cursor=pointer]:
+        - /url: https://maybern.com
+        - img "Maybern" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Maybern’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /maybern
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York Office
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Department" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Engineering
+        - generic [ref=e26]:
+          - heading "Compensation" [level=2] [ref=e27]
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - generic [ref=e30]: $140K – $180K • Offers Equity
+      - generic [ref=e31]:
+        - tablist [ref=e32]:
+          - tab "Overview" [selected] [ref=e33] [cursor=pointer]
+          - tab "Application" [ref=e34] [cursor=pointer]
+        - tabpanel "Overview" [ref=e36]:
+          - generic [ref=e37]:
+            - heading "Who We Are" [level=2] [ref=e38]:
+              - strong [ref=e39]: Who We Are
+            - paragraph [ref=e40]: Maybern is transforming the way private fund managers effectively manage their funds through cutting edge technology. Maybern is founded by top engineering experts with deep knowledge of the fund management space.
+            - paragraph [ref=e41]: Private funds manage $15T in capital and are growing at 20% YoY, but with increasing regulatory scrutiny and investor demands for transparency, the need for world class software to help private fund CFOs is crucial.
+            - paragraph [ref=e42]: This is where Maybern comes in.
+            - paragraph [ref=e43]:
+              - text: "We are equipping fund managers with intuitive, flexible fund management software, enabling private investment managers to focus on what they do best:"
+              - strong [ref=e44]: driving returns for their investors.
+              - text: We are backed by leading venture capital firms and a large number of strategic investors.
+            - paragraph [ref=e45]: Maybern is an NYC based company with a strong in-office culture to drive collaboration, and we are looking to make strong additions to our team.
+            - paragraph [ref=e46]
+            - heading "What We’re Looking For" [level=2] [ref=e47]:
+              - strong [ref=e48]: What We’re Looking For
+            - paragraph [ref=e49]: We are looking for a seasoned product-focused engineer to help build and develop our core product and workflows. The problems we solve are highly complex and require a product driven mindset, expert level technical skills and business acumen to drive the best outcomes for our customers. In order to be successful in this role, you’ll contribute ideas to the product and collaborate with the team on technical decisions.
+            - paragraph [ref=e50]
+            - heading "What You'll Do" [level=2] [ref=e51]:
+              - strong [ref=e52]: What You'll Do
+            - paragraph [ref=e53]: To thrive in this role, you must be an entrepreneurial engineer who enjoys getting into the weeds.
+            - list [ref=e54]:
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]:
+                  - strong [ref=e57]: Build
+                  - text: ": Build, test, and deploy software in a continuous manner"
+              - listitem [ref=e58]:
+                - paragraph [ref=e59]:
+                  - strong [ref=e60]: Lead
+                  - text: ": Architect, scope, and build core parts of our system from the ground up"
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]:
+                  - strong [ref=e63]: Partner
+                  - text: ": Work closely with problem experts to design elegant, flexible solutions that solve our early clients' problems while being forward-thinking about future use cases"
+            - paragraph [ref=e64]
+            - heading "This Could Be a Great Fit If You..." [level=2] [ref=e65]:
+              - strong [ref=e66]: This Could Be a Great Fit If You...
+            - list [ref=e67]:
+              - listitem [ref=e68]:
+                - paragraph [ref=e69]: Have 2+ years of experience working with server-side languages (e.g. Python, Ruby, Java) and web frameworks (e.g. Django, Rails)
+              - listitem [ref=e70]:
+                - paragraph [ref=e71]: "Experience with one of the following Javascript frameworks is desired: Angular, React, Ember, and Backbone. React preferred"
+              - listitem [ref=e72]:
+                - paragraph [ref=e73]: Solid grasp of relational databases and transactions.
+              - listitem [ref=e74]:
+                - paragraph [ref=e75]: Knowledge of platform/cloud technologies and distributed systems. AWS experience is a bonus.
+              - listitem [ref=e76]:
+                - paragraph [ref=e77]: Are obsessed with details and excited to "get into the weeds"
+              - listitem [ref=e78]:
+                - paragraph [ref=e79]: Have excellent written and verbal communication skills
+              - listitem [ref=e80]:
+                - paragraph [ref=e81]: Capacity to work in high growth, fast-paced environments, and can adapt to change
+            - paragraph [ref=e82]:
+              - emphasis [ref=e83]: Candidates must be authorized to work in the U.S. without employer sponsorship for this role.
+            - heading "Benefits" [level=2] [ref=e84]:
+              - strong [ref=e85]: Benefits
+            - list [ref=e86]:
+              - listitem [ref=e87]:
+                - paragraph [ref=e88]: "We offer a competitive salary + equity package, comprehensive benefits, and a flexible family-friendly work environment. Some of our perks include:"
+                - list [ref=e89]:
+                  - listitem [ref=e90]:
+                    - paragraph [ref=e91]: Comprehensive healthcare benefits
+                    - list [ref=e92]:
+                      - listitem [ref=e93]:
+                        - paragraph [ref=e94]: Maybern covers 100% of medical, dental, and vision premiums
+                      - listitem [ref=e95]:
+                        - paragraph [ref=e96]: HSA & FSA plans
+                  - listitem [ref=e97]:
+                    - paragraph [ref=e98]: Family-Friendly policies
+                    - list [ref=e99]:
+                      - listitem [ref=e100]:
+                        - paragraph [ref=e101]: Paid parental leave
+                  - listitem [ref=e102]:
+                    - paragraph [ref=e103]: Flexible schedule
+                    - list [ref=e104]:
+                      - listitem [ref=e105]:
+                        - paragraph [ref=e106]: Flexible PTO / sick leave
+                      - listitem [ref=e107]:
+                        - paragraph [ref=e108]: WFH as needed to fit your needs
+                  - listitem [ref=e109]:
+                    - paragraph [ref=e110]: 401k
+          - link "Apply for this Job" [ref=e111] [cursor=pointer]:
+            - /url: /maybern/b9df4d9a-7247-4a3c-b94a-dd1e23ee1c22/application
+            - button "Apply for this Job" [ref=e112]
+  - contentinfo [ref=e113]:
+    - link "Learn more about Ashby" [ref=e114] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e115]: Powered by
+      - img "Ashby" [ref=e116]
+    - paragraph [ref=e122]:
+      - link "Privacy Policy" [ref=e123] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e124] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e125] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

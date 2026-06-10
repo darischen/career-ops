@@ -1,0 +1,164 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner:
+      - text: ×
+      - generic [ref=e3]:
+        - link "Skip to Content" [ref=e4] [cursor=pointer]:
+          - /url: "#page"
+        - generic [ref=e7]:
+          - link [ref=e11] [cursor=pointer]:
+            - /url: /
+          - button "Open Menu" [ref=e14] [cursor=pointer]:
+            - generic [ref=e15]: Open Menu
+    - main [ref=e20]:
+      - article [ref=e21]:
+        - generic [ref=e27]:
+          - heading "Careers" [level=2] [ref=e33]
+          - generic [ref=e38]:
+            - paragraph [ref=e39]: Stability AI is the enterprise-ready creative partner for teams and creators, delivering professional-grade generative AI tools and solutions for media generation and editing across image, video, 3D, and audio to enable creative production at scale. Stability AI sparked the generative AI revolution with the release of Stable Diffusion in August 2022, putting generative technology in the hands of millions of creators globally and cementing its position as a leader in the field. Stable Diffusion models have since been downloaded more than 350 million times.
+            - paragraph [ref=e40]: "Recognized by Fortune as one of the 50 AI Innovators and by TIME as one of the Most Influential Companies, with Stable Audio named to TIME’s Best Inventions list. In June 2024, Stability AI entered its next phase of growth with the appointment of a renowned leadership team: Sean Parker as Executive Chairman, Prem Akkaraju as CEO, and James Cameron as Board Member."
+            - paragraph [ref=e41]: Come join us as we transform enterprise creative production!
+          - iframe [ref=e47]:
+            
+    - contentinfo [ref=e48]:
+      - generic [ref=e54]:
+        - paragraph [ref=e68]: Stability AI is unlocking the power of open-source generative AI to expand human creativity. We build world-class models that are accessible, adaptable, and designed to empower creators, developers, and enterprises everywhere.
+        - generic [ref=e73]:
+          - heading "Company" [level=4] [ref=e74]
+          - paragraph [ref=e75]:
+            - link "Board of Directors" [ref=e76] [cursor=pointer]:
+              - /url: /board-of-directors
+          - paragraph [ref=e77]:
+            - link "Partners" [ref=e78] [cursor=pointer]:
+              - /url: /partners
+          - paragraph [ref=e79]:
+            - link "Safety" [ref=e80] [cursor=pointer]:
+              - /url: /safety
+          - paragraph [ref=e81]:
+            - link "Research" [ref=e82] [cursor=pointer]:
+              - /url: /research
+          - paragraph [ref=e83]:
+            - link "Careers" [ref=e84] [cursor=pointer]:
+              - /url: /careers
+          - paragraph [ref=e85]:
+            - link "News" [ref=e86] [cursor=pointer]:
+              - /url: /news
+          - paragraph [ref=e87]:
+            - link "Brand Resources" [ref=e88] [cursor=pointer]:
+              - /url: /s/Stability-AI-Brand-Guidelines.pdf
+        - generic [ref=e93]:
+          - heading "Models" [level=4] [ref=e94]
+          - paragraph [ref=e95]:
+            - link "Image" [ref=e96] [cursor=pointer]:
+              - /url: /stable-image
+          - paragraph [ref=e97]:
+            - link "Video" [ref=e98] [cursor=pointer]:
+              - /url: /stable-video
+          - paragraph [ref=e99]:
+            - link "Audio" [ref=e100] [cursor=pointer]:
+              - /url: /stable-audio
+          - paragraph [ref=e101]:
+            - link "3D" [ref=e102] [cursor=pointer]:
+              - /url: /stable-3d
+        - generic [ref=e107]:
+          - heading "Deployment" [level=4] [ref=e108]
+          - paragraph [ref=e109]:
+            - link "Stability AI License" [ref=e110] [cursor=pointer]:
+              - /url: /license
+          - paragraph [ref=e111]:
+            - link "Community License Agreement" [ref=e112] [cursor=pointer]:
+              - /url: /community-license-agreement
+          - paragraph [ref=e113]:
+            - link "Platform API" [ref=e114] [cursor=pointer]:
+              - /url: https://platform.stability.ai/?_gl=1*1c3kyrj*_gcl_au*NjI1NTE2NzgyLjE3NTEwNjA1MjY.*_ga*ODk2ODYxMzU1LjE3NTA4NzcyMzQ.*_ga_W4CMY55YQZ*czE3NTIyMDAwMTgkbzIzJGcxJHQxNzUyMjAwNjYxJGo2MCRsMCRoMA..
+          - paragraph [ref=e115]:
+            - link "Cloud Platforms" [ref=e116] [cursor=pointer]:
+              - /url: /partners
+        - generic [ref=e121]:
+          - heading "ResourceS" [level=4] [ref=e122]
+          - paragraph [ref=e123]:
+            - link "Learning Hub" [ref=e124] [cursor=pointer]:
+              - /url: /learning-hub
+          - paragraph [ref=e125]:
+            - link "Customer Stories" [ref=e126] [cursor=pointer]:
+              - /url: /customer-stories
+        - generic [ref=e131]:
+          - heading "Contact Us" [level=4] [ref=e132]
+          - paragraph [ref=e133]:
+            - link "press@stability.ai" [ref=e134] [cursor=pointer]:
+              - /url: mailto:mailto:press@stability.ai?
+          - paragraph [ref=e135]:
+            - link "partners@stability.ai" [ref=e136] [cursor=pointer]:
+              - /url: mailto:mailto:partners@stability.ai?
+          - paragraph [ref=e137]:
+            - link "Submit a Support Request" [ref=e138] [cursor=pointer]:
+              - /url: https://kb.stability.ai/knowledge-base/kb-tickets/new
+        - generic [ref=e143]:
+          - heading "Legal" [level=4] [ref=e144]
+          - paragraph [ref=e145]:
+            - link "Acceptable Use Policy" [ref=e146] [cursor=pointer]:
+              - /url: /use-policy
+          - paragraph [ref=e147]:
+            - link "Privacy Policy" [ref=e148] [cursor=pointer]:
+              - /url: /privacypolicy
+          - paragraph [ref=e149]:
+            - link "Terms of Service" [ref=e150] [cursor=pointer]:
+              - /url: /terms-of-service
+          - paragraph [ref=e151]:
+            - link "Trust Center" [ref=e152] [cursor=pointer]:
+              - /url: https://trust.stability.ai/
+          - paragraph [ref=e153]:
+            - link "Your Privacy Choices" [ref=e154] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e159]:
+          - heading "Applications" [level=4] [ref=e160]
+          - paragraph [ref=e161]:
+            - link "Brand Studio" [ref=e162] [cursor=pointer]:
+              - /url: /brandstudio
+          - paragraph [ref=e163]:
+            - link "Stable Audio" [ref=e164] [cursor=pointer]:
+              - /url: https://stableaudio.com/
+        - heading "Join the Mailing List" [level=4] [ref=e170]
+        - generic [ref=e176]:
+          - generic [ref=e177]:
+            - generic [ref=e178]: Email*
+            - textbox "Email*" [ref=e180]:
+              - /placeholder: ""
+          - generic [ref=e181]:
+            - generic [ref=e182]: Which of our products or services are you interested in?*
+            - combobox "Which of our products or services are you interested in?*" [ref=e184]:
+              - option "Please Select" [disabled] [selected]
+              - option "Enterprise solutions"
+              - option "Gaming"
+              - option "Image generation & editing"
+              - option "Audio generation & editing"
+              - option "3D/4D models"
+              - option "Video models"
+              - option "Dream Studio"
+              - option "Partnership opportunities"
+          - button "Sign up" [ref=e187] [cursor=pointer]
+        - navigation [ref=e193]:
+          - link "Discord" [ref=e194] [cursor=pointer]:
+            - /url: https://discord.gg/stablediffusion
+            - img [ref=e196]
+          - link "LinkedIn" [ref=e199] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/stability-ai/mycompany/
+            - img [ref=e201]
+          - link "X" [ref=e204] [cursor=pointer]:
+            - /url: https://x.com/StabilityAI?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+            - img [ref=e206]
+          - link "YouTube" [ref=e209] [cursor=pointer]:
+            - /url: https://www.youtube.com/@Stability_AI
+            - img [ref=e211]
+        - paragraph [ref=e219]: © Stability AI Ltd, 2026
+  - region "Cookie banner" [ref=e220]:
+    - dialog "Privacy" [ref=e221]:
+      - generic [ref=e222]:
+        - generic [ref=e225]: By clicking “Accept All Cookies”, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively.
+        - generic [ref=e227]:
+          - button "Cookies Settings" [ref=e228] [cursor=pointer]
+          - generic [ref=e229]:
+            - button "Reject All" [ref=e230] [cursor=pointer]
+            - button "Accept All Cookies" [ref=e231] [cursor=pointer]
+        - button "Close" [ref=e233] [cursor=pointer]
+  - iframe

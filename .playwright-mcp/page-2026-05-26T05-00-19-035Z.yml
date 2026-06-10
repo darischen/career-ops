@@ -1,0 +1,385 @@
+- generic [active] [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - link "Striveworks Logo" [ref=e7] [cursor=pointer]:
+        - /url: https://www.striveworks.com?gh_src=Simplify
+        - img "Striveworks Logo" [ref=e8]
+      - generic [ref=e9]:
+        - link "Back to jobs" [ref=e10] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/striveworks?gh_src=Simplify
+          - img [ref=e11]
+          - text: Back to jobs
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - heading "Machine Learning Engineer (Active Secret Clearance)" [level=1] [ref=e16]
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e20]: Austin, Texas, United States
+          - button "Apply" [ref=e21] [cursor=pointer]
+        - generic [ref=e23]:
+          - heading "Build, Deploy, and Maintain AI for an Unpredictable World" [level=2] [ref=e24]:
+            - strong [ref=e25]: Build, Deploy, and Maintain AI for an Unpredictable World
+          - paragraph [ref=e26]: Striveworks helps organizations harness the power of artificial intelligence to solve real-world national security and business challenges by serving as the command center between data, models, and business outcomes. Founded by data scientists and engineers, Striveworks set out to make the journey from deployment to ongoing optimization simple and effective.
+          - paragraph [ref=e27]: With Striveworks, organizations aren’t just deploying AI—they’re building systems that remain reliable, adaptable, and ready to scale in an unpredictable world. Mission-critical operations require models that perform where they’re deployed, scale as workloads grow, and adapt rapidly as AI capabilities advance. Striveworks meets these demands—increasing reliability and performance while lowering costs and enabling confident, data-driven decision-making in dynamic environments.
+          - heading "The Role" [level=2] [ref=e28]:
+            - strong [ref=e29]: The Role
+          - paragraph [ref=e30]: As a Machine Learning Engineer at Striveworks, you’ll be challenged—and trusted—on day one to be a core contributor to both the customer-driven projects and the enduring products of the company. You will represent Striveworks as a technology builder on projects and solutions that leverage Chariot, our proprietary AI operations (AIOps) platform, and you will inform and contribute to future capabilities of that platform. You will inform, envision, and help extend Striveworks’ core software products. You will work alongside data scientists, software engineers, and DevOps engineers to transform machine learning models into operational capabilities.
+          - paragraph [ref=e31]: You’re right for this opportunity if you value and possess technical expertise and enjoy pushing the boundaries of your own capabilities. You’re outcome-driven and are passionate about applying both software engineering and data science to solve real-world problems. You know that building customer-centric solutions, communicating clearly, and capturing repeatable value into productized capabilities are all important.
+          - paragraph [ref=e32]: "Your day-to-day will include:"
+          - list [ref=e33]:
+            - listitem [ref=e34]: Developing machine learning models and custom analytics that are applied to image, video, text, geospatial, time series, and structured data
+            - listitem [ref=e35]: Orchestrating and automating complex data engineering and analytic pipelines
+            - listitem [ref=e36]: Envisioning, specifying, and, at times, designing and implementing core product functionality
+            - listitem [ref=e37]: Conducting mission-critical fieldwork in support of customers and other stakeholders
+          - paragraph [ref=e38]: This position offers a hybrid/on-site work environment at our office in northwest Austin, TX. You will be expected to travel up to 30% of the time.
+          - heading "The Right Fit" [level=2] [ref=e39]:
+            - strong [ref=e40]: The Right Fit
+          - paragraph [ref=e41]: In addition to the specific skills and expertise detailed below, we are looking for individuals who share our values. Sharing a set of values allows us to move at the speed of trust.
+          - paragraph [ref=e42]: We value a high-trust work environment where people respect each other and use candor kindly and constructively. We value work that intersects passion and perseverance, we geek out about the potential of our contributions, and we find joy in working hard on things that matter. Finally, we value taking ownership, having agency, and feeling individual responsibility for collective results.
+          - paragraph [ref=e43]: "Here’s what we’re looking for:"
+          - list [ref=e44]:
+            - listitem [ref=e45]: BS degree in computer science, machine learning, or a related discipline and 2+ years of relevant experience
+            - listitem [ref=e46]: Experience contributing to data-centric systems (e.g., data engineering, data cleaning, ETL pipelines, machine learning, and other production analytics)
+            - listitem [ref=e47]: Proficiency in software engineering fundamentals to include algorithms, data structures, design patterns, and at least one systems programming language (e.g., Go, Rust, C++, Java, Scala, etc.)
+            - listitem [ref=e48]: Proficiency in Python and exposure to libraries like TensorFlow, PyTorch, and/or scikit-learn
+            - listitem [ref=e49]: Exposure to modern software engineering tools and processes (Agile, version control, issue tracking, CI/CD, debugging, etc.)
+            - listitem [ref=e50]: Active Secret (or above) US security clearance
+            - listitem [ref=e51]: Due to the nature of this role, candidates must have US citizenship
+          - heading "The Wish List" [level=2] [ref=e52]:
+            - strong [ref=e53]: The Wish List
+          - paragraph [ref=e54]: "We’re very interested in candidates who possess the above qualifications, and we appreciate and consider the addition of:"
+          - list [ref=e55]:
+            - listitem [ref=e56]: Advanced degree in data science, machine learning, computer science, or a related discipline
+            - listitem [ref=e57]: Excellence in Python and deep knowledge of libraries like TensorFlow, PyTorch, and/or scikit-learn
+            - listitem [ref=e58]: Knowledge of relevant architectures and design patterns for client-server systems (e.g., asynchronous programming, REST, GraphQL, React, Vue, Angular)
+            - listitem [ref=e59]: Experience implementing and deploying software into containerized or cloud environments (e.g., Docker, Kubernetes, infrastructure as code, major cloud architectures)
+            - listitem [ref=e60]: Experience with machine learning applied to imagery and/or video data
+            - listitem [ref=e61]: Experience building agentic systems, agentic workflows, or AI agents
+            - listitem [ref=e62]: Experience defining, scoping, planning, and delivering complex technical solutions
+            - listitem [ref=e63]: Experience delivering technology solutions in secure government environments
+          - paragraph [ref=e64]: The anticipated base pay range for this position is $140,000–$165,000/year. Striveworks’ total compensation package includes a competitive base salary, equity grants, and cash bonuses.
+          - heading "The Benefits" [level=2] [ref=e65]:
+            - strong [ref=e66]: The Benefits
+          - list [ref=e67]:
+            - listitem [ref=e68]: Medical/dental/vision insurance
+            - listitem [ref=e69]: Voluntary life, long-term disability, accident, and hospital indemnity insurance
+            - listitem [ref=e70]: HSA and FSA (including dependent care FSA) plans
+            - listitem [ref=e71]: 401(k) plan
+            - listitem [ref=e72]: Unlimited PTO
+            - listitem [ref=e73]: Paid parental leave
+          - paragraph [ref=e74]:
+            - text: Check us out on
+            - link "Built In" [ref=e75] [cursor=pointer]:
+              - /url: https://builtin.com/company/striveworks
+            - text: "!"
+          - paragraph [ref=e76]:
+            - emphasis [ref=e77]: Striveworks is an Equal Opportunity Employer and does not discriminate in employment on the basis of race, color, religion, belief, sex (including pregnancy and gender identity or expression), national origin, social or ethnic origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factors. Striveworks will not tolerate discrimination or harassment of any kind.
+          - paragraph [ref=e78]:
+            - emphasis [ref=e79]: If you require assistance or a reasonable accommodation in the application process, please contact Operations at
+            - link "hr@striveworks.us" [ref=e80] [cursor=pointer]:
+              - /url: mailto:hr@striveworks.us
+              - emphasis [ref=e81]: hr@striveworks.us
+            - emphasis [ref=e82]: .
+          - paragraph [ref=e83]:
+            - emphasis [ref=e84]: In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete an employment eligibility verification form upon hire.
+          - paragraph [ref=e85]:
+            - emphasis [ref=e86]: Striveworks is a participating employer in the E-Verify program.
+        - generic [ref=e87]:
+          - img [ref=e88]
+          - generic [ref=e90]:
+            - paragraph [ref=e91]: Create a Job Alert
+            - paragraph [ref=e92]: Interested in building your career at Striveworks? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e93] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=striveworks&source=job_alert_post
+      - separator [ref=e94]
+      - generic [ref=e95]:
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - heading "Apply for this job" [level=2] [ref=e99]
+            - generic [ref=e100]:
+              - paragraph [ref=e102]: "*"
+              - paragraph [ref=e103]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e106] [cursor=pointer]
+        - generic [ref=e107]:
+          - generic [ref=e108]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: First Name*
+              - textbox "First Name" [ref=e113]
+            - generic [ref=e116]:
+              - generic [ref=e117]: Last Name*
+              - textbox "Last Name" [ref=e118]
+            - generic [ref=e121]:
+              - generic [ref=e122]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e123]
+            - generic [ref=e126]:
+              - generic [ref=e127]: Email*
+              - textbox "Email" [ref=e128]
+            - group "Phone" [ref=e130]:
+              - generic [ref=e131]: Phone
+              - generic [ref=e134]:
+                - generic [ref=e135]: Country*
+                - generic [ref=e136]:
+                  - log [ref=e138]
+                  - generic [ref=e140]:
+                    - combobox "Country" [ref=e143]
+                    - button "Toggle flyout" [ref=e145] [cursor=pointer]:
+                      - img [ref=e146]
+                  - textbox
+              - generic [ref=e150]:
+                - generic [ref=e151]: Phone*
+                - textbox "Phone" [ref=e153]
+            - generic [ref=e154]:
+              - generic [ref=e156]:
+                - generic [ref=e157]: Location (City)*
+                - generic [ref=e158]:
+                  - log [ref=e160]
+                  - combobox "Location (City)" [ref=e165]
+                  - textbox
+              - button "Locate me" [ref=e166] [cursor=pointer]
+            - group "Resume/CV*" [ref=e168]:
+              - generic [ref=e169]: Resume/CV*
+              - generic [ref=e171]:
+                - generic [ref=e173]:
+                  - button "Attach" [ref=e174] [cursor=pointer]
+                  - generic [ref=e175]: Attach
+                  - button "Attach" [ref=e176]
+                - button "Dropbox" [ref=e178] [cursor=pointer]
+                - button "Google Drive" [ref=e180] [cursor=pointer]
+                - generic [ref=e182]:
+                  - button "Enter manually" [ref=e183] [cursor=pointer]
+                  - generic [ref=e184]: Enter manually
+                - paragraph [ref=e185]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e187]:
+              - generic [ref=e188]: Cover Letter
+              - generic [ref=e190]:
+                - generic [ref=e192]:
+                  - button "Attach" [ref=e193] [cursor=pointer]
+                  - generic [ref=e194]: Attach
+                  - button "Attach" [ref=e195]
+                - button "Dropbox" [ref=e197] [cursor=pointer]
+                - button "Google Drive" [ref=e199] [cursor=pointer]
+                - generic [ref=e201]:
+                  - button "Enter manually" [ref=e202] [cursor=pointer]
+                  - generic [ref=e203]: Enter manually
+                - paragraph [ref=e204]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e205]:
+            - generic [ref=e206]:
+              - separator [ref=e207]
+              - paragraph [ref=e209]: Education
+              - generic [ref=e211]:
+                - generic [ref=e212]: School*
+                - generic [ref=e213]:
+                  - log [ref=e215]
+                  - generic [ref=e217]:
+                    - generic [ref=e218]:
+                      - generic [ref=e219]: Select...
+                      - combobox "School" [ref=e221]
+                    - button "Toggle flyout" [ref=e223] [cursor=pointer]:
+                      - img [ref=e224]
+                  - textbox
+              - generic [ref=e227]:
+                - generic [ref=e228]: Degree*
+                - generic [ref=e229]:
+                  - log [ref=e231]
+                  - generic [ref=e233]:
+                    - generic [ref=e234]:
+                      - generic [ref=e235]: Select...
+                      - combobox "Degree" [ref=e237]
+                    - button "Toggle flyout" [ref=e239] [cursor=pointer]:
+                      - img [ref=e240]
+                  - textbox
+              - generic [ref=e245]:
+                - generic [ref=e246]: End date year
+                - spinbutton "End date year" [ref=e247]
+            - button "Add another" [ref=e248] [cursor=pointer]
+          - generic [ref=e249]:
+            - separator [ref=e250]
+            - generic [ref=e253]:
+              - generic [ref=e254]: How did you hear about Striveworks?*
+              - generic [ref=e255]:
+                - log [ref=e257]
+                - generic [ref=e259]:
+                  - generic [ref=e260]:
+                    - generic [ref=e261]: Select...
+                    - combobox "How did you hear about Striveworks?" [ref=e263]
+                  - button "Toggle flyout" [ref=e265] [cursor=pointer]:
+                    - img [ref=e266]
+                - textbox
+            - generic [ref=e270]:
+              - generic [ref=e271]: Due to the nature of this role, candidates must have US citizenship, do you meet that requirement?*
+              - generic [ref=e272]:
+                - log [ref=e274]
+                - generic [ref=e276]:
+                  - generic [ref=e277]:
+                    - generic [ref=e278]: Select...
+                    - combobox "Due to the nature of this role, candidates must have US citizenship, do you meet that requirement?" [ref=e280]
+                  - button "Toggle flyout" [ref=e282] [cursor=pointer]:
+                    - img [ref=e283]
+                - textbox
+            - generic [ref=e287]:
+              - generic [ref=e288]: This role requires an active Secret (or above) U.S. security clearance. Do you meet that requirement?*
+              - generic [ref=e289]:
+                - log [ref=e291]
+                - generic [ref=e293]:
+                  - generic [ref=e294]:
+                    - generic [ref=e295]: Select...
+                    - combobox "This role requires an active Secret (or above) U.S. security clearance. Do you meet that requirement?" [ref=e297]
+                  - button "Toggle flyout" [ref=e299] [cursor=pointer]:
+                    - img [ref=e300]
+                - textbox
+            - generic [ref=e304]:
+              - generic [ref=e305]: What level of security clearance do you currently hold?*
+              - generic [ref=e306]:
+                - log [ref=e308]
+                - generic [ref=e310]:
+                  - generic [ref=e311]:
+                    - generic [ref=e312]: Select...
+                    - combobox "What level of security clearance do you currently hold?" [ref=e314]
+                  - button "Toggle flyout" [ref=e316] [cursor=pointer]:
+                    - img [ref=e317]
+                - textbox
+            - generic [ref=e321]:
+              - generic [ref=e322]: Are you willing and able to work hybrid/on-site at our office in Austin, Texas?*
+              - generic [ref=e323]:
+                - log [ref=e325]
+                - generic [ref=e327]:
+                  - generic [ref=e328]:
+                    - generic [ref=e329]: Select...
+                    - combobox "Are you willing and able to work hybrid/on-site at our office in Austin, Texas?" [ref=e331]
+                  - button "Toggle flyout" [ref=e333] [cursor=pointer]:
+                    - img [ref=e334]
+                - textbox
+            - generic [ref=e338]:
+              - generic [ref=e339]: Are you willing to travel up to 30%?*
+              - generic [ref=e340]:
+                - log [ref=e342]
+                - generic [ref=e344]:
+                  - generic [ref=e345]:
+                    - generic [ref=e346]: Select...
+                    - combobox "Are you willing to travel up to 30%?" [ref=e348]
+                  - button "Toggle flyout" [ref=e350] [cursor=pointer]:
+                    - img [ref=e351]
+                - textbox
+            - generic [ref=e355]:
+              - generic [ref=e356]: LinkedIn URL*
+              - textbox "LinkedIn URL" [ref=e357]
+            - generic [ref=e360]:
+              - generic [ref=e361]: GitHub URL
+              - textbox "GitHub URL" [ref=e362]
+          - generic [ref=e363]:
+            - separator [ref=e364]
+            - generic [ref=e365]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e366]
+              - paragraph [ref=e367]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e368]: As set forth in Striveworks’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e371]:
+              - generic [ref=e372]: Gender
+              - generic [ref=e373]:
+                - log [ref=e375]
+                - generic [ref=e377]:
+                  - generic [ref=e378]:
+                    - generic [ref=e379]: Select...
+                    - combobox "Gender" [ref=e381]
+                  - button "Toggle flyout" [ref=e383] [cursor=pointer]:
+                    - img [ref=e384]
+            - generic [ref=e386]:
+              - generic [ref=e388]:
+                - generic [ref=e389]: Are you Hispanic/Latino?
+                - generic [ref=e390]:
+                  - log [ref=e392]
+                  - generic [ref=e394]:
+                    - generic [ref=e395]:
+                      - generic [ref=e396]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e398]
+                    - button "Toggle flyout" [ref=e400] [cursor=pointer]:
+                      - img [ref=e401]
+              - link "Race & Ethnicity Definitions" [ref=e403] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e404]:
+              - paragraph [ref=e405]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e406]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e407]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e408]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e409]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e412]:
+              - generic [ref=e413]: Veteran Status
+              - generic [ref=e414]:
+                - log [ref=e416]
+                - generic [ref=e418]:
+                  - generic [ref=e419]:
+                    - generic [ref=e420]: Select...
+                    - combobox "Veteran Status" [ref=e422]
+                  - button "Toggle flyout" [ref=e424] [cursor=pointer]:
+                    - img [ref=e425]
+            - separator [ref=e427]
+            - generic [ref=e428]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e429]
+              - generic [ref=e430]:
+                - generic [ref=e431]:
+                  - generic [ref=e432]: Form CC-305
+                  - generic [ref=e433]: Page 1 of 1
+                - generic [ref=e434]:
+                  - generic [ref=e435]: OMB Control Number 1250-0005
+                  - generic [ref=e436]: Expires 04/30/2026
+              - strong [ref=e437]: Why are you being asked to complete this form?
+              - paragraph [ref=e438]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e439]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e440] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e441]: How do you know if you have a disability?
+              - paragraph [ref=e442]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e443]: "Disabilities include, but are not limited to:"
+              - list [ref=e444]:
+                - listitem [ref=e445]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e446]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e447]: Blind or low vision
+                - listitem [ref=e448]: Cancer (past or present)
+                - listitem [ref=e449]: Cardiovascular or heart disease
+                - listitem [ref=e450]: Celiac disease
+                - listitem [ref=e451]: Cerebral palsy
+                - listitem [ref=e452]: Deaf or serious difficulty hearing
+                - listitem [ref=e453]: Diabetes
+                - listitem [ref=e454]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e455]: Epilepsy or other seizure disorder
+                - listitem [ref=e456]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e457]: Intellectual or developmental disability
+                - listitem [ref=e458]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e459]: Missing limbs or partially missing limbs
+                - listitem [ref=e460]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e461]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e462]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e463]: Partial or complete paralysis (any cause)
+                - listitem [ref=e464]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e465]: Short stature (dwarfism)
+                - listitem [ref=e466]: Traumatic brain injury
+            - generic [ref=e469]:
+              - generic [ref=e470]: Disability Status
+              - generic [ref=e471]:
+                - log [ref=e473]
+                - generic [ref=e475]:
+                  - generic [ref=e476]:
+                    - generic [ref=e477]: Select...
+                    - combobox "Disability Status" [ref=e479]
+                  - button "Toggle flyout" [ref=e481] [cursor=pointer]:
+                    - img [ref=e482]
+            - paragraph [ref=e485]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - separator [ref=e486]
+          - generic [ref=e488]:
+            - paragraph [ref=e490]: We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.
+            - link "Learn more" [ref=e491] [cursor=pointer]:
+              - /url: http://app3.greenhouse.io/ai_opt_out_request/job_post/7713741003/ai_opt_out
+          - button "Submit application" [ref=e493] [cursor=pointer]
+  - contentinfo [ref=e494]:
+    - generic [ref=e495]:
+      - paragraph [ref=e496]: Powered by
+      - link "Greenhouse logo" [ref=e497] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e498]
+  - iframe [ref=e512]:
+    - generic [ref=f1e6]:
+      - text: protected by
+      - strong [ref=f1e7]: reCAPTCHA

@@ -1,0 +1,91 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Outtake" [ref=e6] [cursor=pointer]:
+        - /url: https://www.outtake.ai/
+        - img "Outtake" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Outtake’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /outtake?utm_source=LinkedInJobSlot
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer (General)" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York City
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]:
+            - generic [ref=e29]: Engineering
+      - generic [ref=e30]:
+        - tablist [ref=e31]:
+          - tab "Overview" [ref=e32] [cursor=pointer]
+          - tab "Application" [selected] [ref=e33] [cursor=pointer]
+        - tabpanel "Application" [ref=e35]:
+          - generic [ref=e36]:
+            - button "Choose File" [ref=e37]
+            - generic [ref=e39]:
+              - generic [ref=e40]:
+                - img [ref=e42]
+                - heading "Autofill from resume" [level=3] [ref=e44]
+              - paragraph [ref=e45]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e47] [cursor=pointer]
+          - generic [ref=e49]:
+            - paragraph [ref=e52]
+            - generic [ref=e53]:
+              - generic [ref=e54]: Name*
+              - textbox "Name*" [ref=e56] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e57]:
+              - generic [ref=e58]: Email*
+              - textbox "Email*" [ref=e60] [cursor=pointer]:
+                - /placeholder: hello@example.com...
+            - generic [ref=e61]:
+              - generic [ref=e62]: Phone number*
+              - textbox "Phone number*" [ref=e63] [cursor=pointer]:
+                - /placeholder: 1-415-555-1234...
+            - generic [ref=e64]:
+              - generic [ref=e65]: Resume*
+              - button "Resume*" [ref=e66]
+              - generic [ref=e67]:
+                - button "Upload File" [ref=e68] [cursor=pointer]:
+                  - img [ref=e69]
+                  - generic [ref=e71]: Upload File
+                - paragraph [ref=e72]: or drag and drop here
+            - generic [ref=e73]:
+              - generic [ref=e74]: LinkedIn
+              - textbox "LinkedIn" [ref=e76] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e77]:
+              - generic [ref=e78]: We have a 5-day in-person culture. Are you able to work from our waterfront office in Williamsburg five days a week? *
+              - generic [ref=e79]:
+                - button "Yes" [ref=e80] [cursor=pointer]
+                - button "No" [ref=e81] [cursor=pointer]
+            - generic [ref=e82]:
+              - generic [ref=e83]: Anything else we should know? (Optional)
+              - textbox "Anything else we should know? (Optional)" [ref=e84] [cursor=pointer]:
+                - /placeholder: Type here...
+          - button "Submit Application" [ref=e85] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e86]
+  - contentinfo [ref=e88]:
+    - link "Learn more about Ashby" [ref=e89] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e90]: Powered by
+      - img "Ashby" [ref=e91]
+    - paragraph [ref=e97]:
+      - link "Privacy Policy" [ref=e98] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e99] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e100] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

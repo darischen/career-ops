@@ -1,0 +1,275 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - generic "This website uses cookies and similar technology to better understand how visitors use our site and offer you a more personalized experience. Click Accept Cookies to agree to our use of cookies or Decline if you do not want us to use cookies. See our Cookie Policy for details." [ref=e9]:
+    - paragraph [ref=e11]:
+      - generic [ref=e12]:
+        - text: This website uses cookies and similar technology to better understand how visitors use our site and offer you a more personalized experience. Click Accept Cookies to agree to our use of cookies or Decline if you do not want us to use cookies. See our
+        - link "Cookie Policy" [ref=e13] [cursor=pointer]:
+          - /url: https://www.allstatecorporation.com/careers/cookie-policy-work-day.aspx
+        - text: for details.
+    - generic [ref=e14]:
+      - button "Decline" [ref=e17] [cursor=pointer]
+      - button "Accept Cookies" [ref=e21] [cursor=pointer]
+  - banner [ref=e24]:
+    - generic [ref=e26]:
+      - link "careers home" [ref=e29] [cursor=pointer]:
+        - /url: http://www.allstate.jobs
+        - img "careers home" [ref=e30]
+      - generic [ref=e31]:
+        - heading [level=1]
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - button "English" [ref=e36] [cursor=pointer]:
+            - generic [ref=e40]: English
+          - button "Sign In" [ref=e42] [cursor=pointer]:
+            - generic [ref=e47]: Sign In
+        - navigation [ref=e48]:
+          - button "Home" [ref=e49] [cursor=pointer]
+  - generic [ref=e54]:
+    - alert [ref=e111]: (Entry level) Full Stack Software Engineer (LLM application Development) page is loaded
+    - generic [ref=e112]:
+      - generic [ref=e113]:
+        - generic [ref=e114]:
+          - heading "(Entry level) Full Stack Software Engineer (LLM application Development)" [level=2] [ref=e115]
+          - button "Apply" [ref=e120] [cursor=pointer]
+        - img "Allstate US logo" [ref=e121]
+      - generic [ref=e122]:
+        - generic [ref=e123]:
+          - generic [ref=e124]:
+            - generic [ref=e131]:
+              - term [ref=e132]: remote type
+              - definition [ref=e133]: Fully Remote
+            - generic [ref=e140]:
+              - term [ref=e141]: locations
+              - definition [ref=e142]: US - Remote
+          - generic [ref=e143]:
+            - generic [ref=e152]:
+              - term [ref=e153]: time type
+              - definition [ref=e154]: Full time
+            - generic [ref=e163]:
+              - term [ref=e164]: posted on
+              - definition [ref=e165]: Posted 2 Days Ago
+            - generic [ref=e174]:
+              - term [ref=e175]: job requisition id
+              - definition [ref=e176]: R28486
+        - generic [ref=e178]:
+          - paragraph [ref=e179]: At Allstate, great things happen when our people work together to protect families and their belongings from life’s uncertainties. And for more than 90 years, our innovative drive has kept us a step ahead of our customers’ evolving needs. From advocating for seat belts, air bags and graduated driving laws, to being an industry leader in pricing sophistication, telematics, and, more recently, device and identity protection.
+          - paragraph [ref=e180]
+          - paragraph [ref=e181]
+          - paragraph [ref=e182]: Job Description
+          - paragraph [ref=e183]
+          - paragraph [ref=e184]
+          - paragraph [ref=e185]: "Business Title: Software Engineer Consultant II"
+          - paragraph [ref=e186]
+          - paragraph [ref=e187]: Org, Team, and Work scope
+          - list [ref=e188]:
+            - listitem [ref=e189]:
+              - paragraph [ref=e190]: Enterprise Shared Services Org, and Employee Experience team
+            - listitem [ref=e191]:
+              - paragraph [ref=e192]: As a software engineer, you will help elevate, automate, and continuously iterate on an in-house LLM-powered chatbot that enables internal employees to access critical information and delivers new features that streamline and automate everyday tasks. This role blends full stack development with applied AI work. You’ll be supported by senior engineers and product partners while owning real deliverables.
+            - listitem [ref=e193]:
+              - paragraph [ref=e194]: Primary work currently will be an internal AI chatbot designed to help employees get the answers they need—fast, accurately, and at scale. This chatbot supports everyday questions, workflows, and knowledge discovery, reducing friction and enabling teams to focus on meaningful work.
+            - listitem [ref=e195]:
+              - paragraph [ref=e196]: Our ideal candidate is collaborative, approachable, and enjoys working closely with others. They are eager to dive into new and sometimes unfamiliar technologies, driven by a strong desire to learn, grow, and communicate effectively.
+          - paragraph [ref=e197]
+          - paragraph [ref=e198]: What’s exciting?
+          - list [ref=e199]:
+            - listitem [ref=e200]:
+              - paragraph [ref=e201]: This role offers engineers the opportunity to sharpen their skills with some of the most innovative and fast emerging technologies. It’s an investment in your future growth while contributing to work that is actively transforming the industry.
+            - listitem [ref=e202]:
+              - paragraph [ref=e203]: You will work in a paired programming environment, collaborating daily with other engineers to design and implement solutions that remove blockers across a large enterprise ecosystem.
+            - listitem [ref=e204]:
+              - paragraph [ref=e205]: You’ll build on top of a mature, production LLM application, delivering new features that enhance internal employee workflows and overall experience.
+          - paragraph [ref=e206]
+          - paragraph [ref=e207]: "Growth & Development. This role is designed as a launchpad. With strong performance, growth paths may include:"
+          - list [ref=e208]:
+            - listitem [ref=e209]:
+              - paragraph [ref=e210]: Full Stack Engineer
+            - listitem [ref=e211]:
+              - paragraph [ref=e212]: AI / Machine Learning Engineer
+            - listitem [ref=e213]:
+              - paragraph [ref=e214]: Platform or Product focused Engineering roles
+            - listitem [ref=e215]:
+              - paragraph [ref=e216]: You’ll grow through hands on work, mentorship, and exposure to real business problems—not just training modules.
+          - paragraph [ref=e217]
+          - paragraph [ref=e218]: Day to day
+          - list [ref=e219]:
+            - listitem [ref=e220]:
+              - paragraph [ref=e221]: You’ll begin your day pairing with another engineer to design and implement features using test driven development, writing tests before code and iterating through small, meaningful changes.
+            - listitem [ref=e222]:
+              - paragraph [ref=e223]: You’ll participate in daily standups and planning sessions to align on priorities and unblock work.
+            - listitem [ref=e224]:
+              - paragraph [ref=e225]: Throughout the day, you’ll refactor and integrate code frequently through CI pipelines, ensuring production ready quality.
+            - listitem [ref=e226]:
+              - paragraph [ref=e227]: You’ll collaborate closely with teammates and stakeholders, sharing feedback and learning continuously in a highly communicative, XP driven environment.
+          - paragraph [ref=e228]
+          - paragraph [ref=e229]: "Essential Functions:"
+          - list [ref=e230]:
+            - listitem [ref=e231]:
+              - paragraph [ref=e232]: Deliver high value solutions leveraging LLM technologies while championing best practices in AI driven development.
+            - listitem [ref=e233]:
+              - paragraph [ref=e234]: Serve as an active contributor to shaping and advancing the company’s evolving AI engineering experience.
+            - listitem [ref=e235]:
+              - paragraph [ref=e236]: Actively collaborate across teams, proactively stepping in to support and contribute whenever opportunities arise.
+            - listitem [ref=e237]:
+              - paragraph [ref=e238]: Confidently demonstrate and share solutions with other teams to promote learning and adoption.
+            - listitem [ref=e239]:
+              - paragraph [ref=e240]: Embrace a team first mindset; success is shared, and we win together.
+          - paragraph [ref=e241]
+          - paragraph [ref=e242]: Required qualifications
+          - list [ref=e243]:
+            - listitem [ref=e244]:
+              - paragraph [ref=e245]: 0–3 years of experience (or equivalent internships, projects, or bootcamp work)
+            - listitem [ref=e246]:
+              - paragraph [ref=e247]: Working knowledge of at least one modern programming language or related tools (React, JavaScript, Python, etc.) and willingness to learn new frameworks and tools quickly.
+            - listitem [ref=e248]:
+              - paragraph [ref=e249]: Experience or strong interest in collaborative software development practices, including pair programming or close team-based development.
+            - listitem [ref=e250]:
+              - paragraph [ref=e251]: Familiarity with automated testing concepts such as unit testing or test-driven development (TDD).
+            - listitem [ref=e252]:
+              - paragraph [ref=e253]: Understanding the use of Agile principles and iterative software delivery.
+            - listitem [ref=e254]:
+              - paragraph [ref=e255]: Strong communication skills and an eagerness to collaborate, learn, and grow within a team first environment.
+          - paragraph [ref=e256]
+          - paragraph [ref=e257]: Preferred skills and experiences
+          - list [ref=e258]:
+            - listitem [ref=e259]:
+              - paragraph [ref=e260]: Interest or experience working with LLMs, AI enabled applications, or data driven systems.
+            - listitem [ref=e261]:
+              - paragraph [ref=e262]: Hands on experience practicing Extreme Programming (XP), including pair programming, TDD, and continuous integration.
+            - listitem [ref=e263]:
+              - paragraph [ref=e264]: Experience building or contributing to production web applications using modern front end and/or back-end frameworks.
+            - listitem [ref=e265]:
+              - paragraph [ref=e266]: Familiarity with CI/CD pipelines, frequent code integration, and trunk-based development workflows.
+            - listitem [ref=e267]:
+              - paragraph [ref=e268]: Familiarity with DevOps tools such as Jenkins, GitHub, Docker
+            - listitem [ref=e269]:
+              - paragraph [ref=e270]: Familiarity with MSSQL, Vectorization, RAG databases
+            - listitem [ref=e271]:
+              - paragraph [ref=e272]: Familiarity with AI / LLM tools or platforms such as Azure’s Open AI Models, GPT4, CoPilot, Microsoft Copilot, Copilot Studios, etc.
+            - listitem [ref=e273]:
+              - paragraph [ref=e274]: Exposure to cloud environments (AWS or similar) and containerized development.
+            - listitem [ref=e275]:
+              - paragraph [ref=e276]: Experience working in environments that emphasize collective code ownership, refactoring, and continuous improvement.
+            - listitem [ref=e277]:
+              - paragraph [ref=e278]: You have an opensource portfolio to share and showcase personal projects related to AI or full stack development
+          - paragraph [ref=e279]
+          - paragraph [ref=e280]: You don’t need to know everything on day one. We care more about your foundation, curiosity, and ability to grow.
+          - paragraph [ref=e281]
+          - paragraph [ref=e282]
+          - paragraph [ref=e283]
+          - paragraph [ref=e284]: Skills
+          - text: Agile Principles, DevOps, Extreme Programming (XP), GitHub, Pair Programming, Peer to Peer Learning, Python (Programming Language), Software Development, Willingness to Learn
+          - paragraph [ref=e285]
+          - paragraph [ref=e286]
+          - paragraph [ref=e287]: Compensation
+          - text: Compensation offered for this role is 70,100.00 - 121,475.00 annually and is based on experience and qualifications.
+          - paragraph [ref=e288]
+          - paragraph [ref=e289]: The candidate(s) offered this position will be required to submit to a background investigation.
+          - paragraph [ref=e290]
+          - paragraph [ref=e291]
+          - paragraph [ref=e292]: Joining our team isn’t just a job — it’s an opportunity. One that takes your skills and pushes them to the next level. One that encourages you to challenge the status quo. One where you can shape the future of protection while supporting causes that mean the most to you. Joining our team means being part of something bigger – a winning team making a meaningful impact.
+          - paragraph [ref=e293]
+          - paragraph [ref=e294]: Allstate generally does not sponsor individuals for employment-based visas for this position.
+          - paragraph [ref=e295]
+          - paragraph [ref=e296]: Effective July 1, 2014, under Indiana House Enrolled Act (HEA) 1242, it is against public policy of the State of Indiana and a discriminatory practice for an employer to discriminate against a prospective employee on the basis of status as a veteran by refusing to employ an applicant on the basis that they are a veteran of the armed forces of the United States, a member of the Indiana National Guard or a member of a reserve component.
+          - paragraph [ref=e297]
+          - paragraph [ref=e298]:
+            - text: For jobs in San Francisco, please click “
+            - link "here" [ref=e299] [cursor=pointer]:
+              - /url: https://www.sf.gov/information--fair-chance-ordinance
+              - generic [ref=e300]: here
+            - text: ” for information regarding the San Francisco Fair Chance Ordinance.
+          - paragraph [ref=e301]:
+            - text: For jobs in Los Angeles, please click “
+            - link "here" [ref=e302] [cursor=pointer]:
+              - /url: https://urldefense.com/v3/__http:/bca.lacity.org/fair-chance__;!!IIU9BLNPZ2ob!Px2f9XWyJzj2IYSNKd2yIt3iNCquNTBdKl01sufyLfNQeN2bGNbgHXw7_TJg-F4Jn0T0dUxP7CPzLzPNxYo1my6fcA$
+              - generic [ref=e303]: here
+            - text: ” for information regarding the Los Angeles Fair Chance Initiative for Hiring Ordinance.
+          - paragraph [ref=e304]
+          - paragraph [ref=e305]:
+            - text: To view the “EEO Know Your Rights” poster click “
+            - link "here" [ref=e306] [cursor=pointer]:
+              - /url: https://www.eeoc.gov/know-your-rights-workplace-discrimination-illegal
+              - generic [ref=e307]: here
+            - text: ”. This poster provides information concerning the laws and procedures for filing complaints of violations of the laws with the Office of Federal Contract Compliance Programs.
+          - paragraph [ref=e308]
+          - paragraph [ref=e309]:
+            - text: To view the FMLA poster, click “
+            - link "here" [ref=e310] [cursor=pointer]:
+              - /url: https://urldefense.com/v3/__https:/www.dol.gov/whd/regs/compliance/posters/fmlaen.pdf__;!!IIU9BLNPZ2ob!Px2f9XWyJzj2IYSNKd2yIt3iNCquNTBdKl01sufyLfNQeN2bGNbgHXw7_TJg-F4Jn0T0dUxP7CPzLzPNxYqw_mTXJA$
+              - generic [ref=e311]: here
+            - text: ”. This poster summarizing the major provisions of the Family and Medical Leave Act (FMLA) and telling employees how to file a complaint.
+          - paragraph [ref=e312]
+          - paragraph [ref=e313]: It is the Company’s policy to employ the best qualified individuals available for all jobs. Therefore, any discriminatory action taken on account of an employee’s ancestry, age, color, disability, genetic information, gender, gender identity, gender expression, sexual and reproductive health decision, marital status, medical condition, military or veteran status, national origin, race (include traits historically associated with race, including, but not limited to, hair texture and protective hairstyles), religion (including religious dress), sex, or sexual orientation that adversely affects an employee's terms or conditions of employment is prohibited. This policy applies to all aspects of the employment relationship, including, but not limited to, hiring, training, salary administration, promotion, job assignment, benefits, discipline, and separation of employment.
+    - generic [ref=e315]:
+      - heading "Similar Jobs (2)" [level=3] [ref=e316]
+      - generic [ref=e317]:
+        - generic [ref=e318]:
+          - link "Mid - Senior Full Stack Software Engineer (LLM application development)" [ref=e322] [cursor=pointer]:
+            - /url: /en-US/allstate_careers/job/US---Remote/Mid---Senior-Full-Stack-Software-Engineer--LLM-application-development-_R28491-1?utm_source=Simplify&ref=Simplify
+            - heading "Mid - Senior Full Stack Software Engineer (LLM application development)" [level=4] [ref=e323]
+          - generic [ref=e330]:
+            - term [ref=e331]: remote type
+            - definition [ref=e332]: Fully Remote
+          - generic [ref=e340]:
+            - term [ref=e341]: locations
+            - definition [ref=e342]: US - Remote
+          - generic [ref=e351]:
+            - term [ref=e352]: time type
+            - definition [ref=e353]: Full time
+          - generic [ref=e362]:
+            - term [ref=e363]: posted on
+            - definition [ref=e364]: Posted 3 Days Ago
+        - generic [ref=e365]:
+          - link "Product Engineer – Java Spring Boot w/ Full Stack Option" [ref=e369] [cursor=pointer]:
+            - /url: /en-US/allstate_careers/job/US---Remote/Entry-Level-Product-Engineer---Java-Spring-Boot-w--Full-Stack-Option_R27487?utm_source=Simplify&ref=Simplify
+            - heading "Product Engineer – Java Spring Boot w/ Full Stack Option" [level=4] [ref=e370]
+          - generic [ref=e377]:
+            - term [ref=e378]: remote type
+            - definition [ref=e379]: Fully Remote
+          - generic [ref=e387]:
+            - term [ref=e388]: locations
+            - definition [ref=e389]: US - Remote
+          - generic [ref=e398]:
+            - term [ref=e399]: time type
+            - definition [ref=e400]: Full time
+          - generic [ref=e409]:
+            - term [ref=e410]: posted on
+            - definition [ref=e411]: Posted 15 Days Ago
+    - generic [ref=e413]:
+      - generic [ref=e414]:
+        - heading "Welcome" [level=3] [ref=e415]
+        - generic [ref=e417]:
+          - generic [ref=e419]:
+            - paragraph [ref=e420]: At Allstate, we work hard to help people live a good life every day. Allstaters are dedicated to serving clients, customers, and communities, which allows employees to find meaning and value in their work. Allstate offers an environment that fosters innovative thinking where you’ll be able to explore your ideas and feel proud of the work you do.
+            - paragraph [ref=e421]
+            - paragraph [ref=e422]: Allstate helps protect nearly 16 million households with auto, home, life, and retirement products. We want every professional connected to Allstate to be committed to giving our customers the best and that means finding the best talent. We want you to be our next great addition.
+            - paragraph [ref=e423]
+            - paragraph [ref=e424]: It’s easy to search and apply for a new opportunity with Allstate. Simply use the links below to identify the openings that interest you.
+          - button "Read More" [ref=e427] [cursor=pointer]:
+            - generic [ref=e428]: Read More
+      - generic [ref=e433]:
+        - heading "About Us" [level=3] [ref=e434]
+        - img "Allstate logo" [ref=e435]
+        - paragraph [ref=e440]:
+          - link "About Us" [ref=e441] [cursor=pointer]:
+            - /url: http://www.allstatecorporation.com/about/our-history.aspx
+  - generic [ref=e66]:
+    - generic [ref=e67]: Follow Us
+    - list [ref=e68]:
+      - listitem [ref=e69] [cursor=pointer]:
+        - link "LinkedIn" [ref=e70]:
+          - /url: https://www.linkedin.com/company/allstate
+      - listitem [ref=e74] [cursor=pointer]:
+        - link "X" [ref=e75]:
+          - /url: https://twitter.com/Allstate
+      - listitem [ref=e79] [cursor=pointer]:
+        - link "Facebook" [ref=e80]:
+          - /url: https://www.facebook.com/Allstate
+    - link "Privacy Center" [ref=e85] [cursor=pointer]:
+      - /url: https://www.allstatecorporation.com/statements/privacy-statements.aspx
+    - generic [ref=e86]:
+      - img [ref=e90]
+      - generic [ref=e110]: © 2026 Workday, Inc. All rights reserved.

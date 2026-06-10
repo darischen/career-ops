@@ -1,0 +1,110 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Zip" [ref=e6] [cursor=pointer]:
+        - /url: ziphq.com
+        - img "Zip" [ref=e7]
+    - link "Back to Zip’s Job Listings" [ref=e8] [cursor=pointer]:
+      - /url: https://ziphq.com/careers
+      - img [ref=e9]
+    - listitem
+  - generic [ref=e11]:
+    - heading "Software Engineer Intern (Fall 2026)" [level=1] [ref=e13]
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - heading "Location" [level=2] [ref=e17]
+          - paragraph [ref=e18]: Toronto
+        - generic [ref=e19]:
+          - heading "Employment Type" [level=2] [ref=e20]
+          - paragraph [ref=e21]: Intern
+        - generic [ref=e22]:
+          - heading "Location Type" [level=2] [ref=e23]
+          - paragraph [ref=e24]: Hybrid
+        - generic [ref=e25]:
+          - heading "Department" [level=2] [ref=e26]
+          - paragraph [ref=e27]: Engineering
+      - generic [ref=e28]:
+        - tablist [ref=e29]:
+          - tab "Overview" [selected] [ref=e30] [cursor=pointer]
+          - tab "Application" [ref=e31] [cursor=pointer]
+        - tabpanel "Overview" [ref=e33]:
+          - generic [ref=e34]:
+            - heading "About Zip" [level=1] [ref=e35]:
+              - strong [ref=e36]: About Zip
+            - paragraph [ref=e37]
+            - paragraph [ref=e38]:
+              - text: Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.
+              - text: The world’s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they’ve saved over $8 billion and processed over $500 billion in spend. Zip’s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA.
+              - text: Backed by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups.
+            - paragraph [ref=e39]
+            - heading "Your Role" [level=2] [ref=e40]:
+              - strong [ref=e41]: Your Role
+            - paragraph [ref=e42]: As a Software Engineer Intern, you will be shown how to build Zip’s core products and architecture. You will ship features that will be immediately used by our users and will work with a tight-knit team that values open communication and cross-functional collaboration. We move quickly to solve a wide range of complex technical and product challenges. While we are an experienced team that can provide constant guidance and mentorship, we value engineers who can scope and solve difficult technical challenges.
+            - paragraph [ref=e43]: "Previous interns have worked on:"
+            - list [ref=e44]:
+              - listitem [ref=e45]:
+                - paragraph [ref=e46]: "Internal AI bot: a bot that uses generative AI to aggregate info from various sources (e.g. google doc, notion, Slack, Zip help site) and generate answers - it’s now actively used by both engineering and customer teams at Zip"
+              - listitem [ref=e47]:
+                - paragraph [ref=e48]: "Devbox: building a prototype that bootstraps the development environment in AWS cloud for all zip engineers - this project is now being used by 80+ engineers"
+              - listitem [ref=e49]:
+                - paragraph [ref=e50]: "Virtual Card Auto Lock: a feature that automatically locks virtual cards based on various policies, such as after a certain expiration date, when reported lost, or in the event of an overdraft. This feature, along with a self-serve onboarding tool, is now live in our virtual card product"
+            - paragraph [ref=e51]
+            - heading "You Will" [level=2] [ref=e52]:
+              - strong [ref=e53]: You Will
+            - list [ref=e54]:
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]: Design and build highly reliable and resilient products and features
+              - listitem [ref=e57]:
+                - paragraph [ref=e58]: Work closely with cross-functional product and customer-facing teams to understand requirements and ship thoughtful solutions
+              - listitem [ref=e59]:
+                - paragraph [ref=e60]: Write high-quality, extensible, and maintainable code
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: Design and build scalable frontend applications and components
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: Design and build APIs to drive existing and new features for a web-based application
+            - paragraph [ref=e65]
+            - heading "Qualifications" [level=2] [ref=e66]:
+              - strong [ref=e67]: Qualifications
+            - list [ref=e68]:
+              - listitem [ref=e69]:
+                - paragraph [ref=e70]: Pursuing a BS or MS in Computer Science or a related technical field involving coding (e.g. physics or math), with an expected graduation date between April 2027 - October 2027
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]: Experience with web applications and API development. At Zip, our stack includes Python, Javascript/TypeScript, React, and GraphQL
+              - listitem [ref=e73]:
+                - paragraph [ref=e74]: Ability and interest to quickly learn new frameworks, architecture patterns, and programming languages as needed
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: Fantastic written and verbal communication skills
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: Prior internship in a high-growth startup environment
+            - paragraph [ref=e79]
+            - heading "Perks & Benefits" [level=2] [ref=e80]:
+              - strong [ref=e81]: Perks & Benefits
+            - paragraph [ref=e82]: At Zip, we’re committed to providing our employees with everything they need to do their best work
+            - list [ref=e83]:
+              - listitem [ref=e84]:
+                - paragraph [ref=e85]: 🍽️ Catered breakfasts, lunches & dinners
+              - listitem [ref=e86]:
+                - paragraph [ref=e87]: 🚠 Team building events & happy hours
+              - listitem [ref=e88]:
+                - paragraph [ref=e89]: 💻 Apple equipment
+            - paragraph [ref=e90]
+            - paragraph [ref=e91]: The estimated hourly pay range for this role is CA$50 - CA$52.
+            - paragraph [ref=e92]
+            - paragraph [ref=e93]:
+              - emphasis [ref=e94]: We're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!
+          - link "Apply for this Job" [ref=e95] [cursor=pointer]:
+            - /url: /zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/application
+            - button "Apply for this Job" [ref=e96]
+  - contentinfo [ref=e97]:
+    - link "Learn more about Ashby" [ref=e98] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e99]: Powered by
+      - img "Ashby" [ref=e100]
+    - paragraph [ref=e106]:
+      - link "Privacy Policy" [ref=e107] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e108] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e109] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

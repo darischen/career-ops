@@ -1,0 +1,139 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Landing Point Logo" [ref=e7] [cursor=pointer]:
+        - /url: https://landingpoint.com
+        - img "Landing Point Logo" [ref=e8]
+      - button "Menu Toggle" [ref=e12] [cursor=pointer]:
+        - img [ref=e13]
+  - generic [ref=e15]:
+    - link "« Back to Summary" [ref=e17] [cursor=pointer]:
+      - /url: /job-seekers/job-listings
+    - heading "Software Engineer" [level=3] [ref=e19]
+  - generic [ref=e20]:
+    - generic [ref=e21]:
+      - strong [ref=e22]: Details
+      - list [ref=e23]:
+        - listitem [ref=e24]: "Compensation: $125,000 - $160,000 Per Year Plus Bonus"
+      - generic [ref=e25]:
+        - list [ref=e26]:
+          - listitem [ref=e27]: "Location: New York NY"
+          - listitem [ref=e28]: "Type: Permanent"
+          - listitem [ref=e29]: "Job #26052"
+        - paragraph [ref=e30]:
+          - strong [ref=e32]: "Company Overview:"
+          - text: A global asset manager specializing in alternative credit strategies is seeking a Software Engineer to join their rapidly growing technology team. The role involves designing and implementing asset management systems and deploying AI agents to support various business functions.
+        - paragraph [ref=e33]:
+          - strong [ref=e35]: "Job Responsibilities:"
+        - list [ref=e36]:
+          - listitem [ref=e37]: Design and develop internal portfolio management systems for positions, transactions, analytics, reporting, and other tools.
+          - listitem [ref=e38]: Build scalable applications using microservices and/or event-driven architectures.
+          - listitem [ref=e39]: Participate in the full software development lifecycle, including design, coding, testing, deployment, and support.
+          - listitem [ref=e40]: Identify automation opportunities and deploy AI-powered tools to improve operational efficiency.
+          - listitem [ref=e41]: Work autonomously across multiple projects in a fast-paced, small-team environment.
+        - paragraph [ref=e42]:
+          - strong [ref=e44]: "Qualifications:"
+        - list [ref=e45]:
+          - listitem [ref=e46]: 1-4 years of software engineering experience with strong Java, React, Python, and AI stack.
+          - listitem [ref=e47]: Strong foundation in object-oriented programming, data structures, algorithms, and multithreading.
+          - listitem [ref=e48]: Experience with Java Spring Boot, RESTful APIs, and microservices architecture.
+          - listitem [ref=e49]: Hands-on experience building with LLM APIs (Anthropic, OpenAI, or similar).
+          - listitem [ref=e50]: Familiarity with API integrations and data pipeline construction.
+          - listitem [ref=e51]: Familiarity with source control systems (e.g., Git), testing frameworks, and CI/CD tools.
+          - listitem [ref=e52]: Bachelor's or advanced degree in Computer Science, Engineering, or a related STEM discipline.
+        - paragraph [ref=e53]:
+          - strong [ref=e55]: "Compensation:"
+          - generic [ref=e56]:
+            - strong [ref=e57]: "Salary:"
+            - text: $125,000 – $160,000, Plus Bonus
+        - heading "Apply to this position:" [level=5] [ref=e58]
+        - generic [ref=e59]:
+          - textbox "Your Name" [ref=e62]
+          - textbox "Email Address" [ref=e65]
+          - textbox "Phone Number" [ref=e68]
+          - generic [ref=e69]:
+            - 'heading "Upload Resume File: *" [level=5] [ref=e71]':
+              - generic [ref=e72]: "Upload Resume File:"
+              - text: "*"
+            - generic [ref=e73]:
+              - generic [ref=e74] [cursor=pointer]:
+                - img [ref=e75]
+                - generic [ref=e79]: Upload Resume File:…
+              - button "Upload Resume File:…" [ref=e80]
+              - paragraph [ref=e82]:
+                - text: Click to upload or drag and drop
+                - text: DOC, DOCX, PDF, HTML, or TXT (max. 800x400px)
+          - list [ref=e85]:
+            - listitem [ref=e86]:
+              - generic [ref=e87]:
+                - checkbox "By submitting this application, you give us permission to store your personal information, and use it in the consideration of your fitness for the position, including sharing it with the hiring firm. Additionally you agree to receive marketing messages from Landing Point at the phone number provided and understand data rates may apply. Reply STOP to opt out or HELP for help." [ref=e88]
+                - text: By submitting this application, you give us permission to store your personal information, and use it in the consideration of your fitness for the position, including sharing it with the hiring firm. Additionally you agree to receive marketing messages from Landing Point at the phone number provided and understand data rates may apply. Reply STOP to opt out or HELP for help.
+          - list [ref=e91]:
+            - listitem [ref=e92]:
+              - generic [ref=e93]:
+                - checkbox "By submitting this application, you agree to our Terms of Service." [ref=e94]
+                - text: By submitting this application, you agree to our Terms of Service.
+          - generic [ref=e95]:
+            - heading "People looking for jobs should not put anything here." [level=5] [ref=e97]:
+              - generic [ref=e98]: People looking for jobs should not put anything here.
+            - textbox "People looking for jobs should not put anything here." [ref=e100]
+          - button "Submit Application" [ref=e101] [cursor=pointer]
+        - navigation
+    - generic [ref=e103]:
+      - generic [ref=e105]: Apply Now
+      - generic [ref=e106]:
+        - heading "Refer this job" [level=5] [ref=e107]
+        - text: Know someone who would be a great fit?
+        - text: Let them know!
+        - generic [ref=e108]:
+          - link "icon" [ref=e109] [cursor=pointer]:
+            - /url: mailto:?subject=Some subject&body=https://landingpoint.com/job/26052-software-engineer/
+            - img "icon" [ref=e110]
+          - link "icon" [ref=e111] [cursor=pointer]:
+            - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://landingpoint.com/job/26052-software-engineer/
+            - img "icon" [ref=e112]
+          - link "icon" [ref=e113] [cursor=pointer]:
+            - /url: https://landingpoint.com/job/26052-software-engineer/
+            - img "icon" [ref=e114]
+  - contentinfo [ref=e115]:
+    - generic [ref=e117]:
+      - link "Landing Point Logo" [ref=e121] [cursor=pointer]:
+        - /url: /
+        - img "Landing Point Logo" [ref=e122]
+      - list [ref=e126]:
+        - listitem [ref=e127]:
+          - link "Facebook" [ref=e128] [cursor=pointer]:
+            - /url: https://www.facebook.com/landingpointsearchgroup/
+            - generic [ref=e129]: Facebook
+            - img [ref=e130]
+        - listitem [ref=e132]:
+          - link "Instagram" [ref=e133] [cursor=pointer]:
+            - /url: https://www.instagram.com/landingpointsearch/?hl=en
+            - generic [ref=e134]: Instagram
+            - img [ref=e135]
+        - listitem [ref=e137]:
+          - link "Linkedin" [ref=e138] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/landing-point-search-group/
+            - generic [ref=e139]: Linkedin
+            - img [ref=e140]
+      - generic [ref=e142]:
+        - paragraph [ref=e145]: "Landing Point: 140 E. 45th Street, New York, NY 10017"
+        - list [ref=e148]:
+          - listitem [ref=e149]:
+            - link "Login" [ref=e150] [cursor=pointer]:
+              - /url: https://landingpoint.bbo.bullhornstaffing.com/Login
+              - generic [ref=e151]: Login
+          - listitem [ref=e152]:
+            - link "Privacy Policy" [ref=e153] [cursor=pointer]:
+              - /url: /privacy-policy/
+              - generic [ref=e154]: Privacy Policy
+          - listitem [ref=e155]:
+            - link "Terms and Conditions" [ref=e156] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+              - generic [ref=e157]: Terms and Conditions
+          - listitem [ref=e158]:
+            - link "Sitemap" [ref=e159] [cursor=pointer]:
+              - /url: /sitemap
+              - generic [ref=e160]: Sitemap
+        - paragraph [ref=e163]: © 2024 Landing Point. All rights reserved.
+  - generic [ref=e164]: tablet

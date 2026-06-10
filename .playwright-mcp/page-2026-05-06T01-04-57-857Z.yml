@@ -1,0 +1,208 @@
+- generic [active] [ref=e1]:
+  - navigation "link navigation" [ref=e2]:
+    - link "Skip to Main Content" [ref=e3]
+  - main [ref=e4]:
+    - navigation [ref=e5]:
+      - generic [ref=e6]:
+        - link "logo" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "logo" [ref=e8]
+        - button "Toggle navigation" [ref=e9]: Toggle navigation
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - link "Work at Viasat" [ref=e13] [cursor=pointer]:
+              - /url: /workatviasat
+            - button [ref=e14]
+            - list [ref=e15]:
+              - listitem [ref=e16]:
+                - button "Back" [ref=e17]
+              - listitem [ref=e18]:
+                - link "Early career full-time" [ref=e19] [cursor=pointer]:
+                  - /url: /earlycareers
+              - listitem [ref=e20]:
+                - link "Early career internships" [ref=e21] [cursor=pointer]:
+                  - /url: /internships
+              - listitem [ref=e22]:
+                - link "How we hire" [ref=e23] [cursor=pointer]:
+                  - /url: /howwehire
+              - listitem [ref=e24]:
+                - link "Locations" [ref=e25] [cursor=pointer]:
+                  - /url: /ourlocations
+              - listitem [ref=e26]:
+                - link "Teams" [ref=e27] [cursor=pointer]:
+                  - /url: /teams
+          - listitem [ref=e28]:
+            - link "Life at Viasat" [ref=e29] [cursor=pointer]:
+              - /url: /lifeatviasat
+            - button [ref=e30]
+            - list [ref=e31]:
+              - listitem [ref=e32]:
+                - button "Back" [ref=e33]
+              - listitem [ref=e34]:
+                - link "Benefits" [ref=e35] [cursor=pointer]:
+                  - /url: /benefits
+              - listitem [ref=e36]:
+                - link "DEI" [ref=e37] [cursor=pointer]:
+                  - /url: /dei
+              - listitem [ref=e38]:
+                - link "Military at Viasat" [ref=e39] [cursor=pointer]:
+                  - /url: /militaryatviasat
+              - listitem [ref=e40]:
+                - link "Social Impact" [ref=e41] [cursor=pointer]:
+                  - /url: /socialimpact
+          - listitem [ref=e42]:
+            - link "Search Jobs" [ref=e43] [cursor=pointer]:
+              - /url: /jobs
+          - listitem [ref=e44]:
+            - generic [ref=e45]: Sign in
+            - button [ref=e46]
+            - list [ref=e47]:
+              - listitem [ref=e48]:
+                - button "Back" [ref=e49]
+              - listitem [ref=e50]:
+                - link "Careers" [ref=e51] [cursor=pointer]:
+                  - /url: https://careers-viasat.icims.com/jobs/login
+              - listitem [ref=e52]:
+                - link "Viasat Employees" [ref=e53] [cursor=pointer]:
+                  - /url: https://internal-careers.viasat.com
+    - main "Career Portal" [ref=e55]:
+      - iframe [ref=e56]:
+        - generic [ref=f8e1]:
+          - link "Skip to Main Content" [ref=f8e2] [cursor=pointer]:
+            - /url: "#iCIMS_Header"
+          - text: 
+          - generic [ref=f8e3]:
+            - text: 
+            - generic [ref=f8e7]:
+              - heading "Enter Your Information" [level=1] [ref=f8e9]
+              - generic [ref=f8e10]:
+                - generic [ref=f8e11]: Email
+                - textbox "Email" [active] [ref=f8e12]
+                - generic [ref=f8e13]:
+                  - generic [ref=f8e14]:
+                    - generic [ref=f8e15]:
+                      - paragraph [ref=f8e16]
+                      - paragraph [ref=f8e17]:
+                        - text: Please review the Viasat Applicant Privacy Notice, which can be found
+                        - link "here" [ref=f8e18] [cursor=pointer]:
+                          - /url: https://www.viasat.com/privacy/privacy-policy/
+                        - text: .
+                      - paragraph
+                    - generic [ref=f8e20]:
+                      - paragraph [ref=f8e21]: Acknowledgement of Privacy Notice
+                      - paragraph
+                      - paragraph [ref=f8e22]: I acknowledge I have reviewed and understand the Viasat Applicant Privacy Notice.
+                      - paragraph
+                  - generic [ref=f8e23]:
+                    - generic [ref=f8e24] [cursor=pointer]:
+                      - checkbox "Acknowledgement Received" [ref=f8e25]
+                      - text: Acknowledgement Received
+                    - generic [ref=f8e26]: You must indicate that you have read the privacy notice and consent to the processing of your personal data before you can continue.
+                - button "Next" [disabled] [ref=f8e27]
+            - generic [ref=f8e28]:
+              - link "Application FAQs" [ref=f8e29] [cursor=pointer]:
+                - /url: https://icims.help/candidate-faq
+              - paragraph [ref=f8e31]:
+                - text: Software Powered by iCIMS
+                - link "www.icims.com" [ref=f8e32] [cursor=pointer]:
+                  - /url: http://www.icims.com/platform_help?utm_source=platform&utm_medium=link&utm_content=page1&utm_campaign=platform%20help
+          - generic [ref=f8e33]:
+            - button "Close hCaptcha attribution notice" [ref=f8e34] [cursor=pointer]: 
+            - generic [ref=f8e35]:
+              - text: Protected by hCaptcha
+              - link "Privacy" [ref=f8e36] [cursor=pointer]:
+                - /url: https://www.hcaptcha.com/privacy
+              - text: "|"
+              - link "Terms" [ref=f8e37] [cursor=pointer]:
+                - /url: https://www.hcaptcha.com/terms
+    - generic [ref=e58]:
+      - list [ref=e61]:
+        - listitem [ref=e62]:
+          - link [ref=e63] [cursor=pointer]:
+            - /url: https://twitter.com/viasat
+            - img [ref=e64]
+        - listitem [ref=e65]:
+          - link [ref=e66] [cursor=pointer]:
+            - /url: https://www.facebook.com/Viasat
+            - img [ref=e67]
+        - listitem [ref=e68]:
+          - link [ref=e69] [cursor=pointer]:
+            - /url: https://www.instagram.com/viasat/
+            - img [ref=e70]
+        - listitem [ref=e71]:
+          - link [ref=e72] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/viasat/mycompany/
+            - img [ref=e73]
+        - listitem [ref=e74]:
+          - link [ref=e75] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/ViaSatInc
+            - img [ref=e76]
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - heading "Work at Viasat" [level=4] [ref=e80]
+          - list [ref=e81]:
+            - listitem [ref=e82]:
+              - link "Early careers internship" [ref=e83] [cursor=pointer]:
+                - /url: /internships
+            - listitem [ref=e84]:
+              - link "Early career full-time" [ref=e85] [cursor=pointer]:
+                - /url: /earlycareers
+            - listitem [ref=e86]:
+              - link "How we hire" [ref=e87] [cursor=pointer]:
+                - /url: /howwehire
+            - listitem [ref=e88]:
+              - link "Locations" [ref=e89] [cursor=pointer]:
+                - /url: /ourlocations
+            - listitem [ref=e90]:
+              - link "Teams" [ref=e91] [cursor=pointer]:
+                - /url: /teams
+        - generic [ref=e92]:
+          - heading "Life at Viasat" [level=4] [ref=e93]
+          - list [ref=e94]:
+            - listitem [ref=e95]:
+              - link "Benefits" [ref=e96] [cursor=pointer]:
+                - /url: /benefits
+            - listitem [ref=e97]:
+              - link "Diversity, Equity & Inclusion" [ref=e98] [cursor=pointer]:
+                - /url: /dei
+            - listitem [ref=e99]:
+              - link "Military at Viasat" [ref=e100] [cursor=pointer]:
+                - /url: /militaryatviasat
+            - listitem [ref=e101]:
+              - link "Social Impact" [ref=e102] [cursor=pointer]:
+                - /url: /socialimpact
+        - generic [ref=e103]:
+          - heading "Additional Resources" [level=4] [ref=e104]
+          - list [ref=e105]:
+            - listitem [ref=e106]:
+              - link "Newsroom" [ref=e107] [cursor=pointer]:
+                - /url: https://news.viasat.com/newsroom
+            - listitem [ref=e108]:
+              - link "Talent Community" [ref=e109] [cursor=pointer]:
+                - /url: interest/talentcommunity/form
+            - listitem [ref=e110]:
+              - link "Viasat.com" [ref=e111] [cursor=pointer]:
+                - /url: https://www.viasat.com
+      - generic [ref=e113]:
+        - img "logo" [ref=e115]
+        - list [ref=e116]:
+          - listitem [ref=e117]: ©2022 Viasat, Inc.
+          - listitem [ref=e118]:
+            - link "Legal" [ref=e119] [cursor=pointer]:
+              - /url: https://www.viasat.com/legal/
+          - listitem [ref=e120]:
+            - link "Site map" [ref=e121] [cursor=pointer]:
+              - /url: https://www.viasat.com/site-map/
+          - listitem [ref=e122]:
+            - link "Privacy" [ref=e123] [cursor=pointer]:
+              - /url: https://www.viasat.com/privacy-policy/
+          - listitem [ref=e124]:
+            - link "Do Not Sell or Share My Personal Information" [ref=e125] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e126]:
+            - link "Accessibility" [ref=e127] [cursor=pointer]:
+              - /url: https://www.viasat.com/accessibility-statement/
+          - listitem [ref=e128]:
+            - link [ref=e129] [cursor=pointer]:
+              - /url: https://www.essentialaccessibility.com/viasat?utm_source=viasathomepage&utm_medium=iconlarge&ut.html
+              - img [ref=e130]

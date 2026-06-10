@@ -1,0 +1,287 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "Back to jobs" [ref=e5] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/drweng?gh_src=Simplify
+          - img [ref=e6]
+          - text: Back to jobs
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - heading "AI Engineer" [level=1] [ref=e11]
+            - generic [ref=e12]:
+              - img [ref=e13]
+              - generic [ref=e15]: New York City
+          - button "Apply" [ref=e16] [cursor=pointer]
+        - generic [ref=e18]:
+          - paragraph [ref=e19]:
+            - strong [ref=e20]: DRW
+            - text: is a diversified trading firm with over 3 decades of experience bringing sophisticated technology and exceptional people together to operate in markets around the world. We value autonomy and the ability to quickly pivot to capture opportunities, so we operate using our own capital and trading at our own risk.
+          - paragraph [ref=e21]: "Headquartered in Chicago with offices throughout the U.S., Canada, Europe, and Asia, we trade a variety of asset classes including Fixed Income, ETFs, Equities, FX, Commodities and Energy across all major global markets. We have also leveraged our expertise and technology to expand into three non-traditional strategies: real estate, venture capital and cryptoassets."
+          - paragraph [ref=e22]:
+            - text: We operate with respect, curiosity and open minds. The people who thrive here share our belief that it’s not just what we do that matters–it's how we do it.
+            - strong [ref=e23]: DRW
+            - text: is a place of high expectations, integrity, innovation and a willingness to challenge consensus.
+          - paragraph [ref=e24]:
+            - text: As an
+            - strong [ref=e25]: AI Engineer
+            - text: at DRW, you will be an integral member of a collaborative multi-asset trading team. You’ll work on high-impact machine learning (ML) and artificial intelligence (AI) initiatives that are central to our business strategy. In this role, you will build critical infrastructure and tooling that leverages AI and ML technology to enhance productivity, efficiency, and discover innovative paths to challenging business and technology problems. Surrounded by cutting-edge technology and experienced trading teams, you will have the opportunity to tackle fascinating new projects while becoming a subject-matter expert in a critical and innovative role.
+          - paragraph [ref=e26]:
+            - strong [ref=e28]: "Key Responsibilities:"
+          - list [ref=e29]:
+            - listitem [ref=e30]: "Drive end-to-end development of AI infrastructure and AI driven applications: from initial proof-of-concept to production deployment and ongoing maintenance."
+            - listitem [ref=e31]: Collaborate with technologists, traders, quantitative researchers, and data scientists to identify high-impact opportunities for integrating AI and machine learning into technology and business use cases.
+            - listitem [ref=e32]: Implement automated systems for continuous training, validation, and monitoring of models, minimizing downtime and ensuring reliability.
+            - listitem [ref=e33]: Provide technical leadership in selecting, integrating, and optimizing AI and ML frameworks, libraries, and tools across diverse hardware and software environments.
+            - listitem [ref=e34]: Create and maintain feature pipelines, feature stores, and model stores.
+            - listitem [ref=e35]: Develop frameworks to enable scalable, reproducible research.
+            - listitem [ref=e36]: Proactively troubleshoot performance bottlenecks, conduct root-cause analyses, and implement solutions to optimize GPU or CPU resource usage.
+          - paragraph [ref=e37]:
+            - strong [ref=e39]: "Qualifications:"
+          - list [ref=e40]:
+            - listitem [ref=e41]: Bachelor’s or advanced degree in Computer Science, Machine Learning, Artificial Intelligence, or a related field.
+            - listitem [ref=e42]: 3+ years of experience working with machine learning and artificial intelligence technology.
+            - listitem [ref=e43]: Strong understanding of core machine learning and artificial intelligence concepts.
+            - listitem [ref=e44]: Excellent programming skills in Python.
+            - listitem [ref=e45]: Demonstrated experience in building, validating, deploying, monitoring, and updating production ML and AI models.
+            - listitem [ref=e46]: Hands-on experience with MLOps and AIOps infrastructure and tooling.
+            - listitem [ref=e47]: Proficient in problem-solving and analytical reasoning.
+            - listitem [ref=e48]: Exceptional communication and collaboration skills.
+            - listitem [ref=e49]: Experience with ML frameworks such as TensorFlow, PyTorch, TensorRT, or ONNX.
+            - listitem [ref=e50]: Experience with Large Language Models, including RAG and fine-tuning techniques.
+            - listitem [ref=e51]: Familiarity with compute infrastructure necessary to support operating AI and ML technology.
+          - paragraph [ref=e52]: The annual base salary range for this position is $175,000 to $300,000, depending on the candidate’s experience, qualifications, and relevant skill set. The position is also eligible for an annual discretionary bonus. In addition, DRW offers a comprehensive suite of employee benefits including group medical, pharmacy, dental and vision insurance, 401k (with discretionary employer match), short and long-term disability, life and AD&D insurance, health savings accounts, and flexible spending accounts.
+          - paragraph [ref=e53]:
+            - strong [ref=e54]:
+              - text: For more information about DRW's processing activities and our use of job applicants' data, please view our Privacy Notice at
+              - link "https://drw.com/privacy-notice" [ref=e55] [cursor=pointer]:
+                - /url: https://drw.com/privacy-notice
+              - text: .
+          - paragraph [ref=e56]:
+            - strong [ref=e57]:
+              - text: California residents, please review the California Privacy Notice for information about certain legal rights at
+              - link "https://drw.com/california-privacy-notice" [ref=e58] [cursor=pointer]:
+                - /url: https://drw.com/california-privacy-notice
+              - text: .
+          - paragraph [ref=e59]: "#LI-BL1"
+      - separator [ref=e60]
+      - generic [ref=e61]:
+        - generic [ref=e63]:
+          - heading "Apply for this job" [level=2] [ref=e65]
+          - generic [ref=e66]:
+            - paragraph [ref=e68]: "*"
+            - paragraph [ref=e69]: indicates a required field
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - generic [ref=e74]:
+              - generic [ref=e75]: First Name*
+              - textbox "First Name" [ref=e76]
+            - generic [ref=e79]:
+              - generic [ref=e80]: Last Name*
+              - textbox "Last Name" [ref=e81]
+            - generic [ref=e84]:
+              - generic [ref=e85]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e86]
+            - generic [ref=e89]:
+              - generic [ref=e90]: Email*
+              - textbox "Email" [ref=e91]
+            - group "Phone" [ref=e93]:
+              - generic [ref=e94]: Phone
+              - generic [ref=e97]:
+                - generic [ref=e98]: Country*
+                - generic [ref=e99]:
+                  - log [ref=e101]
+                  - generic [ref=e103]:
+                    - combobox "Country" [ref=e106]
+                    - button "Toggle flyout" [ref=e108] [cursor=pointer]:
+                      - img [ref=e109]
+                  - textbox
+              - generic [ref=e113]:
+                - generic [ref=e114]: Phone*
+                - textbox "Phone" [ref=e115]
+            - generic [ref=e116]:
+              - generic [ref=e118]:
+                - generic [ref=e119]: Location (City)*
+                - generic [ref=e120]:
+                  - log [ref=e122]
+                  - combobox "Location (City)" [ref=e127]
+                  - textbox
+              - button "Locate me" [ref=e128] [cursor=pointer]
+            - group "Resume/CV" [ref=e130]:
+              - generic [ref=e131]: Resume/CV
+              - generic [ref=e133]:
+                - generic [ref=e135]:
+                  - button "Attach" [ref=e136] [cursor=pointer]
+                  - generic [ref=e137]: Attach
+                  - button "Attach" [ref=e138]
+                - button "Dropbox" [ref=e140] [cursor=pointer]
+                - button "Google Drive" [ref=e142] [cursor=pointer]
+                - generic [ref=e144]:
+                  - button "Enter manually" [ref=e145] [cursor=pointer]
+                  - generic [ref=e146]: Enter manually
+                - paragraph [ref=e147]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e149]:
+              - generic [ref=e150]: Cover Letter
+              - generic [ref=e152]:
+                - generic [ref=e154]:
+                  - button "Attach" [ref=e155] [cursor=pointer]
+                  - generic [ref=e156]: Attach
+                  - button "Attach" [ref=e157]
+                - button "Dropbox" [ref=e159] [cursor=pointer]
+                - button "Google Drive" [ref=e161] [cursor=pointer]
+                - generic [ref=e163]:
+                  - button "Enter manually" [ref=e164] [cursor=pointer]
+                  - generic [ref=e165]: Enter manually
+                - paragraph [ref=e166]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e167]:
+            - separator [ref=e168]
+            - generic [ref=e171]:
+              - generic [ref=e172]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e173]
+            - generic [ref=e176]:
+              - generic [ref=e177]: Website
+              - textbox "Website" [ref=e178]
+            - generic [ref=e181]:
+              - generic [ref=e182]: How did you hear about this job?*
+              - generic [ref=e183]:
+                - log [ref=e185]
+                - generic [ref=e187]:
+                  - generic [ref=e188]:
+                    - generic [ref=e189]: Select...
+                    - combobox "How did you hear about this job?" [ref=e191]
+                  - button "Toggle flyout" [ref=e193] [cursor=pointer]:
+                    - img [ref=e194]
+                - textbox
+            - generic [ref=e198]:
+              - generic [ref=e199]: Please provide additional detail if appropriate.
+              - textbox "Please provide additional detail if appropriate." [ref=e200]
+            - generic [ref=e203]:
+              - generic [ref=e204]: Are you legally authorized to work in the United States?*
+              - generic [ref=e205]:
+                - log [ref=e207]
+                - generic [ref=e209]:
+                  - generic [ref=e210]:
+                    - generic [ref=e211]: Select...
+                    - combobox "Are you legally authorized to work in the United States?" [ref=e213]
+                  - button "Toggle flyout" [ref=e215] [cursor=pointer]:
+                    - img [ref=e216]
+                - textbox
+            - generic [ref=e220]:
+              - generic [ref=e221]: Will you now or in the future require sponsorship for employment visa status (e.g. H-1B visa status)? If yes, please explain.*
+              - textbox "Will you now or in the future require sponsorship for employment visa status (e.g. H-1B visa status)? If yes, please explain." [ref=e222]
+            - generic [ref=e225]:
+              - generic [ref=e226]: Please provide visa status and expiration if applicable.
+              - textbox "Please provide visa status and expiration if applicable." [ref=e227]
+            - generic [ref=e230]:
+              - generic [ref=e231]: Legal First Name (if different from preferred name)
+              - textbox "Legal First Name (if different from preferred name)" [ref=e232]
+            - generic [ref=e235]:
+              - generic [ref=e236]: Legal Last Name (if different from preferred name)
+              - textbox "Legal Last Name (if different from preferred name)" [ref=e237]
+          - generic [ref=e238]:
+            - separator [ref=e239]
+            - generic [ref=e240]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e241]
+              - paragraph [ref=e242]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e243]: As set forth in DRW ’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e246]:
+              - generic [ref=e247]: Gender
+              - generic [ref=e248]:
+                - log [ref=e250]
+                - generic [ref=e252]:
+                  - generic [ref=e253]:
+                    - generic [ref=e254]: Select...
+                    - combobox "Gender" [ref=e256]
+                  - button "Toggle flyout" [ref=e258] [cursor=pointer]:
+                    - img [ref=e259]
+            - generic [ref=e261]:
+              - generic [ref=e263]:
+                - generic [ref=e264]: Are you Hispanic/Latino?
+                - generic [ref=e265]:
+                  - log [ref=e267]
+                  - generic [ref=e269]:
+                    - generic [ref=e270]:
+                      - generic [ref=e271]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e273]
+                    - button "Toggle flyout" [ref=e275] [cursor=pointer]:
+                      - img [ref=e276]
+              - link "Race & Ethnicity Definitions" [ref=e278] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e279]:
+              - paragraph [ref=e280]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e281]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e282]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e283]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e284]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e287]:
+              - generic [ref=e288]: Veteran Status
+              - generic [ref=e289]:
+                - log [ref=e291]
+                - generic [ref=e293]:
+                  - generic [ref=e294]:
+                    - generic [ref=e295]: Select...
+                    - combobox "Veteran Status" [ref=e297]
+                  - button "Toggle flyout" [ref=e299] [cursor=pointer]:
+                    - img [ref=e300]
+            - separator [ref=e302]
+            - generic [ref=e303]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e304]
+              - generic [ref=e305]:
+                - generic [ref=e306]:
+                  - generic [ref=e307]: Form CC-305
+                  - generic [ref=e308]: Page 1 of 1
+                - generic [ref=e309]:
+                  - generic [ref=e310]: OMB Control Number 1250-0005
+                  - generic [ref=e311]: Expires 04/30/2026
+              - strong [ref=e312]: Why are you being asked to complete this form?
+              - paragraph [ref=e313]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e314]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e315] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e316]: How do you know if you have a disability?
+              - paragraph [ref=e317]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e318]: "Disabilities include, but are not limited to:"
+              - list [ref=e319]:
+                - listitem [ref=e320]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e321]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e322]: Blind or low vision
+                - listitem [ref=e323]: Cancer (past or present)
+                - listitem [ref=e324]: Cardiovascular or heart disease
+                - listitem [ref=e325]: Celiac disease
+                - listitem [ref=e326]: Cerebral palsy
+                - listitem [ref=e327]: Deaf or serious difficulty hearing
+                - listitem [ref=e328]: Diabetes
+                - listitem [ref=e329]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e330]: Epilepsy or other seizure disorder
+                - listitem [ref=e331]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e332]: Intellectual or developmental disability
+                - listitem [ref=e333]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e334]: Missing limbs or partially missing limbs
+                - listitem [ref=e335]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e336]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e337]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e338]: Partial or complete paralysis (any cause)
+                - listitem [ref=e339]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e340]: Short stature (dwarfism)
+                - listitem [ref=e341]: Traumatic brain injury
+            - generic [ref=e344]:
+              - generic [ref=e345]: Disability Status
+              - generic [ref=e346]:
+                - log [ref=e348]
+                - generic [ref=e350]:
+                  - generic [ref=e351]:
+                    - generic [ref=e352]: Select...
+                    - combobox "Disability Status" [ref=e354]
+                  - button "Toggle flyout" [ref=e356] [cursor=pointer]:
+                    - img [ref=e357]
+            - paragraph [ref=e360]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e362] [cursor=pointer]
+  - contentinfo [ref=e363]:
+    - generic [ref=e364]:
+      - paragraph [ref=e365]: Powered by
+      - link "Greenhouse logo" [ref=e366] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e367]

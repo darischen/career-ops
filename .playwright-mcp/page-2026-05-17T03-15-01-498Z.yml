@@ -1,0 +1,273 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "Perpay - Career's Page Logo" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - heading "Software Engineer, New Grad" [level=1] [ref=e10]
+            - generic [ref=e11]:
+              - img [ref=e12]
+              - generic [ref=e14]: Philadelphia, Pennsylvania, United States
+          - button "Apply" [ref=e15] [cursor=pointer]
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - heading "About Us:" [level=3] [ref=e18]:
+              - strong [ref=e19]: "About Us:"
+            - paragraph [ref=e20]: Perpay is a certified B Corp and Philadelphia’s most impactful growth-stage startup. We are driven by a mission to significantly improve the financial stability of everyday Americans. For the past decade, we have established strong product-market fit and a profitable, efficient operating model across a suite of products, positioning Perpay as the premier financial partner for consumers with subprime credit.
+            - paragraph [ref=e21]: With over 500,000 customers who have utilized more than $1 billion in spending power, we are at a pivotal moment. We are scaling our operations, building new offerings, and deepening our impact. We are looking for teammates eager to join us on this journey.
+            - paragraph [ref=e22]: Our venture partners include First Round Capital and L Catterton.
+            - paragraph [ref=e23]: "Products we’ve built to make an impact:"
+            - list [ref=e24]:
+              - listitem [ref=e25]: "Perpay Marketplace: Combines interest-free payments and modern e-commerce to reduce cost of ownership and promote healthy repayment behavior."
+              - listitem [ref=e26]: "Perpay+: Leverages Marketplace repayment history to help members monitor and build credit with all 3 credit bureaus."
+              - listitem [ref=e27]: "Perpay Credit Card: Expands access to the flexibility and benefits of a World Mastercard by removing common barriers like high security deposits and low approval odds."
+            - paragraph [ref=e28]: Our team thrives on in-person collaboration, operating from our unique center-city Philadelphia office. This comfortable "home away from home" space offers river views and fosters rapid product development, strong relationships, and career growth. The energy from achieving big wins is palpable here. While we primarily work in the office, we offer sensible flexibility for personal needs, such as sick children or urgent errands, and coordinate official remote weeks around major holidays. If you are passionate about a meaningful mission, collaboration, equity, and generous perks, Perpay is the best place to be in Philadelphia right now.
+          - generic [ref=e29]:
+            - paragraph [ref=e30]:
+              - strong [ref=e31]: "About the Role:"
+            - paragraph [ref=e32]: We are looking for motivated graduates to join our Software Engineering team in 2026! You’ll contribute to our codebase, test & release features into production, and collaborate with other teams like product, design, data science, analytics, and operations. The ideal candidate has software development internship experience and is enthusiastic about learning and growing! We're particularly interested in working with candidates excited about joining a mission-driven startup. On our team, you’ll sharpen your skills, learn new tools alongside other new graduates, and learn from experienced engineers. Plus, our team organizes events and social gatherings outside of work hours. We believe having a fun and engaging work environment is essential to fostering a positive company culture and creating a strong foundation for career growth.
+            - paragraph [ref=e33]: "Much of our team is fullstack, so we look for team members excited to learn new technologies and work across all stacks, even if it’s not something you’ve done before! Our tech stack: Javascript, React, React Native, Redux, Python, Django, Kubernetes, AWS, Docker, Terraform, and more."
+            - paragraph [ref=e34]: Our greatest strength is our people, and we’d love for you to be one of them!
+            - paragraph [ref=e35]
+            - paragraph [ref=e36]:
+              - strong [ref=e37]: "Responsibilities:"
+            - list [ref=e38]:
+              - listitem [ref=e39]: Develop, test, and release features for our customer-facing and internal platforms alongside the engineering team
+              - listitem [ref=e40]: Write clean, efficient, and maintainable code
+              - listitem [ref=e41]: Collaborate cross-functionally to develop efficient and user-friendly solutions to support the complex needs of our business
+              - listitem [ref=e42]: Actively participate in design reviews, code reviews, and discussions to improve our software architecture and implement efficient processes within our engineering team
+            - heading [level=3] [ref=e43]
+            - paragraph [ref=e44]:
+              - strong [ref=e45]: "What You’ll Bring:"
+            - list [ref=e46]:
+              - listitem [ref=e47]: Currently pursuing a Bachelor’s degree or higher or a recent graduate studying Computer Science, Mathematics, or a related technical field
+              - listitem [ref=e48]: 1 to 2 previous Software Engineering internships with a focus on fullstack software development
+              - listitem [ref=e49]: Experience with at least one backend application framework such as Django or Flask
+              - listitem [ref=e50]: Experience with frontend technologies such as React, Angular, or Vue.js
+              - listitem [ref=e51]: Knowledge of RESTful API design and integration
+              - listitem [ref=e52]: Experience with Python or another dynamically typed language
+              - listitem [ref=e53]: A strong focus on writing and deploying clear, readable, testable code
+              - listitem [ref=e54]: Ability to pick up new technologies quickly, with software engineering fundamentals being valued more than familiarity with specific tools or languages
+              - listitem [ref=e55]: Eagerness to learn, grow, and seek feedback from team members
+              - listitem [ref=e56]: Strong communication skills
+            - paragraph [ref=e57]: Even if you don't check all the boxes, please apply if interested. You might be exactly what we're looking for!
+          - generic [ref=e58]:
+            - heading "What We’ll Bring to Full-time Team Members:" [level=3] [ref=e59]:
+              - strong [ref=e60]: "What We’ll Bring to Full-time Team Members:"
+            - list [ref=e61]:
+              - listitem [ref=e62]: Meaningful compensation and equity
+              - listitem [ref=e63]: Premium medical benefits (fully paid base plan, and very reasonable premium for the buy-up option)
+              - listitem [ref=e64]: 4% employer 401k match
+              - listitem [ref=e65]: Unlimited PTO policy
+              - listitem [ref=e66]: Remote weeks around major holidays + extra holiday on weekends like MDW and LDW
+              - listitem [ref=e67]: High quality catered lunch by local chefs, 4 days / week
+              - listitem [ref=e68]: Gym subsidy
+              - listitem [ref=e69]: Paid cell phone + plan
+              - listitem [ref=e70]: Student loan repayment program
+              - listitem [ref=e71]: Relocation assistance
+              - listitem [ref=e72]: Generous team member discounts
+            - paragraph [ref=e73]: This is not a remote opportunity; it is 100% onsite (#LI-Onsite) (#LI-TH1) (#LI-AK1)
+            - paragraph [ref=e74]:
+              - emphasis [ref=e75]: Perpay is proud to be an equal opportunity employer. We value diversity in all its forms and are committed to creating an inclusive environment. We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, sex (including pregnancy), marital status, political affiliation, age, veteran status, disability status or other non-merit factor. Please contact us at careers@perpay.com to request accommodation.
+      - separator [ref=e76]
+      - generic [ref=e77]:
+        - generic [ref=e79]:
+          - heading "Apply for this job" [level=2] [ref=e81]
+          - generic [ref=e82]:
+            - paragraph [ref=e84]: "*"
+            - paragraph [ref=e85]: indicates a required field
+        - generic [ref=e86]:
+          - generic [ref=e87]:
+            - generic [ref=e90]:
+              - generic [ref=e91]: First Name*
+              - textbox "First Name" [ref=e92]
+            - generic [ref=e95]:
+              - generic [ref=e96]: Last Name*
+              - textbox "Last Name" [ref=e97]
+            - generic [ref=e100]:
+              - generic [ref=e101]: Email*
+              - textbox "Email" [ref=e102]
+            - group "Phone" [ref=e104]:
+              - generic [ref=e105]: Phone
+              - generic [ref=e108]:
+                - generic [ref=e109]: Country*
+                - generic [ref=e110]:
+                  - log [ref=e112]
+                  - generic [ref=e114]:
+                    - combobox "Country" [ref=e117]
+                    - button "Toggle flyout" [ref=e119] [cursor=pointer]:
+                      - img [ref=e120]
+                  - textbox
+              - generic [ref=e124]:
+                - generic [ref=e125]: Phone*
+                - textbox "Phone" [ref=e126]
+            - group "Resume/CV*" [ref=e128]:
+              - generic [ref=e129]: Resume/CV*
+              - generic [ref=e131]:
+                - generic [ref=e133]:
+                  - button "Attach" [ref=e134] [cursor=pointer]
+                  - generic [ref=e135]: Attach
+                  - button "Attach" [ref=e136]
+                - button "Dropbox" [ref=e138] [cursor=pointer]
+                - button "Google Drive" [ref=e140] [cursor=pointer]
+                - generic [ref=e142]:
+                  - button "Enter manually" [ref=e143] [cursor=pointer]
+                  - generic [ref=e144]: Enter manually
+                - paragraph [ref=e145]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e147]:
+              - generic [ref=e148]: Cover Letter
+              - generic [ref=e150]:
+                - generic [ref=e152]:
+                  - button "Attach" [ref=e153] [cursor=pointer]
+                  - generic [ref=e154]: Attach
+                  - button "Attach" [ref=e155]
+                - button "Dropbox" [ref=e157] [cursor=pointer]
+                - button "Google Drive" [ref=e159] [cursor=pointer]
+                - generic [ref=e161]:
+                  - button "Enter manually" [ref=e162] [cursor=pointer]
+                  - generic [ref=e163]: Enter manually
+                - paragraph [ref=e164]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e165]:
+            - generic [ref=e166]:
+              - separator [ref=e167]
+              - paragraph [ref=e169]: Education
+              - generic [ref=e171]:
+                - generic [ref=e172]: School*
+                - generic [ref=e173]:
+                  - log [ref=e175]
+                  - generic [ref=e177]:
+                    - generic [ref=e178]:
+                      - generic [ref=e179]: Select...
+                      - combobox "School" [ref=e181]
+                    - button "Toggle flyout" [ref=e183] [cursor=pointer]:
+                      - img [ref=e184]
+                  - textbox
+              - generic [ref=e187]:
+                - generic [ref=e188]: Degree*
+                - generic [ref=e189]:
+                  - log [ref=e191]
+                  - generic [ref=e193]:
+                    - generic [ref=e194]:
+                      - generic [ref=e195]: Select...
+                      - combobox "Degree" [ref=e197]
+                    - button "Toggle flyout" [ref=e199] [cursor=pointer]:
+                      - img [ref=e200]
+                  - textbox
+              - generic [ref=e203]:
+                - generic [ref=e204]: Discipline*
+                - generic [ref=e205]:
+                  - log [ref=e207]
+                  - generic [ref=e209]:
+                    - generic [ref=e210]:
+                      - generic [ref=e211]: Select...
+                      - combobox "Discipline" [ref=e213]
+                    - button "Toggle flyout" [ref=e215] [cursor=pointer]:
+                      - img [ref=e216]
+                  - textbox
+              - generic [ref=e219]:
+                - generic [ref=e221]:
+                  - generic [ref=e222]: End date month*
+                  - generic [ref=e223]:
+                    - log [ref=e225]
+                    - generic [ref=e227]:
+                      - generic [ref=e228]:
+                        - generic [ref=e229]: Select...
+                        - combobox "End date month" [ref=e231]
+                      - button "Toggle flyout" [ref=e233] [cursor=pointer]:
+                        - img [ref=e234]
+                    - textbox
+                - generic [ref=e237]:
+                  - generic [ref=e238]: End date year*
+                  - spinbutton "End date year" [ref=e239]
+            - button "Add another" [ref=e240] [cursor=pointer]
+          - generic [ref=e241]:
+            - separator [ref=e242]
+            - generic [ref=e245]:
+              - generic [ref=e246]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e247]
+            - generic [ref=e250]:
+              - generic [ref=e251]: I understand this is an in-person role in Philadelphia, PA.*
+              - generic [ref=e252]:
+                - log [ref=e254]
+                - generic [ref=e256]:
+                  - generic [ref=e257]:
+                    - generic [ref=e258]: Select...
+                    - combobox "I understand this is an in-person role in Philadelphia, PA." [ref=e260]
+                  - button "Toggle flyout" [ref=e262] [cursor=pointer]:
+                    - img [ref=e263]
+                - textbox
+            - generic [ref=e267]:
+              - generic [ref=e268]: How did you hear about us?*
+              - generic [ref=e269]:
+                - log [ref=e271]
+                - generic [ref=e273]:
+                  - generic [ref=e274]:
+                    - generic [ref=e275]: Select...
+                    - combobox "How did you hear about us?" [ref=e277]
+                  - button "Toggle flyout" [ref=e279] [cursor=pointer]:
+                    - img [ref=e280]
+                - textbox
+            - generic [ref=e284]:
+              - generic [ref=e285]: Did you attend a 2026 spring career fair?*
+              - generic [ref=e286]:
+                - log [ref=e288]
+                - generic [ref=e290]:
+                  - generic [ref=e291]:
+                    - generic [ref=e292]: Select...
+                    - combobox "Did you attend a 2026 spring career fair?" [ref=e294]
+                  - button "Toggle flyout" [ref=e296] [cursor=pointer]:
+                    - img [ref=e297]
+                - textbox
+            - generic [ref=e301]:
+              - generic [ref=e302]: What excites you about this opportunity?*
+              - textbox "What excites you about this opportunity?" [ref=e303]
+            - generic [ref=e306]:
+              - generic [ref=e307]: Do you have a personal project you're proud of that you'd like to share?*
+              - generic [ref=e308]:
+                - log [ref=e310]
+                - generic [ref=e312]:
+                  - generic [ref=e313]:
+                    - generic [ref=e314]: Select...
+                    - combobox "Do you have a personal project you're proud of that you'd like to share?" [ref=e316]
+                  - button "Toggle flyout" [ref=e318] [cursor=pointer]:
+                    - img [ref=e319]
+                - textbox
+            - generic [ref=e323]:
+              - generic [ref=e324]: If you have a personal project, share the link and tell us about it!
+              - textbox "If you have a personal project, share the link and tell us about it!" [ref=e325]
+            - generic [ref=e328]:
+              - generic [ref=e329]: Describe a situation and your response to it that shows how you demonstrate a high level of grit.*
+              - textbox "Describe a situation and your response to it that shows how you demonstrate a high level of grit." [ref=e330]
+            - generic [ref=e333]:
+              - generic [ref=e334]: Tell us about a time you took full ownership of a challenging moment (outside of your schoolwork), and saw it through to the end.*
+              - textbox "Tell us about a time you took full ownership of a challenging moment (outside of your schoolwork), and saw it through to the end." [ref=e335]
+            - generic [ref=e338]:
+              - generic [ref=e339]: Will you now or in the future require sponsorship for employment visa status?*
+              - generic [ref=e340]:
+                - log [ref=e342]
+                - generic [ref=e344]:
+                  - generic [ref=e345]:
+                    - generic [ref=e346]: Select...
+                    - combobox "Will you now or in the future require sponsorship for employment visa status?" [ref=e348]
+                  - button "Toggle flyout" [ref=e350] [cursor=pointer]:
+                    - img [ref=e351]
+                - textbox
+            - generic [ref=e355]:
+              - generic [ref=e356]: Are you legally authorized to work in the United States on a full-time basis?*
+              - generic [ref=e357]:
+                - log [ref=e359]
+                - generic [ref=e361]:
+                  - generic [ref=e362]:
+                    - generic [ref=e363]: Select...
+                    - combobox "Are you legally authorized to work in the United States on a full-time basis?" [ref=e365]
+                  - button "Toggle flyout" [ref=e367] [cursor=pointer]:
+                    - img [ref=e368]
+                - textbox
+          - button "Submit application" [ref=e371] [cursor=pointer]
+  - contentinfo [ref=e372]:
+    - generic [ref=e373]:
+      - paragraph [ref=e374]: Powered by
+      - link "Greenhouse logo" [ref=e375] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e376]

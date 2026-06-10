@@ -1,0 +1,185 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e8]:
+    - generic [ref=e10]:
+      - link "search for jobs" [ref=e13] [cursor=pointer]:
+        - /url: /en-US/amcor_external_career_site
+        - img "search for jobs" [ref=e14]
+      - heading "Current employee with Workday access? Apply through your Workday account!" [level=1] [ref=e16]
+      - button "main menu" [ref=e18] [cursor=pointer]
+  - generic [ref=e25]:
+    - alert [ref=e26]: AI Full Stack Engineer page is loaded
+    - generic [ref=e27]:
+      - generic [ref=e29]:
+        - heading "AI Full Stack Engineer" [level=2] [ref=e30]
+        - button "Apply" [ref=e35] [cursor=pointer]
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - generic [ref=e45]:
+            - term [ref=e46]: locations
+            - definition [ref=e47]: AF Deerfield IL Corporate
+            - definition [ref=e48]: ASC Atlanta HQ GA
+            - definition [ref=e49]: CORP Evansville Head Division Office IN
+          - generic [ref=e50]:
+            - generic [ref=e59]:
+              - term [ref=e60]: time type
+              - definition [ref=e61]: Full time
+            - generic [ref=e70]:
+              - term [ref=e71]: posted on
+              - definition [ref=e72]: Posted Yesterday
+            - generic [ref=e81]:
+              - term [ref=e82]: job requisition id
+              - definition [ref=e83]: REQ_89843
+        - generic [ref=e85]:
+          - heading "Accelerate the possible by joining a winning Amcor team that’s transforming the packaging industry and improving lives around the world." [level=1] [ref=e86]
+          - paragraph [ref=e87]: At Amcor, we unpack possibility through our innovative and responsible packaging to provide solutions that benefit our customers, our people and our planet. More than 10,000 consumers worldwide encounter our products every second and rely on us for safe access to food, medicine and other goods. We value their trust by making safety our guiding principle. It’s our core value and integral to how we do business.
+          - paragraph [ref=e88]: Beyond this core principle, our shared values and behaviors unite us as we work together to elevate customers, shape lives and protect the future. We champion our customers and help them succeed. We play to win – adapting quickly in an everchanging world – and make smart choices to safeguard our business, our communities and the people we serve for generations to come. And we invest in our world-class team, empowering our colleagues to unpack their potential, because we believe when our people grow, so does our business.
+          - paragraph [ref=e89]:
+            - text: To learn more about playing for Team Amcor, visit
+            - link "www.amcor.com" [ref=e90] [cursor=pointer]:
+              - /url: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.amcor.com%2F&data=05%7C02%7CThomas.Kern%40amcor.com%7C42d29976ac134ceac0b608dd916bda6f%7Cfe9c207fda30422682b5bff6ef031c8c%7C0%7C0%7C638826614598236932%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=kRZggeckbCPweNI818auVitBqczzJ8PiTYvaSRZWTkg%3D&reserved=0
+            - text: I
+            - link "LinkedIn" [ref=e91] [cursor=pointer]:
+              - /url: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Famcor&data=05%7C02%7CThomas.Kern%40amcor.com%7C42d29976ac134ceac0b608dd916bda6f%7Cfe9c207fda30422682b5bff6ef031c8c%7C0%7C0%7C638826614598266055%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7FYmdVari7GZ6Tb%2Fw9RJdROKz%2BqEkg8tJquYOqRata0%3D&reserved=0
+            - text: I
+            - link "Glassdoor" [ref=e92] [cursor=pointer]:
+              - /url: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Amcor-EI_IE33818.11%2C16.htm&data=05%7C02%7CThomas.Kern%40amcor.com%7C42d29976ac134ceac0b608dd916bda6f%7Cfe9c207fda30422682b5bff6ef031c8c%7C0%7C0%7C638826614598283157%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Xg9Attq7ThQDCRNtj%2BOjx7nUfioqDKHhgmPB8gp2oDE%3D&reserved=0
+            - text: I
+            - link "Facebook" [ref=e93] [cursor=pointer]:
+              - /url: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Famcorlimited%2F&data=05%7C02%7CThomas.Kern%40amcor.com%7C42d29976ac134ceac0b608dd916bda6f%7Cfe9c207fda30422682b5bff6ef031c8c%7C0%7C0%7C638826614598299042%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=I8IJ9fhmNTa6lxfN51IxnHOgdBIiOuM%2B0lTlH8XJKHo%3D&reserved=0
+            - text: I
+            - link "YouTube" [ref=e94] [cursor=pointer]:
+              - /url: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fuser%2FAmcorPackaging&data=05%7C02%7CThomas.Kern%40amcor.com%7C42d29976ac134ceac0b608dd916bda6f%7Cfe9c207fda30422682b5bff6ef031c8c%7C0%7C0%7C638826614598315782%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=r0s3GeIAxDI1SME1KIuvOUKWieq2wghotSJCnWxHjmM%3D&reserved=0
+          - paragraph [ref=e95]
+          - paragraph [ref=e96]
+          - heading "Job Description" [level=1] [ref=e97]
+          - paragraph [ref=e98]: About the role
+          - paragraph [ref=e99]
+          - paragraph [ref=e100]:
+            - text: An AI Full Stack Engineer is responsible for designing, developing, and deploying machine learning, AI models and algorithms to enhance products and services, collaborates with key business data owners, data governance, data engineering, and IT application business analysts to align strategies, maintain execution transparency, and support effective delivery.
+            - text: This role leads the design and execution of regional or multi-site AI/ Gen AI/ML Models that drive operational efficiency, sustainability, and supply chain visibility. Defines and manages AI/ML roadmaps within a business domain, manages cross-functional teams, and translates business needs into scalable data solutions. Operates with moderate autonomy, influences data architecture decisions, and ensures alignment with global standards. Skilled in cloud platforms, data modelling, and stakeholder engagement. In addition to AI/ML expertise, this role encompasses full stack development — building and maintaining frontend user interfaces, RESTful and GraphQL APIs, backend services, and database layers — to deliver end-to-end AI-powered applications from model to production UI.
+          - paragraph [ref=e101]
+          - paragraph [ref=e102]: Key Job Accountabilities
+          - list [ref=e103]:
+            - listitem [ref=e104]: "Model Development: Design and develop machine learning models and algorithms tailored to specific business needs. Design and implement production‑ready RAG systems that connect LLMs to enterprise data sources (data lake, Microsoft Fabric, SAP, MES, document repositories); own prompt templates, retrieval strategies, and evaluation; optimize for accuracy, latency, and cost. Build AI agents that orchestrate multi‑step workflows"
+            - listitem [ref=e105]: "Collaboration: Work closely with data scientists, software engineers, and cross-functional teams to integrate models into production systems."
+            - listitem [ref=e106]: "Data Analysis: Analyze large and complex datasets to extract actionable insights and improve model performance."
+            - listitem [ref=e107]: "Optimization: Tune and enhance model performance and accuracy through iterative testing and validation.\""
+            - listitem [ref=e108]: "Documentation: Maintain thorough documentation of AI/ML models, experiments, and processes to ensure reproducibility and knowledge sharing."
+            - listitem [ref=e109]: "Stay Updated: Keep abreast of the latest advancements in AI and ML technologies to apply innovative solutions in projects."
+            - listitem [ref=e110]: Establish and maintain working relationships with Amcor business stakeholders. Engage enterprise decision makers and stakeholders to facilitate group decisions and outcomes.
+            - listitem [ref=e111]: "Full Stack Development: Design and build end-to-end AI-powered applications encompassing frontend user interfaces, backend APIs, and integration layers that surface AI/ML model outputs to end users."
+            - listitem [ref=e112]: "API & Backend Services: Develop and maintain RESTful and/or GraphQL APIs and backend microservices that connect AI/ML models to enterprise data sources and front-end applications."
+            - listitem [ref=e113]: "Database Design & Management: Design, implement, and optimize relational and NoSQL database schemas to support AI application data needs, including vector databases for embedding storage and retrieval."
+            - listitem [ref=e114]: "Cloud Deployment & DevOps: Deploy and manage full stack applications on cloud platforms (Azure/AWS/GCP); implement CI/CD pipelines, containerization (Docker/Kubernetes), and infrastructure-as-code practices to ensure reliable, scalable delivery of AI solutions."
+          - paragraph [ref=e115]
+          - paragraph [ref=e116]
+          - paragraph [ref=e117]:
+            - generic [ref=e118]: Qualifications/Requirements
+          - list [ref=e119]:
+            - listitem [ref=e120]: "Educational Background: Bachelor’s in computer science, Machine Learning, or a related field."
+            - listitem [ref=e121]: 2 - 4 years’ experience as an AI/ML Engineer or in a similar role, with a strong understanding of machine learning algorithms and principles
+            - listitem [ref=e122]: Experienced in Large Language Models, Transformers, CNN, Scikit-learn, NLP libraries, Embedding Models, Vector Databases, AI Agents, and Agentic orchestrations.
+            - listitem [ref=e123]: "Technical Proficiency: Familiarity with deep learning frameworks such as TensorFlow or PyTorch, Kerasand proficiency in programming languages like Python, PySpark, R, or Java."
+            - listitem [ref=e124]: Experience with data visualization tools (Power BI and Tableau)
+            - listitem [ref=e125]: "Frontend Development: Proficiency in modern frontend web technologies and frameworks (e.g. component-based UI libraries, HTML5, CSS3) to build responsive, user-friendly interfaces for AI-powered applications."
+            - listitem [ref=e126]: "Backend & API Development: Experience designing and building RESTful and/or GraphQL APIs using Python-based frameworks (e.g. FastAPI, Flask, Django) or Node.js; understanding of microservices architecture and API security best practices."
+            - listitem [ref=e127]: "Database Skills: Hands-on experience with relational databases (e.g. SQL Server, PostgreSQL) and NoSQL/vector databases; ability to design schemas, write optimized queries, and manage data pipelines that feed AI applications."
+            - listitem [ref=e128]: "Cloud & DevOps: Familiarity with containerization (Docker, Kubernetes), CI/CD tooling, and infrastructure-as-code on major cloud platforms (Azure, AWS, or GCP) to deploy and operate full stack AI solutions reliably at scale."
+          - paragraph [ref=e129]
+          - paragraph [ref=e130]: "#LI-Hybrid"
+          - paragraph [ref=e131]
+          - paragraph [ref=e132]
+          - paragraph [ref=e133]
+          - heading "Our Expectations" [level=1] [ref=e134]:
+            - generic [ref=e148]: Our Expectations
+          - paragraph [ref=e149]: "We expect our people to be guided by The Amcor Way and demonstrate our Values every day to enable the business to win. We are winning when:"
+          - list [ref=e150]:
+            - listitem [ref=e151]: Our people are engaged and developing as part of a high-performing Amcor team
+            - listitem [ref=e152]: Our customers grow and prosper from Amcor’s quality, service, and innovation
+            - listitem [ref=e153]: Our investors benefit from Amcor’s consistent growth and superior returns
+            - listitem [ref=e154]: The environment is better off because of Amcor’s leadership and products
+          - paragraph [ref=e155]
+          - paragraph [ref=e156]
+          - heading "Equal Opportunity Employer/Minorities/Females/Disabled/Veterans/Sexual Orientation/Gender Identity" [level=1] [ref=e157]:
+            - generic [ref=e158]:
+              - text: Equal Opportunity
+              - generic [ref=e172]: Employer/Minorities/Females/Disabled/Veterans/Sexual
+              - text: Orientation/Gender Identity
+          - paragraph [ref=e173]: Amcor is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+          - paragraph [ref=e174]
+          - paragraph [ref=e175]:
+            - text: If you would like more information about your EEO rights as an applicant under the law, please click on the
+            - 'link "\"Know Your Rights: Workplace Discrimination is Illegal\" Poster" [ref=e177] [cursor=pointer]':
+              - /url: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.eeoc.gov%2Fsites%2Fdefault%2Ffiles%2F2023-06%2F22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&data=05%7C02%7CThomas.Kern%40amcor.com%7C417aa497dce541ac696708dd9705e70e%7Cfe9c207fda30422682b5bff6ef031c8c%7C0%7C0%7C638832773788933532%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2BaVM8gpzvoRbMqwzITndpLHpIuktjsjsq4VV7dt7LtA%3D&reserved=0
+            - text: . If, because of a medical condition or disability, you need a reasonable accommodation for any part of the employment process, please call 224-313-7000 and let us know the nature of your request and your contact information.
+          - paragraph [ref=e178]
+          - paragraph [ref=e179]
+          - heading "E-Verify" [level=1] [ref=e180]
+          - paragraph [ref=e181]: We verify the identity and employment authorization of individuals hired for employment in the United States.
+          - paragraph [ref=e182]
+          - paragraph [ref=e183]
+          - heading "Compensation" [level=1] [ref=e184]
+          - text: The starting salary for this position is expected to be between $85 600 to $107 000; however, base pay offered may vary within the full salary range $85 600 to $128 400 depending on job-related knowledge, skills, and experience. Base pay information is based on national averages and a geographic differential may be applied based on work location. Position may also be eligible for Amcor’s Management Incentive Plan / Sales Incentive Plan, which is an annual bonus program based on business and individual performance, as well as medical coverage and other health and welfare benefits. The salary range provided reflects the anticipated base pay for this role at the time of this posting. This range is applicable to positions performed in jurisdictions with pay transparency requirements, including CA, CO, CT, HI, IL, MD, MA, MN, NV, NJ, NY, RI, VT, WA, Washington DC, as well as remote roles that may be performed in these locations. Compensation for roles performed outside of these jurisdictions may vary. The Company reserves the right to modify this range at any time.
+          - heading [level=1]
+          - paragraph [ref=e185]
+          - heading "Benefits" [level=1] [ref=e186]
+          - paragraph [ref=e187]: "When you join Amcor, you will have access to a comprehensive benefits and compensation package that includes:"
+          - list [ref=e188]:
+            - listitem [ref=e189]:
+              - paragraph [ref=e190]: Medical, dental and vision plans
+            - listitem [ref=e191]:
+              - paragraph [ref=e192]: Flexible time off, starting at 80 hours paid time per year for full-time salaried employees
+            - listitem [ref=e193]:
+              - paragraph [ref=e194]: Company-paid holidays starting at 8 days per year and may vary by location
+            - listitem [ref=e195]:
+              - paragraph [ref=e196]: Wellbeing program & Employee Assistance Program
+            - listitem [ref=e197]:
+              - paragraph [ref=e198]: Health Savings Account/Flexible Spending Account
+            - listitem [ref=e199]:
+              - paragraph [ref=e200]: Life insurance, AD&D, short-term & long-term disability, and voluntary benefits
+            - listitem [ref=e201]:
+              - paragraph [ref=e202]: Paid Parental Leave
+            - listitem [ref=e203]:
+              - paragraph [ref=e204]: Retirement Savings Plan with company match
+            - listitem [ref=e205]:
+              - paragraph [ref=e206]: Tuition Reimbursement (dependent upon approval)
+            - listitem [ref=e207]:
+              - paragraph [ref=e208]: Discretionary annual bonus program (initial eligibility dependent upon hire date)
+    - generic [ref=e211]:
+      - heading "About Us" [level=3] [ref=e212]
+      - img "Logo" [ref=e213]
+      - generic [ref=e215]:
+        - generic [ref=e217]:
+          - paragraph [ref=e218]: About Amcor
+          - paragraph [ref=e219]: "Amcor is the global leader in developing and producing responsible consumer packaging and dispensing solutions across a variety of materials for nutrition, health, beauty and wellness categories. Our global product innovation and sustainability expertise enables us to solve packaging challenges around the world every day, producing a range of flexible packaging, rigid packaging, cartons and closures that are more sustainable, functional and appealing for our customers and their consumers. We are guided by our purpose of elevating customers, shaping lives and protecting the future. Supported by a commitment to safety, over 75,000 people generate $23 billion in annualized sales from operations that span over 400 locations in more than 40 countries. NYSE: AMCR; ASX: AMC"
+          - paragraph [ref=e220]:
+            - link [ref=e221] [cursor=pointer]:
+              - /url: https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.amcor.com%2F&data=05%7C02%7CThomas.Kern%40amcor.com%7C21ec88cd0c8e4cb35fc708ddeb0a82a6%7Cfe9c207fda30422682b5bff6ef031c8c%7C0%7C0%7C638925152726042078%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xYOHyKXLRXl0DQqsVFgu3ZRcRDB%2F2MTLYydIxlORvNA%3D&reserved=0
+              - text: www.amcor.com
+            - text: "|"
+            - link [ref=e222] [cursor=pointer]:
+              - /url: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Famcor%2F&data=05%7C02%7CThomas.Kern%40amcor.com%7C21ec88cd0c8e4cb35fc708ddeb0a82a6%7Cfe9c207fda30422682b5bff6ef031c8c%7C0%7C0%7C638925152726073171%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=dDAvFbFRcQlvA%2FLLGzVFCjkoFf5W%2FdAmHbW%2FtPDm6ZY%3D&reserved=0
+              - text: LinkedIn
+            - text: "|"
+            - link [ref=e223] [cursor=pointer]:
+              - /url: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fuser%2FAmcorPackaging&data=05%7C02%7CThomas.Kern%40amcor.com%7C21ec88cd0c8e4cb35fc708ddeb0a82a6%7Cfe9c207fda30422682b5bff6ef031c8c%7C0%7C0%7C638925152726089230%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2BkylER6cS46vu5O7n%2BIuKbOhe5i7B4bDzQ3cB28LyMc%3D&reserved=0
+              - text: YouTube
+          - paragraph [ref=e224]
+          - paragraph [ref=e225]:
+            - text: Amcor is committed to providing a secure and reliable experience for all job seekers. If you are looking to join Amcor, please read this page to help you avoid recruitment scams.
+            - link [ref=e226] [cursor=pointer]:
+              - /url: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.amcor.com%2Fcareers%2Femployment-scam&data=05%7C02%7CThomas.Kern%40amcor.com%7C21ec88cd0c8e4cb35fc708ddeb0a82a6%7Cfe9c207fda30422682b5bff6ef031c8c%7C0%7C0%7C638925152726105178%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=TtHL7nBijDrAdhvZt0pBZl1beKqwoDFhg6GqnfnsnU8%3D&reserved=0
+              - text: Click here!
+        - button "Read More" [ref=e229] [cursor=pointer]:
+          - generic [ref=e230]: Read More
+  - generic [ref=e234]:
+    - generic [ref=e235]: Follow Us
+    - list [ref=e236]:
+      - listitem [ref=e237] [cursor=pointer]:
+        - link "LinkedIn" [ref=e238]:
+          - /url: https://www.linkedin.com/company/amcor/
+    - generic [ref=e242]:
+      - img [ref=e246]
+      - generic [ref=e266]: © 2026 Workday, Inc. All rights reserved.

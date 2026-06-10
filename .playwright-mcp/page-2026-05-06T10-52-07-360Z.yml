@@ -1,0 +1,159 @@
+- generic [active] [ref=e1]:
+  - link "webfx.com logo" [ref=e4] [cursor=pointer]:
+    - /url: https://www.webfx.com/careers/
+    - img "webfx.com logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "Entry Level Software Engineer" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: Harrisburg, PA
+          - generic [ref=e14]: "R&D: Engineering – Tech Enablement & R&D Engineering /"
+          - generic [ref=e15]: Full time /
+          - generic [ref=e16]: On-site
+      - link "apply for this job" [ref=e18] [cursor=pointer]:
+        - /url: https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f/apply
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e21]: "Hi there! We're WebFX, a full-service digital marketing agency based in the US. We've been 10x named the Best Place To Work in Pennsylvania, and we'd love to meet you! We are a fast-growing company that has doubled in size over the past 5 years, with talented team members now based around the globe (and representing 18+ different countries!). While we are growing at a rapid rate, we are committed to growing strategically and sustainably, and that starts with growing our team of the #BestCoworkers - that’s where you come in!"
+        - generic [ref=e23]: We're looking for people to join our mission to provide world-class digital marketing solutions to mid-size businesses around the world. We are passionate about what we do, we’re committed to driving business growth for our clients, and we’re on the hunt for people just like you, who take pride in their work and want to be part of a company that does too.
+        - generic [ref=e25]: You Might Be a Great Fit For This Position if You Have…
+        - generic [ref=e27]: A Bachelor’s Degree
+        - generic [ref=e28]: Successful Fxers in this role have majored in computer science and related fields
+        - generic [ref=e29]: GPA above 3.7
+        - generic [ref=e31]: A Few Related Skills and Experiences
+        - generic [ref=e32]: "(This is an entry-level role, and experience in every one of these areas is not required - training is provided on all core platforms, tools, and technologies you will need to know! But the following skills/experience are awesome to have, and will help get your career off to a running start:):"
+        - generic [ref=e34]: Part-time/Full-time/summer job/internship experience is a must
+        - generic [ref=e35]: Experience with open-source web development
+        - generic [ref=e36]: Experience with web-based programming languages (JavaScript, HTML, etc.)
+        - generic [ref=e37]: Project-level experience with at least one JavaScript-based project
+        - generic [ref=e38]: Experience with Cloud Computing Programs, Google Cloud Platform, AWS, Azure, etc.
+        - generic [ref=e39]: Experience with OOP and procedural programming methodologies
+        - generic [ref=e40]: Understanding of software development life-cycles and best practices
+        - generic [ref=e41]: Knowledge of standard-compliant HTML, CSS, and Javascript
+        - generic [ref=e42]: Database experience (MySQL, Google BigQuery)
+        - generic [ref=e43]: Experience with CCS Frameworks (Bootstrap, Foundation, Intuit, etc.)
+        - generic [ref=e44]: Experience with JS Frameworks (JQuery, React, Vue, Backbone, etc.)
+        - generic [ref=e45]: Experience with Git Version control (or other version control software)
+        - generic [ref=e46]: Experience with package management and Task Runners (NPM, Yarn, Gulp, Grunt)
+        - generic [ref=e47]: Experience with browser testing using built-in developer tools
+        - generic [ref=e48]: Familiarity with TensorFlow and Machine Learning
+        - generic [ref=e49]: Experience with NodeJS
+        - generic [ref=e50]: Experience with SaaS monitoring software such as DataDog
+        - generic [ref=e51]: Experience with data management using data pipeline tools
+        - generic [ref=e52]: Previous agency experience
+        - generic [ref=e54]: Any of these Signature FXer Traits!
+        - generic [ref=e55]: You’re passionate about web/software development - you even find yourself spending your free time tinkering and learning new technologies!
+        - generic [ref=e56]: You’re comfortable with both object-oriented and procedural programming methodologies
+        - generic [ref=e57]: You’re committed to delivering high-quality projects for clients
+        - generic [ref=e58]: You enjoy variety, and like the challenge of working on multiple projects
+        - generic [ref=e59]: You’re comfortable working both independently and as part of a team
+        - generic [ref=e60]: You take direction well, but aren’t afraid to take initiative and make decisions
+        - generic [ref=e61]: You see yourself as a problem-solver, and face challenges with a can-do mindset
+        - generic [ref=e62]: You put the customer and their goals first
+        - generic [ref=e63]: You have an interest in the web and stay up-to-date on new and developing technologies
+        - generic [ref=e64]: You are a professional, dependable, and independent worker with a solid work ethic
+        - generic [ref=e65]: You’re self-motivated, thrive on challenges, and enjoy getting things done
+        - generic [ref=e66]: You have an eye for detail and dedication to high-quality work
+        - generic [ref=e67]: You have an exceptional level of follow-through
+        - generic [ref=e68]: You possess excellent time/project management skills
+        - generic [ref=e69]: You work with a sense of urgency and can consistently meet deadlines
+        - generic [ref=e70]: You are an outstanding communicator and possess strong interpersonal skills
+        - generic [ref=e71]: You are a lifelong learner who loves to grow and stretch outside of your comfort zone, and are always looking to improve your skills
+        - generic [ref=e73]: "If any of these sound like you, then we want to hear from you! We are committed to growing 1% better everyday, and we believe working at WebFX could quite possibly make your life 1(00)% better - after all, you would be surrounded by the #BestCoworkersinPA!"
+        - generic [ref=e75]: In This Role, You’ll Get To…
+        - generic [ref=e77]: "- Build new features to add to our product suite using modern frameworks such as ReactJS and Feathers for NodeJS."
+        - generic [ref=e78]: "- Utilize modern cloud technologies within Google Cloud Platform to ensure high availability"
+        - generic [ref=e79]: "- Develop projects within individual namespaces pushed to deployment through Kubernetes"
+        - generic [ref=e80]: "- Perform functional testing while also utilizing unit and pipeline tests set up through our Kubernetes and CI/CD deployments"
+        - generic [ref=e81]: "- Collaborate with Project Managers and Quality Assurance Testers to keep projects within scope and delivered on time"
+        - generic [ref=e82]: "- Monitor, troubleshoot, and optimize application performance using modern full-stack logging technologies"
+        - generic [ref=e83]: "- Determine your own goals within each sprint cycle"
+        - generic [ref=e84]: "- Report on project KPIs"
+        - generic [ref=e85]: "- Explore new technologies and suggest new ways to enhance our roadmap to market velocity and reduce technical debt"
+        - generic [ref=e87]: "A Typical ‘Day in the Life’ Might Consist of:"
+        - generic [ref=e88]: 5% planning and quoting new functionality
+        - generic [ref=e89]: 10% consulting with other team members and clients
+        - generic [ref=e90]: 10% performing maintenance and debugging
+        - generic [ref=e91]: 75% building new functionality
+        - generic [ref=e92]: 100% pursuing your own personal best while delivering real-world impact for our clients
+        - generic [ref=e94]: What You’ll Get From Us!
+        - generic [ref=e96]: Opportunities to Learn and Train With Our Team!
+        - generic [ref=e97]: "-Our “Bootcamp” training program will be provided for new FXers to learn, grow and develop both in and out of the office in the specific hard skills necessary to be successful in their position"
+        - generic [ref=e98]: "-World-class on-the-job training from the experts (think Sr. Software Engineers, not the HR team) as well as opportunities for ongoing personal learning and development"
+        - generic [ref=e99]: "-On-site, state-of-the-art training amenities to facilitate departmental trainings, industry-related updates, and monthly Lunch-and-Learns."
+        - generic [ref=e101]: A Place to Grow Your Career
+        - generic [ref=e102]: WebFX grew 250%+ over the past 3 years, and we promote almost exclusively internally. Merit-based promotional opportunities are abundant for new FXers who meet or exceed position performance metrics.
+        - generic [ref=e104]: In-Person Experience Alongside Our Team of Industry Experts
+        - generic [ref=e105]:
+          - text: This position is based fully in-office at
+          - link "our riverside campus" [ref=e106] [cursor=pointer]:
+            - /url: https://www.webfx.com/about/offices/harrisburg/mansionfx/
+          - text: in Harrisburg, PA, with opportunities for this to evolve as Fxers advance in their career tenure.
+        - generic [ref=e108]: "Potential promotional path for the Entry-Level Software Engineer:"
+        - generic [ref=e109]: Software Engineer
+        - generic [ref=e110]: Associate Software Engineer
+        - generic [ref=e111]: Associate Lead Software Engineer
+        - generic [ref=e112]: Lead Software Engineer
+        - generic [ref=e113]: Sr. Software Engineer
+        - generic [ref=e115]: Compensation
+        - generic [ref=e116]: Negotiable
+      - generic [ref=e117]:
+        - generic [ref=e118]: Why Choose WebFX?
+        - generic [ref=e120]: "- We've been named the Best Place To Work in Pennsylvania 10 times 🎉"
+        - generic [ref=e121]: "- We have offices in Guatemala, South Africa, St. Petersburg FL, Ft. Myers FL, Lancaster, and York, PA! AND we're continuing to grow! 🌱📈"
+        - generic [ref=e122]: "- Entry-level roles - over 90% of our openings are open to brand new college grads! 🎓"
+        - generic [ref=e123]: "- Flexible Schedule (start your day between 8 and 10 am - when you do your best work!)"
+        - generic [ref=e124]: "- All technology & equipment provided (every FXer receives a tech set-up valued at ~$1500) 🖥️"
+        - generic [ref=e125]: "- Love animals? Cool, so do we! That's why we have a Pet Friendly Office 🐶"
+        - generic [ref=e126]: "- Profit Sharing 💰"
+        - generic [ref=e127]: "- Need that caffeine fix? On-site cappuccino machine, Little Amps Coffee Bar (with a barista!) & Tea Bar ☕"
+        - generic [ref=e128]: "- Looking for a little extra workday fuel? Enjoy surprise catered breakfasts, lunches, mid-day snacks, and more!"
+        - generic [ref=e129]: "- On-site Yoga sessions"
+        - generic [ref=e130]: "- On-site Fitness Center 🏋️‍♀️"
+        - generic [ref=e131]: "- 150% Company Match Of Personal Charity Donations"
+        - generic [ref=e132]: "- Our #FXBuilds program is set to positively impact 10,000 people around the world by 2024 - and every individual FXer’s work directly contributes! 🌍"
+        - generic [ref=e133]: "- Supplemental Insurance"
+        - generic [ref=e134]: "- 100% Company Match 401K (up to 4%) 💰"
+        - generic [ref=e135]: "- Generous Paid Time Off 🏖"
+        - generic [ref=e136]: "- Employee Wellness Program, including a free FitBit and fitness challenges 👟"
+        - generic [ref=e137]: "- Love to learn? You sound like an FXer! FXLearns Library with hundreds of personal and professional growth books with incentive program to boot 📚"
+        - generic [ref=e138]: "- Humanitarian Trips ✈️"
+        - generic [ref=e139]: "- Health/Vision/Dental Coverage, including FSA and HSA options with contribution matching 🩺"
+        - generic [ref=e140]: "- New Parent Support 👶🏿👶"
+        - generic [ref=e141]: "- Dressing up everyday not for you? We get it! Enjoy our Casual Dress Code"
+        - generic [ref=e142]: "- Home Buyer Program 🏡"
+        - generic [ref=e143]: "- Personal Desk Fund 💰"
+        - generic [ref=e144]: "- Green Commute Benefits"
+        - generic [ref=e145]: "- Pawternity Leave 🐱"
+        - generic [ref=e146]: "- Merit-based promotions (we promote from within, you will move up and grow here!)"
+        - generic [ref=e147]: "-The opportunity to be part of a passionate, driven team where we pride ourselves on delivering high-quality work that makes a real-world impact for our clients"
+        - generic [ref=e150]: "Check out our culture on social media:"
+        - link "Instagram" [ref=e152] [cursor=pointer]:
+          - /url: https://www.instagram.com/webfx
+        - link "Twitter" [ref=e154] [cursor=pointer]:
+          - /url: https://twitter.com/webfx
+        - link "Facebook" [ref=e156] [cursor=pointer]:
+          - /url: https://www.facebook.com/webfxinc/
+        - generic [ref=e158]: "*You don't need to apply more than once even if you're interested in multiple positions - you can simply let us know! We consider all open roles when reviewing resumes and applications!"
+        - generic [ref=e160]:
+          - text: We have a
+          - link "multi-step interview process" [ref=e161] [cursor=pointer]:
+            - /url: https://www.webfx.com/our-hiring-process.html
+          - text: ", where we focus on giving both our candidates, and ourselves, opportunities to get to know each other a bit better. While our process may be more thorough and perhaps longer than other interview processes that you've been a part of, our goal is to work together with our candidates to find a mutually beneficial fit, where a candidate is a great addition to the FXFamily, and WebFX is the right fit for their career goals. Interested in joining the FXFamily? You should definitely apply now!"
+        - generic [ref=e163]:
+          - text: WebFX is an Equal Opportunity Employer, committed to providing and fostering an inclusive environment where all people, including women, minorities, LGBTQ+ and other underrepresented groups are supported, respected, and encouraged to excel within STEM careers. Our goal as an organization is to empower our team to achieve their personal best, bring people together, and provide equal opportunity to do so regardless of race, age, gender, sexual orientation, religion, physical ability or disability, or political affiliation.
+          - link "You can learn more on our website here" [ref=e164] [cursor=pointer]:
+            - /url: https://equality.webfx.com/
+          - text: "!"
+      - generic [ref=e166]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e168] [cursor=pointer]:
+        - /url: https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f/apply
+  - generic [ref=e170]:
+    - paragraph [ref=e171]:
+      - link "webfx.com Home Page" [ref=e172] [cursor=pointer]:
+        - /url: https://www.webfx.com/careers/
+    - link "Jobs powered by Lever logo" [ref=e173] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e174]: Jobs powered by
+      - img "Lever logo" [ref=e175]

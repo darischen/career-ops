@@ -1,0 +1,127 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Sentry" [ref=e6] [cursor=pointer]:
+        - /url: https://sentry.io/
+        - img "Sentry" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Sentry’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /sentry
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer, Intern (Fall 2026)" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco, California
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Intern
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $53.13 per hour
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [selected] [ref=e36] [cursor=pointer]
+          - tab "Application" [ref=e37] [cursor=pointer]
+        - tabpanel "Overview" [ref=e39]:
+          - generic [ref=e40]:
+            - heading "About Sentry" [level=2] [ref=e41]:
+              - strong [ref=e42]: About Sentry
+            - paragraph [ref=e43]: Bad software is everywhere, and we’re tired of it. Sentry is on a mission to help developers write better software faster so we can get back to enjoying technology.
+            - paragraph [ref=e44]: With more than $217 million in funding and 100,000+ organizations that believe we’re on to something, we're building performance and error monitoring tools that help companies like Disney, Microsoft, and Atlassian spend less time fixing bugs and more time building products.
+            - paragraph [ref=e45]: Sentry embraces a hybrid work model across our global hubs, with Mondays, Tuesdays, and Thursdays set as in-office anchor days to encourage meaningful collaboration. If you like to selfishly build things that make your digital life better, come help us build the next generation of software monitoring tools.
+            - heading "About the role" [level=2] [ref=e46]:
+              - strong [ref=e47]: About the role
+            - paragraph [ref=e48]: Software Engineering Interns at Sentry write real code on real projects that ship to production; no fetching coffee required.
+            - heading "In this role you will" [level=2] [ref=e49]:
+              - strong [ref=e50]: In this role you will
+            - list [ref=e51]:
+              - listitem [ref=e52]:
+                - paragraph [ref=e53]: Be matched with one of our Product or Infrastructure Engineering teams, based on your interests and experience
+              - listitem [ref=e54]:
+                - paragraph [ref=e55]: Design, develop, and ship a programming solution that drives real values to customers
+              - listitem [ref=e56]:
+                - paragraph [ref=e57]: Receive meaningful feedback, coaching, and mentorship from your manager and teammates
+            - heading "You’ll love this job if you" [level=2] [ref=e58]:
+              - strong [ref=e59]: You’ll love this job if you
+            - list [ref=e60]:
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: Want to experience being a full-time engineer on a team and not be "just an intern"
+                - list [ref=e63]:
+                  - listitem [ref=e64]:
+                    - paragraph [ref=e65]: This means being responsible for leading a project from ideation to deployment, including writing a tech spec, scoping out work, technical implementation and testing, and shipping code!
+              - listitem [ref=e66]:
+                - paragraph [ref=e67]: Value mentorship and being able to work closely with and learn from world-class engineers
+              - listitem [ref=e68]:
+                - paragraph [ref=e69]: Want to join a modern software development team that iterates and ships code rapidly
+              - listitem [ref=e70]:
+                - paragraph [ref=e71]: Are excited at the opportunity to contribute to an open-source project every day
+            - heading "Qualifications" [level=2] [ref=e72]:
+              - strong [ref=e73]: Qualifications
+            - list [ref=e74]:
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: Currently enrolled in an undergraduate or post-graduate degree program in Computer Science (or similar)
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: Experience with Python, JavaScript or a similar dynamic programming language through internships, personal projects, or coding competitions
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: At least 1 previous internship or equivalent practical experience
+                - list [ref=e81]:
+                  - listitem [ref=e82]:
+                    - paragraph [ref=e83]: "We expect interns to be able to learn and deliver quickly (an intern’s first PR to Sentry is usually merged within a week). While a prior internship is not required, we expect the following abilities, experience, and skills from any applicant:"
+                    - list [ref=e84]:
+                      - listitem [ref=e85]:
+                        - paragraph [ref=e86]: Experience working with GitHub
+                      - listitem [ref=e87]:
+                        - paragraph [ref=e88]: Collaborating with a team on an engineering project
+                      - listitem [ref=e89]:
+                        - paragraph [ref=e90]: Ability to pick up a new programming language quickly
+                      - listitem [ref=e91]:
+                        - paragraph [ref=e92]: You know the fundamentals of algorithms and data structures
+              - listitem [ref=e93]:
+                - paragraph [ref=e94]: This position begins September 2026
+              - listitem [ref=e95]:
+                - paragraph [ref=e96]: Willing to relocate to San Francisco for the duration of your internship (we'll help get you here and provide a housing stipend)
+            - paragraph [ref=e97]:
+              - text: The base salary range (or hourly wage range, if applicable) that Sentry reasonably expects to pay for this position is $53.13 per hour. A successful candidate will be eligible to participate in Sentry’s employee benefit and perks programs applicable to the candidate’s position (including medical, dental and vision insurance coverage as well as temporary relocation support). See
+              - link "Sentry Benefits" [ref=e98] [cursor=pointer]:
+                - /url: https://sentry.io/careers/
+              - text: for more details about the Company’s benefit plans/programs.
+            - heading "Equal Opportunity at Sentry" [level=2] [ref=e99]:
+              - strong [ref=e100]: Equal Opportunity at Sentry
+            - paragraph [ref=e101]: Sentry is committed to providing equal employment opportunities to its employees and candidates for employment regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, or other legally-protected characteristic. This commitment includes the provision of reasonable accommodations to employees and candidates for employment with physical or mental disabilities who require such accommodations in order to (a) perform the essential functions of their jobs, or (b) seek employment with Sentry. We strive to build a diverse team, with an inclusive culture where every teammate can thrive. Sentry is an open-source company because we believe that everyone, everywhere, should have the ability and tools to make great software. Software should be accessible. That starts with making our industry accessible.
+            - paragraph [ref=e102]:
+              - text: If you need assistance or an accommodation due to a disability, you may contact us at
+              - link "accommodations@sentry.io" [ref=e103] [cursor=pointer]:
+                - /url: mailto:accommodations@sentry.io
+              - text: .
+            - paragraph [ref=e104]:
+              - text: Want to learn more about how Sentry handles applicant data? Get the details in our
+              - link "Applicant Privacy Policy" [ref=e105] [cursor=pointer]:
+                - /url: https://sentry.io/careers/applicantprivacy/
+              - text: .
+          - link "Apply for this Job" [ref=e106] [cursor=pointer]:
+            - /url: /sentry/5e112240-922a-48f1-8865-9e7f89687f39/application
+            - button "Apply for this Job" [ref=e107]
+  - contentinfo [ref=e108]:
+    - link "Learn more about Ashby" [ref=e109] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e110]: Powered by
+      - img "Ashby" [ref=e111]
+    - paragraph [ref=e117]:
+      - link "Privacy Policy" [ref=e118] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e119] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e120] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

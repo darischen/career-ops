@@ -1,0 +1,1851 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e6]:
+      - heading "Stripe logo Jobs" [level=1] [ref=e7]:
+        - link "Stripe logo" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img "Stripe logo" [ref=e9]
+        - link "Jobs" [ref=e11] [cursor=pointer]:
+          - /url: /jobs
+      - navigation [ref=e12]:
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - link "Our opportunity" [ref=e15] [cursor=pointer]:
+              - /url: /jobs
+          - listitem [ref=e16]:
+            - link "Life at Stripe" [ref=e17] [cursor=pointer]:
+              - /url: /jobs/life-at-stripe
+          - listitem [ref=e18]:
+            - link "Benefits" [ref=e19] [cursor=pointer]:
+              - /url: /jobs/benefits
+          - listitem [ref=e20]:
+            - link "University" [ref=e21] [cursor=pointer]:
+              - /url: /jobs/university
+      - navigation [ref=e22]:
+        - link "See open roles" [ref=e23] [cursor=pointer]:
+          - /url: /jobs/search
+          - text: See open roles
+          - img [ref=e25]
+  - generic [ref=e28]:
+    - generic [ref=e36]:
+      - heading "Expand economic access across the globe" [level=1] [ref=e39]
+      - generic [ref=e40]:
+        - link "Bridge open roles" [ref=e42] [cursor=pointer]:
+          - /url: /jobs/search?tags=Bridge
+          - text: Bridge open roles
+          - img [ref=e44]
+        - link "Privy open roles" [ref=e48] [cursor=pointer]:
+          - /url: /jobs/search?tags=Privy
+          - text: Privy open roles
+          - img [ref=e50]
+    - generic [ref=e61]:
+      - generic [ref=e63]:
+        - img [ref=e65]
+        - textbox "Search for a job" [ref=e67]
+      - generic [ref=e70]:
+        - generic [ref=e71]: Opens the multi-select filter menu
+        - button "Teams" [disabled] [ref=e72]:
+          - img [ref=e73]
+          - generic [ref=e78]: Teams
+          - img [ref=e79]
+        - list
+      - generic [ref=e83]:
+        - generic [ref=e84]: Opens the multi-select filter menu
+        - button "Office Locations" [disabled] [ref=e85]:
+          - img [ref=e86]
+          - generic [ref=e88]: Office Locations
+          - img [ref=e89]
+        - list
+      - generic [ref=e93]:
+        - generic [ref=e94]: Opens the multi-select filter menu
+        - button "Remote Locations" [disabled] [ref=e95]:
+          - img [ref=e96]
+          - generic [ref=e99]: Remote Locations
+          - img [ref=e100]
+        - list
+    - generic [ref=e112]: Showing roles across across all locations and all teams.
+    - generic [ref=e119]:
+      - figure [ref=e121]:
+        - table [ref=e124]:
+          - rowgroup [ref=e125]:
+            - row "Role Team Location" [ref=e126]:
+              - columnheader "Role" [ref=e127]:
+                - generic [ref=e128]: Role
+              - columnheader "Team" [ref=e129]:
+                - generic [ref=e130]: Team
+              - columnheader "Location" [ref=e131]:
+                - generic [ref=e132]: Location
+          - rowgroup [ref=e133]:
+            - row "Account Executive - Enterprise Germany Sales DE Berlin" [ref=e134]:
+              - cell "Account Executive - Enterprise Germany" [ref=e135]:
+                - link "Account Executive - Enterprise Germany" [ref=e136] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-enterprise-germany/7825578
+              - cell "Sales" [ref=e137]:
+                - list [ref=e139]:
+                  - listitem [ref=e140]: Sales
+              - cell "DE Berlin" [ref=e141]:
+                - img "DE" [ref=e142]
+                - generic [ref=e143]: Berlin
+            - row "Account Executive - Enterprise Germany Sales DE Remote in Germany" [ref=e144]:
+              - cell "Account Executive - Enterprise Germany" [ref=e145]:
+                - link "Account Executive - Enterprise Germany" [ref=e146] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-enterprise-germany/7825578
+              - cell "Sales" [ref=e147]:
+                - list [ref=e149]:
+                  - listitem [ref=e150]: Sales
+              - cell "DE Remote in Germany" [ref=e151]:
+                - img "DE" [ref=e152]
+                - generic [ref=e153]: Remote in Germany
+            - row "Account Executive - Startups, India Sales IN Bengaluru" [ref=e154]:
+              - cell "Account Executive - Startups, India" [ref=e155]:
+                - link "Account Executive - Startups, India" [ref=e156] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-startups-india/7597490
+              - cell "Sales" [ref=e157]:
+                - list [ref=e159]:
+                  - listitem [ref=e160]: Sales
+              - cell "IN Bengaluru" [ref=e161]:
+                - img "IN" [ref=e162]
+                - generic [ref=e163]: Bengaluru
+            - row "Account Executive (New Business - Portuguese Market) Sales ES Madrid" [ref=e164]:
+              - cell "Account Executive (New Business - Portuguese Market)" [ref=e165]:
+                - link "Account Executive (New Business - Portuguese Market)" [ref=e166] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-new-business-portuguese-market/7908925
+              - cell "Sales" [ref=e167]:
+                - list [ref=e169]:
+                  - listitem [ref=e170]: Sales
+              - cell "ES Madrid" [ref=e171]:
+                - img "ES" [ref=e172]
+                - generic [ref=e173]: Madrid
+            - row "Account Executive, AI Sales Sales US South San Francisco HQ" [ref=e174]:
+              - cell "Account Executive, AI Sales" [ref=e175]:
+                - link "Account Executive, AI Sales" [ref=e176] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-ai-sales/7532733
+              - cell "Sales" [ref=e177]:
+                - list [ref=e179]:
+                  - listitem [ref=e180]: Sales
+              - cell "US South San Francisco HQ" [ref=e181]:
+                - img "US" [ref=e182]
+                - generic [ref=e183]: South San Francisco HQ
+            - row "Account Executive, AI Sales Sales US South San Francisco HQ" [ref=e184]:
+              - cell "Account Executive, AI Sales" [ref=e185]:
+                - link "Account Executive, AI Sales" [ref=e186] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-ai-sales/7546284
+              - cell "Sales" [ref=e187]:
+                - list [ref=e189]:
+                  - listitem [ref=e190]: Sales
+              - cell "US South San Francisco HQ" [ref=e191]:
+                - img "US" [ref=e192]
+                - generic [ref=e193]: South San Francisco HQ
+            - row "Account Executive, Commercial (New Business) Sales US Chicago" [ref=e194]:
+              - cell "Account Executive, Commercial (New Business)" [ref=e195]:
+                - link "Account Executive, Commercial (New Business)" [ref=e196] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-commercial-new-business/7863714
+              - cell "Sales" [ref=e197]:
+                - list [ref=e199]:
+                  - listitem [ref=e200]: Sales
+              - cell "US Chicago" [ref=e201]:
+                - img "US" [ref=e202]
+                - generic [ref=e203]: Chicago
+            - row "Account Executive, Cross Border China Sales SG Singapore" [ref=e204]:
+              - cell "Account Executive, Cross Border China" [ref=e205]:
+                - link "Account Executive, Cross Border China" [ref=e206] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-cross-border-china/7893199
+              - cell "Sales" [ref=e207]:
+                - list [ref=e209]:
+                  - listitem [ref=e210]: Sales
+              - cell "SG Singapore" [ref=e211]:
+                - img "SG" [ref=e212]
+                - generic [ref=e213]: Singapore
+            - row "Account Executive, Enterprise - Billing (Existing Business) Sales GB London" [ref=e214]:
+              - cell "Account Executive, Enterprise - Billing (Existing Business)" [ref=e215]:
+                - link "Account Executive, Enterprise - Billing (Existing Business)" [ref=e216] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-enterprise-billing-existing-business/7607568
+              - cell "Sales" [ref=e217]:
+                - list [ref=e219]:
+                  - listitem [ref=e220]: Sales
+              - cell "GB London" [ref=e221]:
+                - img "GB" [ref=e222]
+                - generic [ref=e223]: London
+            - row "Account Executive, Enterprise (Hunter) Sales FR Paris" [ref=e224]:
+              - cell "Account Executive, Enterprise (Hunter)" [ref=e225]:
+                - link "Account Executive, Enterprise (Hunter)" [ref=e226] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-enterprise-hunter/7458833
+              - cell "Sales" [ref=e227]:
+                - list [ref=e229]:
+                  - listitem [ref=e230]: Sales
+              - cell "FR Paris" [ref=e231]:
+                - img "FR" [ref=e232]
+                - generic [ref=e233]: Paris
+            - row "Account Executive, Enterprise (Hunter), Japan Sales JP Tokyo" [ref=e234]:
+              - cell "Account Executive, Enterprise (Hunter), Japan" [ref=e235]:
+                - link "Account Executive, Enterprise (Hunter), Japan" [ref=e236] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-enterprise-hunter-japan/7528816
+              - cell "Sales" [ref=e237]:
+                - list [ref=e239]:
+                  - listitem [ref=e240]: Sales
+              - cell "JP Tokyo" [ref=e241]:
+                - img "JP" [ref=e242]
+                - generic [ref=e243]: Tokyo
+            - row "Account Executive, Existing Business (CEE) Sales RO Remote in Romania" [ref=e244]:
+              - cell "Account Executive, Existing Business (CEE)" [ref=e245]:
+                - link "Account Executive, Existing Business (CEE)" [ref=e246] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-existing-business-cee/7861856
+              - cell "Sales" [ref=e247]:
+                - list [ref=e249]:
+                  - listitem [ref=e250]: Sales
+              - cell "RO Remote in Romania" [ref=e251]:
+                - img "RO" [ref=e252]
+                - generic [ref=e253]: Remote in Romania
+            - row "Account Executive, Existing Business (CEE) Sales PL Remote in Poland" [ref=e254]:
+              - cell "Account Executive, Existing Business (CEE)" [ref=e255]:
+                - link "Account Executive, Existing Business (CEE)" [ref=e256] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-existing-business-cee/7861856
+              - cell "Sales" [ref=e257]:
+                - list [ref=e259]:
+                  - listitem [ref=e260]: Sales
+              - cell "PL Remote in Poland" [ref=e261]:
+                - img "PL" [ref=e262]
+                - generic [ref=e263]: Remote in Poland
+            - row "Account Executive, Existing Business (CEE) Sales RO Bucharest" [ref=e264]:
+              - cell "Account Executive, Existing Business (CEE)" [ref=e265]:
+                - link "Account Executive, Existing Business (CEE)" [ref=e266] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-existing-business-cee/7861856
+              - cell "Sales" [ref=e267]:
+                - list [ref=e269]:
+                  - listitem [ref=e270]: Sales
+              - cell "RO Bucharest" [ref=e271]:
+                - img "RO" [ref=e272]
+                - generic [ref=e273]: Bucharest
+            - row "Account Executive, Platforms (French Speaking) Sales IE Dublin HQ" [ref=e274]:
+              - cell "Account Executive, Platforms (French Speaking)" [ref=e275]:
+                - link "Account Executive, Platforms (French Speaking)" [ref=e276] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-platforms-french-speaking/7451383
+              - cell "Sales" [ref=e277]:
+                - list [ref=e279]:
+                  - listitem [ref=e280]: Sales
+              - cell "IE Dublin HQ" [ref=e281]:
+                - img "IE" [ref=e282]
+                - generic [ref=e283]: Dublin HQ
+            - row "Account Executive, Platforms (Hunter) Sales FR Paris" [ref=e284]:
+              - cell "Account Executive, Platforms (Hunter)" [ref=e285]:
+                - link "Account Executive, Platforms (Hunter)" [ref=e286] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-platforms-hunter/7857010
+              - cell "Sales" [ref=e287]:
+                - list [ref=e289]:
+                  - listitem [ref=e290]: Sales
+              - cell "FR Paris" [ref=e291]:
+                - img "FR" [ref=e292]
+                - generic [ref=e293]: Paris
+            - row "Account Executive, Platforms (Italian Speaking) - Grower Sales IE Dublin HQ" [ref=e294]:
+              - cell "Account Executive, Platforms (Italian Speaking) - Grower" [ref=e295]:
+                - link "Account Executive, Platforms (Italian Speaking) - Grower" [ref=e296] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-platforms-italian-speaking-grower/7852222
+              - cell "Sales" [ref=e297]:
+                - list [ref=e299]:
+                  - listitem [ref=e300]: Sales
+              - cell "IE Dublin HQ" [ref=e301]:
+                - img "IE" [ref=e302]
+                - generic [ref=e303]: Dublin HQ
+            - row "Account Executive, Product - Buy Now Pay Later Sales US Remote in United States" [ref=e304]:
+              - cell "Account Executive, Product - Buy Now Pay Later" [ref=e305]:
+                - link "Account Executive, Product - Buy Now Pay Later" [ref=e306] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-product-buy-now-pay-later/7675661
+              - cell "Sales" [ref=e307]:
+                - list [ref=e309]:
+                  - listitem [ref=e310]: Sales
+              - cell "US Remote in United States" [ref=e311]:
+                - img "US" [ref=e312]
+                - generic [ref=e313]: Remote in United States
+            - row "Account Executive, Product Sales - Capital Sales US South San Francisco HQ" [ref=e314]:
+              - cell "Account Executive, Product Sales - Capital" [ref=e315]:
+                - link "Account Executive, Product Sales - Capital" [ref=e316] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-product-sales-capital/7728365
+              - cell "Sales" [ref=e317]:
+                - list [ref=e319]:
+                  - listitem [ref=e320]: Sales
+              - cell "US South San Francisco HQ" [ref=e321]:
+                - img "US" [ref=e322]
+                - generic [ref=e323]: South San Francisco HQ
+            - row "Account Executive, Product Sales - Capital Sales US Seattle" [ref=e324]:
+              - cell "Account Executive, Product Sales - Capital" [ref=e325]:
+                - link "Account Executive, Product Sales - Capital" [ref=e326] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-product-sales-capital/7728365
+              - cell "Sales" [ref=e327]:
+                - list [ref=e329]:
+                  - listitem [ref=e330]: Sales
+              - cell "US Seattle" [ref=e331]:
+                - img "US" [ref=e332]
+                - generic [ref=e333]: Seattle
+            - row "Account Executive, Product Sales - Capital Sales US New York" [ref=e334]:
+              - cell "Account Executive, Product Sales - Capital" [ref=e335]:
+                - link "Account Executive, Product Sales - Capital" [ref=e336] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-product-sales-capital/7728365
+              - cell "Sales" [ref=e337]:
+                - list [ref=e339]:
+                  - listitem [ref=e340]: Sales
+              - cell "US New York" [ref=e341]:
+                - img "US" [ref=e342]
+                - generic [ref=e343]: New York
+            - row "Account Executive, Product Sales - Capital Sales US Chicago" [ref=e344]:
+              - cell "Account Executive, Product Sales - Capital" [ref=e345]:
+                - link "Account Executive, Product Sales - Capital" [ref=e346] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-product-sales-capital/7728365
+              - cell "Sales" [ref=e347]:
+                - list [ref=e349]:
+                  - listitem [ref=e350]: Sales
+              - cell "US Chicago" [ref=e351]:
+                - img "US" [ref=e352]
+                - generic [ref=e353]: Chicago
+            - row "Account Executive, Product Sales - Payouts Sales US New York" [ref=e354]:
+              - cell "Account Executive, Product Sales - Payouts" [ref=e355]:
+                - link "Account Executive, Product Sales - Payouts" [ref=e356] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-product-sales-payouts/7782969
+              - cell "Sales" [ref=e357]:
+                - list [ref=e359]:
+                  - listitem [ref=e360]: Sales
+              - cell "US New York" [ref=e361]:
+                - img "US" [ref=e362]
+                - generic [ref=e363]: New York
+            - row "Account Executive, Product Sales - Payouts Sales US South San Francisco HQ" [ref=e364]:
+              - cell "Account Executive, Product Sales - Payouts" [ref=e365]:
+                - link "Account Executive, Product Sales - Payouts" [ref=e366] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-product-sales-payouts/7782969
+              - cell "Sales" [ref=e367]:
+                - list [ref=e369]:
+                  - listitem [ref=e370]: Sales
+              - cell "US South San Francisco HQ" [ref=e371]:
+                - img "US" [ref=e372]
+                - generic [ref=e373]: South San Francisco HQ
+            - row "Account Executive, Product Sales, Billing Sales US Seattle" [ref=e374]:
+              - cell "Account Executive, Product Sales, Billing" [ref=e375]:
+                - link "Account Executive, Product Sales, Billing" [ref=e376] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-product-sales-billing/7393169
+              - cell "Sales" [ref=e377]:
+                - list [ref=e379]:
+                  - listitem [ref=e380]: Sales
+              - cell "US Seattle" [ref=e381]:
+                - img "US" [ref=e382]
+                - generic [ref=e383]: Seattle
+            - row "Account Executive, Product Sales, Billing Sales US South San Francisco HQ" [ref=e384]:
+              - cell "Account Executive, Product Sales, Billing" [ref=e385]:
+                - link "Account Executive, Product Sales, Billing" [ref=e386] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-product-sales-billing/7393169
+              - cell "Sales" [ref=e387]:
+                - list [ref=e389]:
+                  - listitem [ref=e390]: Sales
+              - cell "US South San Francisco HQ" [ref=e391]:
+                - img "US" [ref=e392]
+                - generic [ref=e393]: South San Francisco HQ
+            - row "Account Executive, Product Sales, Billing Sales US Atlanta" [ref=e394]:
+              - cell "Account Executive, Product Sales, Billing" [ref=e395]:
+                - link "Account Executive, Product Sales, Billing" [ref=e396] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-product-sales-billing/7393169
+              - cell "Sales" [ref=e397]:
+                - list [ref=e399]:
+                  - listitem [ref=e400]: Sales
+              - cell "US Atlanta" [ref=e401]:
+                - img "US" [ref=e402]
+                - generic [ref=e403]: Atlanta
+            - row "Account Executive, Product Sales, Billing Sales US Chicago" [ref=e404]:
+              - cell "Account Executive, Product Sales, Billing" [ref=e405]:
+                - link "Account Executive, Product Sales, Billing" [ref=e406] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-product-sales-billing/7393169
+              - cell "Sales" [ref=e407]:
+                - list [ref=e409]:
+                  - listitem [ref=e410]: Sales
+              - cell "US Chicago" [ref=e411]:
+                - img "US" [ref=e412]
+                - generic [ref=e413]: Chicago
+            - row "Account Executive, Product Sales, Billing Sales US New York" [ref=e414]:
+              - cell "Account Executive, Product Sales, Billing" [ref=e415]:
+                - link "Account Executive, Product Sales, Billing" [ref=e416] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-product-sales-billing/7393169
+              - cell "Sales" [ref=e417]:
+                - list [ref=e419]:
+                  - listitem [ref=e420]: Sales
+              - cell "US New York" [ref=e421]:
+                - img "US" [ref=e422]
+                - generic [ref=e423]: New York
+            - row "Account Executive, SMB - New Business Sales IE Dublin HQ" [ref=e424]:
+              - cell "Account Executive, SMB - New Business" [ref=e425]:
+                - link "Account Executive, SMB - New Business" [ref=e426] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-smb-new-business/7904613
+              - cell "Sales" [ref=e427]:
+                - list [ref=e429]:
+                  - listitem [ref=e430]: Sales
+              - cell "IE Dublin HQ" [ref=e431]:
+                - img "IE" [ref=e432]
+                - generic [ref=e433]: Dublin HQ
+            - row "Account Executive, SMB (New Business) Sales US Chicago" [ref=e434]:
+              - cell "Account Executive, SMB (New Business)" [ref=e435]:
+                - link "Account Executive, SMB (New Business)" [ref=e436] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-smb-new-business/7931247
+              - cell "Sales" [ref=e437]:
+                - list [ref=e439]:
+                  - listitem [ref=e440]: Sales
+              - cell "US Chicago" [ref=e441]:
+                - img "US" [ref=e442]
+                - generic [ref=e443]: Chicago
+            - row "Account Executive, SMB (New Business) Sales US Chicago" [ref=e444]:
+              - cell "Account Executive, SMB (New Business)" [ref=e445]:
+                - link "Account Executive, SMB (New Business)" [ref=e446] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-smb-new-business/7277406
+              - cell "Sales" [ref=e447]:
+                - list [ref=e449]:
+                  - listitem [ref=e450]: Sales
+              - cell "US Chicago" [ref=e451]:
+                - img "US" [ref=e452]
+                - generic [ref=e453]: Chicago
+            - row "Account Executive, SMB (New Business) Sales US New York" [ref=e454]:
+              - cell "Account Executive, SMB (New Business)" [ref=e455]:
+                - link "Account Executive, SMB (New Business)" [ref=e456] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-smb-new-business/7931247
+              - cell "Sales" [ref=e457]:
+                - list [ref=e459]:
+                  - listitem [ref=e460]: Sales
+              - cell "US New York" [ref=e461]:
+                - img "US" [ref=e462]
+                - generic [ref=e463]: New York
+            - row "Account Executive, Startup Platforms Sales US South San Francisco HQ" [ref=e464]:
+              - cell "Account Executive, Startup Platforms" [ref=e465]:
+                - link "Account Executive, Startup Platforms" [ref=e466] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-startup-platforms/7891728
+              - cell "Sales" [ref=e467]:
+                - list [ref=e469]:
+                  - listitem [ref=e470]: Sales
+              - cell "US South San Francisco HQ" [ref=e471]:
+                - img "US" [ref=e472]
+                - generic [ref=e473]: South San Francisco HQ
+            - row "Account Executive, Startups - Core Grower Sales US South San Francisco HQ" [ref=e474]:
+              - cell "Account Executive, Startups - Core Grower" [ref=e475]:
+                - link "Account Executive, Startups - Core Grower" [ref=e476] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-startups-core-grower/7921701
+              - cell "Sales" [ref=e477]:
+                - list [ref=e479]:
+                  - listitem [ref=e480]: Sales
+              - cell "US South San Francisco HQ" [ref=e481]:
+                - img "US" [ref=e482]
+                - generic [ref=e483]: South San Francisco HQ
+            - row "Account Executive, Startups - Core Grower Sales US New York" [ref=e484]:
+              - cell "Account Executive, Startups - Core Grower" [ref=e485]:
+                - link "Account Executive, Startups - Core Grower" [ref=e486] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-startups-core-grower/7921701
+              - cell "Sales" [ref=e487]:
+                - list [ref=e489]:
+                  - listitem [ref=e490]: Sales
+              - cell "US New York" [ref=e491]:
+                - img "US" [ref=e492]
+                - generic [ref=e493]: New York
+            - row "Account Executive, Startups (Existing Business) Sales US New York" [ref=e494]:
+              - cell "Account Executive, Startups (Existing Business)" [ref=e495]:
+                - link "Account Executive, Startups (Existing Business)" [ref=e496] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-startups-existing-business/7872736
+              - cell "Sales" [ref=e497]:
+                - list [ref=e499]:
+                  - listitem [ref=e500]: Sales
+              - cell "US New York" [ref=e501]:
+                - img "US" [ref=e502]
+                - generic [ref=e503]: New York
+            - row "Account Executive, Velocity Hunter (Iberia) Sales IE Dublin HQ" [ref=e504]:
+              - cell "Account Executive, Velocity Hunter (Iberia)" [ref=e505]:
+                - link "Account Executive, Velocity Hunter (Iberia)" [ref=e506] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-velocity-hunter-iberia/7907485
+              - cell "Sales" [ref=e507]:
+                - list [ref=e509]:
+                  - listitem [ref=e510]: Sales
+              - cell "IE Dublin HQ" [ref=e511]:
+                - img "IE" [ref=e512]
+                - generic [ref=e513]: Dublin HQ
+            - row "Account Executive, Velocity Platforms (Grower) Sales US New York" [ref=e514]:
+              - cell "Account Executive, Velocity Platforms (Grower)" [ref=e515]:
+                - link "Account Executive, Velocity Platforms (Grower)" [ref=e516] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-velocity-platforms-grower/7891721
+              - cell "Sales" [ref=e517]:
+                - list [ref=e519]:
+                  - listitem [ref=e520]: Sales
+              - cell "US New York" [ref=e521]:
+                - img "US" [ref=e522]
+                - generic [ref=e523]: New York
+            - row "Account Executive, Velocity Platforms (Grower) Sales US Chicago" [ref=e524]:
+              - cell "Account Executive, Velocity Platforms (Grower)" [ref=e525]:
+                - link "Account Executive, Velocity Platforms (Grower)" [ref=e526] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-velocity-platforms-grower/7891716
+              - cell "Sales" [ref=e527]:
+                - list [ref=e529]:
+                  - listitem [ref=e530]: Sales
+              - cell "US Chicago" [ref=e531]:
+                - img "US" [ref=e532]
+                - generic [ref=e533]: Chicago
+            - row "Account Executive,Iberia, Enterprise Sales ES Madrid" [ref=e534]:
+              - cell "Account Executive,Iberia, Enterprise" [ref=e535]:
+                - link "Account Executive,Iberia, Enterprise" [ref=e536] [cursor=pointer]:
+                  - /url: /jobs/listing/account-executive-iberia-enterprise/7394627
+              - cell "Sales" [ref=e537]:
+                - list [ref=e539]:
+                  - listitem [ref=e540]: Sales
+              - cell "ES Madrid" [ref=e541]:
+                - img "ES" [ref=e542]
+                - generic [ref=e543]: Madrid
+            - row "Accounting Technical Solutions Lead Controllership US New York" [ref=e544]:
+              - cell "Accounting Technical Solutions Lead" [ref=e545]:
+                - link "Accounting Technical Solutions Lead" [ref=e546] [cursor=pointer]:
+                  - /url: /jobs/listing/accounting-technical-solutions-lead/7875540
+              - cell "Controllership" [ref=e547]:
+                - list [ref=e549]:
+                  - listitem [ref=e550]: Controllership
+              - cell "US New York" [ref=e551]:
+                - img "US" [ref=e552]
+                - generic [ref=e553]: New York
+            - row "Accounting Technical Solutions Lead Controllership US Seattle" [ref=e554]:
+              - cell "Accounting Technical Solutions Lead" [ref=e555]:
+                - link "Accounting Technical Solutions Lead" [ref=e556] [cursor=pointer]:
+                  - /url: /jobs/listing/accounting-technical-solutions-lead/7875540
+              - cell "Controllership" [ref=e557]:
+                - list [ref=e559]:
+                  - listitem [ref=e560]: Controllership
+              - cell "US Seattle" [ref=e561]:
+                - img "US" [ref=e562]
+                - generic [ref=e563]: Seattle
+            - row "Accounting Technical Solutions Lead Controllership US South San Francisco HQ" [ref=e564]:
+              - cell "Accounting Technical Solutions Lead" [ref=e565]:
+                - link "Accounting Technical Solutions Lead" [ref=e566] [cursor=pointer]:
+                  - /url: /jobs/listing/accounting-technical-solutions-lead/7875540
+              - cell "Controllership" [ref=e567]:
+                - list [ref=e569]:
+                  - listitem [ref=e570]: Controllership
+              - cell "US South San Francisco HQ" [ref=e571]:
+                - img "US" [ref=e572]
+                - generic [ref=e573]: South San Francisco HQ
+            - row "Accounts Receivable Analyst Controllership IN Bengaluru" [ref=e574]:
+              - cell "Accounts Receivable Analyst" [ref=e575]:
+                - link "Accounts Receivable Analyst" [ref=e576] [cursor=pointer]:
+                  - /url: /jobs/listing/accounts-receivable-analyst/7882699
+              - cell "Controllership" [ref=e577]:
+                - list [ref=e579]:
+                  - listitem [ref=e580]: Controllership
+              - cell "IN Bengaluru" [ref=e581]:
+                - img "IN" [ref=e582]
+                - generic [ref=e583]: Bengaluru
+            - row "Accounts Receivable Analyst - Service Strategy Enablement Controllership US New York" [ref=e584]:
+              - cell "Accounts Receivable Analyst - Service Strategy Enablement" [ref=e585]:
+                - link "Accounts Receivable Analyst - Service Strategy Enablement" [ref=e586] [cursor=pointer]:
+                  - /url: /jobs/listing/accounts-receivable-analyst-service-strategy-enablement/7926728
+              - cell "Controllership" [ref=e587]:
+                - list [ref=e589]:
+                  - listitem [ref=e590]: Controllership
+              - cell "US New York" [ref=e591]:
+                - img "US" [ref=e592]
+                - generic [ref=e593]: New York
+            - row "Accounts Receivable Analyst - Service Strategy Enablement Controllership US Seattle" [ref=e594]:
+              - cell "Accounts Receivable Analyst - Service Strategy Enablement" [ref=e595]:
+                - link "Accounts Receivable Analyst - Service Strategy Enablement" [ref=e596] [cursor=pointer]:
+                  - /url: /jobs/listing/accounts-receivable-analyst-service-strategy-enablement/7926728
+              - cell "Controllership" [ref=e597]:
+                - list [ref=e599]:
+                  - listitem [ref=e600]: Controllership
+              - cell "US Seattle" [ref=e601]:
+                - img "US" [ref=e602]
+                - generic [ref=e603]: Seattle
+            - row "Accounts Receivable Analyst - Service Strategy Enablement Controllership US South San Francisco HQ" [ref=e604]:
+              - cell "Accounts Receivable Analyst - Service Strategy Enablement" [ref=e605]:
+                - link "Accounts Receivable Analyst - Service Strategy Enablement" [ref=e606] [cursor=pointer]:
+                  - /url: /jobs/listing/accounts-receivable-analyst-service-strategy-enablement/7926728
+              - cell "Controllership" [ref=e607]:
+                - list [ref=e609]:
+                  - listitem [ref=e610]: Controllership
+              - cell "US South San Francisco HQ" [ref=e611]:
+                - img "US" [ref=e612]
+                - generic [ref=e613]: South San Francisco HQ
+            - row "Accounts Receivable Manager Controllership IN Bengaluru" [ref=e614]:
+              - cell "Accounts Receivable Manager" [ref=e615]:
+                - link "Accounts Receivable Manager" [ref=e616] [cursor=pointer]:
+                  - /url: /jobs/listing/accounts-receivable-manager/7118945
+              - cell "Controllership" [ref=e617]:
+                - list [ref=e619]:
+                  - listitem [ref=e620]: Controllership
+              - cell "IN Bengaluru" [ref=e621]:
+                - img "IN" [ref=e622]
+                - generic [ref=e623]: Bengaluru
+            - row "Administrative Coordinator Administrative MX Mexico City" [ref=e624]:
+              - cell "Administrative Coordinator" [ref=e625]:
+                - link "Administrative Coordinator" [ref=e626] [cursor=pointer]:
+                  - /url: /jobs/listing/administrative-coordinator/7434713
+              - cell "Administrative" [ref=e627]:
+                - list [ref=e629]:
+                  - listitem [ref=e630]: Administrative
+              - cell "MX Mexico City" [ref=e631]:
+                - img "MX" [ref=e632]
+                - generic [ref=e633]: Mexico City
+            - row "Administrative Coordinator Administrative IN Bengaluru" [ref=e634]:
+              - cell "Administrative Coordinator" [ref=e635]:
+                - link "Administrative Coordinator" [ref=e636] [cursor=pointer]:
+                  - /url: /jobs/listing/administrative-coordinator/7863507
+              - cell "Administrative" [ref=e637]:
+                - list [ref=e639]:
+                  - listitem [ref=e640]: Administrative
+              - cell "IN Bengaluru" [ref=e641]:
+                - img "IN" [ref=e642]
+                - generic [ref=e643]: Bengaluru
+            - row "AEO/GEO Marketing Manager Marketing US Remote in United States" [ref=e644]:
+              - cell "AEO/GEO Marketing Manager" [ref=e645]:
+                - link "AEO/GEO Marketing Manager" [ref=e646] [cursor=pointer]:
+                  - /url: /jobs/listing/aeo-geo-marketing-manager/7844214
+              - cell "Marketing" [ref=e647]:
+                - list [ref=e649]:
+                  - listitem [ref=e650]: Marketing
+              - cell "US Remote in United States" [ref=e651]:
+                - img "US" [ref=e652]
+                - generic [ref=e653]: Remote in United States
+            - row "Analyst, Product Pricing Marketing CA Toronto" [ref=e654]:
+              - cell "Analyst, Product Pricing" [ref=e655]:
+                - link "Analyst, Product Pricing" [ref=e656] [cursor=pointer]:
+                  - /url: /jobs/listing/analyst-product-pricing/7896404
+              - cell "Marketing" [ref=e657]:
+                - list [ref=e659]:
+                  - listitem [ref=e660]: Marketing
+              - cell "CA Toronto" [ref=e661]:
+                - img "CA" [ref=e662]
+                - generic [ref=e663]: Toronto
+            - row "Analytics Engineer Customer Success US Seattle" [ref=e664]:
+              - cell "Analytics Engineer" [ref=e665]:
+                - link "Analytics Engineer" [ref=e666] [cursor=pointer]:
+                  - /url: /jobs/listing/analytics-engineer/7863844
+              - cell "Customer Success" [ref=e667]:
+                - list [ref=e669]:
+                  - listitem [ref=e670]: Customer Success
+              - cell "US Seattle" [ref=e671]:
+                - img "US" [ref=e672]
+                - generic [ref=e673]: Seattle
+            - row "Android Engineer, Terminal Terminal CA Toronto" [ref=e674]:
+              - cell "Android Engineer, Terminal" [ref=e675]:
+                - link "Android Engineer, Terminal" [ref=e676] [cursor=pointer]:
+                  - /url: /jobs/listing/android-engineer-terminal/7543559
+              - cell "Terminal" [ref=e677]:
+                - list [ref=e679]:
+                  - listitem [ref=e680]: Terminal
+              - cell "CA Toronto" [ref=e681]:
+                - img "CA" [ref=e682]
+                - generic [ref=e683]: Toronto
+            - row "Android Engineer, Terminal Developer Productivity Terminal US South San Francisco HQ" [ref=e684]:
+              - cell "Android Engineer, Terminal Developer Productivity" [ref=e685]:
+                - link "Android Engineer, Terminal Developer Productivity" [ref=e686] [cursor=pointer]:
+                  - /url: /jobs/listing/android-engineer-terminal-developer-productivity/7550154
+              - cell "Terminal" [ref=e687]:
+                - list [ref=e689]:
+                  - listitem [ref=e690]: Terminal
+              - cell "US South San Francisco HQ" [ref=e691]:
+                - img "US" [ref=e692]
+                - generic [ref=e693]: South San Francisco HQ
+            - row "Android Engineer, Terminal Developer Productivity Terminal US Seattle" [ref=e694]:
+              - cell "Android Engineer, Terminal Developer Productivity" [ref=e695]:
+                - link "Android Engineer, Terminal Developer Productivity" [ref=e696] [cursor=pointer]:
+                  - /url: /jobs/listing/android-engineer-terminal-developer-productivity/7550154
+              - cell "Terminal" [ref=e697]:
+                - list [ref=e699]:
+                  - listitem [ref=e700]: Terminal
+              - cell "US Seattle" [ref=e701]:
+                - img "US" [ref=e702]
+                - generic [ref=e703]: Seattle
+            - row "Android Engineer, Terminal Global Payments Terminal US Seattle" [ref=e704]:
+              - cell "Android Engineer, Terminal Global Payments" [ref=e705]:
+                - link "Android Engineer, Terminal Global Payments" [ref=e706] [cursor=pointer]:
+                  - /url: /jobs/listing/android-engineer-terminal-global-payments/7778627
+              - cell "Terminal" [ref=e707]:
+                - list [ref=e709]:
+                  - listitem [ref=e710]: Terminal
+              - cell "US Seattle" [ref=e711]:
+                - img "US" [ref=e712]
+                - generic [ref=e713]: Seattle
+            - row "Android Engineer, Terminal Global Payments Terminal US South San Francisco HQ" [ref=e714]:
+              - cell "Android Engineer, Terminal Global Payments" [ref=e715]:
+                - link "Android Engineer, Terminal Global Payments" [ref=e716] [cursor=pointer]:
+                  - /url: /jobs/listing/android-engineer-terminal-global-payments/7778627
+              - cell "Terminal" [ref=e717]:
+                - list [ref=e719]:
+                  - listitem [ref=e720]: Terminal
+              - cell "US South San Francisco HQ" [ref=e721]:
+                - img "US" [ref=e722]
+                - generic [ref=e723]: South San Francisco HQ
+            - row "Android Engineer, Terminal OS Platform Terminal US Seattle" [ref=e724]:
+              - cell "Android Engineer, Terminal OS Platform" [ref=e725]:
+                - link "Android Engineer, Terminal OS Platform" [ref=e726] [cursor=pointer]:
+                  - /url: /jobs/listing/android-engineer-terminal-os-platform/7557403
+              - cell "Terminal" [ref=e727]:
+                - list [ref=e729]:
+                  - listitem [ref=e730]: Terminal
+              - cell "US Seattle" [ref=e731]:
+                - img "US" [ref=e732]
+                - generic [ref=e733]: Seattle
+            - row "Android Engineer, Terminal OS Platform Terminal US South San Francisco HQ" [ref=e734]:
+              - cell "Android Engineer, Terminal OS Platform" [ref=e735]:
+                - link "Android Engineer, Terminal OS Platform" [ref=e736] [cursor=pointer]:
+                  - /url: /jobs/listing/android-engineer-terminal-os-platform/7557403
+              - cell "Terminal" [ref=e737]:
+                - list [ref=e739]:
+                  - listitem [ref=e740]: Terminal
+              - cell "US South San Francisco HQ" [ref=e741]:
+                - img "US" [ref=e742]
+                - generic [ref=e743]: South San Francisco HQ
+            - row "APAC Executive Marketing Marketing SG Singapore" [ref=e744]:
+              - cell "APAC Executive Marketing" [ref=e745]:
+                - link "APAC Executive Marketing" [ref=e746] [cursor=pointer]:
+                  - /url: /jobs/listing/apac-executive-marketing/7764914
+              - cell "Marketing" [ref=e747]:
+                - list [ref=e749]:
+                  - listitem [ref=e750]: Marketing
+              - cell "SG Singapore" [ref=e751]:
+                - img "SG" [ref=e752]
+                - generic [ref=e753]: Singapore
+            - row "Art Director Marketing IN Bengaluru" [ref=e754]:
+              - cell "Art Director" [ref=e755]:
+                - link "Art Director" [ref=e756] [cursor=pointer]:
+                  - /url: /jobs/listing/art-director/7823683
+              - cell "Marketing" [ref=e757]:
+                - list [ref=e759]:
+                  - listitem [ref=e760]: Marketing
+              - cell "IN Bengaluru" [ref=e761]:
+                - img "IN" [ref=e762]
+                - generic [ref=e763]: Bengaluru
+            - row "Assistant Project Manager, Capital Projects Marketing US South San Francisco HQ" [ref=e764]:
+              - cell "Assistant Project Manager, Capital Projects" [ref=e765]:
+                - link "Assistant Project Manager, Capital Projects" [ref=e766] [cursor=pointer]:
+                  - /url: /jobs/listing/assistant-project-manager-capital-projects/7867330
+              - cell "Marketing" [ref=e767]:
+                - list [ref=e769]:
+                  - listitem [ref=e770]: Marketing
+              - cell "US South San Francisco HQ" [ref=e771]:
+                - img "US" [ref=e772]
+                - generic [ref=e773]: South San Francisco HQ
+            - row "Associate ( Risk/Fraud Operations) Operations IN Bengaluru" [ref=e774]:
+              - cell "Associate ( Risk/Fraud Operations)" [ref=e775]:
+                - link "Associate ( Risk/Fraud Operations)" [ref=e776] [cursor=pointer]:
+                  - /url: /jobs/listing/associate-risk-fraud-operations/7577341
+              - cell "Operations" [ref=e777]:
+                - list [ref=e779]:
+                  - listitem [ref=e780]: Operations
+              - cell "IN Bengaluru" [ref=e781]:
+                - img "IN" [ref=e782]
+                - generic [ref=e783]: Bengaluru
+            - row "AV Builds and Operations Infrastructure & Corporate Tech US South San Francisco HQ" [ref=e784]:
+              - cell "AV Builds and Operations" [ref=e785]:
+                - link "AV Builds and Operations" [ref=e786] [cursor=pointer]:
+                  - /url: /jobs/listing/av-builds-and-operations/7675097
+              - cell "Infrastructure & Corporate Tech" [ref=e787]:
+                - list [ref=e789]:
+                  - listitem [ref=e790]: Infrastructure & Corporate Tech
+              - cell "US South San Francisco HQ" [ref=e791]:
+                - img "US" [ref=e792]
+                - generic [ref=e793]: South San Francisco HQ
+            - row "Backend Engineer, AI Security Security US Seattle" [ref=e794]:
+              - cell "Backend Engineer, AI Security" [ref=e795]:
+                - link "Backend Engineer, AI Security" [ref=e796] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-ai-security/7826765
+              - cell "Security" [ref=e797]:
+                - list [ref=e799]:
+                  - listitem [ref=e800]: Security
+              - cell "US Seattle" [ref=e801]:
+                - img "US" [ref=e802]
+                - generic [ref=e803]: Seattle
+            - row "Backend Engineer, AI Security Security US South San Francisco HQ" [ref=e804]:
+              - cell "Backend Engineer, AI Security" [ref=e805]:
+                - link "Backend Engineer, AI Security" [ref=e806] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-ai-security/7826765
+              - cell "Security" [ref=e807]:
+                - list [ref=e809]:
+                  - listitem [ref=e810]: Security
+              - cell "US South San Francisco HQ" [ref=e811]:
+                - img "US" [ref=e812]
+                - generic [ref=e813]: South San Francisco HQ
+            - row "Backend Engineer, AI Security Security US New York" [ref=e814]:
+              - cell "Backend Engineer, AI Security" [ref=e815]:
+                - link "Backend Engineer, AI Security" [ref=e816] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-ai-security/7826765
+              - cell "Security" [ref=e817]:
+                - list [ref=e819]:
+                  - listitem [ref=e820]: Security
+              - cell "US New York" [ref=e821]:
+                - img "US" [ref=e822]
+                - generic [ref=e823]: New York
+            - row "Backend Engineer, AI Security Security US Remote in United States" [ref=e824]:
+              - cell "Backend Engineer, AI Security" [ref=e825]:
+                - link "Backend Engineer, AI Security" [ref=e826] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-ai-security/7826765
+              - cell "Security" [ref=e827]:
+                - list [ref=e829]:
+                  - listitem [ref=e830]: Security
+              - cell "US Remote in United States" [ref=e831]:
+                - img "US" [ref=e832]
+                - generic [ref=e833]: Remote in United States
+            - row "Backend Engineer, AI Security Security CA Remote in Canada" [ref=e834]:
+              - cell "Backend Engineer, AI Security" [ref=e835]:
+                - link "Backend Engineer, AI Security" [ref=e836] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-ai-security/7826765
+              - cell "Security" [ref=e837]:
+                - list [ref=e839]:
+                  - listitem [ref=e840]: Security
+              - cell "CA Remote in Canada" [ref=e841]:
+                - img "CA" [ref=e842]
+                - generic [ref=e843]: Remote in Canada
+            - row "Backend Engineer, Core Technology Infrastructure & Corporate Tech US South San Francisco HQ" [ref=e844]:
+              - cell "Backend Engineer, Core Technology" [ref=e845]:
+                - link "Backend Engineer, Core Technology" [ref=e846] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-core-technology/6042172
+              - cell "Infrastructure & Corporate Tech" [ref=e847]:
+                - list [ref=e849]:
+                  - listitem [ref=e850]: Infrastructure & Corporate Tech
+              - cell "US South San Francisco HQ" [ref=e851]:
+                - img "US" [ref=e852]
+                - generic [ref=e853]: South San Francisco HQ
+            - row "Backend Engineer, Core Technology Infrastructure & Corporate Tech US Remote in United States" [ref=e854]:
+              - cell "Backend Engineer, Core Technology" [ref=e855]:
+                - link "Backend Engineer, Core Technology" [ref=e856] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-core-technology/6042172
+              - cell "Infrastructure & Corporate Tech" [ref=e857]:
+                - list [ref=e859]:
+                  - listitem [ref=e860]: Infrastructure & Corporate Tech
+              - cell "US Remote in United States" [ref=e861]:
+                - img "US" [ref=e862]
+                - generic [ref=e863]: Remote in United States
+            - row "Backend Engineer, Core Technology Infrastructure & Corporate Tech US Seattle" [ref=e864]:
+              - cell "Backend Engineer, Core Technology" [ref=e865]:
+                - link "Backend Engineer, Core Technology" [ref=e866] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-core-technology/6042172
+              - cell "Infrastructure & Corporate Tech" [ref=e867]:
+                - list [ref=e869]:
+                  - listitem [ref=e870]: Infrastructure & Corporate Tech
+              - cell "US Seattle" [ref=e871]:
+                - img "US" [ref=e872]
+                - generic [ref=e873]: Seattle
+            - row "Backend Engineer, Core Technology Infrastructure & Corporate Tech US New York" [ref=e874]:
+              - cell "Backend Engineer, Core Technology" [ref=e875]:
+                - link "Backend Engineer, Core Technology" [ref=e876] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-core-technology/6042172
+              - cell "Infrastructure & Corporate Tech" [ref=e877]:
+                - list [ref=e879]:
+                  - listitem [ref=e880]: Infrastructure & Corporate Tech
+              - cell "US New York" [ref=e881]:
+                - img "US" [ref=e882]
+                - generic [ref=e883]: New York
+            - row "Backend Engineer, Data Data Platform CA Remote in Canada" [ref=e884]:
+              - cell "Backend Engineer, Data" [ref=e885]:
+                - link "Backend Engineer, Data" [ref=e886] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-data/7913700
+              - cell "Data Platform" [ref=e887]:
+                - list [ref=e889]:
+                  - listitem [ref=e890]: Data Platform
+              - cell "CA Remote in Canada" [ref=e891]:
+                - img "CA" [ref=e892]
+                - generic [ref=e893]: Remote in Canada
+            - row "Backend Engineer, Data Data Platform CA Toronto" [ref=e894]:
+              - cell "Backend Engineer, Data" [ref=e895]:
+                - link "Backend Engineer, Data" [ref=e896] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-data/7913700
+              - cell "Data Platform" [ref=e897]:
+                - list [ref=e899]:
+                  - listitem [ref=e900]: Data Platform
+              - cell "CA Toronto" [ref=e901]:
+                - img "CA" [ref=e902]
+                - generic [ref=e903]: Toronto
+            - row "Backend Engineer, Expansion Design CA Toronto" [ref=e904]:
+              - cell "Backend Engineer, Expansion" [ref=e905]:
+                - link "Backend Engineer, Expansion" [ref=e906] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-expansion/7775622
+              - cell "Design" [ref=e907]:
+                - list [ref=e909]:
+                  - listitem [ref=e910]: Design
+              - cell "CA Toronto" [ref=e911]:
+                - img "CA" [ref=e912]
+                - generic [ref=e913]: Toronto
+            - row "Backend Engineer, Forward Deployed Engineering Revenue & Financial Automation CA Remote in Canada" [ref=e914]:
+              - cell "Backend Engineer, Forward Deployed Engineering" [ref=e915]:
+                - link "Backend Engineer, Forward Deployed Engineering" [ref=e916] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-forward-deployed-engineering/7249744
+              - cell "Revenue & Financial Automation" [ref=e917]:
+                - list [ref=e919]:
+                  - listitem [ref=e920]: Revenue & Financial Automation
+              - cell "CA Remote in Canada" [ref=e921]:
+                - img "CA" [ref=e922]
+                - generic [ref=e923]: Remote in Canada
+            - row "Backend Engineer, Forward Deployed Engineering Revenue & Financial Automation CA Toronto" [ref=e924]:
+              - cell "Backend Engineer, Forward Deployed Engineering" [ref=e925]:
+                - link "Backend Engineer, Forward Deployed Engineering" [ref=e926] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-forward-deployed-engineering/7249744
+              - cell "Revenue & Financial Automation" [ref=e927]:
+                - list [ref=e929]:
+                  - listitem [ref=e930]: Revenue & Financial Automation
+              - cell "CA Toronto" [ref=e931]:
+                - img "CA" [ref=e932]
+                - generic [ref=e933]: Toronto
+            - row "Backend Engineer, Privy Privy US New York" [ref=e934]:
+              - cell "Backend Engineer, Privy" [ref=e935]:
+                - link "Backend Engineer, Privy" [ref=e936] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-privy/7235875
+              - cell "Privy" [ref=e937]:
+                - list [ref=e939]:
+                  - listitem [ref=e940]: Privy
+              - cell "US New York" [ref=e941]:
+                - img "US" [ref=e942]
+                - generic [ref=e943]: New York
+            - row "Backend Engineer/API, Payments and Risk Payments IE Dublin HQ" [ref=e944]:
+              - cell "Backend Engineer/API, Payments and Risk" [ref=e945]:
+                - link "Backend Engineer/API, Payments and Risk" [ref=e946] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-engineer-api-payments-and-risk/4921361
+              - cell "Payments" [ref=e947]:
+                - list [ref=e949]:
+                  - listitem [ref=e950]: Payments
+              - cell "IE Dublin HQ" [ref=e951]:
+                - img "IE" [ref=e952]
+                - generic [ref=e953]: Dublin HQ
+            - row "Backend/API Engineer, Money as a Service Money Movement and Storage US South San Francisco HQ" [ref=e954]:
+              - cell "Backend/API Engineer, Money as a Service" [ref=e955]:
+                - link "Backend/API Engineer, Money as a Service" [ref=e956] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-api-engineer-money-as-a-service/6176758
+              - cell "Money Movement and Storage" [ref=e957]:
+                - list [ref=e959]:
+                  - listitem [ref=e960]: Money Movement and Storage
+              - cell "US South San Francisco HQ" [ref=e961]:
+                - img "US" [ref=e962]
+                - generic [ref=e963]: South San Francisco HQ
+            - row "Backend/API Engineer, Money as a Service Money Movement and Storage US Remote in United States" [ref=e964]:
+              - cell "Backend/API Engineer, Money as a Service" [ref=e965]:
+                - link "Backend/API Engineer, Money as a Service" [ref=e966] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-api-engineer-money-as-a-service/6176758
+              - cell "Money Movement and Storage" [ref=e967]:
+                - list [ref=e969]:
+                  - listitem [ref=e970]: Money Movement and Storage
+              - cell "US Remote in United States" [ref=e971]:
+                - img "US" [ref=e972]
+                - generic [ref=e973]: Remote in United States
+            - row "Backend/API Engineer, Money as a Service Money Movement and Storage US New York" [ref=e974]:
+              - cell "Backend/API Engineer, Money as a Service" [ref=e975]:
+                - link "Backend/API Engineer, Money as a Service" [ref=e976] [cursor=pointer]:
+                  - /url: /jobs/listing/backend-api-engineer-money-as-a-service/6176758
+              - cell "Money Movement and Storage" [ref=e977]:
+                - list [ref=e979]:
+                  - listitem [ref=e980]: Money Movement and Storage
+              - cell "US New York" [ref=e981]:
+                - img "US" [ref=e982]
+                - generic [ref=e983]: New York
+            - row "Brand Designer, Privy Privy US New York" [ref=e984]:
+              - cell "Brand Designer, Privy" [ref=e985]:
+                - link "Brand Designer, Privy" [ref=e986] [cursor=pointer]:
+                  - /url: /jobs/listing/brand-designer-privy/7721132
+              - cell "Privy" [ref=e987]:
+                - list [ref=e989]:
+                  - listitem [ref=e990]: Privy
+              - cell "US New York" [ref=e991]:
+                - img "US" [ref=e992]
+                - generic [ref=e993]: New York
+            - row "Brand Partnerships & Strategy Lead Marketing US Remote in United States" [ref=e994]:
+              - cell "Brand Partnerships & Strategy Lead" [ref=e995]:
+                - link "Brand Partnerships & Strategy Lead" [ref=e996] [cursor=pointer]:
+                  - /url: /jobs/listing/brand-partnerships-strategy-lead/7868790
+              - cell "Marketing" [ref=e997]:
+                - list [ref=e999]:
+                  - listitem [ref=e1000]: Marketing
+              - cell "US Remote in United States" [ref=e1001]:
+                - img "US" [ref=e1002]
+                - generic [ref=e1003]: Remote in United States
+            - row "Business Development Manager, Agentic Commerce Sales US Seattle" [ref=e1004]:
+              - cell "Business Development Manager, Agentic Commerce" [ref=e1005]:
+                - link "Business Development Manager, Agentic Commerce" [ref=e1006] [cursor=pointer]:
+                  - /url: /jobs/listing/business-development-manager-agentic-commerce/7524334
+              - cell "Sales" [ref=e1007]:
+                - list [ref=e1009]:
+                  - listitem [ref=e1010]: Sales
+              - cell "US Seattle" [ref=e1011]:
+                - img "US" [ref=e1012]
+                - generic [ref=e1013]: Seattle
+            - row "Business Development Manager, Agentic Commerce Sales US South San Francisco HQ" [ref=e1014]:
+              - cell "Business Development Manager, Agentic Commerce" [ref=e1015]:
+                - link "Business Development Manager, Agentic Commerce" [ref=e1016] [cursor=pointer]:
+                  - /url: /jobs/listing/business-development-manager-agentic-commerce/7524334
+              - cell "Sales" [ref=e1017]:
+                - list [ref=e1019]:
+                  - listitem [ref=e1020]: Sales
+              - cell "US South San Francisco HQ" [ref=e1021]:
+                - img "US" [ref=e1022]
+                - generic [ref=e1023]: South San Francisco HQ
+            - row "Business Development Manager, Training & Certification GTM Partnerships US Remote in United States" [ref=e1024]:
+              - cell "Business Development Manager, Training & Certification" [ref=e1025]:
+                - link "Business Development Manager, Training & Certification" [ref=e1026] [cursor=pointer]:
+                  - /url: /jobs/listing/business-development-manager-training-certification/7521020
+              - cell "GTM Partnerships" [ref=e1027]:
+                - list [ref=e1029]:
+                  - listitem [ref=e1030]: GTM Partnerships
+              - cell "US Remote in United States" [ref=e1031]:
+                - img "US" [ref=e1032]
+                - generic [ref=e1033]: Remote in United States
+            - row "Business Development Manager, Training & Certification GTM Partnerships US Seattle" [ref=e1034]:
+              - cell "Business Development Manager, Training & Certification" [ref=e1035]:
+                - link "Business Development Manager, Training & Certification" [ref=e1036] [cursor=pointer]:
+                  - /url: /jobs/listing/business-development-manager-training-certification/7521020
+              - cell "GTM Partnerships" [ref=e1037]:
+                - list [ref=e1039]:
+                  - listitem [ref=e1040]: GTM Partnerships
+              - cell "US Seattle" [ref=e1041]:
+                - img "US" [ref=e1042]
+                - generic [ref=e1043]: Seattle
+            - row "Business Development Manager, Training & Certification GTM Partnerships US New York" [ref=e1044]:
+              - cell "Business Development Manager, Training & Certification" [ref=e1045]:
+                - link "Business Development Manager, Training & Certification" [ref=e1046] [cursor=pointer]:
+                  - /url: /jobs/listing/business-development-manager-training-certification/7521020
+              - cell "GTM Partnerships" [ref=e1047]:
+                - list [ref=e1049]:
+                  - listitem [ref=e1050]: GTM Partnerships
+              - cell "US New York" [ref=e1051]:
+                - img "US" [ref=e1052]
+                - generic [ref=e1053]: New York
+            - row "Business Development Manager, Training & Certification GTM Partnerships US South San Francisco HQ" [ref=e1054]:
+              - cell "Business Development Manager, Training & Certification" [ref=e1055]:
+                - link "Business Development Manager, Training & Certification" [ref=e1056] [cursor=pointer]:
+                  - /url: /jobs/listing/business-development-manager-training-certification/7521020
+              - cell "GTM Partnerships" [ref=e1057]:
+                - list [ref=e1059]:
+                  - listitem [ref=e1060]: GTM Partnerships
+              - cell "US South San Francisco HQ" [ref=e1061]:
+                - img "US" [ref=e1062]
+                - generic [ref=e1063]: South San Francisco HQ
+            - row "Campaign Operations Manager Marketing US New York" [ref=e1064]:
+              - cell "Campaign Operations Manager" [ref=e1065]:
+                - link "Campaign Operations Manager" [ref=e1066] [cursor=pointer]:
+                  - /url: /jobs/listing/campaign-operations-manager/7584016
+              - cell "Marketing" [ref=e1067]:
+                - list [ref=e1069]:
+                  - listitem [ref=e1070]: Marketing
+              - cell "US New York" [ref=e1071]:
+                - img "US" [ref=e1072]
+                - generic [ref=e1073]: New York
+            - row "Chief Operating Officer (COO) & Deputy Trust Officer, Bridge Administrative US Washington DC" [ref=e1074]:
+              - cell "Chief Operating Officer (COO) & Deputy Trust Officer, Bridge" [ref=e1075]:
+                - link "Chief Operating Officer (COO) & Deputy Trust Officer, Bridge" [ref=e1076] [cursor=pointer]:
+                  - /url: /jobs/listing/chief-operating-officer-coo-deputy-trust-officer-bridge/7572925
+              - cell "Administrative" [ref=e1077]:
+                - list [ref=e1079]:
+                  - listitem [ref=e1080]: Administrative
+              - cell "US Washington DC" [ref=e1081]:
+                - img "US" [ref=e1082]
+                - generic [ref=e1083]: Washington DC
+            - row "Cloud Security Engineer Security US Seattle" [ref=e1084]:
+              - cell "Cloud Security Engineer" [ref=e1085]:
+                - link "Cloud Security Engineer" [ref=e1086] [cursor=pointer]:
+                  - /url: /jobs/listing/cloud-security-engineer/7867389
+              - cell "Security" [ref=e1087]:
+                - list [ref=e1089]:
+                  - listitem [ref=e1090]: Security
+              - cell "US Seattle" [ref=e1091]:
+                - img "US" [ref=e1092]
+                - generic [ref=e1093]: Seattle
+            - row "CoE Data & Insights Customer Success IN Bengaluru" [ref=e1094]:
+              - cell "CoE Data & Insights" [ref=e1095]:
+                - link "CoE Data & Insights" [ref=e1096] [cursor=pointer]:
+                  - /url: /jobs/listing/coe-data-insights/7839662
+              - cell "Customer Success" [ref=e1097]:
+                - list [ref=e1099]:
+                  - listitem [ref=e1100]: Customer Success
+              - cell "IN Bengaluru" [ref=e1101]:
+                - img "IN" [ref=e1102]
+                - generic [ref=e1103]: Bengaluru
+            - row "Commercial Counsel,APAC Legal SG Singapore" [ref=e1104]:
+              - cell "Commercial Counsel,APAC" [ref=e1105]:
+                - link "Commercial Counsel,APAC" [ref=e1106] [cursor=pointer]:
+                  - /url: /jobs/listing/commercial-counsel-apac/7823081
+              - cell "Legal" [ref=e1107]:
+                - list [ref=e1109]:
+                  - listitem [ref=e1110]: Legal
+              - cell "SG Singapore" [ref=e1111]:
+                - img "SG" [ref=e1112]
+                - generic [ref=e1113]: Singapore
+            - row "Commercial Solutions Program Manager Revenue Operations US Remote in United States" [ref=e1114]:
+              - cell "Commercial Solutions Program Manager" [ref=e1115]:
+                - link "Commercial Solutions Program Manager" [ref=e1116] [cursor=pointer]:
+                  - /url: /jobs/listing/commercial-solutions-program-manager/7206336
+              - cell "Revenue Operations" [ref=e1117]:
+                - list [ref=e1119]:
+                  - listitem [ref=e1120]: Revenue Operations
+              - cell "US Remote in United States" [ref=e1121]:
+                - img "US" [ref=e1122]
+                - generic [ref=e1123]: Remote in United States
+            - row "Compensation Business Partner, Core People Functions US Remote in United States" [ref=e1124]:
+              - cell "Compensation Business Partner, Core" [ref=e1125]:
+                - link "Compensation Business Partner, Core" [ref=e1126] [cursor=pointer]:
+                  - /url: /jobs/listing/compensation-business-partner-core/7859849
+              - cell "People Functions" [ref=e1127]:
+                - list [ref=e1129]:
+                  - listitem [ref=e1130]: People Functions
+              - cell "US Remote in United States" [ref=e1131]:
+                - img "US" [ref=e1132]
+                - generic [ref=e1133]: Remote in United States
+      - navigation [ref=e1134]:
+        - list [ref=e1135]:
+          - listitem [ref=e1136]:
+            - link "1" [ref=e1137] [cursor=pointer]:
+              - /url: "?skip=0"
+          - listitem [ref=e1138]:
+            - link "2" [ref=e1139] [cursor=pointer]:
+              - /url: "?skip=100"
+          - listitem [ref=e1140]:
+            - link "3" [ref=e1141] [cursor=pointer]:
+              - /url: "?skip=200"
+          - listitem [ref=e1142]:
+            - link "4" [ref=e1143] [cursor=pointer]:
+              - /url: "?skip=300"
+          - listitem [ref=e1144]:
+            - link "5" [ref=e1145] [cursor=pointer]:
+              - /url: "?skip=400"
+          - listitem [ref=e1146]:
+            - link "Next" [ref=e1147] [cursor=pointer]:
+              - /url: "?skip=100"
+          - listitem [ref=e1148]:
+            - link "Last" [ref=e1149] [cursor=pointer]:
+              - /url: "?skip=800"
+  - contentinfo [ref=e1150]:
+    - navigation [ref=e1157]:
+      - generic [ref=e1159]:
+        - link "Go to the Stripe homepage" [ref=e1161] [cursor=pointer]:
+          - /url: /
+          - img "Stripe logo" [ref=e1162]
+        - generic [ref=e1165]:
+          - button "United States. Choose your country" [ref=e1166] [cursor=pointer]:
+            - img [ref=e1167]
+            - generic [ref=e1169]: United States (English)
+          - generic:
+            - generic:
+              - generic:
+                - list:
+                  - listitem:
+                    - img
+                    - generic: Australia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/au/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Austria
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/at/jobs/search
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-at/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Belgium
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/nl-be/jobs/search
+                          - text: Nederlands
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr-be/jobs/search
+                          - text: Français
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de-be/jobs/search
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-be/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Brazil
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/br/jobs/search
+                          - text: Português
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-br/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Bulgaria
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-bg/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Canada
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-ca/jobs/search
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr-ca/jobs/search
+                          - text: Français
+                  - listitem:
+                    - img
+                    - generic: Croatia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-hr/jobs/search
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/it-hr/jobs/search
+                          - text: Italiano
+                  - listitem:
+                    - img
+                    - generic: Cyprus
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-cy/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Czech Republic
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-cz/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Denmark
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-dk/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Estonia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-ee/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Finland
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-fi/jobs/search
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/sv-fi/jobs/search
+                          - text: Svenska
+                - list:
+                  - listitem:
+                    - img
+                    - generic: France
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr/jobs/search
+                          - text: Français
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-fr/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Germany
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de/jobs/search
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-de/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Gibraltar
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-gi/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Greece
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-gr/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Hong Kong
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-hk/jobs/search
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/zh-hk/jobs/search
+                          - text: 简体中文
+                  - listitem:
+                    - img
+                    - generic: Hungary
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-hu/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: India
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/in/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Ireland
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/ie/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Italy
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/it/jobs/search
+                          - text: Italiano
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-it/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Japan
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/jp/jobs/search
+                          - text: 日本語
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-jp/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Latvia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-lv/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Liechtenstein
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de-li/jobs/search
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-li/jobs/search
+                          - text: English
+                - list:
+                  - listitem:
+                    - img
+                    - generic: Lithuania
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-lt/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Luxembourg
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr-lu/jobs/search
+                          - text: Français
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de-lu/jobs/search
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-lu/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Malaysia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-my/jobs/search
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/zh-my/jobs/search
+                          - text: 简体中文
+                  - listitem:
+                    - img
+                    - generic: Malta
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-mt/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Mexico
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/mx/jobs/search
+                          - text: Español
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-mx/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Netherlands
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/nl/jobs/search
+                          - text: Nederlands
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-nl/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: New Zealand
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/nz/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Norway
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-no/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Poland
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-pl/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Portugal
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/pt-pt/jobs/search
+                          - text: Português
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-pt/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Romania
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-ro/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Singapore
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-sg/jobs/search
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/zh-sg/jobs/search
+                          - text: 简体中文
+                - list:
+                  - listitem:
+                    - img
+                    - generic: Slovakia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-sk/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Slovenia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-si/jobs/search
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/it-si/jobs/search
+                          - text: Italiano
+                  - listitem:
+                    - img
+                    - generic: Spain
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/es/jobs/search
+                          - text: Español
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-es/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Sweden
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/se/jobs/search
+                          - text: Svenska
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-se/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Switzerland
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de-ch/jobs/search
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr-ch/jobs/search
+                          - text: Français
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/it-ch/jobs/search
+                          - text: Italiano
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-ch/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Thailand
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/th/jobs/search
+                          - text: ไทย
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-th/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: United Arab Emirates
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/ae/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: United Kingdom
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/gb/jobs/search
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: United States
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/us/jobs/search
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/es-us/jobs/search
+                          - text: Español
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/zh-us/jobs/search
+                          - text: 简体中文
+      - generic [ref=e1171]:
+        - heading "Products & pricing" [level=1] [ref=e1172]
+        - list [ref=e1173]:
+          - listitem [ref=e1174]:
+            - link "Pricing" [ref=e1175] [cursor=pointer]:
+              - /url: https://stripe.com/pricing
+          - listitem [ref=e1176]:
+            - link "Atlas" [ref=e1177] [cursor=pointer]:
+              - /url: /atlas
+          - listitem [ref=e1178]:
+            - link "Authorization Boost" [ref=e1179] [cursor=pointer]:
+              - /url: /authorization-boost
+          - listitem [ref=e1180]:
+            - link "Billing" [ref=e1181] [cursor=pointer]:
+              - /url: /billing
+          - listitem [ref=e1182]:
+            - link "Capital" [ref=e1183] [cursor=pointer]:
+              - /url: /capital/platforms
+          - listitem [ref=e1184]:
+            - link "Checkout" [ref=e1185] [cursor=pointer]:
+              - /url: /payments/checkout
+          - listitem [ref=e1186]:
+            - link "Crypto" [ref=e1187] [cursor=pointer]:
+              - /url: /use-cases/crypto
+          - listitem [ref=e1188]:
+            - link "Climate" [ref=e1189] [cursor=pointer]:
+              - /url: /climate
+          - listitem [ref=e1190]:
+            - link "Connect" [ref=e1191] [cursor=pointer]:
+              - /url: /connect
+          - listitem [ref=e1192]:
+            - link "Data Pipeline" [ref=e1193] [cursor=pointer]:
+              - /url: /data-pipeline
+          - listitem [ref=e1194]:
+            - link "Elements" [ref=e1195] [cursor=pointer]:
+              - /url: /payments/elements
+          - listitem [ref=e1196]:
+            - link "Treasury" [ref=e1197] [cursor=pointer]:
+              - /url: /treasury
+          - listitem [ref=e1198]:
+            - link "Financial Connections" [ref=e1199] [cursor=pointer]:
+              - /url: /financial-connections
+          - listitem [ref=e1200]:
+            - link "Identity" [ref=e1201] [cursor=pointer]:
+              - /url: /identity
+          - listitem [ref=e1202]:
+            - link "Invoicing" [ref=e1203] [cursor=pointer]:
+              - /url: /invoicing
+          - listitem [ref=e1204]:
+            - link "Issuing" [ref=e1205] [cursor=pointer]:
+              - /url: https://stripe.com/issuing
+          - listitem [ref=e1206]:
+            - link "Link" [ref=e1207] [cursor=pointer]:
+              - /url: /payments/link
+          - listitem [ref=e1208]:
+            - link "Managed Payments" [ref=e1209] [cursor=pointer]:
+              - /url: /managed-payments
+          - listitem [ref=e1210]:
+            - link "Payments" [ref=e1211] [cursor=pointer]:
+              - /url: /payments
+          - listitem [ref=e1212]:
+            - link "Payment links" [ref=e1213] [cursor=pointer]:
+              - /url: /payments/payment-links
+          - listitem [ref=e1214]:
+            - link "Payouts" [ref=e1215] [cursor=pointer]:
+              - /url: /connect/payouts
+          - listitem [ref=e1216]:
+            - link "Radar" [ref=e1217] [cursor=pointer]:
+              - /url: https://stripe.com/radar
+          - listitem [ref=e1218]:
+            - link "Revenue Recognition" [ref=e1219] [cursor=pointer]:
+              - /url: /revenue-recognition
+          - listitem [ref=e1220]:
+            - link "Stripe Sigma" [ref=e1221] [cursor=pointer]:
+              - /url: https://stripe.com/sigma
+          - listitem [ref=e1222]:
+            - link "Tax" [ref=e1223] [cursor=pointer]:
+              - /url: /tax
+          - listitem [ref=e1224]:
+            - link "Terminal" [ref=e1225] [cursor=pointer]:
+              - /url: /terminal
+      - generic [ref=e1226]:
+        - generic [ref=e1227]:
+          - heading "Solutions" [level=1] [ref=e1228]
+          - list [ref=e1229]:
+            - listitem [ref=e1230]:
+              - link "Enterprises" [ref=e1231] [cursor=pointer]:
+                - /url: /enterprise
+            - listitem [ref=e1232]:
+              - link "Startups" [ref=e1233] [cursor=pointer]:
+                - /url: /startups
+            - listitem [ref=e1234]:
+              - link "Agentic commerce" [ref=e1235] [cursor=pointer]:
+                - /url: /use-cases/agentic-commerce
+            - listitem [ref=e1236]:
+              - link "Crypto" [ref=e1237] [cursor=pointer]:
+                - /url: /use-cases/crypto
+            - listitem [ref=e1238]:
+              - link "Ecommerce" [ref=e1239] [cursor=pointer]:
+                - /url: /use-cases/ecommerce
+            - listitem [ref=e1240]:
+              - link "Embedded finance" [ref=e1241] [cursor=pointer]:
+                - /url: /use-cases/embedded-finance
+            - listitem [ref=e1242]:
+              - link "Finance automation" [ref=e1243] [cursor=pointer]:
+                - /url: /use-cases/finance-automation
+            - listitem [ref=e1244]:
+              - link "Global businesses" [ref=e1245] [cursor=pointer]:
+                - /url: /use-cases/global-businesses
+            - listitem [ref=e1246]:
+              - link "In-app payments" [ref=e1247] [cursor=pointer]:
+                - /url: /use-cases/in-app-payments
+            - listitem [ref=e1248]:
+              - link "Marketplaces" [ref=e1249] [cursor=pointer]:
+                - /url: /use-cases/marketplaces
+            - listitem [ref=e1250]:
+              - link "Platforms" [ref=e1251] [cursor=pointer]:
+                - /url: /use-cases/platforms
+            - listitem [ref=e1252]:
+              - link "SaaS" [ref=e1253] [cursor=pointer]:
+                - /url: /use-cases/saas
+            - listitem [ref=e1254]:
+              - link "AI companies" [ref=e1255] [cursor=pointer]:
+                - /url: /use-cases/ai
+            - listitem [ref=e1256]:
+              - link "Creator economy" [ref=e1257] [cursor=pointer]:
+                - /url: /use-cases/creator-economy
+            - listitem [ref=e1258]:
+              - link "Hospitality, travel, and leisure" [ref=e1259] [cursor=pointer]:
+                - /url: /industries/travel
+            - listitem [ref=e1260]:
+              - link "Insurance" [ref=e1261] [cursor=pointer]:
+                - /url: /industries/insurance
+            - listitem [ref=e1262]:
+              - link "Media and entertainment" [ref=e1263] [cursor=pointer]:
+                - /url: /industries/media-entertainment
+            - listitem [ref=e1264]:
+              - link "Nonprofits" [ref=e1265] [cursor=pointer]:
+                - /url: /industries/nonprofits
+            - listitem [ref=e1266]:
+              - link "Public sector" [ref=e1267] [cursor=pointer]:
+                - /url: /industries/public-sector
+            - listitem [ref=e1268]:
+              - link "Retail" [ref=e1269] [cursor=pointer]:
+                - /url: /industries/retail
+        - generic [ref=e1270]:
+          - heading "Integrations & custom solutions" [level=1] [ref=e1271]
+          - list [ref=e1272]:
+            - listitem [ref=e1273]:
+              - link "Stripe App Marketplace" [ref=e1274] [cursor=pointer]:
+                - /url: https://marketplace.stripe.com/
+            - listitem [ref=e1275]:
+              - link "Stripe Partner ecosystem" [ref=e1276] [cursor=pointer]:
+                - /url: /partners
+            - listitem [ref=e1277]:
+              - link "Professional services" [ref=e1278] [cursor=pointer]:
+                - /url: /professional-services
+        - generic [ref=e1279]:
+          - heading "Developers" [level=1] [ref=e1280]
+          - list [ref=e1281]:
+            - listitem [ref=e1282]:
+              - link "Documentation" [ref=e1283] [cursor=pointer]:
+                - /url: https://docs.stripe.com/
+            - listitem [ref=e1284]:
+              - link "API reference" [ref=e1285] [cursor=pointer]:
+                - /url: https://docs.stripe.com/api
+            - listitem [ref=e1286]:
+              - link "API status" [ref=e1287] [cursor=pointer]:
+                - /url: https://status.stripe.com/
+            - listitem [ref=e1288]:
+              - link "API changelog" [ref=e1289] [cursor=pointer]:
+                - /url: https://docs.stripe.com/changelog
+            - listitem [ref=e1290]:
+              - link "Libraries and SDKs" [ref=e1291] [cursor=pointer]:
+                - /url: https://docs.stripe.com/development
+            - listitem [ref=e1292]:
+              - link "Developer blog" [ref=e1293] [cursor=pointer]:
+                - /url: https://stripe.dev/
+      - generic [ref=e1294]:
+        - generic [ref=e1295]:
+          - heading "Resources" [level=1] [ref=e1296]
+          - list [ref=e1297]:
+            - listitem [ref=e1298]:
+              - link "Guides" [ref=e1299] [cursor=pointer]:
+                - /url: https://stripe.com/guides
+            - listitem [ref=e1300]:
+              - link "Customer stories" [ref=e1301] [cursor=pointer]:
+                - /url: /customers
+            - listitem [ref=e1302]:
+              - link "Blog" [ref=e1303] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e1304]:
+              - link "Sessions annual conference" [ref=e1305] [cursor=pointer]:
+                - /url: /sessions
+            - listitem [ref=e1306]:
+              - link "Privacy & terms" [ref=e1307] [cursor=pointer]:
+                - /url: https://stripe.com/privacy
+            - listitem [ref=e1308]:
+              - link "Prohibited & restricted businesses" [ref=e1309] [cursor=pointer]:
+                - /url: /legal/restricted-businesses
+            - listitem [ref=e1310]:
+              - link "Licenses" [ref=e1311] [cursor=pointer]:
+                - /url: https://stripe.com/spc/licenses
+            - listitem [ref=e1312]:
+              - link "Sitemap" [ref=e1313] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e1314]:
+              - link "Cookie settings" [ref=e1315] [cursor=pointer]:
+                - /url: /cookie-settings
+            - listitem [ref=e1316]:
+              - link "Your privacy choices" [ref=e1317] [cursor=pointer]:
+                - /url: https://privacy.stripe.com/
+            - listitem [ref=e1318]:
+              - link "Coverage transparency" [ref=e1319] [cursor=pointer]:
+                - /url: /lp/transparencyincoverage
+            - listitem [ref=e1320]:
+              - link "More resources" [ref=e1321] [cursor=pointer]:
+                - /url: https://stripe.com/resources/more
+        - generic [ref=e1322]:
+          - heading "Company" [level=1] [ref=e1323]
+          - list [ref=e1324]:
+            - listitem [ref=e1325]:
+              - link "Product roadmap" [ref=e1326] [cursor=pointer]:
+                - /url: /roadmap
+            - listitem [ref=e1327]:
+              - link "Jobs" [ref=e1328] [cursor=pointer]:
+                - /url: /jobs
+            - listitem [ref=e1329]:
+              - link "Newsroom" [ref=e1330] [cursor=pointer]:
+                - /url: /newsroom
+            - listitem [ref=e1331]:
+              - link "Stripe Press" [ref=e1332] [cursor=pointer]:
+                - /url: https://press.stripe.com/
+            - listitem [ref=e1333]:
+              - link "Contact sales" [ref=e1334] [cursor=pointer]:
+                - /url: /contact/sales
+        - generic [ref=e1335]:
+          - heading "Support" [level=1] [ref=e1336]
+          - list [ref=e1337]:
+            - listitem [ref=e1338]:
+              - link "Get support" [ref=e1339] [cursor=pointer]:
+                - /url: https://support.stripe.com/?referrerLocale=en-us
+            - listitem [ref=e1340]:
+              - link "Managed support plans" [ref=e1341] [cursor=pointer]:
+                - /url: /support-plans
+            - listitem [ref=e1342]: "CA residents: +1 888 926 2289"
+        - list [ref=e1344]:
+          - link "Sign in" [ref=e1345] [cursor=pointer]:
+            - /url: https://dashboard.stripe.com/login
+            - text: Sign in
+            - img [ref=e1347]
+      - list [ref=e1351]:
+        - listitem [ref=e1352]: © 2026 Stripe, LLC

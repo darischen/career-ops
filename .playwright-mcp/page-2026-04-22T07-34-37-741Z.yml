@@ -1,0 +1,526 @@
+- generic [active] [ref=e1]:
+  - navigation "Main" [ref=e6]:
+    - link "Esri home page" [ref=e130] [cursor=pointer]:
+      - /url: https://www.esri.com/en-us/home
+      - img "Esri home page" [ref=e133]
+    - list [ref=e8]:
+      - button "Search" [ref=e9] [cursor=pointer]:
+        - img [ref=e10]
+      - listitem [ref=e12]:
+        - link "Sign In" [ref=e13] [cursor=pointer]:
+          - /url: https://www.arcgis.com/sharing/rest/oauth2/authorize?client_id=esriapps&response_type=token&showSignupOption=true&signuptype=publicaccount&locale=en&expiration=480&redirect_uri=https%3A%2F%2Fwww.esri.com%2Fen-us%2F%2Fsignin%3Fredirect_success%3Dhttps%253A%252F%252Fwww.esri.com%252Fcareers%252F5070036007%253Fgh_jid%253D5070036007%2526utm_source%253DSimplify%2526ref%253DSimplify%2526title%253Dbackend-engineer-i-data-pipelines
+          - img [ref=e14]
+      - listitem [ref=e16]:
+        - button "Open Navigation" [ref=e17]:
+          - img "hamburger button" [ref=e18]
+  - navigation "Main" [ref=e21]:
+    - generic [ref=e22]:
+      - link "Careers" [ref=e23] [cursor=pointer]:
+        - /url: https://www.esri.com/en-us/about/careers/overview
+      - button "Menu" [ref=e24]:
+        - generic [ref=e25]: Menu
+        - img [ref=e26]
+  - banner [ref=e28]:
+    - generic [ref=e30]:
+      - paragraph
+      - heading "Backend Engineer I - Data Pipelines" [level=1] [ref=e31]
+      - link "Apply Now" [ref=e33] [cursor=pointer]:
+        - /url: "#grnhse_app"
+        - generic [ref=e34]:
+          - generic: Apply Now
+        - img [ref=e36]
+  - main [ref=e38]:
+    - generic [ref=e39]:
+      - article [ref=e40]:
+        - heading "Overview" [level=2] [ref=e41]
+        - paragraph
+        - paragraph [ref=e42]: Motivation comes from turning complex information into systems people can trust, analyze, and act on, as well as from building core backend services that operate at global scale. This role offers the opportunity to help build the backend of ArcGIS Data Pipelines, a core geospatial data engineering product used by organizations to make timely decisions and support critical daily operations.
+        - paragraph [ref=e43]: As a backend engineer on the Data Pipelines team, you’ll design, build, and own services that support diverse data workloads. You’ll collaborate closely with product engineers, front-end developers, and platform teams, and play an active role in shaping the technical direction of a growing system.
+      - article [ref=e44]:
+        - heading "Responsibilities" [level=2] [ref=e45]
+        - paragraph
+        - list [ref=e46]:
+          - listitem [ref=e47]: Build services that power geospatial data processing and interactive user experiences
+          - listitem [ref=e48]: Create and maintain connectors that integrate data from a wide variety of data sources
+          - listitem [ref=e49]: Contribute to systems that run in multiple environments, from cloud-native SaaS to on-premises deployments
+          - listitem [ref=e50]: Improve reliability and performance through thoughtful API design, testing, and observability
+          - listitem [ref=e51]: Collaborate with teammates to establish requirements, make sound design decisions, and translate ideas into concrete implementations
+      - article [ref=e52]:
+        - heading "Requirements" [level=2] [ref=e53]
+        - paragraph
+        - list [ref=e54]:
+          - listitem [ref=e55]: 1+ years of industry experience as a software engineer, or equivalent practical experience
+          - listitem [ref=e56]: Proficient in one or more backend programming languages such as Python, Java, Scala, or C#
+          - listitem [ref=e57]: Solid fundamentals in API design, software design, and system design
+          - listitem [ref=e58]: Strong problem-solving, communication, and collaboration skills
+          - listitem [ref=e59]: Bachelor's degree in computer science, engineering, or related field
+      - article [ref=e60]:
+        - heading "Recommended Qualifications" [level=2] [ref=e61]
+        - paragraph
+        - list [ref=e62]:
+          - listitem [ref=e63]: Familiarity with data storage systems such as relational databases and object stores
+          - listitem [ref=e64]: Exposure to distributed systems, batch processing, or large-scale data workflows
+          - listitem [ref=e65]: Interest in applying AI to improve engineering workflows and end-user features
+          - listitem [ref=e66]: An entrepreneurial mindset and a bias towards solutions that help users
+        - paragraph [ref=e67]: "#LI-TA1"
+        - paragraph [ref=e68]: "#LI-onsite"
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - paragraph [ref=e72]:
+              - strong [ref=e73]: Total Rewards
+            - paragraph [ref=e74]: "Esri’s competitive total rewards strategy includes industry-leading health and welfare benefits: medical, dental, vision, basic and supplemental life insurance for employees (and their families), 401(k) and profit-sharing programs, minimum accrual of 80 hours of vacation leave, twelve paid holidays throughout the calendar year, and opportunities for personal and professional growth. Base salary is one component of our total rewards strategy. Compensation decisions and the base range for this role take into account many factors including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs."
+          - generic [ref=e75]: A reasonable estimate of the base salary range is
+          - generic [ref=e76]: $79,040-$133,016 USD
+      - article [ref=e77]:
+        - heading "About Esri" [level=2] [ref=e78]
+        - paragraph
+        - paragraph [ref=e79]:
+          - text: At Esri, diversity is more than just a word on a map. When employees of different experiences, perspectives, backgrounds, and cultures come together, we are more innovative and ultimately a better place to work. We believe in having a diverse workforce that is unified under our mission of creating positive global change. We understand that diversity, equity, and inclusion is not a destination but an ongoing process. We are committed to the continuation of learning, growing, and changing our workplace so every employee can contribute to their life’s best work. Our commitment to these principles extends to the global communities we serve by creating positive change with GIS technology. For more information on Esri’s Racial Equity and Social Justice initiatives, please visit our website
+          - link "here" [ref=e80] [cursor=pointer]:
+            - /url: https://www.esri.com/en-us/racial-equity/overview#engage-communities
+          - text: .
+        - paragraph [ref=e81]:
+          - strong [ref=e82]: If you don’t meet all of the preferred qualifications for this position, we encourage you to still apply!
+        - paragraph [ref=e83]:
+          - text: Esri is an equal opportunity employer (EOE) and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law. If you need reasonable accommodation for any part of the employment process, please email
+          - link "askcareers@esri.com" [ref=e84] [cursor=pointer]:
+            - /url: mailto:askcareers@esri.com
+          - text: and let us know the nature of your request and your contact information. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this e-mail address.
+        - paragraph [ref=e85]:
+          - link "Esri Privacy" [ref=e86] [cursor=pointer]:
+            - /url: https://www.esri.com/en-us/privacy/overview
+          - text: Esri takes our responsibility to protect your privacy seriously. We are committed to respecting your privacy by providing transparency in how we acquire and use your information, giving you control of your information and preferences, and holding ourselves to the highest national and international standards, including CCPA and GDPR compliance.
+      - article [ref=e87]:
+        - paragraph [ref=e88]: "Requisition ID: 2026-3882"
+      - iframe [ref=e90]:
+        - generic [active] [ref=f1e1]:
+          - main [ref=f1e2]:
+            - generic [ref=f1e3]:
+              - img "Esri Logo" [ref=f1e5]
+              - separator [ref=f1e6]
+              - generic [ref=f1e7]:
+                - generic [ref=f1e9]:
+                  - heading "Apply for this job" [level=2] [ref=f1e11]
+                  - generic [ref=f1e12]:
+                    - paragraph [ref=f1e14]: "*"
+                    - paragraph [ref=f1e15]: indicates a required field
+                - generic [ref=f1e16]:
+                  - generic [ref=f1e17]:
+                    - generic [ref=f1e20]:
+                      - generic [ref=f1e21]: First Name*
+                      - textbox "First Name" [ref=f1e22]
+                    - generic [ref=f1e25]:
+                      - generic [ref=f1e26]: Last Name*
+                      - textbox "Last Name" [ref=f1e27]
+                    - generic [ref=f1e30]:
+                      - generic [ref=f1e31]: Preferred First Name
+                      - textbox "Preferred First Name" [ref=f1e32]
+                    - generic [ref=f1e35]:
+                      - generic [ref=f1e36]: Email*
+                      - textbox "Email" [ref=f1e37]
+                    - group "Phone" [ref=f1e39]:
+                      - generic [ref=f1e40]: Phone
+                      - generic [ref=f1e43]:
+                        - generic [ref=f1e44]: Country*
+                        - generic [ref=f1e45]:
+                          - log [ref=f1e47]
+                          - generic [ref=f1e49]:
+                            - combobox "Country" [ref=f1e52]
+                            - button "Toggle flyout" [ref=f1e54] [cursor=pointer]:
+                              - img [ref=f1e55]
+                          - textbox
+                      - generic [ref=f1e59]:
+                        - generic [ref=f1e60]: Phone*
+                        - textbox "Phone" [ref=f1e61]
+                    - group "Resume/CV*" [ref=f1e63]:
+                      - generic [ref=f1e64]: Resume/CV*
+                      - generic [ref=f1e66]:
+                        - generic [ref=f1e68]:
+                          - button "Attach" [ref=f1e69] [cursor=pointer]
+                          - generic [ref=f1e70]: Attach
+                          - button "Attach" [ref=f1e71]
+                        - button "Dropbox" [ref=f1e73] [cursor=pointer]
+                        - generic [ref=f1e75]:
+                          - button "Enter manually" [ref=f1e76] [cursor=pointer]
+                          - generic [ref=f1e77]: Enter manually
+                        - paragraph [ref=f1e78]: "Accepted file types: pdf, doc, docx, txt, rtf"
+                    - group "Cover Letter" [ref=f1e80]:
+                      - generic [ref=f1e81]: Cover Letter
+                      - generic [ref=f1e83]:
+                        - generic [ref=f1e85]:
+                          - button "Attach" [ref=f1e86] [cursor=pointer]
+                          - generic [ref=f1e87]: Attach
+                          - button "Attach" [ref=f1e88]
+                        - button "Dropbox" [ref=f1e90] [cursor=pointer]
+                        - generic [ref=f1e92]:
+                          - button "Enter manually" [ref=f1e93] [cursor=pointer]
+                          - generic [ref=f1e94]: Enter manually
+                        - paragraph [ref=f1e95]: "Accepted file types: pdf, doc, docx, txt, rtf"
+                  - generic [ref=f1e96]:
+                    - separator [ref=f1e97]
+                    - generic [ref=f1e98]:
+                      - generic [ref=f1e100]:
+                        - generic [ref=f1e101]: By selecting yes to this question you confirm that you have read Esri’s Applicant Privacy Notice.*
+                        - generic [ref=f1e102]:
+                          - log [ref=f1e104]
+                          - generic [ref=f1e106]:
+                            - generic [ref=f1e107]:
+                              - generic [ref=f1e108]: Select...
+                              - combobox "By selecting yes to this question you confirm that you have read Esri’s Applicant Privacy Notice." [ref=f1e110]
+                            - button "Toggle flyout" [ref=f1e112] [cursor=pointer]:
+                              - img [ref=f1e113]
+                          - textbox
+                      - paragraph [ref=f1e117]:
+                        - text: Esri's
+                        - link "Applicant Privacy Notice" [ref=f1e118] [cursor=pointer]:
+                          - /url: https://www.esri.com/content/dam/esrisites/en-us/media/legal/privacy/applicant-privacy-notice.pdf
+                    - generic [ref=f1e121]:
+                      - generic [ref=f1e122]: Will you now or in the future require visa sponsorship from Esri for employment (e.g., H-1B visa)?
+                      - generic [ref=f1e123]:
+                        - log [ref=f1e125]
+                        - generic [ref=f1e127]:
+                          - generic [ref=f1e128]:
+                            - generic [ref=f1e129]: Select...
+                            - combobox "Will you now or in the future require visa sponsorship from Esri for employment (e.g., H-1B visa)?" [ref=f1e131]
+                          - button "Toggle flyout" [ref=f1e133] [cursor=pointer]:
+                            - img [ref=f1e134]
+                    - generic [ref=f1e138]:
+                      - generic [ref=f1e139]: Are you able to work onsite in the Esri location of this job posting, or relocate to do so?
+                      - generic [ref=f1e140]:
+                        - log [ref=f1e142]
+                        - generic [ref=f1e144]:
+                          - generic [ref=f1e145]:
+                            - generic [ref=f1e146]: Select...
+                            - combobox "Are you able to work onsite in the Esri location of this job posting, or relocate to do so?" [ref=f1e148]
+                          - button "Toggle flyout" [ref=f1e150] [cursor=pointer]:
+                            - img [ref=f1e151]
+                    - generic [ref=f1e155]:
+                      - generic [ref=f1e156]: What is your annual salary range requirement?
+                      - textbox "What is your annual salary range requirement?" [ref=f1e157]
+                    - generic [ref=f1e160]:
+                      - generic [ref=f1e161]: LinkedIn Profile
+                      - textbox "LinkedIn Profile" [ref=f1e162]
+                  - generic [ref=f1e163]:
+                    - separator [ref=f1e164]
+                    - generic [ref=f1e165]:
+                      - heading "Voluntary Self-Identification" [level=2] [ref=f1e166]
+                      - paragraph [ref=f1e167]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+                      - paragraph [ref=f1e168]: As set forth in Esri’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+                    - generic [ref=f1e171]:
+                      - generic [ref=f1e172]: Gender*
+                      - generic [ref=f1e173]:
+                        - log [ref=f1e175]
+                        - generic [ref=f1e177]:
+                          - generic [ref=f1e178]:
+                            - generic [ref=f1e179]: Select...
+                            - combobox "Gender" [ref=f1e181]
+                          - button "Toggle flyout" [ref=f1e183] [cursor=pointer]:
+                            - img [ref=f1e184]
+                        - textbox
+                    - generic [ref=f1e186]:
+                      - generic [ref=f1e188]:
+                        - generic [ref=f1e189]: Are you Hispanic/Latino?*
+                        - generic [ref=f1e190]:
+                          - log [ref=f1e192]
+                          - generic [ref=f1e194]:
+                            - generic [ref=f1e195]:
+                              - generic [ref=f1e196]: Select...
+                              - combobox "Are you Hispanic/Latino?" [ref=f1e198]
+                            - button "Toggle flyout" [ref=f1e200] [cursor=pointer]:
+                              - img [ref=f1e201]
+                          - textbox
+                      - link "Race & Ethnicity Definitions" [ref=f1e203] [cursor=pointer]:
+                        - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+                    - generic [ref=f1e204]:
+                      - paragraph [ref=f1e205]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+                      - paragraph [ref=f1e206]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+                      - paragraph [ref=f1e207]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+                      - paragraph [ref=f1e208]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+                      - paragraph [ref=f1e209]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+                    - generic [ref=f1e212]:
+                      - generic [ref=f1e213]: Veteran Status*
+                      - generic [ref=f1e214]:
+                        - log [ref=f1e216]
+                        - generic [ref=f1e218]:
+                          - generic [ref=f1e219]:
+                            - generic [ref=f1e220]: Select...
+                            - combobox "Veteran Status" [ref=f1e222]
+                          - button "Toggle flyout" [ref=f1e224] [cursor=pointer]:
+                            - img [ref=f1e225]
+                        - textbox
+                    - separator [ref=f1e227]
+                    - generic [ref=f1e228]:
+                      - heading "Voluntary Self-Identification of Disability" [level=2] [ref=f1e229]
+                      - generic [ref=f1e230]:
+                        - generic [ref=f1e231]:
+                          - generic [ref=f1e232]: Form CC-305
+                          - generic [ref=f1e233]: Page 1 of 1
+                        - generic [ref=f1e234]:
+                          - generic [ref=f1e235]: OMB Control Number 1250-0005
+                          - generic [ref=f1e236]: Expires 04/30/2026
+                      - strong [ref=f1e237]: Why are you being asked to complete this form?
+                      - paragraph [ref=f1e238]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+                      - paragraph [ref=f1e239]:
+                        - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                        - link "www.dol.gov/ofccp" [ref=f1e240] [cursor=pointer]:
+                          - /url: https://www.dol.gov/ofccp
+                        - text: .
+                      - strong [ref=f1e241]: How do you know if you have a disability?
+                      - paragraph [ref=f1e242]:
+                        - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                        - strong [ref=f1e243]: "Disabilities include, but are not limited to:"
+                      - list [ref=f1e244]:
+                        - listitem [ref=f1e245]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                        - listitem [ref=f1e246]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                        - listitem [ref=f1e247]: Blind or low vision
+                        - listitem [ref=f1e248]: Cancer (past or present)
+                        - listitem [ref=f1e249]: Cardiovascular or heart disease
+                        - listitem [ref=f1e250]: Celiac disease
+                        - listitem [ref=f1e251]: Cerebral palsy
+                        - listitem [ref=f1e252]: Deaf or serious difficulty hearing
+                        - listitem [ref=f1e253]: Diabetes
+                        - listitem [ref=f1e254]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                        - listitem [ref=f1e255]: Epilepsy or other seizure disorder
+                        - listitem [ref=f1e256]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                        - listitem [ref=f1e257]: Intellectual or developmental disability
+                        - listitem [ref=f1e258]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                        - listitem [ref=f1e259]: Missing limbs or partially missing limbs
+                        - listitem [ref=f1e260]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                        - listitem [ref=f1e261]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                        - listitem [ref=f1e262]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                        - listitem [ref=f1e263]: Partial or complete paralysis (any cause)
+                        - listitem [ref=f1e264]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                        - listitem [ref=f1e265]: Short stature (dwarfism)
+                        - listitem [ref=f1e266]: Traumatic brain injury
+                    - generic [ref=f1e269]:
+                      - generic [ref=f1e270]: Disability Status*
+                      - generic [ref=f1e271]:
+                        - log [ref=f1e273]
+                        - generic [ref=f1e275]:
+                          - generic [ref=f1e276]:
+                            - generic [ref=f1e277]: Select...
+                            - combobox "Disability Status" [ref=f1e279]
+                          - button "Toggle flyout" [ref=f1e281] [cursor=pointer]:
+                            - img [ref=f1e282]
+                        - textbox
+                    - paragraph [ref=f1e285]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+                  - button "Submit application" [ref=f1e287] [cursor=pointer]
+          - iframe [ref=f1e291]:
+            - generic [ref=f8e6]:
+              - text: protected by
+              - strong [ref=f8e7]: reCAPTCHA
+    - complementary [ref=e91]:
+      - article [ref=e92]:
+        - heading "Available in" [level=2] [ref=e93]
+        - paragraph [ref=e94]: Redlands, CA
+      - article [ref=e95]:
+        - heading "Job Category" [level=2] [ref=e96]
+        - paragraph [ref=e97]: Software Development and Engineering
+      - article [ref=e98]:
+        - heading "Role Type" [level=2] [ref=e99]
+        - paragraph [ref=e100]: Individual Contributor
+      - article [ref=e101]:
+        - heading "Experience Level" [level=2] [ref=e102]
+        - paragraph [ref=e103]: Early Career
+  - generic [ref=e110]:
+    - heading "Work with us" [level=2] [ref=e112]
+    - paragraph [ref=e114]: Help us make technology that matters
+    - generic [ref=e115]:
+      - generic [ref=e116]:
+        - heading "Find open positions" [level=3] [ref=e117]
+        - link "Search jobs" [ref=e120] [cursor=pointer]:
+          - /url: https://www.esri.com/en-us/about/careers/job-search
+          - generic [ref=e121]:
+            - generic: Search jobs
+      - generic [ref=e124]:
+        - heading "Application resources" [level=3] [ref=e125]
+        - link "View FAQ and resources" [ref=e128] [cursor=pointer]:
+          - /url: https://www.esri.com/en-us/about/careers/application-resources
+          - generic [ref=e129]:
+            - generic: View FAQ and resources
+  - generic [ref=e138]:
+    - generic [ref=e139]:
+      - generic [ref=e140]:
+        - link "More about Esri and the Science of Where" [ref=e142] [cursor=pointer]:
+          - /url: /en-us/about/about-esri/overview
+          - img "More about Esri and the Science of Where" [ref=e145]
+        - list [ref=e151]:
+          - listitem [ref=e152]:
+            - link "Facebook" [ref=e153] [cursor=pointer]:
+              - /url: https://www.facebook.com/esrigis
+              - img "Facebook" [ref=e156]
+          - listitem [ref=e159]:
+            - link "X" [ref=e160] [cursor=pointer]:
+              - /url: https://x.com/Esri
+              - img "X" [ref=e163]
+          - listitem [ref=e165]:
+            - link "LinkedIn" [ref=e166] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/esri
+              - img "LinkedIn" [ref=e169]
+          - listitem [ref=e171]:
+            - link "Esri Community" [ref=e172] [cursor=pointer]:
+              - /url: https://community.esri.com/
+              - img "Esri Community" [ref=e175]
+          - listitem [ref=e179]:
+            - link "Instagram" [ref=e180] [cursor=pointer]:
+              - /url: https://www.instagram.com/esrigram/
+              - img "Instagram" [ref=e183]
+          - listitem [ref=e187]:
+            - link "YouTube" [ref=e188] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/esritv/
+              - img "YouTube" [ref=e191]
+      - generic [ref=e194]:
+        - navigation [ref=e195]:
+          - heading "ArcGIS" [level=2] [ref=e196]
+          - menu [ref=e199]:
+            - menuitem "ArcGIS Overview" [ref=e200]:
+              - link "ArcGIS Overview" [ref=e201] [cursor=pointer]:
+                - /url: /en-us/arcgis/geospatial-platform/overview
+            - menuitem "Mapping" [ref=e202]:
+              - link "Mapping" [ref=e203] [cursor=pointer]:
+                - /url: /en-us/capabilities/mapping/overview
+            - menuitem "ArcGIS Pro" [ref=e204]:
+              - link "ArcGIS Pro" [ref=e205] [cursor=pointer]:
+                - /url: /en-us/arcgis/products/arcgis-pro/overview
+            - menuitem "ArcGIS Enterprise" [ref=e206]:
+              - link "ArcGIS Enterprise" [ref=e207] [cursor=pointer]:
+                - /url: /en-us/arcgis/products/arcgis-enterprise/overview
+            - menuitem "ArcGIS Online" [ref=e208]:
+              - link "ArcGIS Online" [ref=e209] [cursor=pointer]:
+                - /url: /en-us/arcgis/products/arcgis-online/overview
+            - menuitem "Developer Technology" [ref=e210]:
+              - link "Developer Technology" [ref=e211] [cursor=pointer]:
+                - /url: /en-us/arcgis/products/develop-with-arcgis/overview
+            - menuitem "ArcGIS Location Platform" [ref=e212]:
+              - link "ArcGIS Location Platform" [ref=e213] [cursor=pointer]:
+                - /url: /en-us/arcgis/products/arcgis-location-platform/overview
+            - menuitem "Esri Store" [ref=e214]:
+              - link "Esri Store" [ref=e215] [cursor=pointer]:
+                - /url: /en-us/store/overview
+            - menuitem "ArcGIS Architecture Center" [ref=e216]:
+              - link "ArcGIS Architecture Center" [ref=e217] [cursor=pointer]:
+                - /url: https://architecture.arcgis.com/en/
+        - navigation [ref=e218]:
+          - heading "Community" [level=2] [ref=e219]
+          - menu [ref=e222]:
+            - menuitem "Esri Community" [ref=e223]:
+              - link "Esri Community" [ref=e224] [cursor=pointer]:
+                - /url: https://community.esri.com
+            - menuitem "ArcGIS Blog" [ref=e225]:
+              - link "ArcGIS Blog" [ref=e226] [cursor=pointer]:
+                - /url: https://www.esri.com/arcgis-blog/overview
+            - menuitem "Industry Blog" [ref=e227]:
+              - link "Industry Blog" [ref=e228] [cursor=pointer]:
+                - /url: https://www.esri.com/en-us/industries/blog/overview
+            - menuitem "User Research and Testing" [ref=e229]:
+              - link "User Research and Testing" [ref=e230] [cursor=pointer]:
+                - /url: /en-us/user-research-testing/overview
+            - menuitem "Esri Young Professionals Network" [ref=e231]:
+              - link "Esri Young Professionals Network" [ref=e232] [cursor=pointer]:
+                - /url: /en-us/about/ypn/overview
+            - menuitem "Events" [ref=e233]:
+              - link "Events" [ref=e234] [cursor=pointer]:
+                - /url: /en-us/about/events/index/overview
+        - navigation [ref=e235]:
+          - heading "Understanding GIS" [level=2] [ref=e236]
+          - menu [ref=e239]:
+            - menuitem "What is GIS?" [ref=e240]:
+              - link "What is GIS?" [ref=e241] [cursor=pointer]:
+                - /url: /en-us/what-is-gis/overview
+            - menuitem "Location Intelligence" [ref=e242]:
+              - link "Location Intelligence" [ref=e243] [cursor=pointer]:
+                - /url: /en-us/location-intelligence/overview
+            - menuitem "Training" [ref=e244]:
+              - link "Training" [ref=e245] [cursor=pointer]:
+                - /url: https://www.esri.com/training/
+            - menuitem "ArcUser" [ref=e246]:
+              - link "ArcUser" [ref=e247] [cursor=pointer]:
+                - /url: https://www.esri.com/about/newsroom/arcuser
+            - menuitem "ArcNews" [ref=e248]:
+              - link "ArcNews" [ref=e249] [cursor=pointer]:
+                - /url: https://www.esri.com/about/newsroom/arcnews
+            - menuitem "ArcWatch" [ref=e250]:
+              - link "ArcWatch" [ref=e251] [cursor=pointer]:
+                - /url: https://www.esri.com/about/newsroom/arcwatch
+            - menuitem "Esri Press" [ref=e252]:
+              - link "Esri Press" [ref=e253] [cursor=pointer]:
+                - /url: /en-us/esri-press/overview
+            - menuitem "Esri Videos" [ref=e254]:
+              - link "Esri Videos" [ref=e255] [cursor=pointer]:
+                - /url: https://mediaspace.esri.com
+            - menuitem "GIS Dictionary" [ref=e256]:
+              - link "GIS Dictionary" [ref=e257] [cursor=pointer]:
+                - /url: https://support.esri.com/en-us/gis-dictionary
+        - navigation [ref=e258]:
+          - heading "Company" [level=2] [ref=e259]
+          - menu [ref=e262]:
+            - menuitem "About Esri" [ref=e263]:
+              - link "About Esri" [ref=e264] [cursor=pointer]:
+                - /url: /en-us/about/about-esri/overview
+            - menuitem "Contact Us" [ref=e265]:
+              - link "Contact Us" [ref=e266] [cursor=pointer]:
+                - /url: /en-us/contact
+            - menuitem "Careers" [ref=e267]:
+              - link "Careers" [ref=e268] [cursor=pointer]:
+                - /url: /en-us/about/careers/overview
+            - menuitem "Open Vision" [ref=e269]:
+              - link "Open Vision" [ref=e270] [cursor=pointer]:
+                - /url: /en-us/arcgis/open-vision/overview
+            - menuitem "Partners" [ref=e271]:
+              - link "Partners" [ref=e272] [cursor=pointer]:
+                - /url: /en-us/about/partners/overview
+            - menuitem "Code of Business Conduct" [ref=e273]:
+              - link "Code of Business Conduct" [ref=e274] [cursor=pointer]:
+                - /url: /en-us/about/code-of-conduct
+            - menuitem "Environmental & Sustainability Statement" [ref=e275]:
+              - link "Environmental & Sustainability Statement" [ref=e276] [cursor=pointer]:
+                - /url: /en-us/about/sustainability-statement
+            - menuitem "Sitemap" [ref=e277]:
+              - link "Sitemap" [ref=e278] [cursor=pointer]:
+                - /url: /en-us/sitemap
+        - navigation [ref=e279]:
+          - heading "Special Programs" [level=2] [ref=e280]
+          - menu [ref=e283]:
+            - menuitem "ArcGIS for Personal Use" [ref=e284]:
+              - link "ArcGIS for Personal Use" [ref=e285] [cursor=pointer]:
+                - /url: /en-us/arcgis/products/arcgis-for-personal-use/overview
+            - menuitem "ArcGIS for Student Use" [ref=e286]:
+              - link "ArcGIS for Student Use" [ref=e287] [cursor=pointer]:
+                - /url: /en-us/arcgis/products/arcgis-for-student-use/overview
+            - menuitem "Conservation" [ref=e288]:
+              - link "Conservation" [ref=e289] [cursor=pointer]:
+                - /url: /en-us/industries/conservation/overview
+            - menuitem "Disaster Response" [ref=e290]:
+              - link "Disaster Response" [ref=e291] [cursor=pointer]:
+                - /url: /en-us/disaster-response/overview
+            - menuitem "Education" [ref=e292]:
+              - link "Education" [ref=e293] [cursor=pointer]:
+                - /url: /en-us/industries/education/overview
+            - menuitem "Nonprofit" [ref=e294]:
+              - link "Nonprofit" [ref=e295] [cursor=pointer]:
+                - /url: /en-us/industries/nonprofit/overview
+            - menuitem "Racial Equity" [ref=e296]:
+              - link "Racial Equity" [ref=e297] [cursor=pointer]:
+                - /url: /en-us/racial-equity/overview
+    - navigation "legal" [ref=e300]:
+      - list [ref=e301]:
+        - listitem [ref=e302]:
+          - link "Privacy" [ref=e303] [cursor=pointer]:
+            - /url: /en-us/privacy/overview
+        - listitem [ref=e304]:
+          - link "Accessibility" [ref=e305] [cursor=pointer]:
+            - /url: /en-us/accessibility/overview
+        - listitem [ref=e306]:
+          - link "Legal" [ref=e307] [cursor=pointer]:
+            - /url: /en-us/legal/overview
+        - listitem [ref=e308]:
+          - link "Web Terms of Use" [ref=e309] [cursor=pointer]:
+            - /url: https://www.esri.com/content/dam/esrisites/en-us/media/legal/terms-and-conditions/website-terms.pdf
+        - listitem [ref=e310]:
+          - link "Trust Center" [ref=e311] [cursor=pointer]:
+            - /url: https://trust.arcgis.com/en/
+        - listitem [ref=e312]:
+          - button "Manage Cookies" [ref=e313] [cursor=pointer]
+        - listitem [ref=e314]:
+          - button "Do Not Share My Personal Information" [ref=e315] [cursor=pointer]
+  - img [ref=e316]

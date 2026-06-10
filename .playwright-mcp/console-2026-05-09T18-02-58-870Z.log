@@ -1,0 +1,34 @@
+[     764ms] [LOG] Page authentication status: false @ https://amazon.jobs/en/jobs/3202388/software-engineer-i-commerce-engineering?utm_source=Simplify&ref=Simplify:72
+[     764ms] [LOG] Internal user status: false @ https://amazon.jobs/en/jobs/3202388/software-engineer-i-commerce-engineering?utm_source=Simplify&ref=Simplify:73
+[     897ms] [LOG] {
+	"eventData": {},
+	"job": {
+		"category": "Software Development",
+		"countryCode": "USA",
+		"division": "subsidiaries",
+		"id": "3202388",
+		"jobLocation": "multi",
+		"jobFindingMethod": " ",
+		"title": "Software Engineer I, Commerce Engineering",
+		"relatedJobId": []
+	},
+	"page": {
+		"pageInfo": {
+			"countryLanguage": "en",
+			"pageName": "Amazon.jobs | Job Details Page",
+			"pageType": "",
+			"advertisingCookieID": "b3d6d0d8-a298-40ec-8071-f0822b52309a",
+			"analyticsCookieID": "0d7de396-d7d0-493d-8b86-36b67bbf17f4",
+			"siteSection": "amazon jobs",
+			"tabName": "",
+			"userID": "",
+			"userActionStoreId": "0d7de396-d7d0-493d-8b86-36b67bbf17f4",
+			"peopleSoftId": "",
+			"userType": "guest",
+			"userAuthMode": ""
+		},
+		"experiment": {
+			"experimentDetails": null
+		}
+	}
+} @ https://d1o95ve0lr2m33.cloudfront.net/launch-ENb97d7f9d2d4b4720ac9782a711994995.min.js:7

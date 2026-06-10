@@ -1,0 +1,51 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - generic "In order to provide a more relevant experience for you, our Workday Recruiting platform uses cookies to enable some website functionality (such as apply with LinkedIn) and capture some of your activity on the careers site. It doesn’t record any personal details. For more information, please read our Cookie Policy and Recruitment & Hiring Privacy Statement." [ref=e9]:
+    - paragraph [ref=e11]:
+      - text: In order to provide a more relevant experience for you, our Workday Recruiting platform uses cookies to enable some website functionality (such as apply with LinkedIn) and capture some of your activity on the careers site. It doesn’t record any personal details. For more information, please read our
+      - link "Cookie Policy" [ref=e12] [cursor=pointer]:
+        - /url: https://www.accenture.com/us-en/support/company-cookies-similar-technology
+      - text: and
+      - link "Recruitment & Hiring Privacy Statement" [ref=e13] [cursor=pointer]:
+        - /url: https://www.accenture.com/us-en/careers/life-at-accenture/privacy-policy
+      - text: .
+    - generic [ref=e14]:
+      - button "Decline" [ref=e17] [cursor=pointer]
+      - button "Accept Cookies" [ref=e21] [cursor=pointer]
+  - banner [ref=e24]:
+    - generic [ref=e26]:
+      - link "careers home" [ref=e29] [cursor=pointer]:
+        - /url: https://www.accenture.com/jobsearch
+        - img "careers home" [ref=e30]
+      - generic [ref=e31]:
+        - heading [level=1]
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - button "English" [ref=e36] [cursor=pointer]:
+            - generic [ref=e40]: English
+          - button "Sign In" [ref=e42] [cursor=pointer]:
+            - generic [ref=e47]: Sign In
+        - navigation [ref=e48]:
+          - button "Search Careers" [ref=e49] [cursor=pointer]
+          - button "Introduce Yourself" [ref=e50] [cursor=pointer]
+  - generic [ref=e57]:
+    - generic [ref=e58]: Follow Us
+    - list [ref=e59]:
+      - listitem [ref=e60] [cursor=pointer]:
+        - link "YouTube" [ref=e61]:
+          - /url: https://www.youtube.com/accenture
+      - listitem [ref=e67] [cursor=pointer]:
+        - link "Facebook" [ref=e68]:
+          - /url: https://www.facebook.com/accenture
+      - listitem [ref=e72] [cursor=pointer]:
+        - link "X" [ref=e73]:
+          - /url: https://twitter.com/Accenture
+      - listitem [ref=e77] [cursor=pointer]:
+        - link "LinkedIn" [ref=e78]:
+          - /url: https://www.linkedin.com/company/accenture/
+    - link "Accenture Privacy Policy" [ref=e83] [cursor=pointer]:
+      - /url: https://www.accenture.com/us-en/careers/life-at-accenture/privacy-policy
+    - generic [ref=e84]:
+      - img [ref=e88]
+      - generic [ref=e108]: © 2026 Workday, Inc. All rights reserved.

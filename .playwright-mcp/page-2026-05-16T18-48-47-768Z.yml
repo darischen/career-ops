@@ -1,0 +1,2167 @@
+- generic [active] [ref=e1]:
+  - dialog "cookieconsent" [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: 🍪
+      - heading "Privacy Notice" [level=4] [ref=e6]
+      - paragraph [ref=e7]: This website uses cookies to improve your web experience. By clicking Accept, you agree to the use of cookies.
+      - generic [ref=e8]:
+        - button "Deny" [ref=e9] [cursor=pointer]
+        - button "Accept" [ref=e10] [cursor=pointer]
+  - link "Spotify logo" [ref=e13] [cursor=pointer]:
+    - /url: http://spotifyjobs.com
+    - img "Spotify logo" [ref=e14]
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - 'button "Filter by Location type: All" [ref=e20]':
+        - generic [ref=e21] [cursor=pointer]:
+          - text: Location type
+          - img [ref=e22]
+      - 'button "Filter by Location: All" [ref=e24]':
+        - generic [ref=e25] [cursor=pointer]:
+          - text: Location
+          - img [ref=e26]
+      - 'button "Filter by Team: All" [ref=e28]':
+        - generic [ref=e29] [cursor=pointer]:
+          - text: Team
+          - img [ref=e30]
+      - 'button "Filter by Work type: All" [ref=e32]':
+        - generic [ref=e33] [cursor=pointer]:
+          - text: Work type
+          - img [ref=e34]
+    - generic [ref=e36]:
+      - generic [ref=e37]:
+        - generic [ref=e38]: Advertising
+        - generic [ref=e39]: Advertising Sales - Emerging and Scaled Sales
+        - generic [ref=e41]:
+          - link "Apply" [ref=e43] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/aa83c2ac-d441-4b78-b89a-0bac95918c42
+          - link "Associate Client Partner - Emerging & Scaled (New Business, French Speaking) On-site — Permanent London" [ref=e44] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/aa83c2ac-d441-4b78-b89a-0bac95918c42
+            - heading "Associate Client Partner - Emerging & Scaled (New Business, French Speaking)" [level=5] [ref=e45]
+            - generic [ref=e46]:
+              - generic [ref=e47]: On-site —
+              - generic [ref=e48]: Permanent
+              - generic [ref=e49]: London
+        - generic [ref=e50]:
+          - link "Apply" [ref=e52] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/d5628547-6362-470e-8828-7ab565054eaa
+          - link "Associate Client Partner - Emerging & Scaled (New Business, German Speaking) On-site — Permanent London" [ref=e53] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/d5628547-6362-470e-8828-7ab565054eaa
+            - heading "Associate Client Partner - Emerging & Scaled (New Business, German Speaking)" [level=5] [ref=e54]
+            - generic [ref=e55]:
+              - generic [ref=e56]: On-site —
+              - generic [ref=e57]: Permanent
+              - generic [ref=e58]: London
+        - generic [ref=e59]:
+          - link "Apply" [ref=e61] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6310dcab-11f4-473d-9496-93e7c59c2911
+          - link "Associate Client Partner - Emerging & Scaled (New Business) On-site — Permanent Sydney" [ref=e62] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6310dcab-11f4-473d-9496-93e7c59c2911
+            - heading "Associate Client Partner - Emerging & Scaled (New Business)" [level=5] [ref=e63]
+            - generic [ref=e64]:
+              - generic [ref=e65]: On-site —
+              - generic [ref=e66]: Permanent
+              - generic [ref=e67]: Sydney
+        - generic [ref=e68]:
+          - link "Apply" [ref=e70] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/305cfc42-32fd-4127-8797-ea420a755569
+          - link "Associate Client Partner - Emerging & Scaled (New Business) On-site — Permanent London" [ref=e71] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/305cfc42-32fd-4127-8797-ea420a755569
+            - heading "Associate Client Partner - Emerging & Scaled (New Business)" [level=5] [ref=e72]
+            - generic [ref=e73]:
+              - generic [ref=e74]: On-site —
+              - generic [ref=e75]: Permanent
+              - generic [ref=e76]: London
+        - generic [ref=e77]:
+          - link "Apply" [ref=e79] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/e1f0f313-5188-455c-af18-8de01dd1a699
+          - link "Billing Operations Lead Remote — Permanent New York, NY" [ref=e80] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/e1f0f313-5188-455c-af18-8de01dd1a699
+            - heading "Billing Operations Lead" [level=5] [ref=e81]
+            - generic [ref=e82]:
+              - generic [ref=e83]: Remote —
+              - generic [ref=e84]: Permanent
+              - generic [ref=e85]: New York, NY
+        - generic [ref=e86]:
+          - link "Apply" [ref=e88] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/76a2bac9-855a-403c-8832-b378a5507a0c
+          - link "Platform Integrity Lead Remote — Permanent New York, NY" [ref=e89] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/76a2bac9-855a-403c-8832-b378a5507a0c
+            - heading "Platform Integrity Lead" [level=5] [ref=e90]
+            - generic [ref=e91]:
+              - generic [ref=e92]: Remote —
+              - generic [ref=e93]: Permanent
+              - generic [ref=e94]: New York, NY
+        - generic [ref=e95]:
+          - link "Apply" [ref=e97] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/1f0ccb2c-bf5f-49ee-936d-4a22e8725c2b
+          - link "Senior Program Analyst - GTM Ops Hybrid — Permanent New York, NY" [ref=e98] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/1f0ccb2c-bf5f-49ee-936d-4a22e8725c2b
+            - heading "Senior Program Analyst - GTM Ops" [level=5] [ref=e99]
+            - generic [ref=e100]:
+              - generic [ref=e101]: Hybrid —
+              - generic [ref=e102]: Permanent
+              - generic [ref=e103]: New York, NY
+        - generic [ref=e104]:
+          - link "Apply" [ref=e106] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/ca78242e-f174-4c52-a630-960ca4bf24c3
+          - link "Senior Program Analyst, Revenue Growth Hybrid — Permanent New York, NY" [ref=e107] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/ca78242e-f174-4c52-a630-960ca4bf24c3
+            - heading "Senior Program Analyst, Revenue Growth" [level=5] [ref=e108]
+            - generic [ref=e109]:
+              - generic [ref=e110]: Hybrid —
+              - generic [ref=e111]: Permanent
+              - generic [ref=e112]: New York, NY
+        - generic [ref=e113]:
+          - link "Apply" [ref=e115] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a49ce894-2048-420c-894e-bcb2c6d05083
+          - link "Technical Operations Lead Remote — Permanent New York, NY" [ref=e116] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a49ce894-2048-420c-894e-bcb2c6d05083
+            - heading "Technical Operations Lead" [level=5] [ref=e117]
+            - generic [ref=e118]:
+              - generic [ref=e119]: Remote —
+              - generic [ref=e120]: Permanent
+              - generic [ref=e121]: New York, NY
+      - generic [ref=e122]:
+        - generic [ref=e123]: Advertising Sales - Enterprise
+        - generic [ref=e125]:
+          - link "Apply" [ref=e127] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/9f7d47cc-8e07-4637-9f38-68db462a72e9
+          - link "Sales Trainer, LATAM Hybrid — Permanent São Paulo" [ref=e128] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/9f7d47cc-8e07-4637-9f38-68db462a72e9
+            - heading "Sales Trainer, LATAM" [level=5] [ref=e129]
+            - generic [ref=e130]:
+              - generic [ref=e131]: Hybrid —
+              - generic [ref=e132]: Permanent
+              - generic [ref=e133]: São Paulo
+      - generic [ref=e134]:
+        - generic [ref=e135]: Automation and Agency Teams
+        - generic [ref=e137]:
+          - link "Apply" [ref=e139] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/8dd2456b-fc57-478a-b8e2-b25fb7e72b14
+          - link "Podcast Client Partner Hybrid — Permanent New York, NY" [ref=e140] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/8dd2456b-fc57-478a-b8e2-b25fb7e72b14
+            - heading "Podcast Client Partner" [level=5] [ref=e141]
+            - generic [ref=e142]:
+              - generic [ref=e143]: Hybrid —
+              - generic [ref=e144]: Permanent
+              - generic [ref=e145]: New York, NY
+      - generic [ref=e146]:
+        - generic [ref=e147]: Business Development
+        - generic [ref=e149]:
+          - link "Apply" [ref=e151] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/aa4220b2-b5fd-4db6-9ef6-2b34fde9f6ef
+          - link "Manager, Ads Partner Strategy Hybrid — New York, NY" [ref=e152] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/aa4220b2-b5fd-4db6-9ef6-2b34fde9f6ef
+            - heading "Manager, Ads Partner Strategy" [level=5] [ref=e153]
+            - generic [ref=e154]:
+              - generic [ref=e155]: Hybrid —
+              - generic [ref=e156]: New York, NY
+      - generic [ref=e157]:
+        - generic [ref=e158]: Global Sales Operations
+        - generic [ref=e160]:
+          - link "Apply" [ref=e162] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/97528686-2b62-4b63-b451-1a72a0ad1e1e
+          - link "Senior Analyst, Yield Strategy, APAC On-site — Permanent Sydney" [ref=e163] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/97528686-2b62-4b63-b451-1a72a0ad1e1e
+            - heading "Senior Analyst, Yield Strategy, APAC" [level=5] [ref=e164]
+            - generic [ref=e165]:
+              - generic [ref=e166]: On-site —
+              - generic [ref=e167]: Permanent
+              - generic [ref=e168]: Sydney
+      - generic [ref=e169]:
+        - generic [ref=e170]: Product and Commercial Teams
+        - generic [ref=e172]:
+          - link "Apply" [ref=e174] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/f3919cc9-83f3-43b5-84ab-7fc55004bce5
+          - link "Product Marketing Manager, Measurement Hybrid — Permanent New York, NY / Los Angeles, CA" [ref=e175] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/f3919cc9-83f3-43b5-84ab-7fc55004bce5
+            - heading "Product Marketing Manager, Measurement" [level=5] [ref=e176]
+            - generic [ref=e177]:
+              - generic [ref=e178]: Hybrid —
+              - generic [ref=e179]: Permanent
+              - generic [ref=e180]: New York, NY / Los Angeles, CA
+      - generic [ref=e181]:
+        - generic [ref=e182]: Content
+        - generic [ref=e183]: Music Business
+        - generic [ref=e185]:
+          - link "Apply" [ref=e187] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/709de93b-7bab-4b3b-8b17-753e10a4d3a0
+          - link "Editor Music and Culture, International & Hip-Hop On-site — Permanent Mumbai" [ref=e188] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/709de93b-7bab-4b3b-8b17-753e10a4d3a0
+            - heading "Editor Music and Culture, International & Hip-Hop" [level=5] [ref=e189]
+            - generic [ref=e190]:
+              - generic [ref=e191]: On-site —
+              - generic [ref=e192]: Permanent
+              - generic [ref=e193]: Mumbai
+        - generic [ref=e194]:
+          - link "Apply" [ref=e196] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/c8f25dff-59b1-4c55-9735-0a77643c121a
+          - link "Executive Assistant - Music Hybrid — Permanent Los Angeles, CA" [ref=e197] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/c8f25dff-59b1-4c55-9735-0a77643c121a
+            - heading "Executive Assistant - Music" [level=5] [ref=e198]
+            - generic [ref=e199]:
+              - generic [ref=e200]: Hybrid —
+              - generic [ref=e201]: Permanent
+              - generic [ref=e202]: Los Angeles, CA
+        - generic [ref=e203]:
+          - link "Apply" [ref=e205] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a32243c0-dbd2-4552-9360-ab04b983f766
+          - link "Lead Music Development, Türkiye On-site — Permanent Istanbul" [ref=e206] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a32243c0-dbd2-4552-9360-ab04b983f766
+            - heading "Lead Music Development, Türkiye" [level=5] [ref=e207]
+            - generic [ref=e208]:
+              - generic [ref=e209]: On-site —
+              - generic [ref=e210]: Permanent
+              - generic [ref=e211]: Istanbul
+        - generic [ref=e212]:
+          - link "Apply" [ref=e214] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/713eb2e2-23c8-45fd-85a0-323109123ecd
+          - link "Markets Strategy & Operations Manager On-site — Permanent London" [ref=e215] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/713eb2e2-23c8-45fd-85a0-323109123ecd
+            - heading "Markets Strategy & Operations Manager" [level=5] [ref=e216]
+            - generic [ref=e217]:
+              - generic [ref=e218]: On-site —
+              - generic [ref=e219]: Permanent
+              - generic [ref=e220]: London
+      - generic [ref=e221]:
+        - generic [ref=e222]: Podcast Business
+        - generic [ref=e224]:
+          - link "Apply" [ref=e226] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/24bbec30-05b4-4493-931b-18731c72d0a3
+          - link "Associate Manager, Product Marketing - Podcast Business Hybrid — Permanent New York, NY" [ref=e227] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/24bbec30-05b4-4493-931b-18731c72d0a3
+            - heading "Associate Manager, Product Marketing - Podcast Business" [level=5] [ref=e228]
+            - generic [ref=e229]:
+              - generic [ref=e230]: Hybrid —
+              - generic [ref=e231]: Permanent
+              - generic [ref=e232]: New York, NY
+        - generic [ref=e233]:
+          - link "Apply" [ref=e235] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a6061214-bdce-4901-8d50-1501f4b51862
+          - link "Supervising Studios Production Manager On-site — Permanent Los Angeles, CA" [ref=e236] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a6061214-bdce-4901-8d50-1501f4b51862
+            - heading "Supervising Studios Production Manager" [level=5] [ref=e237]
+            - generic [ref=e238]:
+              - generic [ref=e239]: On-site —
+              - generic [ref=e240]: Permanent
+              - generic [ref=e241]: Los Angeles, CA
+      - generic [ref=e242]:
+        - generic [ref=e243]: Data and Analytics
+        - generic [ref=e244]: Advertising R&D
+        - generic [ref=e246]:
+          - link "Apply" [ref=e248] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/8ab5051b-81e0-4705-b640-c73c5eba3607
+          - link "Data Scientist - Advertising Remote — Permanent New York, NY" [ref=e249] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/8ab5051b-81e0-4705-b640-c73c5eba3607
+            - heading "Data Scientist - Advertising" [level=5] [ref=e250]
+            - generic [ref=e251]:
+              - generic [ref=e252]: Remote —
+              - generic [ref=e253]: Permanent
+              - generic [ref=e254]: New York, NY
+      - generic [ref=e255]:
+        - generic [ref=e256]: Experience
+        - generic [ref=e258]:
+          - link "Apply" [ref=e260] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/cc60212e-e20b-407e-a877-32b3d8dfe11a
+          - link "Data Scientist - Content Understanding Hybrid — Permanent London / Stockholm" [ref=e261] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/cc60212e-e20b-407e-a877-32b3d8dfe11a
+            - heading "Data Scientist - Content Understanding" [level=5] [ref=e262]
+            - generic [ref=e263]:
+              - generic [ref=e264]: Hybrid —
+              - generic [ref=e265]: Permanent
+              - generic [ref=e266]: London / Stockholm
+      - generic [ref=e267]:
+        - generic [ref=e268]: Music
+        - generic [ref=e270]:
+          - link "Apply" [ref=e272] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/56300df8-a614-4b75-bed7-5b6da38218ec
+          - link "Data Science Manager, Music Recommendations Hybrid — Permanent New York, NY" [ref=e273] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/56300df8-a614-4b75-bed7-5b6da38218ec
+            - heading "Data Science Manager, Music Recommendations" [level=5] [ref=e274]
+            - generic [ref=e275]:
+              - generic [ref=e276]: Hybrid —
+              - generic [ref=e277]: Permanent
+              - generic [ref=e278]: New York, NY
+        - generic [ref=e279]:
+          - link "Apply" [ref=e281] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/c4a86464-a90d-4e16-9890-1f79355a41ac
+          - link "Data Scientist - Music Mission Remote — Permanent New York, NY" [ref=e282] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/c4a86464-a90d-4e16-9890-1f79355a41ac
+            - heading "Data Scientist - Music Mission" [level=5] [ref=e283]
+            - generic [ref=e284]:
+              - generic [ref=e285]: Remote —
+              - generic [ref=e286]: Permanent
+              - generic [ref=e287]: New York, NY
+        - generic [ref=e288]:
+          - link "Apply" [ref=e290] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/3738dd16-b387-4daa-bed7-312b2be39418
+          - link "Research Scientist - Music Remote — Permanent New York, NY" [ref=e291] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/3738dd16-b387-4daa-bed7-312b2be39418
+            - heading "Research Scientist - Music" [level=5] [ref=e292]
+            - generic [ref=e293]:
+              - generic [ref=e294]: Remote —
+              - generic [ref=e295]: Permanent
+              - generic [ref=e296]: New York, NY
+        - generic [ref=e297]:
+          - link "Apply" [ref=e299] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/bd54129d-d6d6-4ffd-a25a-dd240374a0ce
+          - link "Research Scientist - Music Remote — Permanent London / Stockholm" [ref=e300] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/bd54129d-d6d6-4ffd-a25a-dd240374a0ce
+            - heading "Research Scientist - Music" [level=5] [ref=e301]
+            - generic [ref=e302]:
+              - generic [ref=e303]: Remote —
+              - generic [ref=e304]: Permanent
+              - generic [ref=e305]: London / Stockholm
+        - generic [ref=e306]:
+          - link "Apply" [ref=e308] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/c08408d0-1ed0-41b4-a8eb-e170fdd4bc7d
+          - link "Senior Research Scientist - Music Remote — Permanent New York, NY" [ref=e309] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/c08408d0-1ed0-41b4-a8eb-e170fdd4bc7d
+            - heading "Senior Research Scientist - Music" [level=5] [ref=e310]
+            - generic [ref=e311]:
+              - generic [ref=e312]: Remote —
+              - generic [ref=e313]: Permanent
+              - generic [ref=e314]: New York, NY
+        - generic [ref=e315]:
+          - link "Apply" [ref=e317] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/65310b62-58f2-4e15-a93b-ff9682739416
+          - link "Senior Research Scientist - Music Remote — Permanent London / Stockholm" [ref=e318] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/65310b62-58f2-4e15-a93b-ff9682739416
+            - heading "Senior Research Scientist - Music" [level=5] [ref=e319]
+            - generic [ref=e320]:
+              - generic [ref=e321]: Remote —
+              - generic [ref=e322]: Permanent
+              - generic [ref=e323]: London / Stockholm
+      - generic [ref=e324]:
+        - generic [ref=e325]: Personalization
+        - generic [ref=e327]:
+          - link "Apply" [ref=e329] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/b21a510b-d838-4654-9cbb-7973e40a4330
+          - link "Research Scientist - Personalization Remote — Permanent London" [ref=e330] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/b21a510b-d838-4654-9cbb-7973e40a4330
+            - heading "Research Scientist - Personalization" [level=5] [ref=e331]
+            - generic [ref=e332]:
+              - generic [ref=e333]: Remote —
+              - generic [ref=e334]: Permanent
+              - generic [ref=e335]: London
+        - generic [ref=e336]:
+          - link "Apply" [ref=e338] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a8d3838e-01d8-457e-b21c-a5468c10a116
+          - link "Senior Research Scientist - Personalization Remote — Permanent New York, NY / Boston, MA" [ref=e339] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a8d3838e-01d8-457e-b21c-a5468c10a116
+            - heading "Senior Research Scientist - Personalization" [level=5] [ref=e340]
+            - generic [ref=e341]:
+              - generic [ref=e342]: Remote —
+              - generic [ref=e343]: Permanent
+              - generic [ref=e344]: New York, NY / Boston, MA
+      - generic [ref=e345]:
+        - generic [ref=e346]: Platform
+        - generic [ref=e348]:
+          - link "Apply" [ref=e350] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/08d82da1-0c72-44d1-91eb-7fa22dee3d39
+          - link "Analytics Engineer II Hybrid — Permanent Stockholm / London" [ref=e351] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/08d82da1-0c72-44d1-91eb-7fa22dee3d39
+            - heading "Analytics Engineer II" [level=5] [ref=e352]
+            - generic [ref=e353]:
+              - generic [ref=e354]: Hybrid —
+              - generic [ref=e355]: Permanent
+              - generic [ref=e356]: Stockholm / London
+        - generic [ref=e357]:
+          - link "Apply" [ref=e359] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6b8e77f1-666d-4241-a988-f1ad78272ec1
+          - link "Associate Data Scientist - User Fraud Hybrid — Permanent Toronto" [ref=e360] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6b8e77f1-666d-4241-a988-f1ad78272ec1
+            - heading "Associate Data Scientist - User Fraud" [level=5] [ref=e361]
+            - generic [ref=e362]:
+              - generic [ref=e363]: Hybrid —
+              - generic [ref=e364]: Permanent
+              - generic [ref=e365]: Toronto
+        - generic [ref=e366]:
+          - link "Apply" [ref=e368] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/cb90282e-0917-4219-99fd-8b5d7d5e3050
+          - link "Data Analyst II – Performance Optimization Squad Hybrid — Permanent Stockholm / London" [ref=e369] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/cb90282e-0917-4219-99fd-8b5d7d5e3050
+            - heading "Data Analyst II – Performance Optimization Squad" [level=5] [ref=e370]
+            - generic [ref=e371]:
+              - generic [ref=e372]: Hybrid —
+              - generic [ref=e373]: Permanent
+              - generic [ref=e374]: Stockholm / London
+        - generic [ref=e375]:
+          - link "Apply" [ref=e377] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/71c28dec-d4a1-4e27-bb9b-1dab4a616ce5
+          - link "Data Scientist - Platform Mission Hybrid — Permanent Toronto" [ref=e378] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/71c28dec-d4a1-4e27-bb9b-1dab4a616ce5
+            - heading "Data Scientist - Platform Mission" [level=5] [ref=e379]
+            - generic [ref=e380]:
+              - generic [ref=e381]: Hybrid —
+              - generic [ref=e382]: Permanent
+              - generic [ref=e383]: Toronto
+        - generic [ref=e384]:
+          - link "Apply" [ref=e386] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/fc593885-54e1-4807-a67c-77c1d3412cec
+          - link "Data Scientist II - Platform Mission Hybrid — Permanent Stockholm / London" [ref=e387] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/fc593885-54e1-4807-a67c-77c1d3412cec
+            - heading "Data Scientist II - Platform Mission" [level=5] [ref=e388]
+            - generic [ref=e389]:
+              - generic [ref=e390]: Hybrid —
+              - generic [ref=e391]: Permanent
+              - generic [ref=e392]: Stockholm / London
+        - generic [ref=e393]:
+          - link "Apply" [ref=e395] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/48e5f3e3-2a32-4088-bb61-684202899d1c
+          - link "Senior Data Engineer - Cost Platform Hybrid — Permanent Toronto" [ref=e396] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/48e5f3e3-2a32-4088-bb61-684202899d1c
+            - heading "Senior Data Engineer - Cost Platform" [level=5] [ref=e397]
+            - generic [ref=e398]:
+              - generic [ref=e399]: Hybrid —
+              - generic [ref=e400]: Permanent
+              - generic [ref=e401]: Toronto
+      - generic [ref=e402]:
+        - generic [ref=e403]: Subscriptions R&D
+        - generic [ref=e405]:
+          - link "Apply" [ref=e407] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/1bd333fe-a039-4aa7-9a84-941296bbe86b
+          - link "Data Scientist - Subscriptions Hybrid — Permanent New York, NY" [ref=e408] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/1bd333fe-a039-4aa7-9a84-941296bbe86b
+            - heading "Data Scientist - Subscriptions" [level=5] [ref=e409]
+            - generic [ref=e410]:
+              - generic [ref=e411]: Hybrid —
+              - generic [ref=e412]: Permanent
+              - generic [ref=e413]: New York, NY
+      - generic [ref=e414]:
+        - generic [ref=e415]: Trust & Safety
+        - generic [ref=e417]:
+          - link "Apply" [ref=e419] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/363ddaa5-7419-4efa-bc5e-7755cb2823f5
+          - link "Senior Policy Specialist Remote — Permanent Dublin" [ref=e420] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/363ddaa5-7419-4efa-bc5e-7755cb2823f5
+            - heading "Senior Policy Specialist" [level=5] [ref=e421]
+            - generic [ref=e422]:
+              - generic [ref=e423]: Remote —
+              - generic [ref=e424]: Permanent
+              - generic [ref=e425]: Dublin
+      - generic [ref=e426]:
+        - generic [ref=e427]: Design and User Experience
+        - generic [ref=e428]: Advertising R&D
+        - generic [ref=e430]:
+          - link "Apply" [ref=e432] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/fc779380-7e9c-48be-a730-e789fed1879e
+          - link "Product Designer - Advertising Remote — Permanent New York, NY" [ref=e433] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/fc779380-7e9c-48be-a730-e789fed1879e
+            - heading "Product Designer - Advertising" [level=5] [ref=e434]
+            - generic [ref=e435]:
+              - generic [ref=e436]: Remote —
+              - generic [ref=e437]: Permanent
+              - generic [ref=e438]: New York, NY
+      - generic [ref=e439]:
+        - generic [ref=e440]: Experience
+        - generic [ref=e442]:
+          - link "Apply" [ref=e444] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/2ea95c25-216a-4215-973f-83ef8c8859f5
+          - link "Product Designer - AI Partnerships Hybrid — Permanent London / Stockholm" [ref=e445] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/2ea95c25-216a-4215-973f-83ef8c8859f5
+            - heading "Product Designer - AI Partnerships" [level=5] [ref=e446]
+            - generic [ref=e447]:
+              - generic [ref=e448]: Hybrid —
+              - generic [ref=e449]: Permanent
+              - generic [ref=e450]: London / Stockholm
+        - generic [ref=e451]:
+          - link "Apply" [ref=e453] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/1045d233-1896-4876-a2b2-86c7510575aa
+          - link "Product Designer - Core Experience (Core Value & Engagement) Hybrid — Permanent London / Stockholm" [ref=e454] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/1045d233-1896-4876-a2b2-86c7510575aa
+            - heading "Product Designer - Core Experience (Core Value & Engagement)" [level=5] [ref=e455]
+            - generic [ref=e456]:
+              - generic [ref=e457]: Hybrid —
+              - generic [ref=e458]: Permanent
+              - generic [ref=e459]: London / Stockholm
+      - generic [ref=e460]:
+        - generic [ref=e461]: Mountain Bets
+        - generic [ref=e463]:
+          - link "Apply" [ref=e465] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/0f471f89-a2e7-4203-87b9-7fa848c78737
+          - link "Product Designer I, Live Music Hybrid — Permanent London" [ref=e466] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/0f471f89-a2e7-4203-87b9-7fa848c78737
+            - heading "Product Designer I, Live Music" [level=5] [ref=e467]
+            - generic [ref=e468]:
+              - generic [ref=e469]: Hybrid —
+              - generic [ref=e470]: Permanent
+              - generic [ref=e471]: London
+      - generic [ref=e472]:
+        - generic [ref=e473]: Personalization
+        - generic [ref=e475]:
+          - link "Apply" [ref=e477] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6ea8d335-e16c-4eac-ac2c-0f4fe02f4b17
+          - link "Content Designer, Personalization Remote — Permanent New York, NY / Boston, MA" [ref=e478] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6ea8d335-e16c-4eac-ac2c-0f4fe02f4b17
+            - heading "Content Designer, Personalization" [level=5] [ref=e479]
+            - generic [ref=e480]:
+              - generic [ref=e481]: Remote —
+              - generic [ref=e482]: Permanent
+              - generic [ref=e483]: New York, NY / Boston, MA
+      - generic [ref=e484]:
+        - generic [ref=e485]: Platform
+        - generic [ref=e487]:
+          - link "Apply" [ref=e489] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a2e1e963-c44e-40a9-aa09-38bb44b5ae32
+          - link "Senior Product Designer - Platform Design Hybrid — Permanent London / Stockholm" [ref=e490] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a2e1e963-c44e-40a9-aa09-38bb44b5ae32
+            - heading "Senior Product Designer - Platform Design" [level=5] [ref=e491]
+            - generic [ref=e492]:
+              - generic [ref=e493]: Hybrid —
+              - generic [ref=e494]: Permanent
+              - generic [ref=e495]: London / Stockholm
+      - generic [ref=e496]:
+        - generic [ref=e497]: Subscriptions R&D
+        - generic [ref=e499]:
+          - link "Apply" [ref=e501] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/1acdea48-d471-47e0-b3f5-6588ba41f740
+          - link "Design Manager, Subscriptions Hybrid — Permanent London / Stockholm" [ref=e502] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/1acdea48-d471-47e0-b3f5-6588ba41f740
+            - heading "Design Manager, Subscriptions" [level=5] [ref=e503]
+            - generic [ref=e504]:
+              - generic [ref=e505]: Hybrid —
+              - generic [ref=e506]: Permanent
+              - generic [ref=e507]: London / Stockholm
+      - generic [ref=e508]:
+        - generic [ref=e509]: Engineering
+        - generic [ref=e510]: Advertising R&D
+        - generic [ref=e512]:
+          - link "Apply" [ref=e514] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/805d36ed-624c-41d4-9eaa-6f4bff7f53e3
+          - link "Backend Engineer - Ads Measurement Remote — Permanent New York, NY" [ref=e515] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/805d36ed-624c-41d4-9eaa-6f4bff7f53e3
+            - heading "Backend Engineer - Ads Measurement" [level=5] [ref=e516]
+            - generic [ref=e517]:
+              - generic [ref=e518]: Remote —
+              - generic [ref=e519]: Permanent
+              - generic [ref=e520]: New York, NY
+        - generic [ref=e521]:
+          - link "Apply" [ref=e523] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/b47245e8-8727-4cf4-b010-2bb9afcdc5a4
+          - link "Engineering Manager - Advertising Remote — Permanent New York, NY" [ref=e524] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/b47245e8-8727-4cf4-b010-2bb9afcdc5a4
+            - heading "Engineering Manager - Advertising" [level=5] [ref=e525]
+            - generic [ref=e526]:
+              - generic [ref=e527]: Remote —
+              - generic [ref=e528]: Permanent
+              - generic [ref=e529]: New York, NY
+        - generic [ref=e530]:
+          - link "Apply" [ref=e532] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/74c04c1a-afe8-4616-be68-ae452daed595
+          - link "Full Stack Engineer Remote — Permanent Sydney" [ref=e533] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/74c04c1a-afe8-4616-be68-ae452daed595
+            - heading "Full Stack Engineer" [level=5] [ref=e534]
+            - generic [ref=e535]:
+              - generic [ref=e536]: Remote —
+              - generic [ref=e537]: Permanent
+              - generic [ref=e538]: Sydney
+        - generic [ref=e539]:
+          - link "Apply" [ref=e541] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7a6a7b30-828f-4a72-bc9f-09bafe2934b8
+          - link "Full Stack Engineer - Advertising Remote — Permanent New York, NY" [ref=e542] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7a6a7b30-828f-4a72-bc9f-09bafe2934b8
+            - heading "Full Stack Engineer - Advertising" [level=5] [ref=e543]
+            - generic [ref=e544]:
+              - generic [ref=e545]: Remote —
+              - generic [ref=e546]: Permanent
+              - generic [ref=e547]: New York, NY
+        - generic [ref=e548]:
+          - link "Apply" [ref=e550] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6236f25f-f9cc-47c2-af7b-4ace57332eeb
+          - link "Senior Machine Learning Engineer - Ads R&D Remote — Permanent New York, NY" [ref=e551] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6236f25f-f9cc-47c2-af7b-4ace57332eeb
+            - heading "Senior Machine Learning Engineer - Ads R&D" [level=5] [ref=e552]
+            - generic [ref=e553]:
+              - generic [ref=e554]: Remote —
+              - generic [ref=e555]: Permanent
+              - generic [ref=e556]: New York, NY
+      - generic [ref=e557]:
+        - generic [ref=e558]: Audio Books & Gated Content
+        - generic [ref=e560]:
+          - link "Apply" [ref=e562] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/eef2e6da-d277-469c-8ba5-3592339506d9
+          - link "Full Stack Engineer - Audiobooks Remote — Permanent London / Stockholm" [ref=e563] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/eef2e6da-d277-469c-8ba5-3592339506d9
+            - heading "Full Stack Engineer - Audiobooks" [level=5] [ref=e564]
+            - generic [ref=e565]:
+              - generic [ref=e566]: Remote —
+              - generic [ref=e567]: Permanent
+              - generic [ref=e568]: London / Stockholm
+        - generic [ref=e569]:
+          - link "Apply" [ref=e571] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6b0128ab-edeb-494b-b747-25cb35af4b6a
+          - link "Senior Backend Engineer - Audiobooks Remote — Permanent London / Stockholm" [ref=e572] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6b0128ab-edeb-494b-b747-25cb35af4b6a
+            - heading "Senior Backend Engineer - Audiobooks" [level=5] [ref=e573]
+            - generic [ref=e574]:
+              - generic [ref=e575]: Remote —
+              - generic [ref=e576]: Permanent
+              - generic [ref=e577]: London / Stockholm
+        - generic [ref=e578]:
+          - link "Apply" [ref=e580] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/516a9281-8c72-45a3-a17e-81f792cfd14c
+          - link "Senior Full Stack Engineer - Audiobooks Remote — Permanent London / Stockholm" [ref=e581] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/516a9281-8c72-45a3-a17e-81f792cfd14c
+            - heading "Senior Full Stack Engineer - Audiobooks" [level=5] [ref=e582]
+            - generic [ref=e583]:
+              - generic [ref=e584]: Remote —
+              - generic [ref=e585]: Permanent
+              - generic [ref=e586]: London / Stockholm
+      - generic [ref=e587]:
+        - generic [ref=e588]: Experience
+        - generic [ref=e590]:
+          - link "Apply" [ref=e592] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/fb7929b7-73b8-43fc-b6a0-888e96722617
+          - link "Director of Engineering, Experience Hybrid — Permanent Stockholm / London" [ref=e593] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/fb7929b7-73b8-43fc-b6a0-888e96722617
+            - heading "Director of Engineering, Experience" [level=5] [ref=e594]
+            - generic [ref=e595]:
+              - generic [ref=e596]: Hybrid —
+              - generic [ref=e597]: Permanent
+              - generic [ref=e598]: Stockholm / London
+        - generic [ref=e599]:
+          - link "Apply" [ref=e601] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/40ac451e-2886-4f22-96a0-be69aef6c6f0
+          - link "Engineering Manager - Content Platform Hybrid — Permanent London / Stockholm" [ref=e602] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/40ac451e-2886-4f22-96a0-be69aef6c6f0
+            - heading "Engineering Manager - Content Platform" [level=5] [ref=e603]
+            - generic [ref=e604]:
+              - generic [ref=e605]: Hybrid —
+              - generic [ref=e606]: Permanent
+              - generic [ref=e607]: London / Stockholm
+        - generic [ref=e608]:
+          - link "Apply" [ref=e610] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/050e9c0b-2087-4438-bc5e-54b0601a44dc
+          - link "Engineering Manager - Core Experience (Format Foundations) Hybrid — Permanent London / Stockholm" [ref=e611] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/050e9c0b-2087-4438-bc5e-54b0601a44dc
+            - heading "Engineering Manager - Core Experience (Format Foundations)" [level=5] [ref=e612]
+            - generic [ref=e613]:
+              - generic [ref=e614]: Hybrid —
+              - generic [ref=e615]: Permanent
+              - generic [ref=e616]: London / Stockholm
+        - generic [ref=e617]:
+          - link "Apply" [ref=e619] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/b12565d7-30fb-4eee-84df-9ea90da70174
+          - link "Engineering Manager - Social Listening Hybrid — Permanent Stockholm / London" [ref=e620] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/b12565d7-30fb-4eee-84df-9ea90da70174
+            - heading "Engineering Manager - Social Listening" [level=5] [ref=e621]
+            - generic [ref=e622]:
+              - generic [ref=e623]: Hybrid —
+              - generic [ref=e624]: Permanent
+              - generic [ref=e625]: Stockholm / London
+        - generic [ref=e626]:
+          - link "Apply" [ref=e628] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/69ce7cd5-c137-435f-84bc-9da27389c7e6
+          - link "Senior Applied Research Engineer - Media Quality Hybrid — Permanent London / Stockholm" [ref=e629] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/69ce7cd5-c137-435f-84bc-9da27389c7e6
+            - heading "Senior Applied Research Engineer - Media Quality" [level=5] [ref=e630]
+            - generic [ref=e631]:
+              - generic [ref=e632]: Hybrid —
+              - generic [ref=e633]: Permanent
+              - generic [ref=e634]: London / Stockholm
+        - generic [ref=e635]:
+          - link "Apply" [ref=e637] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a1983900-6166-433e-88e6-fd6f1eff6b01
+          - link "Senior Engineering Manager - Core Experience Hybrid — Permanent London / Stockholm" [ref=e638] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a1983900-6166-433e-88e6-fd6f1eff6b01
+            - heading "Senior Engineering Manager - Core Experience" [level=5] [ref=e639]
+            - generic [ref=e640]:
+              - generic [ref=e641]: Hybrid —
+              - generic [ref=e642]: Permanent
+              - generic [ref=e643]: London / Stockholm
+        - generic [ref=e644]:
+          - link "Apply" [ref=e646] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/d83cbddf-871a-4f9a-9b29-52cd676e2b3c
+          - link "Senior Machine Learning Engineer - Policy & Safety Hybrid — Permanent London / Stockholm" [ref=e647] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/d83cbddf-871a-4f9a-9b29-52cd676e2b3c
+            - heading "Senior Machine Learning Engineer - Policy & Safety" [level=5] [ref=e648]
+            - generic [ref=e649]:
+              - generic [ref=e650]: Hybrid —
+              - generic [ref=e651]: Permanent
+              - generic [ref=e652]: London / Stockholm
+        - generic [ref=e653]:
+          - link "Apply" [ref=e655] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/9eca14d3-8e0b-46de-8161-704e07f3d9d0
+          - link "Senior Machine Learning Engineer - Policy & Safety Hybrid — Permanent New York, NY" [ref=e656] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/9eca14d3-8e0b-46de-8161-704e07f3d9d0
+            - heading "Senior Machine Learning Engineer - Policy & Safety" [level=5] [ref=e657]
+            - generic [ref=e658]:
+              - generic [ref=e659]: Hybrid —
+              - generic [ref=e660]: Permanent
+              - generic [ref=e661]: New York, NY
+        - generic [ref=e662]:
+          - link "Apply" [ref=e664] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/827bfa7b-cc50-46d7-bdac-f642a14fe92b
+          - link "Senior Software Engineer - TV Playback (C++) Hybrid — Permanent London / Stockholm" [ref=e665] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/827bfa7b-cc50-46d7-bdac-f642a14fe92b
+            - heading "Senior Software Engineer - TV Playback (C++)" [level=5] [ref=e666]
+            - generic [ref=e667]:
+              - generic [ref=e668]: Hybrid —
+              - generic [ref=e669]: Permanent
+              - generic [ref=e670]: London / Stockholm
+        - generic [ref=e671]:
+          - link "Apply" [ref=e673] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/499543e3-78e7-473a-8a1d-a82ce9ce9030
+          - link "Senior Staff Machine Learning Engineer - Content Policy & Safety Hybrid — Permanent London / Stockholm" [ref=e674] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/499543e3-78e7-473a-8a1d-a82ce9ce9030
+            - heading "Senior Staff Machine Learning Engineer - Content Policy & Safety" [level=5] [ref=e675]
+            - generic [ref=e676]:
+              - generic [ref=e677]: Hybrid —
+              - generic [ref=e678]: Permanent
+              - generic [ref=e679]: London / Stockholm
+        - generic [ref=e680]:
+          - link "Apply" [ref=e682] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/47d4eabf-8d5a-4dab-ac72-de7b5b56841c
+          - link "Senior Staff Machine Learning Engineer, Content Platform Hybrid — Permanent London / Stockholm" [ref=e683] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/47d4eabf-8d5a-4dab-ac72-de7b5b56841c
+            - heading "Senior Staff Machine Learning Engineer, Content Platform" [level=5] [ref=e684]
+            - generic [ref=e685]:
+              - generic [ref=e686]: Hybrid —
+              - generic [ref=e687]: Permanent
+              - generic [ref=e688]: London / Stockholm
+        - generic [ref=e689]:
+          - link "Apply" [ref=e691] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/76458bae-8a16-4c42-8780-f9452206f0e0
+          - link "Staff Machine Learning Engineer - Content Intelligence Hybrid — Permanent New York, NY" [ref=e692] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/76458bae-8a16-4c42-8780-f9452206f0e0
+            - heading "Staff Machine Learning Engineer - Content Intelligence" [level=5] [ref=e693]
+            - generic [ref=e694]:
+              - generic [ref=e695]: Hybrid —
+              - generic [ref=e696]: Permanent
+              - generic [ref=e697]: New York, NY
+        - generic [ref=e698]:
+          - link "Apply" [ref=e700] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/f58775f4-574f-40df-8b25-528381203154
+          - link "Staff Machine Learning Engineer - Content Intelligence Hybrid — Permanent London / Stockholm" [ref=e701] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/f58775f4-574f-40df-8b25-528381203154
+            - heading "Staff Machine Learning Engineer - Content Intelligence" [level=5] [ref=e702]
+            - generic [ref=e703]:
+              - generic [ref=e704]: Hybrid —
+              - generic [ref=e705]: Permanent
+              - generic [ref=e706]: London / Stockholm
+        - generic [ref=e707]:
+          - link "Apply" [ref=e709] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/b441bb85-24c0-4ef4-971a-1372952c1c32
+          - link "Staff Machine Learning Engineer - Policy & Safety Hybrid — Permanent London / Stockholm" [ref=e710] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/b441bb85-24c0-4ef4-971a-1372952c1c32
+            - heading "Staff Machine Learning Engineer - Policy & Safety" [level=5] [ref=e711]
+            - generic [ref=e712]:
+              - generic [ref=e713]: Hybrid —
+              - generic [ref=e714]: Permanent
+              - generic [ref=e715]: London / Stockholm
+        - generic [ref=e716]:
+          - link "Apply" [ref=e718] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7d57d7dd-be86-452f-8ff4-9aeb67280262
+          - link "Staff Machine Learning Engineer - Policy & Safety Hybrid — Permanent New York, NY" [ref=e719] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7d57d7dd-be86-452f-8ff4-9aeb67280262
+            - heading "Staff Machine Learning Engineer - Policy & Safety" [level=5] [ref=e720]
+            - generic [ref=e721]:
+              - generic [ref=e722]: Hybrid —
+              - generic [ref=e723]: Permanent
+              - generic [ref=e724]: New York, NY
+      - generic [ref=e725]:
+        - generic [ref=e726]: FinE
+        - generic [ref=e728]:
+          - link "Apply" [ref=e730] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/5d36b6f4-e89d-4a01-985c-59a184080440
+          - link "Data Engineer I - Revenue Hybrid — Permanent London" [ref=e731] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/5d36b6f4-e89d-4a01-985c-59a184080440
+            - heading "Data Engineer I - Revenue" [level=5] [ref=e732]
+            - generic [ref=e733]:
+              - generic [ref=e734]: Hybrid —
+              - generic [ref=e735]: Permanent
+              - generic [ref=e736]: London
+      - generic [ref=e737]:
+        - generic [ref=e738]: Music
+        - generic [ref=e740]:
+          - link "Apply" [ref=e742] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/0f8f7921-bcb4-444c-8ceb-4d3fa6459493
+          - link "Backend Engineer - Music On-site — Permanent New York, NY" [ref=e743] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/0f8f7921-bcb4-444c-8ceb-4d3fa6459493
+            - heading "Backend Engineer - Music" [level=5] [ref=e744]
+            - generic [ref=e745]:
+              - generic [ref=e746]: On-site —
+              - generic [ref=e747]: Permanent
+              - generic [ref=e748]: New York, NY
+        - generic [ref=e749]:
+          - link "Apply" [ref=e751] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/ee5064af-0116-4ef2-994a-cb8fed580290
+          - link "Backend Engineer, Bonfire, Music Remote — Permanent New York, NY" [ref=e752] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/ee5064af-0116-4ef2-994a-cb8fed580290
+            - heading "Backend Engineer, Bonfire, Music" [level=5] [ref=e753]
+            - generic [ref=e754]:
+              - generic [ref=e755]: Remote —
+              - generic [ref=e756]: Permanent
+              - generic [ref=e757]: New York, NY
+        - generic [ref=e758]:
+          - link "Apply" [ref=e760] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/52fe2b49-3c85-4479-b1db-2c5ab74cbcfc
+          - link "Backend Engineer, Oasis, Music Remote — Permanent New York, NY" [ref=e761] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/52fe2b49-3c85-4479-b1db-2c5ab74cbcfc
+            - heading "Backend Engineer, Oasis, Music" [level=5] [ref=e762]
+            - generic [ref=e763]:
+              - generic [ref=e764]: Remote —
+              - generic [ref=e765]: Permanent
+              - generic [ref=e766]: New York, NY
+        - generic [ref=e767]:
+          - link "Apply" [ref=e769] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a8606ee6-84b9-4677-af2f-b57f1e71fd91
+          - link "Frontend Engineer - Music Remote — Permanent New York, NY" [ref=e770] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a8606ee6-84b9-4677-af2f-b57f1e71fd91
+            - heading "Frontend Engineer - Music" [level=5] [ref=e771]
+            - generic [ref=e772]:
+              - generic [ref=e773]: Remote —
+              - generic [ref=e774]: Permanent
+              - generic [ref=e775]: New York, NY
+        - generic [ref=e776]:
+          - link "Apply" [ref=e778] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/9ce12867-8c84-40c5-be40-d8831ab98925
+          - link "Frontend Engineer - Music Remote — Permanent London / Stockholm" [ref=e779] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/9ce12867-8c84-40c5-be40-d8831ab98925
+            - heading "Frontend Engineer - Music" [level=5] [ref=e780]
+            - generic [ref=e781]:
+              - generic [ref=e782]: Remote —
+              - generic [ref=e783]: Permanent
+              - generic [ref=e784]: London / Stockholm
+        - generic [ref=e785]:
+          - link "Apply" [ref=e787] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/e68ad741-4c4e-4b06-ae11-9cf1e36dd40f
+          - link "Machine Learning Engineer Remote — Permanent New York, NY" [ref=e788] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/e68ad741-4c4e-4b06-ae11-9cf1e36dd40f
+            - heading "Machine Learning Engineer" [level=5] [ref=e789]
+            - generic [ref=e790]:
+              - generic [ref=e791]: Remote —
+              - generic [ref=e792]: Permanent
+              - generic [ref=e793]: New York, NY
+        - generic [ref=e794]:
+          - link "Apply" [ref=e796] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/8fa32f77-1067-4e2b-a148-e3e198e006ca
+          - link "Machine Learning Engineering Manager - Music Remote — Permanent New York, NY" [ref=e797] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/8fa32f77-1067-4e2b-a148-e3e198e006ca
+            - heading "Machine Learning Engineering Manager - Music" [level=5] [ref=e798]
+            - generic [ref=e799]:
+              - generic [ref=e800]: Remote —
+              - generic [ref=e801]: Permanent
+              - generic [ref=e802]: New York, NY
+        - generic [ref=e803]:
+          - link "Apply" [ref=e805] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7d3bdd39-0edd-41f2-aef4-f1e9ef92b364
+          - link "Machine Learning Engineering Manager - Music Remote — Permanent London / Stockholm" [ref=e806] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7d3bdd39-0edd-41f2-aef4-f1e9ef92b364
+            - heading "Machine Learning Engineering Manager - Music" [level=5] [ref=e807]
+            - generic [ref=e808]:
+              - generic [ref=e809]: Remote —
+              - generic [ref=e810]: Permanent
+              - generic [ref=e811]: London / Stockholm
+        - generic [ref=e812]:
+          - link "Apply" [ref=e814] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/05c0fde5-9553-4b1a-95ea-2b46f0e670bb
+          - link "Senior Backend Engineer - Music Remote — Permanent New York, NY" [ref=e815] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/05c0fde5-9553-4b1a-95ea-2b46f0e670bb
+            - heading "Senior Backend Engineer - Music" [level=5] [ref=e816]
+            - generic [ref=e817]:
+              - generic [ref=e818]: Remote —
+              - generic [ref=e819]: Permanent
+              - generic [ref=e820]: New York, NY
+        - generic [ref=e821]:
+          - link "Apply" [ref=e823] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/4cf40d3f-0ba2-443a-9ed1-62f7cdccba7b
+          - link "Senior Backend Engineer - Music Remote — Permanent London / Stockholm" [ref=e824] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/4cf40d3f-0ba2-443a-9ed1-62f7cdccba7b
+            - heading "Senior Backend Engineer - Music" [level=5] [ref=e825]
+            - generic [ref=e826]:
+              - generic [ref=e827]: Remote —
+              - generic [ref=e828]: Permanent
+              - generic [ref=e829]: London / Stockholm
+        - generic [ref=e830]:
+          - link "Apply" [ref=e832] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/b2116fac-5c9d-4f89-8753-b6c0bef1b380
+          - link "Senior Engineering Manager - Native Ads Hybrid — Permanent New York, NY" [ref=e833] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/b2116fac-5c9d-4f89-8753-b6c0bef1b380
+            - heading "Senior Engineering Manager - Native Ads" [level=5] [ref=e834]
+            - generic [ref=e835]:
+              - generic [ref=e836]: Hybrid —
+              - generic [ref=e837]: Permanent
+              - generic [ref=e838]: New York, NY
+        - generic [ref=e839]:
+          - link "Apply" [ref=e841] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/df494b56-c5d2-4858-a980-c082b3de65c9
+          - link "Senior Engineering Manager - Spotify for Artists Remote — Permanent New York, NY" [ref=e842] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/df494b56-c5d2-4858-a980-c082b3de65c9
+            - heading "Senior Engineering Manager - Spotify for Artists" [level=5] [ref=e843]
+            - generic [ref=e844]:
+              - generic [ref=e845]: Remote —
+              - generic [ref=e846]: Permanent
+              - generic [ref=e847]: New York, NY
+      - generic [ref=e848]:
+        - generic [ref=e849]: Personalization
+        - generic [ref=e851]:
+          - link "Apply" [ref=e853] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/e200d025-4cff-4eb8-afa4-6680e31c43a2
+          - link "Machine Learning Engineer Remote — Permanent New York, NY" [ref=e854] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/e200d025-4cff-4eb8-afa4-6680e31c43a2
+            - heading "Machine Learning Engineer" [level=5] [ref=e855]
+            - generic [ref=e856]:
+              - generic [ref=e857]: Remote —
+              - generic [ref=e858]: Permanent
+              - generic [ref=e859]: New York, NY
+        - generic [ref=e860]:
+          - link "Apply" [ref=e862] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/dfbf550d-b099-4dd9-9228-15d921e46516
+          - link "Machine Learning Engineer - Personalization Remote — Permanent New York, NY" [ref=e863] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/dfbf550d-b099-4dd9-9228-15d921e46516
+            - heading "Machine Learning Engineer - Personalization" [level=5] [ref=e864]
+            - generic [ref=e865]:
+              - generic [ref=e866]: Remote —
+              - generic [ref=e867]: Permanent
+              - generic [ref=e868]: New York, NY
+        - generic [ref=e869]:
+          - link "Apply" [ref=e871] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/fd79c3f5-1b2c-47c0-a3c6-4972b559e1c1
+          - link "Machine Learning Engineer I, Personalization , Minesweeper Remote — New York, NY" [ref=e872] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/fd79c3f5-1b2c-47c0-a3c6-4972b559e1c1
+            - heading "Machine Learning Engineer I, Personalization , Minesweeper" [level=5] [ref=e873]
+            - generic [ref=e874]:
+              - generic [ref=e875]: Remote —
+              - generic [ref=e876]: New York, NY
+        - generic [ref=e877]:
+          - link "Apply" [ref=e879] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/de3f6a47-4d75-4512-8351-b362f1d1c32e
+          - link "Machine Learning Engineer, Personalization, Minesweeper Remote — New York, NY" [ref=e880] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/de3f6a47-4d75-4512-8351-b362f1d1c32e
+            - heading "Machine Learning Engineer, Personalization, Minesweeper" [level=5] [ref=e881]
+            - generic [ref=e882]:
+              - generic [ref=e883]: Remote —
+              - generic [ref=e884]: New York, NY
+        - generic [ref=e885]:
+          - link "Apply" [ref=e887] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7597d3d7-58d2-41b2-9f85-911d95c2c739
+          - link "Machine Learning Engineer, Personalization, Samba Remote — Permanent New York, NY" [ref=e888] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7597d3d7-58d2-41b2-9f85-911d95c2c739
+            - heading "Machine Learning Engineer, Personalization, Samba" [level=5] [ref=e889]
+            - generic [ref=e890]:
+              - generic [ref=e891]: Remote —
+              - generic [ref=e892]: Permanent
+              - generic [ref=e893]: New York, NY
+        - generic [ref=e894]:
+          - link "Apply" [ref=e896] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/4972fad1-f3d8-49ef-9d41-d132b5281942
+          - link "Machine Learning Engineer, Personalization, Samba Remote — Permanent London / Stockholm" [ref=e897] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/4972fad1-f3d8-49ef-9d41-d132b5281942
+            - heading "Machine Learning Engineer, Personalization, Samba" [level=5] [ref=e898]
+            - generic [ref=e899]:
+              - generic [ref=e900]: Remote —
+              - generic [ref=e901]: Permanent
+              - generic [ref=e902]: London / Stockholm
+        - generic [ref=e903]:
+          - link "Apply" [ref=e905] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/3efb102a-0829-4338-bd73-28387ae010b6
+          - link "Machine Learning Engineering Manager - Personalization Remote — Permanent New York, NY / Boston, MA" [ref=e906] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/3efb102a-0829-4338-bd73-28387ae010b6
+            - heading "Machine Learning Engineering Manager - Personalization" [level=5] [ref=e907]
+            - generic [ref=e908]:
+              - generic [ref=e909]: Remote —
+              - generic [ref=e910]: Permanent
+              - generic [ref=e911]: New York, NY / Boston, MA
+        - generic [ref=e912]:
+          - link "Apply" [ref=e914] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/5277f56c-0e14-4593-921c-5460c46d6a35
+          - link "Machine Learning Engineering Manager - Surfaces Music Remote — Permanent New York, NY" [ref=e915] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/5277f56c-0e14-4593-921c-5460c46d6a35
+            - heading "Machine Learning Engineering Manager - Surfaces Music" [level=5] [ref=e916]
+            - generic [ref=e917]:
+              - generic [ref=e918]: Remote —
+              - generic [ref=e919]: Permanent
+              - generic [ref=e920]: New York, NY
+        - generic [ref=e921]:
+          - link "Apply" [ref=e923] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/ab6947fc-adc4-41db-ad11-8fae741ceff0
+          - link "Senior Backend Engineer - Personalization Remote — Permanent New York, NY / London" [ref=e924] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/ab6947fc-adc4-41db-ad11-8fae741ceff0
+            - heading "Senior Backend Engineer - Personalization" [level=5] [ref=e925]
+            - generic [ref=e926]:
+              - generic [ref=e927]: Remote —
+              - generic [ref=e928]: Permanent
+              - generic [ref=e929]: New York, NY / London
+        - generic [ref=e930]:
+          - link "Apply" [ref=e932] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/69bf7240-0dfe-43df-a83b-0af1f5b3a892
+          - link "Senior Backend Engineer - Surfaces/PZN Remote — Permanent New York, NY" [ref=e933] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/69bf7240-0dfe-43df-a83b-0af1f5b3a892
+            - heading "Senior Backend Engineer - Surfaces/PZN" [level=5] [ref=e934]
+            - generic [ref=e935]:
+              - generic [ref=e936]: Remote —
+              - generic [ref=e937]: Permanent
+              - generic [ref=e938]: New York, NY
+        - generic [ref=e939]:
+          - link "Apply" [ref=e941] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/97568ea9-6b5c-4f4c-8ef5-31fe43546323
+          - link "Senior Machine Learning Engineer - Personalization, Horizon Remote — Permanent New York, NY / London" [ref=e942] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/97568ea9-6b5c-4f4c-8ef5-31fe43546323
+            - heading "Senior Machine Learning Engineer - Personalization, Horizon" [level=5] [ref=e943]
+            - generic [ref=e944]:
+              - generic [ref=e945]: Remote —
+              - generic [ref=e946]: Permanent
+              - generic [ref=e947]: New York, NY / London
+        - generic [ref=e948]:
+          - link "Apply" [ref=e950] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/3cf07bc7-2b9f-4531-af88-a09cfdf7b3ab
+          - link "Senior Machine Learning Engineer, Personalization, Magenta Remote — New York, NY" [ref=e951] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/3cf07bc7-2b9f-4531-af88-a09cfdf7b3ab
+            - heading "Senior Machine Learning Engineer, Personalization, Magenta" [level=5] [ref=e952]
+            - generic [ref=e953]:
+              - generic [ref=e954]: Remote —
+              - generic [ref=e955]: New York, NY
+        - generic [ref=e956]:
+          - link "Apply" [ref=e958] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/d7c43743-2240-45b6-bc31-33e50cbaba4a
+          - link "Senior Machine Learning Engineer, Personalization, Music Understanding Remote — Permanent New York, NY" [ref=e959] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/d7c43743-2240-45b6-bc31-33e50cbaba4a
+            - heading "Senior Machine Learning Engineer, Personalization, Music Understanding" [level=5] [ref=e960]
+            - generic [ref=e961]:
+              - generic [ref=e962]: Remote —
+              - generic [ref=e963]: Permanent
+              - generic [ref=e964]: New York, NY
+        - generic [ref=e965]:
+          - link "Apply" [ref=e967] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/2581943f-52cd-4967-b2bd-c1a0354fa422
+          - link "Senior Machine Learning Engineer, Personalization, Rewards Remote — New York, NY" [ref=e968] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/2581943f-52cd-4967-b2bd-c1a0354fa422
+            - heading "Senior Machine Learning Engineer, Personalization, Rewards" [level=5] [ref=e969]
+            - generic [ref=e970]:
+              - generic [ref=e971]: Remote —
+              - generic [ref=e972]: New York, NY
+        - generic [ref=e973]:
+          - link "Apply" [ref=e975] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/351ad979-231f-4bee-ae49-8ff55b64f605
+          - link "Senior Machine Learning Engineer, Zeitgeist, Personalization Remote — Permanent New York, NY / Boston, MA" [ref=e976] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/351ad979-231f-4bee-ae49-8ff55b64f605
+            - heading "Senior Machine Learning Engineer, Zeitgeist, Personalization" [level=5] [ref=e977]
+            - generic [ref=e978]:
+              - generic [ref=e979]: Remote —
+              - generic [ref=e980]: Permanent
+              - generic [ref=e981]: New York, NY / Boston, MA
+        - generic [ref=e982]:
+          - link "Apply" [ref=e984] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/89c966c0-1975-42a1-850d-10fe20e02b05
+          - link "Senior Staff Machine Learning Engineer Remote — Permanent New York, NY" [ref=e985] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/89c966c0-1975-42a1-850d-10fe20e02b05
+            - heading "Senior Staff Machine Learning Engineer" [level=5] [ref=e986]
+            - generic [ref=e987]:
+              - generic [ref=e988]: Remote —
+              - generic [ref=e989]: Permanent
+              - generic [ref=e990]: New York, NY
+        - generic [ref=e991]:
+          - link "Apply" [ref=e993] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/19649848-0388-4311-a184-067d9ae77cf3
+          - link "Senior Staff Machine Learning Engineer - Agentic Systems Remote — Permanent New York, NY" [ref=e994] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/19649848-0388-4311-a184-067d9ae77cf3
+            - heading "Senior Staff Machine Learning Engineer - Agentic Systems" [level=5] [ref=e995]
+            - generic [ref=e996]:
+              - generic [ref=e997]: Remote —
+              - generic [ref=e998]: Permanent
+              - generic [ref=e999]: New York, NY
+        - generic [ref=e1000]:
+          - link "Apply" [ref=e1002] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/736f1827-6b26-4b3b-b8d8-1d754296e033
+          - link "Staff Machine Learning Engineer Remote — Permanent New York, NY" [ref=e1003] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/736f1827-6b26-4b3b-b8d8-1d754296e033
+            - heading "Staff Machine Learning Engineer" [level=5] [ref=e1004]
+            - generic [ref=e1005]:
+              - generic [ref=e1006]: Remote —
+              - generic [ref=e1007]: Permanent
+              - generic [ref=e1008]: New York, NY
+        - generic [ref=e1009]:
+          - link "Apply" [ref=e1011] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/f3616bfc-a2bb-4847-90e1-0437b8a1c054
+          - link "Staff Machine Learning Engineer Remote — Permanent London / Stockholm" [ref=e1012] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/f3616bfc-a2bb-4847-90e1-0437b8a1c054
+            - heading "Staff Machine Learning Engineer" [level=5] [ref=e1013]
+            - generic [ref=e1014]:
+              - generic [ref=e1015]: Remote —
+              - generic [ref=e1016]: Permanent
+              - generic [ref=e1017]: London / Stockholm
+      - generic [ref=e1018]:
+        - generic [ref=e1019]: Platform
+        - generic [ref=e1021]:
+          - link "Apply" [ref=e1023] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/52601664-fd17-4c05-a80e-b76ee4fb3ba1
+          - link "Android Engineer - Platform Engineering Remote — Permanent Stockholm" [ref=e1024] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/52601664-fd17-4c05-a80e-b76ee4fb3ba1
+            - heading "Android Engineer - Platform Engineering" [level=5] [ref=e1025]
+            - generic [ref=e1026]:
+              - generic [ref=e1027]: Remote —
+              - generic [ref=e1028]: Permanent
+              - generic [ref=e1029]: Stockholm
+        - generic [ref=e1030]:
+          - link "Apply" [ref=e1032] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9
+          - link "Backend Engineer - Data Infrastructure Remote — New York, NY" [ref=e1033] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9
+            - heading "Backend Engineer - Data Infrastructure" [level=5] [ref=e1034]
+            - generic [ref=e1035]:
+              - generic [ref=e1036]: Remote —
+              - generic [ref=e1037]: New York, NY
+        - generic [ref=e1038]:
+          - link "Apply" [ref=e1040] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/32d6a16a-e0b8-4049-8221-077dc514af48
+          - link "Backend Engineer - Core Infrastructure Hybrid — London / Stockholm" [ref=e1041] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/32d6a16a-e0b8-4049-8221-077dc514af48
+            - heading "Backend Engineer - Core Infrastructure" [level=5] [ref=e1042]
+            - generic [ref=e1043]:
+              - generic [ref=e1044]: Hybrid —
+              - generic [ref=e1045]: London / Stockholm
+        - generic [ref=e1046]:
+          - link "Apply" [ref=e1048] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/db6450c7-5017-4aa5-8a64-52e39f1ed525
+          - link "Backend Engineer - Data Platform Hybrid — Permanent London" [ref=e1049] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/db6450c7-5017-4aa5-8a64-52e39f1ed525
+            - heading "Backend Engineer - Data Platform" [level=5] [ref=e1050]
+            - generic [ref=e1051]:
+              - generic [ref=e1052]: Hybrid —
+              - generic [ref=e1053]: Permanent
+              - generic [ref=e1054]: London
+        - generic [ref=e1055]:
+          - link "Apply" [ref=e1057] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/e8ef80ed-633f-45ec-a1fc-a55704241f64
+          - link "Backend Engineer - Platform Remote — Permanent Toronto" [ref=e1058] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/e8ef80ed-633f-45ec-a1fc-a55704241f64
+            - heading "Backend Engineer - Platform" [level=5] [ref=e1059]
+            - generic [ref=e1060]:
+              - generic [ref=e1061]: Remote —
+              - generic [ref=e1062]: Permanent
+              - generic [ref=e1063]: Toronto
+        - generic [ref=e1064]:
+          - link "Apply" [ref=e1066] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/58860a10-4a0d-4a21-a495-1f3605b300c1
+          - link "Backend Engineer - User Platform Remote — Toronto" [ref=e1067] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/58860a10-4a0d-4a21-a495-1f3605b300c1
+            - heading "Backend Engineer - User Platform" [level=5] [ref=e1068]
+            - generic [ref=e1069]:
+              - generic [ref=e1070]: Remote —
+              - generic [ref=e1071]: Toronto
+        - generic [ref=e1072]:
+          - link "Apply" [ref=e1074] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/830106b6-0055-4003-bcaa-370648915622
+          - link "Backend Engineer- Release Remote — Permanent London / Stockholm" [ref=e1075] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/830106b6-0055-4003-bcaa-370648915622
+            - heading "Backend Engineer- Release" [level=5] [ref=e1076]
+            - generic [ref=e1077]:
+              - generic [ref=e1078]: Remote —
+              - generic [ref=e1079]: Permanent
+              - generic [ref=e1080]: London / Stockholm
+        - generic [ref=e1081]:
+          - link "Apply" [ref=e1083] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/baa87498-b0a3-4ac5-b197-a224e93c8a07
+          - link "Backend/Data Engineer - Data Platform Hybrid — Permanent London" [ref=e1084] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/baa87498-b0a3-4ac5-b197-a224e93c8a07
+            - heading "Backend/Data Engineer - Data Platform" [level=5] [ref=e1085]
+            - generic [ref=e1086]:
+              - generic [ref=e1087]: Hybrid —
+              - generic [ref=e1088]: Permanent
+              - generic [ref=e1089]: London
+        - generic [ref=e1090]:
+          - link "Apply" [ref=e1092] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/361e8a26-1386-477f-bfd0-c819ba863be3
+          - link "C++ Engineer - Platform Engineering Remote — Permanent London / Stockholm" [ref=e1093] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/361e8a26-1386-477f-bfd0-c819ba863be3
+            - heading "C++ Engineer - Platform Engineering" [level=5] [ref=e1094]
+            - generic [ref=e1095]:
+              - generic [ref=e1096]: Remote —
+              - generic [ref=e1097]: Permanent
+              - generic [ref=e1098]: London / Stockholm
+        - generic [ref=e1099]:
+          - link "Apply" [ref=e1101] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/4303f795-d0a5-41ed-8c78-0941780b6e54
+          - link "Data Engineer – Platform Remote — Permanent Toronto" [ref=e1102] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/4303f795-d0a5-41ed-8c78-0941780b6e54
+            - heading "Data Engineer – Platform" [level=5] [ref=e1103]
+            - generic [ref=e1104]:
+              - generic [ref=e1105]: Remote —
+              - generic [ref=e1106]: Permanent
+              - generic [ref=e1107]: Toronto
+        - generic [ref=e1108]:
+          - link "Apply" [ref=e1110] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/52550fb5-79dc-4bb6-af24-5364a1af2c44
+          - link "Engineering Manager - AI Fleet Management & Honk Remote — Permanent Stockholm / London" [ref=e1111] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/52550fb5-79dc-4bb6-af24-5364a1af2c44
+            - heading "Engineering Manager - AI Fleet Management & Honk" [level=5] [ref=e1112]
+            - generic [ref=e1113]:
+              - generic [ref=e1114]: Remote —
+              - generic [ref=e1115]: Permanent
+              - generic [ref=e1116]: Stockholm / London
+        - generic [ref=e1117]:
+          - link "Apply" [ref=e1119] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/fd0b87ca-dec2-4bec-8341-4911c88851b6
+          - link "Engineering Manager - Analytics Platform Remote — Permanent Toronto" [ref=e1120] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/fd0b87ca-dec2-4bec-8341-4911c88851b6
+            - heading "Engineering Manager - Analytics Platform" [level=5] [ref=e1121]
+            - generic [ref=e1122]:
+              - generic [ref=e1123]: Remote —
+              - generic [ref=e1124]: Permanent
+              - generic [ref=e1125]: Toronto
+        - generic [ref=e1126]:
+          - link "Apply" [ref=e1128] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/64ef2493-3b1e-407a-ac07-9e95a57f6d7c
+          - link "Engineering Manager - Confidence Hybrid — Permanent Stockholm" [ref=e1129] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/64ef2493-3b1e-407a-ac07-9e95a57f6d7c
+            - heading "Engineering Manager - Confidence" [level=5] [ref=e1130]
+            - generic [ref=e1131]:
+              - generic [ref=e1132]: Hybrid —
+              - generic [ref=e1133]: Permanent
+              - generic [ref=e1134]: Stockholm
+        - generic [ref=e1135]:
+          - link "Apply" [ref=e1137] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7296f4cc-e5d1-4d63-8d2c-ebf0d5f7a10a
+          - link "Engineering Manager - Core Infrastructure Hybrid — Permanent Stockholm / London" [ref=e1138] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7296f4cc-e5d1-4d63-8d2c-ebf0d5f7a10a
+            - heading "Engineering Manager - Core Infrastructure" [level=5] [ref=e1139]
+            - generic [ref=e1140]:
+              - generic [ref=e1141]: Hybrid —
+              - generic [ref=e1142]: Permanent
+              - generic [ref=e1143]: Stockholm / London
+        - generic [ref=e1144]:
+          - link "Apply" [ref=e1146] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/335c9f92-451b-4161-8000-a56f111684cd
+          - link "Engineering Manager - Platform Infrastructure Remote — Permanent Toronto" [ref=e1147] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/335c9f92-451b-4161-8000-a56f111684cd
+            - heading "Engineering Manager - Platform Infrastructure" [level=5] [ref=e1148]
+            - generic [ref=e1149]:
+              - generic [ref=e1150]: Remote —
+              - generic [ref=e1151]: Permanent
+              - generic [ref=e1152]: Toronto
+        - generic [ref=e1153]:
+          - link "Apply" [ref=e1155] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a2eaa35d-ceb3-4e8c-97b5-73f96f42e100
+          - link "Financial Systems Analyst - Platform Remote — Permanent Toronto" [ref=e1156] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a2eaa35d-ceb3-4e8c-97b5-73f96f42e100
+            - heading "Financial Systems Analyst - Platform" [level=5] [ref=e1157]
+            - generic [ref=e1158]:
+              - generic [ref=e1159]: Remote —
+              - generic [ref=e1160]: Permanent
+              - generic [ref=e1161]: Toronto
+        - generic [ref=e1162]:
+          - link "Apply" [ref=e1164] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/2d1f743f-9174-413f-b824-6e426082ebeb
+          - link "Fullstack Engineer - Generative UI Platform Remote — Permanent Stockholm" [ref=e1165] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/2d1f743f-9174-413f-b824-6e426082ebeb
+            - heading "Fullstack Engineer - Generative UI Platform" [level=5] [ref=e1166]
+            - generic [ref=e1167]:
+              - generic [ref=e1168]: Remote —
+              - generic [ref=e1169]: Permanent
+              - generic [ref=e1170]: Stockholm
+        - generic [ref=e1171]:
+          - link "Apply" [ref=e1173] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/63aec906-826b-4fa4-b3eb-d3bbac43503f
+          - link "Fullstack/Backend Engineer - Conversational Analytic Remote — Permanent Stockholm" [ref=e1174] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/63aec906-826b-4fa4-b3eb-d3bbac43503f
+            - heading "Fullstack/Backend Engineer - Conversational Analytic" [level=5] [ref=e1175]
+            - generic [ref=e1176]:
+              - generic [ref=e1177]: Remote —
+              - generic [ref=e1178]: Permanent
+              - generic [ref=e1179]: Stockholm
+        - generic [ref=e1180]:
+          - link "Apply" [ref=e1182] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6e1aa824-5287-495e-aec9-099b4c2e72db
+          - link "Security Engineer - Product Security Remote — Permanent London / Stockholm" [ref=e1183] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6e1aa824-5287-495e-aec9-099b4c2e72db
+            - heading "Security Engineer - Product Security" [level=5] [ref=e1184]
+            - generic [ref=e1185]:
+              - generic [ref=e1186]: Remote —
+              - generic [ref=e1187]: Permanent
+              - generic [ref=e1188]: London / Stockholm
+        - generic [ref=e1189]:
+          - link "Apply" [ref=e1191] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7505b9b1-ea36-4c4f-8eb6-8c7013d701d7
+          - link "Senior Android Engineer - Data Platform Hybrid — Permanent London" [ref=e1192] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7505b9b1-ea36-4c4f-8eb6-8c7013d701d7
+            - heading "Senior Android Engineer - Data Platform" [level=5] [ref=e1193]
+            - generic [ref=e1194]:
+              - generic [ref=e1195]: Hybrid —
+              - generic [ref=e1196]: Permanent
+              - generic [ref=e1197]: London
+        - generic [ref=e1198]:
+          - link "Apply" [ref=e1200] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/4ce74372-9d9f-4fa1-86a3-9c96158a03c5
+          - link "Senior Backend Engineer - Experimentation Platform Hybrid — Permanent London" [ref=e1201] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/4ce74372-9d9f-4fa1-86a3-9c96158a03c5
+            - heading "Senior Backend Engineer - Experimentation Platform" [level=5] [ref=e1202]
+            - generic [ref=e1203]:
+              - generic [ref=e1204]: Hybrid —
+              - generic [ref=e1205]: Permanent
+              - generic [ref=e1206]: London
+        - generic [ref=e1207]:
+          - link "Apply" [ref=e1209] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/22d93997-35ee-4d5b-ad7c-80c5344a4f78
+          - link "Senior C++ Engineer - Mobile Infrastructure - Connectivity Hybrid — Permanent London / Stockholm" [ref=e1210] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/22d93997-35ee-4d5b-ad7c-80c5344a4f78
+            - heading "Senior C++ Engineer - Mobile Infrastructure - Connectivity" [level=5] [ref=e1211]
+            - generic [ref=e1212]:
+              - generic [ref=e1213]: Hybrid —
+              - generic [ref=e1214]: Permanent
+              - generic [ref=e1215]: London / Stockholm
+        - generic [ref=e1216]:
+          - link "Apply" [ref=e1218] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/250dc806-7387-492d-b77e-68588f35b34b
+          - link "Senior Engineer- Mobile iOS Platform Remote — Permanent London / Stockholm" [ref=e1219] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/250dc806-7387-492d-b77e-68588f35b34b
+            - heading "Senior Engineer- Mobile iOS Platform" [level=5] [ref=e1220]
+            - generic [ref=e1221]:
+              - generic [ref=e1222]: Remote —
+              - generic [ref=e1223]: Permanent
+              - generic [ref=e1224]: London / Stockholm
+        - generic [ref=e1225]:
+          - link "Apply" [ref=e1227] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7aa8f2c1-eaa7-445a-a2ed-9e1be3ae2dd4
+          - link "Senior Fullstack Engineer - Backstage Portal, Data Experience Remote — New York, NY" [ref=e1228] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7aa8f2c1-eaa7-445a-a2ed-9e1be3ae2dd4
+            - heading "Senior Fullstack Engineer - Backstage Portal, Data Experience" [level=5] [ref=e1229]
+            - generic [ref=e1230]:
+              - generic [ref=e1231]: Remote —
+              - generic [ref=e1232]: New York, NY
+        - generic [ref=e1233]:
+          - link "Apply" [ref=e1235] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6fe64020-9ec1-4aed-a15c-1c32dcda6248
+          - link "Senior Fullstack Engineer - Data Platform Hybrid — Permanent London" [ref=e1236] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6fe64020-9ec1-4aed-a15c-1c32dcda6248
+            - heading "Senior Fullstack Engineer - Data Platform" [level=5] [ref=e1237]
+            - generic [ref=e1238]:
+              - generic [ref=e1239]: Hybrid —
+              - generic [ref=e1240]: Permanent
+              - generic [ref=e1241]: London
+        - generic [ref=e1242]:
+          - link "Apply" [ref=e1244] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/cefb269f-ec27-4e16-8d7d-43307a832591
+          - link "Senior Fullstack Engineer – Generative UI Platform Remote — Permanent Toronto" [ref=e1245] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/cefb269f-ec27-4e16-8d7d-43307a832591
+            - heading "Senior Fullstack Engineer – Generative UI Platform" [level=5] [ref=e1246]
+            - generic [ref=e1247]:
+              - generic [ref=e1248]: Remote —
+              - generic [ref=e1249]: Permanent
+              - generic [ref=e1250]: Toronto
+        - generic [ref=e1251]:
+          - link "Apply" [ref=e1253] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/0efed556-ce1a-455f-8ffc-2e11750ad2c5
+          - link "Senior Machine Learning Engineer - Generative UI Platform Hybrid — Permanent Stockholm" [ref=e1254] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/0efed556-ce1a-455f-8ffc-2e11750ad2c5
+            - heading "Senior Machine Learning Engineer - Generative UI Platform" [level=5] [ref=e1255]
+            - generic [ref=e1256]:
+              - generic [ref=e1257]: Hybrid —
+              - generic [ref=e1258]: Permanent
+              - generic [ref=e1259]: Stockholm
+        - generic [ref=e1260]:
+          - link "Apply" [ref=e1262] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/345c2c98-5635-4575-9213-1ebbba0f9396
+          - link "Senior Sales Engineer - Backstage Remote — Permanent New York, NY" [ref=e1263] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/345c2c98-5635-4575-9213-1ebbba0f9396
+            - heading "Senior Sales Engineer - Backstage" [level=5] [ref=e1264]
+            - generic [ref=e1265]:
+              - generic [ref=e1266]: Remote —
+              - generic [ref=e1267]: Permanent
+              - generic [ref=e1268]: New York, NY
+        - generic [ref=e1269]:
+          - link "Apply" [ref=e1271] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/8b10d06e-0102-4306-831e-4949cb1cc753
+          - link "Senior Software Engineer - Platform Infrastructure Remote — Permanent New York, NY" [ref=e1272] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/8b10d06e-0102-4306-831e-4949cb1cc753
+            - heading "Senior Software Engineer - Platform Infrastructure" [level=5] [ref=e1273]
+            - generic [ref=e1274]:
+              - generic [ref=e1275]: Remote —
+              - generic [ref=e1276]: Permanent
+              - generic [ref=e1277]: New York, NY
+        - generic [ref=e1278]:
+          - link "Apply" [ref=e1280] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/3707cd2f-202a-4aec-9de8-bf73a5a6e922
+          - link "Software Engineer - Platform Infrastructure Remote — Permanent New York, NY" [ref=e1281] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/3707cd2f-202a-4aec-9de8-bf73a5a6e922
+            - heading "Software Engineer - Platform Infrastructure" [level=5] [ref=e1282]
+            - generic [ref=e1283]:
+              - generic [ref=e1284]: Remote —
+              - generic [ref=e1285]: Permanent
+              - generic [ref=e1286]: New York, NY
+      - generic [ref=e1287]:
+        - generic [ref=e1288]: Podcast
+        - generic [ref=e1290]:
+          - link "Apply" [ref=e1292] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/454e6013-78ca-4009-9ad4-7597f2045d0a
+          - link "Backend Engineer, Podcast Remote — Permanent New York, NY" [ref=e1293] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/454e6013-78ca-4009-9ad4-7597f2045d0a
+            - heading "Backend Engineer, Podcast" [level=5] [ref=e1294]
+            - generic [ref=e1295]:
+              - generic [ref=e1296]: Remote —
+              - generic [ref=e1297]: Permanent
+              - generic [ref=e1298]: New York, NY
+        - generic [ref=e1299]:
+          - link "Apply" [ref=e1301] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/69524356-88f8-4a8e-b543-0198670e4ceb
+          - link "Full Stack Engineer - Podcast Remote — Permanent New York, NY" [ref=e1302] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/69524356-88f8-4a8e-b543-0198670e4ceb
+            - heading "Full Stack Engineer - Podcast" [level=5] [ref=e1303]
+            - generic [ref=e1304]:
+              - generic [ref=e1305]: Remote —
+              - generic [ref=e1306]: Permanent
+              - generic [ref=e1307]: New York, NY
+      - generic [ref=e1308]:
+        - generic [ref=e1309]: Security
+        - generic [ref=e1311]:
+          - link "Apply" [ref=e1313] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/fa4125a9-b99a-4c96-94ff-427d3da127d3
+          - link "Senior Security Engineer - Enterprise Security Hybrid — Permanent Stockholm / London" [ref=e1314] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/fa4125a9-b99a-4c96-94ff-427d3da127d3
+            - heading "Senior Security Engineer - Enterprise Security" [level=5] [ref=e1315]
+            - generic [ref=e1316]:
+              - generic [ref=e1317]: Hybrid —
+              - generic [ref=e1318]: Permanent
+              - generic [ref=e1319]: Stockholm / London
+      - generic [ref=e1320]:
+        - generic [ref=e1321]: Subscriptions R&D
+        - generic [ref=e1323]:
+          - link "Apply" [ref=e1325] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/95ee28cc-1339-48ea-993d-4efc3ea6db2c
+          - link "Engineering Manager - Subscriptions Hybrid — Permanent London / Stockholm" [ref=e1326] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/95ee28cc-1339-48ea-993d-4efc3ea6db2c
+            - heading "Engineering Manager - Subscriptions" [level=5] [ref=e1327]
+            - generic [ref=e1328]:
+              - generic [ref=e1329]: Hybrid —
+              - generic [ref=e1330]: Permanent
+              - generic [ref=e1331]: London / Stockholm
+        - generic [ref=e1332]:
+          - link "Apply" [ref=e1334] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/0b042afc-7dfb-4efe-bf96-123b4c3c447f
+          - link "Engineering Manager - Subscriptions Hybrid — Permanent New York, NY" [ref=e1335] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/0b042afc-7dfb-4efe-bf96-123b4c3c447f
+            - heading "Engineering Manager - Subscriptions" [level=5] [ref=e1336]
+            - generic [ref=e1337]:
+              - generic [ref=e1338]: Hybrid —
+              - generic [ref=e1339]: Permanent
+              - generic [ref=e1340]: New York, NY
+        - generic [ref=e1341]:
+          - link "Apply" [ref=e1343] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/aaa18791-cdb6-493a-87c8-ef233f848a99
+          - link "Engineering Manager – Messaging Platform & Tooling Hybrid — Permanent New York, NY" [ref=e1344] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/aaa18791-cdb6-493a-87c8-ef233f848a99
+            - heading "Engineering Manager – Messaging Platform & Tooling" [level=5] [ref=e1345]
+            - generic [ref=e1346]:
+              - generic [ref=e1347]: Hybrid —
+              - generic [ref=e1348]: Permanent
+              - generic [ref=e1349]: New York, NY
+        - generic [ref=e1350]:
+          - link "Apply" [ref=e1352] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/57247883-9d9f-44cb-aabc-d63553da53c2
+          - link "Machine Learning Engineer - Subscriptions Hybrid — Permanent New York, NY / Boston, MA" [ref=e1353] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/57247883-9d9f-44cb-aabc-d63553da53c2
+            - heading "Machine Learning Engineer - Subscriptions" [level=5] [ref=e1354]
+            - generic [ref=e1355]:
+              - generic [ref=e1356]: Hybrid —
+              - generic [ref=e1357]: Permanent
+              - generic [ref=e1358]: New York, NY / Boston, MA
+        - generic [ref=e1359]:
+          - link "Apply" [ref=e1361] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/88b0a5ea-65d8-4c0c-8d1f-c30989ea5c16
+          - link "Senior Backend Engineer - Commerce Platform Hybrid — Permanent London / Stockholm" [ref=e1362] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/88b0a5ea-65d8-4c0c-8d1f-c30989ea5c16
+            - heading "Senior Backend Engineer - Commerce Platform" [level=5] [ref=e1363]
+            - generic [ref=e1364]:
+              - generic [ref=e1365]: Hybrid —
+              - generic [ref=e1366]: Permanent
+              - generic [ref=e1367]: London / Stockholm
+        - generic [ref=e1368]:
+          - link "Apply" [ref=e1370] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/3b493d83-5f06-4483-af6f-f2c471fe06d8
+          - link "Senior Backend Engineer - Subscriptions Hybrid — Permanent London / Stockholm" [ref=e1371] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/3b493d83-5f06-4483-af6f-f2c471fe06d8
+            - heading "Senior Backend Engineer - Subscriptions" [level=5] [ref=e1372]
+            - generic [ref=e1373]:
+              - generic [ref=e1374]: Hybrid —
+              - generic [ref=e1375]: Permanent
+              - generic [ref=e1376]: London / Stockholm
+        - generic [ref=e1377]:
+          - link "Apply" [ref=e1379] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/2cd04b53-ecfc-4de1-8e12-eab125720520
+          - link "Senior Backend Engineer - Subscriptions Hybrid — Permanent London / Stockholm" [ref=e1380] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/2cd04b53-ecfc-4de1-8e12-eab125720520
+            - heading "Senior Backend Engineer - Subscriptions" [level=5] [ref=e1381]
+            - generic [ref=e1382]:
+              - generic [ref=e1383]: Hybrid —
+              - generic [ref=e1384]: Permanent
+              - generic [ref=e1385]: London / Stockholm
+        - generic [ref=e1386]:
+          - link "Apply" [ref=e1388] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/c857c37d-9fdc-4103-82cc-f1d252c120c3
+          - link "Senior Backend Engineer - Subscriptions Hybrid — Permanent London / Stockholm" [ref=e1389] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/c857c37d-9fdc-4103-82cc-f1d252c120c3
+            - heading "Senior Backend Engineer - Subscriptions" [level=5] [ref=e1390]
+            - generic [ref=e1391]:
+              - generic [ref=e1392]: Hybrid —
+              - generic [ref=e1393]: Permanent
+              - generic [ref=e1394]: London / Stockholm
+        - generic [ref=e1395]:
+          - link "Apply" [ref=e1397] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/0c364c03-4f52-4cbc-9dd1-8e2524d269ab
+          - link "Senior Fullstack Engineer - Commerce Platform Hybrid — Permanent London / Stockholm" [ref=e1398] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/0c364c03-4f52-4cbc-9dd1-8e2524d269ab
+            - heading "Senior Fullstack Engineer - Commerce Platform" [level=5] [ref=e1399]
+            - generic [ref=e1400]:
+              - generic [ref=e1401]: Hybrid —
+              - generic [ref=e1402]: Permanent
+              - generic [ref=e1403]: London / Stockholm
+        - generic [ref=e1404]:
+          - link "Apply" [ref=e1406] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/c322d068-5b59-4658-b618-bb2a032eeb9b
+          - link "Senior Machine Learning Engineer - Messaging Platform Hybrid — Permanent London / Stockholm" [ref=e1407] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/c322d068-5b59-4658-b618-bb2a032eeb9b
+            - heading "Senior Machine Learning Engineer - Messaging Platform" [level=5] [ref=e1408]
+            - generic [ref=e1409]:
+              - generic [ref=e1410]: Hybrid —
+              - generic [ref=e1411]: Permanent
+              - generic [ref=e1412]: London / Stockholm
+      - generic [ref=e1413]:
+        - generic [ref=e1414]: Finance
+        - generic [ref=e1415]: Accounting
+        - generic [ref=e1417]:
+          - link "Apply" [ref=e1419] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/88499546-e9f7-4403-87a5-240050bd7c5b
+          - link "Accounts Payable Analyst Hybrid — Permanent New York, NY" [ref=e1420] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/88499546-e9f7-4403-87a5-240050bd7c5b
+            - heading "Accounts Payable Analyst" [level=5] [ref=e1421]
+            - generic [ref=e1422]:
+              - generic [ref=e1423]: Hybrid —
+              - generic [ref=e1424]: Permanent
+              - generic [ref=e1425]: New York, NY
+        - generic [ref=e1426]:
+          - link "Apply" [ref=e1428] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/9d73abf3-2803-46f1-a0f5-4a997bdcb799
+          - link "Manager, Consolidation Hybrid — Permanent New York, NY" [ref=e1429] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/9d73abf3-2803-46f1-a0f5-4a997bdcb799
+            - heading "Manager, Consolidation" [level=5] [ref=e1430]
+            - generic [ref=e1431]:
+              - generic [ref=e1432]: Hybrid —
+              - generic [ref=e1433]: Permanent
+              - generic [ref=e1434]: New York, NY
+        - generic [ref=e1435]:
+          - link "Apply" [ref=e1437] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6fd139cd-e3cb-4913-91b2-b0af14b4c6f9
+          - link "Manager, Financial Reporting Hybrid — Permanent New York, NY" [ref=e1438] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6fd139cd-e3cb-4913-91b2-b0af14b4c6f9
+            - heading "Manager, Financial Reporting" [level=5] [ref=e1439]
+            - generic [ref=e1440]:
+              - generic [ref=e1441]: Hybrid —
+              - generic [ref=e1442]: Permanent
+              - generic [ref=e1443]: New York, NY
+        - generic [ref=e1444]:
+          - link "Apply" [ref=e1446] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/866478f0-981c-45c6-a628-d2bac8a9cb12
+          - link "Senior Accountant - APAC & Japan On-site — Permanent Singapore" [ref=e1447] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/866478f0-981c-45c6-a628-d2bac8a9cb12
+            - heading "Senior Accountant - APAC & Japan" [level=5] [ref=e1448]
+            - generic [ref=e1449]:
+              - generic [ref=e1450]: On-site —
+              - generic [ref=e1451]: Permanent
+              - generic [ref=e1452]: Singapore
+        - generic [ref=e1453]:
+          - link "Apply" [ref=e1455] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/32297d46-a347-4680-849c-1c56d0a2666a
+          - link "Senior Content Accountant On-site — Permanent New York, NY" [ref=e1456] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/32297d46-a347-4680-849c-1c56d0a2666a
+            - heading "Senior Content Accountant" [level=5] [ref=e1457]
+            - generic [ref=e1458]:
+              - generic [ref=e1459]: On-site —
+              - generic [ref=e1460]: Permanent
+              - generic [ref=e1461]: New York, NY
+      - generic [ref=e1462]:
+        - generic [ref=e1463]: Financial Planning and Analysis
+        - generic [ref=e1465]:
+          - link "Apply" [ref=e1467] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7374bb62-07bf-4541-8cb8-c7ea3c1fc41b
+          - link "Analyst, FP&A- Ads Hybrid — Permanent London" [ref=e1468] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7374bb62-07bf-4541-8cb8-c7ea3c1fc41b
+            - heading "Analyst, FP&A- Ads" [level=5] [ref=e1469]
+            - generic [ref=e1470]:
+              - generic [ref=e1471]: Hybrid —
+              - generic [ref=e1472]: Permanent
+              - generic [ref=e1473]: London
+        - generic [ref=e1474]:
+          - link "Apply" [ref=e1476] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/cc5ccf57-b851-4c25-8840-ed4cd0535c12
+          - link "Analyst, Licensing Finance – FP&A On-site — Permanent New York, NY" [ref=e1477] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/cc5ccf57-b851-4c25-8840-ed4cd0535c12
+            - heading "Analyst, Licensing Finance – FP&A" [level=5] [ref=e1478]
+            - generic [ref=e1479]:
+              - generic [ref=e1480]: On-site —
+              - generic [ref=e1481]: Permanent
+              - generic [ref=e1482]: New York, NY
+        - generic [ref=e1483]:
+          - link "Apply" [ref=e1485] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a7768944-809a-43bf-972e-7221d223331f
+          - link "Senior Analyst, FP&A, Music Publishing Deal Analysis Hybrid — Permanent New York, NY" [ref=e1486] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a7768944-809a-43bf-972e-7221d223331f
+            - heading "Senior Analyst, FP&A, Music Publishing Deal Analysis" [level=5] [ref=e1487]
+            - generic [ref=e1488]:
+              - generic [ref=e1489]: Hybrid —
+              - generic [ref=e1490]: Permanent
+              - generic [ref=e1491]: New York, NY
+        - generic [ref=e1492]:
+          - link "Apply" [ref=e1494] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/c643c970-a0e5-429b-bedf-48286bace11e
+          - link "Senior Manager, Finance – IRL Ventures On-site — Permanent New York, NY" [ref=e1495] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/c643c970-a0e5-429b-bedf-48286bace11e
+            - heading "Senior Manager, Finance – IRL Ventures" [level=5] [ref=e1496]
+            - generic [ref=e1497]:
+              - generic [ref=e1498]: On-site —
+              - generic [ref=e1499]: Permanent
+              - generic [ref=e1500]: New York, NY
+      - generic [ref=e1501]:
+        - generic [ref=e1502]: Legal
+        - generic [ref=e1503]: Legal
+        - generic [ref=e1505]:
+          - link "Apply" [ref=e1507] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/22437625-9527-4e5a-a6d2-a114a889db90
+          - link "Legal Counsel - Commerce & Subscriptions On-site — Permanent London" [ref=e1508] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/22437625-9527-4e5a-a6d2-a114a889db90
+            - heading "Legal Counsel - Commerce & Subscriptions" [level=5] [ref=e1509]
+            - generic [ref=e1510]:
+              - generic [ref=e1511]: On-site —
+              - generic [ref=e1512]: Permanent
+              - generic [ref=e1513]: London
+        - generic [ref=e1514]:
+          - link "Apply" [ref=e1516] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/f328ec07-194a-442d-af32-da40cbfd4f22
+          - link "Legal Counsel - Licensing & Business Development Hybrid — Permanent London / Stockholm" [ref=e1517] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/f328ec07-194a-442d-af32-da40cbfd4f22
+            - heading "Legal Counsel - Licensing & Business Development" [level=5] [ref=e1518]
+            - generic [ref=e1519]:
+              - generic [ref=e1520]: Hybrid —
+              - generic [ref=e1521]: Permanent
+              - generic [ref=e1522]: London / Stockholm
+        - generic [ref=e1523]:
+          - link "Apply" [ref=e1525] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7e7e90ab-e98e-4589-94a6-b83d52c4e20d
+          - link "Legal Counsel - Platform Liability On-site — Permanent New York, NY" [ref=e1526] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7e7e90ab-e98e-4589-94a6-b83d52c4e20d
+            - heading "Legal Counsel - Platform Liability" [level=5] [ref=e1527]
+            - generic [ref=e1528]:
+              - generic [ref=e1529]: On-site —
+              - generic [ref=e1530]: Permanent
+              - generic [ref=e1531]: New York, NY
+        - generic [ref=e1532]:
+          - link "Apply" [ref=e1534] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/c06439d5-1d38-4c0d-99d8-2c5431bec463
+          - link "Legal Counsel - Platform Liability On-site — Permanent London" [ref=e1535] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/c06439d5-1d38-4c0d-99d8-2c5431bec463
+            - heading "Legal Counsel - Platform Liability" [level=5] [ref=e1536]
+            - generic [ref=e1537]:
+              - generic [ref=e1538]: On-site —
+              - generic [ref=e1539]: Permanent
+              - generic [ref=e1540]: London
+        - generic [ref=e1541]:
+          - link "Apply" [ref=e1543] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/081ed07b-5f68-44b7-811a-66bdbee62554
+          - link "Legal Counsel - Product On-site — Permanent New York, NY / Stockholm" [ref=e1544] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/081ed07b-5f68-44b7-811a-66bdbee62554
+            - heading "Legal Counsel - Product" [level=5] [ref=e1545]
+            - generic [ref=e1546]:
+              - generic [ref=e1547]: On-site —
+              - generic [ref=e1548]: Permanent
+              - generic [ref=e1549]: New York, NY / Stockholm
+        - generic [ref=e1550]:
+          - link "Apply" [ref=e1552] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/1dbd6c89-4bd6-4970-9538-beb90e972fa8
+          - link "Legal Counsel, Music Publishing On-site — Permanent Singapore / Sydney" [ref=e1553] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/1dbd6c89-4bd6-4970-9538-beb90e972fa8
+            - heading "Legal Counsel, Music Publishing" [level=5] [ref=e1554]
+            - generic [ref=e1555]:
+              - generic [ref=e1556]: On-site —
+              - generic [ref=e1557]: Permanent
+              - generic [ref=e1558]: Singapore / Sydney
+        - generic [ref=e1559]:
+          - link "Apply" [ref=e1561] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/d7066333-3706-4ac9-a643-8b72ba2f278d
+          - link "Legal Counsel, Podcast Monetization On-site — Permanent Los Angeles, CA" [ref=e1562] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/d7066333-3706-4ac9-a643-8b72ba2f278d
+            - heading "Legal Counsel, Podcast Monetization" [level=5] [ref=e1563]
+            - generic [ref=e1564]:
+              - generic [ref=e1565]: On-site —
+              - generic [ref=e1566]: Permanent
+              - generic [ref=e1567]: Los Angeles, CA
+        - generic [ref=e1568]:
+          - link "Apply" [ref=e1570] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/69a69af3-5e68-43d1-ab26-3c13ac50b958
+          - link "Paralegal, Corporate and Compliance On-site — Permanent New York, NY" [ref=e1571] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/69a69af3-5e68-43d1-ab26-3c13ac50b958
+            - heading "Paralegal, Corporate and Compliance" [level=5] [ref=e1572]
+            - generic [ref=e1573]:
+              - generic [ref=e1574]: On-site —
+              - generic [ref=e1575]: Permanent
+              - generic [ref=e1576]: New York, NY
+      - generic [ref=e1577]:
+        - generic [ref=e1578]: Marketing
+        - generic [ref=e1579]: Marketing
+        - generic [ref=e1581]:
+          - link "Apply" [ref=e1583] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/560d49ea-e205-4b54-8b7b-3f577d2c65ff
+          - link "Experiential Marketing Manager On-site — Permanent Mumbai" [ref=e1584] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/560d49ea-e205-4b54-8b7b-3f577d2c65ff
+            - heading "Experiential Marketing Manager" [level=5] [ref=e1585]
+            - generic [ref=e1586]:
+              - generic [ref=e1587]: On-site —
+              - generic [ref=e1588]: Permanent
+              - generic [ref=e1589]: Mumbai
+        - generic [ref=e1590]:
+          - link "Apply" [ref=e1592] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/df72f34a-50e2-4095-907b-942c3445bbb8
+          - link "Head of Backstage Marketing Hybrid — Permanent New York, NY" [ref=e1593] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/df72f34a-50e2-4095-907b-942c3445bbb8
+            - heading "Head of Backstage Marketing" [level=5] [ref=e1594]
+            - generic [ref=e1595]:
+              - generic [ref=e1596]: Hybrid —
+              - generic [ref=e1597]: Permanent
+              - generic [ref=e1598]: New York, NY
+        - generic [ref=e1599]:
+          - link "Apply" [ref=e1601] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/bcdf7880-6ad8-447d-822a-8265a24fd336
+          - link "Head of Backstage Marketing Remote — Permanent Toronto" [ref=e1602] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/bcdf7880-6ad8-447d-822a-8265a24fd336
+            - heading "Head of Backstage Marketing" [level=5] [ref=e1603]
+            - generic [ref=e1604]:
+              - generic [ref=e1605]: Remote —
+              - generic [ref=e1606]: Permanent
+              - generic [ref=e1607]: Toronto
+      - generic [ref=e1608]:
+        - generic [ref=e1609]: Markets and Subscriber Growth
+        - generic [ref=e1610]: Marketing
+        - generic [ref=e1612]:
+          - link "Apply" [ref=e1614] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/62d3b686-3738-48a0-afa3-5e032c8969a2
+          - link "Experiential Marketing Manager, South Korea Hybrid — Permanent Seoul" [ref=e1615] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/62d3b686-3738-48a0-afa3-5e032c8969a2
+            - heading "Experiential Marketing Manager, South Korea" [level=5] [ref=e1616]
+            - generic [ref=e1617]:
+              - generic [ref=e1618]: Hybrid —
+              - generic [ref=e1619]: Permanent
+              - generic [ref=e1620]: Seoul
+        - generic [ref=e1621]:
+          - link "Apply" [ref=e1623] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7d4e94b7-ca5f-41a0-9222-5d6bb24e4950
+          - link "Manager, Growth Creative Strategy & Optimization - Markets & Subscribers Remote — Permanent New York, NY" [ref=e1624] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7d4e94b7-ca5f-41a0-9222-5d6bb24e4950
+            - heading "Manager, Growth Creative Strategy & Optimization - Markets & Subscribers" [level=5] [ref=e1625]
+            - generic [ref=e1626]:
+              - generic [ref=e1627]: Remote —
+              - generic [ref=e1628]: Permanent
+              - generic [ref=e1629]: New York, NY
+        - generic [ref=e1630]:
+          - link "Apply" [ref=e1632] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/5aeac023-dd35-4cc4-995f-62ac1ec7d85e
+          - link "Marketing Manager, Brand Experience Hybrid — Short Term Berlin" [ref=e1633] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/5aeac023-dd35-4cc4-995f-62ac1ec7d85e
+            - heading "Marketing Manager, Brand Experience" [level=5] [ref=e1634]
+            - generic [ref=e1635]:
+              - generic [ref=e1636]: Hybrid —
+              - generic [ref=e1637]: Short Term
+              - generic [ref=e1638]: Berlin
+      - generic [ref=e1639]:
+        - generic [ref=e1640]: Music Marketing
+        - generic [ref=e1642]:
+          - link "Apply" [ref=e1644] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/22f3ad1b-0dff-4058-8d1a-e7b02475413e
+          - link "Marketing Manager UK/IE Hybrid — Permanent London" [ref=e1645] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/22f3ad1b-0dff-4058-8d1a-e7b02475413e
+            - heading "Marketing Manager UK/IE" [level=5] [ref=e1646]
+            - generic [ref=e1647]:
+              - generic [ref=e1648]: Hybrid —
+              - generic [ref=e1649]: Permanent
+              - generic [ref=e1650]: London
+        - generic [ref=e1651]:
+          - link "Apply" [ref=e1653] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7747053a-43cd-4f6e-8bcc-94ef063cc49a
+          - link "Music Editor, Türkiye On-site — Permanent Dubai" [ref=e1654] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/7747053a-43cd-4f6e-8bcc-94ef063cc49a
+            - heading "Music Editor, Türkiye" [level=5] [ref=e1655]
+            - generic [ref=e1656]:
+              - generic [ref=e1657]: On-site —
+              - generic [ref=e1658]: Permanent
+              - generic [ref=e1659]: Dubai
+      - generic [ref=e1660]:
+        - generic [ref=e1661]: Operations and Strategy
+        - generic [ref=e1663]:
+          - link "Apply" [ref=e1665] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/063a7916-cd2b-4e61-a332-30364edf5199
+          - link "Data Scientist - Growth Analytics (Performance Marketing) On-site — Permanent New York, NY" [ref=e1666] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/063a7916-cd2b-4e61-a332-30364edf5199
+            - heading "Data Scientist - Growth Analytics (Performance Marketing)" [level=5] [ref=e1667]
+            - generic [ref=e1668]:
+              - generic [ref=e1669]: On-site —
+              - generic [ref=e1670]: Permanent
+              - generic [ref=e1671]: New York, NY
+        - generic [ref=e1672]:
+          - link "Apply" [ref=e1674] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a95830ad-c11f-49da-85a7-04ce47ce532c
+          - link "Data Scientist, Subscriptions On-site — Permanent New York, NY / Stockholm" [ref=e1675] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a95830ad-c11f-49da-85a7-04ce47ce532c
+            - heading "Data Scientist, Subscriptions" [level=5] [ref=e1676]
+            - generic [ref=e1677]:
+              - generic [ref=e1678]: On-site —
+              - generic [ref=e1679]: Permanent
+              - generic [ref=e1680]: New York, NY / Stockholm
+        - generic [ref=e1681]:
+          - link "Apply" [ref=e1683] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/fee22111-f04f-4ac2-88f0-07a0a5d8f4f3
+          - link "Data Scientist, Subscriptions On-site — Permanent London / Stockholm" [ref=e1684] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/fee22111-f04f-4ac2-88f0-07a0a5d8f4f3
+            - heading "Data Scientist, Subscriptions" [level=5] [ref=e1685]
+            - generic [ref=e1686]:
+              - generic [ref=e1687]: On-site —
+              - generic [ref=e1688]: Permanent
+              - generic [ref=e1689]: London / Stockholm
+        - generic [ref=e1690]:
+          - link "Apply" [ref=e1692] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a16e1738-56f4-489d-8964-3cb249351ca8
+          - link "Lead, User Growth Optimization On-site — Permanent London" [ref=e1693] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a16e1738-56f4-489d-8964-3cb249351ca8
+            - heading "Lead, User Growth Optimization" [level=5] [ref=e1694]
+            - generic [ref=e1695]:
+              - generic [ref=e1696]: On-site —
+              - generic [ref=e1697]: Permanent
+              - generic [ref=e1698]: London
+      - generic [ref=e1699]:
+        - generic [ref=e1700]: Premium Business
+        - generic [ref=e1702]:
+          - link "Apply" [ref=e1704] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/27038bc5-ae38-4c5c-b1f5-447242f6d596
+          - link "Growth Manager, Japan On-site — Permanent Tokyo" [ref=e1705] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/27038bc5-ae38-4c5c-b1f5-447242f6d596
+            - heading "Growth Manager, Japan" [level=5] [ref=e1706]
+            - generic [ref=e1707]:
+              - generic [ref=e1708]: On-site —
+              - generic [ref=e1709]: Permanent
+              - generic [ref=e1710]: Tokyo
+        - generic [ref=e1711]:
+          - link "Apply" [ref=e1713] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/520447cb-e8e9-460b-a55c-6f520fbf8039
+          - link "Manager, Partner Product and Delivery On-site — Permanent Miami, FL" [ref=e1714] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/520447cb-e8e9-460b-a55c-6f520fbf8039
+            - heading "Manager, Partner Product and Delivery" [level=5] [ref=e1715]
+            - generic [ref=e1716]:
+              - generic [ref=e1717]: On-site —
+              - generic [ref=e1718]: Permanent
+              - generic [ref=e1719]: Miami, FL
+        - generic [ref=e1720]:
+          - link "Apply" [ref=e1722] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/2392f20a-860f-41c5-868b-7a0cab665aa0
+          - link "Manager, Partner Product and Delivery On-site — Permanent São Paulo / Mexico City" [ref=e1723] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/2392f20a-860f-41c5-868b-7a0cab665aa0
+            - heading "Manager, Partner Product and Delivery" [level=5] [ref=e1724]
+            - generic [ref=e1725]:
+              - generic [ref=e1726]: On-site —
+              - generic [ref=e1727]: Permanent
+              - generic [ref=e1728]: São Paulo / Mexico City
+      - generic [ref=e1729]:
+        - generic [ref=e1730]: Studios / Podcasts
+        - generic [ref=e1732]:
+          - link "Apply" [ref=e1734] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/4bd695c7-5b23-47b1-92e1-2a5f0b0dcca3
+          - link "Senior Editor, Music Editorial - Nordics On-site — Permanent Stockholm" [ref=e1735] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/4bd695c7-5b23-47b1-92e1-2a5f0b0dcca3
+            - heading "Senior Editor, Music Editorial - Nordics" [level=5] [ref=e1736]
+            - generic [ref=e1737]:
+              - generic [ref=e1738]: On-site —
+              - generic [ref=e1739]: Permanent
+              - generic [ref=e1740]: Stockholm
+      - generic [ref=e1741]:
+        - generic [ref=e1742]: Operations and Business Support
+        - generic [ref=e1743]: Audio Books & Gated Content
+        - generic [ref=e1745]:
+          - link "Apply" [ref=e1747] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/0e41f05d-6099-4566-a7bb-529780533584
+          - link "Editor, Audiobooks – Southern Europe Hybrid — Permanent London / Madrid" [ref=e1748] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/0e41f05d-6099-4566-a7bb-529780533584
+            - heading "Editor, Audiobooks – Southern Europe" [level=5] [ref=e1749]
+            - generic [ref=e1750]:
+              - generic [ref=e1751]: Hybrid —
+              - generic [ref=e1752]: Permanent
+              - generic [ref=e1753]: London / Madrid
+        - generic [ref=e1754]:
+          - link "Apply" [ref=e1756] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/5f484d1f-46c3-47ac-8025-2b0cddaf0ccb
+          - link "Lead Producer, Audiobook Production Hybrid — Permanent New York, NY" [ref=e1757] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/5f484d1f-46c3-47ac-8025-2b0cddaf0ccb
+            - heading "Lead Producer, Audiobook Production" [level=5] [ref=e1758]
+            - generic [ref=e1759]:
+              - generic [ref=e1760]: Hybrid —
+              - generic [ref=e1761]: Permanent
+              - generic [ref=e1762]: New York, NY
+      - generic [ref=e1763]:
+        - generic [ref=e1764]: Music
+        - generic [ref=e1766]:
+          - link "Apply" [ref=e1768] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/4a68b983-4fc9-4933-be54-a919ddfaecd5
+          - link "Creative Business Strategies (CBS) Manager - Argentina Hybrid — Permanent Buenos Aires" [ref=e1769] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/4a68b983-4fc9-4933-be54-a919ddfaecd5
+            - heading "Creative Business Strategies (CBS) Manager - Argentina" [level=5] [ref=e1770]
+            - generic [ref=e1771]:
+              - generic [ref=e1772]: Hybrid —
+              - generic [ref=e1773]: Permanent
+              - generic [ref=e1774]: Buenos Aires
+        - generic [ref=e1775]:
+          - link "Apply" [ref=e1777] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a5a8a486-eb9d-4645-923e-13cb41c16129
+          - link "Creative Business Strategies (CBS) Manager - Colombia Hybrid — Permanent Bogotá" [ref=e1778] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a5a8a486-eb9d-4645-923e-13cb41c16129
+            - heading "Creative Business Strategies (CBS) Manager - Colombia" [level=5] [ref=e1779]
+            - generic [ref=e1780]:
+              - generic [ref=e1781]: Hybrid —
+              - generic [ref=e1782]: Permanent
+              - generic [ref=e1783]: Bogotá
+      - generic [ref=e1784]:
+        - generic [ref=e1785]: Platform
+        - generic [ref=e1787]:
+          - link "Apply" [ref=e1789] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/d33ef090-2e71-43a2-ac10-cb81dfb13489
+          - link "Account Executive - Backstage Hybrid — Permanent New York, NY" [ref=e1790] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/d33ef090-2e71-43a2-ac10-cb81dfb13489
+            - heading "Account Executive - Backstage" [level=5] [ref=e1791]
+            - generic [ref=e1792]:
+              - generic [ref=e1793]: Hybrid —
+              - generic [ref=e1794]: Permanent
+              - generic [ref=e1795]: New York, NY
+        - generic [ref=e1796]:
+          - link "Apply" [ref=e1798] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/1ff4a4e3-897c-4eab-9ee2-aa7d1d07a9d6
+          - link "Account Executive - Backstage Hybrid — Permanent Toronto" [ref=e1799] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/1ff4a4e3-897c-4eab-9ee2-aa7d1d07a9d6
+            - heading "Account Executive - Backstage" [level=5] [ref=e1800]
+            - generic [ref=e1801]:
+              - generic [ref=e1802]: Hybrid —
+              - generic [ref=e1803]: Permanent
+              - generic [ref=e1804]: Toronto
+        - generic [ref=e1805]:
+          - link "Apply" [ref=e1807] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/0eb478c8-b3e5-4722-91a1-dfbb1740d0fc
+          - link "Director of Sales - Backstage Remote — Permanent New York, NY" [ref=e1808] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/0eb478c8-b3e5-4722-91a1-dfbb1740d0fc
+            - heading "Director of Sales - Backstage" [level=5] [ref=e1809]
+            - generic [ref=e1810]:
+              - generic [ref=e1811]: Remote —
+              - generic [ref=e1812]: Permanent
+              - generic [ref=e1813]: New York, NY
+        - generic [ref=e1814]:
+          - link "Apply" [ref=e1816] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/5d1bd148-6d08-462b-8ce6-cf4428ad93ce
+          - link "Director of Sales - Backstage Hybrid — Toronto" [ref=e1817] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/5d1bd148-6d08-462b-8ce6-cf4428ad93ce
+            - heading "Director of Sales - Backstage" [level=5] [ref=e1818]
+            - generic [ref=e1819]:
+              - generic [ref=e1820]: Hybrid —
+              - generic [ref=e1821]: Toronto
+      - generic [ref=e1822]:
+        - generic [ref=e1823]: Trust & Safety
+        - generic [ref=e1825]:
+          - link "Apply" [ref=e1827] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/4a1eac30-5445-4b32-9df9-3d275bb60453
+          - link "Data Scientist II - Trust & Safety Hybrid — Permanent New York, NY / Boston, MA" [ref=e1828] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/4a1eac30-5445-4b32-9df9-3d275bb60453
+            - heading "Data Scientist II - Trust & Safety" [level=5] [ref=e1829]
+            - generic [ref=e1830]:
+              - generic [ref=e1831]: Hybrid —
+              - generic [ref=e1832]: Permanent
+              - generic [ref=e1833]: New York, NY / Boston, MA
+      - generic [ref=e1834]:
+        - generic [ref=e1835]: People
+        - generic [ref=e1836]: Global Workplace Services
+        - generic [ref=e1838]:
+          - link "Apply" [ref=e1840] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6adc685d-fe37-46bc-a221-5fd4552f2278
+          - link "Senior Project Manager - WorkplaceX Design & Build On-site — Permanent Stockholm" [ref=e1841] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/6adc685d-fe37-46bc-a221-5fd4552f2278
+            - heading "Senior Project Manager - WorkplaceX Design & Build" [level=5] [ref=e1842]
+            - generic [ref=e1843]:
+              - generic [ref=e1844]: On-site —
+              - generic [ref=e1845]: Permanent
+              - generic [ref=e1846]: Stockholm
+      - generic [ref=e1847]:
+        - generic [ref=e1848]: Human Resources
+        - generic [ref=e1850]:
+          - link "Apply" [ref=e1852] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/233ffaeb-ddf3-4b55-be1c-357cf05bfc21
+          - link "HR Generalist Japan On-site — Permanent Tokyo" [ref=e1853] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/233ffaeb-ddf3-4b55-be1c-357cf05bfc21
+            - heading "HR Generalist Japan" [level=5] [ref=e1854]
+            - generic [ref=e1855]:
+              - generic [ref=e1856]: On-site —
+              - generic [ref=e1857]: Permanent
+              - generic [ref=e1858]: Tokyo
+      - generic [ref=e1859]:
+        - generic [ref=e1860]: Product
+        - generic [ref=e1861]: Advertising R&D
+        - generic [ref=e1863]:
+          - link "Apply" [ref=e1865] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/008e0a44-088b-48f2-b100-cce07e40a45b
+          - link "Senior Product Manager - Advertising Remote — Permanent New York, NY" [ref=e1866] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/008e0a44-088b-48f2-b100-cce07e40a45b
+            - heading "Senior Product Manager - Advertising" [level=5] [ref=e1867]
+            - generic [ref=e1868]:
+              - generic [ref=e1869]: Remote —
+              - generic [ref=e1870]: Permanent
+              - generic [ref=e1871]: New York, NY
+      - generic [ref=e1872]:
+        - generic [ref=e1873]: Experience
+        - generic [ref=e1875]:
+          - link "Apply" [ref=e1877] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/f38133ce-c2d7-4473-ab69-6bdcb1703297
+          - link "Principal Product Manager, Experience On-site — Permanent New York, NY" [ref=e1878] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/f38133ce-c2d7-4473-ab69-6bdcb1703297
+            - heading "Principal Product Manager, Experience" [level=5] [ref=e1879]
+            - generic [ref=e1880]:
+              - generic [ref=e1881]: On-site —
+              - generic [ref=e1882]: Permanent
+              - generic [ref=e1883]: New York, NY
+        - generic [ref=e1884]:
+          - link "Apply" [ref=e1886] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/3e76b5e6-c86c-42eb-8be7-05d9246dd901
+          - link "Senior Product Manager, Core Experience (Playback) On-site — Permanent Stockholm / London" [ref=e1887] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/3e76b5e6-c86c-42eb-8be7-05d9246dd901
+            - heading "Senior Product Manager, Core Experience (Playback)" [level=5] [ref=e1888]
+            - generic [ref=e1889]:
+              - generic [ref=e1890]: On-site —
+              - generic [ref=e1891]: Permanent
+              - generic [ref=e1892]: Stockholm / London
+      - generic [ref=e1893]:
+        - generic [ref=e1894]: FinE
+        - generic [ref=e1896]:
+          - link "Apply" [ref=e1898] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/ba28dba6-91d0-49ce-881d-dbe2c2ae85e5
+          - link "Product Manager - Platform Tooling Remote — Stockholm" [ref=e1899] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/ba28dba6-91d0-49ce-881d-dbe2c2ae85e5
+            - heading "Product Manager - Platform Tooling" [level=5] [ref=e1900]
+            - generic [ref=e1901]:
+              - generic [ref=e1902]: Remote —
+              - generic [ref=e1903]: Stockholm
+      - generic [ref=e1904]:
+        - generic [ref=e1905]: Subscriptions R&D
+        - generic [ref=e1907]:
+          - link "Apply" [ref=e1909] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/b6e58287-4355-4f1d-9b56-3add5509b8e8
+          - link "Principal Product Manager - ML / Subscriptions Growth Remote — Permanent London / Stockholm" [ref=e1910] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/b6e58287-4355-4f1d-9b56-3add5509b8e8
+            - heading "Principal Product Manager - ML / Subscriptions Growth" [level=5] [ref=e1911]
+            - generic [ref=e1912]:
+              - generic [ref=e1913]: Remote —
+              - generic [ref=e1914]: Permanent
+              - generic [ref=e1915]: London / Stockholm
+        - generic [ref=e1916]:
+          - link "Apply" [ref=e1918] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/d30af7c7-67aa-404a-a1a5-b8b3838e08c3
+          - link "Senior Product Manager - ML / Subscriptions Growth Remote — Permanent London / Stockholm" [ref=e1919] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/d30af7c7-67aa-404a-a1a5-b8b3838e08c3
+            - heading "Senior Product Manager - ML / Subscriptions Growth" [level=5] [ref=e1920]
+            - generic [ref=e1921]:
+              - generic [ref=e1922]: Remote —
+              - generic [ref=e1923]: Permanent
+              - generic [ref=e1924]: London / Stockholm
+        - generic [ref=e1925]:
+          - link "Apply" [ref=e1927] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/aced8bea-4eef-435b-b32f-734ca776d31e
+          - link "Senior Product Manager - Subscriptions Mission Remote — Permanent London / Stockholm" [ref=e1928] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/aced8bea-4eef-435b-b32f-734ca776d31e
+            - heading "Senior Product Manager - Subscriptions Mission" [level=5] [ref=e1929]
+            - generic [ref=e1930]:
+              - generic [ref=e1931]: Remote —
+              - generic [ref=e1932]: Permanent
+              - generic [ref=e1933]: London / Stockholm
+      - generic [ref=e1934]:
+        - generic [ref=e1935]: Public Affairs
+        - generic [ref=e1936]: Government Affairs
+        - generic [ref=e1938]:
+          - link "Apply" [ref=e1940] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/d786c214-f6d8-4df6-b6e1-58d2e1e73a4b
+          - link "Executive Assistant - Government Affairs On-site — Permanent Washington D.C." [ref=e1941] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/d786c214-f6d8-4df6-b6e1-58d2e1e73a4b
+            - heading "Executive Assistant - Government Affairs" [level=5] [ref=e1942]
+            - generic [ref=e1943]:
+              - generic [ref=e1944]: On-site —
+              - generic [ref=e1945]: Permanent
+              - generic [ref=e1946]: Washington D.C.
+        - generic [ref=e1947]:
+          - link "Apply" [ref=e1949] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/dcf7cb46-c11d-4704-a034-9bfdd64a0aa1
+          - link "Government Affairs Lead, Türkiye On-site — Permanent Dubai" [ref=e1950] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/dcf7cb46-c11d-4704-a034-9bfdd64a0aa1
+            - heading "Government Affairs Lead, Türkiye" [level=5] [ref=e1951]
+            - generic [ref=e1952]:
+              - generic [ref=e1953]: On-site —
+              - generic [ref=e1954]: Permanent
+              - generic [ref=e1955]: Dubai
+        - generic [ref=e1956]:
+          - link "Apply" [ref=e1958] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/ae44a3a6-ce50-45c1-9a17-76644c0a234d
+          - link "Head of Government Affairs Australia New Zealand On-site — Permanent Sydney" [ref=e1959] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/ae44a3a6-ce50-45c1-9a17-76644c0a234d
+            - heading "Head of Government Affairs Australia New Zealand" [level=5] [ref=e1960]
+            - generic [ref=e1961]:
+              - generic [ref=e1962]: On-site —
+              - generic [ref=e1963]: Permanent
+              - generic [ref=e1964]: Sydney
+        - generic [ref=e1965]:
+          - link "Apply" [ref=e1967] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/1849318a-d2e4-48a6-adad-68f8a4518f7d
+          - link "Senior Manager, EU Government Affairs Hybrid — Permanent Brussels" [ref=e1968] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/1849318a-d2e4-48a6-adad-68f8a4518f7d
+            - heading "Senior Manager, EU Government Affairs" [level=5] [ref=e1969]
+            - generic [ref=e1970]:
+              - generic [ref=e1971]: Hybrid —
+              - generic [ref=e1972]: Permanent
+              - generic [ref=e1973]: Brussels
+      - generic [ref=e1974]:
+        - generic [ref=e1975]: PR & Communications
+        - generic [ref=e1977]:
+          - link "Apply" [ref=e1979] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/5fce53f3-83dd-4b6a-9058-a2c295560966
+          - link "Global Associate Director, Experiential & Content Production On-site — Permanent New York, NY" [ref=e1980] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/5fce53f3-83dd-4b6a-9058-a2c295560966
+            - heading "Global Associate Director, Experiential & Content Production" [level=5] [ref=e1981]
+            - generic [ref=e1982]:
+              - generic [ref=e1983]: On-site —
+              - generic [ref=e1984]: Permanent
+              - generic [ref=e1985]: New York, NY
+        - generic [ref=e1986]:
+          - link "Apply" [ref=e1988] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a4e4d070-8445-47d3-8929-5907d00c8d2f
+          - link "Manager, Product & Technology Communications On-site — London" [ref=e1989] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/a4e4d070-8445-47d3-8929-5907d00c8d2f
+            - heading "Manager, Product & Technology Communications" [level=5] [ref=e1990]
+            - generic [ref=e1991]:
+              - generic [ref=e1992]: On-site —
+              - generic [ref=e1993]: London
+      - generic [ref=e1994]:
+        - generic [ref=e1995]: Trust & Safety
+        - generic [ref=e1997]:
+          - link "Apply" [ref=e1999] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/ba29b2ad-cd70-4b7e-a112-c2899def47f9
+          - link "Executive Assistant - Trust & Safety Hybrid — Permanent New York, NY" [ref=e2000] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/ba29b2ad-cd70-4b7e-a112-c2899def47f9
+            - heading "Executive Assistant - Trust & Safety" [level=5] [ref=e2001]
+            - generic [ref=e2002]:
+              - generic [ref=e2003]: Hybrid —
+              - generic [ref=e2004]: Permanent
+              - generic [ref=e2005]: New York, NY
+        - generic [ref=e2006]:
+          - link "Apply" [ref=e2008] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/36f9ad26-f827-463a-9737-3c9acf374500
+          - link "Manager - Monetized Policy Operations, Global Lead Remote — Permanent Dublin" [ref=e2009] [cursor=pointer]:
+            - /url: https://jobs.lever.co/spotify/36f9ad26-f827-463a-9737-3c9acf374500
+            - heading "Manager - Monetized Policy Operations, Global Lead" [level=5] [ref=e2010]
+            - generic [ref=e2011]:
+              - generic [ref=e2012]: Remote —
+              - generic [ref=e2013]: Permanent
+              - generic [ref=e2014]: Dublin
+  - generic [ref=e2016]:
+    - paragraph [ref=e2017]:
+      - link "Spotify Home Page" [ref=e2018] [cursor=pointer]:
+        - /url: http://spotifyjobs.com
+    - paragraph [ref=e2020]: "We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. Find our AI notice here: https://lifeatspotify.com/ai-notice"
+    - link "Jobs powered by Lever logo" [ref=e2021] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e2022]: Jobs powered by
+      - img "Lever logo" [ref=e2023]

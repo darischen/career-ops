@@ -1,0 +1,278 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "PagerDuty Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://www.pagerduty.com/careers/
+        - img "PagerDuty Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/pagerduty
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e13]: New
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - heading "Software Engineer I - Core Product - Notification Platform Team" [level=1] [ref=e16]
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e20]: Toronto
+          - button "Apply" [ref=e21] [cursor=pointer]
+        - generic [ref=e22]:
+          - paragraph [ref=e24]: PagerDuty (NYSE:PD) is a leader in Digital Operations Management. In an always-on world, organizations of all sizes trust PagerDuty to help them deliver a perfect digital experience to their customers, every time. Teams use PagerDuty to identify issues and opportunities in real time and bring together the right people to fix problems faster and prevent them in the future. Over 13,000 organizations (including 60 of Fortune 100) rely on PagerDuty to succeed with Digital Transformation, Cloud Migration, and DevOps Modernization. Notable customers include GE, Cisco, Genentech, Electronic Arts, Cox Automotive, Netflix, Shopify, Zoom, DoorDash, Lululemon and more. We are expanding rapidly as a platform for Digital Operations Management using AI/ML and Automation and growing our adoption by Development, IT, Customer Service, Security, and other teams across the organization.
+          - generic [ref=e25]:
+            - paragraph [ref=e26]:
+              - text: We're seeking a
+              - strong [ref=e27]: Software Engineer I
+              - text: to join PagerDuty's Notification Platform team. You'll be instrumental in developing and enhancing our event-driven notification systems, ensuring our customers receive critical alerts promptly and reliably. Our platform is a leader in high-reliability and resiliency, delivering notifications across SMS, Voice, Push, email, and other vital channels.
+            - paragraph [ref=e28]:
+              - text: As a
+              - strong [ref=e29]: Software Development Engineer I
+              - text: ", you’ll contribute to a core platform that sits at the heart of our Operations Cloud, learning from experienced mentors while shipping impactful, reliable software. You’ll collaborate across teams, grow your systems thinking, and see your work translate into meaningful outcomes for customers—faster recovery, fewer disruptions, and more time for teams to innovate."
+            - heading "Key Responsibilities" [level=4] [ref=e30]:
+              - strong [ref=e31]: Key Responsibilities
+            - list [ref=e32]:
+              - listitem [ref=e33]: "Ship product features end-to-end with guidance: design, implement, test, deploy, and iterate"
+              - listitem [ref=e34]: Write clean, maintainable, and well-tested code in our primary stack (e.g., Elixir, Java, JavaScript/Typescript, React)
+              - listitem [ref=e35]: Review peers’ code and incorporate feedback to raise code quality and consistency
+              - listitem [ref=e36]: Build and maintain automated tests (unit, integration) and help keep CI/CD pipelines healthy
+              - listitem [ref=e37]: Use dashboards to monitor and improve performance and reliability
+              - listitem [ref=e38]: Fix bugs, address regressions quickly, and learn from incidents
+              - listitem [ref=e39]: Follow secure coding practices and help protect user data and systems
+              - listitem [ref=e40]: Document decisions, APIs, and onboarding notes for future maintainers
+              - listitem [ref=e41]: Participate in agile rituals (standups, planning, retros) and communicate progress/risks early
+              - listitem [ref=e42]: Participate in the team's on-call rotation, after extensive training & mentorship
+              - listitem [ref=e43]: Collaborate closely with product, design, and other engineers to scope work and break down tasks
+            - heading "Basic Qualifications" [level=4] [ref=e44]:
+              - strong [ref=e45]: Basic Qualifications
+            - list [ref=e46]:
+              - listitem [ref=e47]: "Strong CS fundamentals: data structures, algorithms, complexity, and basic systems design"
+              - listitem [ref=e48]: Basic understanding of modern distributed asynchronous systems
+              - listitem [ref=e49]: Proficiency in at least one modern programming language (e.g., Python, Java, TypeScript/JavaScript, Go, or Ruby)
+              - listitem [ref=e50]: Solid understanding of web or service development basics (APIs, HTTP, JSON, REST)
+              - listitem [ref=e51]: Familiarity with version control and collaborative workflows (Git, pull requests, code reviews)
+              - listitem [ref=e52]: "Test-first mindset: can write unit/integration tests and reason about correctness"
+            - heading "Preferred Qualifications" [level=4] [ref=e53]:
+              - strong [ref=e54]: Preferred Qualifications
+            - list [ref=e55]:
+              - listitem [ref=e56]: Clear, concise communication and a collaborative, growth-oriented attitude
+              - listitem [ref=e57]: Bachelor’s degree in Computer Science or related field, or equivalent practical experience
+            - paragraph [ref=e58]
+            - paragraph [ref=e59]: PagerDuty is a flexible, hybrid workplace. We embrace and encourage in-person working as an integral part of our culture. Both our employees and external research tells us that co-located collaboration strengthens connections, drives innovation, and accelerates learning.
+            - paragraph [ref=e60]:
+              - strong [ref=e61]: This role is expected to
+              - text: come into our
+              - strong [ref=e62]: Toronto office 2 days per week
+              - text: ", so you can thrive in your new role and fully embrace being a Dutonian!"
+            - paragraph [ref=e63]:
+              - strong [ref=e64]: The base salary range for this position is 97,000 - 147,000 CAD.
+              - text: This role may also be eligible for bonus, commission, equity, and/or benefits.
+            - paragraph [ref=e65]: Our base salary ranges are determined by role, level, and location. The range, which is subject to change based on primary work location, reflects the minimum and maximum base salary we expect to pay newly hired employees for the position. Within the range, we determine pay for an individual based on a number of factors including market location, job-related knowledge, skills/competencies and experience.
+            - paragraph [ref=e66]: Your recruiter can share more about the specific offerings for this role, as well as the salary range for your primary work location during the hiring process.
+          - generic [ref=e67]:
+            - paragraph [ref=e68]:
+              - strong [ref=e69]: Hesitant to apply?
+            - paragraph [ref=e70]:
+              - text: We encourage you to submit your resume even if you don't meet every requirement. We value potential and consider each candidate's full professional story. Whether you're exploring a career change or taking your next step, we look forward to reviewing your application. If this just isn’t the right role or time - sign up for
+              - link "job alerts" [ref=e71] [cursor=pointer]:
+                - /url: https://careers.pagerduty.com/jobalerts
+              - text: "!"
+            - paragraph [ref=e72]:
+              - strong [ref=e73]: Where we work
+            - paragraph [ref=e74]:
+              - text: PagerDuty operates a hybrid work model with
+              - link "offices" [ref=e75] [cursor=pointer]:
+                - /url: https://careers.pagerduty.com/locations
+              - text: "in 8 major cities: Atlanta, Lisbon, London, San Francisco, Santiago, Sydney, Tokyo, and Toronto. While we offer flexibility within our established locations, we"
+              - strong [ref=e76]: cannot
+              - text: "employ candidates residing in:"
+            - paragraph [ref=e77]:
+              - strong [ref=e78]: "Location restrictions:"
+              - strong
+              - strong [ref=e79]: "Australia:"
+              - text: Northern Territory, Queensland, South Australia, Tasmania, Western Australia
+              - strong [ref=e80]: "Canada:"
+              - text: Alberta, Manitoba, Newfoundland, Northwest Territories, Nunavut, PEI, Quebec, Saskatchewan, Yukon
+              - strong [ref=e81]: "United States:"
+              - text: Alaska, Hawaii, Iowa, Louisiana, Mississippi, Nebraska, New Mexico, Oklahoma, Rhode Island, South Dakota, West Virginia, Wyoming
+              - emphasis [ref=e82]: Candidates must reside in an eligible location, which vary by role.
+            - paragraph [ref=e83]:
+              - strong [ref=e84]: How we work
+            - paragraph [ref=e85]:
+              - link "Our values" [ref=e86] [cursor=pointer]:
+                - /url: https://careers.pagerduty.com/#values
+              - text: guide how we support customers, collaborate with colleagues, develop products, and foster a culture of belonging. They define not just our actions, but what it means to be Dutonian.
+            - paragraph [ref=e87]: "People Leaders at PagerDuty are responsible for creating high performance environments that drive accountability. PagerDuty has four key dimensions that define our Leadership Impact: Lead Self, Lead the Team, Lead the Business, and Lead the Future. Each dimension has three associated competencies to give leaders a shared language for guiding their development, career, promotion, and succession planning discussions. Our Manager Expectations serve as a practical guide for managers to understand their responsibilities, prioritize their efforts, and drive engagement and performance."
+            - paragraph [ref=e88]:
+              - strong [ref=e89]: What we offer
+            - paragraph [ref=e90]:
+              - text: As a global organization, our total rewards approach is competitive with industry standards and aligned with local laws and regulations. Learn more, including country-specific offerings, on our
+              - link "benefits site" [ref=e91] [cursor=pointer]:
+                - /url: https://careers.pagerduty.com/global-benefits
+              - text: .
+            - paragraph [ref=e92]:
+              - strong [ref=e93]: "Your package may include:"
+            - list [ref=e94]:
+              - listitem [ref=e95]: Competitive salary
+              - listitem [ref=e96]: Comprehensive benefits package
+              - listitem [ref=e97]: Flexible work arrangements
+              - listitem [ref=e98]: Company equity*
+              - listitem [ref=e99]: ESPP (Employee Stock Purchase Program)*
+              - listitem [ref=e100]: Retirement or pension plan*
+              - listitem [ref=e101]: Generous paid vacation time
+              - listitem [ref=e102]: Paid holidays and sick leave
+              - listitem [ref=e103]: Dutonian Wellness Days & HibernationDuty - companywide paid days off in addition to PTO
+              - listitem [ref=e104]: "Paid parental leave: 22 weeks for pregnant parent, 12 weeks for non-pregnant parent (some countries have longer leave standards and we comply with local laws)*"
+              - listitem [ref=e105]: "Paid volunteer time off: 20 hours per year"
+              - listitem [ref=e106]: Company-wide hack weeks
+              - listitem [ref=e107]: Mental wellness programs
+            - paragraph [ref=e108]: "*Eligibility may vary by role, region, and tenure"
+            - paragraph [ref=e109]:
+              - strong [ref=e110]: About PagerDuty
+            - paragraph [ref=e111]: PagerDuty, Inc. (NYSE:PD) is a global leader in digital operations management. The PagerDuty Operations Cloud is an AI-powered platform that empowers business resilience and drives operational efficiency for enterprises. With a generative AI assistant at its core, PagerDuty empowers teams to detect and resolve issues in real time, orchestrate complex workflows, and drive continuous improvement across their digital operations. Trusted by nearly half of both the Fortune 500 and the Forbes AI 50, as well as approximately two-thirds of the Fortune 100, PagerDuty is essential for delivering always-on digital experiences to modern businesses
+            - paragraph [ref=e112]: PagerDuty is Great Place to Work-certified™, a Fortune Best Workplace for Millennials, a Fortune Best Medium Workplace, a Fortune Best Workplace in Technology, and a top rated product on TrustRadius and G2.
+            - paragraph [ref=e113]:
+              - text: Go behind-the-scenes on our
+              - link "careers site" [ref=e114] [cursor=pointer]:
+                - /url: https://careers.pagerduty.com/home
+              - text: and @pagerduty on Instagram.
+            - paragraph [ref=e115]:
+              - strong [ref=e116]: Additional Information
+            - paragraph [ref=e117]:
+              - text: PagerDuty is an equal opportunity employer. PagerDuty does not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, parental status, veteran status, or disability status. Your privacy is important to us. By submitting an application, you confirm that you have read and understand PagerDuty's
+              - link "Privacy Policy" [ref=e118] [cursor=pointer]:
+                - /url: https://www.pagerduty.com/privacy-policy/
+              - text: .
+            - paragraph [ref=e119]: PagerDuty is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application process. Should you require accommodation, please email accommodation@pagerduty.com and we will work with you to meet your accessibility needs.
+            - paragraph [ref=e120]: PagerDuty uses the E-Verify employment verification program.
+      - separator [ref=e121]
+      - generic [ref=e122]:
+        - generic [ref=e124]:
+          - heading "Apply for this job" [level=2] [ref=e126]
+          - generic [ref=e127]:
+            - paragraph [ref=e129]: "*"
+            - paragraph [ref=e130]: indicates a required field
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - generic [ref=e135]:
+              - generic [ref=e136]: First Name*
+              - textbox "First Name" [ref=e137]
+            - generic [ref=e140]:
+              - generic [ref=e141]: Last Name*
+              - textbox "Last Name" [ref=e142]
+            - generic [ref=e145]:
+              - generic [ref=e146]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e147]
+            - generic [ref=e150]:
+              - generic [ref=e151]: Email*
+              - textbox "Email" [ref=e152]
+            - group "Phone" [ref=e154]:
+              - generic [ref=e155]: Phone
+              - generic [ref=e158]:
+                - generic [ref=e159]: Country
+                - generic [ref=e160]:
+                  - log [ref=e162]
+                  - generic [ref=e164]:
+                    - combobox "Country" [ref=e167]
+                    - button "Toggle flyout" [ref=e169] [cursor=pointer]:
+                      - img [ref=e170]
+              - generic [ref=e174]:
+                - generic [ref=e175]: Phone
+                - textbox "Phone" [ref=e176]
+            - group "Resume/CV" [ref=e178]:
+              - generic [ref=e179]: Resume/CV
+              - generic [ref=e181]:
+                - generic [ref=e183]:
+                  - button "Attach" [ref=e184] [cursor=pointer]
+                  - generic [ref=e185]: Attach
+                  - button "Attach" [ref=e186]
+                - button "Dropbox" [ref=e188] [cursor=pointer]
+                - button "Google Drive" [ref=e190] [cursor=pointer]
+                - generic [ref=e192]:
+                  - button "Enter manually" [ref=e193] [cursor=pointer]
+                  - generic [ref=e194]: Enter manually
+                - paragraph [ref=e195]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e197]:
+              - generic [ref=e198]: Cover Letter
+              - generic [ref=e200]:
+                - generic [ref=e202]:
+                  - button "Attach" [ref=e203] [cursor=pointer]
+                  - generic [ref=e204]: Attach
+                  - button "Attach" [ref=e205]
+                - button "Dropbox" [ref=e207] [cursor=pointer]
+                - button "Google Drive" [ref=e209] [cursor=pointer]
+                - generic [ref=e211]:
+                  - button "Enter manually" [ref=e212] [cursor=pointer]
+                  - generic [ref=e213]: Enter manually
+                - paragraph [ref=e214]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e215]:
+            - separator [ref=e216]
+            - generic [ref=e219]:
+              - generic [ref=e220]: Do you live within 80 KM's of our office in downtown Toronto? *
+              - generic [ref=e221]:
+                - log [ref=e223]
+                - generic [ref=e225]:
+                  - generic [ref=e226]:
+                    - generic [ref=e227]: Select...
+                    - combobox "Do you live within 80 KM's of our office in downtown Toronto?" [ref=e229]
+                  - button "Toggle flyout" [ref=e231] [cursor=pointer]:
+                    - img [ref=e232]
+                - textbox
+            - generic [ref=e236]:
+              - generic [ref=e237]: Are you willing to go into the office 2 days a week? *
+              - generic [ref=e238]:
+                - log [ref=e240]
+                - generic [ref=e242]:
+                  - generic [ref=e243]:
+                    - generic [ref=e244]: Select...
+                    - combobox "Are you willing to go into the office 2 days a week?" [ref=e246]
+                  - button "Toggle flyout" [ref=e248] [cursor=pointer]:
+                    - img [ref=e249]
+                - textbox
+            - generic [ref=e253]:
+              - generic [ref=e254]: Do you now, or in the future, require sponsorship to work for PagerDuty?*
+              - generic [ref=e255]:
+                - log [ref=e257]
+                - generic [ref=e259]:
+                  - generic [ref=e260]:
+                    - generic [ref=e261]: Select...
+                    - combobox "Do you now, or in the future, require sponsorship to work for PagerDuty?" [ref=e263]
+                  - button "Toggle flyout" [ref=e265] [cursor=pointer]:
+                    - img [ref=e266]
+                - textbox
+            - generic [ref=e268]:
+              - generic [ref=e270]:
+                - generic [ref=e271]: While we offer workplace flexibility, we are currently unable to employ candidates residing in select provinces or states (see below). Do you reside in one of these regions?*
+                - generic [ref=e272]:
+                  - log [ref=e274]
+                  - generic [ref=e276]:
+                    - generic [ref=e277]:
+                      - generic [ref=e278]: Select...
+                      - combobox "While we offer workplace flexibility, we are currently unable to employ candidates residing in select provinces or states (see below). Do you reside in one of these regions?" [ref=e280]
+                    - button "Toggle flyout" [ref=e282] [cursor=pointer]:
+                      - img [ref=e283]
+                  - textbox
+              - generic [ref=e286]:
+                - paragraph [ref=e287]:
+                  - text: "PagerDuty operates a hybrid work model with offices in 8 major cities: Atlanta, Lisbon, London, San Francisco, Santiago, Sydney, Tokyo, and Toronto. While we offer flexibility within our established locations, we"
+                  - strong [ref=e288]: cannot
+                  - text: "employ candidates residing in:"
+                - paragraph [ref=e289]:
+                  - strong [ref=e290]: "Australia:"
+                  - text: Northern Territory, Queensland, South Australia, Tasmania, Western Australia
+                  - strong [ref=e291]: "Canada:"
+                  - text: Alberta, Manitoba, Newfoundland, Northwest Territories, Nunavut, PEI, Quebec, Saskatchewan, Yukon
+                  - strong [ref=e292]: "United States:"
+                  - text: Alaska, Iowa, Louisiana, Mississippi, Nebraska, New Mexico, Oklahoma, Rhode Island, South Dakota, West Virginia, Wyoming
+            - generic [ref=e295]:
+              - generic [ref=e296]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e297]
+            - generic [ref=e300]:
+              - generic [ref=e301]: Website
+              - textbox "Website" [ref=e302]
+          - button "Submit application" [ref=e304] [cursor=pointer]
+  - contentinfo [ref=e305]:
+    - generic [ref=e306]:
+      - paragraph [ref=e307]: Powered by
+      - link "Greenhouse logo" [ref=e308] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e309]

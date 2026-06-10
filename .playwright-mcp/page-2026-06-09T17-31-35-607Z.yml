@@ -1,0 +1,141 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Encord" [ref=e6] [cursor=pointer]:
+        - /url: https://encord.com/
+        - img "Encord" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Encord’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /encord
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Commercial Associate, Physical AI" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]:
+            - generic [ref=e29]: GTM ›
+            - generic [ref=e30]: Sales ›
+            - generic [ref=e31]: Commercial Associate
+        - generic [ref=e32]:
+          - heading "Compensation" [level=2] [ref=e33]
+          - list [ref=e34]:
+            - listitem [ref=e35]:
+              - generic [ref=e36]: $85K – $120K • Offers Equity • Offers Commission
+          - paragraph [ref=e38]: The amount listed is the on-target cash compensation (OTE) and includes base compensation and variable compensation in the form of either a company bonus or commission.
+      - generic [ref=e39]:
+        - tablist [ref=e40]:
+          - tab "Overview" [selected] [ref=e41] [cursor=pointer]
+          - tab "Application" [ref=e42] [cursor=pointer]
+        - tabpanel "Overview" [ref=e44]:
+          - generic [ref=e45]:
+            - paragraph [ref=e46]:
+              - strong [ref=e47]: About us
+            - paragraph [ref=e48]: Encord is the universal data layer for AI that helps 300+ AI teams train and run models on the right data. Our platform indexes, curates, annotates, and evaluates data across the full AI lifecycle, from development through production.
+            - paragraph [ref=e50]: Trusted by Woven by Toyota, AXA, UiPath, Zipline, and more. We're an ambitious team of 100+ working at the frontier of AI and have raised $60M in Series C funding from Wellington Management, CRV, Next47 and Y Combinator.
+            - paragraph [ref=e52]:
+              - strong [ref=e53]: The role
+            - paragraph [ref=e54]: Encord is scaling rapidly. We've achieved strong product–market fit and have a clear path to significantly accelerate revenue this year. In Physical AI alone, we've grown revenue 10x over the past 12 months — and we're just getting started.
+            - paragraph [ref=e56]: Now, we're looking for exceptional sales talent to help build and scale the Physical AI business from the ground up.
+            - paragraph [ref=e58]: Reporting to the Head of Physical AI and partnering closely with our founders and leadership team, you'll take a category-defining AI infrastructure platform to market — selling to some of the most advanced AI teams in the world as we expand from Digital into Physical AI use cases. This is a high ownership, individual contributor role with a path to grow responsibilities from sourcing to supporting on deals and progressing into owning full cycle sales. This is not a traditional BDR role.
+            - paragraph [ref=e60]: "You'll be an early sales hire with real ownership across the top and middle of the funnel. You'll help shape how we identify, engage, and convert the right customers as we scale — while building the foundations of a long-term sales career. You'll sit at the intersection of outbound strategy, customer discovery, and deal execution. From day one, you'll be expected to think like a seller: prioritizing the right accounts, crafting thoughtful outreach, and partnering closely with the quota carriers to move real opportunities forward."
+            - paragraph [ref=e62]: "This is a rare opportunity to join at the inflection point: with proven PMF and clear dominance in Digital AI — and now doubling down on Physical AI, one of the most transformative technological revolutions of our time."
+            - paragraph [ref=e64]: You won't just be joining a rocket ship — you'll help steer it.
+            - paragraph [ref=e66]:
+              - strong [ref=e67]: What you'll do
+            - list [ref=e68]:
+              - listitem [ref=e69]:
+                - paragraph [ref=e70]: Identify, research, and prioritize high-potential accounts across Encord’s core verticals and regions
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]: Develop strong points of view on who to target and why
+              - listitem [ref=e73]:
+                - paragraph [ref=e74]: Execute thoughtful, multi-channel outbound (email, LinkedIn, calls, creative plays)
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: Craft messaging that resonates with technical and commercial buyers
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: Partner with Growth and Sales to test campaigns, refine targeting, and improve conversion
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Own outcomes, not just activity — quality opportunities matter more than volume
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: Work directly with Account Executives to progress live opportunities
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: Support discovery, demos, trials, and follow-ups
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: Help shape business cases and stakeholder mapping
+              - listitem [ref=e87]:
+                - paragraph [ref=e88]: Ensure a high-quality, consistent prospect experience
+              - listitem [ref=e89]:
+                - paragraph [ref=e90]: Learn how complex, technical B2B deals actually get done
+            - paragraph [ref=e92]:
+              - strong [ref=e93]: Who we're looking for
+            - list [ref=e94]:
+              - listitem [ref=e95]:
+                - paragraph [ref=e96]: You’re ambitious, curious, and want to build a commercial career
+              - listitem [ref=e97]:
+                - paragraph [ref=e98]: You’ve consistently performed in the top percentile of what you’ve done — academically, professionally, or competitively
+              - listitem [ref=e99]:
+                - paragraph [ref=e100]: You’re motivated by ownership, learning, and long-term growth, not just title or short-term compensation
+              - listitem [ref=e101]:
+                - paragraph [ref=e102]: You enjoy figuring out why something works, not just following a script
+              - listitem [ref=e103]:
+                - paragraph [ref=e104]: You’re comfortable operating with ambiguity and high expectations
+              - listitem [ref=e105]:
+                - paragraph [ref=e106]: You can engage with technical concepts without losing sight of business outcomes
+              - listitem [ref=e107]:
+                - paragraph [ref=e108]: You want to be part of building something — not just maintaining it
+              - listitem [ref=e109]:
+                - paragraph [ref=e110]: This is a role for people who want to become great sellers, not just support them.
+            - paragraph [ref=e112]:
+              - strong [ref=e113]: Experience requirements
+            - list [ref=e114]:
+              - listitem [ref=e115]:
+                - paragraph [ref=e116]: 1–3 years of experience in B2B sales, business development, customer-facing roles, or a similarly high-performance environment (banking/consulting/etc)
+              - listitem [ref=e117]:
+                - paragraph [ref=e118]: "Alternative backgrounds considered: Candidates without direct B2B/SaaS experience who have demonstrated exceptional achievement in competitive or demanding environments (e.g., athletics, academics, startups, leadership roles), with clear evidence of drive, resilience, and consistent outperformance"
+            - paragraph [ref=e120]:
+              - strong [ref=e121]: Why Encord
+            - list [ref=e122]:
+              - listitem [ref=e123]:
+                - paragraph [ref=e124]: Competitive salary, commission, and meaningful equity in a high-growth startup
+              - listitem [ref=e125]:
+                - paragraph [ref=e126]: Clear, accelerated growth opportunities as the company scales rapidly
+              - listitem [ref=e127]:
+                - paragraph [ref=e128]: "Strong in-person culture: 4 days/week in our newly launched NYC office"
+              - listitem [ref=e129]:
+                - paragraph [ref=e130]: Flexible PTO to fully recharge
+              - listitem [ref=e131]:
+                - paragraph [ref=e132]: 18 paid vacation days in the U.S. plus federal holidays
+              - listitem [ref=e133]:
+                - paragraph [ref=e134]: Annual learning & development budget
+              - listitem [ref=e135]:
+                - paragraph [ref=e136]: Comprehensive health, dental, and vision coverage
+              - listitem [ref=e137]:
+                - paragraph [ref=e138]: Frequent travel opportunities across the U.S., London, and Europe
+              - listitem [ref=e139]:
+                - paragraph [ref=e140]: Bi-annual company offsites, twice-weekly team lunches, and monthly socials
+          - link "Apply for this Job" [ref=e141] [cursor=pointer]:
+            - /url: /encord/99604b6e-3224-406a-a19b-19ddcb554000/application
+            - button "Apply for this Job" [ref=e142]
+  - contentinfo [ref=e143]:
+    - link "Learn more about Ashby" [ref=e144] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e145]: Powered by
+      - img "Ashby" [ref=e146]
+    - paragraph [ref=e152]:
+      - link "Privacy Policy" [ref=e153] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e154] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e155] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

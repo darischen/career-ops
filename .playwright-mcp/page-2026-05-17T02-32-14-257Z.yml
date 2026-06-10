@@ -1,0 +1,259 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "CLEAR - Corporate Logo" [ref=e5]
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/clear
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e12]: New
+        - generic [ref=e13]:
+          - generic [ref=e14]:
+            - heading "Forward Deployed AI Engineer" [level=1] [ref=e15]
+            - generic [ref=e16]:
+              - img [ref=e17]
+              - generic [ref=e19]: New York, NY, United States
+          - button "Apply" [ref=e20] [cursor=pointer]
+        - generic [ref=e22]:
+          - paragraph [ref=e23]: CLEAR is building THE secure identity company of the future. Our mission is to make experiences safer and easier—physically and digitally. With more than 38 million Members and a growing network of partners across the world, CLEAR's secure identity platform is transforming the way people live, work, and travel. Whether it’s at the airport, stadium, or throughout your everyday life, CLEAR unlocks the magic of frictionless experiences.
+          - paragraph [ref=e24]: In this role, you will design, build, and deploy AI-powered systems that accelerate AI adoption across CLEAR’s internal workflows and customer-facing product experiences.
+          - paragraph [ref=e25]: This role will partner directly with Product, Engineering, Data, Security, Legal, Compliance, Operations, and business teams to identify high-impact AI opportunities, rapidly prototype solutions, and productionize reliable, secure, and measurable AI systems. You will own use cases end-to-end, from discovery and evaluation through launch, monitoring, and iteration.
+          - paragraph [ref=e26]:
+            - emphasis [ref=e27]:
+              - strong [ref=e28]: "What you’ll do:"
+          - list [ref=e29]:
+            - listitem [ref=e30]: Discover, prioritize, and build AI use cases across internal tools, employee workflows, and customer-facing product features
+            - listitem [ref=e31]: Partner with Product, Engineering, Data, Security, Legal, Compliance, and Operations to translate business needs into AI-driven solutions
+            - listitem [ref=e32]: Rapidly prototype AI agents, LLM applications, RAG workflows, automation tools, and product experiences
+            - listitem [ref=e33]: Productionize validated AI use cases with strong evaluation, monitoring, logging, fallback paths, and operational ownership
+            - listitem [ref=e34]: Build reusable patterns for prompt management, retrieval, tool use, evals, guardrails, and human-in-the-loop workflows
+            - listitem [ref=e35]: Implement responsible AI best practices, including privacy, security, model governance, risk review, and customer impact assessment
+            - listitem [ref=e36]: Measure and communicate AI impact across adoption, quality, cost reduction, productivity, customer experience, and business outcomes
+          - paragraph [ref=e37]:
+            - emphasis [ref=e38]:
+              - strong [ref=e39]: "How you’ll measure success:"
+          - list [ref=e40]:
+            - listitem [ref=e41]: Number of high-impact internal and customer-facing AI use cases launched
+            - listitem [ref=e42]: Adoption and measurable business impact of AI-powered tools and features
+            - listitem [ref=e43]: Quality, reliability, latency, and safety of deployed AI systems
+            - listitem [ref=e44]: Reduction in manual work, operational cost, or customer support volume
+            - listitem [ref=e45]: Improvement in customer experience, containment, accuracy, or workflow efficiency
+            - listitem [ref=e46]: Percentage of AI use cases with clear owners, evals, monitoring, and governance controls
+            - listitem [ref=e47]: Speed from AI opportunity identification to prototype, pilot, and production launch
+          - paragraph [ref=e48]:
+            - strong [ref=e49]: "What you’re great at:"
+          - list [ref=e50]:
+            - listitem [ref=e51]: 1+ years of experience in software engineering, AI engineering, machine learning engineering, data engineering, or related technical roles
+            - listitem [ref=e52]: Hands-on experience building with LLMs, AI agents, RAG, model APIs, prompt engineering, or AI application frameworks
+            - listitem [ref=e53]: Strong programming skills in Python and/or another modern backend language
+            - listitem [ref=e54]: Experience building and deploying production systems with APIs, data platforms, cloud infrastructure, logging, monitoring, and testing
+            - listitem [ref=e55]: Ability to work directly with business teams to understand ambiguous workflows and turn them into usable AI products
+            - listitem [ref=e56]: Strong product judgment and ability to identify practical, high-ROI AI use cases
+            - listitem [ref=e57]: Understanding of responsible AI concepts, including evals, guardrails, data privacy, security, human oversight, and model governance
+            - listitem [ref=e58]: Ability to communicate complex technical concepts to technical, non-technical, and executive stakeholders
+            - listitem [ref=e59]: Comfort operating in fast-paced, ambiguous environments with strong ownership from idea to impact
+            - listitem [ref=e60]: Passion for building AI systems that are practical, secure, measurable, and user-centric
+          - paragraph [ref=e61]:
+            - strong [ref=e62]:
+              - emphasis [ref=e63]: "How You’ll be Rewarded:"
+          - paragraph [ref=e64]: At CLEAR we help YOU move forward - because when you’re at your best, we’re at our best. You’ll work with talented team members who are motivated by our mission of making experiences safer and easier. In our offices, you’ll enjoy benefits like meals and snacks. We invest in your well-being and learning & development with our stipend and reimbursement programs.
+          - paragraph [ref=e65]: We offer holistic total rewards, including comprehensive healthcare plans, family building benefits (fertility and adoption/surrogacy support), flexible time off, free OneMedical memberships for you and your dependents, and a 401(k) retirement plan with employer match.
+          - paragraph [ref=e66]: The total compensation range for this role is $110,000-$160,000 depending on levels of skills and experience.
+          - paragraph [ref=e67]: This range represents the combined base salary, and new hire equity package (in Restricted Stock Units) for this position at CLEAR. Additionally, this role will be eligible for refresh equity grants as part of our ongoing compensation program. Actual compensation will vary based on factors including, but not limited to, location, education, skills, experience, and performance. All stock based compensation will be subject to the terms and conditions of applicable agreements.
+          - paragraph [ref=e68]:
+            - emphasis [ref=e69]: Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status or other characteristics protected by law.
+          - paragraph [ref=e70]:
+            - emphasis [ref=e71]: CLEAR provides reasonable accommodation to qualified individuals with disabilities or protected needs. Please let us know if you require a reasonable accommodation to apply for a job or perform your job. Examples of reasonable accommodation include, but are not limited to, time off, extra breaks, making a change to the application process or work procedures, policy exceptions, providing documents in an alternative format, live captioning or using a sign language interpreter, or using specialized equipment.
+          - paragraph [ref=e72]:
+            - emphasis [ref=e73]: We are committed to a transparent and secure hiring process. All communications related to this role will come directly from a CLEAR employee through valid CLEAR channels (e.g., a valid @clearme.com email address or verified CLEAR LinkedIn profile). We encourage candidates to remain alert to job scams and to report any suspicious activity.
+          - paragraph [ref=e74]: "#LI-Onsite"
+        - generic [ref=e75]:
+          - img [ref=e76]
+          - generic [ref=e78]:
+            - paragraph [ref=e79]: Create a Job Alert
+            - paragraph [ref=e80]: Interested in building your career at CLEAR - Corporate? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e81] [cursor=pointer]
+      - separator [ref=e82]
+      - generic [ref=e83]:
+        - generic [ref=e84]:
+          - generic [ref=e85]:
+            - heading "Apply for this job" [level=2] [ref=e87]
+            - generic [ref=e88]:
+              - paragraph [ref=e90]: "*"
+              - paragraph [ref=e91]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e94] [cursor=pointer]
+        - generic [ref=e95]:
+          - generic [ref=e96]:
+            - generic [ref=e99]:
+              - generic [ref=e100]: First Name*
+              - textbox "First Name" [ref=e101]
+            - generic [ref=e104]:
+              - generic [ref=e105]: Last Name*
+              - textbox "Last Name" [ref=e106]
+            - generic [ref=e109]:
+              - generic [ref=e110]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e111]
+            - generic [ref=e114]:
+              - generic [ref=e115]: Email*
+              - textbox "Email" [ref=e116]
+            - group "Phone" [ref=e118]:
+              - generic [ref=e119]: Phone
+              - generic [ref=e122]:
+                - generic [ref=e123]: Country*
+                - generic [ref=e124]:
+                  - log [ref=e126]
+                  - generic [ref=e128]:
+                    - combobox "Country" [ref=e131]
+                    - button "Toggle flyout" [ref=e133] [cursor=pointer]:
+                      - img [ref=e134]
+                  - textbox
+              - generic [ref=e138]:
+                - generic [ref=e139]: Phone*
+                - textbox "Phone" [ref=e140]
+            - generic [ref=e141]:
+              - generic [ref=e143]:
+                - generic [ref=e144]: Location (City)*
+                - generic [ref=e145]:
+                  - log [ref=e147]
+                  - combobox "Location (City)" [ref=e152]
+                  - textbox
+              - button "Locate me" [ref=e153] [cursor=pointer]
+            - group "Resume/CV*" [ref=e155]:
+              - generic [ref=e156]: Resume/CV*
+              - generic [ref=e158]:
+                - generic [ref=e160]:
+                  - button "Attach" [ref=e161] [cursor=pointer]
+                  - generic [ref=e162]: Attach
+                  - button "Attach" [ref=e163]
+                - button "Dropbox" [ref=e165] [cursor=pointer]
+                - button "Google Drive" [ref=e167] [cursor=pointer]
+                - generic [ref=e169]:
+                  - button "Enter manually" [ref=e170] [cursor=pointer]
+                  - generic [ref=e171]: Enter manually
+                - paragraph [ref=e172]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e174]:
+              - generic [ref=e175]: Cover Letter
+              - generic [ref=e177]:
+                - generic [ref=e179]:
+                  - button "Attach" [ref=e180] [cursor=pointer]
+                  - generic [ref=e181]: Attach
+                  - button "Attach" [ref=e182]
+                - button "Dropbox" [ref=e184] [cursor=pointer]
+                - button "Google Drive" [ref=e186] [cursor=pointer]
+                - generic [ref=e188]:
+                  - button "Enter manually" [ref=e189] [cursor=pointer]
+                  - generic [ref=e190]: Enter manually
+                - paragraph [ref=e191]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e192]:
+            - separator [ref=e193]
+            - generic [ref=e196]:
+              - generic [ref=e197]: This role is based out of our Headquarters in NYC and has a 5 days in-office expectation. Are you comfortable with this schedule?*
+              - generic [ref=e198]:
+                - log [ref=e200]
+                - generic [ref=e202]:
+                  - generic [ref=e203]:
+                    - generic [ref=e204]: Select...
+                    - combobox "This role is based out of our Headquarters in NYC and has a 5 days in-office expectation. Are you comfortable with this schedule?" [ref=e206]
+                  - button "Toggle flyout" [ref=e208] [cursor=pointer]:
+                    - img [ref=e209]
+                - textbox
+            - generic [ref=e213]:
+              - generic [ref=e214]: Are you authorized to work in the United States?*
+              - generic [ref=e215]:
+                - log [ref=e217]
+                - generic [ref=e219]:
+                  - generic [ref=e220]:
+                    - generic [ref=e221]: Select...
+                    - combobox "Are you authorized to work in the United States?" [ref=e223]
+                  - button "Toggle flyout" [ref=e225] [cursor=pointer]:
+                    - img [ref=e226]
+                - textbox
+            - generic [ref=e230]:
+              - generic [ref=e231]: Will you require CLEAR to sponsor you for a work permit now or in the future in the United States*
+              - generic [ref=e232]:
+                - log [ref=e234]
+                - generic [ref=e236]:
+                  - generic [ref=e237]:
+                    - generic [ref=e238]: Select...
+                    - combobox "Will you require CLEAR to sponsor you for a work permit now or in the future in the United States" [ref=e240]
+                  - button "Toggle flyout" [ref=e242] [cursor=pointer]:
+                    - img [ref=e243]
+                - textbox
+            - generic [ref=e247]:
+              - generic [ref=e248]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e249]
+            - generic [ref=e252]:
+              - generic [ref=e253]: Website
+              - textbox "Website" [ref=e254]
+          - separator [ref=e255]
+          - generic [ref=e256]:
+            - heading "U.S. Standard Demographic Questions" [level=3] [ref=e257]
+            - generic [ref=e259]: We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of improvement in our hiring process.
+            - generic [ref=e261]:
+              - generic [ref=e262]: How would you describe your gender identity? (mark all that apply)
+              - generic [ref=e263]:
+                - log [ref=e265]
+                - generic [ref=e267]:
+                  - generic [ref=e268]:
+                    - generic [ref=e269]: Select...
+                    - combobox "How would you describe your gender identity? (mark all that apply)" [ref=e271]
+                  - button "Toggle flyout" [ref=e273] [cursor=pointer]:
+                    - img [ref=e274]
+            - generic [ref=e277]:
+              - generic [ref=e278]: How would you describe your racial/ethnic background? (mark all that apply)
+              - generic [ref=e279]:
+                - log [ref=e281]
+                - generic [ref=e283]:
+                  - generic [ref=e284]:
+                    - generic [ref=e285]: Select...
+                    - combobox "How would you describe your racial/ethnic background? (mark all that apply)" [ref=e287]
+                  - button "Toggle flyout" [ref=e289] [cursor=pointer]:
+                    - img [ref=e290]
+            - generic [ref=e293]:
+              - generic [ref=e294]: How would you describe your sexual orientation? (mark all that apply)
+              - generic [ref=e295]:
+                - log [ref=e297]
+                - generic [ref=e299]:
+                  - generic [ref=e300]:
+                    - generic [ref=e301]: Select...
+                    - combobox "How would you describe your sexual orientation? (mark all that apply)" [ref=e303]
+                  - button "Toggle flyout" [ref=e305] [cursor=pointer]:
+                    - img [ref=e306]
+            - generic [ref=e309]:
+              - generic [ref=e310]: Do you identify as transgender?
+              - generic [ref=e311]:
+                - log [ref=e313]
+                - generic [ref=e315]:
+                  - generic [ref=e316]:
+                    - generic [ref=e317]: Select...
+                    - combobox "Do you identify as transgender?" [ref=e319]
+                  - button "Toggle flyout" [ref=e321] [cursor=pointer]:
+                    - img [ref=e322]
+            - generic [ref=e325]:
+              - generic [ref=e326]: Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?
+              - generic [ref=e327]:
+                - log [ref=e329]
+                - generic [ref=e331]:
+                  - generic [ref=e332]:
+                    - generic [ref=e333]: Select...
+                    - combobox "Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?" [ref=e335]
+                  - button "Toggle flyout" [ref=e337] [cursor=pointer]:
+                    - img [ref=e338]
+            - generic [ref=e341]:
+              - generic [ref=e342]: Are you a veteran or active member of the United States Armed Forces?
+              - generic [ref=e343]:
+                - log [ref=e345]
+                - generic [ref=e347]:
+                  - generic [ref=e348]:
+                    - generic [ref=e349]: Select...
+                    - combobox "Are you a veteran or active member of the United States Armed Forces?" [ref=e351]
+                  - button "Toggle flyout" [ref=e353] [cursor=pointer]:
+                    - img [ref=e354]
+          - button "Submit application" [ref=e357] [cursor=pointer]
+  - contentinfo [ref=e358]:
+    - generic [ref=e359]:
+      - paragraph [ref=e360]: Powered by
+      - link "Greenhouse logo" [ref=e361] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e362]

@@ -1,0 +1,564 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#content"
+    - banner [ref=e7]:
+      - generic [ref=e14]:
+        - paragraph [ref=e20]:
+          - link "Intuit Careers" [ref=e21] [cursor=pointer]:
+            - /url: https://www.intuit.com/careers
+            - img "intuit logo" [ref=e22]
+            - text: Careers
+        - navigation "Main" [ref=e23]:
+          - list [ref=e24]:
+            - listitem [ref=e25] [cursor=pointer]:
+              - button "Job Categories " [ref=e27]
+              - generic [ref=e28]:
+                - generic [ref=e29]:
+                  - generic [ref=e30]:
+                    - button "Back" [ref=e31]
+                    - generic [ref=e32]: Job Categories
+                    - generic [ref=e33]: Build your career at Intuit
+                  - list [ref=e34]:
+                    - listitem [ref=e35]:
+                      - link "Customer Experience" [ref=e36]:
+                        - /url: https://www.intuit.com/careers/teams/customer-experience
+                    - listitem [ref=e37]:
+                      - link "Data" [ref=e38]:
+                        - /url: https://www.intuit.com/careers/teams/data-science/
+                    - listitem [ref=e39]:
+                      - link "Marketing" [ref=e40]:
+                        - /url: https://www.intuit.com/careers/teams/marketing-communications/
+                    - listitem [ref=e41]:
+                      - link "Product Management" [ref=e42]:
+                        - /url: https://www.intuit.com/careers/teams/product-management/
+                    - listitem [ref=e43]:
+                      - link "Sales" [ref=e44]:
+                        - /url: https://www.intuit.com/careers/teams/sales/
+                    - listitem [ref=e45]:
+                      - link "Software Engineering" [ref=e46]:
+                        - /url: https://www.intuit.com/careers/teams/software-engineering/
+                    - listitem [ref=e47]:
+                      - link "Tax & Bookkeeping" [ref=e48]:
+                        - /url: https://www.intuit.com/expert-careers/
+                - generic [ref=e49]:
+                  - generic [ref=e51]: Search and apply
+                  - list [ref=e52]:
+                    - listitem [ref=e53]:
+                      - link "Hiring Process" [ref=e54]:
+                        - /url: https://www.intuit.com/careers/hiring-process/
+                    - listitem [ref=e55]:
+                      - link "Administration" [ref=e56]:
+                        - /url: /category/administration-jobs/27595/68333/1?utm_source=Simplify&ref=Simplify&cid=_Simplify
+                    - listitem [ref=e57]:
+                      - link "Communications" [ref=e58]:
+                        - /url: /category/communications-jobs/27595/8698672/1?utm_source=Simplify&ref=Simplify&cid=_Simplify
+                    - listitem [ref=e59]:
+                      - link "Corporate Strategy & Development" [ref=e60]:
+                        - /url: /category/corporate-strategy-and-development-jobs/27595/68335/1?utm_source=Simplify&ref=Simplify&cid=_Simplify
+                    - listitem [ref=e61]:
+                      - link "Customer Success" [ref=e62]:
+                        - /url: /category/customer-success-jobs/27595/8821216/1?utm_source=Simplify&ref=Simplify&cid=_Simplify
+                    - listitem [ref=e63]:
+                      - link "Design & User Experience" [ref=e64]:
+                        - /url: /category/design-and-user-experience-jobs/27595/68340/1?utm_source=Simplify&ref=Simplify&cid=_Simplify
+                    - listitem [ref=e65]:
+                      - link "Executive" [ref=e66]:
+                        - /url: /category/executive-jobs/27595/68342/1?utm_source=Simplify&ref=Simplify&cid=_Simplify
+                    - listitem [ref=e67]:
+                      - link "Finance" [ref=e68]:
+                        - /url: /category/finance-jobs/27595/8698496/1?utm_source=Simplify&ref=Simplify&cid=_Simplify
+                    - listitem [ref=e69]:
+                      - link "Human Resources" [ref=e70]:
+                        - /url: /category/human-resources-jobs/27595/68345/1?utm_source=Simplify&ref=Simplify&cid=_Simplify
+                    - listitem [ref=e71]:
+                      - link "Information Technology" [ref=e72]:
+                        - /url: /category/information-technology-jobs/27595/68347/1?utm_source=Simplify&ref=Simplify&cid=_Simplify
+                    - listitem [ref=e73]:
+                      - link "Legal, Compliance, & Policy" [ref=e74]:
+                        - /url: /category/legal-compliance-and-policy-jobs/27595/8698528/1?utm_source=Simplify&ref=Simplify&cid=_Simplify
+                    - listitem [ref=e75]:
+                      - link "Program Management & Business Operations" [ref=e76]:
+                        - /url: /category/program-management-and-business-operations-jobs/27595/8698480/1?utm_source=Simplify&ref=Simplify&cid=_Simplify
+                    - listitem [ref=e77]:
+                      - link "Real Estate & Workplace Services" [ref=e78]:
+                        - /url: /category/real-estate-and-workplace-services-jobs/27595/68354/1?utm_source=Simplify&ref=Simplify&cid=_Simplify
+                    - listitem [ref=e79]:
+                      - link "Security, Risk & Fraud" [ref=e80]:
+                        - /url: /category/security-risk-and-fraud-jobs/27595/8698560/1?utm_source=Simplify&ref=Simplify&cid=_Simplify
+                    - listitem [ref=e81]:
+                      - link "Tax & Bookkeeping" [ref=e82]:
+                        - /url: /category/tax-and-bookkeeping-experts-jobs/27595/9211424/1?utm_source=Simplify&ref=Simplify&cid=_Simplify
+            - listitem [ref=e83] [cursor=pointer]:
+              - button "Programs " [ref=e85]
+              - list [ref=e86]:
+                - listitem [ref=e87]:
+                  - button "Back" [ref=e88]
+                - generic [ref=e89]: Programs
+                - listitem [ref=e90]:
+                  - link "Internships" [ref=e91]:
+                    - /url: https://www.intuit.com/careers/programs/internships/
+                - listitem [ref=e92]:
+                  - link "Entry-Level Careers" [ref=e93]:
+                    - /url: https://www.intuit.com/careers/programs/entry-level-careers/
+                - listitem [ref=e94]:
+                  - link "Intuit Careers Pathways" [ref=e95]:
+                    - /url: https://www.intuit.com/careers/programs/career-pathways/
+            - listitem [ref=e96] [cursor=pointer]:
+              - button "Locations " [ref=e98]
+              - generic [ref=e99]:
+                - generic [ref=e100]:
+                  - generic [ref=e101]:
+                    - button "Back" [ref=e102]
+                    - generic [ref=e103]: Locations
+                    - generic [ref=e104]: United States
+                  - list [ref=e105]:
+                    - listitem [ref=e106]:
+                      - link "Atlanta" [ref=e107]:
+                        - /url: https://www.intuit.com/careers/locations/united-states/atlanta/
+                    - listitem [ref=e108]:
+                      - link "New York" [ref=e109]:
+                        - /url: https://www.intuit.com/careers/locations/united-states/new-york/
+                - generic [ref=e110]:
+                  - generic [ref=e112]: International
+                  - list [ref=e113]:
+                    - listitem [ref=e114]:
+                      - link "Australia" [ref=e115]:
+                        - /url: https://www.intuit.com/careers/locations/australia
+                    - listitem [ref=e116]:
+                      - link "Canada" [ref=e117]:
+                        - /url: https://www.intuit.com/ca/careers/
+                    - listitem [ref=e118]:
+                      - link "India" [ref=e119]:
+                        - /url: https://www.intuit.com/careers/locations/india
+                    - listitem [ref=e120]:
+                      - link "Israel" [ref=e121]:
+                        - /url: https://www.intuit.com/careers/locations/israel
+                    - listitem [ref=e122]:
+                      - link "United Kingdom" [ref=e123]:
+                        - /url: https://www.intuit.com/careers/locations/united-kingdom
+            - listitem [ref=e124] [cursor=pointer]:
+              - button "Intuit Life " [ref=e126]
+              - list [ref=e127]:
+                - listitem [ref=e128]:
+                  - button "Back" [ref=e129]
+                - generic [ref=e130]: Intuit Life
+                - listitem [ref=e131]:
+                  - link "Working at Intuit" [ref=e132]:
+                    - /url: https://www.intuit.com/careers/working-at-intuit/
+                - listitem [ref=e133]:
+                  - link "Diversity & Inclusion" [ref=e134]:
+                    - /url: https://www.intuit.com/company/corporate-responsibility/diversity/
+                - listitem [ref=e135]:
+                  - link "Benefits" [ref=e136]:
+                    - /url: https://www.intuitbenefits.com/
+                - listitem [ref=e137]:
+                  - link "Hybrid Work" [ref=e138]:
+                    - /url: https://www.intuit.com/careers/return-to-work-plan/
+                - listitem [ref=e139]:
+                  - link "Stories & News" [ref=e140]:
+                    - /url: /stories-and-news?utm_source=Simplify&ref=Simplify&cid=_Simplify
+            - listitem [ref=e141] [cursor=pointer]:
+              - link "Technology" [ref=e143]:
+                - /url: https://www.intuit.com/technology/
+            - listitem [ref=e144] [cursor=pointer]:
+              - list [ref=e145]:
+                - listitem [ref=e146]:
+                  - button "Job Alerts" [ref=e147]
+                - listitem [ref=e148]:
+                  - link "0 Saved Jobs" [ref=e151]:
+                    - /url: /saved-jobs
+                    - generic [ref=e152]: "0"
+                    - text: Saved Jobs
+                - listitem [ref=e153]:
+                  - link "TurboTax" [ref=e154]:
+                    - /url: https://turbotax.intuit.com/?cid=seq_intuit_tt_click_hd
+                    - img "TurboTax" [ref=e155]
+                  - text: 
+                - listitem [ref=e156]:
+                  - link "Credit Karma" [ref=e157]:
+                    - /url: https://www.creditkarma.com/?source=intuit
+                    - img "Credit Karma" [ref=e158]
+                  - text: 
+                - listitem [ref=e159]:
+                  - link "QuickBooks" [ref=e160]:
+                    - /url: https://quickbooks.intuit.com/?sc=seq_intuit_qb_click_hd
+                    - img "QuickBooks" [ref=e161]
+                  - text: 
+                - listitem [ref=e162]:
+                  - link "MailChimp Logo" [ref=e163]:
+                    - /url: https://mailchimp.com/?utm_source=intuit.com&utm_medium=referral
+                    - img "MailChimp" [ref=e164]
+                  - text: 
+    - main [ref=e165]:
+      - search [ref=e167]:
+        - text: 
+        - group "Search Jobs" [ref=e168]:
+          - generic [ref=e169]:
+            - paragraph [ref=e170]:
+              - generic [ref=e171] [cursor=pointer]: Search Jobs by Keyword
+              - searchbox "Search Jobs by Keyword" [ref=e172]
+            - paragraph [ref=e173]:
+              - generic [ref=e174] [cursor=pointer]: Location
+              - combobox "Location" [ref=e175]
+            - button "Search Jobs" [ref=e176] [cursor=pointer]
+      - generic [ref=e179]:
+        - generic [ref=e180]:
+          - heading "Software Engineer 1 - Fullstack" [level=1] [ref=e181]
+          - generic [ref=e182]:
+            - generic [ref=e183]: "Category: Software Engineering"
+            - generic [ref=e184]: "Location: New York, New York"
+            - generic [ref=e185]: "Job ID: 21630"
+          - generic [ref=e186]:
+            - link "Apply Now" [ref=e187] [cursor=pointer]:
+              - /url: https://intuit.avature.net/externalCareers/JobApplication?pipelineId=21630
+            - generic [ref=e188]:
+              - button "Share Job " [ref=e189] [cursor=pointer]
+              - button "Save Job" [ref=e190] [cursor=pointer]:
+                - generic [ref=e191]: Save Job
+                - text: 
+        - generic [ref=e192]:
+          - generic [ref=e193]:
+            - heading "Company Overview" [level=2] [ref=e194]
+            - paragraph [ref=e196]: Intuit is the global financial technology platform that powers prosperity for the people and communities we serve. With approximately 100 million customers worldwide using products such as TurboTax, Credit Karma, QuickBooks, and Mailchimp, we believe that everyone should have the opportunity to prosper. We never stop working to find new, innovative ways to make that possible.
+          - generic [ref=e197]:
+            - heading "Job Overview" [level=2] [ref=e198]
+            - paragraph [ref=e199]: Come join Intuit as a Software Engineer 1 on the Future of Discovery & Engagement (FODE) team within QuickBooks.
+            - paragraph [ref=e200]:
+              - text: FODE powers
+              - strong [ref=e201]: adoption and awareness, upgrades and conversion, and repeat consumption
+              - text: across high-traffic product surfaces. We are building the next-generation contextual discovery and personalization platform that embeds intelligent, real-time recommendations directly into customer workflows.
+            - paragraph [ref=e202]: As an SWE1, you will contribute to building scalable, high-performance web experiences that support experimentation, personalization, and AI-driven discovery. You’ll work closely with senior engineers, product managers, designers, and data scientists to help deliver customer-centric experiences that drive measurable business outcomes.
+            - paragraph [ref=e203]: This role is ideal for engineers early in their careers who are excited to build impactful customer-facing features, learn modern web architectures, and grow within a high-visibility, growth-focused platform team.
+            - paragraph [ref=e204]:
+              - strong [ref=e205]: Responsibilities
+            - list [ref=e206]:
+              - listitem [ref=e207]:
+                - text: 
+                - paragraph [ref=e208]:
+                  - text: Design, build, and maintain scalable web applications using
+                  - strong [ref=e209]: ReactJS, JavaScript, HTML, and CSS
+                  - text: .
+              - listitem [ref=e210]:
+                - text: 
+                - paragraph [ref=e211]: Implement reusable, modular UI components that support experimentation, personalization, and contextual discovery.
+              - listitem [ref=e212]:
+                - text: 
+                - paragraph [ref=e213]: Build responsive, accessible (WCAG-compliant), and internationalized experiences across browsers and devices.
+              - listitem [ref=e214]:
+                - text: 
+                - paragraph [ref=e215]: Integrate frontend applications with backend services (Node.js/Java/Kotlin) powering recommendation engines, experimentation platforms, and real-time targeting systems.
+              - listitem [ref=e216]:
+                - text: 
+                - paragraph [ref=e217]: Write clean, maintainable, and well-tested code following engineering best practices.
+              - listitem [ref=e218]:
+                - text: 
+                - paragraph [ref=e219]:
+                  - text: Develop and maintain automated test coverage using
+                  - strong [ref=e220]: Cypress or Playwright
+                  - text: for end-to-end testing.
+              - listitem [ref=e221]:
+                - text: 
+                - paragraph [ref=e222]: Contribute to instrumentation and telemetry to measure customer engagement and feature performance.
+              - listitem [ref=e223]:
+                - text: 
+                - paragraph [ref=e224]: Participate in code reviews, sprint planning, and continuous integration/continuous deployment (CI/CD) processes.
+              - listitem [ref=e225]:
+                - text: 
+                - paragraph [ref=e226]: Troubleshoot, debug, and optimize application performance.
+            - list [ref=e227]:
+              - listitem [ref=e228]:
+                - text: 
+                - paragraph [ref=e229]: Collaborate effectively with cross-functional partners including product, design, data science, and platform teams.
+            - paragraph [ref=e230]:
+              - strong [ref=e231]: Qualifications
+            - list [ref=e232]:
+              - listitem [ref=e233]:
+                - text: 
+                - paragraph [ref=e234]: Bachelor’s degree in Computer Science, Engineering, or related field (or equivalent practical experience).
+              - listitem [ref=e235]:
+                - text: 
+                - paragraph [ref=e236]: 1+ years of software development experience (internships and co-ops included).
+              - listitem [ref=e237]:
+                - text: 
+                - paragraph [ref=e238]:
+                  - text: Strong proficiency in
+                  - strong [ref=e239]: JavaScript (ES6+), ReactJS, HTML5, and CSS3
+                  - text: .
+              - listitem [ref=e240]:
+                - text: 
+                - paragraph [ref=e241]: Experience building responsive and component-based web applications.
+              - listitem [ref=e242]:
+                - text: 
+                - paragraph [ref=e243]: Familiarity with RESTful APIs and client-server architecture.
+              - listitem [ref=e244]:
+                - text: 
+                - paragraph [ref=e245]: Experience with version control systems such as Git.
+              - listitem [ref=e246]:
+                - text: 
+                - paragraph [ref=e247]:
+                  - text: Exposure to automated testing frameworks such as
+                  - strong [ref=e248]: Cypress or Playwright
+                  - text: .
+              - listitem [ref=e249]:
+                - text: 
+                - paragraph [ref=e250]: Understanding of software engineering fundamentals including data structures, algorithms, and object-oriented design.
+              - listitem [ref=e251]:
+                - text: 
+                - paragraph [ref=e252]: Strong problem-solving skills and a growth mindset.
+            - list [ref=e253]:
+              - listitem [ref=e254]:
+                - text: 
+                - paragraph [ref=e255]: Ability to work effectively in a collaborative, fast-paced environment.
+              - listitem [ref=e256]:
+                - text: 
+                - heading "Preferred Experience" [level=2] [ref=e257]
+                - list [ref=e258]:
+                  - listitem [ref=e259]:
+                    - text: 
+                    - paragraph [ref=e260]: Experience building or contributing to SaaS or high-traffic web applications.
+                  - listitem [ref=e261]:
+                    - text: 
+                    - paragraph [ref=e262]: Familiarity with Node.js or backend service integration.
+                  - listitem [ref=e263]:
+                    - text: 
+                    - paragraph [ref=e264]: Experience working with experimentation platforms, feature flags, or A/B testing frameworks.
+                  - listitem [ref=e265]:
+                    - text: 
+                    - paragraph [ref=e266]: Exposure to personalization systems or AI-driven user experiences.
+                  - listitem [ref=e267]:
+                    - text: 
+                    - paragraph [ref=e268]: Knowledge of performance optimization and frontend observability tools.
+                  - listitem [ref=e269]:
+                    - text: 
+                    - paragraph [ref=e270]: Experience contributing to reusable design systems or shared UI libraries.
+                - separator [ref=e271]
+                - paragraph [ref=e272]:
+                  - strong [ref=e273]: Why Join FODE?
+                - list [ref=e274]:
+                  - listitem [ref=e275]:
+                    - text: 
+                    - paragraph [ref=e276]: Work on high-visibility product surfaces that directly impact QuickBooks growth.
+                  - listitem [ref=e277]:
+                    - text: 
+                    - paragraph [ref=e278]: Contribute to AI-driven personalization and real-time customer engagement experiences.
+                  - listitem [ref=e279]:
+                    - text: 
+                    - paragraph [ref=e280]: Build modern, scalable frontend systems using React and contemporary testing frameworks.
+                  - listitem [ref=e281]:
+                    - text: 
+                    - paragraph [ref=e282]: Learn from experienced engineers and grow within a strategic platform team.
+                  - listitem [ref=e283]:
+                    - text: 
+                    - paragraph [ref=e284]: See measurable business impact from the features you ship.
+            - paragraph [ref=e285]: "Intuit provides a competitive compensation package with a strong pay for performance rewards approach. This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at [1] Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender. The expected base pay range for this position is: New York: $57.50 - 78.00 /hour References Visible links 1. https://www.intuit.com/careers/benefits/full-time-employees/"
+          - generic [ref=e286]:
+            - link "Apply Now" [ref=e287] [cursor=pointer]:
+              - /url: https://intuit.avature.net/externalCareers/JobApplication?pipelineId=21630
+            - button "Save Job" [ref=e288] [cursor=pointer]:
+              - generic [ref=e289]: Save Job
+              - text: 
+            - button "Share Job " [ref=e290] [cursor=pointer]
+      - generic [ref=e292]:
+        - generic [ref=e294]:
+          - heading "Career Path" [level=2] [ref=e295]
+          - paragraph [ref=e296]: Mobility plays an important role for our engineering community. In addition to vertical growth, our teams offer lateral growth opportunities. Whether it’s working on a different tech stack or product, Intuit will help you get to the next step in your career.
+        - list [ref=e299]:
+          - listitem [ref=e300]:
+            - generic [ref=e302]:
+              - generic [ref=e304]: Software Engineer 1 & 2
+              - img [ref=e305]
+          - listitem [ref=e307]:
+            - generic [ref=e309]:
+              - img [ref=e310]
+              - generic [ref=e312]:
+                - img [ref=e313]
+                - generic [ref=e315]: Sr. Software Engineer
+              - img [ref=e316]
+          - listitem [ref=e318]:
+            - generic [ref=e320]:
+              - img [ref=e321]
+              - generic [ref=e323]:
+                - img [ref=e324]
+                - generic [ref=e326]: Staff Software Engineer
+              - img [ref=e327]
+          - listitem [ref=e329]:
+            - generic [ref=e331]:
+              - img [ref=e332]
+              - generic [ref=e334]:
+                - img [ref=e335]
+                - generic [ref=e337]: Sr. Staff Software Engineer
+              - img [ref=e338]
+          - listitem [ref=e340]:
+            - generic [ref=e342]:
+              - img [ref=e343]
+              - generic [ref=e345]:
+                - img [ref=e346]
+                - generic [ref=e348]: Principal Software Engineer
+              - img [ref=e349]
+          - listitem [ref=e351]:
+            - generic [ref=e353]:
+              - img [ref=e354]
+              - generic [ref=e356]:
+                - img [ref=e357]
+                - generic [ref=e359]: Distinguished Software Engineer
+      - generic [ref=e361]:
+        - blockquote [ref=e364]:
+          - paragraph [ref=e365]: Intuit supports you, not just as you are now, but as the person that you want to grow to be.
+          - generic [ref=e366]:
+            - generic [ref=e367]: Alex Pollock
+            - text: Senior Software Engineer
+        - generic [ref=e368]:
+          - 'button "Software Engineering at Intuit: Alex Pollock (Video) "':
+            - 'img "Software Engineering at Intuit: Alex Pollock (Video)"'
+            - text: 
+      - generic [ref=e370]:
+        - heading "Related Content" [level=2] [ref=e371]
+        - generic [ref=e372]:
+          - list [ref=e373]:
+            - listitem [ref=e374] [cursor=pointer]:
+              - generic [ref=e376]:
+                - generic [ref=e377]:
+                  - paragraph [ref=e378]: Blog
+                  - heading "10 Essential Software Engineer Skills to Succeed in Today’s Tech Industry " [level=3] [ref=e379]:
+                    - link "10 Essential Software Engineer Skills to Succeed in Today’s Tech Industry " [ref=e380]:
+                      - /url: https://www.intuit.com/blog/innovative-thinking/software-engineer-skills/?s=what+skills+are+needed+to+be+a+software+engineer
+                - paragraph [ref=e382]: This guide covers 10 in-demand software engineer skills, technical and otherwise. We’ll also go into how to build those skills and how to prove yourself to prospective employers.
+            - listitem [ref=e383] [cursor=pointer]:
+              - generic [ref=e385]:
+                - generic [ref=e386]:
+                  - paragraph [ref=e387]: Blog
+                  - heading "Career Path " [level=3] [ref=e388]:
+                    - link "Career Path " [ref=e389]:
+                      - /url: https://www.intuit.com/blog/life-at-intuit/people-culture/accelerate-your-career-path-inside-intuit/?s=mobility
+                - paragraph [ref=e391]: Accelerate Your Career Path Inside Intuit
+            - listitem [ref=e392] [cursor=pointer]:
+              - generic [ref=e394]:
+                - generic [ref=e395]:
+                  - paragraph [ref=e396]: Blog
+                  - heading "What’s the Difference Between Front-End, Back-End, and Full-Stack Developers? " [level=3] [ref=e397]:
+                    - link "What’s the Difference Between Front-End, Back-End, and Full-Stack Developers? " [ref=e398]:
+                      - /url: https://www.intuit.com/blog/innovative-thinking/front-end-vs-back-end-vs-full-stack-developers/
+                - paragraph [ref=e400]: Thinking of becoming a front-end, back-end, or full-stack developer? Learn how the roles and their responsibilities compare with Intuit as your guide.
+          - generic [ref=e402]: 20 Results found.
+      - generic [ref=e404]:
+        - generic [ref=e405]:
+          - heading "Jobs For You" [level=2] [ref=e406]
+          - tablist [ref=e407]:
+            - tab "Viewed Jobs" [selected] [ref=e408] [cursor=pointer]:
+              - generic [ref=e409]: Viewed Jobs
+            - tab "Related Jobs" [ref=e410] [cursor=pointer]
+            - tab "Saved Jobs" [ref=e411] [cursor=pointer]
+        - tabpanel "Viewed Jobs" [ref=e412]:
+          - generic [ref=e415]:
+            - paragraph [ref=e416]: You haven't viewed any jobs yet. Start exploring now to find the perfect opportunity for you!
+            - link "View all of our available opportunities" [ref=e417] [cursor=pointer]:
+              - /url: /search-jobs
+      - generic [ref=e419]:
+        - heading "Sign Up for Job Alerts" [level=2] [ref=e420]
+        - paragraph [ref=e421]: Be the first to find out about open jobs that fit what you're looking for.
+        - button "Sign Up" [ref=e422] [cursor=pointer]
+      - text: + 
+    - contentinfo [ref=e429]:
+      - generic [ref=e430]:
+        - generic [ref=e434]:
+          - heading "Sitemap" [level=2] [ref=e436]:
+            - link "Sitemap" [ref=e437] [cursor=pointer]:
+              - /url: /sitemap?utm_source=Simplify&ref=Simplify&cid=_Simplify
+          - generic [ref=e439]:
+            - link "Facebook" [ref=e441] [cursor=pointer]:
+              - /url: https://www.facebook.com/intuit
+              - img "Facebook" [ref=e443]
+            - link "Twitter" [ref=e445] [cursor=pointer]:
+              - /url: https://twitter.com/Intuit
+              - img "Twitter" [ref=e447]
+            - link "YouTube" [ref=e449] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/intuit
+              - img "YouTube" [ref=e451]
+            - link "LinkedIn" [ref=e453] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/intuit
+              - img "LinkedIn" [ref=e455]
+        - generic [ref=e456]:
+          - generic [ref=e458]:
+            - link "Intuit" [ref=e460] [cursor=pointer]:
+              - /url: https://www.intuit.com/
+              - img "Intuit-Blue.Intuit-RGB-Blue" [ref=e462]
+            - generic [ref=e463]:
+              - link "TurboTax" [ref=e464] [cursor=pointer]:
+                - /url: https://turbotax.intuit.com/?cid=seq_intuit_tt_click_ft
+                - img "TurboTax" [ref=e465]
+              - link "Credit Karma" [ref=e466] [cursor=pointer]:
+                - /url: https://www.creditkarma.com/?source=intuit
+                - img "Credit Karma" [ref=e467]
+              - link "QuickBooks" [ref=e468] [cursor=pointer]:
+                - /url: https://quickbooks.intuit.com/?sc=seq_intuit_qb_click_ft
+                - img "QuickBooks" [ref=e469]
+              - link "MailChimp Logo" [ref=e470] [cursor=pointer]:
+                - /url: https://mailchimp.com/?utm_source=intuit.com&utm_medium=referral
+                - img "MailChimp" [ref=e471]
+          - generic [ref=e473]:
+            - list [ref=e474]:
+              - listitem [ref=e475]:
+                - link "Insight" [ref=e476] [cursor=pointer]:
+                  - /url: https://insight.app.intuit.com/home
+              - listitem [ref=e477]:
+                - link "Betterworks" [ref=e478] [cursor=pointer]:
+                  - /url: https://app.betterworks.com/app/
+              - listitem [ref=e479]:
+                - link "About Intuit" [ref=e480] [cursor=pointer]:
+                  - /url: https://www.intuit.com/company
+                  - text: About Us
+              - listitem [ref=e481]:
+                - link "Careers" [ref=e482] [cursor=pointer]:
+                  - /url: https://www.intuit.com/careers
+              - listitem [ref=e483]:
+                - link "Press Room" [ref=e484] [cursor=pointer]:
+                  - /url: https://www.intuit.com/company/press-room
+            - generic [ref=e486]:
+              - generic [ref=e487]:
+                - paragraph [ref=e488]: © 2025 Intuit Inc. All rights reserved.
+                - paragraph [ref=e489]:
+                  - text: Intuit is proud to be an equal opportunity and affirmative action employer. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please talk with your recruiter or send a request to
+                  - link "TalentAcquisition@intuit.com" [ref=e490] [cursor=pointer]:
+                    - /url: mailto:TalentAcquisition@intuit.com
+                  - text: . For more information, please read our
+                  - link "EEO policy" [ref=e491] [cursor=pointer]:
+                    - /url: https://www.intuit.com/careers/legal/
+                  - text: . Intuit encourages people with criminal record histories to apply for employment, and values diverse experiences, including prior contact with the criminal legal system. To that end, Intuit welcomes such applicants in accordance with the California Fair Chance Act, Los Angeles City Fair Chance Act Ordinance, Los Angeles County Fair Chance Act Ordinance, the San Francisco Fair Chance Act Ordinance, and other similar laws. Philadelphia applicants can review information pertaining to Philadelphia’s Fair Criminal Record Screening Standards Ordinance
+                  - link "here" [ref=e492] [cursor=pointer]:
+                    - /url: https://www.phila.gov/documents/fair-chance-hiring-law-poster/
+                  - text: . Applicants for jobs in unincorporated areas of Los Angeles County can review a copy of the Los Angeles County Fair Chance Act Notice
+                  - link "here" [ref=e493] [cursor=pointer]:
+                    - /url: https://dcba.lacounty.gov/wp-content/uploads/2024/08/FCOE-Official-Notice-Eng-Final-8.30.2024.pdf
+                  - text: .
+                - paragraph [ref=e494]:
+                  - link "Intuit Cookie Policy" [ref=e495] [cursor=pointer]:
+                    - /url: https://security.intuit.com/intuit-cookie-policy
+                  - link "Manage Cookies" [ref=e497] [cursor=pointer]:
+                    - /url: /cookie-management?utm_source=Simplify&ref=Simplify&cid=_Simplify
+              - generic [ref=e498]:
+                - list [ref=e499]:
+                  - listitem [ref=e500]:
+                    - link "Legal" [ref=e501] [cursor=pointer]:
+                      - /url: https://www.intuit.com/careers/legal
+                  - listitem [ref=e502]:
+                    - link "Privacy" [ref=e503] [cursor=pointer]:
+                      - /url: https://www.intuit.com/privacy
+                  - listitem [ref=e504]:
+                    - link "Security" [ref=e505] [cursor=pointer]:
+                      - /url: https://security.intuit.com/
+                  - listitem [ref=e506]:
+                    - link "Recruitment Fraud" [ref=e507] [cursor=pointer]:
+                      - /url: https://www.intuit.com/careers/recruitment-fraud/
+                - generic:
+                  - link "Truste Privacy Seal":
+                    - /url: https://privacy.truste.com/privacy-seal/validation?rid=7fc012b5-d53b-42d8-b980-c4f9091a97e1
+                    - img "TRUSTe Privacy Seal"
+  - status
+  - status
+  - status
+  - status
+  - alert [ref=e508]:
+    - paragraph [ref=e509]: We use cookies and other tracking technologies to support navigation, to improve our products and services, to support our marketing activities and to provide content from third parties.To manage your preferences, select "Manage Settings" or choose "Accept" to consent to the use of Cookies.
+    - button "Accept" [ref=e510] [cursor=pointer]
+    - button "Manage Settings" [ref=e511] [cursor=pointer]

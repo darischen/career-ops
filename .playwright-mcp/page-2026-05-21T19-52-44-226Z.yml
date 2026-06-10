@@ -1,0 +1,227 @@
+- generic [active] [ref=e1]:
+  - link "Skip to Main Content" [ref=e2] [cursor=pointer]:
+    - /url: "#iCIMS_Header"
+  - link "Astrion" [ref=e4] [cursor=pointer]:
+    - /url: https://careers-bnh.icims.com/jobs?hashed=-435679158
+    - heading "Astrion" [level=1] [ref=e5]
+  - text: 
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - link "Welcome page" [ref=e11] [cursor=pointer]:
+        - /url: https://careers-bnh.icims.com/jobs/intro
+        - generic [ref=e12]: 
+        - text: Welcome page
+      - generic [ref=e15]:
+        - generic [ref=e16]: Returning Candidate?
+        - link "Log back in!" [ref=e18] [cursor=pointer]:
+          - /url: https://careers-bnh.icims.com/jobs/23750/ai-engineer/login?loginOnly=1&redirect=job&hashed=-435679158
+    - generic [ref=e20]:
+      - generic [ref=e22]:
+        - heading "AI Engineer" [level=1] [ref=e25]
+        - generic [ref=e26]:
+          - generic [ref=e27]: Job Locations
+          - text: US-TN-Arnold AFB
+        - generic [ref=e28]:
+          - generic [ref=e29]: "Job Post Information* : Posted Date"
+          - generic "4/21/2026 4:02 PM" [ref=e30]:
+            - text: 1 month ago
+            - generic [ref=e31]: (4/21/2026 4:02 PM)
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - term [ref=e35]: Requisition Number
+            - definition [ref=e36]: 2026-23750
+          - generic [ref=e37]:
+            - term [ref=e38]: Category
+            - definition [ref=e39]: Digital Enterprise
+          - generic [ref=e40]:
+            - term [ref=e41]: Category
+            - definition [ref=e42]: Digital Enterprise
+      - heading "Overview" [level=2] [ref=e43]
+      - generic [ref=e46]:
+        - paragraph [ref=e47]:
+          - generic [ref=e48]:
+            - strong [ref=e49]: "Job Title:"
+            - text: AI Engineer
+        - paragraph [ref=e50]:
+          - generic [ref=e51]:
+            - strong [ref=e52]: "Location:"
+            - text: Arnold AFB, TN
+        - paragraph [ref=e53]:
+          - generic [ref=e54]:
+            - strong [ref=e55]: "Job Family Code:"
+            - text: Digital Enterprise
+        - paragraph [ref=e56]:
+          - generic [ref=e57]:
+            - strong [ref=e58]: "Function/Branch:"
+            - text: Engineering/Digital Enterprise
+        - paragraph [ref=e59]:
+          - generic [ref=e60]:
+            - strong [ref=e61]: "Directorate:"
+            - text: Engineering & Tech Support
+        - paragraph [ref=e62]:
+          - generic [ref=e63]:
+            - strong [ref=e64]: "Position Type:"
+            - text: Regular, Full-Time
+        - paragraph [ref=e65]:
+          - generic [ref=e66]:
+            - strong [ref=e67]: "Pay Type:"
+            - text: Exempt
+        - paragraph [ref=e68]:
+          - generic [ref=e69]:
+            - strong [ref=e70]: "Grade:"
+            - text: L06 (OA0643) – L07 (OA0741)
+        - paragraph [ref=e71]:
+          - generic [ref=e72]:
+            - strong [ref=e73]: "Salary Range or Starting Hourly Rate:"
+            - text: "Grade 06: $85,000 - $115,000 / year; Grade 07 $105,000 - $130,000"
+        - paragraph [ref=e74]:
+          - strong [ref=e76]
+        - paragraph [ref=e77]:
+          - strong [ref=e79]: Who We Are
+        - paragraph [ref=e80]: Beyond New Horizons (BNH) is a fully populated joint venture of Astrion and Fluor Federal Services, Inc. formed to provide unmatched Test Operations and Sustainment services for the Arnold Engineering Development Complex.
+        - paragraph [ref=e81]:
+          - generic [ref=e82]:
+            - text: Our name honors the legacy of AEDC’s
+            - emphasis [ref=e83]: Toward New Horizons
+            - text: founding study. BNH expands AEDC’s capacity by leveraging our parent companies' expertise in military and space system testing. We deliver proven results in large-scale program management, engineering, and construction for technically advanced, high-hazard facilities.
+        - paragraph [ref=e84]
+        - paragraph [ref=e85]:
+          - strong [ref=e87]: Overview
+        - paragraph [ref=e88]: Beyond New Horizons, LLC (BNH) is seeking a talented AI Engineer to join our Digital Enterprise team. In this role, you will lead the implementation of data-centered projects that directly improve AEDC’s ground test data infrastructure, facility operations, and business systems. You will work with multidisciplinary teams to find new opportunities to leverage data, drive critical decisions, and help design a modern data architecture from the ground up.
+        - paragraph [ref=e89]: This is a unique opportunity to apply your AI and data engineering skills to solve complex challenges of national importance.
+        - paragraph [ref=e90]
+        - paragraph [ref=e91]:
+          - generic [ref=e92]:
+            - strong [ref=e93]:
+              - emphasis [ref=e94]: Open to internal and external candidates. The selected candidate for this requisition may be required to
+            - strong [ref=e95]:
+              - emphasis [ref=e96]: occasionally
+            - text: (
+            - strong [ref=e97]:
+              - emphasis [ref=e98]: e.g. application upgrades) work outside normal business hours.
+        - paragraph [ref=e99]:
+          - strong [ref=e101]:
+            - emphasis [ref=e102]
+        - paragraph [ref=e103]:
+          - generic [ref=e104]:
+            - strong [ref=e105]:
+              - emphasis [ref=e106]: "**If you are seeing this posting on a job board, BNH highly recommends you apply directly on the Careers Center page of our business website ("
+            - link "https://careers-bnh.icims.com/jobs" [ref=e107] [cursor=pointer]:
+              - /url: https://careers-bnh.icims.com/jobs
+              - strong [ref=e108]:
+                - emphasis [ref=e109]: https://careers-bnh.icims.com/jobs
+            - strong [ref=e110]:
+              - emphasis [ref=e111]: ). Job board applications are not always compatible with company applicant tracking systems. **
+        - paragraph [ref=e112]
+        - paragraph [ref=e113]
+        - paragraph [ref=e114]:
+          - strong [ref=e116]: Job Summary
+        - paragraph [ref=e117]: Beyond New Horizons, LLC (BNH) is the team selected by the U.S. Air Force to conduct Test and Operations Sustainment at the Arnold Engineering Development Complex (AEDC) at Arnold Air Force Base in Tennessee. AEDC operates more than 55 aerodynamic and propulsion wind tunnels, rocket and turbine engine test cells, space environmental chambers, arc heaters, ballistic ranges and other specialized units located in six states. Many of the complex's test units have capabilities unmatched elsewhere in the United States; some are unique in the world. AEDC is one of three installations which are part of the Air Force Test Center (AFTC), one of six subordinate commands of the Air Force Materiel Command organization, and an important national resource.
+        - paragraph [ref=e118]
+        - paragraph [ref=e119]: AEDC’s mission is to conduct developmental test and evaluation for the Nation through modeling, simulation, and ground and flight test. Execution of the mission requires a large team of highly qualified and dedicated professionals from multiple technical disciplines to effectively accomplish the objectives of our test customers.
+        - paragraph [ref=e120]:
+          - strong [ref=e122]
+        - paragraph [ref=e123]:
+          - generic [ref=e124]:
+            - strong [ref=e125]: J
+            - strong [ref=e126]: "ob Duties:"
+        - list [ref=e127]:
+          - listitem [ref=e128]: Develop and implement enterprise-level artificial intelligence (AI) strategies and programs.
+          - listitem [ref=e129]: Automate manual processes and optimize data delivery by re-designing infrastructure for greater scalability.
+          - listitem [ref=e130]: Utilize machine learning tools to select features, build, and optimize classifiers that generate actionable insights from complex test data.
+          - listitem [ref=e131]: Identify, assess, and integrate new data sources and data-gathering techniques.
+          - listitem [ref=e132]: Lead AI proof-of-concept projects to explore new applications and technologies.
+          - listitem [ref=e133]: Collaborate with diverse engineering and technical teams to implement models and monitor their outcomes.
+          - listitem [ref=e134]: Define and develop processes to monitor and analyze model performance and data accuracy.
+          - listitem [ref=e135]: It is a condition of employment to wear company issued PPE (Personal Protective Equipment) in accordance with supervisory direction and company policy.
+          - listitem [ref=e136]: Perform other related duties as required.
+        - paragraph [ref=e137]
+        - paragraph [ref=e138]:
+          - strong [ref=e140]
+        - paragraph [ref=e141]:
+          - strong [ref=e143]: "Basic Qualifications:"
+        - list [ref=e144]:
+          - listitem [ref=e145]: "Grade 06: A Bachelor of Science in Computer Science, Statistics, Mathematics, Engineering, or a related field from an accredited university."
+          - listitem [ref=e146]: "Grade 07: A Bachelor of Science in Computer Science, Statistics, Mathematics, Engineering, or a related field from an accredited university and at least 2 years of relevant experience."
+          - listitem [ref=e147]: Must be a current U.S. Citizen and able to obtain and maintain a security clearance.
+        - paragraph [ref=e148]:
+          - strong [ref=e150]
+        - paragraph [ref=e151]:
+          - strong [ref=e153]: "Preferred Qualifications:"
+        - list [ref=e154]:
+          - listitem [ref=e155]: A Master's degree in a relevant technical field.
+          - listitem [ref=e156]: 3+ years of professional experience in software development or AI-related roles.
+          - listitem [ref=e157]: Proficiency with AI frameworks like TensorFlow, PyTorch, or Scikit-learn.
+          - listitem [ref=e158]: Strong coding skills in languages such as Python, Java, or C++, along with SQL.
+          - listitem [ref=e159]: "Experience with the full data lifecycle: ETL, data mining, APIs, and data warehousing."
+          - listitem [ref=e160]: Knowledge of cloud platforms (AWS, Azure, Google Cloud) and DevSecOps methodologies.
+          - listitem [ref=e161]: A deep understanding of various machine learning techniques and their real-world advantages and drawbacks.
+        - paragraph [ref=e162]:
+          - strong [ref=e164]
+        - paragraph [ref=e165]:
+          - strong [ref=e167]: What We Offer
+        - list [ref=e168]:
+          - listitem [ref=e169]: Competitive salaries
+          - listitem [ref=e170]: Continuing education assistance
+          - listitem [ref=e171]: Multiple healthcare benefits packages
+          - listitem [ref=e172]: 401K with employer matching
+          - listitem [ref=e173]: Paid time off (PTO) along with a federally recognized holiday schedule
+        - paragraph [ref=e174]:
+          - strong [ref=e176]
+        - paragraph [ref=e177]:
+          - strong [ref=e179]: Join our Team!
+        - paragraph [ref=e180]:
+          - generic [ref=e181]:
+            - strong [ref=e182]:
+              - emphasis [ref=e183]: U.S. Citizenship is required.
+            - emphasis [ref=e184]:
+              - text: At this time BNH will
+              - strong [ref=e185]: not
+              - text: sponsor any applicants for employment authorization or offer any immigration related support for this position (i.e. H1b, F1 OPT, F-1 STEM OPT, F-1 CPT, J-1, E-2, E-3, L-1, or other forms of work authorization that require immigration support from an
+            - emphasis [ref=e186]: employer).
+        - paragraph [ref=e187]:
+          - emphasis [ref=e189]
+        - paragraph [ref=e190]:
+          - generic [ref=e191]:
+            - emphasis [ref=e192]: The minimum and maximum full-time annual salaries for this role are listed
+            - emphasis [ref=e193]: below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations and refers to the amount BNH is willing to pay at the time of this posting. Salaries for part-time jobs will be adjusted based upon the number of hours agreed to work.
+        - paragraph [ref=e194]:
+          - emphasis [ref=e196]
+        - paragraph [ref=e197]:
+          - generic [ref=e198]:
+            - text: "Grade 06: $85,000 - $115,000 / year; Grade 07 $105,000 - $130,000"
+            - emphasis [ref=e199]: at Arnold AFB, TN
+        - paragraph [ref=e200]:
+          - emphasis [ref=e202]
+        - paragraph [ref=e203]:
+          - emphasis [ref=e205]: BNH is an Equal Employment Opportunity Employer. We provide equal employment opportunities to all employees and applicants for employment and prohibit discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, veteran status, and any other grounds for discrimination prohibited by applicable law.
+        - paragraph [ref=e206]:
+          - emphasis [ref=e208]: This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
+        - paragraph [ref=e209]
+        - paragraph [ref=e210]
+        - paragraph [ref=e211]
+        - paragraph [ref=e212]
+      - generic [ref=e213]:
+        - heading "Options" [level=2] [ref=e214]
+        - generic [ref=e215]:
+          - link "Apply Online" [ref=e216] [cursor=pointer]:
+            - /url: https://careers-bnh.icims.com/jobs/23750/ai-engineer/job?mode=apply&apply=yes&hashed=-336114696
+            - generic [ref=e217]: Apply Online
+          - link "Email this job to a friend" [ref=e218] [cursor=pointer]:
+            - /url: https://careers-bnh.icims.com/jobs/23750/ai-engineer/referral?hashed=-435679158
+            - generic [ref=e219]: Email this job to a friend
+        - generic [ref=e220]:
+          - text: 
+          - heading "Share on your newsfeed" [level=2] [ref=e221]
+          - generic [ref=e223]:
+            - link "Publish to Facebook (opens in new window)" [ref=e224] [cursor=pointer]:
+              - /url: "#"
+            - link "Publish to LinkedIn (opens in new window)" [ref=e226] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=e228]:
+        - link "Application FAQs" [ref=e229] [cursor=pointer]:
+          - /url: https://icims.help/candidate-faq
+        - paragraph [ref=e231]:
+          - text: Software Powered by iCIMS
+          - link "www.icims.com" [ref=e232] [cursor=pointer]:
+            - /url: http://www.icims.com/platform_help?utm_source=platform&utm_medium=link&utm_content=page1&utm_campaign=platform%20help

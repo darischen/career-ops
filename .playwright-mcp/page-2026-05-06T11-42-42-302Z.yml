@@ -1,0 +1,62 @@
+- generic [active] [ref=e1]:
+  - link "Valkyrie Trading logo" [ref=e4] [cursor=pointer]:
+    - /url: http://www.valkyrietrading.com/careers
+    - img "Valkyrie Trading logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "Junior Software Engineer" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: Chicago, IL
+          - generic [ref=e14]: Software Development /
+          - generic [ref=e15]: Full Time /
+          - generic [ref=e16]: On-site
+      - link "apply for this job" [ref=e18] [cursor=pointer]:
+        - /url: https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c/apply
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - strong [ref=e22]: "What You’ll Do:"
+        - generic [ref=e24]: As a Junior Software Engineer, you will join our interdisciplinary team to conceptualize and author the technologies that power our trading activities in financial markets. As an integral member of an aggressive and nimble company, you will have the opportunity to tackle challenges in programming, networking, technology and finance. Your initial responsibilities will include the development and improvement of our growing queue of critical trading applications that add significant value to Valkyrie’s bottom line.
+      - generic [ref=e26]:
+        - heading "What You’ll Need:" [level=3] [ref=e27]
+        - list [ref=e30]:
+          - listitem [ref=e31]: Bachelor’s degree or a strong foundation in computers and programming
+          - listitem [ref=e32]: Exceptional ability to produce clean, efficient code in C++ or C#
+          - listitem [ref=e33]: Experience in building complete, multi-threaded server-client applications
+          - listitem [ref=e34]: Knowledge of database and network technologies a plus
+          - listitem [ref=e35]: Ability and willingness to take full ownership (design, implement, test, deploy, maintain, iterate) of projects
+          - listitem [ref=e36]: Comfort resolving uncertainty and communicating for issue resolution
+          - listitem [ref=e37]: Willing to work on a collaborative team
+          - listitem [ref=e38]: Exemplary attention to detail and a deep interest in the financial industry
+          - listitem [ref=e39]: Vision to solve today’s problems while building future solutions
+          - listitem [ref=e40]: Entrepreneurial attitude with a keen attention to both structure and detail
+          - listitem [ref=e41]: Comfort with both Windows and Linux environments
+          - listitem [ref=e42]: Must have valid, ongoing, unrestricted authorization to work in the United States without the need for employer-sponsored or self-initiated immigration filings.
+      - generic [ref=e44]:
+        - heading "What You’ll Get:" [level=3] [ref=e45]
+        - list [ref=e48]:
+          - listitem [ref=e49]: Competitive salaries and performance bonuses
+          - listitem [ref=e50]: Direct mentoring from senior software engineers
+          - listitem [ref=e51]: Top-tier medical, vision, and dental coverage
+          - listitem [ref=e52]: Relocation assistance packages
+          - listitem [ref=e53]: Generous vacation policy
+          - listitem [ref=e54]: Training opportunities and continuing education
+          - listitem [ref=e55]: Catered lunch, snacks, and beverages
+          - listitem [ref=e56]: Group outings and company parties
+          - listitem [ref=e57]: Casual dress environment
+      - generic [ref=e59]:
+        - heading "Salary range" [level=3] [ref=e60]
+        - list [ref=e63]:
+          - listitem [ref=e64]: $140,000
+          - listitem [ref=e65]: This position is also eligible for an annual discretionary bonus.
+      - generic [ref=e67]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e69] [cursor=pointer]:
+        - /url: https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c/apply
+  - generic [ref=e71]:
+    - paragraph [ref=e72]:
+      - link "Valkyrie Trading Home Page" [ref=e73] [cursor=pointer]:
+        - /url: http://www.valkyrietrading.com/careers
+    - link "Jobs powered by Lever logo" [ref=e74] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e75]: Jobs powered by
+      - img "Lever logo" [ref=e76]

@@ -1,0 +1,402 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - button "Main menu" [ref=e5] [cursor=pointer]:
+          - img [ref=e6]
+        - link "Careers" [ref=e10] [cursor=pointer]:
+          - /url: /about/careers/applications/
+          - generic [ref=e12]: Careers
+      - generic [ref=e13]:
+        - link "Skip navigation links" [ref=e14]:
+          - generic: Skip navigation links
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - generic [ref=e25] [cursor=pointer]:
+              - generic [ref=e26]: help_outline
+              - link "Help link" [ref=e27]:
+                - /url: https://support.google.com/googlecareers
+            - tooltip [ref=e28]: Help link
+          - generic [ref=e29]:
+            - button "Send feedback" [ref=e30] [cursor=pointer]:
+              - generic [ref=e31]: feedback
+            - tooltip [ref=e32]: Send feedback
+      - generic [ref=e34]:
+        - button "Google apps" [ref=e38] [cursor=pointer]:
+          - img [ref=e39]
+        - link "Sign in" [ref=e42] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Fwww.google.com%2Fabout%2Fcareers%2Fapplications%2Fjobs%2Fresults%2F&followup=https%3A%2F%2Fwww.google.com%2Fabout%2Fcareers%2Fapplications%2Fjobs%2Fresults%2F&ec=GAZA6QE
+  - generic [ref=e50]:
+    - heading "Search Jobs" [level=1]
+    - generic [ref=e53]:
+      - main [ref=e54]:
+        - generic [ref=e55]:
+          - heading "Jobs search results" [level=2]
+          - generic [ref=e57]:
+            - generic [ref=e58]: 3,674 jobs matched
+            - button "Filters" [ref=e61] [cursor=pointer]:
+              - generic [ref=e62]: filter_list
+            - list [ref=e63]:
+              - listitem [ref=e64]:
+                - generic [ref=e66]:
+                  - generic [ref=e68]:
+                    - heading "Senior Security Architect, Mandiant, Google Cloud (English)" [level=3] [ref=e71]
+                    - paragraph [ref=e73]:
+                      - text: Google |
+                      - generic [ref=e74]: India
+                      - text: "| Remote eligible"
+                    - generic [ref=e76]:
+                      - generic [ref=e78]: Learn more
+                      - link "Learn more about Senior Security Architect, Mandiant, Google Cloud (English)" [ref=e79] [cursor=pointer]:
+                        - /url: jobs/results/107743710602502854-senior-security-architect-mandiant-google-cloud-english
+                  - button "Share Senior Security Architect, Mandiant, Google Cloud (English)" [ref=e84] [cursor=pointer]:
+                    - generic [ref=e85]: share
+              - listitem [ref=e86]:
+                - generic [ref=e88]:
+                  - generic [ref=e90]:
+                    - heading "Leadership Technical Program Manager, Planning Operations" [level=3] [ref=e93]
+                    - paragraph [ref=e95]:
+                      - text: Google |
+                      - generic [ref=e96]: Thornton, CO, USA
+                    - generic [ref=e98]:
+                      - generic [ref=e100]: Learn more
+                      - link "Learn more about Leadership Technical Program Manager, Planning Operations" [ref=e101] [cursor=pointer]:
+                        - /url: jobs/results/89058610000077510-leadership-technical-program-manager-planning-operations
+                  - button "Share Leadership Technical Program Manager, Planning Operations" [ref=e106] [cursor=pointer]:
+                    - generic [ref=e107]: share
+              - listitem [ref=e108]:
+                - generic [ref=e110]:
+                  - generic [ref=e112]:
+                    - heading "Supply Chain Program Manager, Cloud NPI" [level=3] [ref=e115]
+                    - paragraph [ref=e117]:
+                      - text: Google |
+                      - generic [ref=e118]: Taipei, Taiwan
+                    - generic [ref=e120]:
+                      - generic [ref=e122]: Learn more
+                      - link "Learn more about Supply Chain Program Manager, Cloud NPI" [ref=e123] [cursor=pointer]:
+                        - /url: jobs/results/126675514126410438-supply-chain-program-manager-cloud-npi
+                  - button "Share Supply Chain Program Manager, Cloud NPI" [ref=e128] [cursor=pointer]:
+                    - generic [ref=e129]: share
+              - listitem [ref=e130]:
+                - generic [ref=e132]:
+                  - generic [ref=e134]:
+                    - heading "AI Technical Enablement Program Manager, Google Cloud" [level=3] [ref=e137]
+                    - paragraph [ref=e139]:
+                      - text: Google |
+                      - generic [ref=e140]: Austin, TX, USA ; +3 more
+                    - generic [ref=e142]:
+                      - generic [ref=e144]: Learn more
+                      - link "Learn more about AI Technical Enablement Program Manager, Google Cloud" [ref=e145] [cursor=pointer]:
+                        - /url: jobs/results/132711905977344710-ai-technical-enablement-program-manager-google-cloud
+                  - button "Share AI Technical Enablement Program Manager, Google Cloud" [ref=e150] [cursor=pointer]:
+                    - generic [ref=e151]: share
+              - listitem [ref=e152]:
+                - generic [ref=e154]:
+                  - generic [ref=e156]:
+                    - heading "Senior Interaction Designer, Payments Platform" [level=3] [ref=e159]
+                    - paragraph [ref=e161]:
+                      - text: Google |
+                      - generic [ref=e162]: Mountain View, CA, USA
+                    - generic [ref=e164]:
+                      - generic [ref=e166]: Learn more
+                      - link "Learn more about Senior Interaction Designer, Payments Platform" [ref=e167] [cursor=pointer]:
+                        - /url: jobs/results/123969512931238598-senior-interaction-designer-payments-platform
+                  - button "Share Senior Interaction Designer, Payments Platform" [ref=e172] [cursor=pointer]:
+                    - generic [ref=e173]: share
+              - listitem [ref=e174]:
+                - generic [ref=e176]:
+                  - generic [ref=e178]:
+                    - heading "Site Reliability Manager, Shopping SRE" [level=3] [ref=e181]
+                    - paragraph [ref=e183]:
+                      - text: Google |
+                      - generic [ref=e184]: Pittsburgh, PA, USA
+                    - generic [ref=e186]:
+                      - generic [ref=e188]: Learn more
+                      - link "Learn more about Site Reliability Manager, Shopping SRE" [ref=e189] [cursor=pointer]:
+                        - /url: jobs/results/134373006053909190-site-reliability-manager-shopping-sre
+                  - button "Share Site Reliability Manager, Shopping SRE" [ref=e194] [cursor=pointer]:
+                    - generic [ref=e195]: share
+              - listitem [ref=e196]:
+                - generic [ref=e198]:
+                  - generic [ref=e200]:
+                    - heading "Solution Architect III, Platform, Telecommunications, Google Cloud (French)" [level=3] [ref=e203]
+                    - paragraph [ref=e205]:
+                      - text: Google |
+                      - generic [ref=e206]: Montreal, QC, Canada
+                    - generic [ref=e208]:
+                      - generic [ref=e210]: Learn more
+                      - link "Learn more about Solution Architect III, Platform, Telecommunications, Google Cloud (French)" [ref=e211] [cursor=pointer]:
+                        - /url: jobs/results/135073321946358470-solution-architect-iii-platform-telecommunications-google-cloud-french
+                  - button "Share Solution Architect III, Platform, Telecommunications, Google Cloud (French)" [ref=e216] [cursor=pointer]:
+                    - generic [ref=e217]: share
+              - listitem [ref=e218]:
+                - generic [ref=e220]:
+                  - generic [ref=e222]:
+                    - heading "Cyber Threat Intelligence Analyst, Google Threat Intelligence Delivery" [level=3] [ref=e225]
+                    - paragraph [ref=e227]:
+                      - text: Google |
+                      - generic [ref=e228]: Hungary
+                      - text: "| Remote eligible"
+                    - generic [ref=e230]:
+                      - generic [ref=e232]: Learn more
+                      - link "Learn more about Cyber Threat Intelligence Analyst, Google Threat Intelligence Delivery" [ref=e233] [cursor=pointer]:
+                        - /url: jobs/results/142164974377018054-cyber-threat-intelligence-analyst-google-threat-intelligence-delivery
+                  - button "Share Cyber Threat Intelligence Analyst, Google Threat Intelligence Delivery" [ref=e238] [cursor=pointer]:
+                    - generic [ref=e239]: share
+              - listitem [ref=e240]:
+                - generic [ref=e242]:
+                  - generic [ref=e244]:
+                    - heading "Security Technical Lead, Cluster Management" [level=3] [ref=e247]
+                    - paragraph [ref=e249]:
+                      - text: Google |
+                      - generic [ref=e250]: Warsaw, Poland
+                    - generic [ref=e252]:
+                      - generic [ref=e254]: Learn more
+                      - link "Learn more about Security Technical Lead, Cluster Management" [ref=e255] [cursor=pointer]:
+                        - /url: jobs/results/143559253905285830-security-technical-lead-cluster-management
+                  - button "Share Security Technical Lead, Cluster Management" [ref=e260] [cursor=pointer]:
+                    - generic [ref=e261]: share
+              - listitem [ref=e262]:
+                - generic [ref=e264]:
+                  - generic [ref=e266]:
+                    - heading "Senior ASIC Power Delivery Engineer" [level=3] [ref=e269]
+                    - paragraph [ref=e271]:
+                      - text: Google |
+                      - generic [ref=e272]: Sunnyvale, CA, USA
+                    - generic [ref=e274]:
+                      - generic [ref=e276]: Learn more
+                      - link "Learn more about Senior ASIC Power Delivery Engineer" [ref=e277] [cursor=pointer]:
+                        - /url: jobs/results/122072975632409286-senior-asic-power-delivery-engineer
+                  - button "Share Senior ASIC Power Delivery Engineer" [ref=e282] [cursor=pointer]:
+                    - generic [ref=e283]: share
+              - listitem [ref=e284]:
+                - generic [ref=e286]:
+                  - generic [ref=e288]:
+                    - heading "Software Engineer, Mobile iOS, Maps" [level=3] [ref=e291]
+                    - paragraph [ref=e293]:
+                      - text: Google |
+                      - generic [ref=e294]: San Francisco, CA, USA
+                    - generic [ref=e296]:
+                      - generic [ref=e298]: Learn more
+                      - link "Learn more about Software Engineer, Mobile iOS, Maps" [ref=e299] [cursor=pointer]:
+                        - /url: jobs/results/102326541366502086-software-engineer-mobile-ios-maps
+                  - button "Share Software Engineer, Mobile iOS, Maps" [ref=e304] [cursor=pointer]:
+                    - generic [ref=e305]: share
+              - listitem [ref=e306]:
+                - generic [ref=e308]:
+                  - generic [ref=e310]:
+                    - heading "Senior Optical Network Engineer, Google Global Networking" [level=3] [ref=e313]
+                    - paragraph [ref=e315]:
+                      - text: Google |
+                      - generic [ref=e316]: Sunnyvale, CA, USA
+                    - generic [ref=e318]:
+                      - generic [ref=e320]: Learn more
+                      - link "Learn more about Senior Optical Network Engineer, Google Global Networking" [ref=e321] [cursor=pointer]:
+                        - /url: jobs/results/141928351743779526-senior-optical-network-engineer-google-global-networking
+                  - button "Share Senior Optical Network Engineer, Google Global Networking" [ref=e326] [cursor=pointer]:
+                    - generic [ref=e327]: share
+              - listitem [ref=e328]:
+                - generic [ref=e330]:
+                  - generic [ref=e332]:
+                    - heading "Strategy and Operations Associate, Go-To-Market (English, Japanese)" [level=3] [ref=e335]
+                    - paragraph [ref=e337]:
+                      - text: Google |
+                      - generic [ref=e338]: Tokyo, Japan
+                    - generic [ref=e340]:
+                      - generic [ref=e342]: Learn more
+                      - link "Learn more about Strategy and Operations Associate, Go-To-Market (English, Japanese)" [ref=e343] [cursor=pointer]:
+                        - /url: jobs/results/131463784186159814-strategy-and-operations-associate-gotomarket-english-japanese
+                  - button "Share Strategy and Operations Associate, Go-To-Market (English, Japanese)" [ref=e348] [cursor=pointer]:
+                    - generic [ref=e349]: share
+              - listitem [ref=e350]:
+                - generic [ref=e352]:
+                  - generic [ref=e354]:
+                    - heading "Customer Growth Associate, Early Careers, Google Customer Solutions (German Market)" [level=3] [ref=e357]
+                    - paragraph [ref=e359]:
+                      - text: Google |
+                      - generic [ref=e360]: Dublin, Ireland
+                    - generic [ref=e362]:
+                      - generic [ref=e364]: Learn more
+                      - link "Learn more about Customer Growth Associate, Early Careers, Google Customer Solutions (German Market)" [ref=e365] [cursor=pointer]:
+                        - /url: jobs/results/79984362010878662-customer-growth-associate-early-careers-google-customer-solutions-german-market
+                  - button "Share Customer Growth Associate, Early Careers, Google Customer Solutions (German Market)" [ref=e370] [cursor=pointer]:
+                    - generic [ref=e371]: share
+              - listitem [ref=e372]:
+                - generic [ref=e374]:
+                  - generic [ref=e376]:
+                    - heading "Senior Staff Forward Deployed Developer, Google Cloud Platform, Applied AI" [level=3] [ref=e379]
+                    - paragraph [ref=e381]:
+                      - text: Google |
+                      - generic [ref=e382]: London, UK
+                    - generic [ref=e384]:
+                      - generic [ref=e386]: Learn more
+                      - link "Learn more about Senior Staff Forward Deployed Developer, Google Cloud Platform, Applied AI" [ref=e387] [cursor=pointer]:
+                        - /url: jobs/results/81688188422103750-senior-staff-forward-deployed-developer-google-cloud-platform-applied-ai
+                  - button "Share Senior Staff Forward Deployed Developer, Google Cloud Platform, Applied AI" [ref=e392] [cursor=pointer]:
+                    - generic [ref=e393]: share
+              - listitem [ref=e394]:
+                - generic [ref=e396]:
+                  - generic [ref=e398]:
+                    - heading "Senior Software Engineer" [level=3] [ref=e401]
+                    - paragraph [ref=e403]:
+                      - text: Google |
+                      - generic [ref=e404]: Mountain View, CA, USA ; +4 more
+                    - generic [ref=e406]:
+                      - generic [ref=e408]: Learn more
+                      - link "Learn more about Senior Software Engineer" [ref=e409] [cursor=pointer]:
+                        - /url: jobs/results/90724855447462598-senior-software-engineer
+                  - button "Share Senior Software Engineer" [ref=e414] [cursor=pointer]:
+                    - generic [ref=e415]: share
+              - listitem [ref=e416]:
+                - generic [ref=e418]:
+                  - generic [ref=e420]:
+                    - heading "Customer Engineer, Federal Civilian Agencies, Google Public Sector" [level=3] [ref=e423]
+                    - paragraph [ref=e425]:
+                      - text: Google |
+                      - generic [ref=e426]: Reston, VA, USA
+                    - generic [ref=e428]:
+                      - generic [ref=e430]: Learn more
+                      - link "Learn more about Customer Engineer, Federal Civilian Agencies, Google Public Sector" [ref=e431] [cursor=pointer]:
+                        - /url: jobs/results/113000983574782662-customer-engineer-federal-civilian-agencies-google-public-sector
+                  - button "Share Customer Engineer, Federal Civilian Agencies, Google Public Sector" [ref=e436] [cursor=pointer]:
+                    - generic [ref=e437]: share
+              - listitem [ref=e438]:
+                - generic [ref=e440]:
+                  - generic [ref=e442]:
+                    - heading "Senior Software Engineer, Operations Research" [level=3] [ref=e445]
+                    - paragraph [ref=e447]:
+                      - text: Google |
+                      - generic [ref=e448]: Zürich, Switzerland
+                    - generic [ref=e450]:
+                      - generic [ref=e452]: Learn more
+                      - link "Learn more about Senior Software Engineer, Operations Research" [ref=e453] [cursor=pointer]:
+                        - /url: jobs/results/122028489434899142-senior-software-engineer-operations-research
+                  - button "Share Senior Software Engineer, Operations Research" [ref=e458] [cursor=pointer]:
+                    - generic [ref=e459]: share
+              - listitem [ref=e460]:
+                - generic [ref=e462]:
+                  - generic [ref=e464]:
+                    - heading "Software Engineer, AI Agents, Tools and Productivity" [level=3] [ref=e467]
+                    - paragraph [ref=e469]:
+                      - text: Google |
+                      - generic [ref=e470]: Bengaluru, Karnataka, India
+                    - generic [ref=e472]:
+                      - generic [ref=e474]: Learn more
+                      - link "Learn more about Software Engineer, AI Agents, Tools and Productivity" [ref=e475] [cursor=pointer]:
+                        - /url: jobs/results/128096185154970310-software-engineer-ai-agents-tools-and-productivity
+                  - button "Share Software Engineer, AI Agents, Tools and Productivity" [ref=e480] [cursor=pointer]:
+                    - generic [ref=e481]: share
+              - listitem [ref=e482]:
+                - generic [ref=e484]:
+                  - generic [ref=e486]:
+                    - heading "Data Center Technician, Server Operations" [level=3] [ref=e489]
+                    - paragraph [ref=e491]:
+                      - text: Google |
+                      - generic [ref=e492]: Nong Yai, Nong Yai District, Chon Buri, Thailand
+                    - generic [ref=e494]:
+                      - generic [ref=e496]: Learn more
+                      - link "Learn more about Data Center Technician, Server Operations" [ref=e497] [cursor=pointer]:
+                        - /url: jobs/results/126724184695808710-data-center-technician-server-operations
+                  - button "Share Data Center Technician, Server Operations" [ref=e502] [cursor=pointer]:
+                    - generic [ref=e503]: share
+            - generic [ref=e508]:
+              - status [ref=e509]:
+                - generic [ref=e510]: Showing 1 to 20 of 3674 rows
+                - generic [ref=e511]: 1‑20 of 3674
+              - generic [ref=e512] [cursor=pointer]:
+                - generic [ref=e513]: navigate_next
+                - link "Go to next page" [ref=e514]:
+                  - /url: https://www.google.com/about/careers/applications/jobs/results/?page=2
+      - contentinfo [ref=e516]:
+        - generic [ref=e518]:
+          - generic [ref=e519]:
+            - heading "Follow Life at Google on" [level=2] [ref=e520]
+            - list [ref=e521]:
+              - listitem [ref=e522]:
+                - link "View our Instagram feed (Opens in a new tab)" [ref=e523] [cursor=pointer]:
+                  - /url: https://www.instagram.com/lifeatgoogle/
+              - listitem [ref=e528]:
+                - link "View our Twitter feed (Opens in a new tab)" [ref=e529] [cursor=pointer]:
+                  - /url: https://twitter.com/lifeatgoogle
+              - listitem [ref=e532]:
+                - link "View our YouTube channel (Opens in a new tab)" [ref=e533] [cursor=pointer]:
+                  - /url: https://www.youtube.com/lifeatgoogle
+              - listitem [ref=e536]:
+                - link "View LinkedIn (Opens in a new tab)" [ref=e537] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/google/jobs/
+              - listitem [ref=e540]:
+                - link "View our Facebook (Opens in a new tab)" [ref=e541] [cursor=pointer]:
+                  - /url: https://www.facebook.com/lifeatgoogle/
+          - generic [ref=e546]:
+            - generic [ref=e547]:
+              - heading "More about us" [level=2] [ref=e548]
+              - generic [ref=e549]:
+                - link "About us (opens in a new tab)" [ref=e550] [cursor=pointer]:
+                  - /url: https://about.google/
+                  - text: About us
+                  - generic [ref=e552]: open_in_new
+                - link "Contact us (opens in a new tab)" [ref=e553] [cursor=pointer]:
+                  - /url: https://about.google/contact-google/
+                  - text: Contact us
+                  - generic [ref=e555]: open_in_new
+                - link "Press (opens in a new tab)" [ref=e556] [cursor=pointer]:
+                  - /url: https://blog.google/press/
+                  - text: Press
+                  - generic [ref=e558]: open_in_new
+            - generic [ref=e559]:
+              - heading "Related Information" [level=2] [ref=e560]
+              - generic [ref=e561]:
+                - link "Investor relations (opens in a new tab)" [ref=e562] [cursor=pointer]:
+                  - /url: https://abc.xyz/investor/
+                  - text: Investor relations
+                  - generic [ref=e564]: open_in_new
+                - link "Blog (opens in a new tab)" [ref=e565] [cursor=pointer]:
+                  - /url: https://blog.google/
+                  - text: Blog
+                  - generic [ref=e567]: open_in_new
+            - generic [ref=e568]:
+              - heading "Equal Opportunity" [level=2] [ref=e569]
+              - paragraph [ref=e570]:
+                - text: Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also
+                - link "Google's EEO Policy" [ref=e571] [cursor=pointer]:
+                  - /url: https://www.google.com/about/careers/applications/eeo/
+                - text: ","
+                - 'link "Know your rights: workplace discrimination is illegal" [ref=e572] [cursor=pointer]':
+                  - /url: https://careers.google.com/jobs/dist/legal/EEOC_KnowYourRights_10_20.pdf
+                - text: ","
+                - link "Belonging at Google" [ref=e573] [cursor=pointer]:
+                  - /url: https://about.google/belonging/
+                - text: ", and"
+                - link "How we hire" [ref=e574] [cursor=pointer]:
+                  - /url: https://careers.google.com/how-we-hire/
+                - text: .
+          - generic [ref=e575]:
+            - link "google.com (Opens in a new tab)" [ref=e577] [cursor=pointer]:
+              - /url: https://www.google.com/
+              - img "Google" [ref=e578]
+            - generic [ref=e579]:
+              - generic [ref=e580]:
+                - link "Privacy (opens in a new tab)" [ref=e582] [cursor=pointer]:
+                  - /url: https://policies.google.com/privacy
+                  - text: Privacy
+                  - generic [ref=e584]: open_in_new
+                - link "Applicant & Candidate Privacy (opens in a new tab)" [ref=e586] [cursor=pointer]:
+                  - /url: ./privacy-policy
+                  - text: Applicant & Candidate Privacy
+                  - generic [ref=e588]: open_in_new
+                - link "Terms (opens in a new tab)" [ref=e590] [cursor=pointer]:
+                  - /url: https://policies.google.com/terms
+                  - text: Terms
+                  - generic [ref=e592]: open_in_new
+              - generic [ref=e593]:
+                - link "Help (opens in a new tab)" [ref=e594] [cursor=pointer]:
+                  - /url: https://support.google.com/googlecareers/#topic=6095159
+                  - generic [ref=e596]: help
+                  - text: Help
+                  - generic [ref=e598]: open_in_new
+                - combobox "Select language" [ref=e602] [cursor=pointer]:
+                  - generic: language
+                  - generic:
+                    - generic: English
+                  - generic:
+                    - img

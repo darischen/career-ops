@@ -1,0 +1,891 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - link "Skip to Content":
+      - /url: "#main"
+  - generic [ref=e2]:
+    - banner:
+      - generic [ref=e4]:
+        - link "Shopify" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Shopify" [ref=e7]
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - 'link "External source: Start for free" [ref=e11] [cursor=pointer]':
+              - /url: https://admin.shopify.com/signup?locale=en&language=en&signup_page=https%3A%2F%2Fwww.shopify.com%2Fblog%2Fwholesale-suppliers&signup_types%5B%5D=paid_trial_experience&signup_types%5B%5D=gmv_plus_towq
+              - text: Start for free
+          - listitem [ref=e12]:
+            - button "Menu" [ref=e13] [cursor=pointer]
+      - generic [ref=e19]:
+        - link "Shopify":
+          - /url: /
+          - img "Shopify"
+        - list [ref=e21]:
+          - listitem [ref=e22]:
+            - link "Log in" [ref=e23] [cursor=pointer]:
+              - /url: /login?ui_locales=en
+          - listitem [ref=e24]:
+            - link "Start for free" [ref=e25] [cursor=pointer]:
+              - /url: https://admin.shopify.com/signup?locale=en&language=en&signup_page=https%3A%2F%2Fwww.shopify.com%2Fblog%2Fwholesale-suppliers&signup_types%5B%5D=paid_trial_experience&signup_types%5B%5D=gmv_plus_towq
+    - main [ref=e26]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e30]:
+            - paragraph [ref=e31]: Start selling with Shopify today
+            - paragraph [ref=e32]: Start your free trial with Shopify today—then use these resources to guide you through every step of the process.
+            - generic [ref=e39]:
+              - link "Start for free" [ref=e40] [cursor=pointer]:
+                - /url: https://admin.shopify.com/signup?locale=en&language=en&signup_page=https%3A%2F%2Fwww.shopify.com%2Fblog%2Fwholesale-suppliers&signup_types%5B%5D=paid_trial_experience
+              - button "How does Shopify work" [ref=e41] [cursor=pointer]:
+                - paragraph [ref=e43]: How does Shopify work
+          - article [ref=e44]:
+            - generic [ref=e45]:
+              - generic [ref=e47]:
+                - generic [ref=e48]:
+                  - link "blog" [ref=e49] [cursor=pointer]:
+                    - /url: /blog/
+                  - text: "|"
+                  - link "Backoffice" [ref=e50] [cursor=pointer]:
+                    - /url: /blog/topics/backoffice
+                - heading "How To Find Wholesale Suppliers (2026)" [level=1] [ref=e51]
+                - paragraph [ref=e52]: Finding a reliable wholesale supplier is essential. A trustworthy partner fulfills quality orders on time—and can be the difference between success and failure.
+                - generic [ref=e53]:
+                  - generic [ref=e54]:
+                    - text: by
+                    - link "Kaleigh Moore" [ref=e56] [cursor=pointer]:
+                      - /url: /blog/authors/kaleigh-moore
+                  - generic [ref=e57]:
+                    - text: Updated on
+                    - time [ref=e58]: Mar 6, 2026
+              - img "Abstract pipeline made of three glowing cubes connected by a horizontal rail" [ref=e60]
+            - generic [ref=e61]:
+              - navigation [ref=e63]:
+                - generic [ref=e64]: On this page
+                - list [ref=e65]:
+                  - listitem [ref=e66]:
+                    - link "What is a wholesale supplier?" [ref=e67] [cursor=pointer]:
+                      - /url: "#1"
+                  - listitem [ref=e68]:
+                    - link "How to find and vet reputable wholesale suppliers" [ref=e69] [cursor=pointer]:
+                      - /url: "#2"
+                  - listitem [ref=e70]:
+                    - link "8 leading wholesale suppliers" [ref=e71] [cursor=pointer]:
+                      - /url: "#3"
+                  - listitem [ref=e72]:
+                    - link "Other considerations for finding suitable wholesale supplier" [ref=e73] [cursor=pointer]:
+                      - /url: "#4"
+                  - listitem [ref=e74]:
+                    - link "Questions to ask potential suppliers" [ref=e75] [cursor=pointer]:
+                      - /url: "#6"
+                  - listitem [ref=e76]:
+                    - link "How to build strong relationships with wholesale supplier" [ref=e77] [cursor=pointer]:
+                      - /url: "#7"
+                  - listitem [ref=e78]:
+                    - link "Popular wholesale products" [ref=e79] [cursor=pointer]:
+                      - /url: "#8"
+                  - listitem [ref=e80]:
+                    - link "Wholesale suppliers FAQ" [ref=e81] [cursor=pointer]:
+                      - /url: "#9"
+                - generic [ref=e83]:
+                  - paragraph [ref=e84]: Start your online business today.
+                  - paragraph [ref=e85]: For free.
+                  - link "Start for free" [ref=e86] [cursor=pointer]:
+                    - /url: https://admin.shopify.com/signup?locale=en&language=en&signup_page=https%3A%2F%2Fwww.shopify.com%2Fblog%2Fwholesale-suppliers&signup_types%5B%5D=paid_trial_experience&signup_types%5B%5D=gmv_plus_towq
+                    - generic [ref=e87]: Start for free
+                    - img [ref=e89]
+              - generic [ref=e91]:
+                - generic [ref=e93]:
+                  - paragraph [ref=e94]:
+                    - text: The US wholesale industry has generated around
+                    - link "$9.7 trillion" [ref=e95] [cursor=pointer]:
+                      - /url: https://www.statista.com/markets/423/topic/532/wholesale/#overview
+                    - text: in total goods sales—a market too big for sellers to ignore. While more businesses are entering wholesale ecommerce, finding wholesale suppliers and sourcing products can feel overwhelming.
+                  - paragraph [ref=e96]:
+                    - text: This guide will help you understand how wholesale buying works, explore your sourcing options, and learn how to find wholesale or
+                    - link "dropshipping suppliers" [ref=e97] [cursor=pointer]:
+                      - /url: /blog/dropshipping-suppliers
+                    - text: that match your business needs.
+                  - paragraph [ref=e98]: Whether you're just starting out or looking to expand your product line, you'll discover practical strategies to build reliable supply partnerships.
+                  - heading "What is a wholesale supplier?" [level=2] [ref=e99]
+                  - paragraph [ref=e100]: A wholesale supplier buys products directly from the manufacturers and sells them to retailers. The wholesale model gained popularity during the rise of mass production in the 19th century.
+                  - paragraph [ref=e101]:
+                    - text: Wholesalers serve as intermediaries in the
+                    - link "supply chain" [ref=e102] [cursor=pointer]:
+                      - /url: /blog/supply-chain-management
+                    - text: ", buying products from"
+                    - link "manufacturers" [ref=e103] [cursor=pointer]:
+                      - /url: /blog/13975985-how-to-find-a-manufacturer-or-supplier-for-your-product-idea
+                    - text: or
+                    - link "distributors" [ref=e104] [cursor=pointer]:
+                      - /url: /blog/wholesale-distributor
+                    - text: in large quantities at discount rates. They pass these savings on to retailers, who typically pay between 60% and 70% of the final consumer price. Most wholesale suppliers have product licenses and offer special pricing that's only available to retail partners.
+                  - generic [ref=e105]:
+                    - paragraph [ref=e106]: Sell wholesale and direct to consumers with Shopify
+                    - paragraph [ref=e107]: Only Shopify comes with built-in features that help you sell B2B and DTC from a single store or platform. Tailor the shopping experience for each buyer with customized product and pricing publishing, quantity rules, payment terms, and more—no third-party apps or coding required.
+                    - link "Explore B2B on Shopify" [ref=e108] [cursor=pointer]:
+                      - /url: /plus/solutions/b2b-ecommerce?itcat=coreblog&itterm=shopify-b2b-cta
+                  - heading "How to find and vet reputable wholesale suppliers" [level=2] [ref=e109]
+                  - paragraph [ref=e110]: "Finding the right partner for your business is a two-step process: first, you need to know where to look, and second, you need to know how to evaluate your options. Here's how to do both."
+                  - heading "Where to find suppliers" [level=3] [ref=e111]
+                  - paragraph [ref=e112]:
+                    - text: While online wholesale marketplaces are a common starting point, building direct connections can lead to better partners and deals. Explore these avenues for
+                    - link "wholesale opportunities" [ref=e113] [cursor=pointer]:
+                      - /url: /blog/wholesale-opportunities-how-to-scale-your-retail-business-through-bulk-selling
+                    - text: ":"
+                  - list [ref=e114]:
+                    - listitem [ref=e115]:
+                      - strong [ref=e116]: "Industry trade shows:"
+                      - text: Meet suppliers face-to-face to build rapport and see products firsthand.
+                    - listitem [ref=e117]:
+                      - strong [ref=e118]: "Niche social media groups:"
+                      - text: Connect with other merchants and get real-world recommendations.
+                    - listitem [ref=e119]:
+                      - strong [ref=e120]: "Trade organizations:"
+                      - text: Memberships often include access to directories of pre-vetted suppliers in your product category.
+                  - heading "What to look for in a supplier" [level=3] [ref=e122]
+                  - paragraph [ref=e123]: "Once you have a list of potential suppliers, use these criteria to choose the best one:"
+                  - list [ref=e124]:
+                    - listitem [ref=e125]:
+                      - strong [ref=e126]: "Product quality:"
+                      - text: Always get samples before placing a large order. This helps you check the quality yourself and avoid getting stuck with products you can't sell. Do some
+                      - link "market research" [ref=e127] [cursor=pointer]:
+                        - /url: /blog/what-is-market-research
+                      - text: to ensure the products meet customer expectations.
+                    - listitem [ref=e128]:
+                      - strong [ref=e129]: "Pricing and negotiation:"
+                      - text: Keep track of typical wholesale prices and don't be afraid to negotiate. Most suppliers offer better deals on bulk purchases. A 10% discount is a common starting point and shows you're getting a fair rate.
+                    - listitem [ref=e130]:
+                      - strong [ref=e131]: "Customer service:"
+                      - text: Choose suppliers with a track record of solving problems quickly. Check reviews and ask how they handle issues like damaged items or shipping delays. This is especially critical if you're
+                      - link "dropshipping" [ref=e132] [cursor=pointer]:
+                        - /url: /blog/what-is-dropshipping
+                      - text: .
+                    - listitem [ref=e133]:
+                      - strong [ref=e134]: "Shipping speed:"
+                      - text: Since most customers consider fast delivery to be under
+                      - link "three business days" [ref=e135] [cursor=pointer]:
+                        - /url: https://www.pitneybowes.com/us/blog/speed-expectations-2024.html
+                      - text: ", ask about order processing times, shipping carriers, and typical delivery windows. Check if they offer expedited options for rush orders."
+                  - paragraph
+                  - paragraph
+                  - heading "8 leading wholesale suppliers" [level=2] [ref=e138]
+                  - paragraph [ref=e139]:
+                    - text: Want to offer a variety of products or compete on price? Here are some great
+                    - link "wholesale marketplaces" [ref=e140] [cursor=pointer]:
+                      - /url: /blog/wholesale-marketplace
+                    - text: "to check out:"
+                  - list [ref=e141]:
+                    - listitem [ref=e142]:
+                      - link "Shopify Collective" [ref=e143] [cursor=pointer]:
+                        - /url: "#11"
+                    - listitem [ref=e144]:
+                      - link "Alibaba and AliExpress" [ref=e145] [cursor=pointer]:
+                        - /url: "#12"
+                    - listitem [ref=e146]:
+                      - link "DHgate" [ref=e147] [cursor=pointer]:
+                        - /url: "#13"
+                    - listitem [ref=e148]:
+                      - link "EK Wholesale" [ref=e149] [cursor=pointer]:
+                        - /url: "#14"
+                    - listitem [ref=e150]:
+                      - link "Faire" [ref=e151] [cursor=pointer]:
+                        - /url: "#15"
+                    - listitem [ref=e152]:
+                      - link "Wholesale Central" [ref=e153] [cursor=pointer]:
+                        - /url: "#16"
+                    - listitem [ref=e154]:
+                      - link "IndiaMart" [ref=e155] [cursor=pointer]:
+                        - /url: "#17"
+                    - listitem [ref=e156]:
+                      - link "Thomasnet" [ref=e157] [cursor=pointer]:
+                        - /url: "#188"
+                  - heading "1. Shopify Collective" [level=3] [ref=e158]
+                  - figure "Sell high-quality products from other retailers on your online store with Shopify Collective." [ref=e159]:
+                    - img "A product SKU that a retailer has imported and made $53,000 in sales from." [ref=e160]
+                    - generic [ref=e161]: Sell high-quality products from other retailers on your online store with Shopify Collective.
+                  - paragraph [ref=e162]:
+                    - link "Shopify Collective" [ref=e163] [cursor=pointer]:
+                      - /url: /collective
+                    - text: is a free supplier network that lets eligible Shopify users sell products from other Shopify brands. After browsing products and choosing items to sell, Shopify Collective makes it easy to contact suppliers and import product listings to your store.
+                  - paragraph [ref=e164]: At checkout, Shopify Collective calculates shipping rates and routes orders to suppliers for delivery to customers. Products ship globally, with shipping rates and destinations depending on the supplier's shipping service.
+                  - paragraph [ref=e165]: "This platform is perfect if you:"
+                  - list [ref=e166]:
+                    - listitem [ref=e167]: Don't have much storage space but want to sell more products.
+                    - listitem [ref=e168]: Want to keep cash flow healthy (you only pay suppliers after making a sale).
+                    - listitem [ref=e169]: Dream of creating an online department store with multiple brands.
+                    - listitem [ref=e170]: Want access to thousands of products across categories including clothing, beauty, home, food and beverage, and electronics.
+                  - paragraph [ref=e171]: You can view product descriptions, prices, ratings, and supplier information with verified reviews. Shopify Collective also provides product recommendations based on your store's existing bestsellers, with margins that typically range from 20% to 50%.
+                  - paragraph [ref=e172]:
+                    - text: Take luxury fashion brand
+                    - link "Larroude" [ref=e173] [cursor=pointer]:
+                      - /url: /case-studies/larroude
+                    - text: ", for example. It uses Shopify Collective for \"Colléct\"—its curated marketplace of emerging brands. \"Through a seamless expansion into other luxury brands, Shopify Collective drove an impressive 21% month-over-month revenue increase, showcasing the power of brand collaborations and the ability to tap into new categories,\" says Bianca Inocencio, business solution specialist at Larroude."
+                  - heading "2. Alibaba and AliExpress" [level=3] [ref=e174]
+                  - figure "Find Chinese wholesale suppliers on Alibaba and AliExpress." [ref=e175]:
+                    - generic [ref=e176]:
+                      - img "AliExpress homepage promoting 11.11 sale with $4 off every $20 banner."
+                    - generic [ref=e177]: Find Chinese wholesale suppliers on Alibaba and AliExpress.
+                  - paragraph [ref=e178]:
+                    - link "Alibaba" [ref=e179] [cursor=pointer]:
+                      - /url: /blog/16665772-alibaba-101-how-to-safely-source-products-from-the-worlds-biggest-supplier-directory
+                    - text: and its partner site,
+                    - link "AliExpress," [ref=e180] [cursor=pointer]:
+                      - /url: /blog/117607173-the-definitive-guide-to-dropshipping-with-aliexpress
+                    - text: are common destinations for global retailers looking to
+                    - link "source products" [ref=e181] [cursor=pointer]:
+                      - /url: /source-products
+                    - text: from Chinese wholesalers.
+                  - paragraph [ref=e182]: "Just starting out? Try AliExpress first, purchase a single product before jumping into Alibaba's world of wholesale bulk buying. These platforms are great for:"
+                  - list [ref=e183]:
+                    - listitem [ref=e184]: Finding affordable, new products from China.
+                    - listitem [ref=e185]: Exploring tons of products at different price points, from hair care to home decor.
+                    - listitem [ref=e186]:
+                      - text: Creating your own
+                      - link "private label" [ref=e187] [cursor=pointer]:
+                        - /url: /blog/private-label
+                      - text: products.
+                  - paragraph [ref=e188]:
+                    - text: Shipping from China has gotten much better thanks to
+                    - link "ePacket" [ref=e189] [cursor=pointer]:
+                      - /url: /blog/epacket-delivery-explained-everything-you-need-to-know-about-epacket-shipping
+                    - text: delivery. This means getting products from Chinese suppliers is now faster and cheaper than ever.
+                  - heading "3. DHgate" [level=3] [ref=e190]
+                  - figure "Find wholesalers on DHGate that sell replica goods." [ref=e191]:
+                    - img "DHGate wholesale supplier website promoting discounts." [ref=e192]
+                    - generic [ref=e193]: Find wholesalers on DHGate that sell replica goods.
+                  - paragraph [ref=e194]:
+                    - link "DHgate" [ref=e195] [cursor=pointer]:
+                      - /url: https://dhgate.com/
+                    - text: is another Chinese wholesale platform with competitive prices. Just keep in mind that it's known for replica goods. If you need authentic products, you'll want to look carefully at who you're buying from.
+                  - paragraph [ref=e196]: "What makes DHgate worth checking out:"
+                  - list [ref=e197]:
+                    - listitem [ref=e198]: Great prices across different products.
+                    - listitem [ref=e199]: Lots of options for any type of store.
+                    - listitem [ref=e200]: Easy-to-use rating system to check supplier reliability.
+                  - heading "4. EK Wholesale" [level=3] [ref=e201]
+                  - figure "Scottish-based supplier EK specializes in wholesale clothing." [ref=e202]:
+                    - img "EK Wholesale's supplier website sells bulk clothing at discounted prices." [ref=e203]
+                    - generic [ref=e204]: Scottish-based supplier EK specializes in wholesale clothing.
+                  - paragraph [ref=e205]:
+                    - link "EK Wholesale" [ref=e206] [cursor=pointer]:
+                      - /url: https://ekwholesale.co.uk/
+                    - text: has been in the game for more than 30 years, making it a go-to supplier in Europe. Based in Scotland, it focuses on quality
+                    - link "wholesale clothing" [ref=e207] [cursor=pointer]:
+                      - /url: /blog/wholesale-boutique-clothing
+                    - text: and ships free to the UK mainland when you spend more than £250.
+                  - paragraph [ref=e208]: "EK Wholesale might be right for you if you:"
+                  - list [ref=e209]:
+                    - listitem [ref=e210]: Run a fashion store.
+                    - listitem [ref=e211]: Want to start your own clothing brand.
+                    - listitem [ref=e212]: Sell mostly to European customers.
+                  - heading "5. Faire" [level=3] [ref=e213]
+                  - figure "Source inventory for your Shopify store with the Faire app." [ref=e214]:
+                    - img "Online wholesale marketplace Faire with new arrivals." [ref=e215]
+                    - generic [ref=e216]: Source inventory for your Shopify store with the Faire app.
+                  - paragraph [ref=e217]:
+                    - link "Faire" [ref=e218] [cursor=pointer]:
+                      - /url: https://www.faire.com/
+                    - text: is popular with North American merchants. You'll find lots of suppliers from across the continent selling everything from beauty products to office supplies to pet accessories.
+                  - paragraph [ref=e219]:
+                    - text: Faire is also
+                    - link "great for dropshippers" [ref=e220] [cursor=pointer]:
+                      - /url: https://www.faire.com/discover/drop-shipping
+                    - text: . Many of its suppliers offer free shipping, which helps keep your costs down when you're just starting out.
+                  - paragraph [ref=e221]: "Faire offers two ways to use their platform with Shopify:"
+                  - list [ref=e222]:
+                    - listitem [ref=e223]:
+                      - text: Buy wholesale products through the
+                      - 'link "Faire: Buy Wholesale" [ref=e224] [cursor=pointer]':
+                        - /url: https://apps.shopify.com/faire-buy-wholesale
+                      - text: app.
+                    - listitem [ref=e225]:
+                      - text: Sell products to retailers globally with the
+                      - 'link "Faire: Sell Wholesale" [ref=e226] [cursor=pointer]':
+                        - /url: https://apps.shopify.com/faire-sell-wholesale
+                      - text: app.
+                  - heading "6. Wholesale Central" [level=3] [ref=e227]
+                  - figure "Browse popular categories on this B2B supplier directory site." [ref=e228]:
+                    - img "Wholesale Central website with categories like apparel, electronics, and jewelry."
+                    - generic [ref=e229]: Browse popular categories on this B2B supplier directory site.
+                  - paragraph [ref=e230]:
+                    - link "Wholesale Central" [ref=e231] [cursor=pointer]:
+                      - /url: https://www.wholesalecentral.com/Dropshippers.html
+                    - text: keeps things simple. Its no-frills website connects you with more than 60 dropshipping suppliers offering products across popular categories—and there's no membership fee.
+                  - paragraph [ref=e232]: The website reviews and screens all suppliers to ensure they're legitimate. Products are available across categories including apparel, beauty, electronics, home goods, furniture, and homeware from US-based suppliers.
+                  - paragraph [ref=e233]: "What makes Wholesale Central stand out:"
+                  - list [ref=e234]:
+                    - listitem [ref=e235]:
+                      - text: "True"
+                      - link "wholesale pricing" [ref=e236] [cursor=pointer]:
+                        - /url: /blog/product-pricing-for-wholesale-and-retail
+                      - text: (you'll need your business ID and tax number).
+                    - listitem [ref=e237]: Easy search tools to find dropshippers in your area.
+                    - listitem [ref=e238]: No registration needed—start connecting with suppliers right away.
+                    - listitem [ref=e239]: Filter suppliers by location for faster shipping times.
+                  - heading "7. IndiaMart" [level=3] [ref=e240]
+                  - figure "Find wholesale suppliers that sell OTC pharmaceutical products on IndiaMart." [ref=e241]:
+                    - img "Indiamart's wholesale supplier website promoting products the browser might like." [ref=e242]
+                    - generic [ref=e243]: Find wholesale suppliers that sell OTC pharmaceutical products on IndiaMart.
+                  - paragraph [ref=e244]:
+                    - link "IndiaMart" [ref=e245] [cursor=pointer]:
+                      - /url: https://indiamart.com/
+                    - text: "shines in specific industries. Consider this marketplace if you're selling:"
+                  - list [ref=e246]:
+                    - listitem [ref=e247]: Medical supplies
+                    - listitem [ref=e248]: Chemical products
+                    - listitem [ref=e249]: Industrial equipment
+                    - listitem [ref=e250]: Automotive parts
+                    - listitem [ref=e251]: Over-the-counter pharmaceuticals
+                  - paragraph [ref=e252]: It's one of the few wholesale platforms that work with these specialized industries, making it valuable for niche sellers.
+                  - heading "8. Thomasnet" [level=3] [ref=e253]
+                  - figure "Use Thomasnet to find suppliers based in the USA, Canada, and Mexico." [ref=e254]:
+                    - img "Thomasnet homepage with search function for wholesale suppliers"
+                    - generic [ref=e255]: Use Thomasnet to find suppliers based in the USA, Canada, and Mexico.
+                  - paragraph [ref=e256]:
+                    - link "Thomasnet" [ref=e257] [cursor=pointer]:
+                      - /url: https://www.thomasnet.com/
+                    - text: is a free-to-use supplier discovery platform listing 500,000+ North American OEMs, custom manufacturers, wholesale distributors, and service companies across more than six million industrial products.
+                  - paragraph [ref=e258]: Retailers and private label brands use it to source domestically, shorten lead times, and avoid import duties. Buyers can filter results by location, diversity status, and quality certifications, then send RFIs or download CAD drawings directly from a supplier's profile.
+                  - paragraph [ref=e259]: "Thomasnet is perfect if you:"
+                  - list [ref=e260]:
+                    - listitem [ref=e261]: Want to work with North American suppliers.
+                    - listitem [ref=e262]:
+                      - text: Require a smaller
+                      - link "minimum order quantity (MOQ)" [ref=e263] [cursor=pointer]:
+                        - /url: /blog/minimum-order-quantity
+                      - text: or custom manufacturing runs.
+                    - listitem [ref=e264]: Require vendors with verified ISO, FDA, and ITAR certifications.
+                  - generic [ref=e265]:
+                    - paragraph [ref=e266]: Skip the tariff guesswork
+                    - paragraph [ref=e267]: When importing products from international suppliers to the U.S., use Shopify's Tariff Guide to quickly find the correct HS codes and U.S. tariff rates for your products. Enter your product details to get accurate information without the complexity of customs jargon.
+                    - link "Find tariff rates" [ref=e268] [cursor=pointer]:
+                      - /url: https://tariffguide.ai/
+                  - heading "Other considerations for finding suitable wholesale suppliers" [level=2] [ref=e269]
+                  - paragraph [ref=e270]: "Finding the right supplier takes some digging. Here are some common pitfalls to watch out for:"
+                  - heading "Location matters" [level=3] [ref=e271]
+                  - paragraph [ref=e272]: Fast delivery is a must for today's shoppers. Think about where your customers are. If you're selling to European customers, shipping from a German supplier will be faster and cheaper than shipping from China.
+                  - paragraph [ref=e273]:
+                    - text: Also consider
+                    - link "navigating tariffs and customs requirements" [ref=e274] [cursor=pointer]:
+                      - /url: /blog/international-import-shipping
+                    - text: when sourcing internationally, as these can significantly impact your costs and delivery times.
+                  - paragraph [ref=e275]: Global tariffs can wipe out margin overnight. After recent Section 301 rate increases, for example, soft goods vendors switched cashmere beanie and scarf production from China to the Philippines to avoid added duties.
+                  - paragraph [ref=e276]: The move preserved unit costs but triggered knock-on expenses—20,000 warehouse units and 40, 000 store units needed re-ticketing, plus system-wide price updates.
+                  - paragraph [ref=e277]: When vetting suppliers, confirm they have contingency factories in non-tariffed countries and written plans for quick migration.
+                  - heading "Budget wisely" [level=3] [ref=e278]
+                  - paragraph [ref=e279]: "Find the sweet spot with your spending:"
+                  - list [ref=e280]:
+                    - listitem [ref=e281]: Order enough to get wholesale benefits.
+                    - listitem [ref=e282]: Don't overcommit to untested products.
+                    - listitem [ref=e283]: Set clear budget limits.
+                    - listitem [ref=e284]:
+                      - link "Calculate costs" [ref=e285] [cursor=pointer]:
+                        - /url: /blog/product-pricing-for-wholesale-and-retail
+                      - text: before ordering.
+                  - heading "Watch for hidden costs" [level=3] [ref=e286]
+                  - paragraph [ref=e287]: "Most wholesale suppliers charge membership fees—that's normal. But make sure you understand all the costs upfront. Ask about:"
+                  - list [ref=e288]:
+                    - listitem [ref=e289]: Membership fees
+                    - listitem [ref=e290]: Minimum order requirements
+                    - listitem [ref=e291]: Shipping costs
+                    - listitem [ref=e292]: Payment terms
+                  - heading "Check legitimacy" [level=3] [ref=e293]
+                  - paragraph [ref=e294]: Be wary of wholesale suppliers that sell to the public. Real wholesale suppliers need to see your business ID—it's how they protect their wholesale pricing.
+                  - generic [ref=e295]:
+                    - paragraph [ref=e296]: Source suppliers with Shopify Collective
+                    - paragraph [ref=e297]: Connect with US-based Shopify brands to easily sell their products. Use Shopify Collective to curate items from like-minded stores and ship directly to your customers. Free for eligible Shopify users.
+                    - link "Learn more" [ref=e298] [cursor=pointer]:
+                      - /url: /collective/retailer
+                  - heading "How wholesale suppliers help your business" [level=3] [ref=e299]
+                  - paragraph [ref=e300]:
+                    - text: "Wholesale suppliers let you focus on what matters: picking great products (so you don't have to"
+                    - link "develop your own products" [ref=e301] [cursor=pointer]:
+                      - /url: /blog/product-development-process
+                    - text: "), marketing them well, and providing excellent customer service. Working with wholesalers gives you several advantages:"
+                  - list [ref=e302]:
+                    - listitem [ref=e303]: Buy what as you need without expensive storage costs.
+                    - listitem [ref=e304]: Quickly restock popular items through established supplier relationships.
+                    - listitem [ref=e305]: Get better prices that lead to healthy profit margins.
+                    - listitem [ref=e306]:
+                      - text: Skip the
+                      - link "product development" [ref=e307] [cursor=pointer]:
+                        - /url: /blog/product-development-strategy
+                      - text: process—saving money and time.
+                  - heading "Understanding dropshipping suppliers" [level=3] [ref=e308]
+                  - paragraph [ref=e309]:
+                    - text: Dropshipping is a different
+                    - link "fulfillment method" [ref=e310] [cursor=pointer]:
+                      - /url: /blog/shipping-and-fulfillment
+                    - text: from traditional wholesale. Instead of keeping inventory, you purchase products from third-party suppliers who ship directly to your customers. Think of it as combining wholesale purchasing with third-party fulfillment.
+                  - paragraph [ref=e311]:
+                    - text: The
+                    - link "dropshipping business model" [ref=e312] [cursor=pointer]:
+                      - /url: /blog/what-is-dropshipping
+                    - text: "helps you avoid:"
+                  - list [ref=e313]:
+                    - listitem [ref=e314]: Managing inventory
+                    - listitem [ref=e315]: Packing orders
+                    - listitem [ref=e316]: Handling shipping
+                  - paragraph [ref=e317]: "Popular dropshipping apps that integrate with Shopify include:"
+                  - list [ref=e318]:
+                    - listitem [ref=e319]:
+                      - strong [ref=e320]:
+                        - link "DropCommerce" [ref=e321] [cursor=pointer]:
+                          - /url: https://apps.shopify.com/dropcommerce
+                        - text: ":"
+                      - text: Connects you with US and Canadian suppliers offering two to seven day shipping within North America.
+                    - listitem [ref=e322]:
+                      - strong [ref=e323]:
+                        - link "Syncee" [ref=e324] [cursor=pointer]:
+                          - /url: https://apps.shopify.com/syncee-1
+                        - text: ":"
+                      - text: Provides access to more than 12,000 global brands, ideal for international selling.
+                    - listitem [ref=e325]:
+                      - strong [ref=e326]:
+                        - link "AI Dropship" [ref=e327] [cursor=pointer]:
+                          - /url: https://apps.shopify.com/dropshipper-ai
+                        - text: ":"
+                      - text: Offers US and EU suppliers with delivery in under seven days for many locations.
+                  - paragraph [ref=e328]: These supplier networks have warehouses or fulfillment capabilities across the US or Europe, so customers can receive orders quickly. Most offer free plans that let you explore the platform before subscribing.
+                  - paragraph [ref=e329]:
+                    - text: Just starting out? Consider using a
+                    - link "dropshipping app" [ref=e330] [cursor=pointer]:
+                      - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping
+                    - text: that connects with your online store. If you're more experienced or have a specific niche, you might prefer working directly with wholesale suppliers for better pricing.
+                  - paragraph [ref=e331]:
+                    - strong [ref=e332]: "Learn more:"
+                    - link "150+ Dropshipping Products to Sell for Profit" [ref=e333] [cursor=pointer]:
+                      - /url: /blog/best-dropshipping-products
+                  - generic [ref=e334]:
+                    - paragraph [ref=e335]: Dropship products with Shopify
+                    - paragraph [ref=e336]: Connect dropshipping apps to your store to discover, list, and sell products—no inventory or shipping to manage.
+                    - link "Browse apps" [ref=e337] [cursor=pointer]:
+                      - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping
+                  - heading "Questions to ask potential suppliers" [level=2] [ref=e338]
+                  - paragraph [ref=e339]:
+                    - text: Before reaching out to suppliers, gather your
+                    - link "business license" [ref=e340] [cursor=pointer]:
+                      - /url: /blog/business-license
+                    - text: "and tax documents—many won't even discuss pricing without them. This is normal: certified wholesalers can only sell to businesses, not consumers."
+                  - paragraph [ref=e341]: "When you do call, here are key questions to ask:"
+                  - heading "Minimum orders and pricing" [level=3] [ref=e342]
+                  - list [ref=e343]:
+                    - listitem [ref=e344]: What are your MOQs? If you're looking to order 100 pieces of jewelry but the supplier only offers discounts on orders of 500 pieces or more, then that's an issue.
+                    - listitem [ref=e345]: What's the cost per unit?
+                    - listitem [ref=e346]: Do you offer volume discounts?
+                  - paragraph [ref=e347]: Don't order more than you need just to get a better price. An unsold product that seemed like a bargain can quickly become a costly mistake.
+                  - heading "Policies and timing" [level=3] [ref=e348]
+                  - list [ref=e349]:
+                    - listitem [ref=e350]: What's your return policy? Who covers shipping for returns?
+                    - listitem [ref=e351]: How long does it typically take to fulfill orders?
+                    - listitem [ref=e352]: How do you handle out-of-stock situations?
+                    - listitem [ref=e353]: How quickly can you pivot production to another country if tariffs or trade rules change?
+                  - paragraph [ref=e354]: Clear shipping times help you set customer expectations. Long delays or unclear restocking timelines can lead to unhappy customers.
+                  - paragraph [ref=e355]: "Remember: Most terms are negotiable, especially once you build a relationship with your supplier."
+                  - paragraph [ref=e356]:
+                    - strong [ref=e357]: "Learn more:"
+                    - link "The Ultimate Wholesale Terminology Glossary" [ref=e358] [cursor=pointer]:
+                      - /url: /blog/wholesale-terminology
+                  - heading "Documentation and compliance" [level=3] [ref=e359]
+                  - paragraph [ref=e360]: Make sure the supplier fits how and where you sell. Some suppliers allow sales on your own website but ban sites like Amazon, Walmart, or eBay.
+                  - paragraph [ref=e361]: "Be sure to ask:"
+                  - list [ref=e362]:
+                    - listitem [ref=e363]: Do you authorize resale on marketplaces?
+                    - listitem [ref=e364]: What paperwork will you provide with each order?
+                  - paragraph [ref=e365]: You'll need proof of every purchase. If there is ever a problem with customs or a customer, you have to prove the origin of your inventory. Clear invoices make returns, disputes, and compliance checks easier.
+                  - heading "Final checks before partnering" [level=3] [ref=e366]
+                  - paragraph [ref=e367]: "Before signing any agreements, take these important last steps:"
+                  - paragraph [ref=e368]:
+                    - strong [ref=e369]: Ask for references.
+                    - text: Request contact information for current customers. Be cautious if a supplier hesitates to share references—this could be a red flag.
+                  - paragraph [ref=e370]:
+                    - strong [ref=e371]: Check insurance.
+                    - text: Make sure they have
+                    - link "product liability insurance" [ref=e372] [cursor=pointer]:
+                      - /url: /blog/product-liability-insurance
+                    - text: . This protects you if customers are injured by faulty products. A supplier without insurance puts your business at risk.
+                  - paragraph [ref=e373]:
+                    - strong [ref=e374]: Review the numbers.
+                    - text: Start small with new suppliers, even if bigger discounts are tempting. Calculate all your costs upfront, including shipping or handling fees. Remember that unsold inventory ties up money you could use elsewhere in your business, so don't let exciting deals push you to overextend your budget.
+                  - heading "How to build strong relationships with suppliers" [level=2] [ref=e375]
+                  - paragraph [ref=e376]: "Strong supplier relationships can make or break your business. Here's how to create partnerships that last and help both sides succeed:"
+                  - heading "Communicate clearly" [level=3] [ref=e377]
+                  - paragraph [ref=e378]: Wholesale suppliers work with many brands at once, so respect their time with direct communication. Instead of vague inquiries like "I'm thinking about starting a dropshipping business," ask specific questions like, "What's your best price for 250 units per month?"
+                  - heading "Think beyond your needs" [level=3] [ref=e379]
+                  - paragraph [ref=e380]:
+                    - text: Don't just reach out when you want something. Find ways to make the relationship work for both sides. For example, ask for their preferred order form template or get the right email for
+                    - link "accounts payable" [ref=e381] [cursor=pointer]:
+                      - /url: /blog/accounts-payable
+                    - text: . Small things that streamline their processes can make a big difference in how they work with you.
+                  - heading "Pay on time" [level=3] [ref=e382]
+                  - paragraph [ref=e383]: Most suppliers give you a month after delivery to pay for orders, letting you sell some inventory first. Meeting these payment schedules is crucial—suppliers are running a business too. Late payment might lead to stricter terms or even losing the supplier altogether.
+                  - generic [ref=e384]:
+                    - paragraph [ref=e385]: Take control of your cash flow with Shopify Payments
+                    - paragraph [ref=e386]: Only with Shopify Payments can you track your orders and payments all in one place. Have a complete view of your finances, and accept local currencies and payment types for a smooth checkout experience.
+                    - link "Discover Shopify Payments" [ref=e387] [cursor=pointer]:
+                      - /url: /payments?itcat=coreblog&itterm=shopify-payments-cta
+                  - heading "Give and receive feedback" [level=3] [ref=e388]
+                  - paragraph [ref=e389]: It's rare to get the working relationship right the first time. Both you and your wholesale supplier are learning about each other. Stay open to feedback—it helps solve issues quickly and builds rapport.
+                  - heading "Show appreciation" [level=3] [ref=e390]
+                  - paragraph [ref=e391]:
+                    - text: When you find a reliable wholesale supplier, let them know. A strong relationship helps secure steady inventory and
+                    - link "reduces stockouts" [ref=e392] [cursor=pointer]:
+                      - /url: /blog/what-causes-a-stockout
+                    - text: . Suppliers who feel valued are more likely to prioritize your orders and offer you new items first, helping keep your
+                    - link "product assortment" [ref=e393] [cursor=pointer]:
+                      - /url: /blog/product-assortment
+                    - text: fresh.
+                  - heading "Popular wholesale products" [level=2] [ref=e394]
+                  - paragraph [ref=e395]: When choosing suppliers, consider your specific product needs. While many suppliers offer general merchandise, some excel in particular niches.
+                  - paragraph [ref=e396]:
+                    - text: Here's what to look for in
+                    - link "trending product" [ref=e397] [cursor=pointer]:
+                      - /url: /blog/trending-products
+                    - text: "categories:"
+                  - heading "Wholesale jewelry" [level=3] [ref=e398]
+                  - paragraph [ref=e399]:
+                    - text: Before placing a large order for your
+                    - link "jewelry business" [ref=e400] [cursor=pointer]:
+                      - /url: /blog/203365449-start-a-jewellery-making-business
+                    - text: ", check these key details. If a supplier doesn't provide this information, keep looking:"
+                  - list [ref=e401]:
+                    - listitem [ref=e402]: Product reviews and quality ratings—do products meet customer expectations?
+                    - listitem [ref=e403]: Current client list—well-known retailers build confidence in the supplier.
+                    - listitem [ref=e404]: Shipping insurance and damage policies—jewelry is small and delicate, so clarify who covers losses before ordering.
+                  - paragraph [ref=e405]:
+                    - strong [ref=e406]: "Learn more:"
+                    - link "How To Get Started Dropshipping Jewelry" [ref=e407] [cursor=pointer]:
+                      - /url: /blog/dropshipping-jewelry
+                  - heading "Wholesale clothing" [level=3] [ref=e408]
+                  - paragraph [ref=e409]: "Fashion is popular with dropshippers and constantly evolves with trends. When evaluating fashion wholesalers, focus on:"
+                  - list [ref=e410]:
+                    - listitem [ref=e411]:
+                      - text: Clear niche focus (women's, children's, or
+                      - link "men's wholesale clothing" [ref=e412] [cursor=pointer]:
+                        - /url: /blog/wholesale-mens-clothing
+                      - text: ).
+                    - listitem [ref=e413]: Brand customization options, like custom t-shirts or hoodies.
+                    - listitem [ref=e414]: Professional packaging—it's the only channel that reaches 100% of your customers.
+                  - paragraph [ref=e415]:
+                    - strong [ref=e416]: "Learn more:"
+                    - link "What Is Print on Demand and How To Start a Business" [ref=e417] [cursor=pointer]:
+                      - /url: /blog/print-on-demand
+                  - heading "Wholesale tea and coffee" [level=3] [ref=e418]
+                  - paragraph [ref=e419]:
+                    - link "Selling coffee online" [ref=e420] [cursor=pointer]:
+                      - /url: /blog/sell-coffee
+                    - text: "offers an easy entry point into ecommerce, but has unique considerations:"
+                  - list [ref=e421]:
+                    - listitem [ref=e422]:
+                      - link "Product packaging" [ref=e423] [cursor=pointer]:
+                        - /url: /blog/ecommerce-packaging
+                      - text: quality is crucial since customers don't see a logo while drinking.
+                    - listitem [ref=e424]: Brand identity support—good suppliers in the food industry should help you build your brand.
+                  - paragraph [ref=e425]:
+                    - strong [ref=e426]: "Learn more:"
+                    - link "How To Start Dropshipping Coffee" [ref=e427] [cursor=pointer]:
+                      - /url: /blog/dropshipping-coffee
+                  - heading "Wholesale wellness and personal care" [level=3] [ref=e428]
+                  - paragraph [ref=e429]: The wellness industry is a high-growth sector for wholesalers. When looking for suppliers in personal care, lotions, or skin care, make sure they provide a full ingredient list.
+                  - paragraph [ref=e430]: "Focus on:"
+                  - list [ref=e431]:
+                    - listitem [ref=e432]: Transparency and safety for certified care and first aid products to build trust with buyers.
+                    - listitem [ref=e433]: Verification that products meet standard quality ratings.
+                  - heading "Wholesale home and lifestyle" [level=3] [ref=e434]
+                  - paragraph [ref=e435]: "Expanding into home decor or pet supplies requires finding suppliers that can handle a range of shipping needs for both fragile and bulk items. Consider:"
+                  - list [ref=e436]:
+                    - listitem [ref=e437]: Clarifying who covers shipping for returns or damaged goods.
+                    - listitem [ref=e438]: Who offers specialized goods or gift wraps to increase AOV.
+                    - listitem [ref=e439]: Who offers samples to check the quality for yourself before placing a large order.
+                  - heading "Find your perfect wholesale supplier today" [level=2] [ref=e440]
+                  - paragraph [ref=e441]: Starting an online store might feel overwhelming if you don't have products to sell. But finding reliable wholesale suppliers is easier than ever. Look for well-reviewed suppliers who know your niche, order samples, negotiate prices, and get started. Shopify is there with you at every step.
+                  - separator [ref=e442]
+                  - paragraph [ref=e443]:
+                    - text: From first-time sellers to global retailers, Shopify works for everyone.
+                    - link "See plans and pricing" [ref=e444] [cursor=pointer]:
+                      - /url: /pricing
+                    - text: .
+                  - generic [ref=e445]:
+                    - heading "Read more" [level=2] [ref=e446]
+                    - list [ref=e447]:
+                      - listitem [ref=e448]:
+                        - link "The Ultimate Guide To Dropshipping (2024)" [ref=e449] [cursor=pointer]:
+                          - /url: /blog/dropshipping-guide
+                      - listitem [ref=e450]:
+                        - link "How To Sell Sex Toys Online in 2024" [ref=e451] [cursor=pointer]:
+                          - /url: /blog/sell-sex-toys
+                      - listitem [ref=e452]:
+                        - link "How To Source Products To Sell Online" [ref=e453] [cursor=pointer]:
+                          - /url: /blog/product-sourcing-apps
+                      - listitem [ref=e454]:
+                        - link "The 13 Best Dropshipping Suppliers in 2024" [ref=e455] [cursor=pointer]:
+                          - /url: /blog/dropshipping-suppliers
+                      - listitem [ref=e456]:
+                        - link "How to Start a Dropshipping Business- A Complete Playbook for 2024" [ref=e457] [cursor=pointer]:
+                          - /url: /blog/how-to-start-dropshipping
+                      - listitem [ref=e458]:
+                        - link "How to Start an Online Boutique- A Complete Playbook" [ref=e459] [cursor=pointer]:
+                          - /url: /blog/start-online-boutique
+                      - listitem [ref=e460]:
+                        - 'link "How To Sell Wholesale: Best Products and Marketplaces (2024)" [ref=e461] [cursor=pointer]':
+                          - /url: /blog/selling-wholesale
+                      - listitem [ref=e462]:
+                        - link "Free Business Plan Template- A Practical Framework for Creating Your Business Plan" [ref=e463] [cursor=pointer]:
+                          - /url: /blog/business-plan-template
+                      - listitem [ref=e464]:
+                        - link "12 Checkout Process Optimization Tips to Increase Ecommerce Revenue" [ref=e465] [cursor=pointer]:
+                          - /url: /blog/checkout-process-optimization
+                      - listitem [ref=e466]:
+                        - link "Ecommerce Laws- Legal Requirements for Ecommerce Websites" [ref=e467] [cursor=pointer]:
+                          - /url: /blog/ecommerce-laws
+                  - generic [ref=e469]:
+                    - heading "Wholesale suppliers FAQ" [level=2] [ref=e470]
+                    - generic [ref=e471]:
+                      - heading "How do I find a reliable wholesaler?" [level=3] [ref=e472]
+                      - generic [ref=e473]:
+                        - paragraph [ref=e474]
+                        - list [ref=e475]:
+                          - listitem [ref=e476]: Attend trade shows
+                          - listitem [ref=e477]: Use wholesale directories like Alibaba or ThomasNet
+                          - listitem [ref=e478]: Contact manufacturers directly
+                          - listitem [ref=e479]: Search online marketplaces
+                          - listitem [ref=e480]: Join wholesale forums
+                          - listitem [ref=e481]: Ask for referrals
+                    - generic [ref=e482]:
+                      - heading "Where can I buy bulk items to resell?" [level=3] [ref=e483]
+                      - paragraph [ref=e485]: Popular wholesale websites include AliExpress, DHgate, Alibaba, and Amazon. The best choice depends on your product type.
+                    - generic [ref=e486]:
+                      - heading "How do I buy wholesale for a small business?" [level=3] [ref=e487]
+                      - generic [ref=e488]:
+                        - paragraph [ref=e489]: "Most wholesale suppliers only sell to businesses, not to consumers. You'll likely need:"
+                        - list [ref=e490]:
+                          - listitem [ref=e491]: A business bank account
+                          - listitem [ref=e492]: An employer identification number (EIN)
+                          - listitem [ref=e493]:
+                            - text: Obtain a
+                            - link "wholesale license" [ref=e494] [cursor=pointer]:
+                              - /url: /blog/get-a-wholesale-license
+                    - generic [ref=e495]:
+                      - heading "Can I use wholesale suppliers for dropshipping?1" [level=3] [ref=e496]
+                      - paragraph [ref=e498]: Yes, many wholesale suppliers offer dropshipping. They'll pick, pack, and ship orders directly to your customers from their warehouse.
+                - generic [ref=e499]:
+                  - generic [ref=e500]:
+                    - generic [ref=e502]: KM
+                    - generic [ref=e503]:
+                      - generic [ref=e504]:
+                        - text: by
+                        - link "Kaleigh Moore" [ref=e506] [cursor=pointer]:
+                          - /url: /blog/authors/kaleigh-moore
+                      - generic [ref=e507]:
+                        - text: Updated on
+                        - time [ref=e508]: Mar 6, 2026
+                  - generic [ref=e509]:
+                    - generic [ref=e510]: Share article
+                    - list [ref=e511]:
+                      - listitem [ref=e512]:
+                        - 'link "External source: Facebook (Opens in a new window)" [ref=e513] [cursor=pointer]':
+                          - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.shopify.com%2Fblog%2Fwholesale-suppliers
+                          - img [ref=e514]
+                          - generic [ref=e516]: Facebook
+                      - listitem [ref=e517]:
+                        - 'link "External source: Twitter (Opens in a new window)" [ref=e518] [cursor=pointer]':
+                          - /url: https://twitter.com/intent/tweet?text=How+To+Find+Wholesale+Suppliers+(2026)&url=https%3A%2F%2Fwww.shopify.com%2Fblog%2Fwholesale-suppliers&via=Shopify
+                          - img [ref=e519]
+                          - generic [ref=e521]: Twitter
+                      - listitem [ref=e522]:
+                        - 'link "External source: LinkedIn (Opens in a new window)" [ref=e523] [cursor=pointer]':
+                          - /url: https://www.linkedin.com/shareArticle?mini=true&source=Shopify&title=How+To+Find+Wholesale+Suppliers+(2026)&url=https%3A%2F%2Fwww.shopify.com%2Fblog%2Fwholesale-suppliers
+                          - img [ref=e524]
+                          - generic [ref=e526]: LinkedIn
+          - generic [ref=e527]:
+            - heading "popular posts" [level=5] [ref=e530]
+            - generic [ref=e532]:
+              - article [ref=e534]:
+                - generic [ref=e535]:
+                  - link "Brand" [ref=e537] [cursor=pointer]:
+                    - /url: /blog/topics/brand
+                  - link "Examples and Tips for Beautiful Ecommerce Website Design" [ref=e539] [cursor=pointer]:
+                    - /url: /blog/best-ecommerce-sites
+                  - paragraph [ref=e540]: 2024-02-21
+              - article [ref=e542]:
+                - generic [ref=e543]:
+                  - link "Starting Up" [ref=e545] [cursor=pointer]:
+                    - /url: /blog/topics/starting-up
+                  - link "How To Find a Manufacturer or Supplier for a Product (2025)" [ref=e547] [cursor=pointer]:
+                    - /url: /blog/13975985-how-to-find-a-manufacturer-or-supplier-for-your-product-idea
+                  - paragraph [ref=e548]: 2024-01-26
+              - article [ref=e550]:
+                - generic [ref=e551]:
+                  - link "Sell Online" [ref=e553] [cursor=pointer]:
+                    - /url: /blog/topics/sell-online
+                  - link "10 Best Ecommerce Website Builders for Your Online Store (2025)" [ref=e555] [cursor=pointer]:
+                    - /url: /blog/best-ecommerce-website-builder
+                  - paragraph [ref=e556]: 2023-11-06
+              - article [ref=e558]:
+                - generic [ref=e559]:
+                  - link "Find an Idea" [ref=e561] [cursor=pointer]:
+                    - /url: /blog/topics/find-an-idea
+                  - 'link "How To Sell Art Online: The Complete Guide (2025)" [ref=e563] [cursor=pointer]':
+                    - /url: /blog/211990409-how-to-sell-art-online
+                  - paragraph [ref=e564]: 2024-01-04
+          - generic [ref=e570]:
+            - img "subscription banner" [ref=e572]
+            - generic [ref=e574]:
+              - generic [ref=e575]:
+                - text: The newsletter for entrepreneurs
+                - generic [ref=e576]: Join millions of self-starters in getting business resources, tips, and inspiring stories in your inbox.
+              - generic [ref=e577]:
+                - generic [ref=e578]:
+                  - generic [ref=e579]:
+                    - generic [ref=e580]: Email here
+                    - textbox "Email here" [ref=e581]
+                    - button "Subscribe" [ref=e583] [cursor=pointer]
+                  - textbox "address" [ref=e584]
+                - paragraph [ref=e585]:
+                  - text: Unsubscribe anytime. By entering your email, you agree to receive marketing emails from Shopify. By proceeding, you agree to the
+                  - link "Terms and Conditions" [ref=e586] [cursor=pointer]:
+                    - /url: /legal/terms
+                  - text: and
+                  - link "Privacy Policy" [ref=e587] [cursor=pointer]:
+                    - /url: /legal/privacy
+                  - text: .
+        - generic [ref=e589]:
+          - generic [ref=e590]: Sell anywhere with Shopify
+          - paragraph [ref=e591]: Learn on the go. Try Shopify for free, and explore all the tools you need to start, run, and grow your business.
+          - link "Start for free" [ref=e594] [cursor=pointer]:
+            - /url: https://admin.shopify.com/signup?locale=en&language=en&signup_page=https%3A%2F%2Fwww.shopify.com%2Fblog%2Fwholesale-suppliers&signup_types%5B%5D=paid_trial_experience
+          - paragraph [ref=e595]: Start free then enjoy 3 months for SGD 1/month
+    - contentinfo [ref=e596]:
+      - link "Back to the top" [ref=e597] [cursor=pointer]:
+        - /url: "#main"
+        - img
+      - list [ref=e598]:
+        - listitem [ref=e599]:
+          - heading "Shopify" [level=3] [ref=e600]
+          - list [ref=e601]:
+            - listitem [ref=e602]:
+              - link "What is Shopify?" [ref=e603] [cursor=pointer]:
+                - /url: /blog/what-is-shopify
+            - listitem [ref=e604]:
+              - link "Shopify Editions" [ref=e605] [cursor=pointer]:
+                - /url: /editions
+            - listitem [ref=e606]:
+              - link "Careers" [ref=e607] [cursor=pointer]:
+                - /url: /careers
+            - listitem [ref=e608]:
+              - link "Investors" [ref=e609] [cursor=pointer]:
+                - /url: https://www.shopify.com/investors
+            - listitem [ref=e610]:
+              - link "Newsroom" [ref=e611] [cursor=pointer]:
+                - /url: /news
+            - listitem [ref=e612]:
+              - link "Sustainability" [ref=e613] [cursor=pointer]:
+                - /url: /climate
+        - listitem [ref=e614]:
+          - heading "Ecosystem" [level=3] [ref=e615]
+          - list [ref=e616]:
+            - listitem [ref=e617]:
+              - link "Developer Docs" [ref=e618] [cursor=pointer]:
+                - /url: https://shopify.dev/docs
+            - listitem [ref=e619]:
+              - link "Theme Store" [ref=e620] [cursor=pointer]:
+                - /url: https://themes.shopify.com/
+            - listitem [ref=e621]:
+              - link "App Store" [ref=e622] [cursor=pointer]:
+                - /url: https://apps.shopify.com/
+            - listitem [ref=e623]:
+              - link "Partners" [ref=e624] [cursor=pointer]:
+                - /url: /partners
+            - listitem [ref=e625]:
+              - link "Affiliates" [ref=e626] [cursor=pointer]:
+                - /url: /affiliates
+        - listitem [ref=e627]:
+          - heading "Resources" [level=3] [ref=e628]
+          - list [ref=e629]:
+            - listitem [ref=e630]:
+              - link "Blog" [ref=e631] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e632]:
+              - link "Compare Shopify" [ref=e633] [cursor=pointer]:
+                - /url: /compare
+            - listitem [ref=e634]:
+              - link "Guides" [ref=e635] [cursor=pointer]:
+                - /url: /blog/topics/guides
+            - listitem [ref=e636]:
+              - link "Courses" [ref=e637] [cursor=pointer]:
+                - /url: https://www.shopifyacademy.com
+            - listitem [ref=e638]:
+              - link "Free Tools" [ref=e639] [cursor=pointer]:
+                - /url: /tools
+            - listitem [ref=e640]:
+              - link "Changelog" [ref=e641] [cursor=pointer]:
+                - /url: https://changelog.shopify.com
+        - listitem [ref=e642]:
+          - heading "Support" [level=3] [ref=e643]
+          - list [ref=e644]:
+            - listitem [ref=e645]:
+              - link "Shopify Help Center" [ref=e646] [cursor=pointer]:
+                - /url: https://help.shopify.com/en
+            - listitem [ref=e647]:
+              - link "Community Forum" [ref=e648] [cursor=pointer]:
+                - /url: https://community.shopify.com/
+            - listitem [ref=e649]:
+              - link "Hire a Partner" [ref=e650] [cursor=pointer]:
+                - /url: /partners/directory
+            - listitem [ref=e651]:
+              - link "Service Status" [ref=e652] [cursor=pointer]:
+                - /url: https://shopifystatus.com
+      - generic [ref=e653]:
+        - 'button "Region Navigation. Current: USA" [ref=e655] [cursor=pointer]':
+          - generic [ref=e656]:
+            - img [ref=e657]
+            - generic [ref=e659]: USA | English
+            - img
+        - list [ref=e660]:
+          - listitem [ref=e661]:
+            - link "Terms of Service" [ref=e662] [cursor=pointer]:
+              - /url: /legal/terms
+          - listitem [ref=e663]:
+            - link "Legal" [ref=e664] [cursor=pointer]:
+              - /url: /legal
+          - listitem [ref=e665]:
+            - link "Privacy Policy" [ref=e666] [cursor=pointer]:
+              - /url: /legal/privacy
+          - listitem [ref=e667]:
+            - link "Sitemap" [ref=e668] [cursor=pointer]:
+              - /url: /sitemap
+          - listitem [ref=e669]:
+            - link "Your Privacy Choices California Consumer Privacy Act (CCPA) Opt-Out Icon" [ref=e670] [cursor=pointer]:
+              - /url: https://privacy.shopify.com/en
+              - generic [ref=e671]:
+                - text: Your Privacy Choices
+                - img "California Consumer Privacy Act (CCPA) Opt-Out Icon" [ref=e672]
+        - list [ref=e673]:
+          - listitem [ref=e674]:
+            - 'link "External source: Facebook (Opens in a new window)" [ref=e675] [cursor=pointer]':
+              - /url: https://www.facebook.com/shopify
+              - img
+          - listitem [ref=e676]:
+            - 'link "External source: Twitter (Opens in a new window)" [ref=e677] [cursor=pointer]':
+              - /url: https://twitter.com/shopify
+              - img
+          - listitem [ref=e678]:
+            - 'link "External source: YouTube (Opens in a new window)" [ref=e679] [cursor=pointer]':
+              - /url: https://www.youtube.com/user/shopify
+              - img
+          - listitem [ref=e680]:
+            - 'link "External source: Instagram (Opens in a new window)" [ref=e681] [cursor=pointer]':
+              - /url: https://www.instagram.com/shopify/
+              - img
+          - listitem [ref=e682]:
+            - 'link "External source: TikTok (Opens in a new window)" [ref=e683] [cursor=pointer]':
+              - /url: https://www.tiktok.com/@shopify
+              - img
+          - listitem [ref=e684]:
+            - 'link "External source: LinkedIn (Opens in a new window)" [ref=e685] [cursor=pointer]':
+              - /url: https://www.linkedin.com/company/shopify
+              - img
+          - listitem [ref=e686]:
+            - 'link "External source: Pinterest (Opens in a new window)" [ref=e687] [cursor=pointer]':
+              - /url: https://www.pinterest.com/shopify/
+              - img
+  - img

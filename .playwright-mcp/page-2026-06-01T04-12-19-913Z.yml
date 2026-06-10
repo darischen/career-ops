@@ -1,0 +1,247 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Northslope" [ref=e6] [cursor=pointer]:
+        - /url: https://www.northslope.com/
+        - img "Northslope" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Northslope’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /northslope-technologies?utm_source=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Forward Deployed Software Engineer, New Grad" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York; London
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Department" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Engineering
+        - generic [ref=e26]:
+          - heading "Compensation" [level=2] [ref=e27]
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - generic [ref=e30]: $135K – $155K • Offers Equity
+      - generic [ref=e31]:
+        - tablist [ref=e32]:
+          - tab "Overview" [ref=e33] [cursor=pointer]
+          - tab "Application" [selected] [ref=e34] [cursor=pointer]
+        - tabpanel "Application" [ref=e36]:
+          - generic [ref=e37]:
+            - button "Choose File" [ref=e38]
+            - generic [ref=e40]:
+              - generic [ref=e41]:
+                - img [ref=e43]
+                - heading "Autofill from resume" [level=3] [ref=e45]
+              - paragraph [ref=e46]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e48] [cursor=pointer]
+          - generic [ref=e49]:
+            - generic [ref=e50]:
+              - generic [ref=e51]:
+                - generic [ref=e52]: Name*
+                - textbox "Name*" [ref=e54] [cursor=pointer]:
+                  - /placeholder: Type here...
+              - generic [ref=e55]:
+                - generic [ref=e56]: Email*
+                - textbox "Email*" [ref=e58] [cursor=pointer]:
+                  - /placeholder: hello@example.com...
+              - generic [ref=e59]:
+                - generic [ref=e60]: Resume*
+                - button "Resume*" [ref=e61]
+                - generic [ref=e62]:
+                  - button "Upload File" [ref=e63] [cursor=pointer]:
+                    - img [ref=e64]
+                    - generic [ref=e66]: Upload File
+                  - paragraph [ref=e67]: or drag and drop here
+              - generic [ref=e68]:
+                - generic [ref=e69]: Phone
+                - textbox "Phone" [ref=e70] [cursor=pointer]:
+                  - /placeholder: 1-415-555-1234...
+              - generic [ref=e71]:
+                - generic [ref=e72]: Cover Letter
+                - button "Cover Letter" [ref=e73]
+                - generic [ref=e74]:
+                  - button "Upload File" [ref=e75] [cursor=pointer]:
+                    - img [ref=e76]
+                    - generic [ref=e78]: Upload File
+                  - paragraph [ref=e79]: or drag and drop here
+              - generic [ref=e80]:
+                - generic [ref=e81]: LinkedIn Profile
+                - textbox "LinkedIn Profile" [ref=e83] [cursor=pointer]:
+                  - /placeholder: Type here...
+              - generic [ref=e84]:
+                - generic [ref=e85]: Website
+                - textbox "Website" [ref=e87] [cursor=pointer]:
+                  - /placeholder: Type here...
+            - generic [ref=e88]:
+              - heading "Work Authorization" [level=2] [ref=e90]
+              - generic [ref=e91]:
+                - generic [ref=e92]: Are you legally authorized to work in the country for which you are applying?
+                - generic [ref=e93]:
+                  - button "Yes" [ref=e94] [cursor=pointer]
+                  - button "No" [ref=e95] [cursor=pointer]
+              - generic [ref=e96]:
+                - generic [ref=e97]: Will you now or in the future require sponsorship for employment visa status (i.e. H-1B, etc.)?
+                - generic [ref=e98]:
+                  - button "Yes" [ref=e99] [cursor=pointer]
+                  - button "No" [ref=e100] [cursor=pointer]
+              - generic [ref=e101]:
+                - generic [ref=e102]: Additional information you would like us to know based on your above answers.
+                - textbox "Additional information you would like us to know based on your above answers." [ref=e103] [cursor=pointer]:
+                  - /placeholder: Type here...
+            - generic [ref=e104]:
+              - generic [ref=e105]:
+                - heading "Additional Questions" [level=2] [ref=e106]
+                - paragraph [ref=e108]: These questions help us understand your motivation and fit. Please answer both thoughtfully.
+              - generic [ref=e109]:
+                - generic [ref=e110]: Why do you want to join Northslope and what excites you most about our mission and product?*
+                - textbox "Why do you want to join Northslope and what excites you most about our mission and product?*" [ref=e111] [cursor=pointer]:
+                  - /placeholder: Type here...
+              - generic [ref=e112]:
+                - generic [ref=e113]: Tell us about one of your favorite projects and what you learned through it. *
+                - textbox "Tell us about one of your favorite projects and what you learned through it. *" [ref=e114] [cursor=pointer]:
+                  - /placeholder: Type here...
+            - generic [ref=e115]:
+              - heading "Offer Deadlines" [level=2] [ref=e117]
+              - generic [ref=e118]:
+                - generic [ref=e119]: Do you have any upcoming offer deadlines?
+                - generic [ref=e120]:
+                  - button "Yes" [ref=e121] [cursor=pointer]
+                  - button "No" [ref=e122] [cursor=pointer]
+              - generic [ref=e123]:
+                - generic [ref=e124]: If yes, when is it?
+                - textbox "If yes, when is it?" [ref=e126] [cursor=pointer]:
+                  - /placeholder: Type here...
+          - generic [ref=e128]:
+            - generic [ref=e129]:
+              - generic [ref=e131]:
+                - paragraph [ref=e132]:
+                  - strong [ref=e133]: U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION
+                  - text: (Completion is voluntary and will not subject you to adverse treatment)
+                - paragraph [ref=e134]
+                - paragraph [ref=e135]: Northslope provides equal employment opportunities to applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability.
+                - paragraph [ref=e136]
+                - paragraph [ref=e137]: We invite all applicants to voluntarily self-identify their race, ethnicity, and gender. Submission of the information on this form is strictly voluntary and refusal to provide it will not subject you to any adverse treatment. Information obtained will be retained in a confidential file and separate from personnel records. This information may only be used in accordance with the provision of applicable federal laws, executive orders, and regulations. If you want more information about any of the sections, please check with a company representative.
+              - group [ref=e139]:
+                - generic [ref=e140]: Gender
+                - paragraph [ref=e142]: Input gender
+                - generic [ref=e143]:
+                  - radio "Male" [ref=e146] [cursor=pointer]
+                  - generic [ref=e147]: Male
+                - generic [ref=e148]:
+                  - radio "Female" [ref=e151] [cursor=pointer]
+                  - generic [ref=e152]: Female
+                - generic [ref=e153]:
+                  - radio "Decline to self-identify" [ref=e156] [cursor=pointer]
+                  - generic [ref=e157]: Decline to self-identify
+              - group [ref=e159]:
+                - generic [ref=e160]: Race
+                - generic [ref=e161]:
+                  - list [ref=e162]:
+                    - listitem [ref=e163]:
+                      - paragraph [ref=e164]:
+                        - strong [ref=e165]: Hispanic or Latino
+                        - text: "- A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race."
+                  - list [ref=e166]:
+                    - listitem [ref=e167]:
+                      - paragraph [ref=e168]:
+                        - strong [ref=e169]: White
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+                    - listitem [ref=e170]:
+                      - paragraph [ref=e171]:
+                        - strong [ref=e172]: Black or African American
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the black racial groups of Africa.
+                    - listitem [ref=e173]:
+                      - paragraph [ref=e174]:
+                        - strong [ref=e175]: Native Hawaiian or Other Pacific Islander
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+                    - listitem [ref=e176]:
+                      - paragraph [ref=e177]:
+                        - strong [ref=e178]: Asian
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+                    - listitem [ref=e179]:
+                      - paragraph [ref=e180]:
+                        - strong [ref=e181]: American Indian or Alaska Native
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.
+                    - listitem [ref=e182]:
+                      - paragraph [ref=e183]:
+                        - strong [ref=e184]: Two or More Races
+                        - text: (Not Hispanic or Latino) - All persons who identify with more than one of the above five races.
+                - generic [ref=e185]:
+                  - radio "Hispanic or Latino" [ref=e188] [cursor=pointer]
+                  - generic [ref=e189]: Hispanic or Latino
+                - generic [ref=e190]:
+                  - radio "White (Not Hispanic or Latino)" [ref=e193] [cursor=pointer]
+                  - generic [ref=e194]: White (Not Hispanic or Latino)
+                - generic [ref=e195]:
+                  - radio "Black or African American (Not Hispanic or Latino)" [ref=e198] [cursor=pointer]
+                  - generic [ref=e199]: Black or African American (Not Hispanic or Latino)
+                - generic [ref=e200]:
+                  - radio "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)" [ref=e203] [cursor=pointer]
+                  - generic [ref=e204]: Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)
+                - generic [ref=e205]:
+                  - radio "Asian (Not Hispanic or Latino)" [ref=e208] [cursor=pointer]
+                  - generic [ref=e209]: Asian (Not Hispanic or Latino)
+                - generic [ref=e210]:
+                  - radio "American Indian or Alaska Native (Not Hispanic or Latino)" [ref=e213] [cursor=pointer]
+                  - generic [ref=e214]: American Indian or Alaska Native (Not Hispanic or Latino)
+                - generic [ref=e215]:
+                  - radio "Two or More Races (Not Hispanic or Latino)" [ref=e218] [cursor=pointer]
+                  - generic [ref=e219]: Two or More Races (Not Hispanic or Latino)
+                - generic [ref=e220]:
+                  - radio "Decline to self-identify" [ref=e223] [cursor=pointer]
+                  - generic [ref=e224]: Decline to self-identify
+            - generic [ref=e225]:
+              - generic [ref=e227]:
+                - paragraph [ref=e228]:
+                  - strong [ref=e229]: SELF-IDENTIFICATION OF VETERAN STATUS
+                  - text: (Completion is voluntary and will not subject you to adverse treatment)
+                - paragraph [ref=e230]: If you believe that you belong to any of the following categories of protected veterans, please indicate by making the appropriate selection
+                - list [ref=e231]:
+                  - listitem [ref=e232]:
+                    - paragraph [ref=e233]:
+                      - strong [ref=e234]: Disabled veteran
+                      - text: – A veteran who served on active duty in the U.S. military and is entitled to disability compensation (or who but for the receipt of military retired pay would be entitled to disability compensation) under laws administered by the Secretary of Veterans Affairs, or was discharged or released from active duty because of a service-connected disability
+                  - listitem [ref=e235]:
+                    - paragraph [ref=e236]:
+                      - strong [ref=e237]: Recently separated veteran
+                      - text: – A veteran separated during the three-year period beginning on the date of the veteran's discharge or release from active duty in the U.S military, ground, naval, or air service
+                  - listitem [ref=e238]:
+                    - paragraph [ref=e239]:
+                      - strong [ref=e240]: Active duty wartime or campaign badge veteran
+                      - text: – A veteran who served on active duty in the U.S. military during a war, or in a campaign or expedition for which a campaign badge was authorized under the laws administered by the Department of Defense
+                  - listitem [ref=e241]:
+                    - paragraph [ref=e242]:
+                      - strong [ref=e243]: Armed forces service medal veteran
+                      - text: "- Armed forces service medal veteran – A veteran who, while serving on active duty in the U.S. military ground, naval, or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985 (61 Fed. Reg. 1209)."
+              - group [ref=e245]:
+                - generic [ref=e246]: Veteran Status
+                - generic [ref=e247]:
+                  - radio "I identify as one or more of the classifications of protected veteran listed above" [ref=e250] [cursor=pointer]
+                  - generic [ref=e251]: I identify as one or more of the classifications of protected veteran listed above
+                - generic [ref=e252]:
+                  - radio "I am not a protected veteran" [ref=e255] [cursor=pointer]
+                  - generic [ref=e256]: I am not a protected veteran
+                - generic [ref=e257]:
+                  - radio "I decline to self-identify for protected veteran status" [ref=e260] [cursor=pointer]
+                  - generic [ref=e261]: I decline to self-identify for protected veteran status
+          - button "Submit Application" [ref=e262] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e263]
+  - contentinfo [ref=e265]:
+    - link "Learn more about Ashby" [ref=e266] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e267]: Powered by
+      - img "Ashby" [ref=e268]
+    - paragraph [ref=e274]:
+      - link "Privacy Policy" [ref=e275] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e276] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e277] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

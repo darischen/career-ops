@@ -1,0 +1,235 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-1780438508"
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - navigation [ref=e8]:
+        - generic [ref=e9]:
+          - button "menu" [ref=e10] [cursor=pointer]
+          - link "Amazon Jobs home page" [ref=e12] [cursor=pointer]:
+            - /url: /en
+            - generic [ref=e14]: Amazon Jobs home page
+        - menu [ref=e17] [cursor=pointer]: My career
+      - generic: h
+      - generic [ref=e18]:
+        - generic [ref=e25]:
+          - generic [ref=e26]:
+            - combobox "Search for jobs by title or keyword" [ref=e30]
+            - generic [ref=e32]:
+              - text: h
+              - combobox "search job by location" [ref=e34]
+          - button "Search jobs" [ref=e35] [cursor=pointer]
+        - generic [ref=e41]:
+          - img "Build next-gen hardware and the code to unleash it. Co-design tomorrow's AI at Annapurna Labs." [ref=e42]
+          - button "Find jobs" [ref=e44] [cursor=pointer]
+        - region [ref=e45]:
+          - generic [ref=e48]:
+            - heading "Recommended Jobs" [level=2] [ref=e50]
+            - list [ref=e51]:
+              - listitem [ref=e52]:
+                - generic [ref=e53]:
+                  - heading "Software Development Engineer – 2026" [level=3] [ref=e54]:
+                    - link "Software Development Engineer – 2026" [ref=e55] [cursor=pointer]:
+                      - /url: /en/jobs/3175845/software-development-engineer-2026
+                  - generic [ref=e56]:
+                    - generic "Amazon Uni Tlt Acquisition-VAR" [ref=e57]
+                    - generic "ES, Community of Madrid, Madrid" [ref=e58]
+              - listitem [ref=e59]:
+                - generic [ref=e60]:
+                  - heading "Software Development Engineer – 2026" [level=3] [ref=e61]:
+                    - link "Software Development Engineer – 2026" [ref=e62] [cursor=pointer]:
+                      - /url: /en/jobs/3119226/software-development-engineer-2026
+                  - generic [ref=e63]:
+                    - generic "Amazon Uni Tlt Acquisition-VAR" [ref=e64]
+                    - generic "RO, Iasi" [ref=e65]
+              - listitem [ref=e66]:
+                - generic [ref=e67]:
+                  - heading "Graduate Area/Shift Manager - Torino" [level=3] [ref=e68]:
+                    - link "Graduate Area/Shift Manager - Torino" [ref=e69] [cursor=pointer]:
+                      - /url: /en/jobs/3052684/graduate-area-shift-manager-torino
+                  - generic [ref=e70]:
+                    - generic "Fulfillment Center - Fixed" [ref=e71]
+                    - generic "IT, Piedmont, Turin" [ref=e72]
+        - generic [ref=e75]:
+          - generic [ref=e78]:
+            - generic [ref=e80]:
+              - heading "Student opportunities" [level=2] [ref=e81]
+              - paragraph [ref=e82]: At Amazon, what we’re building today defines tomorrow. Explore internships, apprenticeships, and full-time roles where you can think big, learn from others, and make an impact.
+            - link "Student opportunities" [ref=e84] [cursor=pointer]:
+              - /url: /content/en/career-programs/university
+              - text: Find your role
+          - generic [ref=e87]:
+            - generic [ref=e89]:
+              - heading "Hourly jobs" [level=2] [ref=e90]
+              - paragraph [ref=e91]: From the warehouse floor to customer doorsteps, every role has an impact. Search open jobs and discover how you can help shape the future of everyday life.
+            - link "Hourly jobs" [ref=e93] [cursor=pointer]:
+              - /url: /content/en/hourly
+              - text: Find your role
+          - generic [ref=e96]:
+            - generic [ref=e98]:
+              - heading "AI careers" [level=2] [ref=e99]
+              - paragraph [ref=e100]: From personalized shopping to intelligent robotics, our AI teams shape how customers live and work every day. Explore open roles and see how you can shape what’s next.
+            - link "AI careers" [ref=e102] [cursor=pointer]:
+              - /url: /content/en/artificial-intelligence-ai
+              - text: Find your role
+        - generic [ref=e104]:
+          - heading "Innovate with us" [level=2] [ref=e105]
+          - generic [ref=e106]:
+            - link "Teams Get to know Amazon teams and how we’re impacting the future. Discover teams" [ref=e109] [cursor=pointer]:
+              - /url: /content/en/teams
+              - generic [ref=e110]:
+                - heading "Teams" [level=3] [ref=e111]
+                - paragraph [ref=e112]: Get to know Amazon teams and how we’re impacting the future.
+                - generic [ref=e113]: Discover teams
+              - img [ref=e114]
+            - link "Job categories Find the right role to shape your future at Amazon. Browse categories" [ref=e117] [cursor=pointer]:
+              - /url: /content/en/job-categories
+              - generic [ref=e118]:
+                - heading "Job categories" [level=3] [ref=e119]
+                - paragraph [ref=e120]: Find the right role to shape your future at Amazon.
+                - generic [ref=e121]: Browse categories
+              - img [ref=e122]
+            - link "Locations See where Amazonians worldwide are making every day better. Explore locations" [ref=e125] [cursor=pointer]:
+              - /url: /content/en/locations
+              - generic [ref=e126]:
+                - heading "Locations" [level=3] [ref=e127]
+                - paragraph [ref=e128]: See where Amazonians worldwide are making every day better.
+                - generic [ref=e129]: Explore locations
+              - img [ref=e130]
+        - generic [ref=e134]:
+          - img [ref=e136]
+          - generic [ref=e137]:
+            - heading "Xiaole has grown from intern to expert" [level=2] [ref=e138]
+            - paragraph [ref=e139]: Engineer | Amazon Web Services | Beijing, China
+            - paragraph [ref=e141]:
+              - generic [ref=e143]: I started my career as an intern at AWS, and I’ve advanced my technical skills and knowledge here. What I enjoy most is technical analysis, collaborating with senior engineers across teams, and using my knowledge to solve problems while learning new skills. We have an inclusive and supportive environment. Everyone's unique background and expertise is respected and valued, whether you're an experienced engineer or a recent college graduate, so I feel safe expressing my ideas.
+            - button "Read more about this employee" [ref=e146] [cursor=pointer]: Read more
+        - generic [ref=e151]:
+          - heading "Impact the future, today" [level=1] [ref=e154]
+          - paragraph [ref=e157]: Every Amazonian, from warehouse floor to corporate HQ, shares a drive to impact the future, today. Our unmatched scale offers every employee endless opportunities to reimagine how customers shop, stream, eat, connect and live. United by our peculiar culture of curiosity, bold ownership and fearless initiative, we channel our customer obsession into making everyday impact—big and small.
+          - link "Learn about working at Amazon" [ref=e161] [cursor=pointer]:
+            - /url: /content/en/our-workplace
+    - generic [ref=e162]:
+      - generic [ref=e165]:
+        - generic [ref=e166]: JOIN US ON
+        - list [ref=e167]:
+          - listitem [ref=e168]:
+            - link "Join us on facebook" [ref=e169] [cursor=pointer]:
+              - /url: https://www.facebook.com/InsideAmazon/?Amazon.jobs=footer
+              - text: b
+          - listitem [ref=e170]:
+            - link "Join us on linkedin" [ref=e171] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/amazon?Amazon.jobs=footer
+              - text: d
+          - listitem [ref=e172]:
+            - link "Join us on instagram" [ref=e173] [cursor=pointer]:
+              - /url: https://www.instagram.com/insideamazon/?Amazon.jobs=footer
+              - text: c
+          - listitem [ref=e174]:
+            - link "Join us on twitter" [ref=e175] [cursor=pointer]:
+              - /url: https://twitter.com/amazonnews?Amazon.jobs=footer
+              - text: j
+        - generic [ref=e176]:
+          - generic [ref=e177]: DOWNLOAD OUR APP
+          - list [ref=e178]:
+            - listitem [ref=e179]:
+              - link "Download Amazon A to Z from App Store" [ref=e180] [cursor=pointer]:
+                - /url: https://apple.co/4mW6qxK
+                - img [ref=e181]
+            - listitem [ref=e182]:
+              - link "Download Amazon A to Z from Google Play" [ref=e183] [cursor=pointer]:
+                - /url: https://bit.ly/46JGIYu
+                - img [ref=e184]
+      - generic [ref=e188]:
+        - generic [ref=e189]:
+          - text: Find Careers
+          - list [ref=e190]:
+            - listitem [ref=e191]:
+              - link "Job Categories" [ref=e192] [cursor=pointer]:
+                - /url: /content/en/job-categories
+            - listitem [ref=e193]:
+              - link "Teams" [ref=e194] [cursor=pointer]:
+                - /url: /content/en/teams
+            - listitem [ref=e195]:
+              - link "Locations" [ref=e196] [cursor=pointer]:
+                - /url: /content/en/locations
+            - listitem [ref=e197]:
+              - link "Military careers" [ref=e198] [cursor=pointer]:
+                - /url: /content/en/career-programs/military
+            - listitem [ref=e199]:
+              - link "Hourly" [ref=e200] [cursor=pointer]:
+                - /url: /content/en/hourly
+        - generic [ref=e201]:
+          - text: Working At Amazon
+          - list [ref=e202]:
+            - listitem [ref=e203]:
+              - link "Culture" [ref=e204] [cursor=pointer]:
+                - /url: /content/en/our-workplace
+            - listitem [ref=e205]:
+              - link "Benefits" [ref=e206] [cursor=pointer]:
+                - /url: /content/en/benefits
+            - listitem [ref=e207]:
+              - link "Amazon Newsletter" [ref=e208] [cursor=pointer]:
+                - /url: https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_campaign=newslettersubscribers&utm_content=amazonnewssignup&utm_medium=amazonjobs&utm_source=footer
+            - listitem [ref=e209]:
+              - link "Inclusive experiences" [ref=e210] [cursor=pointer]:
+                - /url: /content/en/our-workplace/inclusive-experiences
+            - listitem [ref=e211]:
+              - link "Leadership Principles" [ref=e212] [cursor=pointer]:
+                - /url: /content/en/our-workplace/leadership-principles
+        - generic [ref=e213]:
+          - text: Help
+          - list [ref=e214]:
+            - listitem [ref=e215]:
+              - link "FAQ" [ref=e216] [cursor=pointer]:
+                - /url: /content/en/faq
+            - listitem [ref=e217]:
+              - link "How We Hire" [ref=e218] [cursor=pointer]:
+                - /url: /content/en/how-we-hire#onlineapp
+            - listitem [ref=e219]:
+              - link "Application status" [ref=e220] [cursor=pointer]:
+                - /url: https://www.amazon.jobs/applicant/check_application_status
+            - listitem [ref=e221]:
+              - link "Accommodations" [ref=e222] [cursor=pointer]:
+                - /url: /content/en/how-we-hire/accommodations
+            - listitem [ref=e223]:
+              - link "Legal disclosures and notices" [ref=e224] [cursor=pointer]:
+                - /url: /content/en/legal-disclosures-and-notices
+        - combobox "English" [ref=e230] [cursor=pointer]: English
+      - generic [ref=e232]:
+        - generic [ref=e234]:
+          - generic [ref=e235]: Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+          - generic [ref=e236]:
+            - link "Privacy and Data" [ref=e237] [cursor=pointer]:
+              - /url: /en/privacy_page
+            - link "Impressum" [ref=e238] [cursor=pointer]:
+              - /url: /en/impressum
+          - generic [ref=e239]: © 1996-2026, Amazon.com, Inc. or its affiliates
+        - generic [ref=e240]:
+          - generic [ref=e241]:
+            - generic [ref=e242]:
+              - heading "Notice of Right to Opt-Out Sharing" [level=3] [ref=e243]
+              - button [ref=e244] [cursor=pointer]
+            - paragraph [ref=e245]:
+              - text: Amazon Jobs uses cookies and similar tools such as pixels (collectively, “cookies”) for advertising purposes. The cookies collect and share information about you with third-parties to serve you with relevant advertisements and job recommendations based on your interactions with Amazon Jobs and third-party sites. California residents may exercise their right to opt-out of the sharing of information for advertising purposes by clicking toggling the buttons below. You can also manage your cookie preferences through the
+              - link "Cookie Preference Center" [ref=e246] [cursor=pointer]:
+                - /url: /cookies
+              - text: .
+            - paragraph [ref=e247]:
+              - text: For more information about how we use cookies and information of how we collect cookies, please visit our
+              - link "Candidate Cookie Notice" [ref=e248] [cursor=pointer]:
+                - /url: /privacy_page?region_id=region_us&notice_id=us-cookies-notice-english
+              - text: and
+              - link "Candidate Privacy Notice" [ref=e249] [cursor=pointer]:
+                - /url: /privacy_page?region_id=region_us&notice_id=us-privacy-english
+              - text: and the
+              - link "California supplement notice" [ref=e250] [cursor=pointer]:
+                - /url: /privacy_page?region_id=region_california&notice_id=california-privacy-english
+              - text: .
+          - list [ref=e252]:
+            - listitem [ref=e253]:
+              - button "Accept" [ref=e254] [cursor=pointer]: Accept all
+            - listitem [ref=e255]:
+              - button "Reject" [ref=e256] [cursor=pointer]: Reject all
+            - listitem [ref=e257]:
+              - button "Customize" [ref=e258] [cursor=pointer]: Customize cookies

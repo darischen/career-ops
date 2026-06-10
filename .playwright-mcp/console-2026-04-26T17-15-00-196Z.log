@@ -1,0 +1,39 @@
+[     811ms] [LOG] Page authentication status: false @ https://amazon.jobs/en/:73
+[     811ms] [LOG] Internal user status: false @ https://amazon.jobs/en/:74
+[    1014ms] [LOG] {
+	"eventData": {},
+	"job": {
+		"category": "",
+		"countryCode": "",
+		"division": "",
+		"id": "",
+		"jobLocation": "[]",
+		"jobFindingMethod": " ",
+		"title": "",
+		"relatedJobId": []
+	},
+	"page": {
+		"pageInfo": {
+			"countryLanguage": "en",
+			"pageName": "Amazon.jobs | Home",
+			"pageType": "",
+			"advertisingCookieID": "b3d6d0d8-a298-40ec-8071-f0822b52309a",
+			"analyticsCookieID": "0d7de396-d7d0-493d-8b86-36b67bbf17f4",
+			"siteSection": "amazon jobs",
+			"tabName": "",
+			"userID": "",
+			"userActionStoreId": "0d7de396-d7d0-493d-8b86-36b67bbf17f4",
+			"peopleSoftId": "",
+			"userType": "guest",
+			"userAuthMode": ""
+		},
+		"experiment": {
+			"experimentDetails": "AMAZON_JOBS_RECOMMENDATION_INGRESS_POINTS_883168:Show no Enhanced Profile Recommendation ingress point"
+		}
+	}
+} @ https://d1o95ve0lr2m33.cloudfront.net/launch-ENb97d7f9d2d4b4720ac9782a711994995.min.js:7
+[    1139ms] [ERROR] Loading the script 'https://bat.bing.com/bat.js' violates the following Content Security Policy directive: "script-src-elem 'self' 'unsafe-inline' apply.talentbrew.io assets.adobedtm.com bs.serving-sys.com d1fc8wv8zag5ca.cloudfront.net d1o95ve0lr2m33.cloudfront.net d1t40axu4ik42k.cloudfront.net googleadservices.com images-na.ssl-images-amazon.com secure-ds.serving-sys.com snap.licdn.com static.amazon.jobs static-gamma.amazon.jobs www.googletagmanager.com www.youtube.com midway-auth.amazon.com connect.facebook.net googleads.g.doubleclick.net ava.hirise.amazon.dev". The action has been blocked. @ https://www.googletagmanager.com/gtm.js?id=GTM-WJSMBWKS:218
+[    1454ms] [LOG] ChatWidget Web Component bundle loaded successfully. Use <chat-widget></chat-widget> in your HTML. @ https://ava.hirise.amazon.dev/assets/webcomponent/chat-widget.iife.js:37
+[    1454ms] [LOG] ChatWidget loaded @ https://amazon.jobs/en/:78
+[    1870ms] [LOG] [RUM] Initialization complete @ https://ava.hirise.amazon.dev/assets/webcomponent/chat-widget.iife.js:37
+[    2036ms] [ERROR] Loading the image 'https://px4.ads.linkedin.com/collect?v=2&fmt=js&pid=2897721&time=1777223701837&li_adsId=bd30ec0d-606e-499b-8101-e45e9e6fed05&url=https%3A%2F%2Famazon.jobs%2Fen%2F&tm=gtmv2&liSync=true&e_ipv6=AQJ5pkrbS9AcdwAAAZ3KyZeJ4jDB_44DnVbWx_p1hVinYzSYTIf2Klveto4X5VuLXUWQqgSwVSPSuFd_IAMwa3Mbe9hMr4HBqA' violates the following Content Security Policy directive: "img-src 'self' data: acdn.adnxs.com ad.doubleclick.net amazonhr.sc.omtrdc.net analytics.talentbrew.io cm.everesttech.net d1.awsstatic.com dpm.demdex.net fonts.gstatic.com ib.adnxs.com internal-cdn.amazon.com m.media-amazon.com px.ads.linkedin.com www.linkedin.com s3.us-west-2.amazonaws.com s3-us-west-2.amazonaws.com static.amazon.jobs static-gamma.amazon.jobs translate.google.com www.google-analytics.com www.google.com www.googleadservices.com www.googletagmanager.com". The action has been blocked. @ https://amazon.jobs/en/:0

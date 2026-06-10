@@ -1,0 +1,305 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - link [ref=e411] [cursor=pointer]:
+      - /url: ""
+      - text: Skip to main content
+    - generic [ref=e412]:
+      - paragraph [ref=e11]: We use cookies to make the safest and most effective website possible.
+      - generic [ref=e12]:
+        - button [ref=e413] [cursor=pointer]: Decline
+        - button [ref=e414] [cursor=pointer]: Accept Cookies
+    - banner [ref=e22]:
+      - generic [ref=e24]:
+        - link [ref=e415] [cursor=pointer]:
+          - /url: https://www.ptc.com/en/careers
+          - img [ref=e416]
+        - heading [level=1] [ref=e417]: PTC Careers
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - button [ref=e418] [cursor=pointer]:
+              - generic [ref=e39]: English
+            - button [ref=e419] [cursor=pointer]:
+              - generic [ref=e46]: Sign In
+          - navigation [ref=e47]:
+            - button [ref=e420] [cursor=pointer]: Home
+            - button [ref=e421] [cursor=pointer]: Search for Jobs
+            - button [ref=e422] [cursor=pointer]: Introduce Yourself
+    - img [ref=e423]
+    - generic [ref=e56]:
+      - alert [ref=e57]: Junior Software Engineer page is loaded
+      - generic [ref=e58]:
+        - generic [ref=e60]:
+          - heading [level=2] [ref=e424]: Junior Software Engineer
+          - button [ref=e425] [cursor=pointer]: Apply
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - generic [ref=e76]:
+              - term [ref=e77]: locations
+              - definition [ref=e78]: Foster City, CA, USA
+            - generic [ref=e79]:
+              - generic [ref=e88]:
+                - term [ref=e89]: time type
+                - definition [ref=e90]: Full time
+              - generic [ref=e99]:
+                - term [ref=e100]: posted on
+                - definition [ref=e101]: Posted 2 Days Ago
+              - generic [ref=e110]:
+                - term [ref=e111]: job requisition id
+                - definition [ref=e112]: JR112167
+          - generic [ref=e114]:
+            - paragraph [ref=e115]: Our world is transforming, and PTC is leading the way. Our software brings the physical and digital worlds together, enabling companies to improve operations, create better products, and empower people in all aspects of their business.
+            - paragraph [ref=e116]
+            - paragraph [ref=e117]: Our people make all the difference in our success. Today, we are a global team of nearly 7,000 and our main objective is to create opportunities for our team members to explore, learn, and grow – all while seeing their ideas come to life and celebrating the differences that make us who we are and the work we do possible.
+            - generic [ref=e118]:
+              - paragraph [ref=e120]:
+                - generic [ref=e121]: Junior Software Engineer
+              - paragraph [ref=e123]:
+                - generic [ref=e124]: Hybrid-San Mateo, CA.
+              - generic [ref=e125]:
+                - paragraph [ref=e126]
+                - paragraph [ref=e127]:
+                  - generic [ref=e128]: About Arena
+              - paragraph [ref=e130]:
+                - generic [ref=e131]:
+                  - generic [ref=e132]: Arena, a PTC business, helps
+                  - text: high-tech
+                  - generic [ref=e133]: manufacturers and medical device companies build products that change the world. Our
+                  - text: cloud-based
+                  - generic [ref=e134]: PLM and QMS software is used by innovators such as Nutanix,
+                  - text: BioRad
+                  - generic [ref=e135]: ", Sonos, Teleflex, and Citrix. As part of PTC, Arena offers an"
+                  - text: award-winning
+                  - generic [ref=e136]: workplace with
+                  - text: a strong
+                  - text: work life
+                  - generic [ref=e138]: balance and opportunities to grow.
+              - paragraph [ref=e140]:
+                - generic [ref=e141]: Role Summary
+              - paragraph [ref=e143]:
+                - generic [ref=e145]: We are looking for a
+                - generic [ref=e146]: Junior Software Engineer
+                - generic [ref=e147]:
+                  - generic [ref=e148]: who is eager to learn and contribute to the development of Arena’s SaaS applications. This is an ideal role for someone early in their engineering career who wants exposure to modern web development, scalable SaaS architecture, and
+                  - text: cross functional
+                  - generic [ref=e149]: teamwork in a supportive environment.
+              - paragraph [ref=e151]:
+                - generic [ref=e152]:
+                  - generic [ref=e153]: You will work closely with senior engineers, product managers, and QA to build and enhance
+                  - text: front
+                - text: ‑
+                - generic [ref=e154]:
+                  - text: end
+                  - generic [ref=e155]: features, fix bugs,
+                  - text: maintain
+                  - generic [ref=e156]: code quality, and grow your technical skillset.
+              - paragraph [ref=e158]:
+                - generic [ref=e159]: Key Responsibilities
+              - paragraph [ref=e161]:
+                - generic [ref=e162]: "The Junior Software Engineer will:"
+              - list [ref=e164]:
+                - listitem [ref=e165]:
+                  - paragraph [ref=e166]:
+                    - generic [ref=e167]:
+                      - text: Assist
+                      - generic [ref=e168]: in developing and
+                      - text: maintaining
+                      - text: front
+                    - text: ‑
+                    - generic [ref=e170]:
+                      - text: end
+                      - generic [ref=e171]: components using
+                    - generic [ref=e172]: HTML, CSS, and JavaScript
+                    - generic [ref=e173]: .
+              - list [ref=e175]:
+                - listitem [ref=e176]:
+                  - paragraph [ref=e177]:
+                    - generic [ref=e178]: Implement UI changes based on provided design mockups and guidance from senior engineers.
+              - list [ref=e180]:
+                - listitem [ref=e181]:
+                  - paragraph [ref=e182]:
+                    - generic [ref=e183]:
+                      - generic [ref=e184]: Translate prototypes into
+                      - text: well structured, maintainable code with support from the team.
+              - list [ref=e186]:
+                - listitem [ref=e187]:
+                  - paragraph [ref=e188]:
+                    - generic [ref=e189]: Contribute to enhancements and bug fixes across Arena’s Web and Application layers.
+              - list [ref=e191]:
+                - listitem [ref=e192]:
+                  - paragraph [ref=e193]:
+                    - generic [ref=e194]: Write simple unit tests and help improve test coverage under mentorship.
+              - list [ref=e196]:
+                - listitem [ref=e197]:
+                  - paragraph [ref=e198]:
+                    - generic [ref=e199]: Participate in requirement discussions, code reviews, and team design sessions as a learning opportunity.
+              - list [ref=e201]:
+                - listitem [ref=e202]:
+                  - paragraph [ref=e203]:
+                    - generic [ref=e204]: Document code changes and implementation details clearly.
+              - list [ref=e206]:
+                - listitem [ref=e207]:
+                  - paragraph [ref=e208]:
+                    - generic [ref=e209]: Support troubleshooting and debugging activities with guidance from more senior team members.
+              - paragraph [ref=e211]
+              - paragraph [ref=e213]:
+                - generic [ref=e214]: Required Qualifications
+              - list [ref=e216]:
+                - listitem [ref=e217]:
+                  - paragraph [ref=e218]:
+                    - generic [ref=e219]: US Citizenship is required due to ITAR needs.
+                - listitem [ref=e220]:
+                  - paragraph [ref=e221]:
+                    - generic [ref=e222]: Ability to commute to the San Mateo office 2-3 days a week.
+            - generic [ref=e223]:
+              - list [ref=e225]:
+                - listitem [ref=e226]:
+                  - paragraph [ref=e227]:
+                    - generic [ref=e228]:
+                      - generic [ref=e229]: 0–2 years of experience developing web applications (internship,
+                      - text: co
+                    - text: ‑
+                    - generic [ref=e230]: op, academic, or project experience welcomed).
+              - list [ref=e232]:
+                - listitem [ref=e233]:
+                  - paragraph [ref=e234]:
+                    - generic [ref=e236]: Foundational understanding of
+                    - generic [ref=e237]: HTML, CSS, JavaScript
+                    - generic [ref=e238]: ", and general web development principles."
+              - list [ref=e240]:
+                - listitem [ref=e241]:
+                  - paragraph [ref=e242]:
+                    - generic [ref=e243]:
+                      - generic [ref=e244]: Basic experience with a modern JavaScript framework (React preferred; Angular/Vue familiarity
+                      - text: a plus).
+              - list [ref=e246]:
+                - listitem [ref=e247]:
+                  - paragraph [ref=e248]:
+                    - generic [ref=e249]:
+                      - text: Understanding of
+                      - generic [ref=e250]: responsive design and browser compatibility fundamentals.
+              - list [ref=e252]:
+                - listitem [ref=e253]:
+                  - paragraph [ref=e254]:
+                    - generic [ref=e255]:
+                      - generic [ref=e256]: Some exposure to
+                      - text: object-oriented
+                      - generic [ref=e257]: programming (Java preferred) through coursework or practical projects.
+              - list [ref=e259]:
+                - listitem [ref=e260]:
+                  - paragraph [ref=e261]:
+                    - generic [ref=e262]: Familiarity with relational databases and SQL concepts.
+              - list [ref=e264]:
+                - listitem [ref=e265]:
+                  - paragraph [ref=e266]:
+                    - generic [ref=e267]: Clear verbal and written communication skills.
+              - list [ref=e269]:
+                - listitem [ref=e270]:
+                  - paragraph [ref=e271]:
+                    - generic [ref=e272]: Curiosity, attention to detail, and willingness to learn in a collaborative environment.
+              - paragraph [ref=e274]
+              - paragraph [ref=e276]:
+                - generic [ref=e277]: Preferred (Nice to Have)
+              - list [ref=e279]:
+                - listitem [ref=e280]:
+                  - paragraph [ref=e281]:
+                    - generic [ref=e282]: Experience with source control tools such as Git.
+              - list [ref=e284]:
+                - listitem [ref=e285]:
+                  - paragraph [ref=e286]:
+                    - generic [ref=e287]: Exposure to SaaS applications or cloud environments.
+              - list [ref=e289]:
+                - listitem [ref=e290]:
+                  - paragraph [ref=e291]:
+                    - generic [ref=e292]: Experience writing unit tests or conducting basic QA.
+              - list [ref=e294]:
+                - listitem [ref=e295]:
+                  - paragraph [ref=e296]:
+                    - generic [ref=e297]:
+                      - generic [ref=e298]: Personal/portfolio projects
+                      - text: demonstrating
+                      - generic [ref=e299]: UI development or JavaScript framework usage.
+              - paragraph [ref=e301]
+              - paragraph [ref=e303]:
+                - generic [ref=e304]: What Success Looks Like in the First 6–12 Months
+              - list [ref=e306]:
+                - listitem [ref=e307]:
+                  - paragraph [ref=e308]:
+                    - generic [ref=e309]:
+                      - generic [ref=e310]: Demonstrates steady growth in contributing
+                      - text: production ready
+                      - generic [ref=e311]: frontend code.
+              - list [ref=e313]:
+                - listitem [ref=e314]:
+                  - paragraph [ref=e315]:
+                    - generic [ref=e316]: Gains confidence in Arena’s architecture and codebase.
+              - list [ref=e318]:
+                - listitem [ref=e319]:
+                  - paragraph [ref=e320]:
+                    - generic [ref=e321]: Reliably completes assigned tasks and bug fixes with increasing autonomy.
+              - list [ref=e323]:
+                - listitem [ref=e324]:
+                  - paragraph [ref=e325]:
+                    - generic [ref=e326]: Participates actively in code reviews and team discussions.
+            - generic [ref=e327]:
+              - list [ref=e329]:
+                - listitem [ref=e330]:
+                  - paragraph [ref=e331]:
+                    - generic [ref=e332]:
+                      - generic [ref=e333]: Builds strong working relationships across engineering, QA, and
+                      - text: product.
+              - generic [ref=e334]:
+                - paragraph [ref=e335]
+                - paragraph [ref=e336]: Compensation (CIP) PTC carefully considers a wide variety of factors when determining compensation. The anticipated annual salary range for this position is between $85,000 - 100,000. The salary range reflects a good-faith estimate of compensation at the time of posting. Actual compensation may vary based on a candidate's skills, qualifications, experience, and location. Additionally, candidates may be eligible for a performance-based bonus. Employees also have the opportunity to become a PTC shareholder through our employee share purchase program (ESPP), which allows for the purchase of discounted PTC stock. Certain roles may also be eligible for participation in our equity programs. Employees may be eligible for medical, dental and vision insurance, paid time off and sick leave, tuition reimbursement, 401(k) contributions and employer match, flexible spending accounts, life insurance, disability coverage and, if you are an office-assigned employee, a generous commuter subsidy. All total rewards and benefits programs are subject to applicable plan eligibility and other terms and conditions. For more information about PTC’s comprehensive benefits, please visit our Careers Page. Applications will be accepted on an on-going basis.
+            - paragraph [ref=e337]
+            - paragraph [ref=e338]
+            - text: At PTC, we believe in the power of diverse ideas and perspectives. As a global company that values and respects all identities, cultures, and perspectives, we strive to create an inclusive PTC for ALL through an environment where everyone feels like they belong and are empowered to bring their true, authentic selves to work. Proud to be an Equal Opportunity Employer, we welcome applicants from all backgrounds and hire without regard to race, national origin, religion, age, color, ethnicity, ancestry, marital status, sex (including pregnancy), sexual orientation, gender identity, gender expression, genetic information, disability, veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+            - paragraph [ref=e339]
+            - text: For more information about PTC’s comprehensive benefits and our AI usage, please visit our Careers Page (https://www.ptc.com/en/careers/united-states-careers). Applications will be accepted on an on-going basis until the opportunity is filled.
+            - paragraph [ref=e340]
+            - text: PTC endeavors to make ptc.com/careers accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact PTC's Talent Acquisition team at TalentAcquisition@ptc.com. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.
+            - paragraph [ref=e341]
+            - paragraph [ref=e342]
+            - paragraph [ref=e343]: Life at PTC is about more than working with today’s most cutting-edge technologies to transform the physical world. It’s about showing up as you are and working alongside some of today’s most talented industry leaders to transform the world around you.
+            - paragraph [ref=e344]
+            - paragraph [ref=e345]: If you share our passion for problem-solving through innovation, you’ll likely become just as passionate about the PTC experience as we are. Are you ready to explore your next career move with us?
+            - paragraph [ref=e346]
+            - paragraph [ref=e347]:
+              - text: We respect the privacy rights of individuals and are committed to handling Personal Information responsibly and in accordance with all applicable privacy and data protection laws.
+              - link [ref=e426] [cursor=pointer]:
+                - /url: http://www.ptc.com/en/documents/policies/privacy/job-applicants
+                - text: Review our Privacy Policy here
+              - text: ."
+      - generic [ref=e351]:
+        - heading [level=3] [ref=e427]: About Us
+        - img [ref=e428]
+        - paragraph [ref=e358]: PTC is a global software company powering how products are designed, built, serviced, and operated across industries like Aerospace & Defense, Industrial, Automotive, MedTech, Electronics, and High Tech. We are bold thinkers who collaborate as one team to deliver meaningful customer outcomes. Grounded in our values-Customers Matter, PTC for All, Team PTC, Purposeful Innovation, and Be Bold, we're shaping a smarter, more sustainable, connected future.
+    - generic [ref=e359]:
+      - generic [ref=e360]: Follow Us
+      - list [ref=e361]:
+        - listitem [ref=e362] [cursor=pointer]:
+          - link [ref=e429]:
+            - /url: https://www.youtube.com/ptc
+        - listitem [ref=e369] [cursor=pointer]:
+          - link [ref=e430]:
+            - /url: https://twitter.com/PTC
+        - listitem [ref=e374] [cursor=pointer]:
+          - link [ref=e431]:
+            - /url: https://www.linkedin.com/company/ptc
+        - listitem [ref=e379] [cursor=pointer]:
+          - link [ref=e432]:
+            - /url: https://www.facebook.com/PTC.Inc
+      - link [ref=e433] [cursor=pointer]:
+        - /url: https://www.ptc.com/en/documents/policies/privacy
+        - text: PTC Privacy Policy
+      - generic [ref=e386]:
+        - img [ref=e390]
+        - generic [ref=e410]: © 2026 Workday, Inc. All rights reserved.
+  - dialog "Start Your Application" [ref=e437]:
+    - button "Close" [active] [ref=e439] [cursor=pointer]
+    - generic [ref=e445]:
+      - heading "Start Your Application" [level=2] [ref=e446]
+      - heading "Junior Software Engineer" [level=3] [ref=e447]
+      - paragraph [ref=e448]: Please select how you would like to complete the fields of your application.
+      - button "Autofill with Resume" [ref=e452] [cursor=pointer]
+      - button "Apply Manually" [ref=e456] [cursor=pointer]
+      - button "Use My Last Application" [ref=e461] [cursor=pointer]

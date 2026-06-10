@@ -1,0 +1,44 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - generic "This website uses cookies to enhance user experience and to analyze performance and traffic on our website. Some of these cookies will share information about your visit with our analytics partners to provide us with further insights, please accept or decline these cookies below." [ref=e9]:
+    - paragraph [ref=e11]: This website uses cookies to enhance user experience and to analyze performance and traffic on our website. Some of these cookies will share information about your visit with our analytics partners to provide us with further insights, please accept or decline these cookies below.
+    - generic [ref=e12]:
+      - button "Decline" [ref=e15] [cursor=pointer]
+      - button "Accept Cookies" [ref=e19] [cursor=pointer]
+  - banner [ref=e22]:
+    - generic [ref=e24]:
+      - link "careers home" [ref=e27] [cursor=pointer]:
+        - /url: https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions
+        - img "careers home" [ref=e28]
+      - heading "Careers" [level=1] [ref=e30]
+      - generic [ref=e32]:
+        - button "Sign In" [ref=e34] [cursor=pointer]:
+          - generic [ref=e39]: Sign In
+        - navigation [ref=e40]:
+          - button "Home" [ref=e41] [cursor=pointer]
+          - button "Search for Jobs" [ref=e42] [cursor=pointer]
+          - button "Introduce Yourself" [ref=e43] [cursor=pointer]
+  - generic [ref=e50]:
+    - generic [ref=e51]: Follow Us
+    - list [ref=e52]:
+      - listitem [ref=e53] [cursor=pointer]:
+        - link "X" [ref=e54]:
+          - /url: https://twitter.com/apexfintech
+      - listitem [ref=e58] [cursor=pointer]:
+        - link "Facebook" [ref=e59]:
+          - /url: https://www.facebook.com/apexfintechsolutions/
+      - listitem [ref=e63] [cursor=pointer]:
+        - link "Glassdoor" [ref=e64]:
+          - /url: https://www.glassdoor.com/Overview/Working-at-Apex-Fintech-Solutions-EI_IE599382.11,33.htm
+      - listitem [ref=e69] [cursor=pointer]:
+        - link "YouTube" [ref=e70]:
+          - /url: https://www.youtube.com/channel/UC-EfblC9n-E-fw0k6serhSw
+      - listitem [ref=e76] [cursor=pointer]:
+        - link "LinkedIn" [ref=e77]:
+          - /url: https://www.linkedin.com/company/apex-fintech/
+    - link "PEAK6 Privacy Policy" [ref=e82] [cursor=pointer]:
+      - /url: https://peak6.com/privacy-policy/
+    - generic [ref=e83]:
+      - img [ref=e87]
+      - generic [ref=e107]: © 2026 Workday, Inc. All rights reserved.

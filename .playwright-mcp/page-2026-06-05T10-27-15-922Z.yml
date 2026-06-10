@@ -1,0 +1,274 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "Veeva Careers" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img "Veeva Careers" [ref=e6]
+        - button "Toggle navigation" [ref=e7] [cursor=pointer]
+  - main [ref=e9]:
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - heading "Associate Software Engineer - Seeking 2025 & 2026 Grads" [level=2] [ref=e14]
+        - paragraph [ref=e15]:
+          - strong [ref=e16]: "Team:"
+          - text: Recent University Graduates
+        - paragraph [ref=e17]:
+          - strong [ref=e18]: "City:"
+          - text: Pleasanton
+        - paragraph [ref=e19]:
+          - strong [ref=e20]: "State:"
+          - text: CA
+        - paragraph [ref=e21]:
+          - link "Apply Now" [ref=e22] [cursor=pointer]:
+            - /url: /gv-form/?id=8fe22df0-02b4-453d-919c-c8998cf913f6&lever-source=veeva-career-site
+        - paragraph [ref=e23]:
+          - link "Share" [ref=e24] [cursor=pointer]:
+            - /url: mailto:?subject=Job%20recommendation%20for%20you%3A%20Associate%20Software%20Engineer%20-%20Seeking%202025%20%26%202026%20Grads&body=You%20should%20check%20out%20this%20job%20at%20Veeva%3A%20https%3A%2F%2Fcareers.veeva.com%2Fjob%2F8fe22df0-02b4-453d-919c-c8998cf913f6%2Fassociate-software-engineer-seeking-2025-2026-grads-pleasanton-ca%3Flever-source%3Dveeva-career-site%3Fref%3Dshare_cta
+      - img "Employees brainstorming." [ref=e26]
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - text: Veeva Systems is building the industry cloud for Life Sciences to help companies work in a more efficient and connected way. Learn more about our products, vision and values, and status as a public benefit corporation on our
+        - link "website" [ref=e32] [cursor=pointer]:
+          - /url: http://veeva.com/
+        - text: .
+      - heading "The Role" [level=3] [ref=e33]
+      - generic [ref=e34]:
+        - text: We are hiring recent university graduates to grow the next generation of Software Engineers through our
+        - link "Engineering Development Program" [ref=e35] [cursor=pointer]:
+          - /url: https://www.veeva.com/generationveeva/na-edp/
+        - text: .
+      - generic [ref=e37]: We believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early, equipping you with the resources to become an excellent engineer.
+      - generic [ref=e38]: "REQUIREMENTS | We are looking for graduates who meet the following requirements:"
+      - list [ref=e39]:
+        - list [ref=e40]:
+          - listitem [ref=e41]: Bachelor’s degree in computer science or related field from an accredited 4 year university with a 3.0 to 4.0 GPA
+          - listitem [ref=e42]: Must have taken relevant C.S. classes, including at least one Compilers or Operating Systems class. The Fundamentals are important at Veeva
+          - listitem [ref=e43]: High work ethic. Veeva is a hard-working company
+          - listitem [ref=e44]: High integrity and honesty. Veeva is a PBC and a “do the right thing” company. We expect that from all employees
+          - listitem [ref=e45]: Excellent verbal and written English communication skills. Engineering is not all about the code, it’s also about communication
+          - listitem [ref=e46]: 0-2 years of professional software experience. We have other jobs for more experienced hires, but EDP is designed for those just getting going in their careers
+          - listitem [ref=e47]:
+            - text: Ability and desire to work in office 4 days/week for your first two years. After 2 years, you will have the flexibility to
+            - link "Work Anywhere" [ref=e48] [cursor=pointer]:
+              - /url: https://careers.veeva.com/work-anywhere/
+      - generic [ref=e49]: "OUR TECHNOLOGY | We have a variety of different products and codebases, but in general, we use this tech stack:"
+      - list [ref=e50]:
+        - list [ref=e51]:
+          - listitem [ref=e52]: System software is Java or Rust
+          - listitem [ref=e53]: Application logic is Java, Python, TypeScript
+          - listitem [ref=e54]: Front end is JavaScript, React, TypeScript
+          - listitem [ref=e55]: Mobile is Swift, Kotlin, React Native
+      - generic [ref=e56]: "THE PROCESS | Our process is different than most. It is designed to be fast, efficient and respectful. Here are the steps:"
+      - list [ref=e57]:
+        - list [ref=e58]:
+          - listitem [ref=e59]: You submit your resume, short cover letter of questions, and take a personality test
+          - listitem [ref=e60]: Within one week we will notify you via email if we would like to go to the next step or not
+          - listitem [ref=e61]: The next step is a 1 hour online coding challenge in Java or Python
+          - listitem [ref=e62]: After the coding challenge, the next step is a single 2-hour interview with a member of our tech evaluation team. Part of this is a coding exercise in the language of your choice (Java, JavaScript or Python)
+          - listitem [ref=e63]: Within one week after this step, we will give you an offer, or let you know that we do not wish to move forward
+          - listitem [ref=e64]: You will have one week to accept our offer or not. If you accept, we will hold a spot for you and expect you to show up on your start date. Accepting an offer and continuing to interview would be an ethical violation in our view
+          - listitem [ref=e65]: When you join you will be assigned to an engineering manager in your work location. It’s important to know you are applying to work as an engineer in a location but not applying for a specific team/product
+      - generic [ref=e66]: Compensation
+      - list [ref=e67]:
+        - list [ref=e68]:
+          - listitem [ref=e69]: "Starting base pay (Cash + RSU): $137,500 + sign on bonus in Pleasanton"
+      - generic [ref=e70]:
+        - strong [ref=e71]: Work Authorization
+        - text: ": Qualified candidates must be legally authorized to be employed in the United States. Veeva does not provide sponsorship for employment visa status (e.g., H-1B, OPT, or TN status) for this employment position."
+      - generic [ref=e73]:
+        - strong [ref=e74]: Work Environment
+        - text: ": Veeva is a Work Anywhere company. You can choose to work in an office or remotely from home on any given day of the week. Although Veeva is Work from Anywhere, Associate Software Engineers must live within a maximum commuting distance of 45 minutes to 1 hour from their home office and must work in-office 4 days a week."
+      - heading "#LI-Entry" [level=6] [ref=e76]
+      - heading "#WU" [level=6] [ref=e77]
+      - generic [ref=e79]: Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances. If you need assistance or accommodation due to a disability or special need when applying for a role or in our recruitment process, please contact us at talent_accommodations@veeva.com.
+    - generic [ref=e82]:
+      - generic [ref=e83]:
+        - heading "A different kind of company. A Public Benefit Corporation." [level=2] [ref=e84]
+        - paragraph [ref=e85]: Unlike a traditional corporation, whose only legal duty is to maximize shareholder value, PBCs consider their public benefit purpose and the interests of those materially affected by the corporation’s conduct—including customers, employees, and the community—in addition to shareholders’ interests.
+      - button "Peter Gassner, Veeva CEO being interviewed at home by CNBC about Veeva powering Covid-19 treatments" [ref=e87] [cursor=pointer]:
+        - img "Peter Gassner, Veeva CEO being interviewed at home by CNBC about Veeva powering Covid-19 treatments" [ref=e88]
+    - generic [ref=e91]:
+      - heading "What sets us apart" [level=2] [ref=e93]
+      - generic [ref=e95]:
+        - tabpanel "Public Benefit Corporation" [ref=e96]:
+          - heading "Public Benefit Corporation" [level=2] [ref=e97]:
+            - button "Public Benefit Corporation" [ref=e98] [cursor=pointer]
+        - tabpanel "Veeva Giving" [ref=e99]:
+          - heading "Veeva Giving" [level=2] [ref=e100]:
+            - button "Veeva Giving" [ref=e101] [cursor=pointer]
+        - tabpanel "Corporate Citizenship" [ref=e102]:
+          - heading "Corporate Citizenship" [level=2] [ref=e103]:
+            - button "Corporate Citizenship" [ref=e104] [cursor=pointer]
+        - tabpanel "Employees are Shareholders" [ref=e105]:
+          - heading "Employees are Shareholders" [level=2] [ref=e106]:
+            - button "Employees are Shareholders" [ref=e107] [cursor=pointer]
+        - tabpanel "Non-Competes" [ref=e108]:
+          - heading "Non-Competes" [level=2] [ref=e109]:
+            - button "Non-Competes" [ref=e110] [cursor=pointer]
+    - generic [ref=e112]:
+      - heading "News and recognition" [level=2] [ref=e115]
+      - generic [ref=e116]:
+        - link "Veeva in Top 100 Most Reliable Companies" [ref=e118] [cursor=pointer]:
+          - /url: https://www.newsweek.com/rankings/americas-most-reliable-companies-2025
+          - paragraph [ref=e120]: Veeva in Top 100 Most Reliable Companies
+        - link "Fastest-Growing Company for 5 Years, Future 50 for 2 Years" [ref=e122] [cursor=pointer]:
+          - /url: https://fortune.com/ranking/future-50/2020/
+          - img "Fortune Media IP Limited logo." [ref=e124]
+          - paragraph [ref=e125]: Fastest-Growing Company for 5 Years, Future 50 for 2 Years
+        - link "New York’s Noncompete Bill Is A ‘Big Domino To Fall’—And The Broadest Ban Yet—In A Growing Movement Against Them" [ref=e127] [cursor=pointer]:
+          - /url: https://www.forbes.com/sites/emmylucas/2023/06/27/new-yorks-noncompete-bill-is-a-big-domino-to-fall-and-the-broadest-ban-yet-in-a-growing-movement-against-them/?sh=24f8ce0bd32e
+          - img "Forbes Media LLC logo." [ref=e129]
+          - paragraph [ref=e130]: New York’s Noncompete Bill Is A ‘Big Domino To Fall’—And The Broadest Ban Yet—In A Growing Movement Against Them
+        - link "Veeva’s Peter Gassner Combine’s Today’s Execution with Tomorrow’s Vision" [ref=e132] [cursor=pointer]:
+          - /url: https://www.investors.com/news/management/leaders-and-success/veevas-peter-gassner-combines-todays-execution-with-tomorrows-vision/
+          - paragraph [ref=e134]: Veeva’s Peter Gassner Combine’s Today’s Execution with Tomorrow’s Vision
+    - generic [ref=e136]:
+      - heading "Grow, contribute and be recognized" [level=2] [ref=e139]
+      - generic [ref=e142]:
+        - generic [ref=e147]:
+          - paragraph [ref=e148]: “Veeva’s engineering teams take a pragmatic approach to software development. We offer an ideal environment for engineers who value focus, speed and integrity in their work.”
+          - paragraph [ref=e149]:
+            - strong [ref=e150]: —Jacob Marcus
+            - text: VP, Engineering
+        - button "Previous" [ref=e151] [cursor=pointer]:
+          - generic [ref=e153]: Previous
+        - button "Next" [ref=e154] [cursor=pointer]:
+          - generic [ref=e156]: Next
+    - generic [ref=e158]:
+      - heading "Other related jobs" [level=2] [ref=e161]
+      - generic [ref=e163]:
+        - link "Associate Technical Consultant (Poland) - Entry-Level Consulting (Life Sciences) Recent University Graduates Warsaw, Europe Posted 72 days ago" [ref=e165] [cursor=pointer]:
+          - /url: /job/6ff937b5-3d27-4401-8019-951d2ceaced6/associate-technical-consultant-poland-entry-level-consulting-life-sciences-warsaw-poland/
+          - generic [ref=e166]:
+            - heading "Associate Technical Consultant (Poland) - Entry-Level Consulting (Life Sciences)" [level=4] [ref=e167]
+            - paragraph [ref=e168]:
+              - text: Recent University Graduates
+              - text: Warsaw, Europe
+          - generic [ref=e169]: Posted 72 days ago
+        - link "Associate Technical Consultant (Hungary) - Entry-Level Consulting (Life Sciences) Recent University Graduates Budapest, Europe Posted 72 days ago" [ref=e171] [cursor=pointer]:
+          - /url: /job/8246954a-2959-4eaa-9c71-ca2b4411d94e/associate-technical-consultant-hungary-entry-level-consulting-life-sciences-budapest-hungary/
+          - generic [ref=e172]:
+            - heading "Associate Technical Consultant (Hungary) - Entry-Level Consulting (Life Sciences)" [level=4] [ref=e173]
+            - paragraph [ref=e174]:
+              - text: Recent University Graduates
+              - text: Budapest, Europe
+          - generic [ref=e175]: Posted 72 days ago
+        - link "Associate Technical Consultant (Germany) - Entry-Level Consulting (Life Sciences) Recent University Graduates Frankfurt, Europe Posted 72 days ago" [ref=e177] [cursor=pointer]:
+          - /url: /job/7af7a2cf-707c-4791-bb3d-9b7e6ff81903/associate-technical-consultant-germany-entry-level-consulting-life-sciences-frankfurt-germany/
+          - generic [ref=e178]:
+            - heading "Associate Technical Consultant (Germany) - Entry-Level Consulting (Life Sciences)" [level=4] [ref=e179]
+            - paragraph [ref=e180]:
+              - text: Recent University Graduates
+              - text: Frankfurt, Europe
+          - generic [ref=e181]: Posted 72 days ago
+        - link "Associate Technical Consultant (Germany) - Entry-Level Consulting (Life Sciences) Recent University Graduates Berlin, Europe Posted 72 days ago" [ref=e183] [cursor=pointer]:
+          - /url: /job/e9ce0011-8df8-4d86-aeaf-658ba48122be/associate-technical-consultant-germany-entry-level-consulting-life-sciences-berlin-germany/
+          - generic [ref=e184]:
+            - heading "Associate Technical Consultant (Germany) - Entry-Level Consulting (Life Sciences)" [level=4] [ref=e185]
+            - paragraph [ref=e186]:
+              - text: Recent University Graduates
+              - text: Berlin, Europe
+          - generic [ref=e187]: Posted 72 days ago
+        - link "Associate Technical Consultant (Spain) - Entry-Level Consulting (Life Sciences) Recent University Graduates Barcelona, Europe Posted 72 days ago" [ref=e189] [cursor=pointer]:
+          - /url: /job/d5fce9c2-7e36-47bb-aee1-93038979de93/associate-technical-consultant-spain-entry-level-consulting-life-sciences-barcelona-spain/
+          - generic [ref=e190]:
+            - heading "Associate Technical Consultant (Spain) - Entry-Level Consulting (Life Sciences)" [level=4] [ref=e191]
+            - paragraph [ref=e192]:
+              - text: Recent University Graduates
+              - text: Barcelona, Europe
+          - generic [ref=e193]: Posted 72 days ago
+        - link "Associate Technical Consultant (UK) - Entry-Level Consulting (Life Sciences) Recent University Graduates London, Europe Posted 72 days ago" [ref=e195] [cursor=pointer]:
+          - /url: /job/eed4b1a3-13ae-4cf4-9bd9-5bc6a0d214a6/associate-technical-consultant-uk-entry-level-consulting-life-sciences-london-united-kingdom/
+          - generic [ref=e196]:
+            - heading "Associate Technical Consultant (UK) - Entry-Level Consulting (Life Sciences)" [level=4] [ref=e197]
+            - paragraph [ref=e198]:
+              - text: Recent University Graduates
+              - text: London, Europe
+          - generic [ref=e199]: Posted 72 days ago
+    - generic [ref=e203]:
+      - heading "Explore all roles at Veeva" [level=2] [ref=e204]
+      - link "Search Jobs" [ref=e205] [cursor=pointer]:
+        - /url: /job-search-results/
+  - contentinfo [ref=e206]:
+    - generic [ref=e210]:
+      - link [ref=e211] [cursor=pointer]:
+        - /url: /
+        - img [ref=e212]
+      - navigation [ref=e218]:
+        - list [ref=e219]:
+          - listitem [ref=e220]:
+            - link "Careers Home" [ref=e221] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e222]:
+            - link "Why Veeva" [ref=e223] [cursor=pointer]:
+              - /url: https://careers.veeva.com/why-veeva/
+          - listitem [ref=e224]:
+            - link "Teams" [ref=e225] [cursor=pointer]:
+              - /url: /#teams
+          - listitem [ref=e226]:
+            - link "Generation Veeva" [ref=e227] [cursor=pointer]:
+              - /url: https://www.veeva.com/generationveeva/
+          - listitem [ref=e228]:
+            - link "Applicant Privacy Notice" [ref=e229] [cursor=pointer]:
+              - /url: https://www.veeva.com/job-applicant-data-privacy-notice/
+          - listitem [ref=e230]:
+            - link "Clinical Solutions" [ref=e231] [cursor=pointer]:
+              - /url: https://www.veeva.com/products/vault-clinical/
+          - listitem [ref=e232]:
+            - link "Regulatory Solutions" [ref=e233] [cursor=pointer]:
+              - /url: https://www.veeva.com/products/vault-rim/
+          - listitem [ref=e234]:
+            - link "Quality Solutions" [ref=e235] [cursor=pointer]:
+              - /url: https://www.veeva.com/products/vault-quality/
+          - listitem [ref=e236]:
+            - link "Safety Solutions" [ref=e237] [cursor=pointer]:
+              - /url: https://www.veeva.com/products/vault-safety/
+          - listitem [ref=e238]:
+            - link "Medical Solutions" [ref=e239] [cursor=pointer]:
+              - /url: https://www.veeva.com/products/medical-suite/
+          - listitem [ref=e240]:
+            - link "Commercial Solutions" [ref=e241] [cursor=pointer]:
+              - /url: https://www.veeva.com/products/commercial-cloud/
+          - listitem [ref=e242]:
+            - link "Industry Segments" [ref=e243] [cursor=pointer]:
+              - /url: https://www.veeva.com/products/pharma-biotech/
+          - listitem [ref=e244]:
+            - link "Services" [ref=e245] [cursor=pointer]:
+              - /url: https://www.veeva.com/services/
+          - listitem [ref=e246]:
+            - link "Customers" [ref=e247] [cursor=pointer]:
+              - /url: https://www.veeva.com/customers/
+          - listitem [ref=e248]:
+            - link "Resources" [ref=e249] [cursor=pointer]:
+              - /url: https://www.veeva.com/resources/
+          - listitem [ref=e250]:
+            - link "Events" [ref=e251] [cursor=pointer]:
+              - /url: https://www.veeva.com/events/
+      - paragraph [ref=e253]:
+        - text: Global Headquarters
+        - text: Veeva Systems Inc.
+        - text: 4280 Hacienda Drive
+        - text: Pleasanton, CA 94588
+      - generic [ref=e254]:
+        - paragraph [ref=e255]: Follow us on social
+        - list [ref=e256]:
+          - listitem [ref=e257]:
+            - link "LinkedIn" [ref=e258] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/veeva-systems
+              - img "facebook-linkedin" [ref=e259]
+          - listitem [ref=e260]:
+            - link "Youtube" [ref=e261] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/VeevaSystems
+              - img "youtube-social" [ref=e262]
+          - listitem [ref=e263]:
+            - link "Medium" [ref=e264] [cursor=pointer]:
+              - /url: https://medium.com/veeva-systems
+              - img "medium" [ref=e265]
+    - paragraph [ref=e270]:
+      - text: Veeva Systems - Cloud-based Software for the Global Life Sciences Industry | © Copyright 2026 Veeva Systems
+      - link "Privacy Notice" [ref=e271] [cursor=pointer]:
+        - /url: https://www.veeva.com/privacy/
+      - text: "|"
+      - link "Terms" [ref=e272] [cursor=pointer]:
+        - /url: https://www.veeva.com/terms/

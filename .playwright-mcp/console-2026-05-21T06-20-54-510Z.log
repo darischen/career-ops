@@ -1,0 +1,51 @@
+[     610ms] Failed to set the 'domain' property on 'Document': 'phenompro.com' is not a suffix of 'www.pgcareers.com'.
+[    1145ms] [LOG] Google Analytics Standard Events Library Loaded @ :2
+[    1153ms] ReferenceError: PGdataLayer is not defined
+    at <anonymous>:10:240
+    at https://www.googletagmanager.com/gtm.js?id=GTM-N94XXFB:968:429
+    at cS (https://www.googletagmanager.com/gtm.js?id=GTM-N94XXFB:970:31)
+    at Md.bS (https://www.googletagmanager.com/gtm.js?id=GTM-N94XXFB:967:92)
+    at Md.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-N94XXFB:384:187)
+    at k.apply (https://www.googletagmanager.com/gtm.js?id=GTM-N94XXFB:313:466)
+    at gb (https://www.googletagmanager.com/gtm.js?id=GTM-N94XXFB:276:719)
+    at fb (https://www.googletagmanager.com/gtm.js?id=GTM-N94XXFB:276:470)
+    at Md.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-N94XXFB:337:473)
+    at k.apply (https://www.googletagmanager.com/gtm.js?id=GTM-N94XXFB:313:466)
+[    2692ms] [ERROR] Invalid widget id: ph-social-connect-v1-view5-new @ https://www.pgcareers.com/us/en/phenomtrack.min.js:1
+[    2732ms] [WARNING] A11y autocomplete setup is improper.Check errors  [Missing aria-haspopup attribute on parent div, Missing  aria-owns attribute on parent div, Missing  aria-owns attribute on parent div, Missing widget elem] @ https://www.pgcareers.com/us/en/phenomtrack.min.js:1
+[    2732ms] [LOG] Language selector monitoring started - will continue for 10 seconds @ https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/scripts/1776766645829_phw-language-selector-default-default-v1.umd.js:0
+[    3293ms] [LOG] applying roles @ https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:32
+[    3301ms] [ERROR] Error in addReqAttrsToChilden TypeError: Cannot read properties of null (reading 'setAttribute')
+    at https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:36:526
+    at NodeList.forEach (<anonymous>)
+    at i (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:36:408)
+    at t (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:36:235)
+    at e.getTemplateUrl (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:29:4370)
+    at e.attached (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:29:8378)
+    at t.attached (https://cdn.phenompeople.com/CareerConnectResources/pp/agWidgets/ph-job-details-v1-job-header-PGBPGNGLOBAL-en_us-page7-2.js:2:22856)
+    at e.attached (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1766477715895_vendor-bundle-part2-5.0.js:2:28745)
+    at e.attached (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1766477715895_vendor-bundle-part2-5.0.js:2:6631)
+    at e.enhance (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1766477715895_vendor-bundle-part2-5.0.js:3:13208) @ https://www.pgcareers.com/us/en/phenomtrack.min.js:1
+[    3410ms] [ERROR] Error in isChildWidget TypeError: Cannot read properties of null (reading 'matches')
+    at d (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:36:2200)
+    at p (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:36:2014)
+    at l (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:36:1826)
+    at t (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:36:219)
+    at e.getTemplateUrl (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:29:4370)
+    at e.attached (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:29:8378)
+    at t.attached (https://cdn.phenompeople.com/CareerConnectResources/pp/agWidgets/ph-job-details-v1-job-header-PGBPGNGLOBAL-en_us-page7-2.js:2:22856)
+    at e.attached (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1766477715895_vendor-bundle-part2-5.0.js:2:28745)
+    at e.attached (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1766477715895_vendor-bundle-part2-5.0.js:2:6631)
+    at e.add (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1766477715895_vendor-bundle-part2-5.0.js:2:8632) @ https://www.pgcareers.com/us/en/phenomtrack.min.js:1
+[    3438ms] [ERROR] Error in isChildWidget TypeError: Cannot read properties of null (reading 'matches')
+    at d (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:36:2200)
+    at p (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:36:2014)
+    at l (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:36:1826)
+    at t (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:36:219)
+    at e.getTemplateUrl (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:29:4370)
+    at e.attached (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1774943342573_ph-common-bundle-part1-5.0.js:29:8378)
+    at t.attached (https://cdn.phenompeople.com/CareerConnectResources/pp/agWidgets/ph-location-map-v1-default-3.js:3:7508)
+    at e.attached (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1766477715895_vendor-bundle-part2-5.0.js:2:28745)
+    at e.attached (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1766477715895_vendor-bundle-part2-5.0.js:2:6631)
+    at e.add (https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1766477715895_vendor-bundle-part2-5.0.js:2:8632) @ https://www.pgcareers.com/us/en/phenomtrack.min.js:1
+[   12740ms] [LOG] Language selector monitoring stopped after 10 seconds @ https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/scripts/1776766645829_phw-language-selector-default-default-v1.umd.js:0

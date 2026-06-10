@@ -1,0 +1,119 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - navigation [ref=e7]:
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - paragraph [ref=e10]:
+              - link "Concept Plus Careers" [ref=e11] [cursor=pointer]
+          - listitem [ref=e12]:
+            - generic [ref=e13]: 
+            - paragraph [ref=e14]:
+              - link "Jr. Full Stack Developer"
+      - generic [ref=e15]:
+        - heading "Jr. Full Stack Developer" [level=2] [ref=e16]
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - generic [ref=e20]:
+              - paragraph [ref=e21]:
+                - strong [ref=e23]: About Concept Plus
+                - text: Concept Plus is a mission-focused technology solutions provider that transforms IT concepts into impactful solutions for federal agencies. Headquartered in Fairfax, VA, we bring the agility, responsiveness, and customer intimacy of a small business combined with the quality and infrastructure of a larger firm.
+              - paragraph [ref=e24]
+              - paragraph [ref=e25]: Recognized as an award-winning Oracle partner, we have delivered innovative solutions across Defense, Intelligence, Civilian, Health IT, and Tribal sectors. Our highly certified experts build systems that drive efficiency, accelerate modernization, and ensure mission outcomes with certainty.
+              - paragraph [ref=e26]
+              - paragraph [ref=e27]: We offer competitive pay, comprehensive health, dental, and vision insurance, paid life insurance, paid time off, 11 paid holidays, performance bonuses, tuition reimbursement, unlimited training, and the opportunity to thrive in a collaborative, flexible, and innovative environment.
+              - paragraph [ref=e28]
+              - paragraph [ref=e29]:
+                - text: For more information, visit
+                - link "www.conceptplus.com" [ref=e30] [cursor=pointer]:
+                  - /url: http://www.conceptplus.com/
+                - text: .
+              - paragraph [ref=e31]
+              - paragraph [ref=e32]:
+                - strong [ref=e34]: About the role
+              - paragraph [ref=e35]: Concept Plus is seeking a highly motivated, self-driven Full Stack Developer. We are seeking a developer who can support design and development activities for an established program. The candidate will be responsible for designing, building and ultimately delivering solutions designed to run in an AWS environment. This project uses Agile methodologies and DevSecOps practices to ensure consistent, secure and timely delivery of capability and the candidate should be prepared to operate in such an environment.
+              - paragraph [ref=e36]
+              - paragraph [ref=e37]:
+                - strong [ref=e39]: What you'll do
+              - paragraph [ref=e40]: "You will be working with a skilled team in an agile environment to support an application modernization effort where you will be expected to:"
+              - list [ref=e41]:
+                - listitem [ref=e42]: Develop relationships across multiple groups.
+                - listitem [ref=e43]: Contribute to customer satisfaction through quality code and on-time delivery.
+                - listitem [ref=e44]: Support and promote test-driven development (TDD).
+                - listitem [ref=e45]: Continuously focus on and develop professional skills.
+                - listitem [ref=e46]: Pursue training/tools to fill needs.
+                - listitem [ref=e47]: Translate application storyboards and use cases into functional applications.
+                - listitem [ref=e48]: Design, build, and maintain efficient, reusable, and reliable code.
+                - listitem [ref=e49]: Ensure the best possible performance, quality, and responsiveness of applications.
+                - listitem [ref=e50]: Identify bottlenecks and bugs and devise solutions to these problems.
+                - listitem [ref=e51]: Apply industry best practices and techniques to design, develop, test, deploy, support, and maintain complex React/Java applications based on business requirements using approved technologies and coding standards.
+                - listitem [ref=e52]: Assist in project planning and architectural design reviews. Help to plan for future system design and development updates.
+                - listitem [ref=e53]: Collaborate with development team for any programming issues, ensuring teamwork, troubleshooting, and path to resolution.
+                - listitem [ref=e54]: Communicate with team, customers, and stakeholders in a clear, concise, timely, and professional manner.
+                - listitem [ref=e55]: Support documentation needs such as SLA’s, Software Design documents, SOP’s, etc.
+              - paragraph [ref=e56]
+              - paragraph [ref=e57]:
+                - strong [ref=e59]: Qualifications
+              - list [ref=e60]:
+                - listitem [ref=e61]: US Citizen
+                - listitem [ref=e62]: Bachelor’s degree in Information Science, Engineering, Computer Science, Technology Management, or a degree in a closely related field.
+                - listitem [ref=e63]: 1 - 3+ years of experience, two years of experience may be substituted with an advanced degree.
+                - listitem [ref=e64]: Experience designing and developing React and Spring Boot Java web-based applications.
+                - listitem [ref=e65]: Experience working with relational databases such as Oracle or PostgreSQL.
+                - listitem [ref=e66]: Experience with modern Java frameworks such as Spring Boot.
+                - listitem [ref=e67]: Experience in an Agile environment.
+                - listitem [ref=e68]: Experience working with Agile tools (i.e., Jira, Confluence).
+                - listitem [ref=e69]: Experience working with Docker.
+                - listitem [ref=e70]: Experience with a modern client framework such as React, Angular, Vue, etc.
+                - listitem [ref=e71]: Knowledge of HTML & CSS.
+                - listitem [ref=e72]: Experience with Jenkins and DevSecOps practices.
+                - listitem [ref=e73]: Familiarity with Federal cybersecurity compliance work.
+                - listitem [ref=e74]: Very good verbal and written communication skills.
+                - listitem [ref=e75]: An Interim Secret or Secret Clearance to start.
+              - paragraph [ref=e76]
+              - paragraph [ref=e77]:
+                - strong [ref=e79]: Preferred
+              - list [ref=e80]:
+                - listitem [ref=e81]: Experience with DoD, DHA, VA, Air Force.
+                - listitem [ref=e82]: Within commuting distance of an Air Force Base, or Air Guard Base to access classified systems.
+                - listitem [ref=e83]: Experience with Linux commands.
+                - listitem [ref=e84]: Experience with WSL 2.
+                - listitem [ref=e85]: Experience with PL/SQL.
+                - listitem [ref=e86]: CompTIA Security+ certificate
+              - paragraph [ref=e87]
+              - paragraph [ref=e88]:
+                - emphasis [ref=e90]: Concept Plus is an Equal Opportunity Employer. As such, we will give your application full consideration without regard to your race, color, religion, sex, age, national origin, disability, veteran status, sexual orientation, gender identity, or any other classification protected by federal, state, or local law.
+              - paragraph [ref=e91]
+            - button "Apply now" [ref=e94] [cursor=pointer]:
+              - generic [ref=e96]: Apply now
+          - generic [ref=e97]:
+            - generic [ref=e98]:
+              - generic [ref=e99]:
+                - generic [ref=e100]: 
+                - paragraph [ref=e101]: Defense/National Security Sector
+              - generic [ref=e102]:
+                - generic [ref=e103]: 
+                - paragraph [ref=e104]: Remote (United States)
+            - generic [ref=e105]:
+              - generic [ref=e106]:
+                - paragraph [ref=e107]: "Share on:"
+                - generic [ref=e108]:
+                  - button "Share on LinkedIn" [ref=e109] [cursor=pointer]: 
+                  - button "Share on Facebook" [ref=e110] [cursor=pointer]: 
+                  - button "Share on Twitter/X" [ref=e111] [cursor=pointer]: 
+              - button "Apply now" [ref=e114] [cursor=pointer]:
+                - generic [ref=e116]: Apply now
+    - generic [ref=e118]:
+      - generic [ref=e119]:
+        - link "Terms of service" [ref=e120] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/user
+        - link "Privacy" [ref=e121] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/privacy
+        - link "Cookies" [ref=e122] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/cookie-notice
+        - link "Powered by Rippling" [ref=e123] [cursor=pointer]:
+          - /url: https://www.rippling.com/recruiting
+      - generic [ref=e127] [cursor=pointer]:
+        - combobox "Search" [ref=e131]: United States (English)
+        - generic [ref=e133]: 
+  - alert [ref=e134]

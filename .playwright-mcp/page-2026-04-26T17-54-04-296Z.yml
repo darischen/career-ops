@@ -1,0 +1,532 @@
+- generic [active] [ref=e1]:
+  - dialog "cookieconsent" [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: 🍪
+      - heading "Privacy Notice" [level=4] [ref=e6]
+      - paragraph [ref=e7]: This website uses cookies to improve your web experience. By using the site, you agree to the use of cookies.
+      - button "Dismiss" [ref=e9] [cursor=pointer]
+  - link "ION Group logo" [ref=e12] [cursor=pointer]:
+    - /url: http://iongroup.com
+    - img "ION Group logo" [ref=e13]
+  - generic [ref=e15]:
+    - generic [ref=e17]:
+      - heading "Software Developer/Engineer - Graduate Development Program" [level=2] [ref=e18]
+      - generic [ref=e19]:
+        - generic [ref=e20]: Pisa / Milan / Turin / Collecchio / Roma / Any
+        - generic [ref=e21]: ION Group – Development /
+        - generic [ref=e22]: Full-time /
+        - generic [ref=e23]: Hybrid
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - heading "Submit your application" [level=4] [ref=e27]
+        - list [ref=e28]:
+          - listitem [ref=e29]:
+            - generic [ref=e30]: Which location are you applying for?
+            - combobox [ref=e33]:
+              - option "Select..." [selected]
+              - option "Pisa"
+              - option "Milan"
+              - option "Turin"
+              - option "Collecchio"
+              - option "Roma"
+              - option "Any"
+          - listitem [ref=e34]:
+            - generic [ref=e35]:
+              - generic [ref=e36]:
+                - text: Resume/CV
+                - generic [ref=e37]: ✱
+              - link "ATTACH RESUME/CV Resume/CV ✱" [ref=e39] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e40]
+                - generic [ref=e42]: ATTACH RESUME/CV
+                - button "Resume/CV ✱ ATTACH RESUME/CV" [ref=e43]
+          - listitem [ref=e44]:
+            - generic [ref=e45]:
+              - generic [ref=e46]:
+                - text: Full name
+                - generic [ref=e47]: ✱
+              - textbox "Full name ✱" [ref=e49]
+          - listitem [ref=e50]:
+            - generic [ref=e51]:
+              - generic [ref=e52]:
+                - text: Email
+                - generic [ref=e53]: ✱
+              - textbox "Email ✱" [ref=e55]
+          - listitem [ref=e56]:
+            - generic [ref=e57]:
+              - generic [ref=e58]:
+                - text: Phone
+                - generic [ref=e59]: ✱
+              - textbox "Phone ✱" [ref=e61]
+          - listitem [ref=e62]:
+            - generic [ref=e63]:
+              - generic [ref=e64]: Current location
+              - textbox "Current location" [ref=e66]
+          - listitem [ref=e67]:
+            - generic [ref=e68]:
+              - generic [ref=e69]: Current company
+              - textbox "Current company" [ref=e71]
+      - generic [ref=e72]:
+        - heading "Links" [level=4] [ref=e73]
+        - list [ref=e74]:
+          - listitem [ref=e75]:
+            - generic [ref=e76]:
+              - generic [ref=e77]: LinkedIn URL
+              - textbox "LinkedIn URL" [ref=e79]
+          - listitem [ref=e80]:
+            - generic [ref=e81]:
+              - generic [ref=e82]: Portfolio URL
+              - textbox "Portfolio URL" [ref=e84]
+          - listitem [ref=e85]:
+            - generic [ref=e86]:
+              - generic [ref=e87]: Other website
+              - textbox "Other website" [ref=e89]
+      - generic [ref=e90]:
+        - heading "Academic Journey (Italy)" [level=4] [ref=e91]
+        - list [ref=e92]:
+          - listitem [ref=e93]:
+            - generic [ref=e94]:
+              - generic [ref=e96]:
+                - text: University (Name, Location)
+                - generic [ref=e97]: ✱
+              - textbox "Type your response" [ref=e99]
+          - listitem [ref=e100]:
+            - generic [ref=e101]:
+              - generic [ref=e103]:
+                - text: Expected or achieved marks
+                - generic [ref=e104]: ✱
+              - list [ref=e106]:
+                - listitem [ref=e107]:
+                  - generic [ref=e108] [cursor=pointer]:
+                    - checkbox "110 - 110L" [ref=e109]
+                    - generic [ref=e110]: 110 - 110L
+                - listitem [ref=e111]:
+                  - generic [ref=e112] [cursor=pointer]:
+                    - checkbox "105-109" [ref=e113]
+                    - generic [ref=e114]: 105-109
+                - listitem [ref=e115]:
+                  - generic [ref=e116] [cursor=pointer]:
+                    - checkbox "100-104" [ref=e117]
+                    - generic [ref=e118]: 100-104
+                - listitem [ref=e119]:
+                  - generic [ref=e120] [cursor=pointer]:
+                    - checkbox "< 100" [ref=e121]
+                    - generic [ref=e122]: < 100
+                - listitem [ref=e123]:
+                  - generic [ref=e124] [cursor=pointer]:
+                    - checkbox "Not Applicable" [ref=e125]
+                    - generic [ref=e126]: Not Applicable
+          - listitem [ref=e127]:
+            - generic [ref=e128]:
+              - generic [ref=e130]:
+                - text: Latest degree type (currently enrolled, achieved or expected)
+                - generic [ref=e131]: ✱
+              - combobox [ref=e134]:
+                - option "Select..." [selected]
+                - option "BSc"
+                - option "MSc"
+                - option "PhD"
+                - option "None of the above"
+          - listitem [ref=e135]:
+            - generic [ref=e136]:
+              - generic [ref=e138]:
+                - text: Year of graduation
+                - generic [ref=e139]: ✱
+              - textbox "Type your response" [ref=e141]
+          - listitem [ref=e142]:
+            - generic [ref=e143]:
+              - generic [ref=e145]:
+                - text: Have you ever had academic or working experiences abroad?
+                - generic [ref=e146]: ✱
+              - list [ref=e148]:
+                - listitem [ref=e149]:
+                  - generic [ref=e150] [cursor=pointer]:
+                    - radio "Yes" [ref=e151]
+                    - generic [ref=e152]: "Yes"
+                - listitem [ref=e153]:
+                  - generic [ref=e154] [cursor=pointer]:
+                    - radio "No" [ref=e155]
+                    - generic [ref=e156]: "No"
+          - listitem [ref=e157]:
+            - generic [ref=e158]:
+              - generic [ref=e160]:
+                - text: How many years of relevant working experience do you have for this role?
+                - generic [ref=e161]: ✱
+              - list [ref=e163]:
+                - listitem [ref=e164]:
+                  - generic [ref=e165] [cursor=pointer]:
+                    - radio "Less than 1 year" [ref=e166]
+                    - generic [ref=e167]: Less than 1 year
+                - listitem [ref=e168]:
+                  - generic [ref=e169] [cursor=pointer]:
+                    - radio "1-3 years" [ref=e170]
+                    - generic [ref=e171]: 1-3 years
+                - listitem [ref=e172]:
+                  - generic [ref=e173] [cursor=pointer]:
+                    - radio "3-5 years" [ref=e174]
+                    - generic [ref=e175]: 3-5 years
+                - listitem [ref=e176]:
+                  - generic [ref=e177] [cursor=pointer]:
+                    - radio "Over 5 years" [ref=e178]
+                    - generic [ref=e179]: Over 5 years
+          - listitem [ref=e180]:
+            - generic [ref=e181]:
+              - generic [ref=e183]:
+                - text: For how many years have you been studying? Ensure to include both years for completed degrees and ongoing one, rounding to the highest digit (e.g. if the BA took 3.5 years, round to 4)
+                - generic [ref=e184]: ✱
+              - list [ref=e186]:
+                - listitem [ref=e187]:
+                  - generic [ref=e188] [cursor=pointer]:
+                    - checkbox "0-4" [ref=e189]
+                    - generic [ref=e190]: 0-4
+                - listitem [ref=e191]:
+                  - generic [ref=e192] [cursor=pointer]:
+                    - checkbox "4-5" [ref=e193]
+                    - generic [ref=e194]: 4-5
+                - listitem [ref=e195]:
+                  - generic [ref=e196] [cursor=pointer]:
+                    - checkbox "6-7" [ref=e197]
+                    - generic [ref=e198]: 6-7
+                - listitem [ref=e199]:
+                  - generic [ref=e200] [cursor=pointer]:
+                    - checkbox "8-10" [ref=e201]
+                    - generic [ref=e202]: 8-10
+                - listitem [ref=e203]:
+                  - generic [ref=e204] [cursor=pointer]:
+                    - checkbox "11+" [ref=e205]
+                    - generic [ref=e206]: 11+
+          - listitem [ref=e207]:
+            - generic [ref=e208]:
+              - generic [ref=e210]:
+                - text: When would you be available to join?
+                - generic [ref=e211]: ✱
+              - textbox [ref=e213]
+      - generic [ref=e214]:
+        - heading "Employment eligibility (Italy)" [level=4] [ref=e215]
+        - list [ref=e216]:
+          - listitem [ref=e217]:
+            - generic [ref=e218]:
+              - generic [ref=e220]:
+                - text: ONLY APPLY if you accept to move to one of the location indicated once hired
+                - generic [ref=e221]: ✱
+              - list [ref=e223]:
+                - listitem [ref=e224]:
+                  - generic [ref=e225] [cursor=pointer]:
+                    - radio "I confirm I will move to one of the locations selected" [ref=e226]
+                    - generic [ref=e227]: I confirm I will move to one of the locations selected
+                - listitem [ref=e228]:
+                  - generic [ref=e229] [cursor=pointer]:
+                    - radio "I reject" [ref=e230]
+                    - generic [ref=e231]: I reject
+          - listitem [ref=e232]:
+            - generic [ref=e233]:
+              - generic [ref=e235]:
+                - text: To apply for the position in Italy, you should be an Italian resident or willing to relocate to Italy. Would you be willing to relocate to Italy?
+                - generic [ref=e236]: ✱
+              - list [ref=e238]:
+                - listitem [ref=e239]:
+                  - generic [ref=e240] [cursor=pointer]:
+                    - radio "I am already an Italian resident" [ref=e241]
+                    - generic [ref=e242]: I am already an Italian resident
+                - listitem [ref=e243]:
+                  - generic [ref=e244] [cursor=pointer]:
+                    - radio "Yes, I plan to relocate to Italy for this new job" [ref=e245]
+                    - generic [ref=e246]: Yes, I plan to relocate to Italy for this new job
+                - listitem [ref=e247]:
+                  - generic [ref=e248] [cursor=pointer]:
+                    - radio "No" [ref=e249]
+                    - generic [ref=e250]: "No"
+                - listitem [ref=e251]:
+                  - generic [ref=e252] [cursor=pointer]:
+                    - radio "Don't know" [ref=e253]
+                    - generic [ref=e254]: Don't know
+                - listitem [ref=e255]:
+                  - generic [ref=e256] [cursor=pointer]:
+                    - radio "Does not apply to me" [ref=e257]
+                    - generic [ref=e258]: Does not apply to me
+          - listitem [ref=e259]:
+            - generic [ref=e260]:
+              - generic [ref=e262]:
+                - text: Are you an EU citizen or do you own a student/working visa?
+                - generic [ref=e263]: ✱
+              - list [ref=e265]:
+                - listitem [ref=e266]:
+                  - generic [ref=e267] [cursor=pointer]:
+                    - radio "Yes, I am a EU citizen." [ref=e268]
+                    - generic [ref=e269]: Yes, I am a EU citizen.
+                - listitem [ref=e270]:
+                  - generic [ref=e271] [cursor=pointer]:
+                    - radio "No, I am not a EU citizen but I own a working visa." [ref=e272]
+                    - generic [ref=e273]: No, I am not a EU citizen but I own a working visa.
+                - listitem [ref=e274]:
+                  - generic [ref=e275] [cursor=pointer]:
+                    - radio "No, I am not a EU citizen but I own a student visa." [ref=e276]
+                    - generic [ref=e277]: No, I am not a EU citizen but I own a student visa.
+                - listitem [ref=e278]:
+                  - generic [ref=e279] [cursor=pointer]:
+                    - radio "No, I am not a EU citizen, I don't own any visa." [ref=e280]
+                    - generic [ref=e281]: No, I am not a EU citizen, I don't own any visa.
+      - generic [ref=e282]:
+        - heading "Other Info" [level=4] [ref=e283]
+        - list [ref=e284]:
+          - listitem [ref=e285]:
+            - generic [ref=e286]:
+              - generic [ref=e288]:
+                - text: How did you find this position?
+                - generic [ref=e289]: ✱
+              - combobox [ref=e292]:
+                - option "Select..." [selected]
+                - option "LinkedIn"
+                - option "Indeed"
+                - option "Other job portals"
+                - option "ION website"
+                - option "Friends/Colleagues"
+                - option "Referral"
+                - option "University"
+                - option "Recruitment Agency"
+                - option "Other"
+      - generic [ref=e293]:
+        - 'heading "Language Skills: Italian" [level=4] [ref=e294]'
+        - list [ref=e295]:
+          - listitem [ref=e296]:
+            - generic [ref=e297]:
+              - generic [ref=e299]:
+                - text: CEFR Level
+                - generic [ref=e300]: ✱
+              - list [ref=e302]:
+                - listitem [ref=e303]:
+                  - generic [ref=e304] [cursor=pointer]:
+                    - checkbox "A1 - Beginner / Elementary" [ref=e305]
+                    - generic [ref=e306]: A1 - Beginner / Elementary
+                - listitem [ref=e307]:
+                  - generic [ref=e308] [cursor=pointer]:
+                    - checkbox "A2 - Pre Intermediate" [ref=e309]
+                    - generic [ref=e310]: A2 - Pre Intermediate
+                - listitem [ref=e311]:
+                  - generic [ref=e312] [cursor=pointer]:
+                    - checkbox "B1 - Intermediate" [ref=e313]
+                    - generic [ref=e314]: B1 - Intermediate
+                - listitem [ref=e315]:
+                  - generic [ref=e316] [cursor=pointer]:
+                    - checkbox "B2 - Upper Intermediate" [ref=e317]
+                    - generic [ref=e318]: B2 - Upper Intermediate
+                - listitem [ref=e319]:
+                  - generic [ref=e320] [cursor=pointer]:
+                    - checkbox "C1 - Advanced" [ref=e321]
+                    - generic [ref=e322]: C1 - Advanced
+                - listitem [ref=e323]:
+                  - generic [ref=e324] [cursor=pointer]:
+                    - checkbox "C2 - Proficient" [ref=e325]
+                    - generic [ref=e326]: C2 - Proficient
+                - listitem [ref=e327]:
+                  - generic [ref=e328] [cursor=pointer]:
+                    - checkbox "Mother tongue" [ref=e329]
+                    - generic [ref=e330]: Mother tongue
+      - generic [ref=e331]:
+        - 'heading "Language Skills: English" [level=4] [ref=e332]'
+        - list [ref=e333]:
+          - listitem [ref=e334]:
+            - generic [ref=e335]:
+              - generic [ref=e337]:
+                - text: CEFR Level
+                - generic [ref=e338]: ✱
+              - list [ref=e340]:
+                - listitem [ref=e341]:
+                  - generic [ref=e342] [cursor=pointer]:
+                    - checkbox "A1 - Beginner / Elementary" [ref=e343]
+                    - generic [ref=e344]: A1 - Beginner / Elementary
+                - listitem [ref=e345]:
+                  - generic [ref=e346] [cursor=pointer]:
+                    - checkbox "A2 - Pre Intermediate" [ref=e347]
+                    - generic [ref=e348]: A2 - Pre Intermediate
+                - listitem [ref=e349]:
+                  - generic [ref=e350] [cursor=pointer]:
+                    - checkbox "B1 - Intermediate" [ref=e351]
+                    - generic [ref=e352]: B1 - Intermediate
+                - listitem [ref=e353]:
+                  - generic [ref=e354] [cursor=pointer]:
+                    - checkbox "B2 - Upper Intermediate" [ref=e355]
+                    - generic [ref=e356]: B2 - Upper Intermediate
+                - listitem [ref=e357]:
+                  - generic [ref=e358] [cursor=pointer]:
+                    - checkbox "C1 - Advanced" [ref=e359]
+                    - generic [ref=e360]: C1 - Advanced
+                - listitem [ref=e361]:
+                  - generic [ref=e362] [cursor=pointer]:
+                    - checkbox "C2 - Proficient" [ref=e363]
+                    - generic [ref=e364]: C2 - Proficient
+                - listitem [ref=e365]:
+                  - generic [ref=e366] [cursor=pointer]:
+                    - checkbox "Mother tongue" [ref=e367]
+                    - generic [ref=e368]: Mother tongue
+      - generic [ref=e369]:
+        - heading "Tech Skills - Italy" [level=4] [ref=e370]
+        - list [ref=e371]:
+          - listitem [ref=e372]:
+            - generic [ref=e373]:
+              - generic [ref=e375]: Select the programming language you are most comfortable with
+              - list [ref=e377]:
+                - listitem [ref=e378]:
+                  - generic [ref=e379] [cursor=pointer]:
+                    - radio "C++" [ref=e380]
+                    - generic [ref=e381]: C++
+                - listitem [ref=e382]:
+                  - generic [ref=e383] [cursor=pointer]:
+                    - radio "java" [ref=e384]
+                    - generic [ref=e385]: java
+                - listitem [ref=e386]:
+                  - generic [ref=e387] [cursor=pointer]:
+                    - radio "Javascript" [ref=e388]
+                    - generic [ref=e389]: Javascript
+                - listitem [ref=e390]:
+                  - generic [ref=e391] [cursor=pointer]:
+                    - radio "Python" [ref=e392]
+                    - generic [ref=e393]: Python
+      - generic [ref=e394]:
+        - heading "LDP DEV Working experience" [level=4] [ref=e395]
+        - list [ref=e396]:
+          - listitem [ref=e397]:
+            - generic [ref=e398]:
+              - generic [ref=e400]:
+                - text: How many years of working experience do you have since graduation
+                - generic [ref=e401]: ✱
+              - list [ref=e403]:
+                - listitem [ref=e404]:
+                  - generic [ref=e405] [cursor=pointer]:
+                    - radio "0" [ref=e406]
+                    - generic [ref=e407]: "0"
+                - listitem [ref=e408]:
+                  - generic [ref=e409] [cursor=pointer]:
+                    - radio "1-3" [ref=e410]
+                    - generic [ref=e411]: 1-3
+                - listitem [ref=e412]:
+                  - generic [ref=e413] [cursor=pointer]:
+                    - radio "4+" [ref=e414]
+                    - generic [ref=e415]: 4+
+      - generic [ref=e416]:
+        - heading "Academic Journey - DEV" [level=4] [ref=e417]
+        - list [ref=e418]:
+          - listitem [ref=e419]:
+            - generic [ref=e420]:
+              - generic [ref=e422]:
+                - text: What is your degree
+                - generic [ref=e423]: ✱
+              - list [ref=e425]:
+                - listitem [ref=e426]:
+                  - generic [ref=e427] [cursor=pointer]:
+                    - radio "Other" [ref=e428]
+                    - generic [ref=e429]: Other
+                - listitem [ref=e430]:
+                  - generic [ref=e431] [cursor=pointer]:
+                    - radio "ICT (Computer Science, Engineering)" [ref=e432]
+                    - generic [ref=e433]: ICT (Computer Science, Engineering)
+      - generic [ref=e434]:
+        - heading "Location Compatibility - Italy" [level=4] [ref=e435]
+        - list [ref=e436]:
+          - listitem [ref=e437]:
+            - generic [ref=e438]:
+              - generic [ref=e440]:
+                - text: How does relocating to this role's location fit into your long-term career goals?
+                - generic [ref=e441]: ✱
+              - list [ref=e443]:
+                - listitem [ref=e444]:
+                  - generic [ref=e445] [cursor=pointer]:
+                    - radio "It doesn't align with my long-term goals, but I'm interested in the role itself." [ref=e446]
+                    - generic [ref=e447]: It doesn't align with my long-term goals, but I'm interested in the role itself.
+                - listitem [ref=e448]:
+                  - generic [ref=e449] [cursor=pointer]:
+                    - radio "I'm open to exploring it, but I'm unsure how it fits into my long-term plans." [ref=e450]
+                    - generic [ref=e451]: I'm open to exploring it, but I'm unsure how it fits into my long-term plans.
+                - listitem [ref=e452]:
+                  - generic [ref=e453] [cursor=pointer]:
+                    - radio "It supports my career goals, though I may consider other locations in the future." [ref=e454]
+                    - generic [ref=e455]: It supports my career goals, though I may consider other locations in the future.
+                - listitem [ref=e456]:
+                  - generic [ref=e457] [cursor=pointer]:
+                    - radio "It aligns perfectly with my career aspirations and offers significant growth opportunities." [ref=e458]
+                    - generic [ref=e459]: It aligns perfectly with my career aspirations and offers significant growth opportunities.
+          - listitem [ref=e460]:
+            - generic [ref=e461]:
+              - generic [ref=e463]:
+                - text: Do you have any previous experience living, working, or any connections related to this area?
+                - generic [ref=e464]: ✱
+              - list [ref=e466]:
+                - listitem [ref=e467]:
+                  - generic [ref=e468] [cursor=pointer]:
+                    - radio "I have no prior experience or connections in this area." [ref=e469]
+                    - generic [ref=e470]: I have no prior experience or connections in this area.
+                - listitem [ref=e471]:
+                  - generic [ref=e472] [cursor=pointer]:
+                    - radio "I have never lived or worked here, but I have visited a few times." [ref=e473]
+                    - generic [ref=e474]: I have never lived or worked here, but I have visited a few times.
+                - listitem [ref=e475]:
+                  - generic [ref=e476] [cursor=pointer]:
+                    - radio "I have some experience visiting the area and know a few people." [ref=e477]
+                    - generic [ref=e478]: I have some experience visiting the area and know a few people.
+                - listitem [ref=e479]:
+                  - generic [ref=e480] [cursor=pointer]:
+                    - radio "Yes, I have lived and worked in this area before and have strong connections here." [ref=e481]
+                    - generic [ref=e482]: Yes, I have lived and worked in this area before and have strong connections here.
+          - listitem [ref=e483]:
+            - generic [ref=e484]:
+              - generic [ref=e486]:
+                - text: Do you think this area could offer services aligned with your lifestyle?
+                - generic [ref=e487]: ✱
+              - list [ref=e489]:
+                - listitem [ref=e490]:
+                  - generic [ref=e491] [cursor=pointer]:
+                    - radio "I don't believe the area has the necessary services for my lifestyle." [ref=e492]
+                    - generic [ref=e493]: I don't believe the area has the necessary services for my lifestyle.
+                - listitem [ref=e494]:
+                  - generic [ref=e495] [cursor=pointer]:
+                    - radio "I'm not sure yet, but I plan to explore and assess the services available." [ref=e496]
+                    - generic [ref=e497]: I'm not sure yet, but I plan to explore and assess the services available.
+                - listitem [ref=e498]:
+                  - generic [ref=e499] [cursor=pointer]:
+                    - radio "The area has most of the necessary services, though some improvements could be made." [ref=e500]
+                    - generic [ref=e501]: The area has most of the necessary services, though some improvements could be made.
+                - listitem [ref=e502]:
+                  - generic [ref=e503] [cursor=pointer]:
+                    - radio "Yes, the area has excellent services and infrastructure that meet my needs." [ref=e504]
+                    - generic [ref=e505]: Yes, the area has excellent services and infrastructure that meet my needs.
+          - listitem [ref=e506]:
+            - generic [ref=e507]:
+              - generic [ref=e509]:
+                - text: Have you identified the strengths and weaknesses of this area? Do you have a plan to address them?
+                - generic [ref=e510]: ✱
+              - list [ref=e512]:
+                - listitem [ref=e513]:
+                  - generic [ref=e514] [cursor=pointer]:
+                    - radio "I haven't identified the strengths and weaknesses yet, and I don't have a plan." [ref=e515]
+                    - generic [ref=e516]: I haven't identified the strengths and weaknesses yet, and I don't have a plan.
+                - listitem [ref=e517]:
+                  - generic [ref=e518] [cursor=pointer]:
+                    - radio "I'm still in the process of identifying the strengths and weaknesses and developing a plan." [ref=e519]
+                    - generic [ref=e520]: I'm still in the process of identifying the strengths and weaknesses and developing a plan.
+                - listitem [ref=e521]:
+                  - generic [ref=e522] [cursor=pointer]:
+                    - radio "I've identified some strengths and weaknesses and have a few ideas on how to address them." [ref=e523]
+                    - generic [ref=e524]: I've identified some strengths and weaknesses and have a few ideas on how to address them.
+                - listitem [ref=e525]:
+                  - generic [ref=e526] [cursor=pointer]:
+                    - radio "Yes, I've identified both and have a clear plan to leverage the strengths and address the weaknesses." [ref=e527]
+                    - generic [ref=e528]: Yes, I've identified both and have a clear plan to leverage the strengths and address the weaknesses.
+      - generic [ref=e529]:
+        - separator [ref=e530]
+        - list [ref=e531]:
+          - listitem [ref=e532]:
+            - paragraph [ref=e533]:
+              - text: By applying for this position, your data will be processed as per ION Group
+              - link "Privacy Policy" [ref=e535] [cursor=pointer]:
+                - /url: https://iongroup.com/privacy-statement/
+              - text: .
+      - button "Submit application" [ref=e537] [cursor=pointer]
+  - generic [ref=e539]:
+    - paragraph [ref=e540]:
+      - link "ION Group Home Page" [ref=e541] [cursor=pointer]:
+        - /url: http://iongroup.com
+    - paragraph [ref=e543]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+    - link "Jobs powered by Lever logo" [ref=e544] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e545]: Jobs powered by
+      - img "Lever logo" [ref=e546]

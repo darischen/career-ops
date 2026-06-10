@@ -1,0 +1,221 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to content" [ref=e3] [cursor=pointer]:
+      - /url: "#content"
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - paragraph [ref=e7]:
+          - link "DoorDash" [ref=e8] [cursor=pointer]:
+            - /url: https://careersatdoordash.com/
+            - img "DoorDash" [ref=e9]
+        - navigation "Main Navigation" [ref=e10]:
+          - button [ref=e12] [cursor=pointer]
+          - list "submenu" [ref=e15]:
+            - listitem [ref=e16]:
+              - link "Mission & Values" [ref=e17] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/mission-and-values/
+            - listitem [ref=e18]:
+              - link "Working at DoorDash" [ref=e19] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/working-at-doordash/
+            - listitem [ref=e20]:
+              - link "Belonging" [ref=e21] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/belonging/
+            - listitem [ref=e22]:
+              - link "Blogs" [ref=e23] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/blog/
+            - listitem [ref=e24]:
+              - link "Career Areas" [ref=e25] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/career-areas/
+            - listitem [ref=e26]:
+              - link "Engineering" [ref=e27] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/career-areas/engineering/
+            - listitem [ref=e28]:
+              - link "SevenRooms" [ref=e29] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/career-areas/sevenrooms/
+            - listitem [ref=e30]:
+              - link "Search Jobs" [ref=e31] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/job-search/
+    - generic [ref=e32]:
+      - generic [ref=e34]:
+        - generic [ref=e35]:
+          - heading "Software Engineer, Machine Learning - Credit & Refund Optimization" [level=1] [ref=e36]
+          - link "Apply To Job" [ref=e37] [cursor=pointer]:
+            - /url: https://job-boards.greenhouse.io/doordashusa/jobs/7932109#app
+            - text: Apply To Job
+        - generic [ref=e38]:
+          - paragraph [ref=e39]: "Job ID: 2728442"
+          - paragraph [ref=e40]: DoorDash, Inc.
+          - paragraph [ref=e41]: San Francisco, CA; Sunnyvale, CA; Seattle, WA
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - generic:
+            - paragraph
+          - heading "About the Team" [level=2] [ref=e45]:
+            - strong [ref=e46]: About the Team
+          - paragraph [ref=e47]: Join the team focused on building intelligent, personalized systems that drive fairness, efficiency, and trust in the DoorDash platform. We own the credits and refunds experience—key components of customer satisfaction and retention—and we’re pioneering new ways to optimize and personalize these decisions at scale using causal inference and optimization.
+          - heading "About the Role" [level=2] [ref=e48]:
+            - strong [ref=e49]: About the Role
+          - paragraph [ref=e50]: We're seeking a Machine Learning Engineer to lead the development of state-of-the-art ML systems that personalize and optimize credits and refund decisions. This work is critical to balancing cost efficiency with long-term customer retention and experience.
+          - paragraph [ref=e51]: In this high-impact role, you will partner with cross-functional leaders to design and deploy causal models and optimization algorithms that influence millions of user experiences every week.
+          - heading "You’re excited about this opportunity because you will…" [level=2] [ref=e52]:
+            - strong [ref=e53]: You’re excited about this opportunity because you will…
+          - list [ref=e54]:
+            - listitem [ref=e55]: Designing and deploying causal inference models to accurately assess the impact of refunds and credits on customer satisfaction, retention, and behavior
+            - listitem [ref=e56]: Developing optimization frameworks that balance customer experience with operational cost, under policy and budget constraints
+            - listitem [ref=e57]: Building personalized decision systems that adapt to customer preferences and platform dynamics in real time
+            - listitem [ref=e58]: Collaborating with engineering, product, and data science partners to shape the roadmap for trust, service recovery, and consumer experience
+            - listitem [ref=e59]: Leading end-to-end model development, including experimentation, deployment, monitoring, and iteration
+          - heading "We’re excited about you because you have:" [level=2] [ref=e60]:
+            - strong [ref=e61]: "We’re excited about you because you have:"
+          - list [ref=e62]:
+            - listitem [ref=e63]: 3+ years of industry experience delivering machine learning systems with clear business impact, especially in personalization, optimization, or causal inference
+            - listitem [ref=e64]: Proficiency in using AI coding tools (e.g., Claude Code, Codex, Cursor) in the full software development lifecycle, including designing, generating code, testing, monitoring and releasing software
+            - listitem [ref=e65]: Deep expertise in statistical modeling and causal inference (e.g., uplift modeling, treatment effect estimation, synthetic controls, instrumental variables)
+            - listitem [ref=e66]: Experience designing and deploying optimization algorithms (e.g., multi-objective optimization, bandits, constrained optimization)
+            - listitem [ref=e67]: Proficiency in Python and ML tooling such as PyTorch, Spark, and MLflow
+            - listitem [ref=e68]: A strong product sense and ability to translate business objectives into technical solutions
+            - listitem [ref=e69]: M.S. or Ph.D. in a quantitative field (e.g., Computer Science, Statistics, Operations Research, Economics, Mathematics)
+            - listitem [ref=e70]: Excellent communication skills and a track record of cross-functional leadership
+          - paragraph [ref=e71]
+          - paragraph [ref=e72]: Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only
+          - paragraph [ref=e73]:
+            - text: We use Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provide Covey with job requirements and candidate submitted applications. We began using
+            - link "Covey Scout for Inbound" [ref=e74] [cursor=pointer]:
+              - /url: https://getcovey.com/product/covey-scout-inbound
+            - text: from August 21, 2023, through December 21, 2023, and resumed using
+            - link "Covey Scout for Inbound" [ref=e75] [cursor=pointer]:
+              - /url: https://getcovey.com/product/covey-scout-inbound
+            - text: again on June 29, 2024.
+          - paragraph [ref=e76]:
+            - text: "The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here:"
+            - link "Covey" [ref=e77] [cursor=pointer]:
+              - /url: https://getcovey.com/nyc-local-law-144
+          - generic [ref=e78]:
+            - generic [ref=e79]:
+              - generic [ref=e80]:
+                - paragraph [ref=e81]:
+                  - strong [ref=e83]: Compensation
+                - paragraph [ref=e84]: The successful candidate's starting pay will fall within the pay range listed below and is determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Base salary is localized according to an employee’s work location. Ranges are market-dependent and may be modified in the future.
+                - paragraph [ref=e85]: In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information.
+                - paragraph [ref=e86]: DoorDash cares about you and your overall well-being. That’s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family-forming assistance, and a mental health program, among others.
+                - paragraph [ref=e87]:
+                  - text: To learn more about our benefits, visit our careers page
+                  - link "here" [ref=e88] [cursor=pointer]:
+                    - /url: https://careers.doordash.com/
+                  - text: .
+                - paragraph [ref=e89]: "See below for paid time off details:"
+                - list [ref=e90]:
+                  - listitem [ref=e91]:
+                    - strong [ref=e92]: "For salaried roles:"
+                    - text: flexible paid time off/vacation, plus 80 hours of paid sick time per year.
+                  - listitem [ref=e93]:
+                    - strong [ref=e94]: "For hourly roles:"
+                    - text: vacation accrued at about 1 hour for every 25.97 hours worked (e.g. about 6.7 hours/month if working 40 hours/week; about 3.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5.8 hours/month if working 40 hours/week; about 2.9 hours/month if working 20 hours/week).
+                - paragraph [ref=e95]:
+                  - strong [ref=e96]: The national base pay ranges for this position within the United States, including Illinois and Colorado.
+              - generic [ref=e97]: I4
+              - generic [ref=e98]: $137,100—$201,600 USD
+            - generic [ref=e99]:
+              - generic [ref=e100]: I5
+              - generic [ref=e101]: $167,800—$246,800 USD
+            - generic [ref=e102]:
+              - generic [ref=e103]: I6
+              - generic [ref=e104]: $203,500—$299,300 USD
+          - generic [ref=e105]:
+            - heading "About DoorDash" [level=2] [ref=e106]
+            - paragraph [ref=e107]:
+              - text: At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods.
+              - text: DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees’ happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+            - heading "Our Commitment to Diversity and Inclusion" [level=2] [ref=e108]
+            - paragraph [ref=e109]: We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+            - paragraph [ref=e110]: "Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on “protected categories,” we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce – people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination."
+            - paragraph [ref=e111]: Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
+            - paragraph [ref=e112]:
+              - strong [ref=e113]: If you need any accommodations, please inform your recruiting contact upon initial connection.
+            - paragraph [ref=e114]: Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only
+            - paragraph [ref=e115]: We used Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provided Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023. We resumed using Covey Scout for Inbound again on June 29, 2024, and ceased using Covey Scout for Inbound on April 30, 2026.
+            - paragraph [ref=e116]:
+              - text: "The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here:"
+              - strong [ref=e117]:
+                - link "https://getcovey.com/nyc-local-law-144" [ref=e118] [cursor=pointer]:
+                  - /url: https://getcovey.com/nyc-local-law-144
+                - text: .
+        - separator [ref=e119]
+        - link "Apply To Job" [ref=e121] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/doordashusa/jobs/7932109#app
+          - text: Apply To Job
+      - generic [ref=e123]:
+        - generic [ref=e124]:
+          - heading "Flexible Work" [level=2] [ref=e125]
+          - paragraph [ref=e126]: Discover how we’re evolving & leading the way for the future of work
+        - link "Learn More About Flexible Work" [ref=e127] [cursor=pointer]:
+          - /url: https://careers.doordash.com/blog/doordash-commits-to-flexible-work-2022
+      - generic [ref=e129]:
+        - heading "Stay Connected" [level=2] [ref=e130]
+        - generic [ref=e131]:
+          - paragraph [ref=e132]: Be the first to hear about our latest job openings, recruiting events, and exciting breakthroughs.
+          - link "(Rejoignez notre French Talent Network lci)" [ref=e133] [cursor=pointer]:
+            - /url: https://www.gem.com/form?formID=2f57e8db-dcdf-47b1-a95d-94298973923a
+        - link "Join Our Talent Network" [ref=e135] [cursor=pointer]:
+          - /url: https://www.gem.com/form?formID=49e87e7d-3ed2-4d15-911c-58158e4a516e
+    - contentinfo [ref=e136]:
+      - generic [ref=e138]:
+        - link "DoorDash" [ref=e141] [cursor=pointer]:
+          - /url: ""
+          - img "DoorDash" [ref=e142]
+        - navigation "Footer Menu" [ref=e144]:
+          - list [ref=e146]:
+            - listitem [ref=e147]:
+              - link "Careers Home" [ref=e148] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e149]:
+              - link "Mission & Values" [ref=e150] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/mission-and-values/
+            - listitem [ref=e151]:
+              - link "Working at DoorDash" [ref=e152] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/working-at-doordash/
+            - listitem [ref=e153]:
+              - link "Belonging" [ref=e154] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/belonging/
+            - listitem [ref=e155]:
+              - link "Career Areas" [ref=e156] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/career-areas/
+            - listitem [ref=e157]:
+              - link "University Careers" [ref=e158] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/university-careers/
+            - listitem [ref=e159]:
+              - link "Career Blog" [ref=e160] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/blog/
+            - listitem [ref=e161]:
+              - link "Talent Network" [ref=e162] [cursor=pointer]:
+                - /url: https://www.gem.com/form?formID=49e87e7d-3ed2-4d15-911c-58158e4a516e
+            - listitem [ref=e163]:
+              - link "Search Jobs" [ref=e164] [cursor=pointer]:
+                - /url: https://careersatdoordash.com/job-search/
+        - paragraph [ref=e166]: "Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on “protected categories,” we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce – people who identify as women, nonbinary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination."
+    - generic [ref=e169]:
+      - generic [ref=e170]:
+        - link "Terms of Service" [ref=e171] [cursor=pointer]:
+          - /url: https://help.doordash.com/consumers/s/terms-and-conditions-us?language=en_US
+        - link "Consumer Privacy" [ref=e172] [cursor=pointer]:
+          - /url: https://help.doordash.com/consumers/s/privacy-policy-us?language=en_US
+        - link "Applicant Privacy Notice" [ref=e173] [cursor=pointer]:
+          - /url: https://help.doordash.com/legal/document?type=ax-privacy-notice&region=US&locale=en-US
+        - paragraph [ref=e174]: © 2026 DoorDash
+      - generic [ref=e175]:
+        - link [ref=e176] [cursor=pointer]:
+          - /url: https://twitter.com/doordash?lang=en
+          - img [ref=e177]
+        - link [ref=e179] [cursor=pointer]:
+          - /url: https://www.facebook.com/DoorDash/
+          - img [ref=e180]
+        - link [ref=e182] [cursor=pointer]:
+          - /url: https://www.instagram.com/doordash/?hl=en
+          - img [ref=e183]
+        - link [ref=e185] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/doordash/
+          - img [ref=e186]
+        - link [ref=e188] [cursor=pointer]:
+          - /url: https://www.youtube.com/channel/UCXQ7Gzszfuw84cEWGpKlFiQ
+          - img [ref=e189]
+  - 'complementary "Language selected: English"'

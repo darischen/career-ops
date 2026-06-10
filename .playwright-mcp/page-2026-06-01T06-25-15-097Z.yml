@@ -1,0 +1,274 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "FirmPilot Logo" [ref=e5]
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/firmpilotailawfirmmarketing?gh_src=Simplify
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - heading "Junior Full-Stack Engineer" [level=1] [ref=e13]
+            - generic [ref=e14]:
+              - img [ref=e15]
+              - generic [ref=e17]: Remote
+          - button "Apply" [ref=e18] [cursor=pointer]
+        - generic [ref=e20]:
+          - paragraph [ref=e21]: FirmPilot is looking for a motivated Junior Full Stack Engineer to help build the next generation of AI-powered marketing technology. This is an opportunity to work alongside a high-performing engineering team, gain hands-on experience in a fast-moving startup environment, and contribute to real production systems from day one.
+          - paragraph [ref=e22]: We’re looking for someone early in their engineering career who is eager to learn, grow quickly, and build modern applications across both frontend and backend systems.
+          - heading "What You’ll Bring" [level=4] [ref=e23]:
+            - strong [ref=e24]: What You’ll Bring
+          - list [ref=e25]:
+            - listitem [ref=e26]: 1–2 years of software engineering experience, internships, or equivalent hands-on development experience
+            - listitem [ref=e27]: Experience with JavaScript/TypeScript and modern frontend frameworks such as React or Next.js
+            - listitem [ref=e28]: Familiarity with backend development using .NET, Node.js, or similar technologies
+            - listitem [ref=e29]: Understanding of APIs, databases, and modern web application fundamentals
+            - listitem [ref=e30]: Exposure to cloud platforms such as AWS is a plus
+            - listitem [ref=e31]: Strong problem-solving skills and willingness to learn quickly
+            - listitem [ref=e32]: Ability to work collaboratively in a fast-paced startup environment
+            - listitem [ref=e33]: Interest in AI-powered products and emerging technologies
+          - heading "Our Tech Stack & Environment" [level=4] [ref=e34]:
+            - strong [ref=e35]: Our Tech Stack & Environment
+          - list [ref=e36]:
+            - listitem [ref=e37]: Next.js and React frontends
+            - listitem [ref=e38]: .NET 9 backend services
+            - listitem [ref=e39]: AWS cloud infrastructure
+            - listitem [ref=e40]: AI and machine learning integrations
+            - listitem [ref=e41]: Modern CI/CD and Infrastructure as Code practices
+            - listitem [ref=e42]: Collaborative startup engineering culture
+          - heading "What You’ll Do" [level=4] [ref=e43]:
+            - strong [ref=e44]: What You’ll Do
+          - list [ref=e45]:
+            - listitem [ref=e46]: Support development of frontend and backend application features
+            - listitem [ref=e47]: Collaborate with engineers, product, and design teams on new initiatives
+            - listitem [ref=e48]: Build and maintain APIs, internal tools, and user-facing experiences
+            - listitem [ref=e49]: Debug issues, improve application performance, and contribute to system reliability
+            - listitem [ref=e50]: Participate in code reviews and engineering discussions
+            - listitem [ref=e51]: Learn modern engineering best practices in a production environment
+          - heading "Why FirmPilot?" [level=4] [ref=e52]:
+            - strong [ref=e53]: Why FirmPilot?
+          - list [ref=e54]:
+            - listitem [ref=e55]: Direct exposure to cutting-edge AI-powered products
+            - listitem [ref=e56]: Opportunity to learn from experienced engineers and technical leaders
+            - listitem [ref=e57]: Fast career growth and meaningful ownership early in your career
+            - listitem [ref=e58]: Startup environment with real impact and minimal bureaucracy
+            - listitem [ref=e59]: Collaborative team focused on building exceptional products
+          - heading "This Role Is a Great Fit If You…" [level=4] [ref=e60]:
+            - strong [ref=e61]: This Role Is a Great Fit If You…
+          - list [ref=e62]:
+            - listitem [ref=e63]: Love learning and solving technical challenges
+            - listitem [ref=e64]: Want hands-on experience building real-world applications
+            - listitem [ref=e65]: Thrive in fast-paced startup environments
+            - listitem [ref=e66]: Are excited to grow quickly as an engineer
+            - listitem [ref=e67]: Take initiative and enjoy figuring things out
+          - heading "Compensation Transparency" [level=4] [ref=e68]:
+            - strong [ref=e69]: Compensation Transparency
+          - paragraph [ref=e70]: Pursuant to applicable pay transparency laws, the salary range for this position is $65,000 – $80,000 USD annually.
+          - paragraph [ref=e71]
+        - generic [ref=e72]:
+          - img [ref=e73]
+          - generic [ref=e75]:
+            - paragraph [ref=e76]: Create a Job Alert
+            - paragraph [ref=e77]: Interested in building your career at FirmPilot? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e78] [cursor=pointer]
+      - separator [ref=e79]
+      - generic [ref=e80]:
+        - generic [ref=e81]:
+          - generic [ref=e82]:
+            - heading "Apply for this job" [level=2] [ref=e84]
+            - generic [ref=e85]:
+              - paragraph [ref=e87]: "*"
+              - paragraph [ref=e88]: indicates a required field
+          - button "Quick Apply with MyGreenhouse" [ref=e91] [cursor=pointer]
+        - generic [ref=e92]:
+          - generic [ref=e93]:
+            - generic [ref=e96]:
+              - generic [ref=e97]: First Name*
+              - textbox "First Name" [ref=e98]
+            - generic [ref=e101]:
+              - generic [ref=e102]: Last Name*
+              - textbox "Last Name" [ref=e103]
+            - generic [ref=e106]:
+              - generic [ref=e107]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e108]
+            - generic [ref=e111]:
+              - generic [ref=e112]: Email*
+              - textbox "Email" [ref=e113]
+            - group "Phone" [ref=e115]:
+              - generic [ref=e116]: Phone
+              - generic [ref=e119]:
+                - generic [ref=e120]: Country*
+                - generic [ref=e121]:
+                  - log [ref=e123]
+                  - generic [ref=e125]:
+                    - combobox "Country" [ref=e128]
+                    - button "Toggle flyout" [ref=e130] [cursor=pointer]:
+                      - img [ref=e131]
+                  - textbox
+              - generic [ref=e135]:
+                - generic [ref=e136]: Phone*
+                - textbox "Phone" [ref=e137]
+            - group "Resume/CV*" [ref=e139]:
+              - generic [ref=e140]: Resume/CV*
+              - generic [ref=e142]:
+                - generic [ref=e144]:
+                  - button "Attach" [ref=e145] [cursor=pointer]
+                  - generic [ref=e146]: Attach
+                  - button "Attach" [ref=e147]
+                - button "Dropbox" [ref=e149] [cursor=pointer]
+                - button "Google Drive" [ref=e151] [cursor=pointer]
+                - generic [ref=e153]:
+                  - button "Enter manually" [ref=e154] [cursor=pointer]
+                  - generic [ref=e155]: Enter manually
+                - paragraph [ref=e156]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e158]:
+              - generic [ref=e159]: Cover Letter
+              - generic [ref=e161]:
+                - generic [ref=e163]:
+                  - button "Attach" [ref=e164] [cursor=pointer]
+                  - generic [ref=e165]: Attach
+                  - button "Attach" [ref=e166]
+                - button "Dropbox" [ref=e168] [cursor=pointer]
+                - button "Google Drive" [ref=e170] [cursor=pointer]
+                - generic [ref=e172]:
+                  - button "Enter manually" [ref=e173] [cursor=pointer]
+                  - generic [ref=e174]: Enter manually
+                - paragraph [ref=e175]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e176]:
+            - separator [ref=e177]
+            - generic [ref=e180]:
+              - generic [ref=e181]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e182]
+            - generic [ref=e185]:
+              - generic [ref=e186]: Full Home Address*
+              - textbox "Full Home Address" [ref=e187]
+            - generic [ref=e190]:
+              - generic [ref=e191]: Are you legally authorized to work in the United States?*
+              - generic [ref=e192]:
+                - log [ref=e194]
+                - generic [ref=e196]:
+                  - generic [ref=e197]:
+                    - generic [ref=e198]: Select...
+                    - combobox "Are you legally authorized to work in the United States?" [ref=e200]
+                  - button "Toggle flyout" [ref=e202] [cursor=pointer]:
+                    - img [ref=e203]
+                - textbox
+            - generic [ref=e207]:
+              - generic [ref=e208]: Will you now or in the future require sponsorship for employment authorization (for example, H-1B visa status)*
+              - generic [ref=e209]:
+                - log [ref=e211]
+                - generic [ref=e213]:
+                  - generic [ref=e214]:
+                    - generic [ref=e215]: Select...
+                    - combobox "Will you now or in the future require sponsorship for employment authorization (for example, H-1B visa status)" [ref=e217]
+                  - button "Toggle flyout" [ref=e219] [cursor=pointer]:
+                    - img [ref=e220]
+                - textbox
+          - generic [ref=e222]:
+            - separator [ref=e223]
+            - generic [ref=e224]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e225]
+              - paragraph [ref=e226]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e227]: As set forth in FirmPilot’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e230]:
+              - generic [ref=e231]: Gender
+              - generic [ref=e232]:
+                - log [ref=e234]
+                - generic [ref=e236]:
+                  - generic [ref=e237]:
+                    - generic [ref=e238]: Select...
+                    - combobox "Gender" [ref=e240]
+                  - button "Toggle flyout" [ref=e242] [cursor=pointer]:
+                    - img [ref=e243]
+            - generic [ref=e245]:
+              - generic [ref=e247]:
+                - generic [ref=e248]: Are you Hispanic/Latino?
+                - generic [ref=e249]:
+                  - log [ref=e251]
+                  - generic [ref=e253]:
+                    - generic [ref=e254]:
+                      - generic [ref=e255]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e257]
+                    - button "Toggle flyout" [ref=e259] [cursor=pointer]:
+                      - img [ref=e260]
+              - link "Race & Ethnicity Definitions" [ref=e262] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e263]:
+              - paragraph [ref=e264]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e265]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e266]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e267]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e268]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e271]:
+              - generic [ref=e272]: Veteran Status
+              - generic [ref=e273]:
+                - log [ref=e275]
+                - generic [ref=e277]:
+                  - generic [ref=e278]:
+                    - generic [ref=e279]: Select...
+                    - combobox "Veteran Status" [ref=e281]
+                  - button "Toggle flyout" [ref=e283] [cursor=pointer]:
+                    - img [ref=e284]
+            - separator [ref=e286]
+            - generic [ref=e287]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e288]
+              - generic [ref=e289]:
+                - generic [ref=e290]:
+                  - generic [ref=e291]: Form CC-305
+                  - generic [ref=e292]: Page 1 of 1
+                - generic [ref=e293]:
+                  - generic [ref=e294]: OMB Control Number 1250-0005
+                  - generic [ref=e295]: Expires 04/30/2026
+              - strong [ref=e296]: Why are you being asked to complete this form?
+              - paragraph [ref=e297]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e298]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e299] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e300]: How do you know if you have a disability?
+              - paragraph [ref=e301]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e302]: "Disabilities include, but are not limited to:"
+              - list [ref=e303]:
+                - listitem [ref=e304]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e305]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e306]: Blind or low vision
+                - listitem [ref=e307]: Cancer (past or present)
+                - listitem [ref=e308]: Cardiovascular or heart disease
+                - listitem [ref=e309]: Celiac disease
+                - listitem [ref=e310]: Cerebral palsy
+                - listitem [ref=e311]: Deaf or serious difficulty hearing
+                - listitem [ref=e312]: Diabetes
+                - listitem [ref=e313]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e314]: Epilepsy or other seizure disorder
+                - listitem [ref=e315]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e316]: Intellectual or developmental disability
+                - listitem [ref=e317]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e318]: Missing limbs or partially missing limbs
+                - listitem [ref=e319]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e320]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e321]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e322]: Partial or complete paralysis (any cause)
+                - listitem [ref=e323]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e324]: Short stature (dwarfism)
+                - listitem [ref=e325]: Traumatic brain injury
+            - generic [ref=e328]:
+              - generic [ref=e329]: Disability Status
+              - generic [ref=e330]:
+                - log [ref=e332]
+                - generic [ref=e334]:
+                  - generic [ref=e335]:
+                    - generic [ref=e336]: Select...
+                    - combobox "Disability Status" [ref=e338]
+                  - button "Toggle flyout" [ref=e340] [cursor=pointer]:
+                    - img [ref=e341]
+            - paragraph [ref=e344]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e346] [cursor=pointer]
+  - contentinfo [ref=e347]:
+    - generic [ref=e348]:
+      - paragraph [ref=e349]: Powered by
+      - link "Greenhouse logo" [ref=e350] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e351]

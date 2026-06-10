@@ -1,0 +1,668 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e6]:
+      - paragraph [ref=e8]:
+        - strong [ref=e9]: Meet Constantine – Find Mythos-level vulnerabilities in your code. It proves them, patches them, PRs them back. Autonomously.
+      - link "Download Datasheet" [ref=e11] [cursor=pointer]:
+        - /url: /resources/constantine-datasheet/
+        - generic [ref=e13]: Download Datasheet
+    - banner [ref=e14]:
+      - generic [ref=e16]:
+        - link "Praetorian" [ref=e18] [cursor=pointer]:
+          - /url: https://www.praetorian.com
+          - img "Praetorian" [ref=e19]
+        - navigation "Menu" [ref=e21]:
+          - button "Menu Toggle" [ref=e22] [cursor=pointer]:
+            - img [ref=e24]
+            - img [ref=e27]
+  - main [ref=e29]:
+    - generic [ref=e31]:
+      - generic [ref=e33]:
+        - heading "Create a Future Without Compromise" [level=1] [ref=e35]
+        - paragraph [ref=e37]: Help us solve the cybersecurity problem. We’re tackling the industry’s most interesting and challenging issues, with its best talent.
+        - generic [ref=e39]:
+          - link "Life at Praetorian" [ref=e41] [cursor=pointer]:
+            - /url: /work-at-praetorian/
+            - generic [ref=e42]:
+              - img [ref=e44]
+              - generic [ref=e46]: Life at Praetorian
+          - link "Job Listings" [ref=e48] [cursor=pointer]:
+            - /url: "#job-opening"
+            - generic [ref=e50]: Job Listings
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - generic [ref=e55] [cursor=pointer]:
+            - img "Praetorian Survival Guide" [ref=e57]
+            - generic [ref=e59]:
+              - heading "What’s Onboarding Like?" [level=3] [ref=e60]
+              - generic [ref=e61]: What’s onboarding like at Praetorian? Explore our Annual Company Magazine to learn about what to expect.
+              - generic [ref=e63]: Download Magazine
+          - link [ref=e64] [cursor=pointer]:
+            - /url: /wp-content/uploads/2024/11/Praetorian-Survival-Guide.pdf
+        - generic [ref=e65]:
+          - generic [ref=e66] [cursor=pointer]:
+            - img "Tech Challenges" [ref=e68]
+            - generic [ref=e70]:
+              - heading "Tech Challenges" [level=3] [ref=e71]
+              - generic [ref=e72]: Test your problem solving skills across our suite of technical challenges and see if you have what it takes.
+              - link "Try Tech Challenges" [ref=e74]:
+                - /url: https://www.praetorian.com/challenges/
+          - link [ref=e75] [cursor=pointer]:
+            - /url: https://www.praetorian.com/challenges/
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - heading "Our Hiring Process" [level=2] [ref=e81]
+          - generic [ref=e82]:
+            - paragraph [ref=e83]: The success of our company is the direct result of our amazing team. We understand that looking for a new position is hard and we are grateful that you have chosen to invest your time in our hiring process.
+            - paragraph [ref=e84]: "While we work to make our hiring process as simple as possible, it is thorough by design. Our hiring philosophy encompasses four principles. In order of relative importance, they are: values alignment, passion for security, cognitive capabilities and task relevant experience."
+            - paragraph [ref=e85]: "Once you have submitted your application, you can anticipate a response within 48 hours. While our process can vary by role, generally you can anticipate five interview stages:"
+        - generic [ref=e86]:
+          - generic [ref=e87]:
+            - heading "Step 1" [level=2] [ref=e89]
+            - heading "Discovery & Culture in Action" [level=3] [ref=e91]
+            - generic [ref=e92]:
+              - paragraph [ref=e93]: Discovery Call – A 30-minute introduction where we explore your background, interests, and what drives you. You’ll also hear about Praetorian, our mission, and what to expect in the process.
+              - paragraph [ref=e94]: Culture in Action & DISC Assessment – You’ll watch a real, unfiltered look at our culture and complete a DISC assessment, helping us understand your working and communication style.
+              - paragraph [ref=e95]:
+                - strong [ref=e96]: Hiring Manager Interview
+                - text: – A deep-dive discussion with your potential manager, focusing on how you solve problems, your experience, and team fit.
+          - generic [ref=e97]:
+            - heading "Step 2" [level=2] [ref=e99]
+            - heading "Half-Day Technical Interview" [level=3] [ref=e101]
+            - generic [ref=e102]:
+              - paragraph [ref=e103]: This is a back-to-back interview session designed to efficiently assess your problem-solving skills, technical methodology, and team fit.
+              - paragraph [ref=e104]:
+                - strong [ref=e105]: 9:00 AM | Problem-Solving Exercise
+                - text: – A logic puzzle challenge designed to evaluate how you approach new and unfamiliar problems.
+              - paragraph [ref=e106]:
+                - strong [ref=e107]: 10:00 AM – 1:00 PM | Technical Labs
+                - text: – A hands-on virtual technical challenge, assess your competence. You’ll tackle real-world scenarios and engage with our engineers.
+          - generic [ref=e108]:
+            - heading "Step 3" [level=2] [ref=e110]
+            - heading "Culture at the Core" [level=3] [ref=e112]
+            - paragraph [ref=e114]:
+              - strong [ref=e115]: CEO Interview
+              - text: – Just like we started with culture, we end with it. This final 30-minute conversation with Nathan Sportsman, our CEO, is about vision, expectations, and alignment. It’s your chance to ask high-level questions and ensure Praetorian is the right fit for you.
+      - generic [ref=e121]:
+        - heading "Current Job Openings" [level=2] [ref=e123]
+        - iframe [ref=e126]:
+          - main [ref=f48e2]:
+            - generic [ref=f48e3]:
+              - generic [ref=f48e4]:
+                - link "Praetorian Logo":
+                  - /url: https://www.praetorian.com/nitropack_static/hagxvXYfntuKaNjMvRDqzXJpjNGtEnoc/assets/images/optimized/rev-95235dd/www.praetorian.com/wp-content/uploads/2025/10/praetorian-logo-final-white.svg?gh_src=Simplify
+                  - img "Praetorian Logo"
+              - generic [ref=f48e5]:
+                - generic [ref=f48e6]:
+                  - generic [ref=f48e7]:
+                    - heading "Software Engineer" [level=1] [ref=f48e8]
+                    - generic [ref=f48e9]:
+                      - img [ref=f48e10]
+                      - generic [ref=f48e12]: Austin, Texas, United States
+                  - button "Apply" [ref=f48e13]: Apply Now
+                - generic [ref=f48e14]:
+                  - generic [ref=f48e15]:
+                    - paragraph [ref=f48e16]:
+                      - strong [ref=f48e18]: We Are Praetorian
+                    - paragraph [ref=f48e19]: Praetorian is defined by raw intensity, fearless candor, and a relentless drive. This is who we are.
+                    - paragraph [ref=f48e20]: We are looking for high-performing, mission-aligned individuals. We prioritize performance over politics and purpose over transaction. This environment is built for those who seek ownership and impact.
+                    - paragraph [ref=f48e21]: Is Praetorian the right fit for you? If you are someone who obsesses over the problem, defaults to open communication, and wants to work with a team that refuses to accept mediocrity—then you have found your home.
+                    - paragraph [ref=f48e22]:
+                      - strong [ref=f48e24]: The Mission
+                    - paragraph [ref=f48e25]: Praetorian is an expert-driven offensive security company. Our mission is to prevent breaches before they occur. We help organizations shift from an "assume breach" mentality to adopting offensive security as a core strategy of prevention.
+                    - paragraph [ref=f48e26]: We don’t just find bugs; we solve the root cause. We are building a future without compromise, and we need people who run toward the fire.
+                    - paragraph [ref=f48e27]:
+                      - iframe [ref=f48e28]:
+                        - generic [active] [ref=f49e1]:
+                          - generic "YouTube Video Player" [ref=f49e3]
+                          - generic [ref=f49e5]:
+                            - generic:
+                              - generic:
+                                - button "Play video" [ref=f49e10] [cursor=pointer]
+                                - button "Hide player controls" [ref=f49e12] [cursor=pointer]
+                                - generic [ref=f49e14]:
+                                  - generic [ref=f49e19]:
+                                    - generic [ref=f49e20]:
+                                      - link "We Are Praetorian" [ref=f49e21] [cursor=pointer]:
+                                        - /url: https://www.youtube.com/watch?v=qmkRBVKeIiQ
+                                      - link "Praetorian" [ref=f49e22] [cursor=pointer]:
+                                        - /url: /channel/UCfr6y3L_hrmjPnT-6xO6vHA
+                                        - generic [ref=f49e23]: Praetorian
+                                    - generic [ref=f49e24]:
+                                      - button [ref=f49e25] [cursor=pointer]
+                                      - generic [ref=f49e27]:
+                                        - generic: Praetorian
+                                        - generic: 696 subscribers
+                                  - generic [ref=f49e28]:
+                                    - button "Share" [ref=f49e31] [cursor=pointer]:
+                                      - generic [ref=f49e35]:
+                                        - img
+                                    - link "Watch on YouTube" [ref=f49e42] [cursor=pointer]:
+                                      - /url: https://www.youtube.com/watch?v=qmkRBVKeIiQ
+                                      - generic [ref=f49e45]:
+                                        - text: Watch on
+                                        - img [ref=f49e47]:
+                                          - generic [ref=f49e49]:
+                                            - img
+                    - paragraph [ref=f48e29]
+                  - generic [ref=f48e37]:
+                    - paragraph [ref=f48e38]:
+                      - strong [ref=f48e40]: Who We Are Looking For
+                    - paragraph [ref=f48e41]:
+                      - generic [ref=f48e42]:
+                        - text: We are looking for a
+                        - strong [ref=f48e43]: Software Engineer
+                        - text: who operates with clear ownership. You’re not just filling a seat. You’re setting the standard. You believe great execution brings strategy to life.
+                    - paragraph [ref=f48e44]:
+                      - strong [ref=f48e46]: How You Operate
+                    - paragraph [ref=f48e47]:
+                      - generic [ref=f48e48]:
+                        - text: You bring
+                        - strong [ref=f48e49]: mission-driven grit
+                        - text: to every challenge, running toward hard problems rather than away from them. You prioritize customer outcomes over internal processes. You choose
+                        - strong [ref=f48e50]: truth and clarity
+                        - text: over performative politeness. We look for builders with a
+                        - strong [ref=f48e51]: bias for action
+                        - text: – people who own the fix when things break, share credit with the team, and possess the
+                        - strong [ref=f48e52]: intellectual humility
+                        - text: to care more about getting to the right answer than being right.
+                    - paragraph [ref=f48e53]:
+                      - strong [ref=f48e55]: What You Will Own
+                    - list [ref=f48e56]:
+                      - listitem [ref=f48e57]:
+                        - generic [ref=f48e58]:
+                          - strong [ref=f48e59]: "Own the Outcome:"
+                          - text: Build and ship features across the full stack of the Praetorian Guard platform, from the Go serverless backend to a React frontend used by security teams daily. You own it from design through production operations.
+                      - listitem [ref=f48e60]:
+                        - generic [ref=f48e61]:
+                          - strong [ref=f48e62]: "Take Accountability:"
+                          - text: Owning the outcome means taking accountability to overcome the challenges in developing and operating the Praetorian Guard platform.
+                      - listitem [ref=f48e63]:
+                        - generic [ref=f48e64]:
+                          - strong [ref=f48e65]: "Raise the Bar:"
+                          - text: Write code that is clear, tested, and built to last. Push the team's engineering standards forward through code review, technical proposals, and leading by example.
+                      - listitem [ref=f48e66]:
+                        - generic [ref=f48e67]:
+                          - strong [ref=f48e68]: "Drive Impact:"
+                          - text: Work directly with offensive security engineers to translate real-world vulnerability findings into platform capabilities. Your code doesn't just run, it scales the impact of every security engineer on the team.
+                      - listitem [ref=f48e69]:
+                        - generic [ref=f48e70]:
+                          - strong [ref=f48e71]: "Scale the Platform:"
+                          - text: "Design systems that handle the complexity of attack surface management at scale: graph databases modeling millions of asset relationships, queue-based architectures processing continuous security scans, and real-time interfaces that make complex data actionable."
+                    - paragraph [ref=f48e72]:
+                      - strong [ref=f48e74]: What You Bring
+                    - list [ref=f48e75]:
+                      - listitem [ref=f48e76]:
+                        - generic [ref=f48e77]:
+                          - strong [ref=f48e78]: "The Foundation:"
+                          - text: A Bachelor's degree in Computer Science, Engineering, Mathematics, or Physics, backed by
+                          - strong [ref=f48e79]: 0–5 years of experience
+                          - text: in cybersecurity, startups, or tech companies.
+                      - listitem [ref=f48e80]:
+                        - generic [ref=f48e81]:
+                          - strong [ref=f48e82]: "Backend Fluency:"
+                          - text: You write Go that is idiomatic, testable, and production-ready. You understand serverless architectures, API design, and working with databases under real load.
+                      - listitem [ref=f48e83]:
+                        - generic [ref=f48e84]:
+                          - strong [ref=f48e85]: "Systems Thinking:"
+                          - text: You reason about distributed systems, concurrency, failure modes, and data flow. You don't just write the function—you think about what happens when it's called ten thousand times a second.
+                      - listitem [ref=f48e86]:
+                        - generic [ref=f48e87]:
+                          - strong [ref=f48e88]: "Frontend Ability:"
+                          - text: You apply software engineering principles to guide AI agents to build responsive, performant UI in maintainable code. You care deeply about the final user experience and do not stop iterating until it is right.
+                      - listitem [ref=f48e89]:
+                        - generic [ref=f48e90]:
+                          - strong [ref=f48e91]: "Builder's Instinct:"
+                          - text: You have side projects, open-source contributions, or technical writing that shows you build because you want to, not because someone told you to. You've shipped something real outside of a classroom.
+                    - paragraph [ref=f48e92]:
+                      - strong [ref=f48e94]: "If This Position Is Wildly Successful, In One Year You Will Have:"
+                    - list [ref=f48e95]:
+                      - listitem [ref=f48e96]: Shipped major features across the Guard platform that security teams rely on daily
+                      - listitem [ref=f48e97]: Built infrastructure that scales, such as queue-based scanning pipelines, graph query optimization, and AWS serverless architecture.
+                      - listitem [ref=f48e98]: "Written code that your teammates trust: clean and well-tested. Your pull requests raise the bar and your reviews make the people around you sharper"
+                      - listitem [ref=f48e99]: Integrated AI tooling into your development workflow, moving fast in complex systems without sacrificing quality or understanding
+                      - listitem [ref=f48e100]: Honed your product skills by turning high-level requests into practical features that real customers rely on and generate delights.
+                      - listitem [ref=f48e101]: Demonstrated ownership across the full stack, from CloudFormation templates and Lambda handlers to React components and Playwright tests, not because you were told to, but because the problem demanded it
+                      - listitem [ref=f48e102]: Closed the gap between field findings and platform capabilities by partnering with offensive security engineers to translate recurring vulnerability patterns into automated detections that multiply the team's impact
+                      - listitem [ref=f48e103]: Contributed to Praetorian's engineering culture through technical blog posts, internal knowledge sharing, or open-source contributions that reflect the depth of what we're building
+                      - listitem [ref=f48e104]: Mentored junior engineers and contributed to a culture of continuous learning, raising the technical floor across the team through your example and your investment in the people around you
+                  - generic [ref=f48e105]:
+                    - paragraph [ref=f48e106]:
+                      - strong [ref=f48e108]: Why Praetorian?
+                    - paragraph [ref=f48e109]: We offer a culture built on high performance and deep ownership.
+                    - list [ref=f48e110]:
+                      - listitem [ref=f48e111]:
+                        - generic [ref=f48e112]:
+                          - strong [ref=f48e113]: "Elite Talent:"
+                          - text: Work alongside the top 1% of the industry—composed exclusively of high performers who raise the bar.
+                      - listitem [ref=f48e114]:
+                        - generic [ref=f48e115]:
+                          - strong [ref=f48e116]: "Our DNA:"
+                          - text: We are defined by action, grit, and uncompromising transparency. We move fast, take on hard problems, and choose clarity over comfort—because that’s how meaningful work gets done.
+                      - listitem [ref=f48e117]:
+                        - generic [ref=f48e118]:
+                          - strong [ref=f48e119]: "Impact:"
+                          - text: Your work directly protects the world's most critical organizations.
+                    - paragraph [ref=f48e120]:
+                      - strong [ref=f48e122]:
+                        - text: Want to go deeper? Explore our
+                        - link "New Hire Survival Guide" [ref=f48e123] [cursor=pointer]:
+                          - /url: https://www.google.com/search?q=https://www.praetorian.com/new-hire-survival-guide
+                        - text: to dive into Praetorian's mission, vision, values, and culture.
+                - generic [ref=f48e124]:
+                  - img [ref=f48e125]
+                  - generic [ref=f48e127]:
+                    - paragraph [ref=f48e128]: Create a Job Alert
+                    - paragraph [ref=f48e129]: Interested in building your career at Praetorian? Get future opportunities sent straight to your email.
+                    - button "Create alert" [ref=f48e130]
+              - separator
+              - generic [ref=f48e131]:
+                - generic [ref=f48e132]:
+                  - generic [ref=f48e133]:
+                    - heading "Apply for this job" [level=2] [ref=f48e135]
+                    - generic [ref=f48e136]:
+                      - paragraph [ref=f48e138]: "*"
+                      - paragraph [ref=f48e139]: indicates a required field
+                  - button "Autofill with MyGreenhouse" [ref=f48e142]
+                - generic [ref=f48e143]:
+                  - generic [ref=f48e144]:
+                    - generic [ref=f48e147]:
+                      - generic [ref=f48e148]: First Name*
+                      - textbox "First Name" [ref=f48e149]
+                    - generic [ref=f48e152]:
+                      - generic [ref=f48e153]: Last Name*
+                      - textbox "Last Name" [ref=f48e154]
+                    - generic [ref=f48e157]:
+                      - generic [ref=f48e158]: Email*
+                      - textbox "Email" [ref=f48e159]
+                    - group "Phone" [ref=f48e161]:
+                      - generic [ref=f48e162]: Phone
+                      - generic [ref=f48e165]:
+                        - text: Country
+                        - generic [ref=f48e166]:
+                          - log [ref=f48e168]
+                          - generic [ref=f48e170]:
+                            - combobox "Country" [ref=f48e173]
+                            - button "Toggle flyout" [ref=f48e175]:
+                              - img [ref=f48e176]
+                      - generic [ref=f48e180]:
+                        - text: Phone
+                        - textbox "Phone" [ref=f48e181]
+                    - group "Resume/CV*" [ref=f48e183]:
+                      - generic [ref=f48e184]: Resume/CV*
+                      - generic [ref=f48e186]:
+                        - generic [ref=f48e188]:
+                          - button "Attach" [ref=f48e189]
+                          - text: Attach
+                          - button "Attach" [ref=f48e190]
+                        - button "Dropbox" [ref=f48e192]
+                        - generic [ref=f48e194]:
+                          - button "Enter manually" [ref=f48e195]
+                          - text: Enter manually
+                        - paragraph [ref=f48e196]: "Accepted file types: pdf, doc, docx, txt, rtf"
+                    - group "Cover Letter*" [ref=f48e198]:
+                      - generic [ref=f48e199]: Cover Letter*
+                      - generic [ref=f48e201]:
+                        - generic [ref=f48e203]:
+                          - button "Attach" [ref=f48e204]
+                          - text: Attach
+                          - button "Attach" [ref=f48e205]
+                        - button "Dropbox" [ref=f48e207]
+                        - generic [ref=f48e209]:
+                          - button "Enter manually" [ref=f48e210]
+                          - text: Enter manually
+                        - paragraph [ref=f48e211]: "Accepted file types: pdf, doc, docx, txt, rtf"
+                  - generic [ref=f48e212]:
+                    - separator [ref=f48e213]
+                    - generic [ref=f48e216]:
+                      - generic [ref=f48e217]: LinkedIn Profile*
+                      - textbox "LinkedIn Profile" [ref=f48e218]
+                    - generic [ref=f48e221]:
+                      - generic [ref=f48e222]: Please provide links to any GitHub repositories, research write-ups, blogs, portfolios, or public profiles that showcase your work in security and/or AI (e.g., tooling, research, agent workflows, model evaluations, or related projects).*
+                      - textbox "Please provide links to any GitHub repositories, research write-ups, blogs, portfolios, or public profiles that showcase your work in security and/or AI (e.g., tooling, research, agent workflows, model evaluations, or related projects)." [ref=f48e223]
+                    - generic [ref=f48e226]:
+                      - generic [ref=f48e227]: Do you have backend development experience? Please describe*
+                      - textbox "Do you have backend development experience? Please describe" [ref=f48e228]
+                    - generic [ref=f48e231]:
+                      - generic [ref=f48e232]: What is your work authorization status in the US?*
+                      - generic [ref=f48e233]:
+                        - log [ref=f48e235]
+                        - generic [ref=f48e237]:
+                          - generic [ref=f48e238]:
+                            - generic [ref=f48e239]: Select...
+                            - combobox "What is your work authorization status in the US?" [ref=f48e241]
+                          - button "Toggle flyout" [ref=f48e243]:
+                            - img [ref=f48e244]
+                        - textbox
+                    - generic [ref=f48e248]:
+                      - generic [ref=f48e249]: Are you willing to relocate to Austin, TX for 12 months?*
+                      - generic [ref=f48e250]:
+                        - log [ref=f48e252]
+                        - generic [ref=f48e254]:
+                          - generic [ref=f48e255]:
+                            - generic [ref=f48e256]: Select...
+                            - combobox "Are you willing to relocate to Austin, TX for 12 months?" [ref=f48e258]
+                          - button "Toggle flyout" [ref=f48e260]:
+                            - img [ref=f48e261]
+                        - textbox
+                  - generic [ref=f48e263]:
+                    - separator
+                    - generic [ref=f48e264]:
+                      - heading "Voluntary Self-Identification" [level=2] [ref=f48e265]
+                      - paragraph [ref=f48e266]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+                      - paragraph [ref=f48e267]: As set forth in Praetorian’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+                    - generic [ref=f48e270]:
+                      - text: Gender
+                      - generic [ref=f48e271]:
+                        - log [ref=f48e273]
+                        - generic [ref=f48e275]:
+                          - generic [ref=f48e276]:
+                            - generic [ref=f48e277]: Select...
+                            - combobox "Gender" [ref=f48e279]
+                          - button "Toggle flyout" [ref=f48e281]:
+                            - img [ref=f48e282]
+                    - generic [ref=f48e284]:
+                      - generic [ref=f48e286]:
+                        - text: Are you Hispanic/Latino?
+                        - generic [ref=f48e287]:
+                          - log [ref=f48e289]
+                          - generic [ref=f48e291]:
+                            - generic [ref=f48e292]:
+                              - generic [ref=f48e293]: Select...
+                              - combobox "Are you Hispanic/Latino?" [ref=f48e295]
+                            - button "Toggle flyout" [ref=f48e297]:
+                              - img [ref=f48e298]
+                      - link "Race & Ethnicity Definitions" [ref=f48e300] [cursor=pointer]:
+                        - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+                    - generic [ref=f48e301]:
+                      - paragraph [ref=f48e302]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+                      - paragraph [ref=f48e303]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+                      - paragraph [ref=f48e304]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+                      - paragraph [ref=f48e305]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+                      - paragraph [ref=f48e306]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+                    - generic [ref=f48e309]:
+                      - text: Veteran Status
+                      - generic [ref=f48e310]:
+                        - log [ref=f48e312]
+                        - generic [ref=f48e314]:
+                          - generic [ref=f48e315]:
+                            - generic [ref=f48e316]: Select...
+                            - combobox "Veteran Status" [ref=f48e318]
+                          - button "Toggle flyout" [ref=f48e320]:
+                            - img [ref=f48e321]
+                    - separator
+                    - generic [ref=f48e323]:
+                      - heading "Voluntary Self-Identification of Disability" [level=2] [ref=f48e324]
+                      - generic [ref=f48e325]:
+                        - generic [ref=f48e326]:
+                          - generic [ref=f48e327]: Form CC-305
+                          - generic [ref=f48e328]: Page 1 of 1
+                        - generic [ref=f48e329]:
+                          - generic [ref=f48e330]: OMB Control Number 1250-0005
+                          - generic [ref=f48e331]: Expires 04/30/2026
+                      - strong [ref=f48e332]: Why are you being asked to complete this form?
+                      - paragraph [ref=f48e333]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+                      - paragraph [ref=f48e334]:
+                        - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                        - link "www.dol.gov/ofccp" [ref=f48e335] [cursor=pointer]:
+                          - /url: https://www.dol.gov/ofccp
+                        - text: .
+                      - strong [ref=f48e336]: How do you know if you have a disability?
+                      - paragraph [ref=f48e337]:
+                        - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                        - strong [ref=f48e338]: "Disabilities include, but are not limited to:"
+                      - list [ref=f48e339]:
+                        - listitem [ref=f48e340]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                        - listitem [ref=f48e341]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                        - listitem [ref=f48e342]: Blind or low vision
+                        - listitem [ref=f48e343]: Cancer (past or present)
+                        - listitem [ref=f48e344]: Cardiovascular or heart disease
+                        - listitem [ref=f48e345]: Celiac disease
+                        - listitem [ref=f48e346]: Cerebral palsy
+                        - listitem [ref=f48e347]: Deaf or serious difficulty hearing
+                        - listitem [ref=f48e348]: Diabetes
+                        - listitem [ref=f48e349]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                        - listitem [ref=f48e350]: Epilepsy or other seizure disorder
+                        - listitem [ref=f48e351]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                        - listitem [ref=f48e352]: Intellectual or developmental disability
+                        - listitem [ref=f48e353]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                        - listitem [ref=f48e354]: Missing limbs or partially missing limbs
+                        - listitem [ref=f48e355]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                        - listitem [ref=f48e356]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                        - listitem [ref=f48e357]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                        - listitem [ref=f48e358]: Partial or complete paralysis (any cause)
+                        - listitem [ref=f48e359]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                        - listitem [ref=f48e360]: Short stature (dwarfism)
+                        - listitem [ref=f48e361]: Traumatic brain injury
+                    - generic [ref=f48e364]:
+                      - text: Disability Status
+                      - generic [ref=f48e365]:
+                        - log [ref=f48e367]
+                        - generic [ref=f48e369]:
+                          - generic [ref=f48e370]:
+                            - generic [ref=f48e371]: Select...
+                            - combobox "Disability Status" [ref=f48e373]
+                          - button "Toggle flyout" [ref=f48e375]:
+                            - img [ref=f48e376]
+                    - paragraph [ref=f48e379]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+                  - button "Submit application" [ref=f48e381]
+  - contentinfo [ref=e127]:
+    - generic [ref=e129]:
+      - generic [ref=e131]:
+        - link "Praetorian" [ref=e134] [cursor=pointer]:
+          - /url: https://www.praetorian.com
+          - img "Praetorian" [ref=e135]
+        - generic [ref=e136]:
+          - generic [ref=e137]:
+            - heading "Praetorian Guard Platform" [level=5] [ref=e139]:
+              - link "Praetorian Guard Platform" [ref=e140] [cursor=pointer]:
+                - /url: https://www.praetorian.com/guard
+            - list [ref=e142]:
+              - listitem [ref=e143]:
+                - link "Continuous Threat Exposure Management" [ref=e144] [cursor=pointer]:
+                  - /url: https://www.praetorian.com/guard/continuous-threat-exposure-management/
+                  - generic [ref=e145]: Continuous Threat Exposure Management
+              - listitem [ref=e146]:
+                - link "Attack Surface Management" [ref=e147] [cursor=pointer]:
+                  - /url: https://www.praetorian.com/guard/attack-surface-management/
+                  - generic [ref=e148]: Attack Surface Management
+              - listitem [ref=e149]:
+                - link "Vulnerability Management" [ref=e150] [cursor=pointer]:
+                  - /url: /chariot/vulnerability-management/
+                  - generic [ref=e151]: Vulnerability Management
+              - listitem [ref=e152]:
+                - link "Cyber Threat Intelligence" [ref=e153] [cursor=pointer]:
+                  - /url: /chariot/threat-intelligence/
+                  - generic [ref=e154]: Cyber Threat Intelligence
+              - listitem [ref=e155]:
+                - link "Continuous Penetration Testing" [ref=e156] [cursor=pointer]:
+                  - /url: https://www.praetorian.com/guard/continuous-penetration-testing/
+                  - generic [ref=e157]: Continuous Penetration Testing
+              - listitem [ref=e158]:
+                - link "Breach and Attack Simulation" [ref=e159] [cursor=pointer]:
+                  - /url: https://www.praetorian.com/guard/breach-attack-simulation/
+                  - generic [ref=e160]: Breach and Attack Simulation
+          - generic [ref=e161]:
+            - heading "Professional Services" [level=5] [ref=e163]
+            - list [ref=e165]:
+              - listitem [ref=e166]:
+                - link "AI/ML Penetration Testing" [ref=e167] [cursor=pointer]:
+                  - /url: https://www.praetorian.com/services/ai-ml-penetration-testing/
+                  - generic [ref=e168]: AI/ML Penetration Testing
+              - listitem [ref=e169]:
+                - link "Application Penetration Testing" [ref=e170] [cursor=pointer]:
+                  - /url: /services/application-penetration-testing/
+                  - generic [ref=e171]: Application Penetration Testing
+              - listitem [ref=e172]:
+                - link "Assumed Breached Exercise" [ref=e173] [cursor=pointer]:
+                  - /url: /services/assumed-breached-exercise/
+                  - generic [ref=e174]: Assumed Breached Exercise
+              - listitem [ref=e175]:
+                - link "Attack Path Mapping" [ref=e176] [cursor=pointer]:
+                  - /url: https://www.praetorian.com/resources/attack-path-mapping/
+                  - generic [ref=e177]: Attack Path Mapping
+              - listitem [ref=e178]:
+                - link "Automotive Penetration Testing" [ref=e179] [cursor=pointer]:
+                  - /url: /services/automotive-penetration-testing/#
+                  - generic [ref=e180]: Automotive Penetration Testing
+              - listitem [ref=e181]:
+                - link "CI/CD Security Engagement" [ref=e182] [cursor=pointer]:
+                  - /url: /services/ci-cd-security-engagement/
+                  - generic [ref=e183]: CI/CD Security Engagement
+              - listitem [ref=e184]:
+                - link "Cloud Penetration Testing" [ref=e185] [cursor=pointer]:
+                  - /url: /services/cloud-penetration-testing/
+                  - generic [ref=e186]: Cloud Penetration Testing
+              - listitem [ref=e187]:
+                - link "IoT Penetration Testing" [ref=e188] [cursor=pointer]:
+                  - /url: /services/iot-penetration-testing/
+                  - generic [ref=e189]: IoT Penetration Testing
+              - listitem [ref=e190]:
+                - link "Network Penetration Testing" [ref=e191] [cursor=pointer]:
+                  - /url: /services/network-penetration-testing/
+                  - generic [ref=e192]: Network Penetration Testing
+              - listitem [ref=e193]:
+                - link "NIST CSF Benchmark" [ref=e194] [cursor=pointer]:
+                  - /url: /services/nist-csf-benchmark/
+                  - generic [ref=e195]: NIST CSF Benchmark
+              - listitem [ref=e196]:
+                - link "Purple Team" [ref=e197] [cursor=pointer]:
+                  - /url: /services/purple-team/
+                  - generic [ref=e198]: Purple Team
+              - listitem [ref=e199]:
+                - link "Red Team" [ref=e200] [cursor=pointer]:
+                  - /url: /services/red-team/
+                  - generic [ref=e201]: Red Team
+          - generic [ref=e202]:
+            - heading "Use Cases" [level=5] [ref=e204]
+            - list [ref=e206]:
+              - listitem [ref=e207]:
+                - link "Bug Bounty Cost Reduction" [ref=e208] [cursor=pointer]:
+                  - /url: /services/bug-bounty-cost-reduction/
+                  - generic [ref=e209]: Bug Bounty Cost Reduction
+              - listitem [ref=e210]:
+                - link "FDA Testing and Monitoring" [ref=e211] [cursor=pointer]:
+                  - /url: /services/fda-testing-monitoring/
+                  - generic [ref=e212]: FDA Testing and Monitoring
+              - listitem [ref=e213]:
+                - link "Mergers and Acquisitions" [ref=e214] [cursor=pointer]:
+                  - /url: /services/mergers-acquisitions/
+                  - generic [ref=e215]: Mergers and Acquisitions
+              - listitem [ref=e216]:
+                - link "Ransomware Prevention" [ref=e217] [cursor=pointer]:
+                  - /url: /services/ransomware-prevention/
+                  - generic [ref=e218]: Ransomware Prevention
+              - listitem [ref=e219]:
+                - link "Rogue IT Identification" [ref=e220] [cursor=pointer]:
+                  - /url: /services/rogue-it-identification/
+                  - generic [ref=e221]: Rogue IT Identification
+              - listitem [ref=e222]:
+                - link "Tool and Vendor Consolidation" [ref=e223] [cursor=pointer]:
+                  - /url: /services/tool-vendor-consolidation/
+                  - generic [ref=e224]: Tool and Vendor Consolidation
+              - listitem [ref=e225]:
+                - link "Vendor Risk Management" [ref=e226] [cursor=pointer]:
+                  - /url: https://www.praetorian.com/services/vendor-risk-management/
+                  - generic [ref=e227]: Vendor Risk Management
+          - generic [ref=e228]:
+            - heading "Company" [level=5] [ref=e230]
+            - list [ref=e232]:
+              - listitem [ref=e233]:
+                - link "About Us" [ref=e234] [cursor=pointer]:
+                  - /url: https://www.praetorian.com/about-us/
+                  - generic [ref=e235]: About Us
+              - listitem [ref=e236]:
+                - link "Leadership Team" [ref=e237] [cursor=pointer]:
+                  - /url: https://www.praetorian.com/leadership-team/
+                  - generic [ref=e238]: Leadership Team
+              - listitem [ref=e239]:
+                - link "Press Releases" [ref=e240] [cursor=pointer]:
+                  - /url: /news/press-release/
+                  - generic [ref=e241]: Press Releases
+              - listitem [ref=e242]:
+                - link "In the News" [ref=e243] [cursor=pointer]:
+                  - /url: /news/news
+                  - generic [ref=e244]: In the News
+              - listitem [ref=e245]:
+                - link "Contact Us" [ref=e246] [cursor=pointer]:
+                  - /url: https://www.praetorian.com/contact-us/
+                  - generic [ref=e247]: Contact Us
+              - listitem [ref=e248]:
+                - link "Resource Library" [ref=e249] [cursor=pointer]:
+                  - /url: https://www.praetorian.com/resources/
+                  - generic [ref=e250]: Resource Library
+              - listitem [ref=e251]:
+                - link "Security Blog" [ref=e252] [cursor=pointer]:
+                  - /url: /blog/
+                  - generic [ref=e253]: Security Blog
+              - listitem [ref=e254]:
+                - link "People Ops Blog" [ref=e255] [cursor=pointer]:
+                  - /url: /people-ops/
+                  - generic [ref=e256]: People Ops Blog
+              - listitem [ref=e257]:
+                - link "Careers" [ref=e258] [cursor=pointer]:
+                  - /url: https://www.praetorian.com/careers/
+                  - generic [ref=e259]: Careers
+              - listitem [ref=e260]:
+                - link "Culture" [ref=e261] [cursor=pointer]:
+                  - /url: https://www.praetorian.com/work-at-praetorian/
+                  - generic [ref=e262]: Culture
+              - listitem [ref=e263]:
+                - link "Survival Kit" [ref=e264] [cursor=pointer]:
+                  - /url: /wp-content/uploads/2024/11/Praetorian-Survival-Guide.pdf
+                  - generic [ref=e265]: Survival Kit
+      - generic [ref=e267]:
+        - generic [ref=e268]:
+          - heading "Subscribe to our Newsletter" [level=3] [ref=e270]
+          - paragraph [ref=e272]: Catch our latest exploits, news, articles, and events.
+        - generic [ref=e276]:
+          - generic [ref=e277]:
+            - generic [ref=e278]: Business Email*
+            - textbox "Business Email*" [ref=e280]:
+              - /placeholder: Enter your business email
+          - button "Subscribe" [ref=e283] [cursor=pointer]
+      - generic [ref=e285]:
+        - generic [ref=e287]:
+          - paragraph [ref=e288]:
+            - link "Privacy Policy" [ref=e289] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "Responsible Disclosure Policy" [ref=e290] [cursor=pointer]:
+              - /url: /responsible-disclosure-policy/
+            - text: "|"
+            - link "Terms of Service" [ref=e291] [cursor=pointer]:
+              - /url: /terms-of-service/
+            - text: "|"
+            - link "Terms and Conditions" [ref=e292] [cursor=pointer]:
+              - /url: /terms/
+          - paragraph [ref=e293]: Copyright © 2025. All Rights Reserved.
+        - list [ref=e296]:
+          - listitem [ref=e297]:
+            - link "Linkedin-in" [ref=e298] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/praetorian/
+              - generic [ref=e299]: Linkedin-in
+              - img [ref=e300]
+          - listitem [ref=e302]:
+            - link "X-twitter" [ref=e303] [cursor=pointer]:
+              - /url: https://twitter.com/praetorianlabs
+              - generic [ref=e304]: X-twitter
+              - img [ref=e305]
+          - listitem [ref=e307]:
+            - link "Facebook-f" [ref=e308] [cursor=pointer]:
+              - /url: https://www.facebook.com/praetorianlabs
+              - generic [ref=e309]: Facebook-f
+              - img [ref=e310]
+          - listitem [ref=e312]:
+            - link "Github" [ref=e313] [cursor=pointer]:
+              - /url: https://github.com/praetorian-inc
+              - generic [ref=e314]: Github
+              - img [ref=e315]
+          - listitem [ref=e317]:
+            - link "Youtube" [ref=e318] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/PraetorianLabs
+              - generic [ref=e319]: Youtube
+              - img [ref=e320]
+  - generic [ref=e322]: tablet
+  - iframe

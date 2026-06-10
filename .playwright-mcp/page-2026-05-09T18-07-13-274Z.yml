@@ -1,0 +1,40 @@
+- generic [ref=e1]:
+  - link "Skip to Main Content" [ref=e2] [cursor=pointer]:
+    - /url: "#iCIMS_Header"
+  - link [ref=e4] [cursor=pointer]:
+    - /url: https://careers-iridium.icims.com/jobs?hashed=-435596479
+    - img [ref=e5]
+  - text: 
+  - generic [ref=e6]:
+    - link "Welcome page" [ref=e11] [cursor=pointer]:
+      - /url: https://careers-iridium.icims.com/jobs/intro
+      - generic [ref=e12]: 
+      - text: Welcome page
+    - text: 
+    - generic [ref=e15]:
+      - heading "Enter Your Information" [level=1] [ref=e17]
+      - generic [ref=e18]:
+        - generic [ref=e19]: Email
+        - textbox "Email" [active] [ref=e20]
+        - generic [ref=e21]:
+          - generic [ref=e22] [cursor=pointer]:
+            - checkbox "If you are a resident of California or the United Kingdom, please click here for important privacy policy information." [ref=e23]
+            - text: If you are a resident of California or the United Kingdom, please click here for important privacy policy information.
+          - generic [ref=e24]: Indicate whether or not you are a California / United Kingdom resident.
+        - button "Next" [ref=e25] [cursor=pointer]
+    - generic [ref=e26]:
+      - link "Application FAQs" [ref=e27] [cursor=pointer]:
+        - /url: https://icims.help/candidate-faq
+      - paragraph [ref=e29]:
+        - text: Software Powered by iCIMS
+        - link "www.icims.com" [ref=e30] [cursor=pointer]:
+          - /url: http://www.icims.com/platform_help?utm_source=platform&utm_medium=link&utm_content=page1&utm_campaign=platform%20help
+  - generic [ref=e31]:
+    - button "Close hCaptcha attribution notice" [ref=e32] [cursor=pointer]: 
+    - generic [ref=e33]:
+      - text: Protected by hCaptcha
+      - link "Privacy" [ref=e34] [cursor=pointer]:
+        - /url: https://www.hcaptcha.com/privacy
+      - text: "|"
+      - link "Terms" [ref=e35] [cursor=pointer]:
+        - /url: https://www.hcaptcha.com/terms

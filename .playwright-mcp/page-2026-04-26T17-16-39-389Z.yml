@@ -1,0 +1,959 @@
+- generic [ref=e2]:
+  - link "Skip to main content" [ref=e3] [cursor=pointer]:
+    - /url: "#main"
+    - paragraph [ref=e4]: Skip to main content
+  - banner [ref=e6]:
+    - generic [ref=e7]:
+      - link "Homepage" [ref=e8] [cursor=pointer]:
+        - /url: https://www.figma.com/
+        - img "Homepage" [ref=e9]
+      - generic [ref=e15]:
+        - list [ref=e16]:
+          - listitem [ref=e17]:
+            - link "Log in" [ref=e18] [cursor=pointer]:
+              - /url: https://www.figma.com/login
+              - generic [ref=e19]: Log in
+          - listitem [ref=e20]:
+            - link "Contact sales" [ref=e21] [cursor=pointer]:
+              - /url: https://www.figma.com/contact/
+              - generic [ref=e22]:
+                - img
+                - text: Contact sales
+          - listitem [ref=e23]:
+            - link "Get started for free" [ref=e24] [cursor=pointer]:
+              - /url: https://www.figma.com/signup
+              - generic [ref=e25]:
+                - img
+                - text: Get started for free
+        - navigation "Main" [ref=e26]:
+          - button "Open navigation menu" [ref=e27] [cursor=pointer]:
+            - img [ref=e28]
+  - main [ref=e30]:
+    - generic [ref=e33]:
+      - generic [ref=e35]:
+        - heading "Careers at Figma" [level=1] [ref=e37]
+        - generic [ref=e38]:
+          - paragraph [ref=e39]: Figma is a design platform for teams who build products together. Our vision is to make design accessible to all because we know that nothing great is made alone.
+          - paragraph [ref=e40]: We’re a team of makers who celebrate our differences and share a passion for our community. We’re hiring across our global hubs and remotely in the US and Canada.
+          - paragraph [ref=e41]: Come join us!
+        - link "See open positions" [ref=e43] [cursor=pointer]:
+          - /url: https://www.figma.com/careers/#job-openings
+          - generic [ref=e44]:
+            - img
+            - text: See open positions
+      - img "A group of Figma workers at the front desk of one of the offices" [ref=e45]
+      - img "A group of Figma workers at the front desk of one of the offices"
+    - generic [ref=e47]:
+      - generic [ref=e48]:
+        - heading "Our Values and Culture" [level=2] [ref=e49]
+        - paragraph [ref=e51]: Our values and culture are the underpinning for all that we do at Figma—we believe that a great product is inextricably linked to a great internal community.
+      - generic [ref=e52]:
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - img "A group of Figmates cheering with balloons in an office" [ref=e55]
+            - img "A group of Figmates cheering with balloons in an office"
+          - generic [ref=e56]:
+            - heading "Build community" [level=3] [ref=e57]
+            - paragraph [ref=e59]: We’re multiplayer people who love the weird, wonderful magic that happens when people connect. We build bridges—with both our Figmates and our users.
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - img "Two employees in an office room with their laptops talking to each other" [ref=e62]
+            - img "Two employees in an office room with their laptops talking to each other"
+          - generic [ref=e63]:
+            - heading "Run with it" [level=3] [ref=e64]
+            - paragraph [ref=e66]: Building Figma is about taking initiative, being bold and charting a new course, not running a playbook. Figmates are building the future of design by tackling big, scary, exciting challenges like Figma’s future depends on it. Because it does.
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - img "A Figmate smiling at the camera with a laptop on a table" [ref=e69]
+            - img "A Figmate smiling at the camera with a laptop on a table"
+          - generic [ref=e70]:
+            - heading "Love your craft" [level=3] [ref=e71]
+            - paragraph [ref=e73]: We build for builders and try to make complex things feel simple. We ask why until we get to the core and continually focus on solving the right problem, not just shipping work.
+        - generic [ref=e74]:
+          - generic [ref=e75]:
+            - img "Two Figma employees sitting on chairs in front of a shelf with books smiling at each other" [ref=e76]
+            - img "Two Figma employees sitting on chairs in front of a shelf with books smiling at each other"
+          - generic [ref=e77]:
+            - heading "Grow as you go" [level=3] [ref=e78]
+            - paragraph [ref=e80]: With humility and curiosity, we give and get the direct feedback we all need to become great. Everyone’s a work in progress, and we’re here to help each other grow.
+        - generic [ref=e81]:
+          - generic [ref=e82]:
+            - img "Three Figma employees in a ball pit with floaties smiling up at the camera" [ref=e83]
+            - img "Three Figma employees in a ball pit with floaties smiling up at the camera"
+          - generic [ref=e84]:
+            - heading "Play" [level=3] [ref=e85]
+            - paragraph [ref=e87]: Playing is learning. We embrace spontaneous, unstructured exploration—because that’s where we find our best ideas.
+    - generic [ref=e89]:
+      - generic [ref=e90]:
+        - heading "Life at Figma" [level=2] [ref=e91]
+        - paragraph [ref=e93]: Connection and kindness are core to our culture (after all, we’re a group of people building a collaboration tool). We focus on lifting each other up instead of competing amongst ourselves, and we build relationships through numerous company traditions.
+      - generic [ref=e94]:
+        - 'img "Illustration featuring diverse Figma community groups represented as icons or badges around the words \"Figma Community\". Groups include: Friends of Figma, Figma for Education, Figma for Nonprofits, Figma for Startups, Figma for Government, Black Designers at Figma, Women in Design, LGBTQ+ Community, Accessibility Advocates, Latinx in Design, Asian & Pacific Islander Creatives, and Indigenous Creators. The design uses vibrant colors and expressive illustrations to celebrate inclusion and creativity within the community." [ref=e95]'
+        - 'img "Illustration featuring diverse Figma community groups represented as icons or badges around the words \"Figma Community\". Groups include: Friends of Figma, Figma for Education, Figma for Nonprofits, Figma for Startups, Figma for Government, Black Designers at Figma, Women in Design, LGBTQ+ Community, Accessibility Advocates, Latinx in Design, Asian & Pacific Islander Creatives, and Indigenous Creators. The design uses vibrant colors and expressive illustrations to celebrate inclusion and creativity within the community."'
+        - generic [ref=e97]:
+          - heading "Figmate Community Groups" [level=3] [ref=e98]
+          - paragraph [ref=e100]: Our Figmate Communities are an essential part of our value of "Build Community." These groups are comprised of Figmates interested in developing community, social awareness, and education regarding groups with shared characteristics or life experiences, and are open to all Figmates regardless of whether or not they are part of that group or share those characteristics or life experiences themselves.
+    - generic [ref=e103]:
+      - img "An employee looking up toward a bunch of gold balloons" [ref=e104]
+      - img "An employee looking up toward a bunch of gold balloons"
+      - generic [ref=e106]:
+        - heading "Maker Week" [level=3] [ref=e107]
+        - paragraph [ref=e109]: A time set aside once a year to pursue wild, silly, and imaginative ideas. The whole company takes part, and people can work on anything Figma-related that piques their curiosity.
+    - generic [ref=e112]:
+      - img "Three Figma employees on a couple of couches talking to each other in an office" [ref=e113]
+      - img "Three Figma employees on a couple of couches talking to each other in an office"
+    - generic [ref=e115]:
+      - heading "Benefits" [level=2] [ref=e118]
+      - list [ref=e119]:
+        - listitem [ref=e120]:
+          - generic [ref=e122]: Competitive salary & equity
+        - listitem [ref=e123]:
+          - generic [ref=e125]: Health, Dental, & Vision
+        - listitem [ref=e126]:
+          - generic [ref=e128]: Retirement with company contribution
+        - listitem [ref=e129]:
+          - generic [ref=e131]: Parental leave & fertility support
+        - listitem [ref=e132]:
+          - generic [ref=e134]: Mental health and wellness benefits
+        - listitem [ref=e135]:
+          - generic [ref=e137]: Generous PTO
+        - listitem [ref=e138]:
+          - generic [ref=e140]: Company recharge days
+        - listitem [ref=e141]:
+          - generic [ref=e143]: Learning & development stipend
+        - listitem [ref=e144]:
+          - generic [ref=e146]: Work from home stipend
+        - listitem [ref=e147]:
+          - generic [ref=e149]: Cell phone reimbursement
+    - generic [ref=e151]:
+      - heading "Locations" [level=2] [ref=e154]
+      - list [ref=e155]:
+        - listitem [ref=e156]:
+          - generic [ref=e158]: San Francisco
+        - listitem [ref=e159]:
+          - generic [ref=e161]: New York City
+        - listitem [ref=e162]:
+          - generic [ref=e164]: Seattle
+        - listitem [ref=e165]:
+          - generic [ref=e167]: London
+        - listitem [ref=e168]:
+          - generic [ref=e170]: Paris
+        - listitem [ref=e171]:
+          - generic [ref=e173]: Berlin
+        - listitem [ref=e174]:
+          - generic [ref=e176]: Tokyo
+        - listitem [ref=e177]:
+          - generic [ref=e179]: Singapore
+        - listitem [ref=e180]:
+          - generic [ref=e182]: Bengaluru
+        - listitem [ref=e183]:
+          - generic [ref=e185]: Sydney
+        - listitem [ref=e186]:
+          - generic [ref=e188]: São Paulo
+        - listitem [ref=e189]:
+          - generic [ref=e191]: Tel Aviv
+    - generic [ref=e193]:
+      - heading "Job Openings" [level=2] [ref=e195]
+      - generic [ref=e196]:
+        - generic [ref=e197]:
+          - generic [ref=e198]:
+            - heading "Business Development" [level=2] [ref=e199]
+            - list "Business Development" [ref=e200]:
+              - listitem [ref=e201]:
+                - link "Distribution Partner Manager" [ref=e202] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5813967004?gh_jid=5813967004
+              - listitem [ref=e203]:
+                - link "Distribution Partner Manager (London, United Kingdom)" [ref=e204] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5660873004?gh_jid=5660873004
+              - listitem [ref=e205]:
+                - link "Distribution Partner Manager (Singapore)" [ref=e206] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5756184004?gh_jid=5756184004
+              - listitem [ref=e207]:
+                - link "Distribution Partner Manager (Tokyo, Japan)" [ref=e208] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5724297004?gh_jid=5724297004
+              - listitem [ref=e209]:
+                - link "Product Partner Manager" [ref=e210] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5822583004?gh_jid=5822583004
+          - generic [ref=e211]:
+            - heading "Business Operations" [level=2] [ref=e212]
+            - list "Business Operations" [ref=e213]:
+              - listitem [ref=e214]:
+                - link "Business Systems Analyst" [ref=e215] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5971174004?gh_jid=5971174004
+              - listitem [ref=e216]:
+                - link "Corporate Development & Strategy, M&A Integration" [ref=e217] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5699991004?gh_jid=5699991004
+              - listitem [ref=e218]:
+                - link "Director, IT" [ref=e219] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5850497004?gh_jid=5850497004
+              - listitem [ref=e220]:
+                - link "Director, SEC Reporting & Technical Accounting" [ref=e221] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5848022004?gh_jid=5848022004
+              - listitem [ref=e222]:
+                - link "Director, Technical Revenue Accounting" [ref=e223] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5835172004?gh_jid=5835172004
+              - listitem [ref=e224]:
+                - link "International Tax Manager" [ref=e225] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5802466004?gh_jid=5802466004
+              - listitem [ref=e226]:
+                - link "IT Engineer (London, United Kingdom)" [ref=e227] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5813865004?gh_jid=5813865004
+              - listitem [ref=e228]:
+                - link "Manager, AV" [ref=e229] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5973393004?gh_jid=5973393004
+              - listitem [ref=e230]:
+                - link "Manager, Indirect Tax" [ref=e231] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5828518004?gh_jid=5828518004
+              - listitem [ref=e232]:
+                - link "Manager, International Tax" [ref=e233] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5842393004?gh_jid=5842393004
+              - listitem [ref=e234]:
+                - link "Senior Accountant (Dublin, Ireland)" [ref=e235] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5969555004?gh_jid=5969555004
+              - listitem [ref=e236]:
+                - link "Senior Technical Revenue Analyst (Dublin, Ireland)" [ref=e237] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5835673004?gh_jid=5835673004
+              - listitem [ref=e238]:
+                - link "Strategic Finance" [ref=e239] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5792631004?gh_jid=5792631004
+              - listitem [ref=e240]:
+                - link "Strategic Sourcing Manager" [ref=e241] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5973930004?gh_jid=5973930004
+          - generic [ref=e242]:
+            - heading "Design" [level=2] [ref=e243]
+            - list "Design" [ref=e244]:
+              - listitem [ref=e245]:
+                - link "Brand Designer, Product Demos" [ref=e246] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5836962004?gh_jid=5836962004
+              - listitem [ref=e247]:
+                - link "Manager, Product Design" [ref=e248] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5790585004?gh_jid=5790585004
+              - listitem [ref=e249]:
+                - link "Product Designer, AI Models" [ref=e250] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004
+              - listitem [ref=e251]:
+                - link "Product Designer - Design, Dev, & AI Tools" [ref=e252] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5711468004?gh_jid=5711468004
+              - listitem [ref=e253]:
+                - link "Product Designer, Growth & Monetization" [ref=e254] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004
+              - listitem [ref=e255]:
+                - link "Researcher, Core Product Strategy" [ref=e256] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5651744004?gh_jid=5651744004
+              - listitem [ref=e257]:
+                - link "UX Writer, AI" [ref=e258] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5839202004?gh_jid=5839202004
+          - generic [ref=e259]:
+            - heading "Engineering" [level=2] [ref=e260]
+            - list "Engineering" [ref=e261]:
+              - listitem [ref=e262]:
+                - link "AI Applied Scientist" [ref=e263] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004
+              - listitem [ref=e264]:
+                - link "Data Engineer" [ref=e265] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004
+              - listitem [ref=e266]:
+                - link "Data Platform Engineer" [ref=e267] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5840332004?gh_jid=5840332004
+              - listitem [ref=e268]:
+                - link "Data Scientist" [ref=e269] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004
+              - listitem [ref=e270]:
+                - link "Data Scientist, Core Data - PhD (2026)" [ref=e271] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004
+              - listitem [ref=e272]:
+                - link "Manager, Software Engineering - AI Product" [ref=e273] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5838098004?gh_jid=5838098004
+              - listitem [ref=e274]:
+                - link "Manager, Software Engineering - Billing" [ref=e275] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5722244004?gh_jid=5722244004
+              - listitem [ref=e276]:
+                - link "Manager, Software Engineering - Creation Engine" [ref=e277] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5696366004?gh_jid=5696366004
+              - listitem [ref=e278]:
+                - link "Manager, Software Engineering - Design Systems Management" [ref=e279] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5787320004?gh_jid=5787320004
+              - listitem [ref=e280]:
+                - link "Manager, Software Engineering - Expressive AI" [ref=e281] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5678196004?gh_jid=5678196004
+              - listitem [ref=e282]:
+                - link "Manager, Software Engineering - Interaction Design" [ref=e283] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5778796004?gh_jid=5778796004
+              - listitem [ref=e284]:
+                - link "Manager, Software Engineering - Observability" [ref=e285] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5807963004?gh_jid=5807963004
+              - listitem [ref=e286]:
+                - link "Manager, Software Engineering - Search & Recommendations" [ref=e287] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5804108004?gh_jid=5804108004
+              - listitem [ref=e288]:
+                - link "Security Engineer" [ref=e289] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5829751004?gh_jid=5829751004
+              - listitem [ref=e290]:
+                - link "Software Engineer, AI Platforms" [ref=e291] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004
+              - listitem [ref=e292]:
+                - link "Software Engineer, AI Product" [ref=e293] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004
+              - listitem [ref=e294]:
+                - link "Software Engineer, AI Product (London, United Kingdom)" [ref=e295] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004
+              - listitem [ref=e296]:
+                - link "Software Engineer, C++" [ref=e297] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5552530004?gh_jid=5552530004
+              - listitem [ref=e298]:
+                - link "Software Engineer, Code Platform" [ref=e299] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5759501004?gh_jid=5759501004
+              - listitem [ref=e300]:
+                - link "Software Engineer, Data Infrastructure" [ref=e301] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004
+              - listitem [ref=e302]:
+                - link "Software Engineer, Developer Experience" [ref=e303] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5790627004?gh_jid=5790627004
+              - listitem [ref=e304]:
+                - link "Software Engineer, Distributed Systems" [ref=e305] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004
+              - listitem [ref=e306]:
+                - link "Software Engineer, Full Stack" [ref=e307] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004
+              - listitem [ref=e308]:
+                - link "Software Engineer, Graphics & Media" [ref=e309] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004
+              - listitem [ref=e310]:
+                - link "Software Engineer, Growth & Monetization" [ref=e311] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5552560004?gh_jid=5552560004
+              - listitem [ref=e312]:
+                - link "Software Engineer, Machine Learning" [ref=e313] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004
+              - listitem [ref=e314]:
+                - link "Software Engineer, Production Engineering" [ref=e315] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5551649004?gh_jid=5551649004
+              - listitem [ref=e316]:
+                - link "Software Engineer, Production Engineering (London, United Kingdom)" [ref=e317] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5781928004?gh_jid=5781928004
+              - listitem [ref=e318]:
+                - link "Technical Program Manager, AI Performance" [ref=e319] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5837760004?gh_jid=5837760004
+          - generic [ref=e320]:
+            - heading "Legal" [level=2] [ref=e321]
+            - list "Legal" [ref=e322]:
+              - listitem [ref=e323]:
+                - link "Legal Counsel, Commercial" [ref=e324] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5811082004?gh_jid=5811082004
+              - listitem [ref=e325]:
+                - link "Legal Counsel (London, United Kingdom)" [ref=e326] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5829275004?gh_jid=5829275004
+              - listitem [ref=e327]:
+                - link "Legal Operations Lead" [ref=e328] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5737291004?gh_jid=5737291004
+              - listitem [ref=e329]:
+                - link "Senior Counsel, Legal - Spanish & Portuguese Speaking (São Paulo, Brazil)" [ref=e330] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5834913004?gh_jid=5834913004
+          - generic [ref=e331]:
+            - heading "Marketing" [level=2] [ref=e332]
+            - list "Marketing" [ref=e333]:
+              - listitem [ref=e334]:
+                - link "Designer Advocate, Federal" [ref=e335] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5790731004?gh_jid=5790731004
+              - listitem [ref=e336]:
+                - link "Developer Advocate" [ref=e337] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5834922004?gh_jid=5834922004
+              - listitem [ref=e338]:
+                - link "Developer Advocate (Tokyo, Japan)" [ref=e339] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5969647004?gh_jid=5969647004
+              - listitem [ref=e340]:
+                - link "Director, Communications" [ref=e341] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5841222004?gh_jid=5841222004
+              - listitem [ref=e342]:
+                - link "Email Marketing Operations" [ref=e343] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5781862004?gh_jid=5781862004
+              - listitem [ref=e344]:
+                - link "Events Manager" [ref=e345] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5839964004?gh_jid=5839964004
+              - listitem [ref=e346]:
+                - link "Growth Marketing Manager, Scaled Success" [ref=e347] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5840805004?gh_jid=5840805004
+              - listitem [ref=e348]:
+                - link "Launch Strategy, Brand & Comms" [ref=e349] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5729141004?gh_jid=5729141004
+              - listitem [ref=e350]:
+                - link "Manager, Figma for Education" [ref=e351] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5737701004?gh_jid=5737701004
+              - listitem [ref=e352]:
+                - link "Product Marketing Manager, Builder Audience" [ref=e353] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5776152004?gh_jid=5776152004
+              - listitem [ref=e354]:
+                - link "Regional Marketing Manager (São Paulo, Brazil)" [ref=e355] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5810842004?gh_jid=5810842004
+              - listitem [ref=e356]:
+                - link "Strategic Program Manager, Marketing" [ref=e357] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5978327004?gh_jid=5978327004
+        - generic [ref=e358]:
+          - generic [ref=e359]:
+            - heading "People" [level=3] [ref=e360]
+            - list "People" [ref=e361]:
+              - listitem [ref=e362]:
+                - link "Compensation Partner" [ref=e363] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5893911004?gh_jid=5893911004
+              - listitem [ref=e364]:
+                - link "Manager, People Relations" [ref=e365] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5891718004?gh_jid=5891718004
+              - listitem [ref=e366]:
+                - link "People Analyst" [ref=e367] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5737300004?gh_jid=5737300004
+              - listitem [ref=e368]:
+                - link "People Partner, Japan & APAC (Singapore)" [ref=e369] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5978282004?gh_jid=5978282004
+              - listitem [ref=e370]:
+                - link "People Partner, Sales" [ref=e371] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5831836004?gh_jid=5831836004
+          - generic [ref=e372]:
+            - heading "Product" [level=3] [ref=e373]
+            - list "Product" [ref=e374]:
+              - listitem [ref=e375]:
+                - link "Product Manager, AI Platform" [ref=e376] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5830640004?gh_jid=5830640004
+              - listitem [ref=e377]:
+                - link "Product Manager, Design Tools" [ref=e378] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5505263004?gh_jid=5505263004
+              - listitem [ref=e379]:
+                - link "Rapid Researcher" [ref=e380] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5973463004?gh_jid=5973463004
+          - generic [ref=e381]:
+            - heading "Product Support" [level=3] [ref=e382]
+            - list "Product Support" [ref=e383]:
+              - listitem [ref=e384]:
+                - link "Automations & AI Specialist, Product Support" [ref=e385] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5802956004?gh_jid=5802956004
+              - listitem [ref=e386]:
+                - link "Enterprise Support Specialist, Japanese Speaking (Tokyo, Japan)" [ref=e387] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5978411004?gh_jid=5978411004
+              - listitem [ref=e388]:
+                - link "Manager, Customer Education Design" [ref=e389] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5849759004?gh_jid=5849759004
+              - listitem [ref=e390]:
+                - link "Manager, Enterprise Support (London, United Kingdom)" [ref=e391] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5740382004?gh_jid=5740382004
+              - listitem [ref=e392]:
+                - link "Manager, Technical Support (Bengaluru, India)" [ref=e393] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5840645004?gh_jid=5840645004
+              - listitem [ref=e394]:
+                - link "Technical Support Engineer (London, United Kingdom)" [ref=e395] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5708436004?gh_jid=5708436004
+          - generic [ref=e396]:
+            - heading "Sales" [level=3] [ref=e397]
+            - list "Sales" [ref=e398]:
+              - listitem [ref=e399]:
+                - link "Accenture Account Executive, Strategic (London, United Kingdom)" [ref=e400] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5822886004?gh_jid=5822886004
+              - listitem [ref=e401]:
+                - link "Account Executive, Emerging Enterprise (Berlin, Germany)" [ref=e402] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5364702004?gh_jid=5364702004
+              - listitem [ref=e403]:
+                - link "Account Executive, Enterprise" [ref=e404] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5426468004?gh_jid=5426468004
+              - listitem [ref=e405]:
+                - link "Account Executive, Enterprise (Bengaluru, India)" [ref=e406] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5579204004?gh_jid=5579204004
+              - listitem [ref=e407]:
+                - link "Account Executive, Enterprise (Berlin, Germany)" [ref=e408] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5783812004?gh_jid=5783812004
+              - listitem [ref=e409]:
+                - link "Account Executive, Enterprise (London, United Kingdom)" [ref=e410] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5458801004?gh_jid=5458801004
+              - listitem [ref=e411]:
+                - link "Account Executive, Enterprise (Paris, France)" [ref=e412] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5428656004?gh_jid=5428656004
+              - listitem [ref=e413]:
+                - link "Account Executive, Enterprise, Spanish & Portuguese Speaking (São Paulo, Brazil)" [ref=e414] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5798928004?gh_jid=5798928004
+              - listitem [ref=e415]:
+                - link "Account Executive, Enterprise (Sydney or Melbourne, Australia)" [ref=e416] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5803515004?gh_jid=5803515004
+              - listitem [ref=e417]:
+                - link "Account Executive, Enterprise (Tokyo, Japan)" [ref=e418] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5806875004?gh_jid=5806875004
+              - listitem [ref=e419]:
+                - link "Account Executive, Mid-Market" [ref=e420] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5422236004?gh_jid=5422236004
+              - listitem [ref=e421]:
+                - link "Account Executive, Mid-Market (Bengaluru, India)" [ref=e422] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5576544004?gh_jid=5576544004
+              - listitem [ref=e423]:
+                - link "Account Executive, Mid-Market (London, United Kingdom)" [ref=e424] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5415515004?gh_jid=5415515004
+              - listitem [ref=e425]:
+                - link "Account Executive, Mid-Market (Paris, France)" [ref=e426] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5844225004?gh_jid=5844225004
+              - listitem [ref=e427]:
+                - link "Account Executive, Mid-Market, Spanish & Portuguese Speaking (São Paulo, Brazil)" [ref=e428] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5783321004?gh_jid=5783321004
+              - listitem [ref=e429]:
+                - link "Account Executive, Mid-Market (Tokyo, Japan)" [ref=e430] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5809131004?gh_jid=5809131004
+              - listitem [ref=e431]:
+                - link "Account Executive, SMB" [ref=e432] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5694259004?gh_jid=5694259004
+              - listitem [ref=e433]:
+                - link "Account Executive, SMB (London, United Kingdom)" [ref=e434] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5647851004?gh_jid=5647851004
+              - listitem [ref=e435]:
+                - link "Account Executive, SMB (Tokyo, Japan)" [ref=e436] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5729844004?gh_jid=5729844004
+              - listitem [ref=e437]:
+                - link "Account Executive, Strategic" [ref=e438] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5558737004?gh_jid=5558737004
+              - listitem [ref=e439]:
+                - link "Account Executive, Strategic, Mandarin-Speaking (Singapore)" [ref=e440] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5753209004?gh_jid=5753209004
+              - listitem [ref=e441]:
+                - link "Account Executive, Strategic, Spanish & Portuguese Speaking (São Paulo, Brazil)" [ref=e442] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5797769004?gh_jid=5797769004
+              - listitem [ref=e443]:
+                - link "Account Executive, Strategic (Tokyo, Japan)" [ref=e444] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5756182004?gh_jid=5756182004
+              - listitem [ref=e445]:
+                - link "Associate Solutions Consultant" [ref=e446] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5633324004?gh_jid=5633324004
+              - listitem [ref=e447]:
+                - link "Customer Enablement Manager" [ref=e448] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5817899004?gh_jid=5817899004
+              - listitem [ref=e449]:
+                - link "Customer Enablement Manager (Paris, France)" [ref=e450] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5976498004?gh_jid=5976498004
+              - listitem [ref=e451]:
+                - link "Customer Enablement Manager (São Paulo, Brazil)" [ref=e452] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5817390004?gh_jid=5817390004
+              - listitem [ref=e453]:
+                - link "Director, Enterprise Sales (Paris, France)" [ref=e454] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5843289004?gh_jid=5843289004
+              - listitem [ref=e455]:
+                - link "Director, Federal Sales" [ref=e456] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5728495004?gh_jid=5728495004
+              - listitem [ref=e457]:
+                - link "Director, Solution Consulting (London, United Kingdom)" [ref=e458] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5812567004?gh_jid=5812567004
+              - listitem [ref=e459]:
+                - link "Director, Solutions Consulting" [ref=e460] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5820284004?gh_jid=5820284004
+              - listitem [ref=e461]:
+                - link "Enterprise Solutions Consultant (Bengaluru, India)" [ref=e462] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5615966004?gh_jid=5615966004
+              - listitem [ref=e463]:
+                - link "Inside Sales Representative - Early Career (2026)" [ref=e464] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5977327004?gh_jid=5977327004
+              - listitem [ref=e465]:
+                - link "Inside Sales Representative (Sao Paulo, Brazil)" [ref=e466] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5721644004?gh_jid=5721644004
+              - listitem [ref=e467]:
+                - link "Manager, Customer Enablement" [ref=e468] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5971712004?gh_jid=5971712004
+              - listitem [ref=e469]:
+                - link "Manager, Mid-Market Sales" [ref=e470] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5564202004?gh_jid=5564202004
+              - listitem [ref=e471]:
+                - link "Manager, Mid-Market Sales (Sydney, Australia)" [ref=e472] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5803517004?gh_jid=5803517004
+              - listitem [ref=e473]:
+                - link "Manager, Solutions Consulting" [ref=e474] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5697641004?gh_jid=5697641004
+              - listitem [ref=e475]:
+                - link "Manager, Solutions Consulting (Paris, France)" [ref=e476] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5735113004?gh_jid=5735113004
+              - listitem [ref=e477]:
+                - link "Manager, Solutions Consulting (Singapore)" [ref=e478] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5838193004?gh_jid=5838193004
+              - listitem [ref=e479]:
+                - link "Manager, Strategic Sales" [ref=e480] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5620034004?gh_jid=5620034004
+              - listitem [ref=e481]:
+                - link "Onboarding Manager, Customer Experience" [ref=e482] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5859050004?gh_jid=5859050004
+              - listitem [ref=e483]:
+                - link "Sales Operations Manager" [ref=e484] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5839419004?gh_jid=5839419004
+              - listitem [ref=e485]:
+                - link "Sales Operations Manager (Tokyo, Japan)" [ref=e486] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5756186004?gh_jid=5756186004
+              - listitem [ref=e487]:
+                - link "Senior Account Executive, SMB" [ref=e488] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5565447004?gh_jid=5565447004
+              - listitem [ref=e489]:
+                - link "Senior Manager, Enterprise Sales (Tokyo, Japan)" [ref=e490] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5753194004?gh_jid=5753194004
+              - listitem [ref=e491]:
+                - link "Senior Solutions Consultant (Tokyo, Japan)" [ref=e492] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5721527004?gh_jid=5721527004
+              - listitem [ref=e493]:
+                - link "Solutions Consultant" [ref=e494] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5783377004?gh_jid=5783377004
+              - listitem [ref=e495]:
+                - link "Solutions Consultant (Berlin, Germany)" [ref=e496] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5735853004?gh_jid=5735853004
+              - listitem [ref=e497]:
+                - link "Solutions Consultant (London, United Kingdom)" [ref=e498] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5735493004?gh_jid=5735493004
+              - listitem [ref=e499]:
+                - link "Solutions Consultant (Paris, France)" [ref=e500] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5735542004?gh_jid=5735542004
+              - listitem [ref=e501]:
+                - link "Solutions Consultant (São Paulo, Brazil)" [ref=e502] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5659640004?gh_jid=5659640004
+              - listitem [ref=e503]:
+                - link "Technical Account Manager" [ref=e504] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5814274004?gh_jid=5814274004
+              - listitem [ref=e505]:
+                - link "Technical Account Manager (São Paulo, Brazil)" [ref=e506] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5817394004?gh_jid=5817394004
+              - listitem [ref=e507]:
+                - link "Technical & Competitive Sales Solutions Manager" [ref=e508] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5970215004?gh_jid=5970215004
+          - generic [ref=e509]:
+            - heading "Talent" [level=3] [ref=e510]
+            - list "Talent" [ref=e511]:
+              - listitem [ref=e512]:
+                - link "Business Recruiter (São Paulo, Brazil)" [ref=e513] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5832782004?gh_jid=5832782004
+              - listitem [ref=e514]:
+                - link "Early Career Recruiter" [ref=e515] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5828494004?gh_jid=5828494004
+              - listitem [ref=e516]:
+                - link "Executive Assistant, People" [ref=e517] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5969046004?gh_jid=5969046004
+              - listitem [ref=e518]:
+                - link "Recruiter (London, United Kingdom)" [ref=e519] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5813638004?gh_jid=5813638004
+              - listitem [ref=e520]:
+                - link "Recruiter (Tokyo, Japan)" [ref=e521] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5808829004?gh_jid=5808829004
+              - listitem [ref=e522]:
+                - link "Sales Recruiter" [ref=e523] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5798281004?gh_jid=5798281004
+              - listitem [ref=e524]:
+                - link "Technical Recruiter" [ref=e525] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5699965004?gh_jid=5699965004
+          - generic [ref=e526]:
+            - heading "Weavy - Figma Weave" [level=3] [ref=e527]
+            - list "Weavy - Figma Weave" [ref=e528]:
+              - listitem [ref=e529]:
+                - link "Account Executive - Figma Weave (London, United Kingdom)" [ref=e530] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5760223004?gh_jid=5760223004
+              - listitem [ref=e531]:
+                - link "Account Executive - Figma Weave (New York, United States)" [ref=e532] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5755146004?gh_jid=5755146004
+              - listitem [ref=e533]:
+                - link "Customer Enablement Manager - Figma Weave (New York, United States)" [ref=e534] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5765928004?gh_jid=5765928004
+              - listitem [ref=e535]:
+                - link "Designer Advocate - Figma Weave (New York, United States)" [ref=e536] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004
+              - listitem [ref=e537]:
+                - link "Director, Sales - Figma Weave (New York, United States)" [ref=e538] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5787289004?gh_jid=5787289004
+              - listitem [ref=e539]:
+                - link "Manager, Sales - Figma Weave (New York, United States)" [ref=e540] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5972046004?gh_jid=5972046004
+              - listitem [ref=e541]:
+                - link "Product Manager, Figma Weave (New York, United States)" [ref=e542] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5819866004?gh_jid=5819866004
+              - listitem [ref=e543]:
+                - link "Software Engineer, Backend - Figma Weave (Tel Aviv, Israel)" [ref=e544] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5692525004?gh_jid=5692525004
+              - listitem [ref=e545]:
+                - link "Software Engineer, Fullstack - Figma Weave (Tel Aviv, Israel)" [ref=e546] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5692524004?gh_jid=5692524004
+              - listitem [ref=e547]:
+                - link "Technical Support Specialist - Figma Weave (London, United Kingdom)" [ref=e548] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5971708004?gh_jid=5971708004
+              - listitem [ref=e549]:
+                - link "Technical Support Specialist - Figma Weave (Tel Aviv, Israel)" [ref=e550] [cursor=pointer]:
+                  - /url: https://boards.greenhouse.io/figma/jobs/5971689004?gh_jid=5971689004
+      - paragraph [ref=e551]: At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace. We are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, or veteran status.
+    - region "From the blog" [ref=e552]:
+      - generic [ref=e553]:
+        - heading "From the blog" [level=2] [ref=e555]
+        - list [ref=e556]:
+          - listitem [ref=e557]:
+            - 'article "Version control: How a UX writer weighs one word against another" [ref=e558]':
+              - 'heading "Version control: How a UX writer weighs one word against another" [level=3] [ref=e560]'
+              - paragraph [ref=e562]: In UX design, a single misplaced verb can lead users astray, frustrating their expectations and creating confusion. That’s why UX Writer Henry Freedland chose his words very carefully when he was brought in to help polish a new prototyping feature.
+              - link "Read article" [ref=e563] [cursor=pointer]:
+                - /url: https://www.figma.com/blog/version-control-how-a-ux-writer-weighs-one-word-against-another/
+                - generic [ref=e564]:
+                  - img
+                  - text: Read article
+          - listitem [ref=e565]:
+            - article "Why are we so afraid of code as a commodity?" [ref=e566]:
+              - heading "Why are we so afraid of code as a commodity?" [level=3] [ref=e568]
+              - paragraph [ref=e570]: Instead of asking how AI will automate our jobs, we should be focusing on what we, as engineers, uniquely do well. What problems can AI currently solve, and where is the whitespace to go beyond that?
+              - link "Read article" [ref=e571] [cursor=pointer]:
+                - /url: https://www.figma.com/blog/why-are-we-so-afraid-of-code-as-a-commodity/
+                - generic [ref=e572]:
+                  - img
+                  - text: Read article
+          - listitem [ref=e573]:
+            - 'article "Breaking in: A guide to landing your first product design role" [ref=e574]':
+              - 'heading "Breaking in: A guide to landing your first product design role" [level=3] [ref=e576]'
+              - paragraph [ref=e578]: Curious about early career opportunities at Figma? Here are some tips on how to get your first product design job, along with insights on what we look for.
+              - link "Read article" [ref=e579] [cursor=pointer]:
+                - /url: https://www.figma.com/blog/breaking-in-a-guide-to-landing-your-first-product-design-role/
+                - generic [ref=e580]:
+                  - img
+                  - text: Read article
+        - link "See all articles" [ref=e582] [cursor=pointer]:
+          - /url: https://www.figma.com/blog/
+          - generic [ref=e583]:
+            - img
+            - text: See all articles
+    - generic [ref=e586]:
+      - img "A Config conference attendee giving the hang ten hand symbol while smiling" [ref=e587]
+      - img "A Config conference attendee giving the hang ten hand symbol while smiling"
+      - generic [ref=e589]:
+        - heading "About Figma" [level=3] [ref=e590]
+        - paragraph [ref=e592]: Figma is the design platform for teams who build products together. Born on the Web, Figma helps teams brainstorm, design and build better products — from start to finish. Whether it’s consolidating tools, simplifying workflows, or collaborating across teams and time zones, Figma makes the design process faster, more efficient, and fun while keeping everyone on the same page.
+  - contentinfo [ref=e593]:
+    - generic [ref=e594]:
+      - generic [ref=e595]:
+        - link "Homepage" [ref=e596] [cursor=pointer]:
+          - /url: https://www.figma.com/
+          - img [ref=e597]
+        - generic [ref=e599]:
+          - heading "Figma Socials" [level=2] [ref=e600]
+          - list [ref=e601]:
+            - listitem [ref=e602]:
+              - link "X" [ref=e603] [cursor=pointer]:
+                - /url: https://x.com/figma
+                - img [ref=e604]
+            - listitem [ref=e606]:
+              - link "YouTube" [ref=e607] [cursor=pointer]:
+                - /url: https://www.youtube.com/figmadesign
+                - img [ref=e608]
+            - listitem [ref=e610]:
+              - link "Instagram" [ref=e611] [cursor=pointer]:
+                - /url: https://www.instagram.com/figma
+                - img [ref=e612]
+            - listitem [ref=e614]:
+              - link "Facebook" [ref=e615] [cursor=pointer]:
+                - /url: https://www.facebook.com/figmadesign
+                - img [ref=e616]
+      - generic [ref=e618]:
+        - generic [ref=e619]:
+          - heading "Product" [level=2] [ref=e620]
+          - list "Product" [ref=e621]:
+            - listitem [ref=e622]:
+              - link "Figma Design" [ref=e623] [cursor=pointer]:
+                - /url: https://www.figma.com/design/
+            - listitem [ref=e624]:
+              - link "Dev Mode" [ref=e625] [cursor=pointer]:
+                - /url: https://www.figma.com/dev-mode/
+            - listitem [ref=e626]:
+              - link "FigJam" [ref=e627] [cursor=pointer]:
+                - /url: https://www.figma.com/figjam/
+            - listitem [ref=e628]:
+              - link "Figma Slides" [ref=e629] [cursor=pointer]:
+                - /url: https://www.figma.com/slides/
+            - listitem [ref=e630]:
+              - link "Figma Draw" [ref=e631] [cursor=pointer]:
+                - /url: https://www.figma.com/draw/
+            - listitem [ref=e632]:
+              - link "Figma Buzz Beta" [ref=e633] [cursor=pointer]:
+                - /url: https://www.figma.com/buzz/
+                - text: Figma Buzz
+                - generic [ref=e634]: Beta
+            - listitem [ref=e635]:
+              - link "Figma Sites Beta" [ref=e636] [cursor=pointer]:
+                - /url: https://www.figma.com/sites/
+                - text: Figma Sites
+                - generic [ref=e637]: Beta
+            - listitem [ref=e638]:
+              - link "Figma Make" [ref=e639] [cursor=pointer]:
+                - /url: https://www.figma.com/make/
+            - listitem [ref=e640]:
+              - link "Figma Weave New" [ref=e641] [cursor=pointer]:
+                - /url: https://weave.figma.com/
+                - text: Figma Weave
+                - generic [ref=e642]: New
+            - listitem [ref=e643]:
+              - link "AI" [ref=e644] [cursor=pointer]:
+                - /url: https://www.figma.com/ai/
+            - listitem [ref=e645]:
+              - link "Downloads" [ref=e646] [cursor=pointer]:
+                - /url: https://www.figma.com/downloads/
+            - listitem [ref=e647]:
+              - link "Release notes" [ref=e648] [cursor=pointer]:
+                - /url: https://www.figma.com/release-notes/
+        - generic [ref=e649]:
+          - heading "Plans" [level=2] [ref=e650]
+          - list "Plans" [ref=e651]:
+            - listitem [ref=e652]:
+              - link "Pricing" [ref=e653] [cursor=pointer]:
+                - /url: https://www.figma.com/pricing/
+            - listitem [ref=e654]:
+              - link "Enterprise" [ref=e655] [cursor=pointer]:
+                - /url: https://www.figma.com/enterprise/
+            - listitem [ref=e656]:
+              - link "Organization" [ref=e657] [cursor=pointer]:
+                - /url: https://www.figma.com/organization/
+            - listitem [ref=e658]:
+              - link "Professional" [ref=e659] [cursor=pointer]:
+                - /url: https://www.figma.com/professional/
+      - generic [ref=e661]:
+        - heading "Use cases" [level=2] [ref=e662]
+        - list "Use cases" [ref=e663]:
+          - listitem [ref=e664]:
+            - link "UI design" [ref=e665] [cursor=pointer]:
+              - /url: https://www.figma.com/ui-design-tool/
+          - listitem [ref=e666]:
+            - link "UX design" [ref=e667] [cursor=pointer]:
+              - /url: https://www.figma.com/ux-design-tool/
+          - listitem [ref=e668]:
+            - link "Wireframing" [ref=e669] [cursor=pointer]:
+              - /url: https://www.figma.com/wireframe-tool/
+          - listitem [ref=e670]:
+            - link "Diagramming" [ref=e671] [cursor=pointer]:
+              - /url: https://www.figma.com/figjam/diagramming-tool/
+          - listitem [ref=e672]:
+            - link "Prototyping" [ref=e673] [cursor=pointer]:
+              - /url: https://www.figma.com/prototyping/
+          - listitem [ref=e674]:
+            - link "Brainstorming" [ref=e675] [cursor=pointer]:
+              - /url: https://www.figma.com/figjam/brainstorming-tool/
+          - listitem [ref=e676]:
+            - link "Presentation Maker" [ref=e677] [cursor=pointer]:
+              - /url: https://www.figma.com/presentation-maker/
+          - listitem [ref=e678]:
+            - link "Online whiteboard" [ref=e679] [cursor=pointer]:
+              - /url: https://www.figma.com/figjam/online-whiteboard/
+          - listitem [ref=e680]:
+            - link "Strategic planning" [ref=e681] [cursor=pointer]:
+              - /url: https://www.figma.com/figjam/strategic-planning/
+          - listitem [ref=e682]:
+            - link "Mind mapping" [ref=e683] [cursor=pointer]:
+              - /url: https://www.figma.com/figjam/mind-map/
+          - listitem [ref=e684]:
+            - link "Concept map" [ref=e685] [cursor=pointer]:
+              - /url: https://www.figma.com/figjam/concept-map/
+          - listitem [ref=e686]:
+            - link "AI app builder" [ref=e687] [cursor=pointer]:
+              - /url: https://www.figma.com/solutions/ai-app-builder/
+          - listitem [ref=e688]:
+            - link "AI prototype generator" [ref=e689] [cursor=pointer]:
+              - /url: https://www.figma.com/solutions/ai-prototype-generator/
+          - listitem [ref=e690]:
+            - link "AI website builder" [ref=e691] [cursor=pointer]:
+              - /url: https://www.figma.com/solutions/ai-website-builder/
+          - listitem [ref=e692]:
+            - link "AI wireframe generator" [ref=e693] [cursor=pointer]:
+              - /url: https://www.figma.com/solutions/ai-wireframe-generator/
+          - listitem [ref=e694]:
+            - link "Banner maker" [ref=e695] [cursor=pointer]:
+              - /url: https://www.figma.com/solutions/banner-maker/
+          - listitem [ref=e696]:
+            - link "Ad maker" [ref=e697] [cursor=pointer]:
+              - /url: https://www.figma.com/solutions/ad-maker/
+      - generic [ref=e699]:
+        - heading "Resources" [level=2] [ref=e700]
+        - list "Resources" [ref=e701]:
+          - listitem [ref=e702]:
+            - link "Blog" [ref=e703] [cursor=pointer]:
+              - /url: https://www.figma.com/blog/
+          - listitem [ref=e704]:
+            - link "Best practices" [ref=e705] [cursor=pointer]:
+              - /url: https://www.figma.com/best-practices/
+          - listitem [ref=e706]:
+            - link "GIF maker" [ref=e707] [cursor=pointer]:
+              - /url: https://www.figma.com/gif-maker/
+          - listitem [ref=e708]:
+            - link "Gradient Generator" [ref=e709] [cursor=pointer]:
+              - /url: https://www.figma.com/gradient-generator/
+          - listitem [ref=e710]:
+            - link "QR code generator" [ref=e711] [cursor=pointer]:
+              - /url: https://www.figma.com/qr-code-generator/
+          - listitem [ref=e712]:
+            - link "Color wheel" [ref=e713] [cursor=pointer]:
+              - /url: https://www.figma.com/color-wheel/
+          - listitem [ref=e714]:
+            - link "Colors" [ref=e715] [cursor=pointer]:
+              - /url: https://www.figma.com/colors/
+          - listitem [ref=e716]:
+            - link "Color picker" [ref=e717] [cursor=pointer]:
+              - /url: https://www.figma.com/color-picker/
+          - listitem [ref=e718]:
+            - link "Color palettes" [ref=e719] [cursor=pointer]:
+              - /url: https://www.figma.com/color-palettes/
+          - listitem [ref=e720]:
+            - link "Color palette generator" [ref=e721] [cursor=pointer]:
+              - /url: https://www.figma.com/color-palette-generator/
+          - listitem [ref=e722]:
+            - link "Color contrast checker" [ref=e723] [cursor=pointer]:
+              - /url: https://www.figma.com/color-contrast-checker/
+          - listitem [ref=e724]:
+            - link "Font library" [ref=e725] [cursor=pointer]:
+              - /url: https://www.figma.com/fonts/
+          - listitem [ref=e726]:
+            - link "Lorem ipsum generator" [ref=e727] [cursor=pointer]:
+              - /url: https://www.figma.com/lorem-ipsum-generator/
+          - listitem [ref=e728]:
+            - link "Templates" [ref=e729] [cursor=pointer]:
+              - /url: https://www.figma.com/templates/
+          - listitem [ref=e730]:
+            - link "Developers" [ref=e731] [cursor=pointer]:
+              - /url: https://www.figma.com/developers
+          - listitem [ref=e732]:
+            - link "Integrations" [ref=e733] [cursor=pointer]:
+              - /url: https://www.figma.com/product-integrations/
+          - listitem [ref=e734]:
+            - link "Affiliate program" [ref=e735] [cursor=pointer]:
+              - /url: https://www.figma.com/affiliate-program/
+          - listitem [ref=e736]:
+            - link "Resource library" [ref=e737] [cursor=pointer]:
+              - /url: https://www.figma.com/resource-library/
+          - listitem [ref=e738]:
+            - link "Reports and insights" [ref=e739] [cursor=pointer]:
+              - /url: https://www.figma.com/reports/
+          - listitem [ref=e740]:
+            - link "Support" [ref=e741] [cursor=pointer]:
+              - /url: https://help.figma.com/hc/en-us
+          - listitem [ref=e742]:
+            - link "Status" [ref=e743] [cursor=pointer]:
+              - /url: https://status.figma.com/
+          - listitem [ref=e744]:
+            - link "Legal and privacy" [ref=e745] [cursor=pointer]:
+              - /url: https://www.figma.com/legal/
+          - listitem [ref=e746]:
+            - link "Privacy Policy" [ref=e747] [cursor=pointer]:
+              - /url: https://www.figma.com/legal/privacy/
+          - listitem [ref=e748]:
+            - link "Modern slavery statement (UK)" [ref=e749] [cursor=pointer]:
+              - /url: https://static.figma.com/uploads/160c9cb21d6020c9eacaff67ac1450eb05d48c3b
+          - listitem [ref=e750]:
+            - link "Impressum" [ref=e751] [cursor=pointer]:
+              - /url: https://www.figma.com/legal/impressum/
+          - listitem [ref=e752]:
+            - link "Climate disclosure statement" [ref=e753] [cursor=pointer]:
+              - /url: https://static.figma.com/uploads/3920b4eb845c36faafa7706eba7c338036471161
+      - generic [ref=e755]:
+        - heading "Company" [level=2] [ref=e756]
+        - list "Company" [ref=e757]:
+          - listitem [ref=e758]:
+            - link "Events" [ref=e759] [cursor=pointer]:
+              - /url: https://www.figma.com/events-and-webinars/#upcoming-events
+          - listitem [ref=e760]:
+            - link "Customers" [ref=e761] [cursor=pointer]:
+              - /url: https://www.figma.com/customers/
+          - listitem [ref=e762]:
+            - link "Careers" [ref=e763] [cursor=pointer]:
+              - /url: https://www.figma.com/careers/
+          - listitem [ref=e764]:
+            - link "Newsroom" [ref=e765] [cursor=pointer]:
+              - /url: https://www.figma.com/newsroom/
+          - listitem [ref=e766]:
+            - link "Investors" [ref=e767] [cursor=pointer]:
+              - /url: https://investor.figma.com/
+          - listitem [ref=e768]:
+            - link "Figma Ventures" [ref=e769] [cursor=pointer]:
+              - /url: https://www.figma.com/ventures/
+      - button "Choose a language" [ref=e773] [cursor=pointer]:
+        - generic [ref=e774]:
+          - img [ref=e775]
+          - text: English
+        - img [ref=e778]

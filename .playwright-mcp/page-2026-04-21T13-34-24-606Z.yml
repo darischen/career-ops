@@ -1,0 +1,259 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - link [ref=e303] [cursor=pointer]:
+      - /url: ""
+      - text: Skip to main content
+    - banner [ref=e8]:
+      - generic [ref=e10]:
+        - link [ref=e304] [cursor=pointer]:
+          - /url: http://careers.adobe.com
+          - img [ref=e305]
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - button [ref=e306] [cursor=pointer]:
+              - generic [ref=e24]: English
+            - button [ref=e307] [cursor=pointer]:
+              - generic [ref=e31]: Sign In
+          - navigation [ref=e32]:
+            - button [ref=e308] [cursor=pointer]: Search for Jobs
+    - generic [ref=e38]:
+      - alert [ref=e39]: 2026 University Graduate - Software Development Engineer page is loaded
+      - generic [ref=e40]:
+        - generic [ref=e42]:
+          - heading [level=2] [ref=e309]: 2026 University Graduate - Software Development Engineer
+          - button [ref=e310] [cursor=pointer]: Apply
+        - generic [ref=e49]:
+          - generic [ref=e50]:
+            - generic [ref=e58]:
+              - term [ref=e59]: locations
+              - definition [ref=e60]: San Jose
+            - generic [ref=e61]:
+              - generic [ref=e70]:
+                - term [ref=e71]: time type
+                - definition [ref=e72]: Full time
+              - generic [ref=e81]:
+                - term [ref=e82]: posted on
+                - definition [ref=e83]: Posted Yesterday
+              - generic [ref=e92]:
+                - term [ref=e93]: job requisition id
+                - definition [ref=e94]: R161172
+          - generic [ref=e96]:
+            - paragraph [ref=e97]:
+              - generic [ref=e98]: Our Company
+            - paragraph [ref=e99]: Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands— everything they need to design and deliver exceptional digital experiences. We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+            - paragraph [ref=e100]
+            - paragraph [ref=e101]: We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours.
+            - paragraph [ref=e102]
+            - paragraph [ref=e103]:
+              - generic [ref=e105]: The Opportunity
+            - paragraph [ref=e106]:
+              - generic [ref=e107]: Adobe is seeking talented and passionate Software Engineer across all organizations to help plan, design, develop, and test software systems or applications for software enhancements and new products used in local, networked, cloud-based or Internet-related computer programs and products.
+            - paragraph [ref=e108]
+            - paragraph [ref=e109]:
+              - generic [ref=e110]: What You’ll Do
+            - list [ref=e111]:
+              - listitem [ref=e112]:
+                - paragraph [ref=e113]: Develop high-performance, reliable, testable and maintainable code.
+              - listitem [ref=e114]:
+                - paragraph [ref=e115]: Participating in all aspects of software development activities, including design, coding, code review, testing, bug fixing, and code/API documentation.
+              - listitem [ref=e116]:
+                - paragraph [ref=e117]: Collaborate with engineers and participate in daily or weekly stand ups and meetings.
+              - listitem [ref=e118]:
+                - paragraph [ref=e119]: Grow with the support of your team and help others on the team grow by providing thoughtful feedback and uplifting those around you.
+              - listitem [ref=e120]:
+                - paragraph [ref=e121]: Work both independently and collaboratively within a fast-paced development team, with clear, positive, and constructive communication.
+              - listitem [ref=e122]:
+                - paragraph [ref=e123]: Additional responsibilities as needed based on specific role or team
+            - paragraph [ref=e124]
+            - paragraph [ref=e125]:
+              - generic [ref=e126]: What You Need to Succeed
+            - list [ref=e127]:
+              - listitem [ref=e128]:
+                - paragraph [ref=e129]: Bachelor's or Master’s in Computer Science, Computer Engineering, Electrical Engineer, or equivalent experience required
+              - listitem [ref=e130]:
+                - paragraph [ref=e131]: 0-1 + years of experience in specific skill/field(s)
+              - listitem [ref=e132]:
+                - paragraph [ref=e133]: Strong interest in mobile app development for both Android and iOS platforms.
+              - listitem [ref=e134]:
+                - paragraph [ref=e135]: Completed academic and personal projects using Java, Kotlin, Swift, and TypeScript, with exposure to tools like Jetpack Compose or SwiftUI.
+              - listitem [ref=e136]:
+                - paragraph [ref=e137]: Comfortable learning in fast-paced environments and taking initiative on tasks with guidance.
+              - listitem [ref=e138]:
+                - paragraph [ref=e139]: Familiar with basic UI development, design patterns (MVC, MVVM), and object-oriented programming concepts.
+              - listitem [ref=e140]:
+                - paragraph [ref=e141]: Able to communicate ideas clearly and work well in team settings.
+              - listitem [ref=e142]:
+                - paragraph [ref=e143]: Eager to learn new technologies and adapt to changing project needs.
+              - listitem [ref=e144]:
+                - paragraph [ref=e145]: Basic understanding of CI/CD pipelines and automated testing frameworks like JUnit or XCTest.
+            - paragraph [ref=e146]
+            - paragraph [ref=e147]: About Adobe
+            - paragraph [ref=e148]: Adobe empowers everyone to create through innovative platforms and tools that unleash creativity, productivity and personalized customer experiences. Adobe’s industry-leading offerings including Adobe Acrobat Studio, Adobe Express, Adobe Firefly, Creative Cloud, Adobe Experience Platform, Adobe Experience Manager, and GenStudio enable people and businesses to turn ideas into impact, powered by AI and driven by human ingenuity.
+            - paragraph [ref=e149]
+            - paragraph [ref=e150]: Our 30,000+ employees worldwide are creating the future and raising the bar as we drive the next decade of growth. We’re on a mission to hire the very best and believe in creating a company culture where all employees are empowered to make an impact. At Adobe, we believe that great ideas can come from anywhere in the organization. The next big idea could be yours.
+            - paragraph [ref=e151]:
+              - generic [ref=e152]: Let’s Adobe together
+            - paragraph [ref=e153]:
+              - text: At Adobe, we believe in creating a company culture where all employees are empowered to make an impact. Learn more about Adobe life, including our
+              - link [ref=e311] [cursor=pointer]:
+                - /url: https://www.adobe.com/adobe-for-all.html#:~:text=and%20culture.-,Our%20company%20values.,-As%20we%20look
+                - generic [ref=e155]: values and culture
+              - text: ","
+              - link [ref=e312] [cursor=pointer]:
+                - /url: https://www.adobe.com/corporate-responsibility.html
+                - generic [ref=e157]: focus on people, purpose and community
+              - text: ","
+              - link [ref=e313] [cursor=pointer]:
+                - /url: https://www.adobe.com/diversity.html
+                - generic [ref=e159]: Adobe for All
+              - text: ", comprehensive"
+              - link [ref=e314] [cursor=pointer]:
+                - /url: https://benefits.adobe.com/
+                - generic [ref=e161]: benefits programs
+              - text: ", the"
+              - link [ref=e315] [cursor=pointer]:
+                - /url: https://blog.adobe.com/
+                - generic [ref=e163]: stories we tell
+              - text: ", the"
+              - link [ref=e316] [cursor=pointer]:
+                - /url: https://blog.adobe.com/en/topics/customer-stories
+                - generic [ref=e165]: customers
+              - text: we serve, and how you can help us advance our mission of empowering everyone to create.
+            - paragraph [ref=e166]
+            - paragraph [ref=e167]:
+              - text: Adobe is proud to be an
+              - link [ref=e317] [cursor=pointer]:
+                - /url: https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf
+                - generic [ref=e169]: Equal Employment Opportunity
+              - text: employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other protected characteristic.
+              - link [ref=e318] [cursor=pointer]:
+                - /url: https://www.adobe.com/content/dam/cc/en/careers/pdfs/executed-eeo.pdf
+                - generic [ref=e171]: Learn more.
+            - paragraph [ref=e172]
+            - paragraph [ref=e173]:
+              - text: Adobe aims to make our Careers website and recruiting process accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email
+              - link [ref=e319] [cursor=pointer]:
+                - /url: mailto:accommodations@adobe.com
+                - generic [ref=e176]: accommodations@adobe.com
+              - text: or call +1 408-536-3015.
+            - paragraph [ref=e177]
+            - paragraph [ref=e178]: "AI Use Guidelines for Interviews: Our interviews are designed to reflect your own skills and thinking. The use of AI or recording tools during live interviews is not permitted unless explicitly invited by the interviewer or approved in advance as part of a reasonable accommodation. If these tools are used inappropriately or in a way that misrepresents your work, your application may not move forward in the process."
+            - paragraph [ref=e179]
+            - paragraph [ref=e180]:
+              - text: At Adobe, we empower employees to innovate with AI — and we look for candidates eager to do the same. As part of the hiring experience, we provide clear guidance on where AI is encouraged during the process and where it’s restricted during live interviews. See how we think about
+              - link [ref=e320] [cursor=pointer]:
+                - /url: https://careers.adobe.com/us/en/ai-and-your-hiring-experience
+                - generic [ref=e182]: AI in the hiring experience
+              - text: .
+            - paragraph [ref=e183]
+            - paragraph [ref=e184]: "Expected Pay Range:"
+            - text: Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $93,200 -- $179,200 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.
+            - paragraph [ref=e185]
+            - text: In California, the pay range for this position is $123,700 - $179,200
+            - paragraph [ref=e186]
+            - paragraph [ref=e187]: At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).
+            - paragraph [ref=e188]
+            - paragraph [ref=e189]: In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.
+            - paragraph [ref=e190]
+            - paragraph [ref=e191]
+            - paragraph [ref=e192]:
+              - generic [ref=e193]: "State-Specific Notices:"
+            - paragraph [ref=e194]
+            - paragraph [ref=e195]:
+              - generic [ref=e196]: "California:"
+            - paragraph [ref=e197]:
+              - generic [ref=e198]: Fair Chance Ordinances
+            - paragraph [ref=e199]: Adobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
+            - paragraph [ref=e200]
+            - paragraph [ref=e201]:
+              - generic [ref=e202]: "Colorado:"
+            - paragraph [ref=e203]:
+              - generic [ref=e204]: Application Window Notice
+            - paragraph [ref=e205]
+            - paragraph [ref=e206]: If this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.
+            - paragraph [ref=e207]
+            - paragraph [ref=e208]:
+              - generic [ref=e209]: "Massachusetts:"
+            - paragraph [ref=e210]: Massachusetts Legal Notice
+            - paragraph [ref=e211]: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+      - generic [ref=e214]:
+        - heading [level=3] [ref=e321]: About Us
+        - img [ref=e322]
+        - generic [ref=e218]:
+          - generic [ref=e220]:
+            - paragraph [ref=e221]:
+              - text: At Adobe, you will be immersed in an exceptional work environment that is
+              - link [ref=e222] [cursor=pointer]:
+                - /url: https://www.adobe.com/careers/awards.html
+                - text: recognized around the world
+              - text: . You will also be surrounded by colleagues who are committed to helping each other grow through our unique
+              - link [ref=e223] [cursor=pointer]:
+                - /url: http://www.youtube.com/watch?v=hmL6uQZhYhw&list=UUlDSu3-Y4-BfI08784K-P4g&feature=share&index=1
+                - text: Check-In
+              - text: approach where ongoing feedback flows freely. If you’re looking to make an impact, Adobe's the place for you. Discover what our employees are saying about their career experiences on the
+              - link [ref=e224] [cursor=pointer]:
+                - /url: https://blog.adobe.com/en/topics/adobe-life
+                - text: Adobe Life blog
+              - text: and explore the meaningful
+              - link [ref=e225] [cursor=pointer]:
+                - /url: https://rewards.adobe.com
+                - text: benefits
+              - text: we offer.
+            - paragraph [ref=e226]
+            - paragraph [ref=e227]:
+              - text: There's more than meets the eye when it comes to Adobe.
+              - link [ref=e228] [cursor=pointer]:
+                - /url: https://form.typeform.com/to/muiTIg55?typeform-source=adobecareers.typeform.com
+                - text: Take the quiz and see how well you know us!
+            - paragraph [ref=e229]
+            - paragraph [ref=e230]:
+              - generic [ref=e231]: Adobe is proud to be an
+              - link [ref=e234] [cursor=pointer]:
+                - /url: https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf
+                - text: Equal Employment Opportunity
+              - generic [ref=e235]: employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law.
+              - link [ref=e238] [cursor=pointer]:
+                - /url: https://www.adobe.com/content/dam/cc/en/careers/pdfs/executed-eeo.pdf
+                - text: Learn more.
+            - paragraph [ref=e239]
+            - paragraph [ref=e240]:
+              - generic [ref=e241]: Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email
+              - link [ref=e244] [cursor=pointer]:
+                - /url: mailto:%20accommodations@adobe.com
+                - text: accommodations@adobe.com
+              - text: or call (408) 536-3015.
+          - button [ref=e323] [cursor=pointer]:
+            - generic [ref=e248]: Read More
+    - generic [ref=e252]:
+      - generic [ref=e253]: Follow Us
+      - list [ref=e254]:
+        - listitem [ref=e255] [cursor=pointer]:
+          - link [ref=e324]:
+            - /url: http://www.youtube.com/adobecareers
+        - listitem [ref=e262] [cursor=pointer]:
+          - link [ref=e325]:
+            - /url: https://twitter.com/AdobeCareers
+        - listitem [ref=e267] [cursor=pointer]:
+          - link [ref=e326]:
+            - /url: https://www.glassdoor.com/Overview/Working-at-Adobe-EI_IE1090.11,16.htm
+        - listitem [ref=e273] [cursor=pointer]:
+          - link [ref=e327]:
+            - /url: https://www.linkedin.com/company/adobe
+      - generic [ref=e278]:
+        - img [ref=e282]
+        - generic [ref=e302]: © 2026 Workday, Inc. All rights reserved.
+  - dialog "Start Your Application" [ref=e331]:
+    - button "Close" [active] [ref=e333] [cursor=pointer]
+    - generic [ref=e339]:
+      - heading "Start Your Application" [level=2] [ref=e340]
+      - heading "2026 University Graduate - Software Development Engineer" [level=3] [ref=e341]
+      - paragraph [ref=e342]: We are excited to review your application! Please start your application using the options below.
+      - button "Autofill with Resume" [ref=e346] [cursor=pointer]
+      - button "Apply Manually" [ref=e350] [cursor=pointer]
+      - button "Use My Last Application" [ref=e355] [cursor=pointer]
+      - iframe [ref=e359]:
+        - iframe [ref=f72e4]:
+          - main [ref=f74e2]:
+            - button "Apply With LinkedIn" [ref=f74e3] [cursor=pointer]:
+              - img [ref=f74e5]
+              - generic [ref=f74e7]: Apply With LinkedIn

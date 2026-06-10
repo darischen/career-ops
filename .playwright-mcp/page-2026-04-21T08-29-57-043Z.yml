@@ -1,0 +1,113 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Vapi" [ref=e6] [cursor=pointer]:
+        - /url: https://www.vapi.ai/
+        - img "Vapi" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Vapi’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /vapi
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Member of Technical Staff, Backend" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]:
+            - generic [ref=e29]: Engineering, Product & Design ›
+            - generic [ref=e30]: Product Engineering
+        - generic [ref=e31]:
+          - heading "Compensation" [level=2] [ref=e32]
+          - list [ref=e33]:
+            - listitem [ref=e34]:
+              - generic [ref=e35]: Engineering
+              - generic [ref=e36]: $200K – $280K • Offers Equity
+      - generic [ref=e37]:
+        - tablist [ref=e38]:
+          - tab "Overview" [ref=e39] [cursor=pointer]
+          - tab "Application" [selected] [ref=e40] [cursor=pointer]
+        - tabpanel "Application" [ref=e138]:
+          - generic [ref=e139]:
+            - button "Choose File" [ref=e140]
+            - generic [ref=e142]:
+              - generic [ref=e143]:
+                - img [ref=e145]
+                - heading "Autofill from resume" [level=3] [ref=e147]
+              - paragraph [ref=e148]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e150] [cursor=pointer]
+          - generic [ref=e152]:
+            - generic [ref=e153]:
+              - generic [ref=e154]: Name*
+              - textbox "Name*" [ref=e156] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e157]:
+              - generic [ref=e158]: Email*
+              - textbox "Email*" [ref=e160] [cursor=pointer]:
+                - /placeholder: hello@example.com...
+            - generic [ref=e161]:
+              - generic [ref=e162]: Phone Number*
+              - textbox "Phone Number*" [ref=e163] [cursor=pointer]:
+                - /placeholder: 1-415-555-1234...
+            - generic [ref=e164]:
+              - generic [ref=e165]: Linkedin*
+              - textbox "Linkedin*" [ref=e167] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e168]:
+              - generic [ref=e169]: Github Link*
+              - textbox "Github Link*" [ref=e171] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e172]:
+              - generic [ref=e173]: Resume*
+              - button "Resume*" [ref=e174]
+              - generic [ref=e175]:
+                - button "Upload File" [ref=e176] [cursor=pointer]:
+                  - img [ref=e177]
+                  - generic [ref=e179]: Upload File
+                - paragraph [ref=e180]: or drag and drop here
+            - generic [ref=e181]:
+              - generic [ref=e182]: Location*
+              - generic [ref=e183]:
+                - combobox "Start typing..." [ref=e184] [cursor=pointer]
+                - button [ref=e185] [cursor=pointer]:
+                  - img [ref=e186]
+            - generic [ref=e188]:
+              - generic [ref=e189]: Are you able to work in our San Francisco office 3 - 5 days a week?*
+              - generic [ref=e190]:
+                - button "Yes" [ref=e191] [cursor=pointer]
+                - button "No" [ref=e192] [cursor=pointer]
+            - generic [ref=e193]:
+              - generic [ref=e194]: Are you authorized to work in the US?*
+              - generic [ref=e195]:
+                - button "Yes" [ref=e196] [cursor=pointer]
+                - button "No" [ref=e197] [cursor=pointer]
+            - generic [ref=e198]:
+              - generic [ref=e199]: Will you now or in the future require visa sponsorship?*
+              - generic [ref=e200]:
+                - button "Yes" [ref=e201] [cursor=pointer]
+                - button "No" [ref=e202] [cursor=pointer]
+          - button "Submit Application" [ref=e203] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e204]
+  - contentinfo [ref=e125]:
+    - link "Learn more about Ashby" [ref=e126] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e127]: Powered by
+      - img "Ashby" [ref=e128]
+    - paragraph [ref=e134]:
+      - link "Privacy Policy" [ref=e135] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e136] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e137] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

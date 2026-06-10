@@ -1,0 +1,458 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "Back to jobs" [ref=e5] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/furtherearlycareer
+          - img [ref=e6]
+          - text: Back to jobs
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - heading "Entry Level Software Developer | Graduate Leadership Program" [level=1] [ref=e11]
+            - generic [ref=e12]:
+              - img [ref=e13]
+              - generic [ref=e15]: Dallas, Texas
+          - button "Apply" [ref=e16] [cursor=pointer]
+        - generic [ref=e18]:
+          - paragraph [ref=e19]: Dallas, TX | Hybrid
+          - heading "Entry Level Developer" [level=2] [ref=e20]:
+            - strong [ref=e21]: Entry Level Developer
+          - paragraph [ref=e22]:
+            - emphasis [ref=e23]: Launch your Career at Further
+          - paragraph [ref=e24]: Are you graduating with a bachelor’s or master’s degree and ready to dive into the world of data and AI? Further’s Graduate hiring program offers a full-time role where you'll apply your university training to real-world client challenges and technology solutions.
+          - paragraph [ref=e25]: Further is a data, cloud, and AI company whose focus is helping companies turn raw data into the right decisions. You’ll drive powerful insights for brands like Verizon, American Cancer Society, Behr Paint, and more right from the start. Located in the heart of Cleveland in the Flats East Bank (OR Located in the heart of Dallas at The Link Uptown, OR the heart of Midtown Atlanta in Atlantic Station), you’ll gain cross-functional experience and build a strong foundation to kickstart your career by turning data into information, information into insights, and insights into business decisions in a professional services environment.
+          - paragraph [ref=e26]
+          - paragraph [ref=e27]:
+            - strong [ref=e28]: "Your first year will include:"
+          - list [ref=e29]:
+            - listitem [ref=e30]: Contributing to client projects and strategic solutions early.
+            - listitem [ref=e31]: Growing your skillset with certifications and hands-on mentorship.
+            - listitem [ref=e32]: Helping shape our client success stories — your work will matter.
+            - listitem [ref=e33]: While starting with support, you will progress to completing tasks and assignments independently with limited oversight by the end of the year.
+            - listitem [ref=e34]: Contributing to a positive and fun work environment, building strong relationships across the company beyond just your team.
+            - listitem [ref=e35]: Writing clean, efficient code based on detailed technical specifications, ensuring your logic is performant, maintainable, and strictly adheres to the project’s architectural standards.
+            - listitem [ref=e36]: Mastering the Git lifecycle, including branching for features, resolving merge conflicts, and maintaining a clean commit history to ensure seamless collaboration within the main repository.
+            - listitem [ref=e37]: Actively participating in the Software Development Life Cycle by engaging in Agile ceremonies, such as daily stand-ups to sync on progress, sprint planning to estimate tasks, and retrospectives to refine team processes.
+            - listitem [ref=e38]: Leveraging AI coding agents (like GitHub Copilot or Cursor) to accelerate boilerplate generation and unit testing; however, you are expected to audit all AI output to ensure it is secure, accurate, and fits the specific context of your codebase.
+            - listitem [ref=e39]: Receiving constructive feedback on your own submissions and learning to analyze your peers’ code to ensure the entire team maintains a high standard of quality.
+          - paragraph [ref=e40]
+          - paragraph [ref=e41]:
+            - strong [ref=e42]: Why Further?
+          - paragraph [ref=e43]: We believe great careers are built on strong foundations. Our Graduate Program is designed as a launchpad, bridging university theory with real-world impact and helping high-potential graduates grow into industry leaders.
+          - list [ref=e44]:
+            - listitem [ref=e45]:
+              - strong [ref=e46]: "Immersive Learning:"
+              - text: Your first three months are a curated mix of immersive workshops, shadow rotations, and learning by doing. You’ll gain a 360-degree view of how our business operates, from product strategy to client delivery.
+            - listitem [ref=e47]:
+              - strong [ref=e48]: "Hands-on Experience Early:"
+              - text: You’ll be embedded early into high-performing teams where your ideas are heard and your work reaches our clients, giving you exposure to real-world projects from the start.
+            - listitem [ref=e49]:
+              - strong [ref=e50]: "Mentorship that Matters:"
+              - text: Our program is designed around strong mentorship and connection, pairing you with meaningful mentors to shape your career. Build deep professional and social bonds, ensuring you have a support network of mentors and fellow graduates to grow alongside.
+            - listitem [ref=e51]:
+              - strong [ref=e52]: "Technology at your Fingertips:"
+              - text: To do your best work, you need the best tools. You will be equipped with cutting-edge tech and industry-leading technology from your first day. You’ll have the resources to work smarter, experiment faster, and stay at the forefront of digital innovation.
+            - listitem [ref=e53]:
+              - strong [ref=e54]: "Harnessing the power of AI:"
+              - text: You will receive training on how to integrate AI tools into your daily workflow, ensuring you stay at the forefront of the modern digital economy.
+          - paragraph [ref=e55]
+          - paragraph [ref=e56]:
+            - strong [ref=e57]: "What we’re looking for:"
+            - text: You don’t need to check every box — what matters most is your drive to grow.
+          - paragraph [ref=e58]: "Fast learner, committed to continuous learning with passion, curiosity, and some of the following foundations:"
+          - paragraph [ref=e59]:
+            - strong [ref=e60]: "Required:"
+          - list [ref=e61]:
+            - listitem [ref=e62]: Completed a Bachelor’s or Master’s Degree between Fall 2025 and Spring 2026 in Computer Science, Software Engineering, or a related software engineering major.
+            - listitem [ref=e63]: Beginner proficiency or coursework in application development using Git, Typescript, Python, HTML5
+            - listitem [ref=e64]: "AI Fluency & Curiosity: A baseline understanding of Generative AI tools (such as ChatGPT, Claude, or GitHub Copilot) with a demonstrated ability to apply prompts to accelerate delivery. We are looking for builders who leverage AI to speed up tasks, automate workflows, and proactively ship high-quality work faster than traditional methods allow."
+          - paragraph [ref=e65]:
+            - strong [ref=e66]: "Preferred:"
+          - list [ref=e67]:
+            - listitem [ref=e68]: Relevant internships or project experience.
+          - paragraph [ref=e69]:
+            - strong [ref=e70]: "Additional Notes:"
+          - list [ref=e71]:
+            - listitem [ref=e72]: This is a hybrid position. Tuesday, Wednesday, and Thursday are required in-office in Dallas.
+            - listitem [ref=e73]: Please note, we do not offer sponsorship for this role.
+          - paragraph [ref=e74]
+          - paragraph [ref=e75]:
+            - strong [ref=e76]: Rewards & Benefits at Further
+          - paragraph [ref=e77]: Being part of Further means joining a group of incredible people dedicated to delivering value, impact, and innovation through true grit and agility. We believe in taking care of ourselves and each other to continuously improve each day.
+          - paragraph [ref=e78]:
+            - text: Our
+            - link "total rewards program" [ref=e79] [cursor=pointer]:
+              - /url: https://www.gofurther.com/who-we-are/total-rewards
+            - text: is designed for your protection, peace of mind, and overall wellbeing. In addition to the basics, we offer a net-zero cost medical option, company contributions to your HSA, fertility support, fully-paid parental leave, a monthly stipend for your lifestyle spending account, and much more.
+          - paragraph [ref=e80]: If all this resonates with you and you want to add to our team and culture, APPLY TODAY!
+      - separator [ref=e81]
+      - generic [ref=e82]:
+        - generic [ref=e84]:
+          - heading "Apply for this job" [level=2] [ref=e86]
+          - generic [ref=e87]:
+            - paragraph [ref=e89]: "*"
+            - paragraph [ref=e90]: indicates a required field
+        - generic [ref=e91]:
+          - generic [ref=e92]:
+            - generic [ref=e95]:
+              - generic [ref=e96]: First Name*
+              - textbox "First Name" [ref=e97]
+            - generic [ref=e100]:
+              - generic [ref=e101]: Last Name*
+              - textbox "Last Name" [ref=e102]
+            - generic [ref=e105]:
+              - generic [ref=e106]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e107]
+            - generic [ref=e110]:
+              - generic [ref=e111]: Email*
+              - textbox "Email" [ref=e112]
+            - group "Phone" [ref=e114]:
+              - generic [ref=e115]: Phone
+              - generic [ref=e118]:
+                - generic [ref=e119]: Country*
+                - generic [ref=e120]:
+                  - log [ref=e122]
+                  - generic [ref=e124]:
+                    - combobox "Country" [ref=e127]
+                    - button "Toggle flyout" [ref=e129] [cursor=pointer]:
+                      - img [ref=e130]
+                  - textbox
+              - generic [ref=e134]:
+                - generic [ref=e135]: Phone*
+                - textbox "Phone" [ref=e137]
+            - generic [ref=e138]:
+              - generic [ref=e140]:
+                - generic [ref=e141]: Location (City)*
+                - generic [ref=e142]:
+                  - log [ref=e144]
+                  - combobox "Location (City)" [ref=e149]
+                  - textbox
+              - button "Locate me" [ref=e150] [cursor=pointer]
+            - group "Resume/CV*" [ref=e152]:
+              - generic [ref=e153]: Resume/CV*
+              - generic [ref=e155]:
+                - generic [ref=e157]:
+                  - button "Attach" [ref=e158] [cursor=pointer]
+                  - generic [ref=e159]: Attach
+                  - button "Attach" [ref=e160]
+                - button "Dropbox" [ref=e162] [cursor=pointer]
+                - button "Google Drive" [ref=e164] [cursor=pointer]
+                - generic [ref=e166]:
+                  - button "Enter manually" [ref=e167] [cursor=pointer]
+                  - generic [ref=e168]: Enter manually
+                - paragraph [ref=e169]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e170]:
+            - generic [ref=e171]:
+              - separator [ref=e172]
+              - paragraph [ref=e174]: Education
+              - generic [ref=e176]:
+                - generic [ref=e177]: School*
+                - generic [ref=e178]:
+                  - log [ref=e180]
+                  - generic [ref=e182]:
+                    - generic [ref=e183]:
+                      - generic [ref=e184]: Select...
+                      - combobox "School" [ref=e186]
+                    - button "Toggle flyout" [ref=e188] [cursor=pointer]:
+                      - img [ref=e189]
+                  - textbox
+              - generic [ref=e192]:
+                - generic [ref=e193]: Degree*
+                - generic [ref=e194]:
+                  - log [ref=e196]
+                  - generic [ref=e198]:
+                    - generic [ref=e199]:
+                      - generic [ref=e200]: Select...
+                      - combobox "Degree" [ref=e202]
+                    - button "Toggle flyout" [ref=e204] [cursor=pointer]:
+                      - img [ref=e205]
+                  - textbox
+              - generic [ref=e208]:
+                - generic [ref=e209]: Discipline*
+                - generic [ref=e210]:
+                  - log [ref=e212]
+                  - generic [ref=e214]:
+                    - generic [ref=e215]:
+                      - generic [ref=e216]: Select...
+                      - combobox "Discipline" [ref=e218]
+                    - button "Toggle flyout" [ref=e220] [cursor=pointer]:
+                      - img [ref=e221]
+                  - textbox
+              - generic [ref=e223]:
+                - generic [ref=e224]:
+                  - generic [ref=e226]:
+                    - generic [ref=e227]: Start date month*
+                    - generic [ref=e228]:
+                      - log [ref=e230]
+                      - generic [ref=e232]:
+                        - generic [ref=e233]:
+                          - generic [ref=e234]: Select...
+                          - combobox "Start date month" [ref=e236]
+                        - button "Toggle flyout" [ref=e238] [cursor=pointer]:
+                          - img [ref=e239]
+                      - textbox
+                  - generic [ref=e242]:
+                    - generic [ref=e243]: Start date year*
+                    - spinbutton "Start date year" [ref=e244]
+                - generic [ref=e245]:
+                  - generic [ref=e247]:
+                    - generic [ref=e248]: End date month*
+                    - generic [ref=e249]:
+                      - log [ref=e251]
+                      - generic [ref=e253]:
+                        - generic [ref=e254]:
+                          - generic [ref=e255]: Select...
+                          - combobox "End date month" [ref=e257]
+                        - button "Toggle flyout" [ref=e259] [cursor=pointer]:
+                          - img [ref=e260]
+                      - textbox
+                  - generic [ref=e263]:
+                    - generic [ref=e264]: End date year*
+                    - spinbutton "End date year" [ref=e265]
+            - button "Add another" [ref=e266] [cursor=pointer]
+          - generic [ref=e267]:
+            - separator [ref=e268]
+            - group "Please provide a copy of your transcript (official or unofficial is acceptable).*" [ref=e270]:
+              - generic [ref=e271]: Please provide a copy of your transcript (official or unofficial is acceptable).*
+              - generic [ref=e273]:
+                - generic [ref=e275]:
+                  - button "Attach" [ref=e276] [cursor=pointer]
+                  - generic [ref=e277]: Attach
+                  - button "Attach" [ref=e278]
+                - button "Dropbox" [ref=e280] [cursor=pointer]
+                - button "Google Drive" [ref=e282] [cursor=pointer]
+                - paragraph [ref=e283]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - generic [ref=e286]:
+              - generic [ref=e287]: When is your graduation date?*
+              - generic [ref=e288]:
+                - log [ref=e290]
+                - generic [ref=e292]:
+                  - generic [ref=e293]:
+                    - generic [ref=e294]: Select...
+                    - combobox "When is your graduation date?" [ref=e296]
+                  - button "Toggle flyout" [ref=e298] [cursor=pointer]:
+                    - img [ref=e299]
+                - textbox
+            - generic [ref=e303]:
+              - generic [ref=e304]: What is your current overall GPA?*
+              - generic [ref=e305]:
+                - log [ref=e307]
+                - generic [ref=e309]:
+                  - generic [ref=e310]:
+                    - generic [ref=e311]: Select...
+                    - combobox "What is your current overall GPA?" [ref=e313]
+                  - button "Toggle flyout" [ref=e315] [cursor=pointer]:
+                    - img [ref=e316]
+                - textbox
+            - generic [ref=e320]:
+              - generic [ref=e321]: Do you already reside in or are you willing to relocate to Dallas, TX?*
+              - generic [ref=e322]:
+                - log [ref=e324]
+                - generic [ref=e326]:
+                  - generic [ref=e327]:
+                    - generic [ref=e328]: Select...
+                    - combobox "Do you already reside in or are you willing to relocate to Dallas, TX?" [ref=e330]
+                  - button "Toggle flyout" [ref=e332] [cursor=pointer]:
+                    - img [ref=e333]
+                - textbox
+            - generic [ref=e337]:
+              - generic [ref=e338]: Can you be in Dallas, TX and ready to start with Further between June and July 2026?*
+              - generic [ref=e339]:
+                - log [ref=e341]
+                - generic [ref=e343]:
+                  - generic [ref=e344]:
+                    - generic [ref=e345]: Select...
+                    - combobox "Can you be in Dallas, TX and ready to start with Further between June and July 2026?" [ref=e347]
+                  - button "Toggle flyout" [ref=e349] [cursor=pointer]:
+                    - img [ref=e350]
+                - textbox
+            - generic [ref=e354]:
+              - generic [ref=e355]: Are you committed to working in our Dallas, TX office 3 days per week? *
+              - generic [ref=e356]:
+                - log [ref=e358]
+                - generic [ref=e360]:
+                  - generic [ref=e361]:
+                    - generic [ref=e362]: Select...
+                    - combobox "Are you committed to working in our Dallas, TX office 3 days per week?" [ref=e364]
+                  - button "Toggle flyout" [ref=e366] [cursor=pointer]:
+                    - img [ref=e367]
+                - textbox
+            - generic [ref=e369]:
+              - generic [ref=e371]:
+                - generic [ref=e372]: Will you now, or in the future, require sponsorship to legally work in the U.S.?*
+                - generic [ref=e373]:
+                  - log [ref=e375]
+                  - generic [ref=e377]:
+                    - generic [ref=e378]:
+                      - generic [ref=e379]: Select...
+                      - combobox "Will you now, or in the future, require sponsorship to legally work in the U.S.?" [ref=e381]
+                    - button "Toggle flyout" [ref=e383] [cursor=pointer]:
+                      - img [ref=e384]
+                  - textbox
+              - paragraph [ref=e388]: To qualify, applicants must be legally authorized to work in the United States and should not require sponsorship (current or future) for employment visa status.
+            - group "What are your salary expectations for your initial role with Further? Select all that apply. *" [ref=e390]:
+              - generic [ref=e391]: What are your salary expectations for your initial role with Further? Select all that apply. *
+              - generic [ref=e392]:
+                - checkbox "$40,000 - $49,999" [ref=e394]
+                - generic [ref=e395]: $40,000 - $49,999
+              - generic [ref=e396]:
+                - checkbox "$50,000 - $59,999" [ref=e398]
+                - generic [ref=e399]: $50,000 - $59,999
+              - generic [ref=e400]:
+                - checkbox "$60,000 - $69,999" [ref=e402]
+                - generic [ref=e403]: $60,000 - $69,999
+              - generic [ref=e404]:
+                - checkbox "$70,000 - $79,999" [ref=e406]
+                - generic [ref=e407]: $70,000 - $79,999
+              - generic [ref=e408]:
+                - checkbox "$80,000 - $89,999" [ref=e410]
+                - generic [ref=e411]: $80,000 - $89,999
+              - generic [ref=e412]:
+                - checkbox "$90,000 - $99,999" [ref=e414]
+                - generic [ref=e415]: $90,000 - $99,999
+              - generic [ref=e416]:
+                - checkbox "$100,000+" [ref=e418]
+                - generic [ref=e419]: $100,000+
+            - generic [ref=e420]:
+              - group "I have read and understand Further's Job Applicant Privacy Notice (click on the link below to review). *" [ref=e421]:
+                - generic [ref=e422]: I have read and understand Further's Job Applicant Privacy Notice (click on the link below to review). *
+                - generic [ref=e423]:
+                  - checkbox "Yes" [ref=e425]
+                  - generic [ref=e426]: "Yes"
+              - heading "Job Applicant Privacy Notice" [level=4] [ref=e429]:
+                - link "Job Applicant Privacy Notice" [ref=e430] [cursor=pointer]:
+                  - /url: https://cdn.prod.website-files.com/64fb873eb25058d1bc2035d0/6638f40e6683a119a1f85793_Privacy%20Notice%20For%20California%20Resident%20Job%20Applicants.pdf
+                  - subscript [ref=e431]: Job Applicant Privacy Notice
+            - generic [ref=e434]:
+              - generic [ref=e435]: I consent to have my personal data disclosed to other Momentum Group entities to be considered for all open positions that fit my profile.*
+              - generic [ref=e436]:
+                - log [ref=e438]
+                - generic [ref=e440]:
+                  - generic [ref=e441]:
+                    - generic [ref=e442]: Select...
+                    - combobox "I consent to have my personal data disclosed to other Momentum Group entities to be considered for all open positions that fit my profile." [ref=e444]
+                  - button "Toggle flyout" [ref=e446] [cursor=pointer]:
+                    - img [ref=e447]
+                - textbox
+            - generic [ref=e451]:
+              - generic [ref=e452]: How did you hear about this job opportunity?*
+              - generic [ref=e453]:
+                - log [ref=e455]
+                - generic [ref=e457]:
+                  - generic [ref=e458]:
+                    - generic [ref=e459]: Select...
+                    - combobox "How did you hear about this job opportunity?" [ref=e461]
+                  - button "Toggle flyout" [ref=e463] [cursor=pointer]:
+                    - img [ref=e464]
+                - textbox
+          - generic [ref=e466]:
+            - separator [ref=e467]
+            - generic [ref=e468]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e469]
+              - paragraph [ref=e470]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e471]: As set forth in Further Early Career Opportunities’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e474]:
+              - generic [ref=e475]: Gender
+              - generic [ref=e476]:
+                - log [ref=e478]
+                - generic [ref=e480]:
+                  - generic [ref=e481]:
+                    - generic [ref=e482]: Select...
+                    - combobox "Gender" [ref=e484]
+                  - button "Toggle flyout" [ref=e486] [cursor=pointer]:
+                    - img [ref=e487]
+            - generic [ref=e489]:
+              - generic [ref=e491]:
+                - generic [ref=e492]: Are you Hispanic/Latino?
+                - generic [ref=e493]:
+                  - log [ref=e495]
+                  - generic [ref=e497]:
+                    - generic [ref=e498]:
+                      - generic [ref=e499]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e501]
+                    - button "Toggle flyout" [ref=e503] [cursor=pointer]:
+                      - img [ref=e504]
+              - link "Race & Ethnicity Definitions" [ref=e506] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e507]:
+              - paragraph [ref=e508]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e509]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e510]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e511]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e512]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e515]:
+              - generic [ref=e516]: Veteran Status
+              - generic [ref=e517]:
+                - log [ref=e519]
+                - generic [ref=e521]:
+                  - generic [ref=e522]:
+                    - generic [ref=e523]: Select...
+                    - combobox "Veteran Status" [ref=e525]
+                  - button "Toggle flyout" [ref=e527] [cursor=pointer]:
+                    - img [ref=e528]
+            - separator [ref=e530]
+            - generic [ref=e531]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e532]
+              - generic [ref=e533]:
+                - generic [ref=e534]:
+                  - generic [ref=e535]: Form CC-305
+                  - generic [ref=e536]: Page 1 of 1
+                - generic [ref=e537]:
+                  - generic [ref=e538]: OMB Control Number 1250-0005
+                  - generic [ref=e539]: Expires 04/30/2026
+              - strong [ref=e540]: Why are you being asked to complete this form?
+              - paragraph [ref=e541]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e542]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e543] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e544]: How do you know if you have a disability?
+              - paragraph [ref=e545]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e546]: "Disabilities include, but are not limited to:"
+              - list [ref=e547]:
+                - listitem [ref=e548]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e549]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e550]: Blind or low vision
+                - listitem [ref=e551]: Cancer (past or present)
+                - listitem [ref=e552]: Cardiovascular or heart disease
+                - listitem [ref=e553]: Celiac disease
+                - listitem [ref=e554]: Cerebral palsy
+                - listitem [ref=e555]: Deaf or serious difficulty hearing
+                - listitem [ref=e556]: Diabetes
+                - listitem [ref=e557]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e558]: Epilepsy or other seizure disorder
+                - listitem [ref=e559]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e560]: Intellectual or developmental disability
+                - listitem [ref=e561]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e562]: Missing limbs or partially missing limbs
+                - listitem [ref=e563]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e564]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e565]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e566]: Partial or complete paralysis (any cause)
+                - listitem [ref=e567]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e568]: Short stature (dwarfism)
+                - listitem [ref=e569]: Traumatic brain injury
+            - generic [ref=e572]:
+              - generic [ref=e573]: Disability Status
+              - generic [ref=e574]:
+                - log [ref=e576]
+                - generic [ref=e578]:
+                  - generic [ref=e579]:
+                    - generic [ref=e580]: Select...
+                    - combobox "Disability Status" [ref=e582]
+                  - button "Toggle flyout" [ref=e584] [cursor=pointer]:
+                    - img [ref=e585]
+            - paragraph [ref=e588]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e590] [cursor=pointer]
+  - contentinfo [ref=e591]:
+    - generic [ref=e592]:
+      - paragraph [ref=e593]: Powered by
+      - link "Greenhouse logo" [ref=e594] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e595]
+  - iframe [ref=e609]:
+    - generic [ref=f6e6]:
+      - text: protected by
+      - strong [ref=f6e7]: reCAPTCHA

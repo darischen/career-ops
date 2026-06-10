@@ -1,0 +1,145 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - generic "In order to provide a more relevant experience for you, our Workday Recruiting platform uses cookies to enable some website functionality (such as apply with LinkedIn) and capture some of your activity on the careers site. It doesn’t record any personal details. For more information, please read our Cookie Policy and Recruitment & Hiring Privacy Statement." [ref=e9]:
+    - paragraph [ref=e11]:
+      - text: In order to provide a more relevant experience for you, our Workday Recruiting platform uses cookies to enable some website functionality (such as apply with LinkedIn) and capture some of your activity on the careers site. It doesn’t record any personal details. For more information, please read our
+      - link "Cookie Policy" [ref=e12] [cursor=pointer]:
+        - /url: https://www.accenture.com/us-en/support/company-cookies-similar-technology
+      - text: and
+      - link "Recruitment & Hiring Privacy Statement" [ref=e13] [cursor=pointer]:
+        - /url: https://www.accenture.com/us-en/careers/life-at-accenture/privacy-policy
+      - text: .
+    - generic [ref=e14]:
+      - button "Decline" [ref=e17] [cursor=pointer]
+      - button "Accept Cookies" [ref=e21] [cursor=pointer]
+  - banner [ref=e24]:
+    - generic [ref=e26]:
+      - link "careers home" [ref=e29] [cursor=pointer]:
+        - /url: https://www.accenture.com/jobsearch
+        - img "careers home" [ref=e30]
+      - generic [ref=e31]:
+        - heading [level=1]
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - button "English" [ref=e36] [cursor=pointer]:
+            - generic [ref=e40]: English
+          - button "Sign In" [ref=e42] [cursor=pointer]:
+            - generic [ref=e47]: Sign In
+        - navigation [ref=e48]:
+          - button "Search Careers" [ref=e49] [cursor=pointer]
+          - button "Introduce Yourself" [ref=e50] [cursor=pointer]
+  - main [ref=e109]:
+    - generic [ref=e110]:
+      - generic [ref=e111]:
+        - link "Back to Job Posting" [ref=e113] [cursor=pointer]:
+          - generic [ref=e117]: Back to Job Posting
+        - heading "Entry Level Technology Development Program - Claude/Anthropic Tech Arch Analyst - NAELFY26" [level=2] [ref=e118]
+      - generic "Application Progress" [ref=e119]:
+        - list [ref=e120]:
+          - listitem [ref=e121]:
+            - generic: current step 1 of 8
+          - listitem [ref=e127]:
+            - generic: step 2 of 8
+          - listitem [ref=e133]:
+            - generic: step 3 of 8
+          - listitem [ref=e139]:
+            - generic: step 4 of 8
+          - listitem [ref=e145]:
+            - generic: step 5 of 8
+          - listitem [ref=e151]:
+            - generic: step 6 of 8
+          - listitem [ref=e157]:
+            - generic: step 7 of 8
+          - listitem [ref=e163]:
+            - generic: step 8 of 8
+      - generic [ref=e175]:
+        - generic [ref=e178]:
+          - heading "Create Account" [active] [level=3] [ref=e179]
+          - generic [ref=e181]:
+            - paragraph [ref=e182]: This account creation page is for individuals applying to roles at Accenture and/or affiliated companies.
+            - paragraph [ref=e183]:
+              - text: Please
+              - generic [ref=e184]: do not use
+              - generic [ref=e185]: School/Professional email address.
+              - generic [ref=e186]: Only use a private, accessible email address
+              - text: .
+          - generic [ref=e189]:
+            - paragraph [ref=e190]: "Password Requirements:"
+            - list [ref=e191]:
+              - listitem [ref=e192]: A lowercase character
+              - listitem [ref=e193]: A minimum of 8 characters
+              - listitem [ref=e194]: A numeric character
+              - listitem [ref=e195]: An uppercase character
+              - listitem [ref=e196]: A special character
+              - listitem [ref=e197]: An alphabetic character
+          - generic [ref=e198]:
+            - generic [ref=e199]:
+              - generic [ref=e201]: Email Address*
+              - textbox "Email Address" [ref=e204]
+            - generic [ref=e206]:
+              - generic [ref=e208]: Password*
+              - textbox "Password" [ref=e211]
+            - generic [ref=e212]:
+              - generic [ref=e214]: Verify New Password*
+              - textbox "Verify New Password" [ref=e217]
+            - generic [ref=e220]:
+              - generic [ref=e222]:
+                - paragraph [ref=e223]: Applied before? Use the Sign In option below. If needed, use the Forgot your password to retrieve your password.
+                - paragraph [ref=e224]
+                - paragraph [ref=e225]:
+                  - text: An email from Accenture Careers via
+                  - link [ref=e226] [cursor=pointer]:
+                    - /url: mailto:accenture@myworkday.com
+                    - generic [ref=e227]: accenture@myworkday.com
+                  - text: will arrive shortly. Click on the link and create the account.
+                - paragraph [ref=e228]
+                - paragraph [ref=e229]:
+                  - text: By creating the account, I do acknowledge that I have read the
+                  - link [ref=e230] [cursor=pointer]:
+                    - /url: https://www.accenture.com/us-en/about/privacy-policy
+                    - text: privacy statement
+                  - text: and
+                  - link [ref=e231] [cursor=pointer]:
+                    - /url: https://www.accenture.com/us-en/careers/life-at-accenture/privacy-policy
+                    - text: recruiting and hiring privacy statement
+                  - text: and that my personal data will be processed accordingly by Accenture, including also assessing my suitability for employment for roles I’m applying to and any future opportunities.
+                - paragraph [ref=e232]
+                - paragraph [ref=e233]:
+                  - generic [ref=e234]: By ticking this box, I agree to receive information (including feedback surveys) about Accenture and new job opportunities.
+              - button "Read More" [ref=e237] [cursor=pointer]:
+                - generic [ref=e238]: Read More
+            - generic [ref=e246]:
+              - checkbox "I Agree" [ref=e248] [cursor=pointer]
+              - generic [ref=e249] [cursor=pointer]: I Agree
+            - generic [ref=e254]:
+              - button "Create Account" [ref=e255] [cursor=pointer]
+              - button [ref=e256] [cursor=pointer]: Create Account
+          - generic [ref=e257]:
+            - text: Already have an account?
+            - button "Sign In" [ref=e258] [cursor=pointer]
+          - button "Forgot your password?" [ref=e260] [cursor=pointer]
+        - generic:
+          - generic:
+            - generic [ref=e261]: Enter website. This input is for robots only, do not enter if you're human.
+            - textbox "Enter website. This input is for robots only, do not enter if you're human." [ref=e262]
+  - generic [ref=e57]:
+    - generic [ref=e58]: Follow Us
+    - list [ref=e59]:
+      - listitem [ref=e60] [cursor=pointer]:
+        - link "YouTube" [ref=e61]:
+          - /url: https://www.youtube.com/accenture
+      - listitem [ref=e67] [cursor=pointer]:
+        - link "Facebook" [ref=e68]:
+          - /url: https://www.facebook.com/accenture
+      - listitem [ref=e72] [cursor=pointer]:
+        - link "X" [ref=e73]:
+          - /url: https://twitter.com/Accenture
+      - listitem [ref=e77] [cursor=pointer]:
+        - link "LinkedIn" [ref=e78]:
+          - /url: https://www.linkedin.com/company/accenture/
+    - link "Accenture Privacy Policy" [ref=e83] [cursor=pointer]:
+      - /url: https://www.accenture.com/us-en/careers/life-at-accenture/privacy-policy
+    - generic [ref=e84]:
+      - img [ref=e88]
+      - generic [ref=e108]: © 2026 Workday, Inc. All rights reserved.

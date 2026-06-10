@@ -1,0 +1,141 @@
+- generic [ref=e8]:
+  - link [ref=e9] [cursor=pointer]:
+    - /url: "#mdc-main-content"
+    - generic [ref=e12]: Skip to main content
+  - navigation [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e20]:
+        - button [ref=e22] [cursor=pointer]:
+          - img [ref=e24]
+        - link [ref=e26] [cursor=pointer]:
+          - /url: /
+          - img [ref=e27]
+      - button [ref=e31] [cursor=pointer]:
+        - img [ref=e34]
+  - generic [ref=e39]:
+    - generic [ref=e41]:
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - navigation [ref=e46]:
+              - list [ref=e47]:
+                - listitem [ref=e48]:
+                  - generic [ref=e49]:
+                    - button [ref=e50] [cursor=pointer]:
+                      - generic [ref=e52]: Jobs
+                    - img [ref=e53]
+                - listitem [ref=e55]:
+                  - generic [ref=e58]: Critical Facility Engineer
+            - generic [ref=e59]:
+              - heading [level=1] [ref=e61]: Critical Facility Engineer
+              - generic [ref=e62]:
+                - generic [ref=e63]:
+                  - text: Temple, TX
+                  - button [ref=e64] [cursor=pointer]: +14 locations
+                - generic [ref=e65]:
+                  - generic [ref=e68]: Data Center Operations
+                  - button [ref=e69] [cursor=pointer]:
+                    - generic [ref=e72]: + 1 more
+          - button [ref=e73] [cursor=pointer]:
+            - img [ref=e76]
+        - button [ref=e79] [cursor=pointer]:
+          - generic [ref=e82]: Apply now
+        - generic [ref=e84]: Meta is seeking a data center Critical Facility Engineer to join our Data Center Facility Operations team. Our data centers serve as the foundation upon which our software operates to meet the demands of our customers. The Critical Facility Engineer will be a part of the Facility Operations team responsible for operating and maintaining critical systems in our data centers.
+        - separator [ref=e85]
+        - generic [ref=e86]:
+          - heading [level=2] [ref=e87]: Critical Facility Engineer Responsibilities
+          - list [ref=e88]:
+            - generic [ref=e89]:
+              - listitem [ref=e90]: Perform hands-on operations and maintenance which includes all physical and administrative operations tasks, service, and maintenance in accordance with site processes and procedures to ensure the highest levels of uptime, efficiency, and safety without disruption to the business
+              - listitem [ref=e91]: Complete work order requests accurately and on time in an enterprise asset management (EAM) system (Hexagon)
+              - listitem [ref=e92]: Achieve and maintain a high-level of technical knowledge regarding data center infrastructure and operations. Successfully complete personnel qualification standards (PQS) training
+              - listitem [ref=e93]: Provides technical expertise and assistance as required
+              - listitem [ref=e94]: Respond quickly, using Meta procedures or emergency operating procedures to data center facility emergencies
+              - listitem [ref=e95]: Regularly inspect equipment, buildings, safety routes and grounds to check or identify any abnormal or unsafe conditions or faults
+              - listitem [ref=e96]: Troubleshoot, evaluate and recommend system upgrades
+              - listitem [ref=e97]: Order parts and supplies for maintenance and repairs
+              - listitem [ref=e98]: Work with vendors and contractors to ensure work is in accordance with the agreed Meta processes, procedures, and standards
+              - listitem [ref=e99]: Escalate issues to facility management appropriately and timely
+              - listitem [ref=e100]: Assist in scheduling and supervising vendors/subcontractors during equipment/systems maintenance and service
+              - listitem [ref=e101]: Provide recommendation of improvements to the operations and maintenance program on an on-going basis
+              - listitem [ref=e102]: Required to work on a shift schedule, which may include nights and holidays
+              - listitem [ref=e103]: Utilize computerized tooling, in a control room environment, to operate remote equipment, monitor system alerts, centralize communications, diagnose faults, and prioritize dispatching of resources
+        - generic [ref=e104]:
+          - heading [level=2] [ref=e105]: Minimum Qualifications
+          - list [ref=e106]:
+            - generic [ref=e107]:
+              - listitem [ref=e108]: 6+ years of experience in electrical, HVAC, mechanical, controls, or other technical maintenance field
+              - listitem [ref=e109]: Associate's degree in engineering plus 4+ years experience or Bachelor's degree in related field plus 2+ years experience in electrical, HVAC, mechanical, or controls will be considered in lieu of 6+ years experience
+              - listitem [ref=e110]: Use hands and fingers
+              - listitem [ref=e111]: Reach/push/pull with arms/hands/shoulders
+              - listitem [ref=e112]: Stoop, kneel, crouch and crawl
+              - listitem [ref=e113]: Lift and/or otherwise move 45 pounds or more
+              - listitem [ref=e114]: Sit or stand at a workstation for extended periods of time
+              - listitem [ref=e115]: The candidate will need to be experienced in a broad range of industries such as electrical generation, electrical distribution, cooling technologies, building control and fire protection systems
+        - generic [ref=e116]:
+          - heading [level=2] [ref=e117]: Preferred Qualifications
+          - list [ref=e118]:
+            - generic [ref=e119]:
+              - listitem [ref=e120]: Experience adhering to and implementing responsible, ethical AI practices (e.g., risk assessment, bias mitigation, quality and accuracy reviews)
+              - listitem [ref=e121]: Demonstrated ability to integrate AI tools to optimize/redesign workflows and drive measurable impact (e.g., efficiency gains, quality improvements)
+              - listitem [ref=e122]: Demonstrated ongoing AI skill development (e.g., prompt/context engineering, agent orchestration) and staying current with emerging AI technologies
+        - separator [ref=e123]
+        - generic [ref=e124]:
+          - heading [level=2] [ref=e125]: About Meta
+          - generic [ref=e128]: Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+        - generic [ref=e133]:
+          - text: For those who live in or expect to work from California if hired for this position, please click
+          - link [ref=e134] [cursor=pointer]:
+            - /url: https://scontent-lax3-1.xx.fbcdn.net/v/t39.2365-6/457477312_480861821467896_777041002100550877_n.pdf?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=WNJKUQaZ0zYQ7kNvwETmvNg&_nc_oc=AdrCxWEHBep1AjncfFwJotaeZGjg2r4V8T8E5tvFrO3TgXpb-gvmsGOZjpduQGliLznJwXOcMv9yGFF6k96qNCkp&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=CVjPyXC8UbPjML81tvpA9g&_nc_ss=78289&oh=00_Af9JpIA8WRtKNWKeFxtDMSGgBuuqfpCX0vVQmT2lCndrWA&oe=6A3E776B
+            - text: here
+          - text: for additional information.
+        - generic [ref=e135]:
+          - generic [ref=e137]: "United States of America: $88,005/year to $124,010/year + bonus + equity + benefits"
+          - generic [ref=e138]:
+            - text: Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about
+            - link [ref=e139] [cursor=pointer]:
+              - /url: https://www.metacareers.com/benefits/
+              - text: benefits
+            - text: at Meta.
+        - generic [ref=e141]:
+          - heading [level=2] [ref=e142]: Equal Employment Opportunity
+          - generic [ref=e146]:
+            - text: Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice
+            - link [ref=e147] [cursor=pointer]:
+              - /url: https://www.metacareers.com/profile/footer_link/redirect/?page=equal_opportunity_policy
+              - text: here
+            - text: .
+          - generic [ref=e150]:
+            - text: Meta is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, fill out the
+            - link [ref=e151] [cursor=pointer]:
+              - /url: https://www.metacareers.com/accommodations_request
+              - text: Accommodations request form
+            - text: .
+      - separator [ref=e152]
+      - generic [ref=e154]:
+        - generic [ref=e156]: Apply for this job
+        - generic [ref=e157]: Take the first step toward a rewarding career at Meta.
+        - button [ref=e162] [cursor=pointer]:
+          - generic [ref=e165]: Apply now
+      - progressbar [ref=e167]:
+        - img [ref=e168]
+    - generic [ref=e173]:
+      - generic [ref=e175]:
+        - img [ref=e178]
+        - button [ref=e185] [cursor=pointer]:
+          - img [ref=e188]
+      - generic [ref=e190]:
+        - generic [ref=e195]:
+          - text: Recruiters can view your conversations with AI. Using AI is optional and does not impact the outcome of your application process.
+          - button [ref=e196] [cursor=pointer]: Learn more
+          - text: about AI usage and settings.
+        - generic [ref=e200]:
+          - button [ref=e202] [cursor=pointer]:
+            - img [ref=e205]
+          - generic [ref=e208]:
+            - generic [ref=e209]: Ask follow-up questions
+            - button [ref=e210] [cursor=pointer]:
+              - generic [ref=e211]:
+                - img [ref=e212]
+                - generic [ref=e214]: Sign up
+            - generic [ref=e215]: to ask follow-up questions

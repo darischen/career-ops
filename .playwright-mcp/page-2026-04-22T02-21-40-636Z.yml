@@ -1,0 +1,414 @@
+- generic [active] [ref=e1]:
+  - link "Secureframe logo" [ref=e4] [cursor=pointer]:
+    - /url: https://secureframe.com/careers
+    - img "Secureframe logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - heading "New Grad Software Engineer, Product" [level=2] [ref=e10]
+      - generic [ref=e11]:
+        - generic [ref=e12]: New York, NY
+        - generic [ref=e13]: Engineering /
+        - generic [ref=e14]: Hybrid /
+        - generic [ref=e15]: Hybrid
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - heading "Submit your application" [level=4] [ref=e19]
+        - list [ref=e20]:
+          - listitem [ref=e21]:
+            - generic [ref=e22]: LinkedIn profile
+            - generic [ref=e24]:
+              - button "Loading..." [ref=e25] [cursor=pointer]:
+                - generic [ref=e26]:
+                  - img [ref=e27]
+                  - generic [ref=e30]: Loading...
+              - paragraph [ref=e31]:
+                - text: Your full LinkedIn profile will be
+                - text: shared.
+                - link "Learn more" [ref=e32] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/a507542/
+              - generic:
+                - iframe
+          - listitem [ref=e33]:
+            - generic [ref=e34]:
+              - generic [ref=e35]:
+                - text: Resume/CV
+                - generic [ref=e36]: ✱
+              - link "ATTACH RESUME/CV Resume/CV ✱" [ref=e38] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e39]
+                - generic [ref=e41]: ATTACH RESUME/CV
+                - button "Resume/CV ✱ ATTACH RESUME/CV" [ref=e42]
+          - listitem [ref=e43]:
+            - generic [ref=e44]:
+              - generic [ref=e45]:
+                - text: Full name
+                - generic [ref=e46]: ✱
+              - textbox "Full name ✱" [ref=e48]
+          - listitem [ref=e49]:
+            - generic [ref=e50]:
+              - generic [ref=e51]:
+                - text: Email
+                - generic [ref=e52]: ✱
+              - textbox "Email ✱" [ref=e54]
+          - listitem [ref=e55]:
+            - generic [ref=e56]:
+              - generic [ref=e57]: Phone
+              - textbox "Phone" [ref=e59]
+          - listitem [ref=e60]:
+            - generic [ref=e61]:
+              - generic [ref=e62]:
+                - text: Current location
+                - generic [ref=e63]: ✱
+              - textbox "Current location ✱" [ref=e65]
+          - listitem [ref=e66]:
+            - generic [ref=e67]:
+              - generic [ref=e68]: Current company
+              - textbox "Current company" [ref=e70]
+      - generic [ref=e71]:
+        - heading "Links" [level=4] [ref=e72]
+        - list [ref=e73]:
+          - listitem [ref=e74]:
+            - generic [ref=e75]:
+              - generic [ref=e76]:
+                - text: LinkedIn URL
+                - generic [ref=e77]: ✱
+              - textbox "LinkedIn URL ✱" [ref=e79]
+      - generic [ref=e80]:
+        - heading "Visa - US" [level=4] [ref=e81]
+        - list [ref=e82]:
+          - listitem [ref=e83]:
+            - generic [ref=e84]:
+              - generic [ref=e86]:
+                - text: Do you now, or will you in the future, need sponsorship from an employer in order to obtain, extend or renew your authorization to work in the United States?
+                - generic [ref=e87]: ✱
+              - list [ref=e89]:
+                - listitem [ref=e90]:
+                  - generic [ref=e91] [cursor=pointer]:
+                    - radio "Yes" [ref=e92]
+                    - generic [ref=e93]: "Yes"
+                - listitem [ref=e94]:
+                  - generic [ref=e95] [cursor=pointer]:
+                    - radio "No" [ref=e96]
+                    - generic [ref=e97]: "No"
+      - generic [ref=e98]:
+        - heading "Hybrid Location - NYC" [level=4] [ref=e99]
+        - list [ref=e100]:
+          - listitem [ref=e101]:
+            - generic [ref=e102]:
+              - generic [ref=e104]:
+                - text: While we are a remote company, we want the person in this role to be local to NYC. Which option best describes your situation?
+                - generic [ref=e105]: ✱
+              - list [ref=e107]:
+                - listitem [ref=e108]:
+                  - generic [ref=e109] [cursor=pointer]:
+                    - checkbox "I can reliably be in NYC for in-person collaboration." [ref=e110]
+                    - generic [ref=e111]: I can reliably be in NYC for in-person collaboration.
+                - listitem [ref=e112]:
+                  - generic [ref=e113] [cursor=pointer]:
+                    - checkbox "I am not currently in NYC, but I am willing to relocate." [ref=e114]
+                    - generic [ref=e115]: I am not currently in NYC, but I am willing to relocate.
+                - listitem [ref=e116]:
+                  - generic [ref=e117] [cursor=pointer]:
+                    - checkbox "I am not currently in NYC, and I am not open to relocating." [ref=e118]
+                    - generic [ref=e119]: I am not currently in NYC, and I am not open to relocating.
+      - generic [ref=e120]:
+        - separator [ref=e121]
+        - heading "U.S. Equal Employment Opportunity information (Completion is voluntary and will not subject you to adverse treatment)" [level=4] [ref=e122]
+        - paragraph [ref=e123]: Our company values diversity. To ensure that we comply with reporting requirements and to learn more about how we can increase diversity in our candidate pool, we invite you to voluntarily provide demographic information in a confidential survey at the end of this application. Providing this information is optional. It will not be accessible or used in the hiring process, and has no effect on your opportunity for employment.
+        - generic [ref=e125]:
+          - generic [ref=e126]: Gender
+          - combobox "Gender" [ref=e129]:
+            - option "Select ..." [selected]
+            - option "Male"
+            - option "Female"
+            - option "Decline to self-identify"
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - text: Race
+            - link "Click to see details about each option." [ref=e133] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - img [ref=e134]
+          - combobox "Race Click to see details about each option." [ref=e140]:
+            - option "Select ..." [selected]
+            - option "Hispanic or Latino"
+            - option "White (Not Hispanic or Latino)"
+            - option "Black or African American (Not Hispanic or Latino)"
+            - option "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)"
+            - option "Asian (Not Hispanic or Latino)"
+            - option "American Indian or Alaska Native (Not Hispanic or Latino)"
+            - option "Two or More Races (Not Hispanic or Latino)"
+            - option "Decline to self-identify"
+        - generic [ref=e142]:
+          - generic [ref=e143]: Veteran status
+          - combobox "Veteran status" [ref=e146]:
+            - option "Select ..." [selected]
+            - option "I am a veteran"
+            - option "I am not a veteran"
+            - option "Decline to self-identify"
+      - generic [ref=e147]:
+        - separator [ref=e148]
+        - heading "Demographic Survey" [level=4] [ref=e149]
+        - generic [ref=e151]:
+          - generic [ref=e152]: What is your location?
+          - combobox "What is your location?" [ref=e155]:
+            - option "Select..." [selected]
+            - option "Afghanistan"
+            - option "Albania"
+            - option "Algeria"
+            - option "American Samoa"
+            - option "Andorra"
+            - option "Angola"
+            - option "Anguilla"
+            - option "Antarctica"
+            - option "Antigua and Barbuda"
+            - option "Argentina"
+            - option "Armenia"
+            - option "Aruba"
+            - option "Australia"
+            - option "Austria"
+            - option "Azerbaijan"
+            - option "Bahamas"
+            - option "Bahrain"
+            - option "Bangladesh"
+            - option "Barbados"
+            - option "Belarus"
+            - option "Belgium"
+            - option "Belize"
+            - option "Benin"
+            - option "Bermuda"
+            - option "Bhutan"
+            - option "Bolivia"
+            - option "Bonaire, Sint Eustatius and Saba"
+            - option "Bosnia and Herzegovina"
+            - option "Botswana"
+            - option "Bouvet Island"
+            - option "Brazil"
+            - option "British Indian Ocean Territory"
+            - option "Brunei"
+            - option "Bulgaria"
+            - option "Burkina Faso"
+            - option "Burundi"
+            - option "Cambodia"
+            - option "Cameroon"
+            - option "Canada"
+            - option "Cape Verde"
+            - option "Cayman Islands"
+            - option "Central African Republic"
+            - option "Chad"
+            - option "Chile"
+            - option "China"
+            - option "Christmas Island"
+            - option "Cocos (Keeling) Islands"
+            - option "Colombia"
+            - option "Comoros"
+            - option "Congo"
+            - option "Congo, the Democratic Republic of the"
+            - option "Cook Islands"
+            - option "Costa Rica"
+            - option "Croatia"
+            - option "Cuba"
+            - option "Curaçao"
+            - option "Cyprus"
+            - option "Czech Republic"
+            - option "Denmark"
+            - option "Djibouti"
+            - option "Dominica"
+            - option "Dominican Republic"
+            - option "Ecuador"
+            - option "Egypt"
+            - option "El Salvador"
+            - option "Equatorial Guinea"
+            - option "Eritrea"
+            - option "Estonia"
+            - option "Eswatini"
+            - option "Ethiopia"
+            - option "Falkland Islands"
+            - option "Faroe Islands"
+            - option "Fiji"
+            - option "Finland"
+            - option "France"
+            - option "French Guiana"
+            - option "French Polynesia"
+            - option "French Southern Territories"
+            - option "Gabon"
+            - option "Gambia"
+            - option "Georgia"
+            - option "Germany"
+            - option "Ghana"
+            - option "Gibraltar"
+            - option "Greece"
+            - option "Greenland"
+            - option "Grenada"
+            - option "Guadeloupe"
+            - option "Guam"
+            - option "Guatemala"
+            - option "Guernsey"
+            - option "Guinea"
+            - option "Guinea-Bissau"
+            - option "Guyana"
+            - option "Haiti"
+            - option "Heard Island and McDonald Islands"
+            - option "Holy See (Vatican City State)"
+            - option "Honduras"
+            - option "Hong Kong"
+            - option "Hungary"
+            - option "Iceland"
+            - option "India"
+            - option "Indonesia"
+            - option "Iran"
+            - option "Iraq"
+            - option "Ireland"
+            - option "Isle of Man"
+            - option "Israel"
+            - option "Italy"
+            - option "Ivory Coast"
+            - option "Jamaica"
+            - option "Japan"
+            - option "Jersey"
+            - option "Jordan"
+            - option "Kazakhstan"
+            - option "Kenya"
+            - option "Kiribati"
+            - option "Kosovo"
+            - option "Kuwait"
+            - option "Kyrgyzstan"
+            - option "Laos"
+            - option "Latvia"
+            - option "Lebanon"
+            - option "Lesotho"
+            - option "Liberia"
+            - option "Libya"
+            - option "Liechtenstein"
+            - option "Lithuania"
+            - option "Luxembourg"
+            - option "Macao"
+            - option "Macedonia, the Former Yugoslav Republic of"
+            - option "Madagascar"
+            - option "Malawi"
+            - option "Malaysia"
+            - option "Maldives"
+            - option "Mali"
+            - option "Malta"
+            - option "Marshall Islands"
+            - option "Martinique"
+            - option "Mauritania"
+            - option "Mauritius"
+            - option "Mayotte"
+            - option "Mexico"
+            - option "Micronesia, Federated States of"
+            - option "Moldova"
+            - option "Monaco"
+            - option "Mongolia"
+            - option "Montenegro"
+            - option "Montserrat"
+            - option "Morocco"
+            - option "Mozambique"
+            - option "Myanmar"
+            - option "Namibia"
+            - option "Nauru"
+            - option "Nepal"
+            - option "Netherlands"
+            - option "New Caledonia"
+            - option "New Zealand"
+            - option "Nicaragua"
+            - option "Niger"
+            - option "Nigeria"
+            - option "Niue"
+            - option "Norfolk Island"
+            - option "North Korea"
+            - option "Northern Mariana Islands"
+            - option "Norway"
+            - option "Oman"
+            - option "Pakistan"
+            - option "Palau"
+            - option "Palestine, State of"
+            - option "Panama"
+            - option "Papua New Guinea"
+            - option "Paraguay"
+            - option "Peru"
+            - option "Philippines"
+            - option "Pitcairn"
+            - option "Poland"
+            - option "Portugal"
+            - option "Puerto Rico"
+            - option "Qatar"
+            - option "Romania"
+            - option "Russia"
+            - option "Rwanda"
+            - option "Réunion"
+            - option "Saint Barthélemy"
+            - option "Saint Helena, Ascension and Tristan da Cunha"
+            - option "Saint Kitts and Nevis"
+            - option "Saint Lucia"
+            - option "Saint Martin (French part)"
+            - option "Saint Pierre and Miquelon"
+            - option "Saint Vincent and the Grenadines"
+            - option "Samoa"
+            - option "San Marino"
+            - option "Sao Tome and Principe"
+            - option "Saudi Arabia"
+            - option "Senegal"
+            - option "Serbia"
+            - option "Seychelles"
+            - option "Sierra Leone"
+            - option "Singapore"
+            - option "Sint Maarten (Dutch part)"
+            - option "Slovakia"
+            - option "Slovenia"
+            - option "Solomon Islands"
+            - option "Somalia"
+            - option "South Africa"
+            - option "South Georgia and the South Sandwich Islands"
+            - option "South Korea"
+            - option "South Sudan"
+            - option "Spain"
+            - option "Sri Lanka"
+            - option "Sudan"
+            - option "Suriname"
+            - option "Svalbard and Jan Mayen"
+            - option "Sweden"
+            - option "Switzerland"
+            - option "Syria"
+            - option "Taiwan"
+            - option "Tajikistan"
+            - option "Tanzania"
+            - option "Thailand"
+            - option "Timor-Leste"
+            - option "Togo"
+            - option "Tokelau"
+            - option "Tonga"
+            - option "Trinidad and Tobago"
+            - option "Tunisia"
+            - option "Turkey"
+            - option "Turkmenistan"
+            - option "Turks and Caicos Islands"
+            - option "Tuvalu"
+            - option "Uganda"
+            - option "Ukraine"
+            - option "United Arab Emirates"
+            - option "United Kingdom"
+            - option "United States"
+            - option "United States Minor Outlying Islands"
+            - option "Uruguay"
+            - option "Uzbekistan"
+            - option "Vanuatu"
+            - option "Venezuela"
+            - option "Vietnam"
+            - option "Virgin Islands, British"
+            - option "Virgin Islands, U.S."
+            - option "Wallis and Futuna"
+            - option "Western Sahara"
+            - option "Yemen"
+            - option "Zambia"
+            - option "Zimbabwe"
+            - option "Åland Islands"
+      - button "Submit application" [ref=e157] [cursor=pointer]
+  - generic [ref=e159]:
+    - paragraph [ref=e160]:
+      - link "Secureframe Home Page" [ref=e161] [cursor=pointer]:
+        - /url: https://secureframe.com
+    - paragraph [ref=e163]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+    - link "Jobs powered by Lever logo" [ref=e164] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e165]: Jobs powered by
+      - img "Lever logo" [ref=e166]

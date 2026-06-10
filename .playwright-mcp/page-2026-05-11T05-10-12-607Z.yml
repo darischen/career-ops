@@ -1,0 +1,131 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Graphite" [ref=e6] [cursor=pointer]:
+        - /url: ""
+        - img "Graphite" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Graphite’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /graphite
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York City, New York
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Department" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Engineering
+      - generic [ref=e26]:
+        - tablist [ref=e27]:
+          - tab "Overview" [selected] [ref=e28] [cursor=pointer]
+          - tab "Application" [ref=e29] [cursor=pointer]
+        - tabpanel "Overview" [ref=e31]:
+          - generic [ref=e32]:
+            - paragraph [ref=e33]: Graphite builds consumer-quality tools for modern software engineering teams, so they can ship faster and create amazing products.
+            - paragraph [ref=e34]
+            - paragraph [ref=e35]:
+              - strong [ref=e36]: Our product
+            - paragraph [ref=e37]:
+              - text: Graphite is
+              - strong [ref=e38]: modern code review for fast-moving teams
+              - text: "- we help engineers"
+              - strong [ref=e39]: write and review smaller pull requests, stay unblocked, and ship faster
+              - text: .
+            - paragraph [ref=e40]
+            - paragraph [ref=e41]: Anyone can start using Graphite individually without needing their coworkers to change tools - we seamlessly sync code changes and reviews. We started Graphite because we missed internal code review tools like Phabricator (at Facebook) and Critique (Google) that help engineers create, approve, and ship small, incremental changes, and long-term we’re passionate about creating products & workflows that help fast-moving eng teams achieve more.
+            - paragraph [ref=e42]
+            - paragraph [ref=e43]:
+              - strong [ref=e44]: Our company
+            - paragraph [ref=e45]: Graphite is defining the future of code review and how high-quality software is built.
+            - paragraph [ref=e46]: We believe great craft emerges through collaboration. That principle drives everything we build and the way we work.
+            - paragraph [ref=e47]: If you’re excited about this next era of software development, there’s no better moment to do the most impactful work of your career.
+            - paragraph [ref=e48]: Our culture centers on putting people first, applying science and craft, practicing disciplined ambition, and giving ownership - both literally (with equity) and in the responsibility and scope you’ll have as a part of our early team. Outside of work you’ll find us brewing espresso drinks, producing music, or practicing yoga. We can’t wait to see what you’ll add to the mix!
+            - paragraph [ref=e49]
+            - paragraph [ref=e50]:
+              - strong [ref=e51]: About the Role
+            - paragraph [ref=e52]:
+              - text: Graphite is growing rapidly, and
+              - strong [ref=e53]: we're looking for a software engineer to help us define the company’s technical direction
+              - text: . This person will
+              - strong [ref=e54]: work up and down our stack
+              - text: and
+              - strong [ref=e55]: propose and lead new projects
+              - text: .
+            - paragraph [ref=e56]
+            - paragraph [ref=e57]: Rethinking the way fast-moving eng teams write and review code every day is no small feat, and we believe that the best solutions are built when most talented, ambitious, and dedicated people from diverse backgrounds come together.
+            - paragraph [ref=e58]
+            - paragraph [ref=e59]:
+              - strong [ref=e60]: What you’ll do
+            - list [ref=e61]:
+              - listitem [ref=e62]:
+                - paragraph [ref=e63]: Work with us to build a real-time, collaborative code review platform with social features
+              - listitem [ref=e64]:
+                - paragraph [ref=e65]: Help us to define the technical direction of the company
+              - listitem [ref=e66]:
+                - paragraph [ref=e67]: Mentor other engineers and architect frameworks to help us build a codebase that scales
+              - listitem [ref=e68]:
+                - paragraph [ref=e69]: Architect new features around code understanding, CI/CD pipelines, and more.
+            - paragraph [ref=e70]:
+              - strong [ref=e71]: What we’re looking for
+            - list [ref=e72]:
+              - listitem [ref=e73]:
+                - paragraph [ref=e74]: Industry experience building high-quality software products
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: An ability to identify problems, build alignment, and implement solutions autonomously
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: Comfortable working with and designing abstractions and frameworks which increase developer velocity
+            - paragraph [ref=e79]:
+              - strong [ref=e80]: Life at Graphite
+            - list [ref=e81]:
+              - listitem [ref=e82]:
+                - paragraph [ref=e83]:
+                  - strong [ref=e84]: "Competitive comp: ($160-200k base + substantial equity)"
+                  - text: . We're backed by some of the best investors and excited to offer competitive compensation packages.
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]:
+                  - strong [ref=e87]: Role trajectory.
+                  - text: We're excited to build a team whose responsibilities and comp to grow as we do.
+              - listitem [ref=e88]:
+                - paragraph [ref=e89]:
+                  - strong [ref=e90]: Benefits.
+                  - text: Top-tier health, dental, and vision coverage and 16 weeks paid parental leave.
+              - listitem [ref=e91]:
+                - paragraph [ref=e92]:
+                  - strong [ref=e93]: Time to decompress.
+                  - text: We ask that our team take 4 weeks of vacation a year to unplug and unwind.
+              - listitem [ref=e94]:
+                - paragraph [ref=e95]:
+                  - strong [ref=e96]: Relocation expenses.
+                  - text: We're an in-person, NYC-based team, and we're happy to help with your relocation expenses!
+              - listitem [ref=e97]:
+                - paragraph [ref=e98]:
+                  - strong [ref=e99]: The team that eats together.
+                  - text: Company-paid lunch, snacks, and coffee during workdays.
+              - listitem [ref=e100]:
+                - paragraph [ref=e101]:
+                  - strong [ref=e102]: Commuter perks.
+                  - text: Ride around NYC with an Unlimited Ride MetroCard, on us.
+            - paragraph [ref=e103]:
+              - emphasis [ref=e104]: As a team, we're very aware of the systemic structural issues that have created inequalities for many communities, especially in the tech industry. We recognize that women and underrepresented minorities are statistically less likely to apply for a role that they feel unqualified for. If you are interested in this role but you’re concerned about not meeting all requirements, we encourage you to apply anyway - we'd love to get to know you and see if there's a place for you here at Graphite!
+          - link "Apply for this Job" [ref=e105] [cursor=pointer]:
+            - /url: /graphite/2f799d75-dbdf-4caa-83a2-bf7edb2dde85/application
+            - button "Apply for this Job" [ref=e106]
+  - contentinfo [ref=e107]:
+    - link "Learn more about Ashby" [ref=e108] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e109]: Powered by
+      - img "Ashby" [ref=e110]
+    - paragraph [ref=e116]:
+      - link "Privacy Policy" [ref=e117] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e118] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e119] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

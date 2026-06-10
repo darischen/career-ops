@@ -1,0 +1,171 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Authorium" [ref=e6] [cursor=pointer]:
+        - /url: https://authorium.com
+        - img "Authorium" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Authorium’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /Authorium?utm_source=Simplify&ref=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Enginner, New Grad" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $102K – $138K • Offers Equity
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [active] [selected] [ref=e36] [cursor=pointer]
+          - tab "Application" [ref=e37] [cursor=pointer]
+        - tabpanel "Overview" [ref=e181]:
+          - generic [ref=e182]:
+            - heading "About Authorium" [level=1] [ref=e183]:
+              - strong [ref=e184]: About Authorium
+            - paragraph [ref=e185]: Authorium is building the operating system for the infrastructure of democracy. We are a GovTech SaaS platform that unifies the massive, complex workflows—procurement, grants, and budgeting—that keep state and local governments running.
+            - paragraph [ref=e186]: Our platform replaces fragmented spreadsheets and decades-old legacy systems with a unified data layer that manages billions of dollars in public funds. We serve the agencies that support millions of citizens, including California’s CDSS, CalPERS, and EDD, as well as major state agencies in Florida and Washington.
+            - paragraph [ref=e187]:
+              - strong [ref=e188]: The Business
+              - text: ": We are a"
+              - strong [ref=e189]: 43-person
+              - text: company growing
+              - strong [ref=e190]: 45% YoY
+              - text: ", with a clear path to profitability by Q4 2026. We have deep product market fit and are scaling to meet the demands of the world's most complex government agencies."
+            - paragraph [ref=e191]
+            - heading "Why This Role Exists" [level=1] [ref=e192]:
+              - strong [ref=e193]: Why This Role Exists
+            - paragraph [ref=e194]: We are establishing our San Francisco office as a strategic center for high-bandwidth engineering and product innovation. This is a foundational role for an engineer who thrives in an in-person, collaborative environment and wants to accelerate their career by being "in the room" where our most complex architectural decisions are made.
+            - paragraph [ref=e195]: While Authorium is a distributed company, our SF office is where we tackle our most intricate "war room" challenges—from modularizing our core domain to whiteboarding the next generation of our workflow engine. You will be a key contributor to the technical integrity of our platform, shipping mission-critical features and collaborating daily with a high-caliber team to power our next major phase of expansion.
+            - paragraph [ref=e196]
+            - heading "What You Will Be Doing" [level=1] [ref=e197]:
+              - strong [ref=e198]: What You Will Be Doing
+            - list [ref=e199]:
+              - listitem [ref=e200]:
+                - paragraph [ref=e201]:
+                  - strong [ref=e202]: "Shipping Real Features from Day One:"
+                  - text: You won't be on a "new grad track" — you'll deliver complex, high-impact features across our platform, from versioning systems to approval workflows and permission models, with the same ownership expectations as the rest of the team.
+              - listitem [ref=e203]:
+                - paragraph [ref=e204]:
+                  - strong [ref=e205]: "Learning Architecture by Doing:"
+                  - text: Participate in architectural decisions and contribute to ADRs (Architecture Decision Records). You'll have senior engineers to learn from, but you'll be expected to form and defend your own technical opinions early.
+              - listitem [ref=e206]:
+                - paragraph [ref=e207]:
+                  - strong [ref=e208]: "High-Bandwidth Collaboration:"
+                  - text: Work in-person (Monday–Thursday) in our SF office to whiteboard solutions, debug production bottlenecks, and move from idea to deployment at high velocity. This is the fastest learning environment we know how to build.
+              - listitem [ref=e209]:
+                - paragraph [ref=e210]:
+                  - strong [ref=e211]: "Engineering Craft:"
+                  - text: Uphold a high bar for code quality through deep code reviews, comprehensive testing, and contributing to our automated quality gates. Your co-op or internship experience means you already know what "production-grade" looks like.
+              - listitem [ref=e212]:
+                - paragraph [ref=e213]:
+                  - strong [ref=e214]: "AI-Native Workflow:"
+                  - text: Use Cursor and Claude to offload boilerplate and focus on complex implementation. You'll help refine our AI-first patterns — including agentic testing and automated reviews — and we expect new grads to push this frontier as much as anyone.
+            - paragraph [ref=e215]
+            - heading "Requirements" [level=1] [ref=e216]:
+              - strong [ref=e217]: Requirements
+            - heading "Must Have" [level=2] [ref=e218]:
+              - strong [ref=e219]: Must Have
+            - list [ref=e220]:
+              - listitem [ref=e221]:
+                - paragraph [ref=e222]:
+                  - strong [ref=e223]: Significant co-op or internship experience
+                  - text: — ideally 3+ terms in software engineering roles where you shipped to production, not just internal tooling. Waterloo-style co-op depth is exactly what we're looking for.
+              - listitem [ref=e224]:
+                - paragraph [ref=e225]:
+                  - strong [ref=e226]: "Systems Thinker:"
+                  - text: You've worked with real production codebases and can reason about data models, system boundaries, and tradeoffs — not just implement tickets.
+              - listitem [ref=e227]:
+                - paragraph [ref=e228]:
+                  - strong [ref=e229]: "High-Agency:"
+                  - text: You've operated in fast-moving environments where you had to figure things out without hand-holding. You ask good questions, but you don't wait for perfect clarity before moving.
+              - listitem [ref=e230]:
+                - paragraph [ref=e231]:
+                  - strong [ref=e232]: "Security Minded:"
+                  - text: You have working knowledge of defensive coding practices and authorization models — and you've thought about security as a design constraint, not an afterthought.
+              - listitem [ref=e233]:
+                - paragraph [ref=e234]:
+                  - strong [ref=e235]: "Quality Obsessed:"
+                  - text: Clean code, meaningful tests, readable PRs. You've been in codebases where shortcuts hurt the next person, and you don't want to be that person.
+              - listitem [ref=e236]:
+                - paragraph [ref=e237]:
+                  - strong [ref=e238]: "San Francisco Based:"
+                  - text: Energized by an in-office (Monday–Thursday) collaborative culture.
+            - paragraph [ref=e239]
+            - heading "Nice to Have" [level=2] [ref=e240]:
+              - strong [ref=e241]: Nice to Have
+            - list [ref=e242]:
+              - listitem [ref=e243]:
+                - paragraph [ref=e244]:
+                  - strong [ref=e245]: "Modern Frontend Experience:"
+                  - text: Familiarity with React and/or Next.js — we're actively evolving our frontend stack, and if React or Next.js is in your background, we want to hear about it.
+              - listitem [ref=e246]:
+                - paragraph [ref=e247]:
+                  - strong [ref=e248]: "Ruby on Rails exposure:"
+                  - text: Any Rails experience is a plus. Familiarity with MVC conventions and the idea of a modular monolith goes a long way.
+              - listitem [ref=e249]:
+                - paragraph [ref=e250]:
+                  - strong [ref=e251]: "Document or data pipeline work:"
+                  - text: Experience with document generation, rich text, or processing unstructured data in production workflows.
+              - listitem [ref=e252]:
+                - paragraph [ref=e253]:
+                  - strong [ref=e254]: "Regulated industry exposure:"
+                  - text: A term in GovTech, FinTech, or HealthTech — even as an intern — signals you've seen what compliance constraints look like in a real codebase.
+              - listitem [ref=e255]:
+                - paragraph [ref=e256]:
+                  - strong [ref=e257]: "Infrastructure curiosity:"
+                  - text: You've poked around AWS, set up a deployment pipeline, or just find yourself wanting to understand how your code actually runs in production.
+              - listitem [ref=e258]:
+                - paragraph [ref=e259]:
+                  - strong [ref=e260]: "Early-stage startup experience:"
+                  - text: An internship at a seed or Series A company where the team was small, the codebase was scrappy, and you had to own more than your ticket.
+            - paragraph [ref=e261]
+            - heading "Benefits" [level=1] [ref=e262]:
+              - strong [ref=e263]: Benefits
+            - list [ref=e264]:
+              - listitem [ref=e265]:
+                - paragraph [ref=e266]: "Salary: $102,000 - $138,000"
+              - listitem [ref=e267]:
+                - paragraph [ref=e268]: Offers equity
+              - listitem [ref=e269]:
+                - paragraph [ref=e270]: 100% benefits coverage for employee
+              - listitem [ref=e271]:
+                - paragraph [ref=e272]: 401(k) plan
+              - listitem [ref=e273]:
+                - paragraph [ref=e274]: Flexible PTO
+              - listitem [ref=e275]:
+                - paragraph [ref=e276]: Home office stipend
+              - listitem [ref=e277]:
+                - paragraph [ref=e278]: Comprehensive wellness benefits
+              - listitem [ref=e279]:
+                - paragraph [ref=e280]: Commuter stipend for hybrid roles
+          - link "Apply for this Job" [ref=e281] [cursor=pointer]:
+            - /url: /Authorium/e9384068-af40-47b2-83cf-ec76fd8b7222/application?utm_source=Simplify&ref=Simplify
+            - button "Apply for this Job" [ref=e282]
+  - contentinfo [ref=e104]:
+    - link "Learn more about Ashby" [ref=e105] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e106]: Powered by
+      - img "Ashby" [ref=e107]
+    - paragraph [ref=e113]:
+      - link "Privacy Policy" [ref=e114] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e115] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e116] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

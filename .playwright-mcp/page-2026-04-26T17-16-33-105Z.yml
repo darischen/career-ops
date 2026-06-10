@@ -1,0 +1,214 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - img [ref=e6]
+    - paragraph [ref=e8]: The job you are looking for is no longer open.
+  - main [ref=e9]:
+    - generic [ref=e10]:
+      - img "Loop Logo" [ref=e12]
+      - heading "Current openings at Loop" [level=1] [ref=e13]
+      - generic [ref=e17]:
+        - heading "About Loop" [level=3] [ref=e18]:
+          - strong [ref=e19]: About Loop
+        - paragraph [ref=e20]:
+          - text: Loop is on a mission to
+          - link "unlock profits trapped in the supply chain" [ref=e21] [cursor=pointer]:
+            - /url: https://loop.com/article/unlock-profit-trapped-in-your-supply-chain
+          - text: and lower costs for consumers. Bad data and inefficient workflows create friction that limits working capital and raises costs for every supply chain stakeholder.
+        - paragraph [ref=e22]: Loop’s modern audit and pay platform uses our domain-driven AI to harness the complexity of supply chain data and documentation. We improve transportation spend visibility so companies can control their costs and power profit. That is why industry leaders like J.P. Morgan Chase, Great Dane, Emerge, and Loadsmart work with Loop.
+        - paragraph [ref=e23]: Our investors include J.P. Morgan, Index Ventures, Founders Fund, 8VC, Susa Ventures, Flexport, and 50 industry-leading angel investors. Our team brings subject matter expertise from companies like Uber, Google, Flexport, Meta, Samsara, Intuit, Rakuten, and long-standing industry leaders like C.H. Robinson.
+      - generic [ref=e24]:
+        - img [ref=e25]
+        - generic [ref=e27]:
+          - paragraph [ref=e28]: Create a Job Alert
+          - paragraph [ref=e29]: Level-up your career by having opportunities at Loop sent directly to your inbox.
+          - link "Create alert" [ref=e30] [cursor=pointer]:
+            - /url: https://my.greenhouse.io/users/sign_in?job_board=loop&source=job_alert_board
+      - generic [ref=e31]:
+        - generic [ref=e34]:
+          - generic [ref=e35]: Search
+          - textbox "Search" [ref=e36]
+        - generic [ref=e37]:
+          - heading "19 jobs" [level=2] [ref=e38]
+          - generic [ref=e39]:
+            - generic [ref=e40]:
+              - heading "Business Operations" [level=3] [ref=e41]
+              - table [ref=e43]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e44]:
+                      - paragraph [ref=e45]: Job
+                - rowgroup [ref=e46]:
+                  - row "Customer Operations Associate Chicago, IL" [ref=e47]:
+                    - cell "Customer Operations Associate Chicago, IL" [ref=e48]:
+                      - link "Customer Operations Associate Chicago, IL" [ref=e49] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/4721423004
+                        - paragraph [ref=e50]: Customer Operations Associate
+                        - paragraph [ref=e51]: Chicago, IL
+            - generic [ref=e52]:
+              - heading "Customer Success" [level=3] [ref=e53]
+              - table [ref=e55]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e56]:
+                      - paragraph [ref=e57]: Job
+                - rowgroup [ref=e58]:
+                  - row "Implementation Manager Chicago, IL" [ref=e59]:
+                    - cell "Implementation Manager Chicago, IL" [ref=e60]:
+                      - link "Implementation Manager Chicago, IL" [ref=e61] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/4884174004
+                        - paragraph [ref=e62]: Implementation Manager
+                        - paragraph [ref=e63]: Chicago, IL
+                  - row "Senior Customer Success Manager Chicago" [ref=e64]:
+                    - cell "Senior Customer Success Manager Chicago" [ref=e65]:
+                      - link "Senior Customer Success Manager Chicago" [ref=e66] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5841818004
+                        - paragraph [ref=e67]: Senior Customer Success Manager
+                        - paragraph [ref=e68]: Chicago
+                  - row "Solutions Engineer Chicago, San Francisco, New York City" [ref=e69]:
+                    - cell "Solutions Engineer Chicago, San Francisco, New York City" [ref=e70]:
+                      - link "Solutions Engineer Chicago, San Francisco, New York City" [ref=e71] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5457941004
+                        - paragraph [ref=e72]: Solutions Engineer
+                        - paragraph [ref=e73]: Chicago, San Francisco, New York City
+            - generic [ref=e74]:
+              - heading "Engineering" [level=3] [ref=e75]
+              - table [ref=e77]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e78]:
+                      - paragraph [ref=e79]: Job
+                - rowgroup [ref=e80]:
+                  - row "2026 New Grad | Software Engineer, Full-Stack San Francisco, CA" [ref=e81]:
+                    - cell "2026 New Grad | Software Engineer, Full-Stack San Francisco, CA" [ref=e82]:
+                      - link "2026 New Grad | Software Engineer, Full-Stack San Francisco, CA" [ref=e83] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5780582004
+                        - paragraph [ref=e84]: 2026 New Grad | Software Engineer, Full-Stack
+                        - paragraph [ref=e85]: San Francisco, CA
+                  - row "2026 New Grad | Software Engineer, Full-Stack (Chicago) New Chicago, IL" [ref=e86]:
+                    - cell "2026 New Grad | Software Engineer, Full-Stack (Chicago) New Chicago, IL" [ref=e87]:
+                      - link "2026 New Grad | Software Engineer, Full-Stack (Chicago) New Chicago, IL" [ref=e88] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5981831004
+                        - paragraph [ref=e89]:
+                          - text: 2026 New Grad | Software Engineer, Full-Stack (Chicago)
+                          - generic [ref=e91]: New
+                        - paragraph [ref=e92]: Chicago, IL
+                  - row "2026 New Grad | Software Engineer, Full-Stack (New York) New New York, NY" [ref=e93]:
+                    - cell "2026 New Grad | Software Engineer, Full-Stack (New York) New New York, NY" [ref=e94]:
+                      - link "2026 New Grad | Software Engineer, Full-Stack (New York) New New York, NY" [ref=e95] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5981828004
+                        - paragraph [ref=e96]:
+                          - text: 2026 New Grad | Software Engineer, Full-Stack (New York)
+                          - generic [ref=e98]: New
+                        - paragraph [ref=e99]: New York, NY
+                  - row "AI Engineer San Francisco, CA" [ref=e100]:
+                    - cell "AI Engineer San Francisco, CA" [ref=e101]:
+                      - link "AI Engineer San Francisco, CA" [ref=e102] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5391540004
+                        - paragraph [ref=e103]: AI Engineer
+                        - paragraph [ref=e104]: San Francisco, CA
+                  - row "Software Engineer, Full-Stack San Francisco, CA" [ref=e105]:
+                    - cell "Software Engineer, Full-Stack San Francisco, CA" [ref=e106]:
+                      - link "Software Engineer, Full-Stack San Francisco, CA" [ref=e107] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/4102236004
+                        - paragraph [ref=e108]: Software Engineer, Full-Stack
+                        - paragraph [ref=e109]: San Francisco, CA
+                  - row "Software Engineer, Full-Stack Chicago, IL" [ref=e110]:
+                    - cell "Software Engineer, Full-Stack Chicago, IL" [ref=e111]:
+                      - link "Software Engineer, Full-Stack Chicago, IL" [ref=e112] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/4830548004
+                        - paragraph [ref=e113]: Software Engineer, Full-Stack
+                        - paragraph [ref=e114]: Chicago, IL
+                  - row "Software Engineer, Full-Stack New New York, NY, USA" [ref=e115]:
+                    - cell "Software Engineer, Full-Stack New New York, NY, USA" [ref=e116]:
+                      - link "Software Engineer, Full-Stack New New York, NY, USA" [ref=e117] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5977189004
+                        - paragraph [ref=e118]:
+                          - text: Software Engineer, Full-Stack
+                          - generic [ref=e120]: New
+                        - paragraph [ref=e121]: New York, NY, USA
+                  - row "Supply Chain Engineer Chicago, IL" [ref=e122]:
+                    - cell "Supply Chain Engineer Chicago, IL" [ref=e123]:
+                      - link "Supply Chain Engineer Chicago, IL" [ref=e124] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5840037004
+                        - paragraph [ref=e125]: Supply Chain Engineer
+                        - paragraph [ref=e126]: Chicago, IL
+            - generic [ref=e127]:
+              - heading "G&A" [level=3] [ref=e128]
+              - table [ref=e130]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e131]:
+                      - paragraph [ref=e132]: Job
+                - rowgroup [ref=e133]:
+                  - row "Senior HR Business Partner San Francisco, Chicago, NYC" [ref=e134]:
+                    - cell "Senior HR Business Partner San Francisco, Chicago, NYC" [ref=e135]:
+                      - link "Senior HR Business Partner San Francisco, Chicago, NYC" [ref=e136] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5663574004
+                        - paragraph [ref=e137]: Senior HR Business Partner
+                        - paragraph [ref=e138]: San Francisco, Chicago, NYC
+            - generic [ref=e139]:
+              - heading "Operations" [level=3] [ref=e140]
+              - table [ref=e142]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e143]:
+                      - paragraph [ref=e144]: Job
+                - rowgroup [ref=e145]:
+                  - row "AI Operations Associate San Francisco, New York, Chicago" [ref=e146]:
+                    - cell "AI Operations Associate San Francisco, New York, Chicago" [ref=e147]:
+                      - link "AI Operations Associate San Francisco, New York, Chicago" [ref=e148] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5819779004
+                        - paragraph [ref=e149]: AI Operations Associate
+                        - paragraph [ref=e150]: San Francisco, New York, Chicago
+                  - row "Senior Project Manager, M&A Integration Chicago" [ref=e151]:
+                    - cell "Senior Project Manager, M&A Integration Chicago" [ref=e152]:
+                      - link "Senior Project Manager, M&A Integration Chicago" [ref=e153] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5687196004
+                        - paragraph [ref=e154]: Senior Project Manager, M&A Integration
+                        - paragraph [ref=e155]: Chicago
+            - generic [ref=e156]:
+              - heading "Sales" [level=3] [ref=e157]
+              - table [ref=e159]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e160]:
+                      - paragraph [ref=e161]: Job
+                - rowgroup [ref=e162]:
+                  - row "Enterprise Account Executive United States (Remote)" [ref=e163]:
+                    - cell "Enterprise Account Executive United States (Remote)" [ref=e164]:
+                      - link "Enterprise Account Executive United States (Remote)" [ref=e165] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5431252004
+                        - paragraph [ref=e166]: Enterprise Account Executive
+                        - paragraph [ref=e167]: United States (Remote)
+            - generic [ref=e168]:
+              - heading "Strategy & Corporate Development" [level=3] [ref=e169]
+              - table [ref=e171]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e172]:
+                      - paragraph [ref=e173]: Job
+                - rowgroup [ref=e174]:
+                  - row "Special Projects Associate San Francisco, CA" [ref=e175]:
+                    - cell "Special Projects Associate San Francisco, CA" [ref=e176]:
+                      - link "Special Projects Associate San Francisco, CA" [ref=e177] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5724281004
+                        - paragraph [ref=e178]: Special Projects Associate
+                        - paragraph [ref=e179]: San Francisco, CA
+                  - row "Strategic Finance Associate New York, NY" [ref=e180]:
+                    - cell "Strategic Finance Associate New York, NY" [ref=e181]:
+                      - link "Strategic Finance Associate New York, NY" [ref=e182] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5807860004
+                        - paragraph [ref=e183]: Strategic Finance Associate
+                        - paragraph [ref=e184]: New York, NY
+                  - row "Strategy and Operations Associate Chicago, IL" [ref=e185]:
+                    - cell "Strategy and Operations Associate Chicago, IL" [ref=e186]:
+                      - link "Strategy and Operations Associate Chicago, IL" [ref=e187] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/loop/jobs/5224737004
+                        - paragraph [ref=e188]: Strategy and Operations Associate
+                        - paragraph [ref=e189]: Chicago, IL
+  - contentinfo [ref=e190]:
+    - generic [ref=e191]:
+      - paragraph [ref=e192]: Powered by
+      - link "Greenhouse logo" [ref=e193] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e194]

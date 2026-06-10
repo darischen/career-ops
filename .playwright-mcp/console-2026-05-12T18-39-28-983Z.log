@@ -1,0 +1,9 @@
+[    2496ms] TypeError: Cannot read properties of null (reading 'click')
+    at https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25539&siteid=5313&PageType=JobDetails&jobid=5137311:9006:43
+[    2896ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://kit.fontawesome.com/c59ab216c6.js:0
+[    2944ms] [LOG] #ffffff @ https://sjobs.brassring.com/TGNewUI/Scripts/app/v-639128732230840804/shared.js:5712
+[    2944ms] [LOG] #666666 @ https://sjobs.brassring.com/TGNewUI/Scripts/app/v-639128732230840804/shared.js:5713
+[    2944ms] [LOG] #095197 @ https://sjobs.brassring.com/TGNewUI/Scripts/app/v-639128732230840804/shared.js:5714
+[    2945ms] [LOG] 8.270912887946528 @ https://sjobs.brassring.com/TGNewUI/Scripts/app/v-639128732230840804/shared.js:5720
+[    2945ms] [LOG] 15.968719422671311 @ https://sjobs.brassring.com/TGNewUI/Scripts/app/v-639128732230840804/shared.js:5721
+[    2945ms] [LOG] 10.099504938362077 @ https://sjobs.brassring.com/TGNewUI/Scripts/app/v-639128732230840804/shared.js:5722

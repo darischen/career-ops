@@ -1,0 +1,115 @@
+- generic [active] [ref=e1]:
+  - region "Cookie consent" [ref=e2]:
+    - generic [ref=e4]:
+      - heading "Cookie consent" [level=2] [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e7]: We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of all the cookies.
+        - generic [ref=e8]:
+          - button "Preferences" [ref=e9] [cursor=pointer]
+          - button "Accept" [ref=e10] [cursor=pointer]
+  - generic [ref=e12]:
+    - banner [ref=e13]:
+      - link "RippleMatch logo, home" [ref=e16] [cursor=pointer]:
+        - /url: /
+        - img "RippleMatch logo, home" [ref=e17]
+    - generic [ref=e18]:
+      - generic [ref=e21]:
+        - strong [ref=e22]: Please reauthenticate to access this page.
+        - button "hide toast" [ref=e23] [cursor=pointer]: ✕
+      - main [ref=e24]:
+        - generic [ref=e29]:
+          - generic [ref=e30]:
+            - iframe [ref=e34]:
+              - button "Sign in with Google. Opens in new tab" [ref=f20e3] [cursor=pointer]:
+                - generic [ref=f20e5]:
+                  - img [ref=f20e7]
+                  - generic [ref=f20e14]: Sign in with Google
+            - button "Log In with SSO" [ref=e35] [cursor=pointer]:
+              - generic [ref=e37]: 
+              - generic [ref=e38]: Log In with SSO
+          - paragraph [ref=e41]: or
+          - generic [ref=e44]:
+            - generic [ref=e46]:
+              - generic [ref=e48]: Email
+              - textbox "Email" [ref=e51]:
+                - /placeholder: Enter email address..
+            - generic [ref=e53]:
+              - generic [ref=e55]: Password
+              - generic [ref=e57]:
+                - textbox "Password" [ref=e58]:
+                  - /placeholder: Enter password..
+                - button "Show password" [ref=e59] [cursor=pointer]:
+                  - generic [ref=e60]: 
+            - button "Sign in" [ref=e61] [cursor=pointer]
+            - paragraph [ref=e62]:
+              - generic [ref=e63]:
+                - text: By creating an account or signing in, you understand and agree to RippleMatch’s
+                - link "terms of service" [ref=e64] [cursor=pointer]:
+                  - /url: /tos
+                - text: and
+                - link "privacy policy" [ref=e65] [cursor=pointer]:
+                  - /url: /privacy
+                - text: .
+          - generic [ref=e66]:
+            - generic [ref=e67]:
+              - text: Don't have an account?
+              - link "Sign up now!" [ref=e68] [cursor=pointer]:
+                - /url: /v2/login/register?next=/v2/student/recommendations/role/9f16f671&fresh=true
+            - link "Forgot your password?" [ref=e70] [cursor=pointer]:
+              - /url: /v2/login/forgot-password
+      - contentinfo [ref=e73]:
+        - generic [ref=e74]:
+          - generic [ref=e75]:
+            - heading "Product" [level=2] [ref=e76]
+            - list [ref=e77]:
+              - listitem [ref=e78]:
+                - link "FAQ" [ref=e79] [cursor=pointer]:
+                  - /url: https://www.ripplematch.com/careers/
+              - listitem [ref=e80]:
+                - link "For Candidates" [ref=e81] [cursor=pointer]:
+                  - /url: https://ripplematch.com/
+              - listitem [ref=e82]:
+                - link "For Employers" [ref=e83] [cursor=pointer]:
+                  - /url: https://ripplematch.com/employers
+              - listitem [ref=e84]:
+                - link "Internship" [ref=e85] [cursor=pointer]:
+                  - /url: https://ripplematch.com/jobs/
+              - listitem [ref=e86]:
+                - link "Login" [ref=e87] [cursor=pointer]:
+                  - /url: /v2/login
+          - generic [ref=e88]:
+            - heading "Company" [level=2] [ref=e89]
+            - list [ref=e90]:
+              - listitem [ref=e91]:
+                - link "About us" [ref=e92] [cursor=pointer]:
+                  - /url: /v2/public/company/ripplematch
+              - listitem [ref=e93]:
+                - link "Careers" [ref=e94] [cursor=pointer]:
+                  - /url: https://ripplematch.com/careers
+              - listitem [ref=e95]:
+                - link "Advice" [ref=e96] [cursor=pointer]:
+                  - /url: https://ripplematch.com/career-services
+          - generic [ref=e97]:
+            - heading "Resources" [level=2] [ref=e98]
+            - list [ref=e99]:
+              - listitem [ref=e100]:
+                - link "Terms of Service" [ref=e101] [cursor=pointer]:
+                  - /url: /tos
+              - listitem [ref=e102]:
+                - link "Privacy Policy" [ref=e103] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=e104]:
+                - link "DMCA Policy" [ref=e105] [cursor=pointer]:
+                  - /url: /dmca
+              - listitem [ref=e106]:
+                - link "MSA Archive" [ref=e107] [cursor=pointer]:
+                  - /url: /msa-archives
+              - listitem [ref=e108]:
+                - link "AEDT Bias Audit" [ref=e109] [cursor=pointer]:
+                  - /url: https://resources.ripplematch.com/hubfs/RippleMatch%20babl%2006.27.2024.pdf
+              - listitem [ref=e110]:
+                - link "Cookie Settings" [ref=e111] [cursor=pointer]:
+                  - /url: "#"
+        - generic [ref=e112]:
+          - generic [ref=e113]: 
+          - generic [ref=e114]: ©2025 RippleMatch, Inc. & RIPPLEMATCH ®

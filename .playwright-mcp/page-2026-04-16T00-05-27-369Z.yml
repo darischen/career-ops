@@ -1,0 +1,114 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Figure Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://www.figure.ai
+        - img "Figure Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/figureai
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e12]:
+          - generic [ref=e13]:
+            - heading "Full-Stack Engineer - Systems Integration" [level=1] [ref=e14]
+            - generic [ref=e15]:
+              - img [ref=e16]
+              - generic [ref=e18]: San Jose, CA
+          - button "Apply" [ref=e19] [cursor=pointer]
+        - generic [ref=e21]:
+          - paragraph [ref=e22]: Figure is an AI robotics company developing autonomous general-purpose humanoid robots. The goal of the company is to ship humanoid robots with human level intelligence. Its robots are engineered to perform a variety of tasks in the home and commercial markets. Figure is based in San Jose, CA and require 5 days/week in-office collaboration.
+          - paragraph [ref=e23]: We are seeking a highly skilled and motivated Senior Full-Stack Engineer on Systems Integration and Test to design, build, deploy, and maintain tools for ensuring the smooth configuration, diagnosis, calibration, data management, and operation of our sub assemblies and robots.
+          - paragraph [ref=e24]:
+            - strong [ref=e25]: "Responsibilities:"
+          - list [ref=e26]:
+            - listitem [ref=e27]: Architect, design, implement, deploy, and maintain tools for subassembly and robot configuration, diagnosis, calibration, data management, visualization, and user interaction.
+            - listitem [ref=e28]: Develop scalable, well-documented APIs and frameworks to support mission-critical operations.
+            - listitem [ref=e29]: Conduct trade studies to evaluate and select the best tools and technologies for the software stack.
+            - listitem [ref=e30]: Collaborate with cross-functional teams, including system integration, manufacturing, and operations to gather requirements and incorporate feedback.
+          - paragraph [ref=e31]:
+            - strong [ref=e32]: "Requirements:"
+          - list [ref=e33]:
+            - listitem [ref=e34]: Bachelor’s or Master’s degree in Computer Science or a related field.
+            - listitem [ref=e35]: A minimum of 2 years of industry experience in software development.
+            - listitem [ref=e36]: Expertise in front-end technologies, including JavaScript, HTML5/CSS, React, and Next.js.
+            - listitem [ref=e37]: Proficiency in back-end development with Python and Node.js.
+            - listitem [ref=e38]: Strong understanding of databases, SQL and noSQL.
+            - listitem [ref=e39]: Strong interest in working on software systems that interact with real hardware.
+            - listitem [ref=e40]: Experience with Docker for containerization and deployment.
+            - listitem [ref=e41]: Experience with data visualization tools and frameworks.
+            - listitem [ref=e42]: Exceptional verbal and written communication skills.
+          - paragraph [ref=e43]:
+            - strong [ref=e45]: "Bonus Qualifications:"
+          - list [ref=e46]:
+            - listitem [ref=e47]: Prior experience working with custom hardware/software systems.
+            - listitem [ref=e48]: Prior robotics experience.
+          - paragraph [ref=e49]: The US base salary range for this full-time position is between $150,000 - $240,000 annually.
+          - paragraph [ref=e50]: The pay offered for this position may vary based on several individual factors, including job-related knowledge, skills, and experience. The total compensation package may also include additional components/benefits depending on the specific role. This information will be shared if an employment offer is extended.
+        - generic [ref=e51]:
+          - img [ref=e52]
+          - generic [ref=e54]:
+            - paragraph [ref=e55]: Create a Job Alert
+            - paragraph [ref=e56]: Interested in building your career at Figure? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e57] [cursor=pointer]
+      - separator [ref=e58]
+      - generic [ref=e59]:
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - heading "Apply for this job" [level=2] [ref=e63]
+            - generic [ref=e64]:
+              - paragraph [ref=e66]: "*"
+              - paragraph [ref=e67]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e70] [cursor=pointer]
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - generic [ref=e75]:
+              - generic [ref=e76]: First Name*
+              - textbox "First Name" [ref=e77]
+            - generic [ref=e80]:
+              - generic [ref=e81]: Last Name*
+              - textbox "Last Name" [ref=e82]
+            - generic [ref=e85]:
+              - generic [ref=e86]: Email*
+              - textbox "Email" [ref=e87]
+            - group "Phone" [ref=e89]:
+              - generic [ref=e90]: Phone
+              - generic [ref=e93]:
+                - generic [ref=e94]: Country
+                - generic [ref=e95]:
+                  - log [ref=e97]
+                  - generic [ref=e99]:
+                    - combobox "Country" [ref=e102]
+                    - button "Toggle flyout" [ref=e104] [cursor=pointer]:
+                      - img [ref=e105]
+              - generic [ref=e109]:
+                - generic [ref=e110]: Phone
+                - textbox "Phone" [ref=e111]
+            - group "Resume/CV" [ref=e113]:
+              - generic [ref=e114]: Resume/CV
+              - generic [ref=e116]:
+                - generic [ref=e118]:
+                  - button "Attach" [ref=e119] [cursor=pointer]
+                  - generic [ref=e120]: Attach
+                  - button "Attach" [ref=e121]
+                - button "Dropbox" [ref=e123] [cursor=pointer]
+                - button "Google Drive" [ref=e125] [cursor=pointer]
+                - generic [ref=e127]:
+                  - button "Enter manually" [ref=e128] [cursor=pointer]
+                  - generic [ref=e129]: Enter manually
+                - paragraph [ref=e130]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e131]:
+            - separator [ref=e132]
+            - generic [ref=e135]:
+              - generic [ref=e136]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e137]
+            - generic [ref=e140]:
+              - generic [ref=e141]: Website
+              - textbox "Website" [ref=e142]
+          - button "Submit application" [ref=e144] [cursor=pointer]
+  - contentinfo [ref=e145]:
+    - generic [ref=e146]:
+      - paragraph [ref=e147]: Powered by
+      - link "Greenhouse logo" [ref=e148] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e149]

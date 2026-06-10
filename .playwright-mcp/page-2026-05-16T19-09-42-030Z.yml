@@ -1,0 +1,262 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - complementary [ref=e4]:
+      - paragraph [ref=e6]:
+        - link "Get TSA PreCheck®" [ref=e7] [cursor=pointer]:
+          - /url: https://enroll.clearme.com/enroll/tsa
+          - text: Get TSA PreCheck
+          - superscript [ref=e8]: ®
+        - text: for free when you enroll in CLEAR+
+    - banner [ref=e9]:
+      - generic [ref=e10]:
+        - link "CLEAR Logo" [ref=e12] [cursor=pointer]:
+          - /url: https://www.clearme.com/
+          - img "CLEAR Logo" [ref=e13]
+        - button "menu" [ref=e17] [cursor=pointer]:
+          - link "Get CLEAR Plus" [ref=e20]:
+            - /url: "#form-new"
+            - paragraph [ref=e21]: Get CLEAR Plus
+  - main [ref=e24]:
+    - generic [ref=e25]:
+      - generic [ref=e27]:
+        - heading "Innovate With Us" [level=1] [ref=e28]
+        - paragraph [ref=e29]: We’re always looking for new ways to power frictionless living—and more doers to help us get there.
+        - link "See Open Roles" [ref=e32] [cursor=pointer]:
+          - /url: "#openrole"
+      - main [ref=e34]:
+        - generic [ref=e36]:
+          - heading "Our Core Values" [level=2] [ref=e37]
+          - generic [ref=e38]: Whether we’re developing new solutions, forming new partnerships, or collaborating with teams across the world, our values keep us grounded and inspire us to give our all, every day.
+          - generic [ref=e39]:
+            - generic [ref=e40]:
+              - img "star icon" [ref=e41]
+              - generic [ref=e42]: Be Indefatigable
+              - generic [ref=e43]: We believe in tireless persistence. We view each “no” as one step closer to “yes." We are gritty, relentless, and scrappy—and we win.
+            - generic [ref=e44]:
+              - img "entertainment icon" [ref=e45]
+              - generic [ref=e46]: Bias for Action
+              - generic [ref=e47]: We use data to make calculated decisions and move forward quickly, because making no decision is worse than making the wrong one. We have confidence in our judgment and learn from our mistakes.
+            - generic [ref=e48]:
+              - img "mountains icon" [ref=e49]
+              - generic [ref=e50]: Embrace Change
+              - generic [ref=e51]: Change is essential to growth. We pivot to overcome roadblocks and evolve, and we are transparent about the decisions we make.
+            - generic [ref=e52]:
+              - img "profile icon" [ref=e53]
+              - generic [ref=e54]: Obsessed with the Customer Experience
+              - generic [ref=e55]: At CLEAR, we all report directly to the customer. We aim to surprise and delight, building trust in our brand with every experience. This extends to our mission-critical focus on the safety and security of our customers and their data.
+            - generic [ref=e56]:
+              - img "people icon" [ref=e57]
+              - generic [ref=e58]: Speak Up
+              - generic [ref=e59]: We believe in fearlessly challenging and embracing the brutal truth. We are always honest with our customers, our teammates, and ourselves.
+            - generic [ref=e60]:
+              - img "idea icon" [ref=e61]
+              - generic [ref=e62]: Our Great People
+              - generic [ref=e63]: We care about our great people. We constantly seek out talent that is smarter than we are, and we never settle. We are committed to developing our team and we encourage great people to move throughout the organization.
+            - generic [ref=e64]:
+              - img "idea icon" [ref=e65]
+              - generic [ref=e66]: Own It
+              - generic [ref=e67]: CLEAR is an organization of doers. We love solving problems, even if they aren’t “ours to solve," and we commit to seeing them all the way through.
+        - generic [ref=e69]:
+          - heading "Explore Open Roles" [level=2] [ref=e71]
+          - generic [ref=e72]:
+            - tablist [ref=e73]:
+              - tab "Corporate" [active] [selected] [ref=e74] [cursor=pointer]:
+                - generic [ref=e76]: Corporate
+              - tab "airports & arenas leadership" [ref=e78] [cursor=pointer]:
+                - generic [ref=e80]: airports & arenas leadership
+              - tab
+              - link "Airports & Arenas" [ref=e83] [cursor=pointer]:
+                - /url: https://web.fountain.com/c/clear/clear/US?
+            - tabpanel "Corporate" [ref=e85]:
+              - generic [ref=e86]:
+                - img [ref=e89]
+                - form "Email Form" [ref=e110]:
+                  - combobox "careers filter" [ref=e111]:
+                    - option "All Teams" [selected]
+        - main [ref=e112]:
+          - generic [ref=e113]:
+            - generic:
+              - button "Pause video":
+                - generic:
+                  - img "Pause video"
+            - generic [ref=e115]:
+              - 'heading "CLEAR: Innovate With Us (We''re Hiring)" [level=2] [ref=e116]'
+              - link "open lightbox" [ref=e117] [cursor=pointer]:
+                - /url: "#"
+                - heading "Watch full video (0:57)" [level=5] [ref=e119]
+        - generic [ref=e121]:
+          - heading "Let's Connect" [level=2] [ref=e123]
+          - generic [ref=e124]:
+            - paragraph [ref=e127]: Not seeing the right role for your skills and expertise? Send us your resume to be considered for future opportunities at CLEAR.
+            - link "Learn More" [ref=e130] [cursor=pointer]:
+              - /url: https://boards.greenhouse.io/clear/jobs/1375088
+  - generic [ref=e133]:
+    - generic [ref=e134]:
+      - generic [ref=e136]:
+        - list [ref=e137]:
+          - listitem [ref=e138]:
+            - link "instagram social icon" [ref=e139] [cursor=pointer]:
+              - /url: https://www.instagram.com/clear/
+              - img [ref=e141]
+          - listitem [ref=e143]:
+            - link "facebook social icon" [ref=e144] [cursor=pointer]:
+              - /url: https://www.facebook.com/Clearme/
+              - img [ref=e146]
+          - listitem [ref=e148]:
+            - link "twitter social icon" [ref=e149] [cursor=pointer]:
+              - /url: https://twitter.com/clear
+              - img [ref=e151]
+          - listitem [ref=e153]:
+            - link "linkedIn social icon" [ref=e154] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/clear-by-alclear-llc/
+              - img [ref=e156]
+        - generic [ref=e159]:
+          - link "Get It On Google Play" [ref=e160] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.clearme.clearapp&hl=en&pli=1
+            - generic [ref=e161]: Get It On Google Play
+          - link "Download on the app store" [ref=e162] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/app/clear-fast-touchless-access/id1436333504
+            - generic [ref=e163]: Download on the app store
+            - img [ref=e165]
+      - generic [ref=e168]:
+        - generic [ref=e169]:
+          - link "For You" [ref=e171] [cursor=pointer]:
+            - /url: /clear-plus
+          - generic [ref=e172]:
+            - paragraph [ref=e175] [cursor=pointer]:
+              - link "CLEAR+" [ref=e176]:
+                - /url: /clear-plus
+            - paragraph [ref=e179] [cursor=pointer]:
+              - link "TSA PreCheck®" [ref=e180]:
+                - /url: /tsa-precheck
+                - text: TSA PreCheck
+                - superscript [ref=e181]: ®
+            - paragraph [ref=e184] [cursor=pointer]:
+              - link "CLEAR Concierge" [ref=e185]:
+                - /url: /clear-concierge
+            - paragraph [ref=e188] [cursor=pointer]:
+              - link "CLEAR App" [ref=e189]:
+                - /url: /clear-mobile-app
+            - paragraph [ref=e192] [cursor=pointer]:
+              - link "CLEAR Perks" [ref=e193]:
+                - /url: /perks
+            - paragraph [ref=e196] [cursor=pointer]:
+              - link "CLEAR ID" [ref=e197]:
+                - /url: /clear-id
+            - paragraph [ref=e200] [cursor=pointer]:
+              - link "CLEAR Mobile" [ref=e201]:
+                - /url: /clear-mobile
+            - paragraph [ref=e204] [cursor=pointer]:
+              - link "Sports" [ref=e205]:
+                - /url: /sports
+            - paragraph [ref=e208] [cursor=pointer]:
+              - link "Where to Use CLEAR" [ref=e209]:
+                - /url: /where-to-use-clear
+            - paragraph [ref=e212] [cursor=pointer]:
+              - link "Support & FAQs" [ref=e213]:
+                - /url: /support
+            - paragraph [ref=e216] [cursor=pointer]:
+              - link "Gift Cards" [ref=e217]:
+                - /url: https://clearme.egifter.com/
+        - generic [ref=e218]:
+          - link "Who We Are" [ref=e220] [cursor=pointer]:
+            - /url: /who-we-are
+          - generic [ref=e221]:
+            - paragraph [ref=e224] [cursor=pointer]:
+              - link "Careers" [ref=e225]:
+                - /url: /careers
+            - paragraph [ref=e228] [cursor=pointer]:
+              - link "Privacy Commitment" [ref=e229]:
+                - /url: /privacy-commitment
+            - generic [ref=e230] [cursor=pointer]:
+              - paragraph [ref=e232]:
+                - link "Investor Relations" [ref=e233]:
+                  - /url: https://ir.clearme.com/
+              - img "External Link Icon" [ref=e234]
+            - generic [ref=e235] [cursor=pointer]:
+              - paragraph [ref=e237]:
+                - link "Newsroom" [ref=e238]:
+                  - /url: https://ir.clearme.com/news-events/press-releases
+              - img "External Link Icon" [ref=e239]
+            - paragraph [ref=e242] [cursor=pointer]:
+              - link "Blog" [ref=e243]:
+                - /url: /blog
+        - generic [ref=e244]:
+          - link "Featured Partners" [ref=e246] [cursor=pointer]:
+            - /url: /clear-plus
+          - generic [ref=e247]:
+            - paragraph [ref=e250] [cursor=pointer]:
+              - link "LinkedIn" [ref=e251]:
+                - /url: /partner-detail-pages/linkedin
+            - paragraph [ref=e254] [cursor=pointer]:
+              - link "Delta Air Lines" [ref=e255]:
+                - /url: /partner-detail-pages/delta-air-lines
+            - paragraph [ref=e258] [cursor=pointer]:
+              - link "United Airlines" [ref=e259]:
+                - /url: /partner-detail-pages/united-airlines
+            - paragraph [ref=e262] [cursor=pointer]:
+              - link "Atmos Rewards" [ref=e263]:
+                - /url: /partner-detail-pages/alaska-hawaiian-atmos-rewards
+            - paragraph [ref=e266] [cursor=pointer]:
+              - link "medicare" [ref=e267]:
+                - /url: /partner-detail-pages/medicare
+            - paragraph [ref=e270] [cursor=pointer]:
+              - link "Avis" [ref=e271]:
+                - /url: /partner-detail-pages/avis
+        - generic [ref=e272]:
+          - link "CLEAR Perks" [ref=e274] [cursor=pointer]:
+            - /url: /perks
+          - generic [ref=e275]:
+            - paragraph [ref=e278] [cursor=pointer]:
+              - link "Travel Planning" [ref=e279]:
+                - /url: https://www.clearme.com/perks?perks-categories=travel-planning#perks-module
+            - paragraph [ref=e282] [cursor=pointer]:
+              - link "Airport Essentials" [ref=e283]:
+                - /url: https://www.clearme.com/perks?perks-categories=airport-essentials#perks-module
+            - paragraph [ref=e286] [cursor=pointer]:
+              - link "Luggage" [ref=e287]:
+                - /url: https://www.clearme.com/perks?perks-categories=luggage#perks-module
+            - paragraph [ref=e290] [cursor=pointer]:
+              - link "Experiences" [ref=e291]:
+                - /url: https://www.clearme.com/perks?perks-categories=experiences#perks-module
+            - paragraph [ref=e294] [cursor=pointer]:
+              - link "Wellness" [ref=e295]:
+                - /url: https://www.clearme.com/perks?perks-categories=wellness#perks-module
+      - generic [ref=e296]:
+        - generic [ref=e297]: Identity For Your Business
+        - generic [ref=e298]: Maximize security and minimize friction with CLEAR1—the new standard in identity.
+        - link "Learn More External Link Icon" [ref=e300] [cursor=pointer]:
+          - /url: https://identity.clearme.com?utm_source=website&utm_medium=clearme&utm_campaign=footer
+          - generic [ref=e301]:
+            - generic [ref=e302]: Learn More
+            - img "External Link Icon" [ref=e303]
+    - generic [ref=e305]:
+      - generic [ref=e306]:
+        - paragraph [ref=e309] [cursor=pointer]:
+          - link "Member Terms" [ref=e310]:
+            - /url: /member-terms
+        - paragraph [ref=e313] [cursor=pointer]:
+          - link "Your Privacy Choices" [ref=e314]:
+            - /url: https://my.clearme.com/v3/privacy/data-opt-out
+        - paragraph [ref=e317] [cursor=pointer]:
+          - link "Privacy Policy" [ref=e318]:
+            - /url: /privacy-policy
+        - paragraph [ref=e321] [cursor=pointer]:
+          - link "Credential Policies" [ref=e322]:
+            - /url: /clear1-credentialing-practice-statement-crps
+        - paragraph [ref=e325] [cursor=pointer]:
+          - link "WA Privacy Policy" [ref=e326]:
+            - /url: /washington-consumer-health-data-privacy-policy
+        - paragraph [ref=e329] [cursor=pointer]:
+          - link "Community Standards" [ref=e330]:
+            - /url: /community-standards
+        - paragraph [ref=e333] [cursor=pointer]:
+          - link "CLEAR Mobile Terms" [ref=e334]:
+            - /url: /clear-mobile-terms
+        - paragraph [ref=e337] [cursor=pointer]:
+          - link "Cookie Usage" [ref=e338]:
+            - /url: /cookies
+        - paragraph [ref=e341] [cursor=pointer]:
+          - link "Terms of Use" [ref=e342]:
+            - /url: /terms-of-use
+      - generic [ref=e344]: ©2026 Secure Identity, LLC. All Rights Reserved.

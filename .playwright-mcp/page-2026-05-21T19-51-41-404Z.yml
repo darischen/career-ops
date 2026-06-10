@@ -1,0 +1,65 @@
+- generic [active] [ref=e1]:
+  - dialog "cookieconsent" [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: 🍪
+      - heading "Privacy Notice" [level=4] [ref=e6]
+      - paragraph [ref=e7]: This website uses cookies to improve your web experience. By using the site, you agree to the use of cookies.
+      - button "Dismiss" [ref=e9] [cursor=pointer]
+  - link "Hive logo" [ref=e12] [cursor=pointer]:
+    - /url: https://thehive.ai/careers
+    - img "Hive logo" [ref=e13]
+  - generic [ref=e15]:
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - heading "Machine Learning Engineer" [level=2] [ref=e19]
+        - generic [ref=e20]:
+          - generic [ref=e21]: San Francisco
+          - generic [ref=e22]: Hive – Product & Engineering /
+          - generic [ref=e23]: Full-time /
+      - link "apply for this job" [ref=e25] [cursor=pointer]:
+        - /url: https://jobs.lever.co/hive/fb175ecc-b6ba-4242-a84a-8699f9b0e971/apply
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - generic [ref=e28]: About Hive
+        - generic [ref=e30]: Hive is the leading provider of cloud-based AI solutions to understand, search, and generate content, and is trusted by hundreds of the world's largest and most innovative organizations. The company empowers developers with a portfolio of best-in-class, pre-trained AI models, serving billions of customer API requests every month. Hive also offers turnkey software applications powered by proprietary AI models and datasets, enabling breakthrough use cases across industries. Together, Hive’s solutions are transforming content moderation, brand protection, sponsorship measurement, context-based ad targeting, and more.
+        - generic [ref=e32]: Hive has raised over $120M in capital from leading investors, including General Catalyst, 8VC, Glynn Capital, Bain & Company, Visa Ventures, and others. We have over 250 employees globally in our San Francisco, Seattle, and Delhi offices. Please reach out if you are interested in joining the future of AI!
+        - generic [ref=e34]: Machine Learning Role
+        - generic [ref=e36]: In order to execute our vision, we need to grow our team of best-in-class machine learning engineers. We are looking for developers who are excited about staying at the forefront of deep learning technology, prototyping state-of-the-art neural net models and launching these models into production. We value hard workers who have no qualms working with terabyte-scale datasets, who are interested in learning new technologies at all levels of the machine learning stack, and who move fast and take ownership of their projects. Our ideal candidate has experience creating a working machine learning-powered project from the ground up, contributes innovative ideas and ingenious implementations to the team, and is capable of planning out scalable, maintainable data pipelines.
+      - generic [ref=e38]:
+        - heading "Responsibilities" [level=3] [ref=e39]
+        - list [ref=e42]:
+          - listitem [ref=e43]: Everything involved in applying a ML model to a production use case, including, designing and coding up the neural network, gathering and refining data, training and tuning the model, deploying it at scale with high throughput and uptime, and analyzing the results in the wild in order to continuously update and improve accuracy and speed
+          - listitem [ref=e44]: Interface closely with the Backend and DevOps teams as well as with our internal data labeling services
+          - listitem [ref=e45]: Utilize OWASP top 10 techniques to secure code from vulnerabilities
+          - listitem [ref=e46]: Maintain awareness of industry best practices for data maintenance handling as it relates to your role
+          - listitem [ref=e47]: Adhere to policies, guidelines and procedures pertaining to the protection of information assets
+          - listitem [ref=e48]: Report actual or suspected security and/or policy violations/breaches to an appropriate authority
+      - generic [ref=e50]:
+        - heading "Requirements" [level=3] [ref=e51]
+        - list [ref=e54]:
+          - listitem [ref=e55]: You have an undergraduate or graduate degree in computer science or similar technical field, with significant coursework in mathematics or statistics
+          - listitem [ref=e56]: You have 1-2 years industry machine learning experience
+          - listitem [ref=e57]: You have successfully trained and deployed a deep learning machine model (image, NLP, video, or audio) into production, with measurably improved performance over baseline, either in industry or as a personal project
+          - listitem [ref=e58]: You have strong experience with a high-level machine learning frameworks such as Tensorflow, Caffe, or Torch, and familiarity with the others
+          - listitem [ref=e59]: You know the ins and outs of Python, especially as it applies to the above ML frameworks
+          - listitem [ref=e60]: You are capable of quickly coding and prototyping data pipelines involving any combination of Python, Node, bash, and linux command-line tools, especially when applied to large datasets consisting of millions of files
+          - listitem [ref=e61]: "You have a working knowledge of the following technologies, or are not afraid of picking it up on the fly: C++, Scala/Spark, SQL, Cassandra, Docker"
+          - listitem [ref=e62]: You are up-to-date on the latest deep neural net research and architectures, both in understanding the theory and motivations behind the techniques, as well as how to implement them in the ML framework of your choice
+          - listitem [ref=e63]: You have great communication skills and ability to work with others
+          - listitem [ref=e64]: You are a strong team player, with a do-whatever-it-takes attitude
+      - generic [ref=e65]:
+        - generic [ref=e66]: Who We Are
+        - generic [ref=e68]: We are a group of ambitious individuals who are passionate about creating a revolutionary AI company. At Hive, you will have a steep learning curve and an opportunity to contribute to one of the fastest growing AI start-ups in San Francisco. The work you do here will have a noticeable and direct impact on the development of the company.
+        - generic [ref=e70]: Thank you for your interest in Hive and we hope to meet you soon!
+        - generic [ref=e72]: The current expected base salary for this position ranges from $120,000 - $180,000. Actual compensation may vary depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the total compensation package that is provided to compensate and recognize employees for their work; stock options may be offered in addition to the range provided here.
+      - generic [ref=e74]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e76] [cursor=pointer]:
+        - /url: https://jobs.lever.co/hive/fb175ecc-b6ba-4242-a84a-8699f9b0e971/apply
+  - generic [ref=e78]:
+    - paragraph [ref=e79]:
+      - link "Hive Home Page" [ref=e80] [cursor=pointer]:
+        - /url: http://thehive.ai/
+    - link "Jobs powered by Lever logo" [ref=e81] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e82]: Jobs powered by
+      - img "Lever logo" [ref=e83]

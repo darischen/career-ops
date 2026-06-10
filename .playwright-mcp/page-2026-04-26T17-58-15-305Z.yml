@@ -1,0 +1,14 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - img [ref=e6]
+    - paragraph [ref=e8]: The job you are looking for is no longer open.
+  - main [ref=e9]:
+    - generic [ref=e10]:
+      - heading "Current openings at Asana Early Career Programs" [level=1] [ref=e11]
+      - paragraph [ref=e16]: There are no current openings.
+  - contentinfo [ref=e17]:
+    - generic [ref=e18]:
+      - paragraph [ref=e19]: Powered by
+      - link "Greenhouse logo" [ref=e20] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e21]

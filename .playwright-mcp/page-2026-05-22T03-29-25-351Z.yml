@@ -1,0 +1,1287 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e6]:
+      - heading "Stripe logo Jobs" [level=1] [ref=e7]:
+        - link "Stripe logo" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img "Stripe logo" [ref=e9]
+        - link "Jobs" [ref=e11] [cursor=pointer]:
+          - /url: /jobs
+      - navigation [ref=e12]:
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - link "Our opportunity" [ref=e15] [cursor=pointer]:
+              - /url: /jobs
+          - listitem [ref=e16]:
+            - link "Life at Stripe" [ref=e17] [cursor=pointer]:
+              - /url: /jobs/life-at-stripe
+          - listitem [ref=e18]:
+            - link "Benefits" [ref=e19] [cursor=pointer]:
+              - /url: /jobs/benefits
+          - listitem [ref=e20]:
+            - link "University" [ref=e21] [cursor=pointer]:
+              - /url: /jobs/university
+      - navigation [ref=e22]:
+        - link "See open roles" [ref=e23] [cursor=pointer]:
+          - /url: /jobs/search
+          - text: See open roles
+          - img [ref=e25]
+  - generic [ref=e40]:
+    - generic [ref=e42]:
+      - heading "Our customers are building the future" [level=1] [ref=e44]
+      - paragraph [ref=e46]: Stripe builds financial infrastructure that ambitious companies use to launch their boldest products. Our customers range from hours-old startups to complex global businesses. Collectively, they are growing the GDP of the internet. You can help.
+      - link "See open roles" [ref=e49] [cursor=pointer]:
+        - /url: /jobs/search
+        - text: See open roles
+        - img [ref=e51]
+    - generic [ref=e62]:
+      - heading "Hear from our leadership" [level=1] [ref=e63]
+      - generic [ref=e64] [cursor=pointer]:
+        - text: Watch video
+        - img [ref=e66]
+      - list [ref=e69]:
+        - listitem [ref=e70]:
+          - img "John Collison" [ref=e72]
+        - listitem [ref=e73]:
+          - img "Patrick Collison" [ref=e75]
+        - listitem [ref=e76]:
+          - img "Claire Hughes Johnson" [ref=e78]
+  - generic [ref=e90]:
+    - generic [ref=e91]:
+      - generic [ref=e92]:
+        - heading "Impact" [level=2] [ref=e93]
+        - heading "Who do you want to serve in your career?" [level=1] [ref=e94]
+      - generic [ref=e96]:
+        - paragraph [ref=e100]: Our customers operate in almost every industry and country. They feed communities, provide healthcare, and help people get around. They run shops, gyms, churches, and they build tools for helping others run them too. They’re selling from their front rooms, and managing global enterprises. And they rely on the infrastructure we build.
+        - paragraph [ref=e104]: Businesses on Stripe generated $1.4 trillion in total payment volume in 2024, up 38% from the prior year, and reaching a scale equivalent to around 1.3% of global GDP.
+    - generic [ref=e106]:
+      - generic [ref=e108]:
+        - heading "What matters to us is what we enable for others" [level=1] [ref=e110]
+        - paragraph [ref=e112]:
+          - text: We focus on the details of everything we do, so
+          - link "businesses around the world" [ref=e113] [cursor=pointer]:
+            - /url: https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top
+          - text: can focus on what’s most important to them. So Ford can focus on
+          - link "building a global digital dealership" [ref=e114] [cursor=pointer]:
+            - /url: https://www.cnbc.com/2022/01/17/ford-signs-five-year-payments-deal-with-stripe-for-e-commerce-drive.html
+          - text: ", rather than processing payments. So Le Monde can"
+          - link "expand its digital offering globally" [ref=e115] [cursor=pointer]:
+            - /url: https://www.pymnts.com/digital-payments/2022/french-newspaper-le-monde-hires-stripe-to-expand-subscriptions-globally/
+          - text: ", not reinvent subscription billing. So truckers can focus on getting"
+          - link "supply chains moving" [ref=e116] [cursor=pointer]:
+            - /url: https://www.pymnts.com/transportation/2022/stripe-sees-surge-in-platforms-and-digital-payments-aimed-at-truckers-productivity-problems/
+          - text: ", not invoicing paper trails. We take pride in freeing up others to work in the spotlight."
+        - link "See open roles" [ref=e118] [cursor=pointer]:
+          - /url: /jobs/search
+          - text: See open roles
+          - img [ref=e120]
+      - generic [ref=e125]:
+        - generic [ref=e126]:
+          - generic [ref=e130]:
+            - generic [ref=e131]:
+              - img [ref=e133]
+              - text: 14 min read
+            - heading "The Collison Brothers Built Stripe Into A $95 Billion Unicorn With Eye-Popping Financials" [level=1] [ref=e135]:
+              - link "The Collison Brothers Built Stripe Into A $95 Billion Unicorn With Eye-Popping Financials" [ref=e136] [cursor=pointer]:
+                - /url: https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top
+            - link "Read on forbes.com" [ref=e137] [cursor=pointer]:
+              - /url: https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top
+              - text: Read on forbes.com
+              - img [ref=e139]
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - text: 2 min read
+              - heading "Ford signs five-year payments deal with Stripe for e-commerce drive" [level=1]:
+                - link "Ford signs five-year payments deal with Stripe for e-commerce drive":
+                  - /url: https://www.cnbc.com/2022/01/17/ford-signs-five-year-payments-deal-with-stripe-for-e-commerce-drive.html
+              - link "Read on cnbc.com":
+                - /url: https://www.cnbc.com/2022/01/17/ford-signs-five-year-payments-deal-with-stripe-for-e-commerce-drive.html
+                - text: Read on cnbc.com
+                - generic:
+                  - img
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - text: 2 min read
+              - heading "French Newspaper Le Monde Teams With Stripe to Expand Subscriptions Globally" [level=1]:
+                - link "French Newspaper Le Monde Teams With Stripe to Expand Subscriptions Globally":
+                  - /url: https://www.pymnts.com/digital-payments/2022/french-newspaper-le-monde-hires-stripe-to-expand-subscriptions-globally/
+              - link "Read on pymnts.com":
+                - /url: https://www.pymnts.com/digital-payments/2022/french-newspaper-le-monde-hires-stripe-to-expand-subscriptions-globally/
+                - text: Read on pymnts.com
+                - generic:
+                  - img
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - text: 3 min read
+              - heading "Digital Payments Underscore Trucking’s Makeover" [level=1]:
+                - link "Digital Payments Underscore Trucking’s Makeover":
+                  - /url: https://www.pymnts.com/news/regulation/2022/platforms-brands-targeted-in-uk-clampdown-on-hidden-advertising/
+              - link "Read on pymnts.com":
+                - /url: https://www.pymnts.com/news/regulation/2022/platforms-brands-targeted-in-uk-clampdown-on-hidden-advertising/
+                - text: Read on pymnts.com
+                - generic:
+                  - img
+        - navigation [ref=e142]:
+          - list [ref=e143]:
+            - listitem [ref=e144]:
+              - button [disabled]
+            - listitem [ref=e145]:
+              - button [ref=e146] [cursor=pointer]
+            - listitem [ref=e147]:
+              - button [ref=e148] [cursor=pointer]
+            - listitem [ref=e149]:
+              - button [ref=e150] [cursor=pointer]
+  - generic [ref=e161]:
+    - generic [ref=e162]:
+      - generic [ref=e163]:
+        - heading "Challenges" [level=2] [ref=e164]
+        - heading "Nothing worth doing is easy" [level=1] [ref=e165]
+      - paragraph [ref=e167]: The leaders in any field make their success look easy. But beneath the surface they’re in constant motion, critiquing their own performance, setting new goals, and continually reevaluating the most basic assumptions about how they approach their work. We’re still in the early stages of our growth and many of our biggest challenges lie ahead. You might think that Stripe has things figured out. While we’re proud of what we’ve built so far, we spend our time thinking about everything we haven’t done yet.
+    - generic [ref=e169]:
+      - generic [ref=e171]:
+        - heading "We have to be extremely selective in what we do" [level=1] [ref=e173]
+        - paragraph [ref=e175]:
+          - text: "Planning means sacrifice: we have great ambitions but limited resources over short time horizons. We are happy that we can support more than 50"
+          - link "payment methods" [ref=e176] [cursor=pointer]:
+            - /url: https://stripe.com/payments/payment-methods-guide
+          - text: (and accelerate rollout of new ones), incorporate more than
+          - link "20,000 startups" [ref=e177] [cursor=pointer]:
+            - /url: /blog/atlas-first-five-years
+          - text: ", and galvanize"
+          - link "responses to climate change" [ref=e178] [cursor=pointer]:
+            - /url: https://www.fastcompany.com/90719976/stripe-climate-innovative-carbon-removal
+          - text: . But every quarter there are many important projects we want to undertake, but can’t.
+      - generic [ref=e181]:
+        - generic [ref=e182]:
+          - generic [ref=e186]:
+            - generic [ref=e187]:
+              - img [ref=e189]
+              - text: 20 min read
+            - heading "A guide to payment methods" [level=1] [ref=e191]:
+              - link "A guide to payment methods" [ref=e192] [cursor=pointer]:
+                - /url: https://stripe.com/payments/payment-methods-guide
+            - link "Read on stripe.com" [ref=e193] [cursor=pointer]:
+              - /url: https://stripe.com/payments/payment-methods-guide
+              - text: Read on stripe.com
+              - img [ref=e195]
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - text: 3 min read
+              - 'heading "Stripe Atlas: the first five years and 20,000 startups" [level=1]':
+                - 'link "Stripe Atlas: the first five years and 20,000 startups"':
+                  - /url: https://stripe.com/blog/atlas-first-five-years
+              - link "Read on stripe.com/blog":
+                - /url: https://stripe.com/blog/atlas-first-five-years
+                - text: Read on stripe.com/blog
+                - generic:
+                  - img
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - text: 2 min read
+              - heading "Stripe is paying companies to pull carbon out of the atmosphere" [level=1]:
+                - link "Stripe is paying companies to pull carbon out of the atmosphere":
+                  - /url: https://www.fastcompany.com/90719976/stripe-climate-innovative-carbon-removal
+              - link "Read on fastcompany.com":
+                - /url: https://www.fastcompany.com/90719976/stripe-climate-innovative-carbon-removal
+                - text: Read on fastcompany.com
+                - generic:
+                  - img
+        - navigation [ref=e198]:
+          - list [ref=e199]:
+            - listitem [ref=e200]:
+              - button [disabled]
+            - listitem [ref=e201]:
+              - button [ref=e202] [cursor=pointer]
+            - listitem [ref=e203]:
+              - button [ref=e204] [cursor=pointer]
+    - generic [ref=e206]:
+      - generic [ref=e208]:
+        - heading "Growth requires reinventing our technology" [level=1] [ref=e210]
+        - paragraph [ref=e212]:
+          - text: The stack that got us here won’t get us there. We are
+          - link "constantly retooling" [ref=e213] [cursor=pointer]:
+            - /url: /blog/migrating-to-typescript
+          - text: to keep more than 8,000 Stripes productive, stay resilient to risks, and provide
+          - link "category-leading products" [ref=e214] [cursor=pointer]:
+            - /url: /lp/forrester-wave-2024
+          - text: at payment volumes higher on any given day than they used to be over an entire year.
+      - generic [ref=e217]:
+        - generic [ref=e218]:
+          - generic [ref=e222]:
+            - generic [ref=e223]:
+              - img [ref=e225]
+              - text: 5 min read
+            - heading "Migrating millions of lines of code to TypeScript" [level=1] [ref=e227]:
+              - link "Migrating millions of lines of code to TypeScript" [ref=e228] [cursor=pointer]:
+                - /url: /blog/migrating-to-typescript
+            - link "Read on stripe.com/blog" [ref=e229] [cursor=pointer]:
+              - /url: /blog/migrating-to-typescript
+              - text: Read on stripe.com/blog
+              - img [ref=e231]
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - text: 2 min read
+              - heading "Stripe received top scores in more criteria than any other vendor evaluated in The Forrester Wave™" [level=1]:
+                - link "Stripe received top scores in more criteria than any other vendor evaluated in The Forrester Wave™":
+                  - /url: /lp/forrester-wave-2024
+              - link "Read on the report":
+                - /url: /lp/forrester-wave-2024
+                - text: Read on the report
+                - generic:
+                  - img
+        - navigation [ref=e234]:
+          - list [ref=e235]:
+            - listitem [ref=e236]:
+              - button [disabled]
+            - listitem [ref=e237]:
+              - button [ref=e238] [cursor=pointer]
+    - generic [ref=e239]:
+      - generic [ref=e241]:
+        - heading "We know we need to know more" [level=1] [ref=e243]
+        - paragraph [ref=e245]: Every project exposes us to challenges that are beyond our current capabilities. This motivates us to bring in people like you—people who have knowledge and experiences we don’t, and who can quickly bring their talents to bear on hard problems. Stripe is not a pay-your-dues culture; we will train you quickly and then give you substantial responsibility. We often have surprisingly small teams accomplish strikingly important work.
+      - generic [ref=e247]:
+        - img [ref=e253]
+        - blockquote [ref=e255]:
+          - paragraph [ref=e256]: The pace of change and velocity of the product force you to pick up new skills, experiment with new tactics, and walk in a variety of users’ shoes.
+          - generic [ref=e257]: Krithika Muthukumar, Marketing
+    - generic [ref=e259]:
+      - generic [ref=e261]:
+        - heading "We need to balance speed with meticulousness" [level=1] [ref=e263]
+        - paragraph [ref=e265]:
+          - text: We have to be able to build things quickly to support the fastest growing startups and
+          - link "platforms" [ref=e266] [cursor=pointer]:
+            - /url: https://stratechery.com/2020/stripe-platform-of-platforms/
+          - text: in the world, while also being reliable, trustworthy, and sometimes profoundly boring. We need to get projects done today, while building infrastructure that the internet will rely upon
+          - link "for decades" [ref=e267] [cursor=pointer]:
+            - /url: https://www.readthegeneralist.com/briefing/stripe
+          - text: . We also need to balance an intense work environment against the need to support
+          - link "fulfilling and sustainable" [ref=e268] [cursor=pointer]:
+            - /url: https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/
+          - text: careers.
+      - generic [ref=e271]:
+        - generic [ref=e272]:
+          - generic [ref=e276]:
+            - generic [ref=e277]:
+              - img [ref=e279]
+              - text: 9 min read
+            - 'heading "Stripe: Platform of Platforms" [level=1] [ref=e281]':
+              - 'link "Stripe: Platform of Platforms" [ref=e282] [cursor=pointer]':
+                - /url: https://stratechery.com/2020/stripe-platform-of-platforms/
+            - link "Read on stratechery.com" [ref=e283] [cursor=pointer]:
+              - /url: https://stratechery.com/2020/stripe-platform-of-platforms/
+              - text: Read on stratechery.com
+              - img [ref=e285]
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - text: 10 min read
+              - 'heading "Stripe: Thinking Like a Civilization" [level=1]':
+                - 'link "Stripe: Thinking Like a Civilization"':
+                  - /url: https://www.readthegeneralist.com/briefing/stripe
+              - link "Read on readthegeneralist.com":
+                - /url: https://www.readthegeneralist.com/briefing/stripe
+                - text: Read on readthegeneralist.com
+                - generic:
+                  - img
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - text: 10 min read
+              - heading "What Working At Stripe Has Been Like" [level=1]:
+                - link "What Working At Stripe Has Been Like":
+                  - /url: https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/
+              - link "Read on kalzumeus.com":
+                - /url: https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/
+                - text: Read on kalzumeus.com
+                - generic:
+                  - img
+        - navigation [ref=e288]:
+          - list [ref=e289]:
+            - listitem [ref=e290]:
+              - button [disabled]
+            - listitem [ref=e291]:
+              - button [ref=e292] [cursor=pointer]
+            - listitem [ref=e293]:
+              - button [ref=e294] [cursor=pointer]
+  - generic [ref=e309]:
+    - generic [ref=e310]:
+      - heading "Experience" [level=2] [ref=e311]
+      - heading "The right people don’t always think they’re right" [level=1] [ref=e312]
+    - generic [ref=e314]:
+      - generic [ref=e317]:
+        - paragraph [ref=e318]: Successful Stripes are rigorous thinkers who appreciate that things worth doing are rarely simple. We want people who are not afraid to be wrong, who can enthusiastically back proposals they initially opposed, and who know how to support decisions with numbers and narrative. We operate in situations of substantial uncertainty and cannot afford either timidity or recklessness.
+        - paragraph [ref=e319]:
+          - text: The global financial system can seem like a
+          - link "mystifying domain" [ref=e320] [cursor=pointer]:
+            - /url: https://jvns.ca/blog/so-you-want-to-be-a-wizard/
+          - text: . It is not. It is composed of people and computers, just like many other systems you’ve worked on. Most Stripes don’t have a background in finance, and they’ve thrived here because they bring fresh perspectives. We want generalists capable of parachuting anywhere into our operations, learning about a field they have never touched before, and executing competently in areas far outside their formal remit.
+      - generic [ref=e323]:
+        - paragraph [ref=e324]: We also want specialists who are already experts and want to spend several years advancing the state of the art in their fields.
+        - paragraph [ref=e325]: We know that we cannot be successful without nurturing the careers of both generalists and the experts. People who thrive in high-conflict work environments often do not enjoy the experience here. We try to embrace kindness while still encouraging Stripes to take measured risks and act boldly, even in the absence of consensus.
+  - generic [ref=e333]:
+    - generic [ref=e334]:
+      - generic [ref=e335]:
+        - heading "Worldview" [level=2] [ref=e336]
+        - heading "Working for the world, across the world" [level=1] [ref=e337]
+      - paragraph [ref=e339]: Stripe is a team, not a place. We have two headquarters (San Francisco and Dublin), but we belong to the internet. We speak more than 30 languages with our customers and even more with our families.
+    - generic [ref=e340]:
+      - generic [ref=e342]:
+        - heading "Where we are" [level=1] [ref=e344]
+        - paragraph [ref=e346]:
+          - text: More than 8,000 Stripes build products and support our users from offices in Amsterdam, Bangalore, Barcelona, Berlin, Chicago, Dubai, Dublin, Hyderabad, London, Melbourne, Mexico City, New York, Paris, Prague, São Paulo, San Francisco, Singapore, Stockholm, Sydney, Tallinn, Tokyo, Toronto, Warsaw, and Zurich—as well as all the homes and coworking spaces of our
+          - link "remote colleagues" [ref=e347] [cursor=pointer]:
+            - /url: /blog/remote-hub
+          - text: .
+      - figure [ref=e349]
+    - generic [ref=e352]:
+      - figure [ref=e354]
+      - generic [ref=e361]:
+        - heading "Where we need to be" [level=1] [ref=e363]
+        - paragraph [ref=e365]: We aspire to make internet payments as ubiquitous and effortless as email. This isn’t simply a matter of ignoring borders; it also requires respectful dialogue with governments, embracing cultural differences, and building products that work in local contexts. That’s why we try to be physically close to our users, too. We want to share cabs with them in Singapore and buy food together in the darshinis of Bangalore.
+    - generic [ref=e366]:
+      - heading "Where we’re improving" [level=1] [ref=e368]
+      - paragraph [ref=e370]: We are grappling with the challenges of operating at an organizational scale that few tech companies reach. We care about our culture and want to preserve the important parts while evolving to meet the needs of new Stripes and our changing business context.
+    - generic [ref=e371]:
+      - generic [ref=e373]:
+        - heading "StripeSat" [level=1] [ref=e375]
+        - paragraph [ref=e377]: We continuously listen to our employees to understand where Stripe truly excels and listen for opportunities to further enhance the way we work as a company and as individuals.
+      - figure [ref=e379]:
+        - generic [ref=e381]:
+          - heading "Mission" [level=1] [ref=e383]
+          - generic [ref=e384]: I can see the relationship between what I do and the overall mission and priorities of Stripe
+          - img [ref=e386]
+        - generic [ref=e388]:
+          - heading "Team connection" [level=1] [ref=e390]
+          - generic [ref=e391]: I feel connected to my team
+          - img [ref=e393]
+        - generic [ref=e395]:
+          - heading "Belief in Stripe" [level=1] [ref=e397]
+          - generic [ref=e398]: Stripe is in a position to be successful over the next three years
+          - img [ref=e400]
+        - generic [ref=e402]:
+          - heading "Remote enablement" [level=1] [ref=e404]
+          - generic [ref=e405]: My location is not a barrier to my having an impact at Stripe
+          - img [ref=e407]
+        - list [ref=e409]:
+          - listitem [ref=e410]: Favorable
+          - listitem [ref=e411]: Neutral
+          - listitem [ref=e412]: Unfavorable
+  - generic [ref=e423]:
+    - generic [ref=e424]:
+      - generic [ref=e425]:
+        - heading "Community" [level=2] [ref=e426]
+        - heading "Support to do your best work" [level=1] [ref=e427]
+      - paragraph [ref=e429]: "Many companies can offer you attractive benefits and compensation. We offer that plus something a bit rarer: the opportunity to work with speed and agility on a platform that has an impact across the entire internet."
+    - generic [ref=e431]:
+      - generic [ref=e433]:
+        - heading "Training and mentorship" [level=1] [ref=e435]
+        - paragraph [ref=e437]:
+          - text: When you start at Stripe you will go through at least two weeks of in-depth onboarding. We will pair you with experienced team members to show you the ropes. And then you learn by doing. It is common for Stripes to work on things
+          - link "outside their domain" [ref=e438] [cursor=pointer]:
+            - /url: https://www.saastr.com/saastr-podcast-204-claire-hughes-johnson-coo-stripe-2018-top-podcast/
+          - text: of expertise, so we encourage people to regularly attend hands-on classes led by internal and external experts on everything from
+          - link "Learning to Code" [ref=e439] [cursor=pointer]:
+            - /url: /blog/teaching-employees-to-code
+          - text: to Thinking Like a Lawyer.
+      - generic [ref=e442]:
+        - generic [ref=e443]:
+          - generic [ref=e447]:
+            - generic [ref=e448]:
+              - img [ref=e450]
+              - text: 33 min podcast
+            - 'heading "SaaStr Podcast: Claire Hughes Johnson, COO @ Stripe" [level=1] [ref=e457]':
+              - 'link "SaaStr Podcast: Claire Hughes Johnson, COO @ Stripe" [ref=e458] [cursor=pointer]':
+                - /url: https://www.saastr.com/saastr-podcast-204-claire-hughes-johnson-coo-stripe-2018-top-podcast/
+            - link "Listen on saastr.com" [ref=e459] [cursor=pointer]:
+              - /url: https://www.saastr.com/saastr-podcast-204-claire-hughes-johnson-coo-stripe-2018-top-podcast/
+              - text: Listen on saastr.com
+              - img [ref=e461]
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - text: 4 min read
+              - heading "How Stripe teaches employees to code" [level=1]:
+                - link "How Stripe teaches employees to code":
+                  - /url: /blog/teaching-employees-to-code
+              - link "Read on stripe.com/blog":
+                - /url: /blog/teaching-employees-to-code
+                - text: Read on stripe.com/blog
+                - generic:
+                  - img
+        - navigation [ref=e464]:
+          - list [ref=e465]:
+            - listitem [ref=e466]:
+              - button [disabled]
+            - listitem [ref=e467]:
+              - button [ref=e468] [cursor=pointer]
+    - generic [ref=e469]:
+      - figure [ref=e471]:
+        - generic [ref=e472]:
+          - generic:
+            - generic [ref=e473]:
+              - generic [ref=e474]: Q Kuhns, Internal Communications
+              - paragraph [ref=e476]: Before joining the Internal Communications team at Stripe, I headed up a forensic anthropology lab. Stripe is much more lively.
+            - generic [ref=e478]:
+              - generic [ref=e479]: Sarah Heck, New Markets
+              - paragraph [ref=e481]: Before joining the Entrepreneurship team at Stripe, I was responsible for entrepreneurship, youth, and global civilian outreach policy for the National Security Council.
+            - generic [ref=e483]:
+              - generic [ref=e484]: Valerie Williams, Inclusion and Diversity
+              - paragraph [ref=e486]: Before joining the People team at Stripe, I had a career in supply chain management.
+            - generic [ref=e488]:
+              - generic [ref=e489]: Alia Gurtov, Deployment Strategist
+              - paragraph [ref=e491]: Before joining the User Ops team at Stripe and discovering solutions for our users, I worked as a paleoanthropologist and discovered a new hominin species.
+            - generic [ref=e493]:
+              - generic [ref=e494]: Meka Asonye, New Business
+              - paragraph [ref=e496]: Before joining the Startup & SMB Sales team at Stripe, I managed development and operations for a major league baseball team.
+            - generic [ref=e498]:
+              - generic [ref=e499]: Catherine David, Connect Accounts
+              - paragraph [ref=e501]: Prior to joining the Connect Accounts team at Stripe, I worked in a physics lab building a system to do quantum measurement and fast-reset of superconducting qubits.
+            - generic [ref=e503]:
+              - generic [ref=e504]: Joe Moon, Dashboard Platform
+              - paragraph [ref=e506]: Before joining the Dashboard Platform team at Stripe, I served as an Infantry Rifleman in the United States Marine Corps. I served in Iraq and the West Pacific.
+            - generic [ref=e508]:
+              - generic [ref=e509]: Jaclyn Schoof, Payments Infrastructure
+              - paragraph [ref=e511]: Before joining the Payments team at Stripe, I handled crisis intervention in a group home for teenage girls reintegrating from the Juvenile Justice System.
+            - generic [ref=e513]:
+              - generic [ref=e514]: David Edelson, Technical Operations
+              - paragraph [ref=e516]: Before joining the User Ops team at Stripe, I worked my way up from Cashier to maintaining the codebase as Operations Manager at an independent bookstore chain in NYC. I built everything from bookcases to their very own point of sale system.
+            - generic [ref=e518]:
+              - generic [ref=e519]: Eirini Asprouda, Special Handling Specialization
+              - paragraph [ref=e521]: Before joining the User Ops team, I worked as an architect designing things like the masterplan for Chicago as a candidate city for the Olympic Games and pedestrian bridges in Dubai.
+      - generic [ref=e524]:
+        - heading "Heterogenous perspectives" [level=1] [ref=e526]
+        - paragraph [ref=e528]:
+          - text: Stripes come from
+          - link "all sorts" [ref=e529] [cursor=pointer]:
+            - /url: https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%222135371%22%5D
+          - text: of professional backgrounds like engineering, design, operations, consulting, government, finance, healthcare, and education. We strive for humility as individuals and as an organization. We know that we can do great things alone, but even greater things together. We have a transparent internal culture. If you are curious about engineering, running startups, corporate strategy, or the global economy, you’ll have experts to learn from. And they’ll be eager to learn from you.
+    - generic [ref=e530]:
+      - generic [ref=e532]:
+        - heading "Ownership and impact" [level=1] [ref=e534]
+        - paragraph [ref=e536]: There is no magic to working with banking partners in Japan, moving billions of dollars around the world, or pushing the limits of browser animations on our product pages. We have smart people who sweat the details—who start with a blank screen, work until a product is ready, and polish until it is exceptional. You will be able to point to specific, high-impact things that didn’t exist until you created them.
+      - generic [ref=e538]:
+        - img [ref=e544]
+        - blockquote [ref=e546]:
+          - paragraph [ref=e547]: Everyone at Stripe thinks about creating the best user experience first, then works backward from there.
+          - generic [ref=e548]: Dave Wright, Design
+  - generic [ref=e556]:
+    - generic [ref=e557]:
+      - heading "We want to talk to you" [level=1] [ref=e559]
+      - paragraph [ref=e561]: You came to this page for a reason. Now we hope you’ll take the next step and come talk to us about whether one of our open roles is a good fit. We’re hiring talented people like you all the time. We hope you’re next.
+      - link "See open roles" [ref=e563] [cursor=pointer]:
+        - /url: /jobs/search
+        - text: See open roles
+        - img [ref=e565]
+    - generic [ref=e569]:
+      - generic [ref=e570]:
+        - generic [ref=e571]:
+          - img [ref=e573]
+          - heading "Life at Stripe" [level=1] [ref=e578]
+        - paragraph [ref=e580]: Do your best work among people who support, refine, and amplify every piece of it.
+        - link "Life at Stripe" [ref=e582] [cursor=pointer]:
+          - /url: https://stripe.com/jobs/life-at-stripe
+          - text: Life at Stripe
+          - img [ref=e584]
+      - generic [ref=e587]:
+        - generic [ref=e588]:
+          - img [ref=e590]
+          - heading "University recruiting" [level=1] [ref=e595]
+        - paragraph [ref=e597]: Stripe hosts undergraduate and graduate interns from around the globe.
+        - link "Learn more" [ref=e599] [cursor=pointer]:
+          - /url: https://stripe.com/jobs/university
+          - text: Learn more
+          - img [ref=e601]
+      - generic [ref=e604]:
+        - generic [ref=e605]:
+          - img [ref=e607]
+          - heading "Operating principles" [level=1] [ref=e612]
+        - paragraph [ref=e614]: We have an opinionated set of principles, and we’re happy to be warts-and-all honest about them.
+        - link "How we operate" [ref=e616] [cursor=pointer]:
+          - /url: https://stripe.com/jobs/culture
+          - text: How we operate
+          - img [ref=e618]
+  - generic [ref=e629]:
+    - heading "Help us build economic infrastructure for the internet" [level=1] [ref=e631]
+    - generic [ref=e632]:
+      - paragraph [ref=e633]: We embrace diverse perspectives, ideas, and backgrounds at Stripe. We’re committed to providing equal employment opportunities for all applicants and employees. Stripe doesn’t discriminate on the basis of any protected characteristic, including race, color, ancestry, national origin, religion (including religious dress), creed, age, disability (mental and physical), sex, gender (including pregnancy, childbirth, breastfeeding, or related medical conditions), sexual orientation, gender identity, gender expression, medical condition, genetic information, family care or medical leave status, marital status, domestic partner status, military and veteran status (including military spouse status), or any other characteristic protected by US federal, state or local laws, or the laws of the country or jurisdiction where you work.
+      - paragraph [ref=e634]:
+        - text: This commitment is also reflected in our candidate experience. We will work with your needs and provide any assistance we can. If you are a nursing mother or have individual needs related to a disability, please reach out to
+        - link "accommodations@stripe.com" [ref=e635] [cursor=pointer]:
+          - /url: mailto:accommodations@stripe.com
+        - text: .
+      - paragraph [ref=e636]:
+        - text: If you’re having trouble submitting an application or experiencing other technical difficulties with this site, please reach out to
+        - link "candidatefeedback-applications@stripe.com" [ref=e637] [cursor=pointer]:
+          - /url: mailto:candidatefeedback-applications@stripe.com
+        - text: .
+  - contentinfo [ref=e638]:
+    - navigation [ref=e645]:
+      - generic [ref=e647]:
+        - link "Go to the Stripe homepage" [ref=e649] [cursor=pointer]:
+          - /url: /
+          - img "Stripe logo" [ref=e650]
+        - generic [ref=e653]:
+          - button "United States. Choose your country" [ref=e654] [cursor=pointer]:
+            - img [ref=e655]
+            - generic [ref=e657]: United States (English)
+          - generic:
+            - generic:
+              - generic:
+                - list:
+                  - listitem:
+                    - img
+                    - generic: Australia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/au/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Austria
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/at/jobs
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-at/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Belgium
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/nl-be/jobs
+                          - text: Nederlands
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr-be/jobs
+                          - text: Français
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de-be/jobs
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-be/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Brazil
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/br/jobs
+                          - text: Português
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-br/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Bulgaria
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-bg/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Canada
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-ca/jobs
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr-ca/jobs
+                          - text: Français
+                  - listitem:
+                    - img
+                    - generic: Croatia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-hr/jobs
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/it-hr/jobs
+                          - text: Italiano
+                  - listitem:
+                    - img
+                    - generic: Cyprus
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-cy/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Czech Republic
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-cz/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Denmark
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-dk/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Estonia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-ee/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Finland
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-fi/jobs
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/sv-fi/jobs
+                          - text: Svenska
+                - list:
+                  - listitem:
+                    - img
+                    - generic: France
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr/jobs
+                          - text: Français
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-fr/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Germany
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de/jobs
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-de/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Gibraltar
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-gi/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Greece
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-gr/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Hong Kong
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-hk/jobs
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/zh-hk/jobs
+                          - text: 简体中文
+                  - listitem:
+                    - img
+                    - generic: Hungary
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-hu/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: India
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/in/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Ireland
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/ie/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Italy
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/it/jobs
+                          - text: Italiano
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-it/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Japan
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/jp/jobs
+                          - text: 日本語
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-jp/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Latvia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-lv/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Liechtenstein
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de-li/jobs
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-li/jobs
+                          - text: English
+                - list:
+                  - listitem:
+                    - img
+                    - generic: Lithuania
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-lt/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Luxembourg
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr-lu/jobs
+                          - text: Français
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de-lu/jobs
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-lu/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Malaysia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-my/jobs
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/zh-my/jobs
+                          - text: 简体中文
+                  - listitem:
+                    - img
+                    - generic: Malta
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-mt/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Mexico
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/mx/jobs
+                          - text: Español
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-mx/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Netherlands
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/nl/jobs
+                          - text: Nederlands
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-nl/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: New Zealand
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/nz/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Norway
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-no/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Poland
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-pl/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Portugal
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/pt-pt/jobs
+                          - text: Português
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-pt/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Romania
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-ro/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Singapore
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-sg/jobs
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/zh-sg/jobs
+                          - text: 简体中文
+                - list:
+                  - listitem:
+                    - img
+                    - generic: Slovakia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-sk/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Slovenia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-si/jobs
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/it-si/jobs
+                          - text: Italiano
+                  - listitem:
+                    - img
+                    - generic: Spain
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/es/jobs
+                          - text: Español
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-es/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Sweden
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/se/jobs
+                          - text: Svenska
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-se/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Switzerland
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de-ch/jobs
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr-ch/jobs
+                          - text: Français
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/it-ch/jobs
+                          - text: Italiano
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-ch/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Thailand
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/th/jobs
+                          - text: ไทย
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-th/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: United Arab Emirates
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/ae/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: United Kingdom
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/gb/jobs
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: United States
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/us/jobs
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/es-us/jobs
+                          - text: Español
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/zh-us/jobs
+                          - text: 简体中文
+      - generic [ref=e659]:
+        - heading "Products & pricing" [level=1] [ref=e660]
+        - list [ref=e661]:
+          - listitem [ref=e662]:
+            - link "Pricing" [ref=e663] [cursor=pointer]:
+              - /url: https://stripe.com/pricing
+          - listitem [ref=e664]:
+            - link "Atlas" [ref=e665] [cursor=pointer]:
+              - /url: /atlas
+          - listitem [ref=e666]:
+            - link "Authorization Boost" [ref=e667] [cursor=pointer]:
+              - /url: /authorization-boost
+          - listitem [ref=e668]:
+            - link "Billing" [ref=e669] [cursor=pointer]:
+              - /url: /billing
+          - listitem [ref=e670]:
+            - link "Capital" [ref=e671] [cursor=pointer]:
+              - /url: /capital/platforms
+          - listitem [ref=e672]:
+            - link "Checkout" [ref=e673] [cursor=pointer]:
+              - /url: /payments/checkout
+          - listitem [ref=e674]:
+            - link "Crypto" [ref=e675] [cursor=pointer]:
+              - /url: /use-cases/crypto
+          - listitem [ref=e676]:
+            - link "Climate" [ref=e677] [cursor=pointer]:
+              - /url: /climate
+          - listitem [ref=e678]:
+            - link "Connect" [ref=e679] [cursor=pointer]:
+              - /url: /connect
+          - listitem [ref=e680]:
+            - link "Data Pipeline" [ref=e681] [cursor=pointer]:
+              - /url: /data-pipeline
+          - listitem [ref=e682]:
+            - link "Elements" [ref=e683] [cursor=pointer]:
+              - /url: /payments/elements
+          - listitem [ref=e684]:
+            - link "Treasury" [ref=e685] [cursor=pointer]:
+              - /url: /treasury
+          - listitem [ref=e686]:
+            - link "Financial Connections" [ref=e687] [cursor=pointer]:
+              - /url: /financial-connections
+          - listitem [ref=e688]:
+            - link "Identity" [ref=e689] [cursor=pointer]:
+              - /url: /identity
+          - listitem [ref=e690]:
+            - link "Invoicing" [ref=e691] [cursor=pointer]:
+              - /url: /invoicing
+          - listitem [ref=e692]:
+            - link "Issuing" [ref=e693] [cursor=pointer]:
+              - /url: https://stripe.com/issuing
+          - listitem [ref=e694]:
+            - link "Link" [ref=e695] [cursor=pointer]:
+              - /url: /payments/link
+          - listitem [ref=e696]:
+            - link "Managed Payments" [ref=e697] [cursor=pointer]:
+              - /url: /managed-payments
+          - listitem [ref=e698]:
+            - link "Payments" [ref=e699] [cursor=pointer]:
+              - /url: /payments
+          - listitem [ref=e700]:
+            - link "Payment links" [ref=e701] [cursor=pointer]:
+              - /url: /payments/payment-links
+          - listitem [ref=e702]:
+            - link "Payouts" [ref=e703] [cursor=pointer]:
+              - /url: /connect/payouts
+          - listitem [ref=e704]:
+            - link "Radar" [ref=e705] [cursor=pointer]:
+              - /url: https://stripe.com/radar
+          - listitem [ref=e706]:
+            - link "Revenue Recognition" [ref=e707] [cursor=pointer]:
+              - /url: /revenue-recognition
+          - listitem [ref=e708]:
+            - link "Stripe Sigma" [ref=e709] [cursor=pointer]:
+              - /url: https://stripe.com/sigma
+          - listitem [ref=e710]:
+            - link "Tax" [ref=e711] [cursor=pointer]:
+              - /url: /tax
+          - listitem [ref=e712]:
+            - link "Terminal" [ref=e713] [cursor=pointer]:
+              - /url: /terminal
+      - generic [ref=e714]:
+        - generic [ref=e715]:
+          - heading "Solutions" [level=1] [ref=e716]
+          - list [ref=e717]:
+            - listitem [ref=e718]:
+              - link "Enterprises" [ref=e719] [cursor=pointer]:
+                - /url: /enterprise
+            - listitem [ref=e720]:
+              - link "Startups" [ref=e721] [cursor=pointer]:
+                - /url: /startups
+            - listitem [ref=e722]:
+              - link "Agentic commerce" [ref=e723] [cursor=pointer]:
+                - /url: /use-cases/agentic-commerce
+            - listitem [ref=e724]:
+              - link "Crypto" [ref=e725] [cursor=pointer]:
+                - /url: /use-cases/crypto
+            - listitem [ref=e726]:
+              - link "Ecommerce" [ref=e727] [cursor=pointer]:
+                - /url: /use-cases/ecommerce
+            - listitem [ref=e728]:
+              - link "Embedded finance" [ref=e729] [cursor=pointer]:
+                - /url: /use-cases/embedded-finance
+            - listitem [ref=e730]:
+              - link "Finance automation" [ref=e731] [cursor=pointer]:
+                - /url: /use-cases/finance-automation
+            - listitem [ref=e732]:
+              - link "Global businesses" [ref=e733] [cursor=pointer]:
+                - /url: /use-cases/global-businesses
+            - listitem [ref=e734]:
+              - link "In-app payments" [ref=e735] [cursor=pointer]:
+                - /url: /use-cases/in-app-payments
+            - listitem [ref=e736]:
+              - link "Marketplaces" [ref=e737] [cursor=pointer]:
+                - /url: /use-cases/marketplaces
+            - listitem [ref=e738]:
+              - link "Platforms" [ref=e739] [cursor=pointer]:
+                - /url: /use-cases/platforms
+            - listitem [ref=e740]:
+              - link "SaaS" [ref=e741] [cursor=pointer]:
+                - /url: /use-cases/saas
+            - listitem [ref=e742]:
+              - link "AI companies" [ref=e743] [cursor=pointer]:
+                - /url: /use-cases/ai
+            - listitem [ref=e744]:
+              - link "Creator economy" [ref=e745] [cursor=pointer]:
+                - /url: /use-cases/creator-economy
+            - listitem [ref=e746]:
+              - link "Hospitality, travel, and leisure" [ref=e747] [cursor=pointer]:
+                - /url: /industries/travel
+            - listitem [ref=e748]:
+              - link "Insurance" [ref=e749] [cursor=pointer]:
+                - /url: /industries/insurance
+            - listitem [ref=e750]:
+              - link "Media and entertainment" [ref=e751] [cursor=pointer]:
+                - /url: /industries/media-entertainment
+            - listitem [ref=e752]:
+              - link "Nonprofits" [ref=e753] [cursor=pointer]:
+                - /url: /industries/nonprofits
+            - listitem [ref=e754]:
+              - link "Public sector" [ref=e755] [cursor=pointer]:
+                - /url: /industries/public-sector
+            - listitem [ref=e756]:
+              - link "Retail" [ref=e757] [cursor=pointer]:
+                - /url: /industries/retail
+        - generic [ref=e758]:
+          - heading "Integrations & custom solutions" [level=1] [ref=e759]
+          - list [ref=e760]:
+            - listitem [ref=e761]:
+              - link "Stripe App Marketplace" [ref=e762] [cursor=pointer]:
+                - /url: https://marketplace.stripe.com/
+            - listitem [ref=e763]:
+              - link "Stripe Partner ecosystem" [ref=e764] [cursor=pointer]:
+                - /url: /partners
+            - listitem [ref=e765]:
+              - link "Professional services" [ref=e766] [cursor=pointer]:
+                - /url: /professional-services
+        - generic [ref=e767]:
+          - heading "Developers" [level=1] [ref=e768]
+          - list [ref=e769]:
+            - listitem [ref=e770]:
+              - link "Documentation" [ref=e771] [cursor=pointer]:
+                - /url: https://docs.stripe.com/
+            - listitem [ref=e772]:
+              - link "API reference" [ref=e773] [cursor=pointer]:
+                - /url: https://docs.stripe.com/api
+            - listitem [ref=e774]:
+              - link "API status" [ref=e775] [cursor=pointer]:
+                - /url: https://status.stripe.com/
+            - listitem [ref=e776]:
+              - link "API changelog" [ref=e777] [cursor=pointer]:
+                - /url: https://docs.stripe.com/changelog
+            - listitem [ref=e778]:
+              - link "Libraries and SDKs" [ref=e779] [cursor=pointer]:
+                - /url: https://docs.stripe.com/development
+            - listitem [ref=e780]:
+              - link "Developer blog" [ref=e781] [cursor=pointer]:
+                - /url: https://stripe.dev/
+      - generic [ref=e782]:
+        - generic [ref=e783]:
+          - heading "Resources" [level=1] [ref=e784]
+          - list [ref=e785]:
+            - listitem [ref=e786]:
+              - link "Guides" [ref=e787] [cursor=pointer]:
+                - /url: https://stripe.com/guides
+            - listitem [ref=e788]:
+              - link "Customer stories" [ref=e789] [cursor=pointer]:
+                - /url: /customers
+            - listitem [ref=e790]:
+              - link "Blog" [ref=e791] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e792]:
+              - link "Sessions annual conference" [ref=e793] [cursor=pointer]:
+                - /url: /sessions
+            - listitem [ref=e794]:
+              - link "Privacy & terms" [ref=e795] [cursor=pointer]:
+                - /url: https://stripe.com/privacy
+            - listitem [ref=e796]:
+              - link "Prohibited & restricted businesses" [ref=e797] [cursor=pointer]:
+                - /url: /legal/restricted-businesses
+            - listitem [ref=e798]:
+              - link "Licenses" [ref=e799] [cursor=pointer]:
+                - /url: https://stripe.com/spc/licenses
+            - listitem [ref=e800]:
+              - link "Sitemap" [ref=e801] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e802]:
+              - link "Cookie settings" [ref=e803] [cursor=pointer]:
+                - /url: /cookie-settings
+            - listitem [ref=e804]:
+              - link "Your privacy choices" [ref=e805] [cursor=pointer]:
+                - /url: https://privacy.stripe.com/
+            - listitem [ref=e806]:
+              - link "More resources" [ref=e807] [cursor=pointer]:
+                - /url: https://stripe.com/resources/more
+        - generic [ref=e808]:
+          - heading "Company" [level=1] [ref=e809]
+          - list [ref=e810]:
+            - listitem [ref=e811]:
+              - link "Product roadmap" [ref=e812] [cursor=pointer]:
+                - /url: /roadmap
+            - listitem [ref=e813]:
+              - link "Jobs" [ref=e814] [cursor=pointer]:
+                - /url: /jobs
+            - listitem [ref=e815]:
+              - link "Newsroom" [ref=e816] [cursor=pointer]:
+                - /url: /newsroom
+            - listitem [ref=e817]:
+              - link "Stripe Press" [ref=e818] [cursor=pointer]:
+                - /url: https://press.stripe.com/
+            - listitem [ref=e819]:
+              - link "Contact sales" [ref=e820] [cursor=pointer]:
+                - /url: /contact/sales
+        - generic [ref=e821]:
+          - heading "Support" [level=1] [ref=e822]
+          - list [ref=e823]:
+            - listitem [ref=e824]:
+              - link "Get support" [ref=e825] [cursor=pointer]:
+                - /url: https://support.stripe.com/?referrerLocale=en-us
+            - listitem [ref=e826]:
+              - link "Managed support plans" [ref=e827] [cursor=pointer]:
+                - /url: /support-plans
+            - listitem [ref=e828]: "CA residents: +1 888 926 2289"
+        - list [ref=e830]:
+          - link "Sign in" [ref=e831] [cursor=pointer]:
+            - /url: https://dashboard.stripe.com/login
+            - text: Sign in
+            - img [ref=e833]
+      - list [ref=e837]:
+        - listitem [ref=e838]: © 2026 Stripe, LLC

@@ -1,0 +1,70 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - heading "Software Engineer – New Graduate (Seattle)" [level=2] [ref=e9]
+        - generic [ref=e10]:
+          - generic [ref=e11]: Seattle, WA
+          - generic [ref=e12]: Product Development /
+          - generic [ref=e13]: Engineering /
+          - generic [ref=e14]: Hybrid
+      - link "apply for this job" [ref=e16] [cursor=pointer]:
+        - /url: https://jobs.lever.co/revefi/de6bd0b5-2308-435f-bb94-b418c57e7048/apply
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19]: 🚀 About Revefi
+        - generic [ref=e20]: Founded in 2021 by Sanjay Agrawal and Shashank Gupta, the visionary co-founders of ThoughtSpot (Gartner’s BI Magic Quadrant leader), Revefi is a Series A funded startup that has raised $30 Million from renowned investment firms like Icon Ventures, Mayfield Fund, GTM Capital, and StepStone Group.
+        - generic [ref=e22]: Revefi’s Agentic AI solution is transforming how modern enterprises manage their data reliability, operations, quality, and cost.
+        - generic [ref=e24]: Our flagship AI Agent is a cross-platform solution that spans all major cloud data providers, and is enabling major corporations like Verisk, AMD, Ocean Spray, and Stanley Black & Decker optimize cloud spend, ensuring high data quality, and operational performance through AI-powered automation and intelligence.
+        - generic [ref=e26]: We’re building the future of Cloud Data Cost Optimization and Cloud Data Operations, and are looking for the right individuals to join us on this journey.
+        - generic [ref=e28]:
+          - text: Revefi was recently recognised as a 2025 Gartner® Cool Vendor™. You can read up more about our values, and vision at
+          - link "revefi.com" [ref=e29] [cursor=pointer]:
+            - /url: http://revefi.com/
+          - text: .
+        - generic [ref=e31]: "🎯 The Role: Graduate Software Engineer"
+        - generic [ref=e32]: We’re looking for motivated 2025 Computer Science graduates who are excited to start their careers building real-world backend systems at scale. As a Graduate Software Engineer, you’ll work closely with experienced engineers and founders to help build and evolve our cloud-native SaaS platform.
+        - generic [ref=e34]: If you’re curious about backend development, distributed systems, and cloud technologies—and want to learn by building impactful products—this is a great opportunity to grow fast in an early-stage, product-driven environment.
+      - generic [ref=e36]:
+        - heading "🛠 What You’ll Do" [level=3] [ref=e37]
+        - list [ref=e40]:
+          - listitem [ref=e41]: Build and enhance backend services for our cloud-native SaaS platform
+          - listitem [ref=e42]: Assist in designing and implementing scalable backend components
+          - listitem [ref=e43]: Write clean, well-tested code using Java, Python, C++ (or similar languages)
+          - listitem [ref=e44]: Collaborate with product, frontend, and DevOps teams to deliver end-to-end features
+          - listitem [ref=e45]: Debug issues, improve performance, and help maintain system reliability
+          - listitem [ref=e46]: Participate in code reviews and continuously learn backend, cloud, and system design best practices
+      - generic [ref=e48]:
+        - heading "✅ What We’re Looking For" [level=3] [ref=e49]
+        - list [ref=e52]:
+          - listitem [ref=e53]: 2025 graduate with a Bachelor’s or Dual degree in Computer Science.
+          - listitem [ref=e54]: Internship, capstone, or project experience with backend or cloud-based systems
+          - listitem [ref=e55]: Strong fundamentals in data structures, algorithms, and object-oriented programming
+          - listitem [ref=e56]: Academic or project experience in backend development (Java, C++, Python, Golang, etc.)
+          - listitem [ref=e57]: Basic understanding of systems design, APIs, and distributed systems concepts
+          - listitem [ref=e58]: Good problem-solving skills and attention to detail
+          - listitem [ref=e59]: Clear communication skills and eagerness to collaborate in a team setting
+          - listitem [ref=e60]: Passion for building scalable products and learning modern engineering practices
+      - generic [ref=e62]:
+        - heading "💡 Bonus Skills (Nice to Have)" [level=3] [ref=e63]
+        - list [ref=e66]:
+          - listitem [ref=e67]: Exposure to AWS, GCP, or Azure (through coursework, internships, or projects)
+          - listitem [ref=e68]: Familiarity with databases (SQL and/or NoSQL)
+          - listitem [ref=e69]: Basic experience with Docker or containerized applications
+          - listitem [ref=e70]: Interest in SaaS platforms, data systems, or cloud-native technologies
+          - listitem [ref=e71]: Contributions to open-source projects, hackathons, or developer communities
+      - generic [ref=e72]:
+        - generic [ref=e73]: "At Revefi, you won’t just write code—you’ll learn how real products are built at scale. As a Graduate Engineer, this is your opportunity to:"
+        - generic [ref=e74]: "- Learn from a world-class founding team with a strong track record of building successful products"
+        - generic [ref=e75]: "- Work on real backend and cloud systems that power a modern SaaS platform"
+        - generic [ref=e76]: "- Gain hands-on experience solving meaningful problems across cloud, data, and AI"
+        - generic [ref=e77]: "- Grow quickly through mentorship, code reviews, and ownership of well-scoped features"
+        - generic [ref=e78]: "- Build a strong foundation in how modern enterprises manage and optimize data and cloud infrastructure"
+        - generic [ref=e80]: Ready to kickstart your engineering career and build something impactful? 🚀
+      - generic [ref=e82]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e84] [cursor=pointer]:
+        - /url: https://jobs.lever.co/revefi/de6bd0b5-2308-435f-bb94-b418c57e7048/apply
+  - link "Jobs powered by Lever logo" [ref=e87] [cursor=pointer]:
+    - /url: https://www.lever.co/job-seeker-support/
+    - generic [ref=e88]: Jobs powered by
+    - img "Lever logo" [ref=e89]

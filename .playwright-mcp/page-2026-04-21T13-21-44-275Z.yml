@@ -1,0 +1,108 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e8]:
+    - generic [ref=e10]:
+      - link "search for jobs" [ref=e13] [cursor=pointer]:
+        - /url: /en-US/External_Careers
+        - img "search for jobs" [ref=e14]
+      - generic [ref=e15]:
+        - heading [level=1]
+      - generic [ref=e17]:
+        - button "Sign In" [ref=e19] [cursor=pointer]:
+          - generic [ref=e24]: Sign In
+        - navigation [ref=e25]:
+          - button "Search for Jobs" [ref=e26] [cursor=pointer]
+  - main [ref=e90]:
+    - generic [ref=e91]:
+      - generic [ref=e92]:
+        - link "Back to Job Posting" [ref=e94] [cursor=pointer]:
+          - generic [ref=e98]: Back to Job Posting
+        - heading "Software Engineer I" [level=2] [ref=e99]
+      - generic "Application Progress" [ref=e100]:
+        - list [ref=e101]:
+          - listitem [ref=e102]:
+            - generic: current step 1 of 7
+            - generic [ref=e108]: Create Account/Sign In
+          - listitem [ref=e109]:
+            - generic: step 2 of 7
+            - generic [ref=e115]: My Information
+          - listitem [ref=e116]:
+            - generic: step 3 of 7
+            - generic [ref=e122]: My Experience
+          - listitem [ref=e123]:
+            - generic: step 4 of 7
+            - generic [ref=e129]: Application Questions
+          - listitem [ref=e130]:
+            - generic: step 5 of 7
+            - generic [ref=e136]: Voluntary Disclosures
+          - listitem [ref=e137]:
+            - generic: step 6 of 7
+            - generic [ref=e143]: Self Identify
+          - listitem [ref=e144]:
+            - generic: step 7 of 7
+            - generic [ref=e150]: Review
+      - generic [ref=e153]:
+        - generic [ref=e156]:
+          - heading "Create Account" [level=3] [ref=e157]
+          - paragraph [ref=e160]: Creating your Candidate Home Account will allow you to view the status of your application, save your progress as you complete your application, as well as expedite the process if you choose to apply for other positions with Cadence.
+          - generic [ref=e163]:
+            - paragraph [ref=e164]: "Password Requirements:"
+            - list [ref=e165]:
+              - listitem [ref=e166]: An alphabetic character
+              - listitem [ref=e167]: A numeric character
+              - listitem [ref=e168]: An uppercase character
+              - listitem [ref=e169]: A lowercase character
+              - listitem [ref=e170]: A special character
+              - listitem [ref=e171]: A minimum of 8 characters
+          - generic [ref=e172]:
+            - generic [ref=e173]:
+              - generic [ref=e175]: Email Address*
+              - textbox "Email Address" [ref=e178]: daris.chen@gmail.com
+            - generic [ref=e180]:
+              - generic [ref=e182]: Password*
+              - textbox "Password" [ref=e185]: TestPass123!
+            - generic [ref=e186]:
+              - generic [ref=e188]: Verify New Password*
+              - textbox "Verify New Password" [ref=e191]: TestPass123!
+            - paragraph [ref=e197]:
+              - text: I understand I am creating a candidate account and my information will be stored by Cadence Design Systems, Inc. At anytime I may request to have my account deleted. By clicking the “Create Account” button, you are agreeing to our
+              - link "Privacy Policy" [ref=e198] [cursor=pointer]:
+                - /url: https://www.cadence.com/en_US/home/privacy/privacy-policy.html
+            - generic [ref=e203]:
+              - checkbox "I agree" [checked] [active] [ref=e205] [cursor=pointer]
+              - generic [ref=e206] [cursor=pointer]: I agree
+            - generic [ref=e211]:
+              - button "Create Account" [ref=e212] [cursor=pointer]
+              - button [ref=e213] [cursor=pointer]: Create Account
+          - generic [ref=e214]:
+            - text: Already have an account?
+            - button "Sign In" [ref=e215] [cursor=pointer]
+          - button "Forgot your password?" [ref=e217] [cursor=pointer]
+        - generic:
+          - generic:
+            - generic [ref=e218]: Enter website. This input is for robots only, do not enter if you're human.
+            - textbox "Enter website. This input is for robots only, do not enter if you're human." [ref=e219]
+  - generic [ref=e33]:
+    - generic [ref=e34]: Follow Us
+    - list [ref=e35]:
+      - listitem [ref=e36] [cursor=pointer]:
+        - link "Google Plus" [ref=e37]:
+          - /url: https://plus.google.com/+cadencedesignsystems
+      - listitem [ref=e41] [cursor=pointer]:
+        - link "YouTube" [ref=e42]:
+          - /url: https://www.youtube.com/user/CadenceDesign
+      - listitem [ref=e48] [cursor=pointer]:
+        - link "LinkedIn" [ref=e49]:
+          - /url: https://www.linkedin.com/company/cadence-design-systems
+      - listitem [ref=e53] [cursor=pointer]:
+        - link "X" [ref=e54]:
+          - /url: https://twitter.com/cadence
+      - listitem [ref=e58] [cursor=pointer]:
+        - link "Facebook" [ref=e59]:
+          - /url: https://www.facebook.com/CadenceDesign
+    - link "Privacy" [ref=e64] [cursor=pointer]:
+      - /url: https://www.cadence.com/en_US/home/privacy.html
+    - generic [ref=e65]:
+      - img [ref=e69]
+      - generic [ref=e89]: © 2026 Workday, Inc. All rights reserved.

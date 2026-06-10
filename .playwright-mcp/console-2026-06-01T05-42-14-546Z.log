@@ -1,0 +1,6 @@
+[      77ms] [LOG] Hey you! We like your type. Come join us - https://seatgeek.com/jobs @ https://seatgeek.com/jobs/7858968?gh_jid=7858968:508
+[     804ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://seatgeek.com/jobs/7858968?gh_jid=7858968:0
+[    1056ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://my.greenhouse.io/users/self?job_post_id=7858968:0
+[    1059ms] UnauthorizedError: Unauthorized: User is not logged in.
+    at Gs.fetchProfile (https://job-boards.cdn.greenhouse.io/assets/entry.client-DJvenSzz.js:61:71218)
+[    1160ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://ad.doubleclick.net/ccm/s/collect?auid=501001937.1780287137&gtm=45Fe65r2v9182079952za204zd9182079952xea:0

@@ -1,0 +1,172 @@
+- generic [ref=e1]:
+  - dialog "Cookie Consent Banner" [ref=e2]:
+    - button "Close this dialog" [active] [ref=e3] [cursor=pointer]:
+      - img "Close this dialog" [ref=e4]
+    - generic [ref=e5]:
+      - generic [ref=e6]: We use cookies and other technologies to personalize content, measure ads and provide an optimized experience. Some cookies are required for the site to function and cannot be turned off. By accepting, you agree to the Airbnb Cookie Policy. You can update your preferences any time. You may close this banner to continue with only essential cookies.
+      - link "Cookie Policy" [ref=e7] [cursor=pointer]:
+        - /url: https://www.airbnb.com/help/article/2866
+    - generic [ref=e8]:
+      - button "Manage preferences" [ref=e9] [cursor=pointer]
+      - button "Accept all" [ref=e10] [cursor=pointer]
+      - button "Only necessary" [ref=e11] [cursor=pointer]
+  - generic [ref=e12]:
+    - banner [ref=e13]:
+      - generic [ref=e14]:
+        - link "Skip to main content" [ref=e15] [cursor=pointer]:
+          - /url: "#main-content"
+        - link "Careers at Airbnb Careers" [ref=e16] [cursor=pointer]:
+          - /url: https://careers.airbnb.com/
+          - img "Careers at Airbnb" [ref=e17]
+          - text: Careers
+        - navigation [ref=e18]:
+          - list [ref=e19]:
+            - listitem [ref=e20]:
+              - link "Life at Airbnb" [ref=e21] [cursor=pointer]:
+                - /url: https://careers.airbnb.com/life-at-airbnb/
+            - listitem [ref=e22]: Job Search
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - heading "iOS Software Engineer, Airbnb - New Grad" [level=1] [ref=e26]
+        - generic [ref=e28]: San Francisco, CA, Seattle, WA
+      - tablist "Job information" [ref=e29]:
+        - tab "Role overview" [selected] [ref=e30] [cursor=pointer]
+        - tab "Application" [ref=e31] [cursor=pointer]
+      - tabpanel "Role overview" [ref=e32]:
+        - paragraph [ref=e34]: Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+        - paragraph [ref=e35]
+        - paragraph [ref=e36]:
+          - strong [ref=e37]: "The Community You Will Join:"
+        - paragraph [ref=e38]: "The Quality Reputation team is dedicated to building exceptional customer-facing products that enhance trip quality and user reputation. We build systems that define and improve quality on Airbnb: collecting quality signals that elevate the best supply while protecting users through proactive intervention and enforcement. Our mission is to build delightful user products and intelligent capabilities that raise the supply quality on the Airbnb platform. The team is highly collaborative with its partners in design, product, data science, legal, and marketing to deliver features and experiences used by millions of people."
+        - paragraph [ref=e39]
+        - paragraph [ref=e40]:
+          - strong [ref=e41]: "The Difference You Will Make:"
+        - paragraph [ref=e42]: As a Software Engineer (New Grad) at Airbnb, you’ll play a vital role in building, supporting, and refining the products and systems that make Airbnb’s mission possible. Your work will directly contribute to high-quality, reliable experiences for our global community—whether you’re fixing bugs, launching well-defined features, or enhancing existing components. You'll also have the opportunity to contribute to AI-powered features, applying foundational knowledge of machine learning concepts and modern AI tools to build smarter, more personalized experiences for our hosts and guests. By clearly communicating challenges and collaborating with teammates across functions, you’ll help drive projects forward with transparency and trust.
+        - paragraph [ref=e43]: You’ll foster a sense of belonging by actively seeking feedback, sharing your own learnings, and supporting the onboarding of new team members. You’ll help uphold Airbnb’s commitment to excellence by following best practices, delivering tasks autonomously, and continually improving your technical skills. Your curiosity, empathy, and commitment to candid communication will empower you to make a meaningful impact—on projects, teammates, and Airbnb’s inclusive culture.
+        - paragraph [ref=e44]
+        - paragraph [ref=e45]:
+          - strong [ref=e46]: "A Typical Day:"
+        - list [ref=e47]:
+          - listitem [ref=e48]: Attend team syncs to discuss priorities, share progress, and surface any blockers with transparency.
+          - listitem [ref=e49]: Dive into coding — fixing bugs, developing iOS features, or refining UI components —while applying best practices for code quality, error handling, and testability. Leverage AI-assisted development tools (e.g., Claude Code or similar) to accelerate your workflow and improve code quality.
+          - listitem [ref=e50]: Participate in design or code reviews, ask clarifying questions, and apply feedback to improve your work. Work closely with cross-functional partners like product managers and designers to ensure your tasks align clearly with broader goals.
+          - listitem [ref=e51]: Dedicate time to expanding your technical knowledge through documentation, mentorship, or internal knowledge-sharing sessions. This includes staying current on iOS platform developments or AI/ML topics relevant to your team's domain. Seek guidance from managers or tech leads when tackling unfamiliar problems.
+          - listitem [ref=e52]: Contribute to team activities, such as onboarding new hires (e.g., being an onboarding buddy), sharing observations from the hiring process, or joining in cultural events focused on diversity, inclusion, and innovation.
+          - listitem [ref=e53]: Share updates on your progress and next steps, highlighting challenges or learnings.
+        - paragraph [ref=e54]
+        - paragraph [ref=e55]:
+          - strong [ref=e56]: "Your Expertise:"
+        - paragraph [ref=e57]: This role is designed for recent graduates (Bachelor's or Master's) with less than 1 year of full-time professional experience who are ready to grow fast and make an impact.
+        - list [ref=e58]:
+          - listitem [ref=e59]: Strong foundation in Computer Science fundamentals — data structures, algorithms, design patterns, and systems thinking
+          - listitem [ref=e60]: Proficiency in Swift, with exposure to SwiftUI or UIKit for building iOS applications
+          - listitem [ref=e61]: Foundational understanding of iOS development concepts — including networking, caching, client storage, accessibility, and asynchronous programming
+          - listitem [ref=e62]: Familiarity with REST APIs; exposure to GraphQL is a plus
+          - listitem [ref=e63]: Bonus points for leadership experience, community involvement, or teaching/mentoring — we love engineers who invest in others
+        - paragraph [ref=e64]
+        - paragraph [ref=e65]:
+          - strong [ref=e66]: "Your Location:"
+        - paragraph [ref=e67]: Preference for candidates based in San Francisco, California or Seattle, Washington with the ability to commute to the office three days per week. Additional in-person attendance for team meetings or offsites may be required as needed. Domestic Relocation support will be provided for candidates open to relocating.
+        - paragraph [ref=e68]
+        - paragraph [ref=e69]:
+          - strong [ref=e70]: "Our Commitment To Inclusion & Belonging:"
+        - paragraph [ref=e71]: Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+        - paragraph [ref=e72]:
+          - text: "We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:"
+          - link "reasonableaccommodations@airbnb.com" [ref=e73] [cursor=pointer]:
+            - /url: mailto:reasonableaccommodations@airbnb.com
+          - text: . Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+        - paragraph [ref=e74]: We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+        - paragraph [ref=e75]
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - paragraph [ref=e79]:
+              - strong [ref=e81]: "How We'll Take Care of You:"
+            - paragraph [ref=e82]: "Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits."
+          - generic [ref=e83]: Pay Range
+          - generic [ref=e84]: $128,000—$142,000 USD
+        - paragraph
+      - button "Switch to application form" [ref=e86] [cursor=pointer]: Apply Now
+    - contentinfo [ref=e87]:
+      - generic [ref=e88]:
+        - paragraph [ref=e89]: "Airbnb, Inc. can hire employees in states where we have registered entities. Currently, employees cannot be located/live in: Alaska, Mississippi, and North Dakota. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list."
+        - paragraph [ref=e90]: Reasonable Accommodation — Airbnb values diversity & belonging and is proud to be an Equal Employment Opportunity employer. All individuals seeking employment at Airbnb are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected characteristic. We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.
+      - list [ref=e92]:
+        - listitem [ref=e93]:
+          - generic [ref=e95]: Airbnb
+          - list [ref=e96]:
+            - listitem [ref=e97]:
+              - link "Airbnb" [ref=e98] [cursor=pointer]:
+                - /url: https://airbnb.com/
+            - listitem [ref=e99]:
+              - link "Life at Airbnb" [ref=e100] [cursor=pointer]:
+                - /url: https://careers.airbnb.com/life-at-airbnb/
+            - listitem [ref=e101]:
+              - link "FAQ" [ref=e102] [cursor=pointer]:
+                - /url: https://careers.airbnb.com/faq/
+            - listitem [ref=e103]:
+              - link "Candidate Privacy" [ref=e104] [cursor=pointer]:
+                - /url: https://careers.airbnb.com/candidate-privacy/
+        - listitem [ref=e105]:
+          - generic [ref=e107]: Careers
+          - list [ref=e108]:
+            - listitem [ref=e109]:
+              - link "Job Search" [ref=e110] [cursor=pointer]:
+                - /url: https://careers.airbnb.com/positions
+            - listitem [ref=e111]:
+              - link "Connect Engineering Apprenticeship" [ref=e112] [cursor=pointer]:
+                - /url: https://careers.airbnb.com/connect-engineering-apprenticeship/
+            - listitem [ref=e113]:
+              - link "Internship Programs" [ref=e114] [cursor=pointer]:
+                - /url: https://careers.airbnb.com/internship-programs/
+        - listitem [ref=e115]:
+          - generic [ref=e117]: Machine Readable Files
+          - list [ref=e118]:
+            - listitem [ref=e119]:
+              - link "HMSA" [ref=e120] [cursor=pointer]:
+                - /url: https://www.hmsa.com/help-center/transparency-in-coverage-machine-readable-files/
+            - listitem [ref=e121]:
+              - link "Kaiser Permanente" [ref=e122] [cursor=pointer]:
+                - /url: https://healthy.kaiserpermanente.org/northern-california/pages/technical-information#machine-readable-files
+            - listitem [ref=e123]:
+              - link "Anthem" [ref=e124] [cursor=pointer]:
+                - /url: https://www.anthem.com/ca/machine-readable-file/search/
+      - generic [ref=e125]:
+        - generic [ref=e126]:
+          - text: © Airbnb, Inc
+          - list [ref=e128]:
+            - listitem [ref=e129]:
+              - text: •
+              - link "Terms" [ref=e130] [cursor=pointer]:
+                - /url: https://www.airbnb.com/terms
+            - listitem [ref=e131]:
+              - text: •
+              - link "Privacy" [ref=e132] [cursor=pointer]:
+                - /url: https://www.airbnb.com/terms/privacy_policy
+            - listitem [ref=e133]:
+              - text: •
+              - link "Sitemap" [ref=e134] [cursor=pointer]:
+                - /url: https://www.airbnb.com/sitemaps/v2
+          - link "• Cookie Preferences" [ref=e135] [cursor=pointer]:
+            - /url: "#"
+            - text: •
+            - generic [ref=e136]: Cookie Preferences
+          - link "• Your Privacy Choices" [ref=e137] [cursor=pointer]:
+            - /url: "#"
+            - text: •
+            - generic [ref=e138]: Your Privacy Choices
+            - img [ref=e140]
+        - generic [ref=e149]:
+          - button "English" [ref=e151] [cursor=pointer]
+          - generic [ref=e152]:
+            - link "linkedin" [ref=e153] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/airbnb
+              - img "linkedin" [ref=e154]
+            - link "twitter" [ref=e155] [cursor=pointer]:
+              - /url: https://twitter.com/airbnb
+              - img "twitter" [ref=e156]
+            - link "instagram" [ref=e157] [cursor=pointer]:
+              - /url: https://instagram.com/airbnb
+              - img "instagram" [ref=e158]
+  - status [ref=e159]
+  - status [ref=e160]

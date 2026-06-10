@@ -1,0 +1,166 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]: .
+    - generic [ref=e4]: ..
+    - generic [ref=e5]: .
+  - generic [ref=e7]:
+    - link "Skip to main content." [ref=e8] [cursor=pointer]:
+      - /url: "#main"
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - banner [ref=e12]:
+          - generic [ref=e14]:
+            - generic [ref=e15]:
+              - link [ref=e17] [cursor=pointer]:
+                - /url: https://www.fortinet.com/
+                - img [ref=e18]
+              - generic [ref=e21]:
+                - list:
+                  - listitem [ref=e24]:
+                    - link "Products" [ref=e25] [cursor=pointer]:
+                      - /url: https://www.fortinet.com/products/
+                    - text: ›
+                  - listitem [ref=e26]:
+                    - link "Solutions" [ref=e27] [cursor=pointer]:
+                      - /url: https://www.fortinet.com/solutions/
+                    - text: ›
+                  - listitem [ref=e28]:
+                    - link "Support" [ref=e29] [cursor=pointer]:
+                      - /url: https://www.fortinet.com/support/
+                    - text: ›
+                  - listitem [ref=e30]:
+                    - link "Training" [ref=e31] [cursor=pointer]:
+                      - /url: https://www.fortinet.com/support/training/
+                    - text: ›
+                  - listitem [ref=e32]:
+                    - link "Resources" [ref=e33] [cursor=pointer]:
+                      - /url: https://www.fortinet.com/resources/
+                    - text: ›
+                  - listitem [ref=e34]:
+                    - link "Partners" [ref=e35] [cursor=pointer]:
+                      - /url: https://partnerportal.fortinet.com/directory/
+                    - text: ›
+                  - listitem [ref=e36]:
+                    - link "Corporate" [ref=e37] [cursor=pointer]:
+                      - /url: https://www.fortinet.com/corporate
+                    - text: ›
+            - heading "Explore Careers at Fortinet" [level=1] [ref=e39]
+        - main [ref=e41]:
+          - alert "Loading screen" [ref=e45]: 
+      - contentinfo [ref=e46]:
+        - generic [ref=e49]:
+          - generic [ref=e50]:
+            - link "Fortinet" [ref=e53] [cursor=pointer]:
+              - /url: https://www.fortinet.com
+              - img [ref=e54]
+            - navigation [ref=e58]:
+              - list [ref=e59]:
+                - listitem [ref=e60]:
+                  - link [ref=e61] [cursor=pointer]:
+                    - /url: https://www.facebook.com/fortinet
+                    - img [ref=e62]
+                - listitem [ref=e64]:
+                  - link [ref=e65] [cursor=pointer]:
+                    - /url: https://www.twitter.com/fortinet
+                    - img [ref=e66]
+                - listitem [ref=e68]:
+                  - link [ref=e69] [cursor=pointer]:
+                    - /url: https://www.youtube.com/user/SecureNetworks
+                    - img [ref=e70]
+                - listitem [ref=e72]:
+                  - link [ref=e73] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/fortinet
+                    - img [ref=e74]
+                - listitem [ref=e76]:
+                  - link [ref=e77] [cursor=pointer]:
+                    - /url: https://www.instagram.com/fortinet/
+                    - img [ref=e78]
+                - listitem [ref=e82]:
+                  - link [ref=e83] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/rss-feeds.html
+                    - img [ref=e84]
+          - generic [ref=e86]:
+            - navigation [ref=e88]:
+              - list [ref=e89]:
+                - listitem [ref=e90]: News & Articles
+                - listitem [ref=e91]:
+                  - link "News Releases" [ref=e92] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/corporate/about-us/newsroom/press-releases.html
+                - listitem [ref=e93]:
+                  - link "News Articles" [ref=e94] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/corporate/about-us/newsroom/news.html
+                - listitem [ref=e95]:
+                  - link "Trademarks" [ref=e96] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/corporate/about-us/contact-us/fortinet-trademark-guidelines.html
+            - navigation [ref=e98]:
+              - list [ref=e99]:
+                - listitem [ref=e100]: Security Research
+                - listitem [ref=e101]:
+                  - link "Threat Research" [ref=e102] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/fortiguard/threat-intelligence/threat-research.html
+                - listitem [ref=e103]:
+                  - link "FortiGuard Labs" [ref=e104] [cursor=pointer]:
+                    - /url: https://fortiguard.com
+                - listitem [ref=e105]:
+                  - link "Threat Map" [ref=e106] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/fortiguard/threat-intelligence/threat-map.html
+                - listitem [ref=e107]:
+                  - link "Threat Reports" [ref=e108] [cursor=pointer]:
+                    - /url: https://www.fortiguard.com/threat-signal-report
+                - listitem [ref=e109]:
+                  - link "Ransomware" [ref=e110] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/solutions/ransomware.html
+                - listitem [ref=e111]:
+                  - link "Artificial Intelligence" [ref=e112] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/solutions/enterprise-midsize-business/security-operations
+            - navigation [ref=e114]:
+              - list [ref=e115]:
+                - listitem [ref=e116]: Connect With Us
+                - listitem [ref=e117]:
+                  - link "Blog" [ref=e118] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/blog
+                - listitem [ref=e119]:
+                  - link "Events" [ref=e120] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/corporate/about-us/events.html
+                - listitem [ref=e121]:
+                  - link "Fortinet Community" [ref=e122] [cursor=pointer]:
+                    - /url: https://community.fortinet.com/
+            - navigation [ref=e124]:
+              - list [ref=e125]:
+                - listitem [ref=e126]: Company
+                - listitem [ref=e127]:
+                  - link "About Us" [ref=e128] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/corporate/about-us/about-us.html
+                - listitem [ref=e129]:
+                  - link "Social Responsibility" [ref=e130] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/corporate/about-us/corporate-social-responsibility.html
+                - listitem [ref=e131]:
+                  - link "Executive Management" [ref=e132] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/corporate/about-us/executive-management.html
+                - listitem [ref=e133]:
+                  - link "Industry Awards" [ref=e134] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/corporate/about-us/industry-awards.html
+                - listitem [ref=e135]:
+                  - link "Security Fabric" [ref=e136] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/solutions/enterprise-midsize-business/security-fabric.html
+                - listitem [ref=e137]:
+                  - link "Certifications" [ref=e138] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/corporate/about-us/product-certifications.html
+            - navigation [ref=e140]:
+              - list [ref=e141]:
+                - listitem [ref=e142]:
+                  - link "Contact Us" [ref=e143] [cursor=pointer]:
+                    - /url: https://www.fortinet.com/corporate/about-us/contact-us.html
+          - paragraph [ref=e145]:
+            - text: Copyright © 2023 Fortinet, Inc. All Rights Reserved.
+            - link "Terms Of Service" [ref=e146] [cursor=pointer]:
+              - /url: https://www.fortinet.com/corporate/about-us/legal.html
+            - text: "|"
+            - link "Privacy Policy" [ref=e147] [cursor=pointer]:
+              - /url: https://www.fortinet.com/corporate/about-us/privacy.html
+            - text: "|"
+            - link "GDPR" [ref=e148] [cursor=pointer]:
+              - /url: https://www.fortinet.com/corporate/about-us/gdpr.html
+    - alert
+    - status [ref=e149]
+    - alert [ref=e150]

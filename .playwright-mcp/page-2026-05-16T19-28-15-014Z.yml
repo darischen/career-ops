@@ -1,0 +1,296 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "GE Vernova Home Page" [ref=e5] [cursor=pointer]:
+        - /url: https://www.gevernova.com/
+        - img [ref=e6]
+      - button "Toggle navigation" [ref=e8] [cursor=pointer]
+  - main [ref=e12]:
+    - article [ref=e13]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - link "See All Jobs" [ref=e17] [cursor=pointer]:
+            - /url: /jobs
+            - img [ref=e18]
+            - text: See All Jobs
+          - heading "AI Engineer" [level=1] [ref=e20]
+          - heading "Digital Engineering; PB" [level=2] [ref=e21]
+          - generic [ref=e22]:
+            - generic [ref=e23]:
+              - term [ref=e24]: "Type:"
+              - definition [ref=e25]: Full Time
+            - generic [ref=e26]:
+              - term [ref=e27]: "Location(s):"
+              - definition [ref=e28]: Bellevue WA US
+            - generic [ref=e29]:
+              - term [ref=e30]: "Job Posting Start Date:"
+              - definition [ref=e31]: 2026-05-12
+            - generic [ref=e32]:
+              - term [ref=e33]: "Job ID:"
+              - definition [ref=e34]: R5041190
+          - generic [ref=e35]:
+            - heading "Share this job:" [level=3] [ref=e36]
+            - generic [ref=e37]:
+              - link "Share job to GE Vernova Facebook page (link opens in new tab)" [ref=e38] [cursor=pointer]:
+                - /url: https://www.facebook.com/sharer/sharer.php?u=https://careers.gevernova.com/ai-engineer/job/R5041190
+                - img "Facebook f icon" [ref=e39]
+              - link "Share job to GE Vernova LinkedIn page (link opens in new tab)" [ref=e41] [cursor=pointer]:
+                - /url: https://www.linkedin.com/sharing/share-offsite/?url=https://careers.gevernova.com/ai-engineer/job/R5041190
+                - img "Linkedin in icon" [ref=e42]
+              - link "Share job to GE Vernova X.com (formerly Twitter) (link opens in new tab)" [ref=e44] [cursor=pointer]:
+                - /url: https://twitter.com/intent/tweet?url=https://careers.gevernova.com/ai-engineer/job/R5041190
+                - img "X Twitter icon" [ref=e45]
+              - link "Share job via e-mail (link opens in new tab)" [ref=e47] [cursor=pointer]:
+                - /url: mailto:?subject=Checkout%20This%20Job%20Opportunity&body=I%20found%20this%20job%20opportunity%20and%20thought%20you%20might%20be%20interested%20in%20applying.%20Check%20it%20out%20here:%20https://careers.gevernova.com/ai-engineer/job/R5041190
+                - img "Instagram icon" [ref=e48]
+        - generic [ref=e50]:
+          - link "Conversational apply Loading..." [ref=e51] [cursor=pointer]:
+            - /url: https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue-WA-US/AI-Engineer_R5041190/apply
+            - text: Conversational apply
+            - img [ref=e53]
+            - generic [ref=e55]: Loading...
+          - link "Apply for AI Engineer (link opens in new tab)" [ref=e56] [cursor=pointer]:
+            - /url: https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue-WA-US/AI-Engineer_R5041190/apply
+            - text: Standard Apply
+            - img [ref=e58]
+      - generic [ref=e64]:
+        - generic [ref=e65]: Job Description
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - heading "Job Description Summary" [level=1] [ref=e68]:
+              - generic [ref=e71]: Job Description Summary
+            - text: GE Vernova is seeking a AI Engineer to support the development and deployment of AI-driven systems that enable intelligent automation across AEMS, ADMS, and DERMS applications. This is a hands-on role ideal for early-career engineers looking to build experience in AI systems, backend development, and real-time grid applications.
+            - text: You will work alongside other Engineers to design, develop, and maintain AI-powered services and components that integrate with grid data platforms and operational systems.
+            - paragraph
+            - paragraph
+            - paragraph
+            - heading "Job Description" [level=1] [ref=e72]:
+              - generic [ref=e73]: Job Description
+            - paragraph [ref=e74]:
+              - generic [ref=e75]: "Responsibilities:"
+            - list [ref=e76]:
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: Assist in developing components of AI agent frameworks, including orchestration workflows, tool integrations, and basic state management.
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Build and maintain backend services in Python (or Java/Go/C++) to support AI inference and data processing.
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: Support development of LLM-based applications, including prompt design, tool usage, and evaluation workflows.
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: Contribute to model integration and deployment, including working with APIs and inference endpoints.
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: Help develop microservices and data pipelines for processing time-series and streaming data.
+              - listitem [ref=e87]:
+                - paragraph [ref=e88]: Assist in integrating AI services with grid systems such as SCADA and simulation tools.
+              - listitem [ref=e89]:
+                - paragraph [ref=e90]: Participate in performance tuning and debugging of distributed systems under guidance.
+              - listitem [ref=e91]:
+                - paragraph [ref=e92]: Contribute to CI/CD pipelines, testing, and monitoring for AI services.
+              - listitem [ref=e93]:
+                - paragraph [ref=e94]: Implement logging and basic explainability features for AI outputs.
+              - listitem [ref=e95]:
+                - paragraph [ref=e96]: Collaborate in code reviews and contribute to shared codebases following engineering best practices.
+            - paragraph
+            - paragraph [ref=e97]:
+              - generic [ref=e98]: "Requirements:"
+            - list [ref=e99]:
+              - listitem [ref=e100]:
+                - paragraph [ref=e101]: Bachelor’s or Master’s degree in Computer Science, AI/ML, or a related field.
+              - listitem [ref=e102]:
+                - paragraph [ref=e103]: 0–3 years of software development or AI/ML experience (internships/projects included).
+            - paragraph
+            - paragraph [ref=e104]:
+              - generic [ref=e105]: "Preferred:"
+            - list [ref=e106]:
+              - listitem [ref=e107]:
+                - paragraph [ref=e108]: Proficiency in Python; exposure to Java, C++, or Go is a plus.
+              - listitem [ref=e109]:
+                - paragraph [ref=e110]: Basic understanding of machine learning concepts and LLM applications.
+              - listitem [ref=e111]:
+                - paragraph [ref=e112]: Familiarity with APIs, backend development, and microservices concepts.
+              - listitem [ref=e113]:
+                - paragraph [ref=e114]: Exposure to cloud, containers (Docker), or orchestration (Kubernetes) is a plus.
+              - listitem [ref=e115]:
+                - paragraph [ref=e116]: Understanding of data structures, algorithms, and software engineering fundamentals.
+              - listitem [ref=e117]:
+                - paragraph [ref=e118]: Interest in distributed systems and real-time data processing.
+              - listitem [ref=e119]:
+                - paragraph [ref=e120]: Familiarity with power systems (EMS, DMS, SCADA) is a plus but not required.
+            - paragraph
+            - paragraph [ref=e121]:
+              - generic [ref=e122]: "What You’ll Gain:"
+            - list [ref=e123]:
+              - listitem [ref=e124]:
+                - paragraph [ref=e125]: Hands-on experience building production AI systems in a mission-critical domain.
+              - listitem [ref=e126]:
+                - paragraph [ref=e127]: Mentorship from experienced engineers in AI, distributed systems, and grid software.
+              - listitem [ref=e128]:
+                - paragraph [ref=e129]: Exposure to real-world applications of AI in energy and infrastructure.
+              - listitem [ref=e130]:
+                - paragraph [ref=e131]: Opportunities to grow into more advanced engineering roles.
+            - paragraph
+            - paragraph
+            - generic [ref=e138]:
+              - paragraph [ref=e139]:
+                - text: GE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an
+                - link "Equal Opportunity Employer" [ref=e140] [cursor=pointer]:
+                  - /url: https://www.eeoc.gov/sites/default/files/2022-10/22-088_EEOC_KnowYourRights_10_20.pdf
+                - generic [ref=e141]:
+                  - link "." [ref=e142] [cursor=pointer]:
+                    - /url: http://www.ge.com/sites/default/files/15-000845%20EEO%20combined.pdf
+                  - text: Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+              - paragraph
+            - paragraph
+            - paragraph
+            - generic [ref=e149]:
+              - paragraph [ref=e150]: GE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).
+              - paragraph
+            - paragraph
+            - paragraph
+            - generic [ref=e157]:
+              - paragraph [ref=e158]: "Relocation Assistance Provided: Yes"
+              - paragraph
+              - paragraph
+            - paragraph
+            - paragraph
+            - paragraph [ref=e159]
+            - paragraph [ref=e160]
+            - text: For candidates applying to a U.S. based position, the pay range for this position is between $108,560.00 and $162,840.00. The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set.
+            - paragraph [ref=e161]
+            - paragraph [ref=e162]
+            - text: "Bonus eligibility: discretionary annual bonus."
+            - paragraph [ref=e163]
+            - paragraph [ref=e164]
+            - text: This posting is expected to remain open for at least seven days after it was posted on May 12, 2026.
+            - paragraph [ref=e165]
+            - paragraph [ref=e166]
+            - text: Available benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services. Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants. Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance, 12 paid holidays, and permissive time off.
+            - paragraph [ref=e167]
+            - paragraph [ref=e168]
+            - text: GE Vernova Inc. or its affiliates (collectively or individually, “GE Vernova”) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a GE Vernova welfare benefit plan or program. This document does not create a contract of employment with any individual.
+          - generic [ref=e169]:
+            - link "Conversational apply Loading..." [ref=e170] [cursor=pointer]:
+              - /url: https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue-WA-US/AI-Engineer_R5041190/apply
+              - text: Conversational apply
+              - img [ref=e172]
+              - generic [ref=e174]: Loading...
+            - link "Apply for AI Engineer (link opens in new tab)" [ref=e175] [cursor=pointer]:
+              - /url: https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue-WA-US/AI-Engineer_R5041190/apply
+              - text: Standard Apply
+              - img [ref=e177]
+  - contentinfo [ref=e179]:
+    - generic [ref=e180]:
+      - generic [ref=e181]:
+        - generic [ref=e182]:
+          - img [ref=e183]
+          - paragraph [ref=e185]: GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+          - generic [ref=e186]:
+            - generic [ref=e187]: Follow us on
+            - list [ref=e188]:
+              - listitem [ref=e189]:
+                - link "Visit GE Vernova Facebook (opens in new tab)" [ref=e190] [cursor=pointer]:
+                  - /url: https://www.facebook.com/gevernovajobs/
+                  - img [ref=e191]
+              - listitem [ref=e193]:
+                - link "Visit GE Vernova LinkedIn (opens in new tab)" [ref=e194] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/gevernova/
+                  - img [ref=e195]
+              - listitem [ref=e197]:
+                - link "Visit GE Vernova Intagram (opens in new tab)" [ref=e198] [cursor=pointer]:
+                  - /url: https://www.instagram.com/gevernova_jobs/
+                  - img [ref=e199]
+              - listitem [ref=e201]:
+                - link "Visit GE Vernova YouTube (opens in new tab)" [ref=e202] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@gevernova
+                  - img [ref=e203]
+              - listitem [ref=e205]:
+                - link "Visit GE Vernova X (opens in new tab)" [ref=e206] [cursor=pointer]:
+                  - /url: https://x.com/gevernova_jobs
+                  - img [ref=e207]
+        - generic [ref=e209]:
+          - generic [ref=e210]:
+            - generic [ref=e211]: Who We Hire
+            - list [ref=e212]:
+              - listitem [ref=e213]:
+                - link "Digital Technology & IT" [ref=e214] [cursor=pointer]:
+                  - /url: /digital-technology-and-it
+              - listitem [ref=e215]:
+                - link "Engineering & Technology" [ref=e216] [cursor=pointer]:
+                  - /url: /engineering-and-technology
+              - listitem [ref=e217]:
+                - link "Manufacturing & Logistics" [ref=e218] [cursor=pointer]:
+                  - /url: /manufacturing-and-logistics
+              - listitem [ref=e219]:
+                - link "Project Management" [ref=e220] [cursor=pointer]:
+                  - /url: /project-management
+              - listitem [ref=e221]:
+                - link "Quality" [ref=e222] [cursor=pointer]:
+                  - /url: /quality
+              - listitem [ref=e223]:
+                - link "Sales" [ref=e224] [cursor=pointer]:
+                  - /url: /sales
+              - listitem [ref=e225]:
+                - link "Services" [ref=e226] [cursor=pointer]:
+                  - /url: /services
+              - listitem [ref=e227]:
+                - link "Sourcing & Supply Chain" [ref=e228] [cursor=pointer]:
+                  - /url: /sourcing-and-supply-chain
+          - generic [ref=e229]:
+            - generic [ref=e230]: Early Careers
+            - list [ref=e231]:
+              - listitem [ref=e232]:
+                - link "Internships" [ref=e233] [cursor=pointer]:
+                  - /url: /early-careers
+              - listitem [ref=e234]:
+                - link "Entry-Level Positions" [ref=e235] [cursor=pointer]:
+                  - /url: /early-careers
+              - listitem [ref=e236]:
+                - link "All Opportunities" [ref=e237] [cursor=pointer]:
+                  - /url: /jobs
+          - generic [ref=e238]:
+            - generic [ref=e239]: Quick Links
+            - list [ref=e240]:
+              - listitem [ref=e241]:
+                - link "Visit Pay Transparency (opens in new tab)" [ref=e242] [cursor=pointer]:
+                  - /url: https://dokumfe7mps0i.cloudfront.net/oms/17054/document/2025/11/ILHWP_1764180404650/1764180404650.pdf
+                  - text: US Pay Transparency
+              - listitem [ref=e243]:
+                - link "Visit Candidate Privacy Notice (opens in new tab)" [ref=e244] [cursor=pointer]:
+                  - /url: https://www.gevernova.com/careers/candidate-privacy
+                  - text: Candidate Privacy Notice
+              - listitem [ref=e245]:
+                - link "Visit Fraud Alert (opens in new tab)" [ref=e246] [cursor=pointer]:
+                  - /url: https://www.gevernova.com/fraud-alert
+                  - text: Fraud Alert
+              - listitem [ref=e247]:
+                - link "Visit Brazil Pay Transparency (Relatório de Transparência Salarial) (opens in new tab)" [ref=e248] [cursor=pointer]:
+                  - /url: https://dokumfe7mps0i.cloudfront.net/oms/17054/document/2026/3/doclib_476359_MMSVV_1774378271517799407_1774378271638/1774378271638.pdf
+                  - text: Brazil Pay Transparency (Relatório de Transparência Salarial)
+      - generic [ref=e249]:
+        - list [ref=e250]:
+          - listitem [ref=e251]:
+            - link "Visit Accessibility (opens in new tab)" [ref=e252] [cursor=pointer]:
+              - /url: https://www.gevernova.com/accessibility
+              - text: Accessibility
+          - listitem [ref=e253]:
+            - link "Visit Terms (opens in new tab)" [ref=e254] [cursor=pointer]:
+              - /url: https://www.gevernova.com/terms
+              - text: Terms
+          - listitem [ref=e255]:
+            - link "Visit Cookies (opens in new tab)" [ref=e256] [cursor=pointer]:
+              - /url: https://www.gevernova.com/privacy#_cookies_and_similar
+              - text: Cookies
+          - listitem [ref=e257]:
+            - link "Visit Privacy (opens in new tab)" [ref=e258] [cursor=pointer]:
+              - /url: https://www.gevernova.com/careers/candidate-privacy
+              - text: Privacy
+          - listitem [ref=e259]:
+            - link "Visit Contact Us (opens in new tab)" [ref=e260] [cursor=pointer]:
+              - /url: https://gevn-hr.custhelp.com/app/GE/careers_guide
+              - text: Contact Us
+        - generic [ref=e261]:
+          - generic [ref=e262]: © 2026 GE Vernova and/or its affiliates. All rights reserved.
+          - generic [ref=e263]: GE is a trademark of General Electric Company and is used under trademark license
+  - img:
+    - img

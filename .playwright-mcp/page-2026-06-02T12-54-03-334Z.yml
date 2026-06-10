@@ -1,0 +1,199 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - link "Skip to content" [ref=e6] [cursor=pointer]:
+        - /url: "#main"
+      - link "Deloitte US" [ref=e7] [cursor=pointer]:
+        - /url: https://www2.deloitte.com/us/en/pages/careers/topics/careers.html
+        - heading "Deloitte US" [level=1] [ref=e8]
+      - generic:
+        - generic [ref=e13] [cursor=pointer]: Menu
+        - navigation "Main site navigation" [ref=e14]:
+          - list [ref=e15]:
+            - menuitem "Home" [ref=e16]:
+              - link "Home" [ref=e17] [cursor=pointer]:
+                - /url: https://apply.deloitte.com/
+            - listitem [ref=e18]:
+              - link " Jobs" [ref=e19]:
+                - /url: "#"
+            - listitem [ref=e20]:
+              - link "Events" [ref=e21] [cursor=pointer]:
+                - /url: /eventlisting
+          - list [ref=e22]:
+            - listitem [ref=e23]:
+              - link "Login" [ref=e24] [cursor=pointer]:
+                - /url: https://apply.deloitte.com/en_US/careers/Login?utm_source=Simplify&ref=Simplify
+  - main [ref=e25]:
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - article [ref=e32]:
+              - generic [ref=e34]:
+                - heading "Agentic Software Engineer I" [level=2] [ref=e35]
+                - generic [ref=e36]: Engineering and Product | Software Engineering
+                - generic [ref=e37]: Same job available in 13 locations 
+            - link " Back to search results" [ref=e39] [cursor=pointer]:
+              - /url: https://apply.deloitte.com/en_US/careers/SearchJobs
+          - generic [ref=e40]:
+            - article [ref=e41]:
+              - link "Apply now" [ref=e44] [cursor=pointer]:
+                - /url: https://apply.deloitte.com/en_US/careers/Login?jobId=354284
+              - generic [ref=e46]:
+                - generic [ref=e47]: "Share:"
+                - generic:
+                  - link "Share Agentic Software Engineer I with Facebook Share Agentic Software Engineer I with Facebook" [ref=e48] [cursor=pointer]:
+                    - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fapply.deloitte.com%2Fen_US%2Fcareers%2FJobDetail%2FAgentic-Software-Engineer-I%2F354284&display=popup
+                    - img "Share Agentic Software Engineer I with Facebook" [ref=e49]
+                    - generic [ref=e50]: Share Agentic Software Engineer I with Facebook
+                  - link "Share Agentic Software Engineer I with LinkedIn Share Agentic Software Engineer I with LinkedIn" [ref=e51] [cursor=pointer]:
+                    - /url: https://apply.deloitte.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fapply.deloitte.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fapply.deloitte.com%2Fen_US%2Fcareers%2FJobDetail%2FAgentic-Software-Engineer-I%2F354284
+                    - img "Share Agentic Software Engineer I with LinkedIn" [ref=e52]
+                    - generic [ref=e53]: Share Agentic Software Engineer I with LinkedIn
+                  - link "Share Agentic Software Engineer I with Twitter Share Agentic Software Engineer I with Twitter" [ref=e54] [cursor=pointer]:
+                    - /url: http://twitter.com/intent/tweet?url=https%3A%2F%2Fapply.deloitte.com%2Fen_US%2Fcareers%2FJobDetail%2FAgentic-Software-Engineer-I%2F354284&text=Check+out+this+job+at+Deloitte%2C+Agentic+Software+Engineer+I
+                    - img "Share Agentic Software Engineer I with Twitter" [ref=e55]
+                    - generic [ref=e56]: Share Agentic Software Engineer I with Twitter
+              - paragraph [ref=e59]:
+                - strong [ref=e60]:
+                  - generic [ref=e61]: 
+                  - text: Caution
+                - text: against fraudulent job offers.
+                - link "Learn more" [ref=e62] [cursor=pointer]:
+                  - /url: "#scam__alert"
+                - text: .
+            - text: 
+        - generic [ref=e64]:
+          - article [ref=e69]:
+            - heading "Position Summary" [level=3] [ref=e72]
+            - generic [ref=e74]:
+              - generic [ref=e77]:
+                - paragraph [ref=e78]: Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creatives, designers, engineers, and architects. Our team balances business strategy, technology, creativity, and ongoing managed services to solve the biggest problems that affect customers, partners, constituents, and the workforce.
+                - paragraph [ref=e79]:
+                  - strong [ref=e80]: Work you'll do
+                - paragraph [ref=e81]: As a Software Engineer I on the Customer team, you will support AI-assisted software delivery across the software development lifecycle, helping teams translate requirements into structured workflows, validate outputs, and deliver high-quality technology solutions.
+                - list [ref=e82]:
+                  - listitem [ref=e83]: Break down business and technical requirements into structured tasks and context for agent-assisted delivery workflows
+                  - listitem [ref=e84]: Execute assigned software development lifecycle activities across build, test, release, and validation
+                  - listitem [ref=e85]: Collaborate with architecture, engineering, quality assurance, product, user experience, and technical documentation teams to support delivery consistency
+                  - listitem [ref=e86]: Review agent-generated requirements, code, test assets, and technical documentation for quality, completeness, and alignment to requirements
+                  - listitem [ref=e87]: Apply engineering standards, code quality practices, and delivery controls to support reliable implementation
+                - paragraph [ref=e88]: "A successful candidate would possess these skills:"
+                - list [ref=e89]:
+                  - listitem [ref=e90]: Ability to work independently and collaborate as part of a team
+                  - listitem [ref=e91]: Effective written and verbal communication skills
+                  - listitem [ref=e92]: Meticulous attention to detail and quality of work product
+                  - listitem [ref=e93]: Ability to build and sustain professional relationships
+                  - listitem [ref=e94]: Ability to lead projects or workstreams
+                  - listitem [ref=e95]: Ability to manage and prioritize multiple tasks in a fast-paced and dynamic environment
+                  - listitem [ref=e96]: Strong interpersonal skills and professional demeanor
+                  - listitem [ref=e97]: Ability to meet deadlines
+                  - listitem [ref=e98]: Ability to provide clear guidance to others
+                - paragraph [ref=e99]:
+                  - strong [ref=e100]: The team
+                - paragraph [ref=e101]: Deloitte’s Government & Public Services (GPS) practice – our people, ideas, technology and outcomes – is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.
+                - paragraph [ref=e102]: Our Sales & Service offering designs and implements sales and service experiences, capabilities, and architectures required to bring customer strategies to life.
+                - paragraph [ref=e103]:
+                  - strong [ref=e104]: Qualifications
+                - paragraph [ref=e105]:
+                  - strong [ref=e106]: "Required:"
+                - list [ref=e107]:
+                  - listitem [ref=e108]: Bachelor’s degree in Computer Science, Engineering, Information Systems, Data Science, Mathematics, or a technical field
+                  - listitem [ref=e109]: 1+ years of experience in software engineering, quality engineering, DevOps, site reliability engineering, or software development lifecycle delivery roles using Python, JavaScript, Java, or another programming language
+                  - listitem [ref=e110]: 1+ years of experience using AI-assisted development tools such as Claude, GitHub Copilot, or Cursor in a professional or project-based setting
+                  - listitem [ref=e111]: 1+ years of experience reviewing code, tests, or technical deliverables for quality, completeness, and alignment to documented requirements
+                  - listitem [ref=e112]: 1+ years of experience working in Agile delivery environments, including sprint execution, backlog refinement, and iterative delivery
+                  - listitem [ref=e113]: Ability to travel 0-50%, on average, based on the work you do and the clients and industries/sectors you serve
+                  - listitem [ref=e114]: Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future
+                - paragraph [ref=e115]:
+                  - strong [ref=e116]: "Preferred:"
+                - list [ref=e117]:
+                  - listitem [ref=e118]: Experience translating business or technical requirements into technical tasks, build activities, test cases, or deployment steps
+                  - listitem [ref=e119]: Experience working with at least one cloud platform such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP)
+                  - listitem [ref=e120]: Experience using at least one continuous integration/continuous delivery (CI/CD), DevSecOps, or automation toolchain
+                  - listitem [ref=e121]: Experience applying at least two software quality practices such as automated testing, code review, static analysis, monitoring, or release validation
+                  - listitem [ref=e122]: Experience with prompt engineering, context design, or structured prompting for AI-assisted development
+                  - listitem [ref=e123]: Experience with containerization, deployment automation, or platform engineering practices
+                - paragraph [ref=e124]: For individuals assigned and/or hired to work in Illinois, Deloitte is required by law to include a reasonable estimate of the compensation range for this role. This compensation range is specific to Illinois and takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $61,700 to $121,500.
+                - paragraph [ref=e125]: You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.
+              - generic [ref=e126]: Deloitte is committed to providing reasonable accommodations for people with disabilities. If you require a reasonable accommodation to participate in the recruiting process, please direct your inquiries to the Global Call Center (GCC) at USTalentCICInbox@deloitte.com.
+              - generic [ref=e128]:
+                - strong [ref=e129]: Recruiting tips
+                - text: From developing a stand out resume to putting your best foot forward in the interview, we want you to feel prepared and confident as you explore opportunities at Deloitte.
+                - link "Check out recruiting tips from Deloitte recruiters." [ref=e130] [cursor=pointer]:
+                  - /url: https://www2.deloitte.com/us/en/pages/careers/topics/recruiting-tips.html
+              - generic [ref=e132]:
+                - strong [ref=e133]: Benefits
+                - text: At Deloitte, we know that great people make a great organization. We value our people and offer employees a broad range of benefits.
+                - link "Learn more about what working at Deloitte can mean for you." [ref=e134] [cursor=pointer]:
+                  - /url: https://www2.deloitte.com/us/en/pages/careers/articles/life-at-deloitte-benefits-and-rewards.html
+              - generic [ref=e136]:
+                - strong [ref=e137]: Our people and culture
+                - text: Our inclusive culture empowers our people to be who they are, contribute their unique perspectives, and make a difference individually and collectively. It enables us to leverage different ways of thinking, ideas, and perspectives, and bring more creativity and innovation to help solve our clients' most complex challenges. This makes Deloitte one of the most rewarding places to work.
+              - generic [ref=e139]:
+                - strong [ref=e141]: Our purpose
+                - generic [ref=e143]:
+                  - text: Deloitte’s purpose is to make an impact that matters for our people, clients, and communities. At Deloitte, purpose is synonymous with how we work every day. It defines who we are. Our purpose comes through in our work with clients that enables impact and value in their organizations, as well as through our own investments, commitments, and actions across areas that help drive positive outcomes for our communities.
+                  - link "Learn more." [ref=e144] [cursor=pointer]:
+                    - /url: https://www2.deloitte.com/us/en/pages/about-deloitte/articles/purpose-at-deloitte-us.html
+              - generic [ref=e146]:
+                - strong [ref=e147]: Professional development
+                - text: From entry-level employees to senior leaders, we believe there’s always room to learn. We offer opportunities to build new skills, take on leadership opportunities and connect and grow through mentorship. From on-the-job learning experiences to formal development programs, our professionals have a variety of opportunities to continue to grow throughout their career.
+              - generic [ref=e150]:
+                - text: As used in this posting, "Deloitte" means Deloitte Consulting LLP, a subsidiary of Deloitte LLP. Please see
+                - link "https://www.deloitte.com/us/about" [ref=e151] [cursor=pointer]:
+                  - /url: https://www.deloitte.com/us/about
+                - text: for a detailed description of the legal structure of Deloitte LLP and its subsidiaries.
+                - generic [ref=e153]: All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.
+              - generic [ref=e154]: "Requisition code: 354284"
+          - article [ref=e156]:
+            - article [ref=e158]
+      - text: 
+  - list [ref=e162]:
+    - listitem [ref=e163]:
+      - link "About Deloitte" [ref=e164] [cursor=pointer]:
+        - /url: https://www2.deloitte.com/us/en/footerlinks1/about-deloitte.html
+      - text: "|"
+    - listitem [ref=e165]:
+      - link "Terms of use" [ref=e166] [cursor=pointer]:
+        - /url: https://www2.deloitte.com/us/en/footerlinks1/terms-of-use.html
+      - text: "|"
+    - listitem [ref=e167]:
+      - link "Privacy" [ref=e168] [cursor=pointer]:
+        - /url: https://www2.deloitte.com/us/en/legal/privacy-notices.html?nc=1
+      - text: "|"
+    - listitem [ref=e169]:
+      - link "Data Privacy Framework" [ref=e170] [cursor=pointer]:
+        - /url: https://www2.deloitte.com/us/en/footerlinks1/privacy-shield.html
+      - text: "|"
+    - listitem [ref=e171]:
+      - link "Do Not Sell or Share My Personal Information" [ref=e172] [cursor=pointer]:
+        - /url: https://www2.deloitte.com/us/en/legal/do-not-sell-my-personal-information.html
+      - text: "|"
+    - listitem [ref=e173]:
+      - link "Cookies" [ref=e174] [cursor=pointer]:
+        - /url: https://cookienotice.deloitte.com/
+      - text: "|"
+    - listitem [ref=e175]:
+      - link "Legal information for job seekers and ADA" [ref=e176] [cursor=pointer]:
+        - /url: https://www2.deloitte.com/us/en/footerlinks1/join-deloitte-legal-information-for-job-seekers.html
+      - text: "|"
+    - listitem [ref=e177]:
+      - link "Labor condition applications" [ref=e178] [cursor=pointer]:
+        - /url: https://www2.deloitte.com/us/en/footerlinks1/labor-condition-applications.html
+      - text: "|"
+    - listitem [ref=e179]:
+      - link "Assistance for people with disabilities" [ref=e180] [cursor=pointer]:
+        - /url: https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html
+  - contentinfo "Footer" [ref=e181]:
+    - generic [ref=e184]:
+      - paragraph [ref=e185]:
+        - text: © 2026. See
+        - link "Terms of Use" [ref=e186] [cursor=pointer]:
+          - /url: https://www2.deloitte.com/us/en/legal/terms-of-use.html
+        - text: for more information.
+      - paragraph [ref=e187]:
+        - text: Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee ("DTTL"), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as "Deloitte Global") does not provide services to clients. In the United States, Deloitte refers to one or more of the US member firms of DTTL, their related entities that operate using the "Deloitte" name in the United States and their respective affiliates. Certain services may not be available to attest clients under the rules and regulations of public accounting. Please see
+        - link "www.deloitte.com/about" [ref=e188] [cursor=pointer]:
+          - /url: https://www.deloitte.com/about
+        - text: to learn more about our global network of member firms.

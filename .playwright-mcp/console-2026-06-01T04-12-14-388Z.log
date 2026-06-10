@@ -1,0 +1,10 @@
+[     108ms] [LOG] Hey you! We like your type. Come join us - https://seatgeek.com/jobs @ https://seatgeek.com/jobs/7858968?gh_jid=7858968&gh_src=Simplify&utm_source=Simplify&dd_referrer=:508
+[     109ms] [LOG] Talos: Anti-tamper crypto enabled (PBKDF2 iterations: 7086 ) @ https://seatgeek.com/talos/mask.v1.0.0.js?v=96f2d5506cea:198
+[    1040ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://seatgeek.com/api/taxonomies_v2?client_id=MTY2MnwxMzgzMzIwMTU4:0
+[    1112ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://seatgeek.com/api/geolocate?client_id=MTY2MnwxMzgzMzIwMTU4:0
+[    1158ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://seatgeek.com/api/taxonomies_v2?client_id=MTY2MnwxMzgzMzIwMTU4:0
+[    2091ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://seatgeek.com/talos/c:0
+[    2197ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://seatgeek.com/jobs/7858968?gh_jid=7858968&gh_src=Simplify&utm_source=Simplify&dd_referrer=:0
+[    2274ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://my.greenhouse.io/users/self?job_post_id=7858968:0
+[    2275ms] UnauthorizedError: Unauthorized: User is not logged in.
+    at Gs.fetchProfile (https://job-boards.cdn.greenhouse.io/assets/entry.client-DJvenSzz.js:61:71218)

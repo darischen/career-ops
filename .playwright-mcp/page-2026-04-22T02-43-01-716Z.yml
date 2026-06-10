@@ -1,0 +1,37 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e8]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - heading [level=1]
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - button "English" [ref=e16] [cursor=pointer]:
+            - generic [ref=e20]: English
+          - button "Sign In" [ref=e22] [cursor=pointer]:
+            - generic [ref=e27]: Sign In
+        - navigation [ref=e28]:
+          - button "Careers Home" [ref=e29] [cursor=pointer]
+          - button "Search for Jobs" [ref=e30] [cursor=pointer]
+  - generic [ref=e37]:
+    - generic [ref=e38]: Follow Us
+    - list [ref=e39]:
+      - listitem [ref=e40] [cursor=pointer]:
+        - link "X" [ref=e41]:
+          - /url: https://twitter.com/illumina
+      - listitem [ref=e45] [cursor=pointer]:
+        - link "YouTube" [ref=e46]:
+          - /url: https://www.youtube.com/playlist?list=PLKRu7cmBQlai7YdNq6jrP1jxDueGBtteZ
+      - listitem [ref=e52] [cursor=pointer]:
+        - link "Glassdoor" [ref=e53]:
+          - /url: https://www.glassdoor.com/Overview/Working-at-Illumina-EI_IE11671.11,19.htm
+      - listitem [ref=e58] [cursor=pointer]:
+        - link "LinkedIn" [ref=e59]:
+          - /url: https://www.linkedin.com/company/illumina/
+      - listitem [ref=e63] [cursor=pointer]:
+        - link "Facebook" [ref=e64]:
+          - /url: https://www.facebook.com/illuminainc
+    - generic [ref=e68]:
+      - img [ref=e72]
+      - generic [ref=e92]: © 2026 Workday, Inc. All rights reserved.

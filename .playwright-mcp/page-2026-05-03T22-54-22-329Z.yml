@@ -1,0 +1,123 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Picogrid" [ref=e6] [cursor=pointer]:
+        - /url: https://picogrid.com
+        - img "Picogrid" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Picogrid’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /picogrid?utm_source=Simplify&ref=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Fullstack Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: El Segundo, CA
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Department" [level=2] [ref=e24]
+          - paragraph [ref=e25]:
+            - generic [ref=e26]: Engineering
+        - generic [ref=e27]:
+          - heading "Compensation" [level=2] [ref=e28]
+          - list [ref=e29]:
+            - listitem [ref=e30]:
+              - generic [ref=e31]: $130K – $185K • Offers Equity • Offers Bonus
+      - generic [ref=e32]:
+        - tablist [ref=e33]:
+          - tab "Overview" [selected] [ref=e34] [cursor=pointer]
+          - tab "Application" [ref=e35] [cursor=pointer]
+        - tabpanel "Overview" [ref=e37]:
+          - generic [ref=e38]:
+            - paragraph [ref=e39]:
+              - strong [ref=e40]: Who we are
+            - paragraph [ref=e41]: Picogrid is a leading venture-backed defense technology company founded to bridge the decades-long gap between modern technology and the critical demands of national security. Today, we're building the essential infrastructure to unify sensors, autonomy, and operators with our technology deployed in active operations around the world. Our mission is to deliver an operational advantage to secure the United States and its allies.
+            - heading "About the Role" [level=2] [ref=e42]:
+              - strong [ref=e43]: About the Role
+            - paragraph [ref=e44]: We’re looking for entrepreneurial, product- and customer-focused full-stack engineers to own up to several bespoke UIs for users from interceptor drone navigators to security forces operators. When a feature needs changes in other parts of our system you will often jump in and help implement those. This is a high-impact, high-autonomy role where you’ll shape real-time geospatial UIs that integrate live video, maps, and controls for complex defense systems. You will work closely with product, design, and customers to turn ambiguous needs into shipping products at lightning speed. You will occasionally travel to the customer to help learn the real requirements and constraints and iterate with them in the field. The role is frontend-heavy (React / TypeScript), but you should be comfortable working across the stack when needed.
+            - paragraph [ref=e45]
+            - heading "Required Qualifications" [level=2] [ref=e46]:
+              - strong [ref=e47]: Required Qualifications
+            - list [ref=e48]:
+              - listitem [ref=e49]:
+                - paragraph [ref=e50]: Experience building production frontend applications with React and TypeScript (or equivalent modern web stack).
+              - listitem [ref=e51]:
+                - paragraph [ref=e52]: Strong intuition for UI/UX.
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: Comfortable operating in ambiguity, taking fuzzy problems and driving toward concrete solutions with minimal high-leverage scope.
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]: Strong ownership mindset focused on shipping customer value and delivering robust, usable solutions.
+              - listitem [ref=e57]:
+                - paragraph [ref=e58]: Full-stack or generalist experience, comfortable contributing to the backend when needed.
+            - paragraph [ref=e59]
+            - heading "Preferred Qualifications" [level=2] [ref=e60]:
+              - strong [ref=e61]: Preferred Qualifications
+            - list [ref=e62]:
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: Experience optimizing web applications in resource and bandwidth constrained environments
+              - listitem [ref=e65]:
+                - paragraph [ref=e66]: Experience with real-time, data-heavy, or geospatial applications (e.g., maps, tracking, control systems, fleet management).
+              - listitem [ref=e67]:
+                - paragraph [ref=e68]:
+                  - text: Experience with
+                  - link "Deck.gl" [ref=e69] [cursor=pointer]:
+                    - /url: http://Deck.gl
+                  - text: ", Mapbox/MapLibre"
+              - listitem [ref=e70]:
+                - paragraph [ref=e71]: High-agency, go-getter who enjoys high-ownership roles and shaping product/architecture in a fast-moving startup environment.
+              - listitem [ref=e72]:
+                - paragraph [ref=e73]: Collaborative and motivated by working on mission-critical, real-world problems.
+              - listitem [ref=e74]:
+                - paragraph [ref=e75]: Experience building ATAK integrations or other Android development.
+              - listitem [ref=e76]:
+                - paragraph [ref=e77]: Experience building offline-first web applications
+            - heading "Compensation & Benefits" [level=1] [ref=e79]:
+              - strong [ref=e80]: Compensation & Benefits
+            - list [ref=e81]:
+              - listitem [ref=e82]:
+                - paragraph [ref=e83]: "Base salary range: $130,000 - $185,000 per year. Base salary is just one part of your total compensation package at Picogrid."
+              - listitem [ref=e84]:
+                - paragraph [ref=e85]: Significant stock options with a high potential upside as an early-stage company
+              - listitem [ref=e86]:
+                - paragraph [ref=e87]: 401(k) with employer matching
+              - listitem [ref=e88]:
+                - paragraph [ref=e89]: Full health coverage (medical, dental, and vision insurance)
+              - listitem [ref=e90]:
+                - paragraph [ref=e91]: Relocation assistance provided
+              - listitem [ref=e92]:
+                - paragraph [ref=e93]: Unlimited PTO (two-week minimum) and 11 paid holidays per year
+              - listitem [ref=e94]:
+                - paragraph [ref=e95]: Paid parental leave for both parents
+              - listitem [ref=e96]:
+                - paragraph [ref=e97]: Lunch provided when working in-office and fully stocked kitchenette
+              - listitem [ref=e98]:
+                - paragraph [ref=e99]: Remote/hybrid-friendly work environment
+              - listitem [ref=e100]:
+                - paragraph [ref=e101]: Free EV charging at the HQ
+              - listitem [ref=e102]:
+                - paragraph [ref=e103]: Unique office in El Segundo, CA stocked with quality coffee, snacks, and craft beer
+            - paragraph [ref=e104]
+            - paragraph [ref=e105]
+            - paragraph [ref=e106]:
+              - strong [ref=e107]: Export Control Requirements
+            - paragraph [ref=e108]: To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State.
+          - link "Apply for this Job" [ref=e109] [cursor=pointer]:
+            - /url: /picogrid/406a5209-a27c-4340-83a0-ea3c26b515f3/application?utm_source=Simplify&ref=Simplify
+            - button "Apply for this Job" [ref=e110]
+  - contentinfo [ref=e111]:
+    - link "Learn more about Ashby" [ref=e112] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e113]: Powered by
+      - img "Ashby" [ref=e114]
+    - paragraph [ref=e120]:
+      - link "Privacy Policy" [ref=e121] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e122] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e123] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

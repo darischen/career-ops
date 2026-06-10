@@ -1,0 +1,207 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e8]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - heading [level=1]
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - button "English" [ref=e16] [cursor=pointer]:
+            - generic [ref=e20]: English
+          - button "Sign In" [ref=e22] [cursor=pointer]:
+            - generic [ref=e27]: Sign In
+        - navigation [ref=e28]:
+          - button "Search for Jobs" [ref=e29] [cursor=pointer]
+  - img "Banner" [ref=e31]
+  - generic [ref=e35]:
+    - alert [ref=e36]: Junior Full Stack Developer page is loaded
+    - generic [ref=e37]:
+      - generic [ref=e455]:
+        - heading "Junior Full Stack Developer" [level=2] [ref=e456]
+        - button "Apply" [ref=e461] [cursor=pointer]
+      - generic [ref=e39]:
+        - heading "Junior Full Stack Developer" [level=2] [ref=e40]
+        - button "Apply" [ref=e45] [cursor=pointer]
+      - generic [ref=e46]:
+        - generic [ref=e47]:
+          - generic [ref=e48]:
+            - generic [ref=e55]:
+              - term [ref=e56]: remote type
+              - definition [ref=e57]: Office
+            - generic [ref=e64]:
+              - term [ref=e65]: locations
+              - definition [ref=e66]: US - IL, Schaumburg
+              - definition [ref=e67]: US - GA, Atlanta
+          - generic [ref=e68]:
+            - generic [ref=e77]:
+              - term [ref=e78]: time type
+              - definition [ref=e79]: Full time
+            - generic [ref=e88]:
+              - term [ref=e89]: posted on
+              - definition [ref=e90]: Posted 23 Days Ago
+            - generic [ref=e99]:
+              - term [ref=e100]: job requisition id
+              - definition [ref=e101]: R179262
+        - generic [ref=e103]:
+          - text: In a world of possibilities, pursue one with endless opportunities. Imagine Next!
+          - paragraph [ref=e104]
+          - text: At Parsons, you can imagine a career where you thrive, work with exceptional people, and be yourself. Guided by our leadership vision of valuing people, embracing agility, and fostering growth, we cultivate an innovative culture that empowers you to achieve your full potential. Unleash your talent and redefine what’s possible.
+          - paragraph [ref=e105]
+          - paragraph [ref=e106]:
+            - generic [ref=e107]: "Job Description:"
+          - paragraph [ref=e108]: The Parsons Smart Mobility team is seeking a talented Full-Stack Software Developer to join our team! In this role, you will have the opportunity to expand your skills and knowledge as a software developer, working alongside excellent mentors.
+          - paragraph [ref=e109]
+          - paragraph [ref=e110]: "What You’ll Be Doing:"
+          - list [ref=e111]:
+            - listitem [ref=e112]:
+              - text: Full-Stack Web Application Development
+              - list [ref=e113]:
+                - listitem [ref=e114]: Design, develop, test, and maintain web-based applications end-to-end using Java on the server side and JavaScript/React on the client side.
+                - listitem [ref=e115]: Implement new features and improve existing ones across the full stack (database, APIs, backend, frontend).
+            - listitem [ref=e116]:
+              - text: Server-Side Java Development
+              - list [ref=e117]:
+                - listitem [ref=e118]:
+                  - text: "Develop and maintain backend services using Java, including:"
+                  - list [ref=e119]:
+                    - listitem [ref=e120]: WildFly application server
+                    - listitem [ref=e121]: Enterprise Java Beans (EJBs) and related Java EE/Jakarta EE technologies
+                    - listitem [ref=e122]: Spring or Spring Boot application server
+                - listitem [ref=e123]: Implement business logic, data access layers, and integration points with other services.
+            - listitem [ref=e124]:
+              - text: API Development
+              - list [ref=e125]:
+                - listitem [ref=e126]: Design, implement, and consume RESTful APIs for communication between front-end applications and backend services.
+                - listitem [ref=e127]: Work with JSON-based request/response payloads and standard HTTP methods and status codes.
+            - listitem [ref=e128]:
+              - text: Front-End Development (React & MUI)
+              - list [ref=e129]:
+                - listitem [ref=e130]:
+                  - text: "Build responsive, user-friendly interfaces using:"
+                  - list [ref=e131]:
+                    - listitem [ref=e132]: React for component-based front-end development
+                    - listitem [ref=e133]: MUI (Material UI) for consistent, modern UI components
+                    - listitem [ref=e134]: Core web technologies including JavaScript, HTML, and CSS
+                - listitem [ref=e135]: Ensure cross-browser compatibility, accessibility, and a high-quality user experience.
+            - listitem [ref=e136]:
+              - text: Database and SQL Development
+              - list [ref=e137]:
+                - listitem [ref=e138]:
+                  - text: "Work with relational databases including:"
+                  - list [ref=e139]:
+                    - listitem [ref=e140]: Microsoft SQL Server
+                    - listitem [ref=e141]: PostgreSQL
+                    - listitem [ref=e142]: MySQL
+                - listitem [ref=e143]: Write and optimize SQL queries, stored procedures, and database schemas to support application features and performance requirements.
+            - listitem [ref=e144]:
+              - text: Additional Technologies & Responsibilities
+              - list [ref=e145]:
+                - listitem [ref=e146]: Collaborate with cross-functional teams (product, QA, DevOps, UX) in an Agile environment.
+                - listitem [ref=e147]: Apply best coding practices, participate in code reviews, and contribute to continuous improvement.
+                - listitem [ref=e148]: Work with other technologies as needed, such as NodeJS, .NET, Python, HTML, CSS, JavaScript
+                - listitem [ref=e149]: Leverage machine learning or other AI related tool and technologies during the development and deployment phases
+                - listitem [ref=e150]: Implement application-level security, basic performance tuning, and error handling.
+          - paragraph [ref=e151]
+          - paragraph [ref=e152]: "What Qualifications You’ll Bring:"
+          - list [ref=e153]:
+            - listitem [ref=e154]:
+              - text: Bachelor's Degree in Computer Science or a related technical field or equivalent experience.
+              - text: "- 0+ years of related professional experience."
+            - listitem [ref=e155]: Experience with server-side Java development, ideally including exposure to Java EE/Jakarta EE, WildFly, EJBs, or Spring / Spring Boot
+            - listitem [ref=e156]: Proficiency with server-side languages, with a strong emphasis on Java; experience with C#, NodeJS, or Python is a plus
+            - listitem [ref=e157]: Familiarity with APIs particularly RESTful APIs, including designing, implementing, or consuming REST services
+            - listitem [ref=e158]: Familiarity with relational databases and SQL, such as Microsoft SQL Server, PostgreSQL, or MySQL
+            - listitem [ref=e159]: Proficiency in JavaScript, HTML, and CSS, with exposure to React and ideally MUI (Material UI) for front-end development
+            - listitem [ref=e160]: Comfortable working in both Windows and Linux environments
+            - listitem [ref=e161]: Familiarity with version control systems, especially Git
+            - listitem [ref=e162]: Demonstrated problem-solving skills; ability to identify issues, analyze root causes, and construct solutions
+            - listitem [ref=e163]: Self-driven, motivated, and able to work both independently and as part of a team
+            - listitem [ref=e164]: Excellent oral and written communication skills
+            - listitem [ref=e165]: Willingness to learn, adapt, and grow in a full-stack Java development environment
+          - paragraph [ref=e166]
+          - paragraph [ref=e167]:
+            - generic [ref=e168]: If you are passionate about software development and eager to grow your career in a dynamic and supportive environment, we encourage you to apply!
+          - paragraph [ref=e169]
+          - paragraph [ref=e170]:
+            - generic [ref=e171]: "Security Clearance Requirement:"
+          - text: None
+          - paragraph [ref=e172]
+          - paragraph [ref=e173]
+          - text: This position is part of our Critical Infrastructure team.
+          - paragraph [ref=e174]
+          - paragraph [ref=e175]
+          - text: For more than 80 years, our experts have designed and delivered the critical infrastructure that connects and protects communities around the world. We work in collaborative teams, both within the company and with our partners and customers, to plan, design, build, and modernize infrastructure. We take special pride in projects and solutions that improve communities as well as people’s quality of life by promoting economic growth, enhancing mobility, and increasing sustainability and resiliency. Powered by our people, we provide the imagination necessary to support our customers’ visions—and to help them see what's next!
+          - paragraph [ref=e176]
+          - paragraph [ref=e177]
+          - text: "Salary Range: $63,600.00 - $111,300.00"
+          - paragraph [ref=e178]
+          - paragraph [ref=e179]
+          - paragraph [ref=e180]
+          - paragraph [ref=e181]
+          - text: We value our employees and want our employees to take care of their overall wellbeing, which is why we offer best-in-class benefits such as medical, dental, vision, paid time off, Employee Stock Ownership Plan (ESOP), 401(k), life insurance, flexible work schedules, and holidays to fit your busy lifestyle!
+          - paragraph [ref=e182]
+          - paragraph [ref=e183]
+          - paragraph [ref=e184]
+          - paragraph [ref=e185]
+          - paragraph [ref=e186]
+          - paragraph [ref=e187]
+          - text: Parsons is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, veteran status or any other protected status.
+          - paragraph [ref=e188]
+          - paragraph [ref=e189]
+          - text: We truly invest and care about our employee’s wellbeing and provide endless growth opportunities as the sky is the limit, so aim for the stars! Imagine next and join the Parsons quest—APPLY TODAY!
+          - paragraph [ref=e190]
+          - paragraph [ref=e191]:
+            - generic [ref=e192]: Parsons is aware of fraudulent recruitment practices. To learn more about recruitment fraud and how to report it, please refer to
+            - link "https://www.parsons.com/fraudulent-recruitment/" [ref=e193] [cursor=pointer]:
+              - /url: https://www.parsons.com/fraudulent-recruitment/
+              - generic [ref=e204]: https://www.parsons.com/fraudulent-recruitment/
+            - text: .
+    - generic [ref=e207]:
+      - heading "About Us" [level=3] [ref=e208]
+      - generic [ref=e210]:
+        - generic [ref=e212]:
+          - paragraph [ref=e213]:
+            - generic [ref=e214]: Founded in 1944, Parsons Corporation, a digitally enabled solutions provider, is focused on creating the future of the defense, intelligence, and critical infrastructure markets. From Earth to outer space, we deliver tomorrow’s solutions today. Equipped with the capabilities required to take on any defense, intelligence, or critical infrastructure challenge, our agile, innovative, and disruptive approach enables us to deliver solutions at the speed of relevance.
+          - paragraph [ref=e215]
+          - paragraph [ref=e216]:
+            - generic [ref=e217]: Our people are our greatest asset. We strive to be an employer of choice that engages employees in the community and creates rewarding career paths to cultivate a resilient workforce that is ready for the future.
+          - paragraph [ref=e218]
+          - paragraph [ref=e219]:
+            - generic [ref=e254]:
+              - text: For more about Parsons, visit
+              - link "parsons.com" [ref=e462] [cursor=pointer]:
+                - /url: http://www.parsons.com
+              - text: and follow us on
+            - link "Facebook" [ref=e463] [cursor=pointer]:
+              - /url: https://www.facebook.com/parsonscorporation/
+            - generic [ref=e290]: ","
+            - link "Twitter" [ref=e464] [cursor=pointer]:
+              - /url: https://twitter.com/parsonscorp/
+            - generic [ref=e325]: ","
+            - link "LinkedIn" [ref=e465] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/parsons/
+            - generic [ref=e360]: ", and"
+            - link "YouTube" [ref=e466] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/parsonscorp/
+            - generic [ref=e395]: .
+        - button "Read Less" [ref=e467] [cursor=pointer]:
+          - generic [ref=e399]: Read Less
+  - generic [ref=e403]:
+    - generic [ref=e404]: Follow Us
+    - list [ref=e405]:
+      - listitem [ref=e406] [cursor=pointer]:
+        - link "Facebook" [ref=e407]:
+          - /url: https://www.facebook.com/parsonscorporation/
+      - listitem [ref=e411] [cursor=pointer]:
+        - link "LinkedIn" [ref=e412]:
+          - /url: https://www.linkedin.com/company/parsons/
+      - listitem [ref=e416] [cursor=pointer]:
+        - link "X" [ref=e417]:
+          - /url: https://twitter.com/parsonscorp/
+      - listitem [ref=e421] [cursor=pointer]:
+        - link "YouTube" [ref=e422]:
+          - /url: https://www.youtube.com/user/parsonscorp/
+    - generic [ref=e428]:
+      - img [ref=e432]
+      - generic [ref=e452]: © 2026 Workday, Inc. All rights reserved.

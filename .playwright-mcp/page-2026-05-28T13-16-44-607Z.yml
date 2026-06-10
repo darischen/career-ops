@@ -1,0 +1,288 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-1779974202"
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - navigation [ref=e8]:
+        - generic [ref=e9]:
+          - button "menu" [ref=e10] [cursor=pointer]
+          - link "Amazon Jobs home page" [ref=e12] [cursor=pointer]:
+            - /url: /en
+            - generic [ref=e14]: Amazon Jobs home page
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - combobox "Search for jobs by title or keyword" [ref=e21]
+            - generic [ref=e23]:
+              - text: h
+              - combobox "search job by location" [ref=e25]
+          - button "Search jobs" [ref=e26] [cursor=pointer]
+        - menu [ref=e30] [cursor=pointer]: My career
+      - generic: h
+      - generic [ref=e31]:
+        - generic [ref=e35]:
+          - generic [ref=e37]:
+            - heading "Software Engineer I" [level=1] [ref=e38]
+            - paragraph [ref=e40]: "Job ID: 3141336 | Twitch Interactive, Inc. - D48"
+          - link "Apply now for Software Engineer I" [ref=e43] [cursor=pointer]:
+            - /url: https://www.amazon.jobs/applicant/jobs/3141336/apply?utm_source=Simplify&ref=Simplify
+            - text: Apply now
+        - generic [ref=e45]:
+          - generic [ref=e47]:
+            - generic [ref=e48]:
+              - heading "Description" [level=2] [ref=e49]
+              - paragraph [ref=e50]:
+                - text: If you are interested in this position, please apply on Twitch's Career site https://www.twitch.tv/jobs/en/
+                - text: "About Us:"
+                - text: Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day.
+                - text: We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X, and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our interview process.
+                - text: About the Role
+                - text: Join Twitch's Commerce Engineering organization, where we're revolutionizing how viewers engage with their favorite creators. We are the teams behind Subscriptions, Gifting, Bits, Hype Train and Turbo products. From experimental features to established systems used by millions, we're constantly pushing the boundaries of what's possible in live streaming.
+                - text: This position and team are based in Seattle, WA and San Francisco, CA
+                - text: You Will
+                - text: "- Craft immersive, interactive experiences that keep viewers supporting creators while engaging with the Twitch Community."
+                - text: "- Architect and build robust, scalable applications that can handle millions of concurrent users"
+                - text: "- Collaborate across teams to create cohesive solutions that drive business impact"
+                - text: "- Transform customer feedback into innovative features that enhance the Twitch experience"
+                - text: Perks
+                - text: "- Medical, Dental, Vision & Disability Insurance"
+                - text: "- 401(k)"
+                - text: "- Maternity & Parental Leave"
+                - text: "- Flexible PTO"
+                - text: "- Amazon Employee Discount"
+            - generic [ref=e51]:
+              - heading "Basic Qualifications" [level=2] [ref=e52]
+              - paragraph [ref=e53]:
+                - text: "- 1+ years of non-internship professional software development experience"
+                - text: "- 0-2 years of professional software development experience"
+                - text: "- Excellent verbal and written communication skills; Ability to effectively collaborate with teammates is critical to success."
+                - text: "- A track record of building consumer-facing products that users love"
+                - text: "- Demonstrable experience of modern programming languages and frameworks"
+                - text: "- Sharp problem-solving skills with a focus on algorithms, data structures, and schema design"
+                - text: "- Bachelor's degree in Computer Science or equivalent real-world experience"
+            - generic [ref=e54]:
+              - heading "Preferred Qualifications" [level=2] [ref=e55]
+              - paragraph [ref=e56]:
+                - text: "- Bachelor's degree in computer science or equivalent"
+                - text: "- Experience with mobile development, either native or hybrid"
+                - text: "- Familiarity with AWS infrastructure"
+                - text: "- Experience with email / notifications technologies"
+                - text: "- Experience writing Go in production systems"
+                - text: Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+                - text: "Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records."
+                - text: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+                - text: Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit
+                - link "https://amazon.jobs/content/en/how-we-hire/accommodations" [ref=e57] [cursor=pointer]:
+                  - /url: https://amazon.jobs/content/en/how-we-hire/accommodations
+                - text: for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+              - paragraph [ref=e58]:
+                - text: The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at
+                - link "https://amazon.jobs/en/benefits" [ref=e59] [cursor=pointer]:
+                  - /url: https://amazon.jobs/en/benefits
+                - text: .
+              - text: USA, CA, San Francisco - 127,100.00 - 185,000.00 USD annually
+              - text: USA, WA, SEATTLE - 110,500.00 - 160,000.00 USD annually
+              - text: USA, WA, Seattle - 110,500.00 - 160,000.00 USD annually
+              - paragraph
+          - generic [ref=e61]:
+            - generic [ref=e62]:
+              - heading "Job details" [level=2] [ref=e64]
+              - list [ref=e65]:
+                - listitem [ref=e66]:
+                  - generic [ref=e67]:
+                    - img "location"
+                    - list [ref=e68]:
+                      - listitem [ref=e69]: USA, WA, Seattle
+                      - listitem [ref=e70]: USA, CA, San Francisco
+                - listitem [ref=e71]:
+                  - generic [ref=e72]:
+                    - img "category"
+                    - list [ref=e73]:
+                      - link "Job category Software Development" [ref=e74] [cursor=pointer]:
+                        - /url: /en/job_categories/software-development
+                        - text: Software Development
+            - generic [ref=e78]:
+              - heading "Recommended jobs" [level=2] [ref=e79]
+              - paragraph [ref=e80]: "Based on your recent activity, you may be interested in:"
+              - list [ref=e81]:
+                - listitem [ref=e82]:
+                  - link "Software Development Engineer – 2026" [ref=e83] [cursor=pointer]:
+                    - /url: /en/jobs/3175845/software-development-engineer-2026
+                  - generic [ref=e84]: "Location: ES, Community of Madrid, Madrid"
+                  - generic [ref=e85]:
+                    - generic [ref=e86]: "Posted: February 6, 2026"
+                    - text: (Updated 2 days ago)
+                - listitem [ref=e87]:
+                  - link "Software Development Engineer – 2026" [ref=e88] [cursor=pointer]:
+                    - /url: /en/jobs/3119226/software-development-engineer-2026
+                  - generic [ref=e89]: "Location: RO, Iasi"
+                  - generic [ref=e90]:
+                    - generic [ref=e91]: "Posted: October 31, 2025"
+                    - text: (Updated 7 months ago)
+                - listitem [ref=e92]:
+                  - link "Software Development Engineer, AWS Data Services - 2026 (US)" [ref=e93] [cursor=pointer]:
+                    - /url: /en/jobs/10414316/software-development-engineer-aws-data-services-2026-us
+                  - generic [ref=e94]: "Location: US, Washington, Seattle"
+                  - generic [ref=e95]:
+                    - generic [ref=e96]: "Posted: May 7, 2026"
+                    - text: (Updated 21 days ago)
+                - listitem [ref=e97]:
+                  - link "DCO Tech, Compute Services" [ref=e98] [cursor=pointer]:
+                    - /url: /en/jobs/10402542/dco-tech-compute-services
+                  - generic [ref=e99]: "Location: US, Virginia, Sterling"
+                  - generic [ref=e100]: (Updated about 1 month ago)
+                - listitem [ref=e101]:
+                  - link "Software Engineer" [ref=e102] [cursor=pointer]:
+                    - /url: /en/jobs/3093439/software-engineer
+                  - generic [ref=e103]: "Location: US, Washington, Seattle"
+                  - generic [ref=e104]:
+                    - generic [ref=e105]: "Posted: September 25, 2025"
+                    - text: (Updated 6 months ago)
+            - generic [ref=e107]:
+              - heading "Share this job" [level=2] [ref=e110]
+              - list [ref=e112]:
+                - listitem [ref=e113]:
+                  - link "Share with facebook" [ref=e114] [cursor=pointer]:
+                    - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Famazon.jobs%2Fen%2Fjobs%2F3141336%2Fsoftware-engineer-i%3Futm_source%3DSimplify%26ref%3DSimplify
+                    - text: b
+                - listitem [ref=e115]:
+                  - link "Share with linkedin" [ref=e116] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Famazon.jobs%2Fen%2Fjobs%2F3141336%2Fsoftware-engineer-i%3Futm_source%3DSimplify%26ref%3DSimplify&title=Software%20Engineer%20I&summary=If%20you%20are%20interested%20in%20this%20position%2C%20please%20apply%20on%20Twitch%27s%20Career%20site%20https%3A%2F%2Fwww.twitch.tv%2Fjobs%2Fen%2F%3Cbr%2F%3E%3Cbr%2F%3EAbout%20Us%3A%3Cbr%2F%3E%3Cbr%2F%3ETwitch%20is%20the%20world%E2%80%99s%20biggest%20live%20streaming%20service%2C%20with%20global%20communities%20built%20around%20gaming%2C...
+                    - text: d
+                - listitem [ref=e117]:
+                  - link "Share with twitter" [ref=e118] [cursor=pointer]:
+                    - /url: https://twitter.com/intent/tweet?text=https%3A%2F%2Famazon.jobs%2Fen%2Fjobs%2F3141336
+                    - text: j
+                - listitem [ref=e119]:
+                  - link "Share with email" [ref=e120] [cursor=pointer]:
+                    - /url: mailto:?body=https%3A%2F%2Famazon.jobs%2Fen%2Fjobs%2F3141336&subject=Take%20a%20look%20at%20this%20job
+                    - text: l
+                - listitem [ref=e121]:
+                  - link "Print this job" [ref=e122] [cursor=pointer]:
+                    - /url: "#"
+                    - text: m
+    - generic [ref=e123]:
+      - generic [ref=e126]:
+        - generic [ref=e127]: JOIN US ON
+        - list [ref=e128]:
+          - listitem [ref=e129]:
+            - link "Join us on facebook" [ref=e130] [cursor=pointer]:
+              - /url: https://www.facebook.com/InsideAmazon/?Amazon.jobs=footer
+              - text: b
+          - listitem [ref=e131]:
+            - link "Join us on linkedin" [ref=e132] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/amazon?Amazon.jobs=footer
+              - text: d
+          - listitem [ref=e133]:
+            - link "Join us on instagram" [ref=e134] [cursor=pointer]:
+              - /url: https://www.instagram.com/insideamazon/?Amazon.jobs=footer
+              - text: c
+          - listitem [ref=e135]:
+            - link "Join us on twitter" [ref=e136] [cursor=pointer]:
+              - /url: https://twitter.com/amazonnews?Amazon.jobs=footer
+              - text: j
+        - generic [ref=e137]:
+          - generic [ref=e138]: DOWNLOAD OUR APP
+          - list [ref=e139]:
+            - listitem [ref=e140]:
+              - link "Download Amazon A to Z from App Store" [ref=e141] [cursor=pointer]:
+                - /url: https://apple.co/4mW6qxK
+                - img [ref=e142]
+            - listitem [ref=e143]:
+              - link "Download Amazon A to Z from Google Play" [ref=e144] [cursor=pointer]:
+                - /url: https://bit.ly/46JGIYu
+                - img [ref=e145]
+      - generic [ref=e149]:
+        - generic [ref=e150]:
+          - text: Find Careers
+          - list [ref=e151]:
+            - listitem [ref=e152]:
+              - link "Job Categories" [ref=e153] [cursor=pointer]:
+                - /url: /content/en/job-categories
+            - listitem [ref=e154]:
+              - link "Teams" [ref=e155] [cursor=pointer]:
+                - /url: /content/en/teams
+            - listitem [ref=e156]:
+              - link "Locations" [ref=e157] [cursor=pointer]:
+                - /url: /content/en/locations
+            - listitem [ref=e158]:
+              - link "Military careers" [ref=e159] [cursor=pointer]:
+                - /url: /content/en/career-programs/military
+            - listitem [ref=e160]:
+              - link "Hourly" [ref=e161] [cursor=pointer]:
+                - /url: /content/en/hourly
+        - generic [ref=e162]:
+          - text: Working At Amazon
+          - list [ref=e163]:
+            - listitem [ref=e164]:
+              - link "Culture" [ref=e165] [cursor=pointer]:
+                - /url: /content/en/our-workplace
+            - listitem [ref=e166]:
+              - link "Benefits" [ref=e167] [cursor=pointer]:
+                - /url: /content/en/benefits
+            - listitem [ref=e168]:
+              - link "Amazon Newsletter" [ref=e169] [cursor=pointer]:
+                - /url: https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_campaign=newslettersubscribers&utm_content=amazonnewssignup&utm_medium=amazonjobs&utm_source=footer
+            - listitem [ref=e170]:
+              - link "Inclusive experiences" [ref=e171] [cursor=pointer]:
+                - /url: /content/en/our-workplace/inclusive-experiences
+            - listitem [ref=e172]:
+              - link "Leadership Principles" [ref=e173] [cursor=pointer]:
+                - /url: /content/en/our-workplace/leadership-principles
+        - generic [ref=e174]:
+          - text: Help
+          - list [ref=e175]:
+            - listitem [ref=e176]:
+              - link "FAQ" [ref=e177] [cursor=pointer]:
+                - /url: /content/en/faq
+            - listitem [ref=e178]:
+              - link "How We Hire" [ref=e179] [cursor=pointer]:
+                - /url: /content/en/how-we-hire#onlineapp
+            - listitem [ref=e180]:
+              - link "Application status" [ref=e181] [cursor=pointer]:
+                - /url: https://www.amazon.jobs/applicant/check_application_status
+            - listitem [ref=e182]:
+              - link "Accommodations" [ref=e183] [cursor=pointer]:
+                - /url: /content/en/how-we-hire/accommodations
+            - listitem [ref=e184]:
+              - link "Legal disclosures and notices" [ref=e185] [cursor=pointer]:
+                - /url: /content/en/legal-disclosures-and-notices
+        - combobox "English" [ref=e191] [cursor=pointer]: English
+      - generic [ref=e193]:
+        - generic [ref=e195]:
+          - generic [ref=e196]: Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+          - generic [ref=e197]:
+            - link "Privacy and Data" [ref=e198] [cursor=pointer]:
+              - /url: /en/privacy_page
+            - link "Impressum" [ref=e199] [cursor=pointer]:
+              - /url: /en/impressum
+          - generic [ref=e200]: © 1996-2026, Amazon.com, Inc. or its affiliates
+        - generic [ref=e201]:
+          - generic [ref=e202]:
+            - generic [ref=e203]:
+              - heading "Notice of Right to Opt-Out Sharing" [level=3] [ref=e204]
+              - button [ref=e205] [cursor=pointer]
+            - paragraph [ref=e206]:
+              - text: Amazon Jobs uses cookies and similar tools such as pixels (collectively, “cookies”) for advertising purposes. The cookies collect and share information about you with third-parties to serve you with relevant advertisements and job recommendations based on your interactions with Amazon Jobs and third-party sites. California residents may exercise their right to opt-out of the sharing of information for advertising purposes by clicking toggling the buttons below. You can also manage your cookie preferences through the
+              - link "Cookie Preference Center" [ref=e207] [cursor=pointer]:
+                - /url: /cookies
+              - text: .
+            - paragraph [ref=e208]:
+              - text: For more information about how we use cookies and information of how we collect cookies, please visit our
+              - link "Candidate Cookie Notice" [ref=e209] [cursor=pointer]:
+                - /url: /privacy_page?region_id=region_us&notice_id=us-cookies-notice-english
+              - text: and
+              - link "Candidate Privacy Notice" [ref=e210] [cursor=pointer]:
+                - /url: /privacy_page?region_id=region_us&notice_id=us-privacy-english
+              - text: and the
+              - link "California supplement notice" [ref=e211] [cursor=pointer]:
+                - /url: /privacy_page?region_id=region_california&notice_id=california-privacy-english
+              - text: .
+          - list [ref=e213]:
+            - listitem [ref=e214]:
+              - button "Accept" [ref=e215] [cursor=pointer]: Accept all
+            - listitem [ref=e216]:
+              - button "Reject" [ref=e217] [cursor=pointer]: Reject all
+            - listitem [ref=e218]:
+              - button "Customize" [ref=e219] [cursor=pointer]: Customize cookies
+  - img [ref=e220]
+  - img [ref=e221]

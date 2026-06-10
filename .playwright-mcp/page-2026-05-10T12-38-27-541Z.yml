@@ -1,0 +1,83 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Zettabyte" [ref=e6] [cursor=pointer]:
+        - /url: https://zettabyte.space
+        - img "Zettabyte" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Zettabyte’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /zettabyte-space?utm_source=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer (New Grad)" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: United States
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+      - generic [ref=e29]:
+        - tablist [ref=e30]:
+          - tab "Overview" [ref=e31] [cursor=pointer]
+          - tab "Application" [selected] [ref=e32] [cursor=pointer]
+        - tabpanel "Application" [ref=e34]:
+          - generic [ref=e35]:
+            - button "Choose File" [ref=e36]
+            - generic [ref=e38]:
+              - generic [ref=e39]:
+                - img [ref=e41]
+                - heading "Autofill from resume" [level=3] [ref=e43]
+              - paragraph [ref=e44]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e46] [cursor=pointer]
+          - generic [ref=e48]:
+            - heading "General" [level=2] [ref=e50]
+            - generic [ref=e51]:
+              - generic [ref=e52]: Name*
+              - textbox "Name*" [ref=e54] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e55]:
+              - generic [ref=e56]: Email*
+              - textbox "Email*" [ref=e58] [cursor=pointer]:
+                - /placeholder: hello@example.com...
+            - generic [ref=e59]:
+              - generic [ref=e60]: Resume*
+              - button "Resume*" [ref=e61]
+              - generic [ref=e62]:
+                - button "Upload File" [ref=e63] [cursor=pointer]:
+                  - img [ref=e64]
+                  - generic [ref=e66]: Upload File
+                - paragraph [ref=e67]: or drag and drop here
+            - generic [ref=e68]:
+              - generic [ref=e69]: Do you need visa sponsorship now or in the future*
+              - generic [ref=e70]:
+                - button "Yes" [ref=e71] [cursor=pointer]
+                - button "No" [ref=e72] [cursor=pointer]
+            - generic [ref=e73]:
+              - generic [ref=e74]: Are you able to commute to the office in Palo Alto 3 days a week?*
+              - generic [ref=e75]:
+                - button "Yes" [ref=e76] [cursor=pointer]
+                - button "No" [ref=e77] [cursor=pointer]
+          - button "Submit Application" [ref=e78] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e79]
+  - contentinfo [ref=e81]:
+    - link "Learn more about Ashby" [ref=e82] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e83]: Powered by
+      - img "Ashby" [ref=e84]
+    - paragraph [ref=e90]:
+      - link "Privacy Policy" [ref=e91] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e92] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e93] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

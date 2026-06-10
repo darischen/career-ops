@@ -1,0 +1,95 @@
+- generic [active] [ref=e1]:
+  - link "Palantir Technologies logo" [ref=e4] [cursor=pointer]:
+    - /url: https://jobs.lever.co/palantir
+    - img "Palantir Technologies logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "Software Engineer, New Grad - Defense" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: Washington, D.C.
+          - generic [ref=e14]: Dev /
+          - generic [ref=e15]: Full-time /
+          - generic [ref=e16]: Hybrid
+      - link "Apply" [ref=e18] [cursor=pointer]:
+        - /url: https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - strong [ref=e22]: A World-Changing Company
+        - generic [ref=e24]: Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.
+        - strong [ref=e27]: The Role
+        - generic [ref=e29]: "Software Engineers at Palantir build software at scale to transform how organizations around the world use data. In this role, you’ll have an opportunity to grow more quickly than you ever envisioned as you contribute high-quality code directly to Palantir Gotham: products that are deployed at some of the most important institutions across the government, defense and non-profit sectors. You'll create features used by research scientists, aerospace engineers, intelligence analysts, and economic forecasters in countries around the world. Palantir's Product Development organization is made up of small teams of Software Engineers, each focusing on a specific aspect of a product. For example, you might join a team that builds geospatial mapping tools for mission critical operations, or a component of the Gotham release infrastructure. We encourage communication and collaboration among teams to share context, skills, and experience, so you'll also have the opportunity to learn about other business areas."
+        - strong [ref=e32]: Core Responsibilities
+        - generic [ref=e34]: As a Software Engineer, you are involved throughout the product lifecycle - from idea generation, design, and prototyping, to execution and shipping, all while also being paired with a mentor dedicated to your growth and success. You'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that tackle them. One of the most effective ways to understand what our users need is to meet them. You may receive an opportunity to tour the assembly line at an auto-manufacturer or join a counter-terror analyst at their desk to really understand their mission and difficulties.
+        - strong [ref=e37]: "SWE principles include:"
+        - generic [ref=e39]: "• Ownership: We see projects through from beginning to end in spite of obstacles we may encounter."
+        - generic [ref=e40]: "• Collaboration: We work internally with people from a variety of backgrounds — such as other Software Engineers, Product Managers, Designers and Product Reliability Engineers. We also partner with our business development teams (Forward Deployed Engineers, Deployment Strategists) in order to understand and solve our customers' problems."
+        - generic [ref=e41]: "• Trust: We trust each other to effectively handle time and priorities, and don't micromanage. We want people to have the space to think for themselves, while feeling supported by their team."
+        - strong [ref=e45]: Technologies We Use
+        - generic [ref=e47]: "It doesn’t matter what languages you know when you join us; what matters is that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers that bring diverse experience - whether you’re a former university Teaching Assistant, switched to computer science recently, or are a hackathon enthusiast — you'll build your skills to apply the best technology to solve a given problem. Right now, we use:"
+        - generic [ref=e49]: • A variety of languages, including Java and Go for backend and Typescript for frontend
+        - generic [ref=e50]: • Open-source technologies like Cassandra, Spark, Elasticsearch, React, and Redux
+        - generic [ref=e51]: • Industry-standard build tooling, including Gradle and GitHub
+      - generic [ref=e53]:
+        - heading "What We Value" [level=3] [ref=e54]
+        - list [ref=e57]:
+          - listitem [ref=e58]: Ability to communicate and collaborate with a variety of individuals, including engineers, users and non-technical team members.
+          - listitem [ref=e59]: Willingness to learn and make decisions independently, and the ability to ask questions effectively.
+      - generic [ref=e61]:
+        - heading "What We Require" [level=3] [ref=e62]
+        - list [ref=e65]:
+          - listitem [ref=e66]: Active US Security clearance or eligibility and willingness to obtain a US Security clearance.
+          - listitem [ref=e67]: Engineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.
+          - listitem [ref=e68]: Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.
+          - listitem [ref=e69]: Experience coding in programming languages, such as Java, C++, Python, JavaScript, or similar languages.
+      - generic [ref=e71]:
+        - heading "To apply, please submit the following:" [level=3] [ref=e72]
+        - list [ref=e75]:
+          - listitem [ref=e76]: An updated resume / CV - please do so in PDF format.
+          - listitem [ref=e77]: Thoughtful responses to our application questions.
+      - generic [ref=e78]:
+        - strong [ref=e80]: Salary
+        - generic [ref=e82]: The estimated salary range for this position is estimated to be $145,000 - $155,000/year. Total compensation for this position may also include Restricted Stock units, sign-on bonus and other potential future incentives. Further note that total compensation for this position will be determined by each individual’s relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any potential sign-on bonus; the value of any benefits offered; and the potential future value of any long-term incentives.
+        - generic [ref=e84]: Our benefits aim to promote health and wellbeing across all areas of Palantirians’ lives. We work to continuously improve our offerings and listen to our community as we design and update them. The list below details our available benefits and some of the perks that can be enjoyed as an employee of Palantir Technologies.
+        - strong [ref=e87]: Benefits
+        - generic [ref=e89]: • Employees (and their eligible dependents) can enroll in medical, dental, and vision insurance as well as voluntary life insurance
+        - generic [ref=e90]: • Employees are automatically covered by Palantir’s basic life, AD&D and disability insurance
+        - generic [ref=e91]: • Commuter benefits
+        - generic [ref=e92]: • Relocation assistance
+        - generic [ref=e93]: • Take what you need paid time off, not accrual based
+        - generic [ref=e94]: • 2 weeks paid time off built into the end of each year (subject to team and business needs)
+        - generic [ref=e95]: • 10 paid holidays throughout the calendar year
+        - generic [ref=e96]: • Supportive leave of absence program including time off for military service and medical events
+        - generic [ref=e97]: • Paid leave for new parents and subsidized back-up care for all parents
+        - generic [ref=e98]: • Fertility and family building benefits including but not limited to adoption, surrogacy, and preservation
+        - generic [ref=e99]: • Stipend to help with expenses that come with a new child
+        - generic [ref=e100]: • Employees can enroll in Palantir’s 401k plan
+        - strong [ref=e103]: Life at Palantir
+        - generic [ref=e105]:
+          - text: We want every Palantirian to achieve their best outcomes, that’s why we celebrate individuals’ strengths, skills, and interests, from your first interview to your longterm growth, rather than rely on traditional career ladders. Paying attention to the needs of our community enables us to optimize our opportunities to grow and helps ensure many pathways to success at Palantir. Promoting health and well-being across all areas of Palantirians’ lives is just one of the ways we’re investing in our community. Learn more at
+          - link "Life at Palantir" [ref=e106] [cursor=pointer]:
+            - /url: https://www.palantir.com/careers/life-at-palantir/
+          - text: and note that our offerings may vary by region.
+        - generic [ref=e108]: In keeping consistent with Palantir’s values and culture, we believe employees are “better together” and in-person work affords the opportunity for more creative outcomes. Therefore, we encourage employees to work from our offices to foster connectivity and innovation. Many teams do offer hybrid options (WFH a day or two a week), allowing our employees to strike the right trade-off for their personal productivity. Based on business need, there are a few roles that allow for “Remote” work on an exceptional basis. If you are applying for one of these roles, you must work from the state in which you are employed. If the posting is specified as Onsite, you are required to work from an office.
+        - generic [ref=e110]:
+          - text: If you want to empower the world's most important institutions, you belong here. Palantir values excellence regardless of background. We are proud to be an Equal Opportunity Employer for all, including but not limited to Veterans and those with disabilities. Palantir is committed to making the application and hiring process accessible to everyone and will provide a reasonable accommodation for those living with a disability. If you need an accommodation for the application or hiring process
+          - emphasis [ref=e111]: ","
+          - text: please
+          - link "reach out" [ref=e112] [cursor=pointer]:
+            - /url: mailto:accommodations@palantir.com
+          - text: and let us know how we can help.
+        - generic [ref=e114]:
+          - text: If you would like to understand more about how your personal data will be processed by Palantir, please see our
+          - link "Privacy Policy" [ref=e115] [cursor=pointer]:
+            - /url: https://www.palantir.com/privacy-and-security/candidate-privacy-notice/
+          - text: .
+      - link "Apply" [ref=e117] [cursor=pointer]:
+        - /url: https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply
+  - generic [ref=e119]:
+    - paragraph [ref=e120]:
+      - link "Palantir Technologies Home Page" [ref=e121] [cursor=pointer]:
+        - /url: https://www.palantir.com/
+    - link "Jobs powered by Lever logo" [ref=e122] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e123]: Jobs powered by
+      - img "Lever logo" [ref=e124]

@@ -1,0 +1,504 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Rocket Lab Corporation Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://rocketlabcorp.com/
+        - img "Rocket Lab Corporation Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/rocketlab
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e13]: New
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - heading "Flight Software Engineer I" [level=1] [ref=e16]
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e20]: Littleton, CO
+          - button "Apply" [ref=e21] [cursor=pointer]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - paragraph [ref=e24]:
+              - strong [ref=e25]: ABOUT ROCKET LAB
+            - paragraph [ref=e26]: Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more – all with the goal of opening access to space. The rockets and satellites we build and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstrations.
+            - paragraph [ref=e27]: Our Electron rocket has become the second most frequently launched U.S. rocket annually and has delivered more than 230 satellites to orbit, all while we work to develop Neutron, our upcoming medium-lift, reusable launch vehicle for larger constellation deployment. Our Space Systems business designs and builds our extensive line of satellites, payloads, and their components, including spacecraft that have been selected to support NASA missions to the Moon and Mars and components used on the James Webb Space Telescope.
+            - iframe [ref=e29]:
+              - generic [ref=f9e2]:
+                - generic:
+                  - generic:
+                    - img
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                  - generic:
+                    - img
+                    - generic: Playing in picture-in-picture
+                - generic:
+                  - link "Link to video owner's profile" [ref=f9e10] [cursor=pointer]:
+                    - /url: https://vimeo.com/user30577679?fl=pl&fe=po
+                    - img "Link to video owner's profile" [ref=f9e11]
+                  - generic [ref=f9e12]:
+                    - generic [ref=f9e13]:
+                      - link "Launch Your Career with Rocket Lab" [ref=f9e14] [cursor=pointer]:
+                        - /url: https://vimeo.com/1028198769/22add6027e?fl=pl&fe=ti
+                      - generic [ref=f9e15]: Launch Your Career with Rocket Lab
+                    - link "Rocket Lab" [ref=f9e16] [cursor=pointer]:
+                      - /url: https://vimeo.com/user30577679?fl=pl&fe=by
+                      - generic [ref=f9e17]: Rocket Lab
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Like
+                        - button "Like (this opens in a new window)" [ref=f9e18] [cursor=pointer]:
+                          - img
+                      - generic:
+                        - generic:
+                          - generic: Add to Watch Later
+                        - button "Add to Watch Later (this opens in a new window)" [ref=f9e19] [cursor=pointer]:
+                          - img
+                  - generic:
+                    - button "Play" [ref=f9e21] [cursor=pointer]:
+                      - img [ref=f9e22]
+                      - generic:
+                        - generic: Play
+                    - generic [ref=f9e25]:
+                      - generic [ref=f9e26]:
+                        - slider "Progress Bar" [ref=f9e27] [cursor=pointer]
+                        - generic:
+                          - generic:
+                            - generic: 00:00
+                        - generic [ref=f9e32]: 02:35
+                      - generic [ref=f9e33]:
+                        - generic [ref=f9e34]:
+                          - generic [ref=f9e35]:
+                            - button "Mute" [ref=f9e37] [cursor=pointer]:
+                              - img [ref=f9e38]
+                            - slider "Volume (use up/down arrow keys to change)"
+                          - button "CC/subtitles" [ref=f9e40] [cursor=pointer]:
+                            - img [ref=f9e41]
+                            - generic:
+                              - generic: CC/subtitles
+                          - button "Settings" [ref=f9e43] [cursor=pointer]:
+                            - img [ref=f9e44]
+                            - generic:
+                              - generic: Settings
+                          - button "Transcript" [ref=f9e46] [cursor=pointer]:
+                            - img [ref=f9e47]
+                            - generic:
+                              - generic: Transcript
+                          - button "Picture-in-Picture" [ref=f9e49] [cursor=pointer]:
+                            - img [ref=f9e50]
+                            - generic:
+                              - generic: Picture-in-Picture
+                        - link "Watch on Vimeo" [ref=f9e52] [cursor=pointer]:
+                          - /url: https://vimeo.com/1028198769/22add6027e?fl=pl&fe=vl
+                          - img [ref=f9e53]
+          - generic [ref=e30]:
+            - paragraph [ref=e31]:
+              - strong [ref=e32]: SPACE SYSTEMS
+            - paragraph [ref=e33]: At Rocket Lab, we’re not just launching rockets — we're building the future of space. Our Space Systems team builds everything from complete spacecraft, precision payloads to the components and subsystems that allow them to thrive in space, like solar panels, flight software, star trackers, optical systems, separation systems, radios, and more.
+            - paragraph [ref=e34]: Our Space Systems team has enabled more than 1,700 missions, ranging from interplanetary exploration, in-space manufacturing to national security and defense initiatives. The team has built spacecraft, payloads, and components for missions to the Moon and Mars, working with partners including NASA, the Space Development Agency, and the U.S. Space Force. Whether it’s a single high-performance spacecraft, constellation, or the vertically integrated components that help them get to space — our world class Space Systems team is empowering some of the boldest and most ambitious space missions.
+            - generic [ref=e35]:
+              - paragraph [ref=e36]:
+                - strong [ref=e37]: FLIGHT SOFTWARE ENGINEER I
+              - paragraph [ref=e38]:
+                - text: We are currently seeking a
+                - strong [ref=e39]: Flight Software Engineer I
+                - text: for our team based out our Littleton, CO site. In this role, you will play a key role in supporting the development of flight software for our Space Systems programs. You’ll spend your days participating in all aspects of software design and development, from requirements definition through coding and testing. And when we say test, we mean your software will be on orbit within weeks and months, not years. Thanks to having our own rockets and launch sites, we have frequent opportunities to test and operate our software on orbit. To be successful in this role, you must want to see your software make a big impact on the way we explore space and use it as a platform for discovery and innovation. Join a driven team of pioneers relentlessly tackling challenging projects, delivering on the impossible, and making an impact on the future of space!
+            - paragraph [ref=e40]:
+              - strong [ref=e41]: "WHAT YOU’LL GET TO DO:"
+            - list [ref=e42]:
+              - listitem [ref=e43]: Develop application software to run within a Real Time Operating System (RTOS) and/or embedded Linux
+              - listitem [ref=e44]: Develop hardware drivers to interface to Inertial Measurement Units (IMUs), Star Trackers, Reaction Wheels and other spacecraft sensors and actuators
+              - listitem [ref=e45]: Develop and maintain comprehensive unit tests to run within a Continuous Integration framework
+              - listitem [ref=e46]: Collaborate with hardware-in-the-loop test engineers to verify and validate combined software and hardware functionality
+              - listitem [ref=e47]: Collaborate with systems engineers and embedded systems engineers in developing, documenting and validating requirements
+              - listitem [ref=e48]: Participate in review of source code changes and ensure all changes meet company coding standards
+              - listitem [ref=e49]: Participate in design reviews such as a PDR and CDR
+              - listitem [ref=e50]: Assist with on-orbit (and interplanetary!) flight operations
+            - paragraph [ref=e51]:
+              - strong [ref=e52]: "YOU’LL BRING THESE QUALIFICATIONS AS FLIGHT SOFTWARE ENGINEER I:"
+            - list [ref=e53]:
+              - listitem [ref=e54]: Bachelor's degree in aerospace engineering, computer science, electrical engineering, or equivalent technical degree
+              - listitem [ref=e55]: Experience in embedded software development
+              - listitem [ref=e56]: Proficiency in C and C++ languages
+              - listitem [ref=e57]: Experience with Real Time Operating Systems (RTOS) or with Embedded Linux
+              - listitem [ref=e58]: U.S. citizenship is required, due to program requirements
+            - paragraph [ref=e59]:
+              - strong [ref=e60]: "THESE QUALIFICATIONS WOULD BE NICE TO HAVE:"
+            - list [ref=e61]:
+              - listitem [ref=e62]: Active Secret or TS/SCI security clearance
+              - listitem [ref=e63]: Advanced Degree
+              - listitem [ref=e64]: Experience developing software and drivers with CAN/CAN-FD and/or UDP/TCP within an embedded system
+              - listitem [ref=e65]: Experience developing software for autonomous vehicles operating in harsh environments, such as satellites or autonomous vehicles
+            - paragraph [ref=e66]:
+              - strong [ref=e67]:
+                - generic [ref=e68]: "ADDITIONAL REQUIREMENTS:"
+            - list [ref=e69]:
+              - listitem [ref=e70]: Specific vision abilities required by this job include close vision, distance vision, peripheral vision, depth perception, and the ability to focus.
+              - listitem [ref=e71]: Regularly required to sit, use hands and fingers, operate computer keyboard and controls, and communicate verbally and in writing.
+              - listitem [ref=e72]: Must be physically able to commute to buildings
+              - listitem [ref=e73]: Occasional exposure to dust, fumes and moderate levels of noise.
+            - paragraph [ref=e74]
+          - generic [ref=e76]:
+            - paragraph [ref=e80]:
+              - text: The expected salary range for the position is displayed in accordance with the Colorado Equal Pay for Equal Work Act. Final agreed upon compensation is based upon individual qualifications and experience.
+              - generic [ref=e81]: Base salary is only one part of Rocket Lab’s compensation package for this role. You may be eligible for company stock, or cash incentives, and can purchase discounted stock through Rocket Lab’s Employee Stock Purchase Program. Employee benefits also include medical, dental, and vision insurance coverage; 401(k) retirement plan options; paid vacation, holidays, and sick leave; paid parental leave; and other discounts and perks.
+            - paragraph [ref=e82]: Base Pay Range (CO Only)
+            - paragraph [ref=e83]: $85,000 - $100,000 USD
+          - generic [ref=e84]:
+            - paragraph [ref=e85]
+            - paragraph [ref=e86]:
+              - strong [ref=e87]: WHAT TO EXPECT
+            - paragraph [ref=e88]: We’re on a mission to unlock the potential of space to improve life on Earth, but that’s not an easy task. It takes hard work, determination, relentless innovation, teamwork, grit, and an unwavering commitment to achieving what others often deem impossible. Our people out-think, out-work, and out-pace. We pride ourselves on having each other’s backs, checking our egos at the door, and rolling up our sleeves on all tasks big and small. We thrive under pressure, work to tight deadlines, and our focus is always on how we can deliver, rather than dwelling on the challenges that stand in the way.
+            - paragraph [ref=e89]: "Important information:"
+            - paragraph [ref=e90]:
+              - strong [ref=e92]: "FOR CANDIDATES SEEKING TO WORK IN US OFFICES ONLY:"
+            - paragraph [ref=e93]:
+              - emphasis [ref=e94]:
+                - text: To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum, or be eligible to obtain the required authorizations from the U.S. Department of State and/or the U.S. Department of Commerce, as applicable. Learn more about ITAR
+                - link "here" [ref=e95] [cursor=pointer]:
+                  - /url: https://urldefense.us/v2/url?u=https-3A__www.pmddtc.state.gov_-3Fid-3Dddtc-5Fkb-5Farticle-5Fpage-26sys-5Fid-3D24d528fddbfc930044f9ff621f961987&d=DwMFog&c=N_fLK0KxmM34zjMadXHMx_SQYmXWO3FX0MRVr1hBcn4&r=prjnch9sxomG2ahCicblmM3m-FuPObepspoR1qvWq2I&m=ExC44mBPk2emo4Fr0xPSGZN0UraQ1ZtkDTxwR7iWw5rixcFQb-Wjlv7lJcecLldz&s=0lfm4LyRtFwK220WHBK11DGHWSVvVhQEcfa5G_2Nf18&e=
+                - text: .
+            - paragraph [ref=e96]:
+              - emphasis [ref=e97]: Rocket Lab provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. This policy applies to all terms and conditions of employment at Rocket Lab, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
+            - paragraph [ref=e98]:
+              - emphasis [ref=e99]:
+                - text: Applicants requiring a reasonable accommodation for the application/interview process for a job in the United States should contact Giulia Johnson at
+                - link "g.biow@rocketlabusa.com." [ref=e100] [cursor=pointer]:
+                  - /url: mailto:g.biow@rocketlabusa.com
+                - text: This dedicated resource is intended solely to assist job seekers with disabilities whose disability prevents them from being able to apply/interview. Only messages left for this purpose will be considered. A response to your request may take up to two business days.
+            - paragraph [ref=e101]
+            - paragraph [ref=e102]:
+              - strong [ref=e104]: "FOR CANDIDATES SEEKING TO WORK IN NEW ZEALAND OFFICES ONLY:"
+            - paragraph [ref=e105]:
+              - emphasis [ref=e106]: For security reasons, background checks will be undertaken prior to any employment offers being made to an applicant. These checks will include nationality checks as it is a requirement of this position that you be eligible to access equipment and data regulated by the United States' International Traffic in Arms Regulations.
+            - paragraph [ref=e107]:
+              - emphasis [ref=e108]:
+                - text: Under these Regulations, you may be ineligible for this role if you do not hold citizenship of Australia, Japan, New Zealand, Switzerland, the European Union, or a country that is part of NATO, or if you hold ineligible dual citizenship or nationality. For more information on these Regulations, click here
+                - link "ITAR Regulations." [ref=e109] [cursor=pointer]:
+                  - /url: https://www.federalregister.gov/documents/2020/01/23/2020-00574/international-traffic-in-arms-regulations-us-munitions-list-categories-i-ii-and-iii
+            - paragraph [ref=e110]
+        - generic [ref=e111]:
+          - img [ref=e112]
+          - generic [ref=e114]:
+            - paragraph [ref=e115]: Create a Job Alert
+            - paragraph [ref=e116]: Interested in building your career at Rocket Lab Corporation? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e117] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=rocketlab&source=job_alert_post
+      - separator [ref=e118]
+      - generic [ref=e119]:
+        - generic [ref=e120]:
+          - generic [ref=e121]:
+            - heading "Apply for this job" [level=2] [ref=e123]
+            - generic [ref=e124]:
+              - paragraph [ref=e126]: "*"
+              - paragraph [ref=e127]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e130] [cursor=pointer]
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - generic [ref=e135]:
+              - generic [ref=e136]: First Name*
+              - textbox "First Name" [ref=e137]
+            - generic [ref=e140]:
+              - generic [ref=e141]: Last Name*
+              - textbox "Last Name" [ref=e142]
+            - generic [ref=e145]:
+              - generic [ref=e146]: Email*
+              - textbox "Email" [ref=e147]
+            - group "Phone" [ref=e149]:
+              - generic [ref=e150]: Phone
+              - generic [ref=e153]:
+                - generic [ref=e154]: Country*
+                - generic [ref=e155]:
+                  - log [ref=e157]
+                  - generic [ref=e159]:
+                    - combobox "Country" [ref=e162]
+                    - button "Toggle flyout" [ref=e164] [cursor=pointer]:
+                      - img [ref=e165]
+                  - textbox
+              - generic [ref=e169]:
+                - generic [ref=e170]: Phone*
+                - textbox "Phone" [ref=e172]
+            - group "Resume/CV*" [ref=e174]:
+              - generic [ref=e175]: Resume/CV*
+              - generic [ref=e177]:
+                - generic [ref=e179]:
+                  - button "Attach" [ref=e180] [cursor=pointer]
+                  - generic [ref=e181]: Attach
+                  - button "Attach" [ref=e182]
+                - button "Dropbox" [ref=e184] [cursor=pointer]
+                - button "Google Drive" [ref=e186] [cursor=pointer]
+                - generic [ref=e188]:
+                  - button "Enter manually" [ref=e189] [cursor=pointer]
+                  - generic [ref=e190]: Enter manually
+                - paragraph [ref=e191]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e193]:
+              - generic [ref=e194]: Cover Letter
+              - generic [ref=e196]:
+                - generic [ref=e198]:
+                  - button "Attach" [ref=e199] [cursor=pointer]
+                  - generic [ref=e200]: Attach
+                  - button "Attach" [ref=e201]
+                - button "Dropbox" [ref=e203] [cursor=pointer]
+                - button "Google Drive" [ref=e205] [cursor=pointer]
+                - generic [ref=e207]:
+                  - button "Enter manually" [ref=e208] [cursor=pointer]
+                  - generic [ref=e209]: Enter manually
+                - paragraph [ref=e210]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e211]:
+            - separator [ref=e212]
+            - generic [ref=e213]:
+              - generic [ref=e215]:
+                - generic [ref=e216]: Citizenship Status*
+                - generic [ref=e217]:
+                  - log [ref=e219]
+                  - generic [ref=e221]:
+                    - generic [ref=e222]:
+                      - generic [ref=e223]: Select...
+                      - combobox "Citizenship Status" [ref=e225]
+                    - button "Toggle flyout" [ref=e227] [cursor=pointer]:
+                      - img [ref=e228]
+                  - textbox
+              - paragraph [ref=e232]:
+                - text: To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum, or be eligible to obtain the required authorizations from the U.S. Department of State and/or the U.S. Department of Commerce, as applicable. Learn more about ITAR
+                - link "here" [ref=e233] [cursor=pointer]:
+                  - /url: https://urldefense.us/v2/url?u=https-3A__www.pmddtc.state.gov_-3Fid-3Dddtc-5Fkb-5Farticle-5Fpage-26sys-5Fid-3D24d528fddbfc930044f9ff621f961987&d=DwMFog&c=N_fLK0KxmM34zjMadXHMx_SQYmXWO3FX0MRVr1hBcn4&r=prjnch9sxomG2ahCicblmM3m-FuPObepspoR1qvWq2I&m=ExC44mBPk2emo4Fr0xPSGZN0UraQ1ZtkDTxwR7iWw5rixcFQb-Wjlv7lJcecLldz&s=0lfm4LyRtFwK220WHBK11DGHWSVvVhQEcfa5G_2Nf18&e=
+                - text: .
+            - generic [ref=e236]:
+              - generic [ref=e237]: If Citizenship Status Other, please explain:*
+              - textbox "If Citizenship Status Other, please explain:" [ref=e238]
+            - group "Active Security Clearance(s) *" [ref=e240]:
+              - generic [ref=e241]: Active Security Clearance(s) *
+              - generic [ref=e242]:
+                - checkbox "Top Secret SCI with Polygraph" [ref=e244]
+                - generic [ref=e245]: Top Secret SCI with Polygraph
+              - generic [ref=e246]:
+                - checkbox "Top Secret SCI" [ref=e248]
+                - generic [ref=e249]: Top Secret SCI
+              - generic [ref=e250]:
+                - checkbox "Top Secret" [ref=e252]
+                - generic [ref=e253]: Top Secret
+              - generic [ref=e254]:
+                - checkbox "Secret" [ref=e256]
+                - generic [ref=e257]: Secret
+              - generic [ref=e258]:
+                - checkbox "Confidential" [ref=e260]
+                - generic [ref=e261]: Confidential
+              - generic [ref=e262]:
+                - checkbox "Other" [ref=e264]
+                - generic [ref=e265]: Other
+              - generic [ref=e266]:
+                - checkbox "Expired Clearance" [ref=e268]
+                - generic [ref=e269]: Expired Clearance
+              - generic [ref=e270]:
+                - checkbox "Not Applicable" [ref=e272]
+                - generic [ref=e273]: Not Applicable
+            - generic [ref=e276]:
+              - generic [ref=e277]: How did you hear about this opportunity?*
+              - generic [ref=e278]:
+                - log [ref=e280]
+                - generic [ref=e282]:
+                  - generic [ref=e283]:
+                    - generic [ref=e284]: Select...
+                    - combobox "How did you hear about this opportunity?" [ref=e286]
+                  - button "Toggle flyout" [ref=e288] [cursor=pointer]:
+                    - img [ref=e289]
+                - textbox
+            - generic [ref=e293]:
+              - generic [ref=e294]: Please specify
+              - textbox "Please specify" [ref=e295]
+            - generic [ref=e298]:
+              - generic [ref=e299]: Are you currently, or have you ever been employed by the U.S. Government in either a civilian or military capacity?*
+              - generic [ref=e300]:
+                - log [ref=e302]
+                - generic [ref=e304]:
+                  - generic [ref=e305]:
+                    - generic [ref=e306]: Select...
+                    - combobox "Are you currently, or have you ever been employed by the U.S. Government in either a civilian or military capacity?" [ref=e308]
+                  - button "Toggle flyout" [ref=e310] [cursor=pointer]:
+                    - img [ref=e311]
+                - textbox
+            - generic [ref=e315]:
+              - generic [ref=e316]: Do you meet all the required qualifications (listed under "You'll Bring These Qualifications")?*
+              - generic [ref=e317]:
+                - log [ref=e319]
+                - generic [ref=e321]:
+                  - generic [ref=e322]:
+                    - generic [ref=e323]: Select...
+                    - combobox "Do you meet all the required qualifications (listed under \"You'll Bring These Qualifications\")?" [ref=e325]
+                  - button "Toggle flyout" [ref=e327] [cursor=pointer]:
+                    - img [ref=e328]
+                - textbox
+            - generic [ref=e332]:
+              - generic [ref=e333]: How many years of relevant work experience do you have (excluding internships)?*
+              - generic [ref=e334]:
+                - log [ref=e336]
+                - generic [ref=e338]:
+                  - generic [ref=e339]:
+                    - generic [ref=e340]: Select...
+                    - combobox "How many years of relevant work experience do you have (excluding internships)?" [ref=e342]
+                  - button "Toggle flyout" [ref=e344] [cursor=pointer]:
+                    - img [ref=e345]
+                - textbox
+            - generic [ref=e349]:
+              - generic [ref=e350]: Have you previously interviewed at Rocket Lab?*
+              - generic [ref=e351]:
+                - log [ref=e353]
+                - generic [ref=e355]:
+                  - generic [ref=e356]:
+                    - generic [ref=e357]: Select...
+                    - combobox "Have you previously interviewed at Rocket Lab?" [ref=e359]
+                  - button "Toggle flyout" [ref=e361] [cursor=pointer]:
+                    - img [ref=e362]
+                - textbox
+            - generic [ref=e366]:
+              - generic [ref=e367]: Are you willing to work onsite?*
+              - generic [ref=e368]:
+                - log [ref=e370]
+                - generic [ref=e372]:
+                  - generic [ref=e373]:
+                    - generic [ref=e374]: Select...
+                    - combobox "Are you willing to work onsite?" [ref=e376]
+                  - button "Toggle flyout" [ref=e378] [cursor=pointer]:
+                    - img [ref=e379]
+                - textbox
+            - generic [ref=e383]:
+              - generic [ref=e384]: Please share with us your salary expectations.*
+              - textbox "Please share with us your salary expectations." [ref=e385]
+            - generic [ref=e388]:
+              - generic [ref=e389]: Any offer of employment with Rocket Lab is contingent on a successful criminal background check, drug screen, and professional reference check. Please indicate below if you can meet these hiring requirements*
+              - generic [ref=e390]:
+                - log [ref=e392]
+                - generic [ref=e394]:
+                  - generic [ref=e395]:
+                    - generic [ref=e396]: Select...
+                    - combobox "Any offer of employment with Rocket Lab is contingent on a successful criminal background check, drug screen, and professional reference check. Please indicate below if you can meet these hiring requirements" [ref=e398]
+                  - button "Toggle flyout" [ref=e400] [cursor=pointer]:
+                    - img [ref=e401]
+                - textbox
+            - generic [ref=e405]:
+              - generic [ref=e406]: Highest Level of education completed?
+              - generic [ref=e407]:
+                - log [ref=e409]
+                - generic [ref=e411]:
+                  - generic [ref=e412]:
+                    - generic [ref=e413]: Select...
+                    - combobox "Highest Level of education completed?" [ref=e415]
+                  - button "Toggle flyout" [ref=e417] [cursor=pointer]:
+                    - img [ref=e418]
+          - generic [ref=e420]:
+            - separator [ref=e421]
+            - generic [ref=e422]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e423]
+              - paragraph [ref=e424]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e425]: As set forth in Rocket Lab Corporation’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e428]:
+              - generic [ref=e429]: Gender
+              - generic [ref=e430]:
+                - log [ref=e432]
+                - generic [ref=e434]:
+                  - generic [ref=e435]:
+                    - generic [ref=e436]: Select...
+                    - combobox "Gender" [ref=e438]
+                  - button "Toggle flyout" [ref=e440] [cursor=pointer]:
+                    - img [ref=e441]
+            - generic [ref=e443]:
+              - generic [ref=e445]:
+                - generic [ref=e446]: Are you Hispanic/Latino?
+                - generic [ref=e447]:
+                  - log [ref=e449]
+                  - generic [ref=e451]:
+                    - generic [ref=e452]:
+                      - generic [ref=e453]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e455]
+                    - button "Toggle flyout" [ref=e457] [cursor=pointer]:
+                      - img [ref=e458]
+              - link "Race & Ethnicity Definitions" [ref=e460] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e461]:
+              - paragraph [ref=e462]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e463]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e464]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e465]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e466]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e469]:
+              - generic [ref=e470]: Veteran Status
+              - generic [ref=e471]:
+                - log [ref=e473]
+                - generic [ref=e475]:
+                  - generic [ref=e476]:
+                    - generic [ref=e477]: Select...
+                    - combobox "Veteran Status" [ref=e479]
+                  - button "Toggle flyout" [ref=e481] [cursor=pointer]:
+                    - img [ref=e482]
+            - separator [ref=e484]
+            - generic [ref=e485]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e486]
+              - generic [ref=e487]:
+                - generic [ref=e488]:
+                  - generic [ref=e489]: Form CC-305
+                  - generic [ref=e490]: Page 1 of 1
+                - generic [ref=e491]:
+                  - generic [ref=e492]: OMB Control Number 1250-0005
+                  - generic [ref=e493]: Expires 04/30/2026
+              - strong [ref=e494]: Why are you being asked to complete this form?
+              - paragraph [ref=e495]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e496]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e497] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e498]: How do you know if you have a disability?
+              - paragraph [ref=e499]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e500]: "Disabilities include, but are not limited to:"
+              - list [ref=e501]:
+                - listitem [ref=e502]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e503]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e504]: Blind or low vision
+                - listitem [ref=e505]: Cancer (past or present)
+                - listitem [ref=e506]: Cardiovascular or heart disease
+                - listitem [ref=e507]: Celiac disease
+                - listitem [ref=e508]: Cerebral palsy
+                - listitem [ref=e509]: Deaf or serious difficulty hearing
+                - listitem [ref=e510]: Diabetes
+                - listitem [ref=e511]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e512]: Epilepsy or other seizure disorder
+                - listitem [ref=e513]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e514]: Intellectual or developmental disability
+                - listitem [ref=e515]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e516]: Missing limbs or partially missing limbs
+                - listitem [ref=e517]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e518]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e519]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e520]: Partial or complete paralysis (any cause)
+                - listitem [ref=e521]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e522]: Short stature (dwarfism)
+                - listitem [ref=e523]: Traumatic brain injury
+            - generic [ref=e526]:
+              - generic [ref=e527]: Disability Status
+              - generic [ref=e528]:
+                - log [ref=e530]
+                - generic [ref=e532]:
+                  - generic [ref=e533]:
+                    - generic [ref=e534]: Select...
+                    - combobox "Disability Status" [ref=e536]
+                  - button "Toggle flyout" [ref=e538] [cursor=pointer]:
+                    - img [ref=e539]
+            - paragraph [ref=e542]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e544] [cursor=pointer]
+  - contentinfo [ref=e545]:
+    - generic [ref=e546]:
+      - paragraph [ref=e547]: Powered by
+      - link "Greenhouse logo" [ref=e548] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e549]
+  - iframe [ref=e563]:
+    - generic [ref=f10e6]:
+      - text: protected by
+      - strong [ref=f10e7]: reCAPTCHA

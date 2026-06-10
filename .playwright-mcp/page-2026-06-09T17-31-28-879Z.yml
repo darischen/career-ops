@@ -1,0 +1,505 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e6]:
+          - generic [ref=e7]:
+            - heading "Software Engineer I" [level=1] [ref=e8]
+            - generic [ref=e9]:
+              - img [ref=e10]
+              - generic [ref=e12]: San Francisco, CA
+          - button "Apply" [ref=e13] [cursor=pointer]
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - heading "About Us" [level=3] [ref=e16]:
+              - strong [ref=e17]: About Us
+            - paragraph [ref=e18]: Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day.
+            - paragraph [ref=e19]:
+              - text: We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on
+              - link "LinkedIn" [ref=e20] [cursor=pointer]:
+                - /url: https://link.twitch.tv/TwitchLinkedinJD
+              - text: and
+              - link "X" [ref=e21] [cursor=pointer]:
+                - /url: https://link.twitch.tv/TwitchTwitterJD
+              - text: ", and discover the projects we’re solving on our"
+              - link "Blog" [ref=e22] [cursor=pointer]:
+                - /url: https://link.twitch.tv/TwitchBlogJD
+              - text: . Be sure to explore our
+              - link "Interviewing Guide" [ref=e23] [cursor=pointer]:
+                - /url: https://link.twitch.tv/TwitchInterviewingJD
+              - text: to learn how to ace our interview process.
+            - heading "About the Role" [level=3] [ref=e24]:
+              - strong [ref=e25]: About the Role
+            - paragraph [ref=e26]: Join Twitch's Commerce Engineering organization, where we're revolutionizing how viewers engage with their favorite creators. We are the teams behind Subscriptions, Gifting, Bits, Hype Train and Turbo products. From experimental features to established systems used by millions, we're constantly pushing the boundaries of what's possible in live streaming.
+            - paragraph [ref=e27]: This position and team are based in Seattle, WA and San Francisco, CA
+            - heading "You Will:" [level=3] [ref=e28]:
+              - strong [ref=e29]: "You Will:"
+            - list [ref=e30]:
+              - listitem [ref=e31]: Craft immersive, interactive experiences that keep viewers supporting creators while engaging with the Twitch Community.
+              - listitem [ref=e32]: Architect and build robust, scalable applications that can handle millions of concurrent users
+              - listitem [ref=e33]: Collaborate across teams to create cohesive solutions that drive business impact
+              - listitem [ref=e34]: Transform customer feedback into innovative features that enhance the Twitch experience
+            - heading "You Have:" [level=3] [ref=e35]:
+              - strong [ref=e36]: "You Have:"
+            - list [ref=e37]:
+              - listitem [ref=e38]: 0-2 years of professional software development experience
+              - listitem [ref=e39]: Excellent verbal and written communication skills; Ability to effectively collaborate with teammates is critical to success.
+              - listitem [ref=e40]: A track record of building consumer-facing products that users love
+              - listitem [ref=e41]: Demonstrable experience of modern programming languages and frameworks
+              - listitem [ref=e42]: Sharp problem-solving skills with a focus on algorithms, data structures, and schema design
+              - listitem [ref=e43]: Bachelor's degree in Computer Science or equivalent real-world experience
+            - heading "Bonus Points" [level=3] [ref=e44]:
+              - strong [ref=e45]: Bonus Points
+            - list [ref=e46]:
+              - listitem [ref=e47]: Experience with mobile development, either native or hybrid
+              - listitem [ref=e48]: Familiarity with AWS infrastructure
+              - listitem [ref=e49]: Experience with email / notifications technologies
+              - listitem [ref=e50]: Experience writing Go in production systems
+            - heading "Perks" [level=3] [ref=e51]:
+              - strong [ref=e52]: Perks
+            - list [ref=e53]:
+              - listitem [ref=e54]: Medical, Dental, Vision & Disability Insurance
+              - listitem [ref=e55]: 401(k)
+              - listitem [ref=e56]: Maternity & Parental Leave
+              - listitem [ref=e57]: Flexible PTO
+              - listitem [ref=e58]: Amazon Employee Discount
+            - paragraph [ref=e59]:
+              - emphasis [ref=e60]: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+            - paragraph [ref=e61]: "Job ID: TW9041"
+          - generic [ref=e62]:
+            - generic [ref=e63]:
+              - paragraph [ref=e67]:
+                - text: The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at
+                - link "https://amazon.jobs/en/benefits" [ref=e68] [cursor=pointer]:
+                  - /url: https://amazon.jobs/en/benefits
+                - text: .
+              - paragraph [ref=e69]: US, WA, Seattle - Annually
+              - paragraph [ref=e70]: $110,500 - $160,000 USD
+            - generic [ref=e71]:
+              - paragraph [ref=e72]: US, CA, San Francisco - Annually
+              - paragraph [ref=e73]: $127,100 - $185,000 USD
+          - generic [ref=e74]:
+            - paragraph [ref=e75]:
+              - emphasis [ref=e76]: Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+            - paragraph [ref=e77]:
+              - emphasis [ref=e78]:
+                - text: Twitch values your privacy. Please consult our
+                - link "Candidate Privacy Notice" [ref=e79] [cursor=pointer]:
+                  - /url: https://www.twitch.tv/jobs/en/legal/privacy-notice/
+                - text: ", for information about how we collect, use, and disclose personal information of our candidates."
+        - generic [ref=e80]:
+          - img [ref=e81]
+          - generic [ref=e83]:
+            - paragraph [ref=e84]: Create a Job Alert
+            - paragraph [ref=e85]: Interested in building your career at Twitch? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e86] [cursor=pointer]
+      - separator [ref=e87]
+      - generic [ref=e88]:
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - heading "Apply for this job" [level=2] [ref=e92]
+            - generic [ref=e93]:
+              - paragraph [ref=e95]: "*"
+              - paragraph [ref=e96]: indicates a required field
+          - button "Quick Apply with MyGreenhouse" [ref=e99] [cursor=pointer]
+        - generic [ref=e100]:
+          - generic [ref=e101]:
+            - generic [ref=e104]:
+              - generic [ref=e105]: First Name*
+              - textbox "First Name" [ref=e106]
+            - generic [ref=e109]:
+              - generic [ref=e110]: Last Name*
+              - textbox "Last Name" [ref=e111]
+            - generic [ref=e114]:
+              - generic [ref=e115]: Email*
+              - textbox "Email" [ref=e116]
+            - group "Phone" [ref=e118]:
+              - generic [ref=e119]: Phone
+              - generic [ref=e122]:
+                - generic [ref=e123]: Country*
+                - generic [ref=e124]:
+                  - log [ref=e126]
+                  - generic [ref=e128]:
+                    - combobox "Country" [ref=e131]
+                    - button "Toggle flyout" [ref=e133] [cursor=pointer]:
+                      - img [ref=e134]
+                  - textbox
+              - generic [ref=e138]:
+                - generic [ref=e139]: Phone*
+                - textbox "Phone" [ref=e140]
+            - generic [ref=e141]:
+              - generic [ref=e143]:
+                - generic [ref=e144]: Location (City)*
+                - generic [ref=e145]:
+                  - log [ref=e147]
+                  - combobox "Location (City)" [ref=e152]
+                  - textbox
+              - button "Locate me" [ref=e153] [cursor=pointer]
+            - group "Resume/CV*" [ref=e155]:
+              - generic [ref=e156]: Resume/CV*
+              - generic [ref=e158]:
+                - generic [ref=e160]:
+                  - button "Attach" [ref=e161] [cursor=pointer]
+                  - generic [ref=e162]: Attach
+                  - button "Attach" [ref=e163]
+                - button "Dropbox" [ref=e165] [cursor=pointer]
+                - button "Google Drive" [ref=e167] [cursor=pointer]
+                - generic [ref=e169]:
+                  - button "Enter manually" [ref=e170] [cursor=pointer]
+                  - generic [ref=e171]: Enter manually
+                - paragraph [ref=e172]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e174]:
+              - generic [ref=e175]: Cover Letter
+              - generic [ref=e177]:
+                - generic [ref=e179]:
+                  - button "Attach" [ref=e180] [cursor=pointer]
+                  - generic [ref=e181]: Attach
+                  - button "Attach" [ref=e182]
+                - button "Dropbox" [ref=e184] [cursor=pointer]
+                - button "Google Drive" [ref=e186] [cursor=pointer]
+                - generic [ref=e188]:
+                  - button "Enter manually" [ref=e189] [cursor=pointer]
+                  - generic [ref=e190]: Enter manually
+                - paragraph [ref=e191]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e192]:
+            - generic [ref=e193]:
+              - separator [ref=e194]
+              - paragraph [ref=e196]: Education
+              - generic [ref=e198]:
+                - generic [ref=e199]: School
+                - generic [ref=e200]:
+                  - log [ref=e202]
+                  - generic [ref=e204]:
+                    - generic [ref=e205]:
+                      - generic [ref=e206]: Select...
+                      - combobox "School" [ref=e208]
+                    - button "Toggle flyout" [ref=e210] [cursor=pointer]:
+                      - img [ref=e211]
+              - generic [ref=e214]:
+                - generic [ref=e215]: Degree
+                - generic [ref=e216]:
+                  - log [ref=e218]
+                  - generic [ref=e220]:
+                    - generic [ref=e221]:
+                      - generic [ref=e222]: Select...
+                      - combobox "Degree" [ref=e224]
+                    - button "Toggle flyout" [ref=e226] [cursor=pointer]:
+                      - img [ref=e227]
+              - generic [ref=e230]:
+                - generic [ref=e231]: Discipline
+                - generic [ref=e232]:
+                  - log [ref=e234]
+                  - generic [ref=e236]:
+                    - generic [ref=e237]:
+                      - generic [ref=e238]: Select...
+                      - combobox "Discipline" [ref=e240]
+                    - button "Toggle flyout" [ref=e242] [cursor=pointer]:
+                      - img [ref=e243]
+              - generic [ref=e245]:
+                - generic [ref=e246]:
+                  - generic [ref=e248]:
+                    - generic [ref=e249]: Start date month
+                    - generic [ref=e250]:
+                      - log [ref=e252]
+                      - generic [ref=e254]:
+                        - generic [ref=e255]:
+                          - generic [ref=e256]: Select...
+                          - combobox "Start date month" [ref=e258]
+                        - button "Toggle flyout" [ref=e260] [cursor=pointer]:
+                          - img [ref=e261]
+                  - generic [ref=e264]:
+                    - generic [ref=e265]: Start date year
+                    - spinbutton "Start date year" [ref=e266]
+                - generic [ref=e267]:
+                  - generic [ref=e269]:
+                    - generic [ref=e270]: End date month
+                    - generic [ref=e271]:
+                      - log [ref=e273]
+                      - generic [ref=e275]:
+                        - generic [ref=e276]:
+                          - generic [ref=e277]: Select...
+                          - combobox "End date month" [ref=e279]
+                        - button "Toggle flyout" [ref=e281] [cursor=pointer]:
+                          - img [ref=e282]
+                  - generic [ref=e285]:
+                    - generic [ref=e286]: End date year
+                    - spinbutton "End date year" [ref=e287]
+            - button "Add another" [ref=e288] [cursor=pointer]
+          - generic [ref=e289]:
+            - separator [ref=e290]
+            - generic [ref=e293]:
+              - generic [ref=e294]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e295]
+            - generic [ref=e298]:
+              - generic [ref=e299]: Website
+              - textbox "Website" [ref=e300]
+            - generic [ref=e301]:
+              - generic [ref=e303]:
+                - generic [ref=e304]: Are you familiar with Twitch? *
+                - generic [ref=e305]:
+                  - log [ref=e307]
+                  - generic [ref=e309]:
+                    - generic [ref=e310]:
+                      - generic [ref=e311]: Select...
+                      - combobox "Are you familiar with Twitch?" [ref=e313]
+                    - button "Toggle flyout" [ref=e315] [cursor=pointer]:
+                      - img [ref=e316]
+                  - textbox
+              - paragraph [ref=e320]: We review all applications equally, whether you're an advanced user or new to the platform. Let us know your history with us!
+            - generic [ref=e323]:
+              - generic [ref=e324]: Are you currently a Twitch employee?*
+              - generic [ref=e325]:
+                - log [ref=e327]
+                - generic [ref=e329]:
+                  - generic [ref=e330]:
+                    - generic [ref=e331]: Select...
+                    - combobox "Are you currently a Twitch employee?" [ref=e333]
+                  - button "Toggle flyout" [ref=e335] [cursor=pointer]:
+                    - img [ref=e336]
+                - textbox
+            - generic [ref=e338]:
+              - generic [ref=e340]:
+                - generic [ref=e341]: Are you open to relocation? *
+                - generic [ref=e342]:
+                  - log [ref=e344]
+                  - generic [ref=e346]:
+                    - generic [ref=e347]:
+                      - generic [ref=e348]: Select...
+                      - combobox "Are you open to relocation?" [ref=e350]
+                    - button "Toggle flyout" [ref=e352] [cursor=pointer]:
+                      - img [ref=e353]
+                  - textbox
+              - paragraph [ref=e357]: Please choose a location from the list below if you're open to relocating with Twitch. If not, select your preference from the remaining options.
+            - generic [ref=e360]:
+              - generic [ref=e361]: Are you a current employee with Amazon or any Amazon subsidiary (outside of Twitch)?*
+              - generic [ref=e362]:
+                - log [ref=e364]
+                - generic [ref=e366]:
+                  - generic [ref=e367]:
+                    - generic [ref=e368]: Select...
+                    - combobox "Are you a current employee with Amazon or any Amazon subsidiary (outside of Twitch)?" [ref=e370]
+                  - button "Toggle flyout" [ref=e372] [cursor=pointer]:
+                    - img [ref=e373]
+                - textbox
+            - generic [ref=e377]:
+              - generic [ref=e378]: Have you previously applied to Amazon or any Amazon subsidiary?*
+              - generic [ref=e379]:
+                - log [ref=e381]
+                - generic [ref=e383]:
+                  - generic [ref=e384]:
+                    - generic [ref=e385]: Select...
+                    - combobox "Have you previously applied to Amazon or any Amazon subsidiary?" [ref=e387]
+                  - button "Toggle flyout" [ref=e389] [cursor=pointer]:
+                    - img [ref=e390]
+                - textbox
+            - generic [ref=e394]:
+              - generic [ref=e395]: Have you previously been employed by Amazon or any Amazon subsidiary? *
+              - generic [ref=e396]:
+                - log [ref=e398]
+                - generic [ref=e400]:
+                  - generic [ref=e401]:
+                    - generic [ref=e402]: Select...
+                    - combobox "Have you previously been employed by Amazon or any Amazon subsidiary?" [ref=e404]
+                  - button "Toggle flyout" [ref=e406] [cursor=pointer]:
+                    - img [ref=e407]
+                - textbox
+            - generic [ref=e411]:
+              - generic [ref=e412]: Are you subject to a non-competition agreement or other agreement that would preclude or restrict your employment at Amazon? *
+              - generic [ref=e413]:
+                - log [ref=e415]
+                - generic [ref=e417]:
+                  - generic [ref=e418]:
+                    - generic [ref=e419]: Select...
+                    - combobox "Are you subject to a non-competition agreement or other agreement that would preclude or restrict your employment at Amazon?" [ref=e421]
+                  - button "Toggle flyout" [ref=e423] [cursor=pointer]:
+                    - img [ref=e424]
+                - textbox
+            - generic [ref=e428]:
+              - generic [ref=e429]: If offered employment by Amazon, would you be legally eligible to begin employment immediately?*
+              - generic [ref=e430]:
+                - log [ref=e432]
+                - generic [ref=e434]:
+                  - generic [ref=e435]:
+                    - generic [ref=e436]: Select...
+                    - combobox "If offered employment by Amazon, would you be legally eligible to begin employment immediately?" [ref=e438]
+                  - button "Toggle flyout" [ref=e440] [cursor=pointer]:
+                    - img [ref=e441]
+                - textbox
+            - generic [ref=e443]:
+              - generic [ref=e445]:
+                - generic [ref=e446]: Your response is mandatory when applying for a U.S.-based position. Do you need, or will you need in the future, any immigration related support or sponsorship from Amazon in order to begin or continue employment with Amazon? *
+                - generic [ref=e447]:
+                  - log [ref=e449]
+                  - generic [ref=e451]:
+                    - generic [ref=e452]:
+                      - generic [ref=e453]: Select...
+                      - combobox "Your response is mandatory when applying for a U.S.-based position. Do you need, or will you need in the future, any immigration related support or sponsorship from Amazon in order to begin or continue employment with Amazon?" [ref=e455]
+                    - button "Toggle flyout" [ref=e457] [cursor=pointer]:
+                      - img [ref=e458]
+                  - textbox
+              - paragraph [ref=e462]: This includes support (such as J-1, F-1 CPT letter or STEM OPT Training Plan), visa sponsorship for employment (H-1B, H-1B1, E-3, O-1, or TN), and any EAD holders that will need longer term employment authorization (temporary work visa or permanent residency
+            - generic [ref=e465]:
+              - generic [ref=e466]: Have you held H-1B status, or had an H-1B petition approved on your behalf, within the preceding 6 years for an employer other than a cap exempt institution? *
+              - generic [ref=e467]:
+                - log [ref=e469]
+                - generic [ref=e471]:
+                  - generic [ref=e472]:
+                    - generic [ref=e473]: Select...
+                    - combobox "Have you held H-1B status, or had an H-1B petition approved on your behalf, within the preceding 6 years for an employer other than a cap exempt institution?" [ref=e475]
+                  - button "Toggle flyout" [ref=e477] [cursor=pointer]:
+                    - img [ref=e478]
+                - textbox
+            - generic [ref=e482]:
+              - generic [ref=e483]: In which country/region do you have citizenship?*
+              - generic [ref=e484]:
+                - log [ref=e486]
+                - generic [ref=e488]:
+                  - generic [ref=e489]:
+                    - generic [ref=e490]: Select...
+                    - combobox "In which country/region do you have citizenship?" [ref=e492]
+                  - button "Toggle flyout" [ref=e494] [cursor=pointer]:
+                    - img [ref=e495]
+                - textbox
+            - generic [ref=e499]:
+              - generic [ref=e500]: Since obtaining your most recent citizenship, did you afterwards become a permanent resident in any other country/region? This does not include temporary statuses such as student visas or time-limited work permits.*
+              - generic [ref=e501]:
+                - log [ref=e503]
+                - generic [ref=e505]:
+                  - generic [ref=e506]:
+                    - generic [ref=e507]: Select...
+                    - combobox "Since obtaining your most recent citizenship, did you afterwards become a permanent resident in any other country/region? This does not include temporary statuses such as student visas or time-limited work permits." [ref=e509]
+                  - button "Toggle flyout" [ref=e511] [cursor=pointer]:
+                    - img [ref=e512]
+                - textbox
+            - generic [ref=e516]:
+              - generic [ref=e517]: For the sole purpose of determining export licensing requirements, please provide your country of citizenship or legal permanent residence, whichever was obtained last. *
+              - generic [ref=e518]:
+                - log [ref=e520]
+                - generic [ref=e522]:
+                  - generic [ref=e523]:
+                    - generic [ref=e524]: Select...
+                    - combobox "For the sole purpose of determining export licensing requirements, please provide your country of citizenship or legal permanent residence, whichever was obtained last." [ref=e526]
+                  - button "Toggle flyout" [ref=e528] [cursor=pointer]:
+                    - img [ref=e529]
+                - textbox
+            - generic [ref=e533]:
+              - generic [ref=e534]: What is your expected total base pay compensation for your next role. Please do not disclose current or past compensation.
+              - textbox "What is your expected total base pay compensation for your next role. Please do not disclose current or past compensation." [ref=e535]
+            - generic [ref=e538]:
+              - generic [ref=e539]: Would you like to be considered for future opportunities at Twitch when you apply?*
+              - generic [ref=e540]:
+                - log [ref=e542]
+                - generic [ref=e544]:
+                  - generic [ref=e545]:
+                    - generic [ref=e546]: Select...
+                    - combobox "Would you like to be considered for future opportunities at Twitch when you apply?" [ref=e548]
+                  - button "Toggle flyout" [ref=e550] [cursor=pointer]:
+                    - img [ref=e551]
+                - textbox
+          - generic [ref=e553]:
+            - separator [ref=e554]
+            - generic [ref=e555]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e556]
+              - paragraph [ref=e557]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e558]: As set forth in Twitch’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e561]:
+              - generic [ref=e562]: Gender
+              - generic [ref=e563]:
+                - log [ref=e565]
+                - generic [ref=e567]:
+                  - generic [ref=e568]:
+                    - generic [ref=e569]: Select...
+                    - combobox "Gender" [ref=e571]
+                  - button "Toggle flyout" [ref=e573] [cursor=pointer]:
+                    - img [ref=e574]
+            - generic [ref=e576]:
+              - generic [ref=e578]:
+                - generic [ref=e579]: Are you Hispanic/Latino?
+                - generic [ref=e580]:
+                  - log [ref=e582]
+                  - generic [ref=e584]:
+                    - generic [ref=e585]:
+                      - generic [ref=e586]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e588]
+                    - button "Toggle flyout" [ref=e590] [cursor=pointer]:
+                      - img [ref=e591]
+              - link "Race & Ethnicity Definitions" [ref=e593] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e594]:
+              - paragraph [ref=e595]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e596]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e597]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e598]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e599]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e602]:
+              - generic [ref=e603]: Veteran Status
+              - generic [ref=e604]:
+                - log [ref=e606]
+                - generic [ref=e608]:
+                  - generic [ref=e609]:
+                    - generic [ref=e610]: Select...
+                    - combobox "Veteran Status" [ref=e612]
+                  - button "Toggle flyout" [ref=e614] [cursor=pointer]:
+                    - img [ref=e615]
+            - separator [ref=e617]
+            - generic [ref=e618]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e619]
+              - generic [ref=e620]:
+                - generic [ref=e621]:
+                  - generic [ref=e622]: Form CC-305
+                  - generic [ref=e623]: Page 1 of 1
+                - generic [ref=e624]:
+                  - generic [ref=e625]: OMB Control Number 1250-0005
+                  - generic [ref=e626]: Expires 04/30/2026
+              - strong [ref=e627]: Why are you being asked to complete this form?
+              - paragraph [ref=e628]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e629]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e630] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e631]: How do you know if you have a disability?
+              - paragraph [ref=e632]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e633]: "Disabilities include, but are not limited to:"
+              - list [ref=e634]:
+                - listitem [ref=e635]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e636]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e637]: Blind or low vision
+                - listitem [ref=e638]: Cancer (past or present)
+                - listitem [ref=e639]: Cardiovascular or heart disease
+                - listitem [ref=e640]: Celiac disease
+                - listitem [ref=e641]: Cerebral palsy
+                - listitem [ref=e642]: Deaf or serious difficulty hearing
+                - listitem [ref=e643]: Diabetes
+                - listitem [ref=e644]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e645]: Epilepsy or other seizure disorder
+                - listitem [ref=e646]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e647]: Intellectual or developmental disability
+                - listitem [ref=e648]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e649]: Missing limbs or partially missing limbs
+                - listitem [ref=e650]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e651]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e652]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e653]: Partial or complete paralysis (any cause)
+                - listitem [ref=e654]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e655]: Short stature (dwarfism)
+                - listitem [ref=e656]: Traumatic brain injury
+            - generic [ref=e659]:
+              - generic [ref=e660]: Disability Status
+              - generic [ref=e661]:
+                - log [ref=e663]
+                - generic [ref=e665]:
+                  - generic [ref=e666]:
+                    - generic [ref=e667]: Select...
+                    - combobox "Disability Status" [ref=e669]
+                  - button "Toggle flyout" [ref=e671] [cursor=pointer]:
+                    - img [ref=e672]
+            - paragraph [ref=e675]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e677] [cursor=pointer]
+  - contentinfo [ref=e678]:
+    - generic [ref=e679]:
+      - paragraph [ref=e680]: Powered by
+      - link "Greenhouse logo" [ref=e681] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e682]

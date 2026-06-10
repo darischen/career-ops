@@ -1,0 +1,295 @@
+- generic [active] [ref=e1]:
+  - region "We value your privacy" [ref=e2]:
+    - generic [ref=e3]:
+      - button "Close" [ref=e4] [cursor=pointer]
+      - generic [ref=e5]:
+        - heading "We value your privacy" [level=2] [ref=e6]
+        - generic [ref=e7]:
+          - paragraph [ref=e9]:
+            - text: We use cookies and similar technologies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. For more information, please see our
+            - link "cookie policy" [ref=e10] [cursor=pointer]:
+              - /url: https://www.appliedintuition.com/cookie-policy
+            - text: .
+          - generic [ref=e11]:
+            - button "Customize" [ref=e12] [cursor=pointer]
+            - button "Reject all" [ref=e13] [cursor=pointer]
+            - button "Accept all" [ref=e14] [cursor=pointer]
+  - banner:
+    - navigation:
+      - generic:
+        - link "Applied Intuition home" [ref=e15] [cursor=pointer]:
+          - /url: /
+          - img [ref=e16]
+        - button "Open menu" [ref=e19] [cursor=pointer]:
+          - img [ref=e20]
+  - main [ref=e22]:
+    - generic [ref=e27]:
+      - generic [ref=e29]:
+        - heading "Careers" [level=1] [ref=e30]
+        - heading "Build physical AI that moves the world." [level=2] [ref=e31]
+      - button "Scroll down" [ref=e33] [cursor=pointer]:
+        - img [ref=e34]
+    - generic [ref=e40]:
+      - heading "Join a team like no other." [level=2] [ref=e42]
+      - paragraph [ref=e44]: 1,000 engineers, 40 ex-CTOs, and 30 former founders are working together to solve the most complex challenges in physical AI. And because our team works across industries, there’s always new opportunities and adventures, from sports cars to mining trucks to fighter jets.
+      - link "See our openings" [ref=e46] [cursor=pointer]:
+        - /url: "#jobs-list"
+    - generic [ref=e51]:
+      - paragraph [ref=e53]: ■ Why join Applied
+      - generic [ref=e55]:
+        - generic [ref=e57]:
+          - heading "Why work at applied?" [level=3] [ref=e58]
+          - button "Play video" [ref=e61]:
+            - img [ref=e63] [cursor=pointer]
+        - generic [ref=e68]:
+          - generic [ref=e70]:
+            - button "Select video 1" [pressed] [ref=e73]:
+              - generic [ref=e74] [cursor=pointer]:
+                - generic:
+                  - generic: Now Playing
+            - button "Select video 2" [ref=e77]:
+              - generic [ref=e79] [cursor=pointer]: Varun for President!
+            - button "Select video 3" [ref=e82]:
+              - generic [ref=e84] [cursor=pointer]: Should an engineer be CFO?
+            - button "Select video 4" [ref=e87]:
+              - generic [ref=e89] [cursor=pointer]: What makes great design?
+          - generic:
+            - button "Scroll thumbnails left" [disabled] [ref=e90]:
+              - img [ref=e91]
+            - button "Scroll thumbnails right" [ref=e93] [cursor=pointer]:
+              - img [ref=e94]
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - heading "How We Take Care of People" [level=2] [ref=e104]
+          - paragraph [ref=e106]: We offer competitive benefits designed for people that aren’t just imagining a better future—they’re building it, and need the freedom to focus on the things that matter.
+        - generic [ref=e107]:
+          - button "Previous slide" [disabled] [ref=e108]:
+            - img [ref=e109]
+          - button "Next slide" [ref=e111] [cursor=pointer]:
+            - img [ref=e112]
+      - tablist [ref=e115]:
+        - generic [ref=e116]:
+          - tabpanel [ref=e117]:
+            - article [ref=e120]:
+              - generic [ref=e122]: ■ Benefit
+              - heading [level=3] [ref=e124]: Health Insurance
+              - paragraph [ref=e126]: Medical, dental, vision, and life insurance, 100% of employee premiums paid for by Applied Intuition.
+          - tabpanel [ref=e127]:
+            - article [ref=e130]:
+              - generic [ref=e132]: ■ Benefit
+              - heading [level=3] [ref=e134]: 401(k) Match
+              - paragraph [ref=e136]: 50% employer matching to help you save up for retirement.
+          - tabpanel [ref=e137]:
+            - article [ref=e140]:
+              - generic [ref=e142]: ■ Benefit
+              - heading [level=3] [ref=e144]: Catered Lunch and Dinner
+              - paragraph [ref=e146]: Our offices provide catered lunches, expensed dinners, snacks, and drinks.
+          - tabpanel [ref=e147]:
+            - article [ref=e150]:
+              - generic [ref=e152]: ■ Benefit
+              - heading [level=3] [ref=e154]: Learning Stipend
+              - paragraph [ref=e156]: We invest in your learning and growth by reimbursing you for educational and training expenses.
+          - tabpanel [ref=e157]:
+            - article [ref=e160]:
+              - generic [ref=e162]: ■ Benefit
+              - heading [level=3] [ref=e164]: Fitness and Wellness Stipend
+              - paragraph [ref=e166]: Reimbursed fitness expenses and 25 free Lyra coaching or therapy sessions each for you and your dependents.
+          - tabpanel [ref=e167]:
+            - article [ref=e170]:
+              - generic [ref=e172]: ■ Benefit
+              - heading [level=3] [ref=e174]: Parental Leave
+              - paragraph [ref=e176]: Up to 12 weeks fully paid parental leave to bond with a newborn child or new adopted or foster child.
+          - tabpanel [ref=e177]:
+            - article [ref=e180]:
+              - generic [ref=e183]:
+                - generic [ref=e184]: ■
+                - text: Benefit
+              - heading [level=3] [ref=e186]: Alumni Network
+              - paragraph [ref=e188]: An alumni community that provides valuable connections to expand your professional opportunities, mentorship relationships, and learning.
+    - generic [ref=e194]:
+      - generic [ref=e195]:
+        - paragraph [ref=e196]: ■ Our Vision
+        - paragraph [ref=e197]: A Safer, More Productive World
+      - paragraph [ref=e199]: We imagine a future where intelligent machines save lives, eliminate drudgery, and give people everywhere the freedom to choose how they spend their time. Physical AI has the ability to improve the world, creating safer roads, improved infrastructure, and a more agile national defense, and we’re proud to be creating that world.
+    - tablist [ref=e209]:
+      - tabpanel "1 of 1" [ref=e211]:
+        - generic [ref=e213]:
+          - heading "“Applied Intuition is investing in me—making me a top-tier engineer while actually advancing real-world technology instead of building some internal tool that no one will use.”" [level=2] [ref=e214]
+          - paragraph [ref=e215]: —Jarod W., Software Engineer
+    - generic [ref=e219]:
+      - generic [ref=e220]:
+        - paragraph [ref=e221]: ■ Careers
+        - heading "Join a fast-growing team shaping the future of autonomy. Explore our open roles today." [level=2] [ref=e222]
+      - generic [ref=e223]:
+        - generic [ref=e224]:
+          - heading "Open Positions" [level=3] [ref=e225]
+          - generic [ref=e227]:
+            - generic [ref=e228]:
+              - textbox "Search positions" [ref=e229]:
+                - /placeholder: Search
+              - img [ref=e230]
+            - generic [ref=e232]:
+              - button "All Locations Filter by location" [ref=e233] [cursor=pointer]:
+                - generic [ref=e234]: All Locations
+                - img [ref=e235]
+              - combobox [ref=e239]
+        - generic [ref=e243]:
+          - heading "AI Research" [level=3] [ref=e245]:
+            - button "AI Research" [ref=e246] [cursor=pointer]:
+              - generic [ref=e247]: AI Research
+              - img [ref=e248]
+          - heading "Application Engineering" [level=3] [ref=e251]:
+            - button "Application Engineering" [ref=e252] [cursor=pointer]:
+              - generic [ref=e253]: Application Engineering
+              - img [ref=e254]
+          - heading "Autonomy Tools" [level=3] [ref=e257]:
+            - button "Autonomy Tools" [ref=e258] [cursor=pointer]:
+              - generic [ref=e259]: Autonomy Tools
+              - img [ref=e260]
+          - heading "Business Functions" [level=3] [ref=e263]:
+            - button "Business Functions" [ref=e264] [cursor=pointer]:
+              - generic [ref=e265]: Business Functions
+              - img [ref=e266]
+          - heading "Chief Engineer" [level=3] [ref=e269]:
+            - button "Chief Engineer" [ref=e270] [cursor=pointer]:
+              - generic [ref=e271]: Chief Engineer
+              - img [ref=e272]
+          - heading "Commercial" [level=3] [ref=e275]:
+            - button "Commercial" [ref=e276] [cursor=pointer]:
+              - generic [ref=e277]: Commercial
+              - img [ref=e278]
+          - heading "Data Engineering" [level=3] [ref=e281]:
+            - button "Data Engineering" [ref=e282] [cursor=pointer]:
+              - generic [ref=e283]: Data Engineering
+              - img [ref=e284]
+          - heading "Design & Marketing" [level=3] [ref=e287]:
+            - button "Design & Marketing" [ref=e288] [cursor=pointer]:
+              - generic [ref=e289]: Design & Marketing
+              - img [ref=e290]
+          - heading "Engineering Leadership" [level=3] [ref=e293]:
+            - button "Engineering Leadership" [ref=e294] [cursor=pointer]:
+              - generic [ref=e295]: Engineering Leadership
+              - img [ref=e296]
+          - heading "General Software Engineering" [level=3] [ref=e299]:
+            - button "General Software Engineering" [ref=e300] [cursor=pointer]:
+              - generic [ref=e301]: General Software Engineering
+              - img [ref=e302]
+          - heading "Government" [level=3] [ref=e305]:
+            - button "Government" [ref=e306] [cursor=pointer]:
+              - generic [ref=e307]: Government
+              - img [ref=e308]
+          - heading "Infrastructure & Platform" [level=3] [ref=e311]:
+            - button "Infrastructure & Platform" [ref=e312] [cursor=pointer]:
+              - generic [ref=e313]: Infrastructure & Platform
+              - img [ref=e314]
+          - heading "NextGen OS" [level=3] [ref=e317]:
+            - button "NextGen OS" [ref=e318] [cursor=pointer]:
+              - generic [ref=e319]: NextGen OS
+              - img [ref=e320]
+          - heading "Product Architect" [level=3] [ref=e323]:
+            - button "Product Architect" [ref=e324] [cursor=pointer]:
+              - generic [ref=e325]: Product Architect
+              - img [ref=e326]
+          - heading "Recruiting" [level=3] [ref=e329]:
+            - button "Recruiting" [ref=e330] [cursor=pointer]:
+              - generic [ref=e331]: Recruiting
+              - img [ref=e332]
+          - heading "Security & IT Operations" [level=3] [ref=e335]:
+            - button "Security & IT Operations" [ref=e336] [cursor=pointer]:
+              - generic [ref=e337]: Security & IT Operations
+              - img [ref=e338]
+          - heading "Self-Driving Systems" [level=3] [ref=e341]:
+            - button "Self-Driving Systems" [ref=e342] [cursor=pointer]:
+              - generic [ref=e343]: Self-Driving Systems
+              - img [ref=e344]
+          - heading "Vehicle Operations" [level=3] [ref=e347]:
+            - button "Vehicle Operations" [ref=e348] [cursor=pointer]:
+              - generic [ref=e349]: Vehicle Operations
+              - img [ref=e350]
+          - heading "Vehicle OS" [level=3] [ref=e353]:
+            - button "Vehicle OS" [ref=e354] [cursor=pointer]:
+              - generic [ref=e355]: Vehicle OS
+              - img [ref=e356]
+  - contentinfo [ref=e358]:
+    - generic [ref=e362]:
+      - generic [ref=e363]:
+        - paragraph [ref=e365]: Physical AI that Moves the World™
+        - generic [ref=e367]:
+          - generic [ref=e368]:
+            - generic [ref=e369]:
+              - link "Products" [ref=e370] [cursor=pointer]:
+                - /url: /products
+              - button "Toggle Products links" [expanded] [ref=e371]:
+                - img [ref=e373]
+            - generic [ref=e375]:
+              - link "Self-Driving System (SDS)" [ref=e376] [cursor=pointer]:
+                - /url: /applied-autonomy
+              - link "Vehicle OS" [ref=e377] [cursor=pointer]:
+                - /url: /applied-os
+              - link "Tools for Vehicle Intelligence" [ref=e378] [cursor=pointer]:
+                - /url: /physical-ai
+          - generic [ref=e379]:
+            - generic [ref=e380]:
+              - generic [ref=e381]: Industries
+              - button "Toggle Industries links" [expanded] [ref=e382]:
+                - img [ref=e384]
+            - generic [ref=e386]:
+              - link "Automotive" [ref=e387] [cursor=pointer]:
+                - /url: /autonomous-vehicles
+              - link "Defense" [ref=e388] [cursor=pointer]:
+                - /url: /defense-tech
+              - link "Trucking" [ref=e389] [cursor=pointer]:
+                - /url: /autonomous-trucking
+              - link "Mining" [ref=e390] [cursor=pointer]:
+                - /url: /mining-fleet-management-system
+              - link "Construction" [ref=e391] [cursor=pointer]:
+                - /url: /autonomous-construction-equipment
+              - link "Agriculture" [ref=e392] [cursor=pointer]:
+                - /url: /agricultural-automation
+          - generic [ref=e393]:
+            - generic [ref=e394]:
+              - generic [ref=e395]: Company
+              - button "Toggle Company links" [expanded] [ref=e396]:
+                - img [ref=e398]
+            - generic [ref=e400]:
+              - link "Careers" [ref=e401] [cursor=pointer]:
+                - /url: /careers
+              - link "About" [ref=e402] [cursor=pointer]:
+                - /url: /about
+              - link "Research" [ref=e403] [cursor=pointer]:
+                - /url: /research
+              - link "Contact" [ref=e404] [cursor=pointer]:
+                - /url: /contact
+              - link "News & Insights" [ref=e405] [cursor=pointer]:
+                - /url: /autonomy-news
+        - generic [ref=e407]:
+          - paragraph [ref=e408]: Follow us on
+          - link "Follow us on X" [ref=e409] [cursor=pointer]:
+            - /url: https://x.com/AppliedInt
+            - img [ref=e410]
+          - link "Follow us on LinkedIn" [ref=e412] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/applied-intuition-inc
+            - img [ref=e413]
+          - link "Follow us on YouTube" [ref=e415] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UC387DsaWqxA5CFOLXcNkqkA
+            - img [ref=e416]
+        - generic [ref=e419]:
+          - generic [ref=e420]:
+            - button "English" [ref=e421] [cursor=pointer]
+            - button "日本語" [ref=e422] [cursor=pointer]
+            - button "한국어" [ref=e423] [cursor=pointer]
+          - generic [ref=e424]:
+            - paragraph [ref=e425]: Our mission is to build physical AI that creates a safer, more prosperous world.
+            - generic [ref=e426]:
+              - paragraph [ref=e427]: © 2026 Applied Intuition. All rights reserved.
+              - generic [ref=e428]:
+                - link "Privacy Policy" [ref=e429] [cursor=pointer]:
+                  - /url: /privacy-policy
+                - link "Cookie Settings" [ref=e430] [cursor=pointer]:
+                  - /url: /cookie-policy
+                - link "Terms & Conditions" [ref=e431] [cursor=pointer]:
+                  - /url: /terms-and-conditions
+      - button "Scroll to hero" [ref=e433] [cursor=pointer]:
+        - img [ref=e434]
+  - alert [ref=e436]

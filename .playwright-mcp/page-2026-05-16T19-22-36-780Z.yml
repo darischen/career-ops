@@ -1,0 +1,194 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Hightouch Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://hightouch.com/careers
+        - img "Hightouch Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/hightouch
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e12]:
+          - generic [ref=e13]:
+            - heading "Software Engineer, AI Agents" [level=1] [ref=e14]
+            - generic [ref=e15]:
+              - img [ref=e16]
+              - generic [ref=e18]: Remote (North America)
+          - button "Apply" [ref=e19] [cursor=pointer]
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - heading "About Hightouch" [level=1] [ref=e22]
+            - paragraph [ref=e23]: Hightouch is an Agentic Marketing Platform powered by the industry-leading Composable CDP. With complete brand context, customer data, and performance history in one place, every marketer finally has the power to build and ship end-to-end campaigns themselves. Teams move faster, stay on brand, and get AI marketing that actually works.
+            - paragraph [ref=e24]: Founded in 2019 and headquartered in San Francisco, Hightouch enables marketing teams to analyze performance, brainstorm ideas, and generate creative at a speed and quality that wasn't previously possible.
+            - paragraph [ref=e25]: Named a Leader in the 2026 Gartner® Magic Quadrant™ for Customer Data Platforms, Hightouch is trusted by leading enterprises like Domino's, Spotify, Aritzia, Cars.com, Ramp, and PetSmart.
+            - paragraph [ref=e26]: At Hightouch, our mission is to help our customers leverage data and AI to grow their businesses. The team is ambitious, impact-driven, efficient — and we believe humility, kindness, and compassion are essential to our success. If you're energized by velocity, obsessed with raising the bar, and want to build alongside people who care deeply about each other and our customers, we'd love to meet you.
+          - generic [ref=e27]:
+            - heading "About the Role" [level=2] [ref=e28]:
+              - strong [ref=e29]: About the Role
+            - paragraph [ref=e30]:
+              - text: We’re looking to add a
+              - strong [ref=e31]: product-minded AI engineer
+              - text: to the team. The ideal candidate will have strong customer and product thinking, and the ability to be highly creative with LLM applications. We are looking for someone who can both rapidly prototype and architect production LLM pipelines.
+            - paragraph [ref=e32]: "Example workstreams include:"
+            - list [ref=e33]:
+              - listitem [ref=e34]: Quickly iterating and developing proofs of concept (POCs) to explore the maximum potential of integrating AI into data and marketing workflows
+              - listitem [ref=e35]: Making key decisions about the choice of AI architecture and frameworks
+              - listitem [ref=e36]: Building production data agents that can make use of a company’s data to seamlessly answer analytics and data science questions about their users and marketing efforts
+              - listitem [ref=e37]: Developing a deep understanding of user workflows to create seamless AI-assisted user experiences
+            - paragraph [ref=e38]: We're seeking talented, intellectually curious, and motivated individuals interested in exploring the forefront of AI. While no prior experience with LLMs and AI is required, strong technical skills, particularly in backend architecture, and product intuition are essential for understanding and executing these projects from start to finish.
+            - paragraph [ref=e39]: This is a senior role, but we focus on impact and potential for growth more than years of experience. The salary range for this position is $180,000 - $320,000 USD per year, which is location independent in accordance with our remote-first policy.
+            - heading "Interview Process" [level=2] [ref=e40]
+            - paragraph [ref=e41]: "Our interview process focuses on evaluating fit for the most important dimensions of the role: product sense and creativity with LLMs, ability to architect backend systems, and alignment with Hightouch’s values. Notably, we don’t do any programming interviews as we believe they are low signal to noise and aren’t a good evaluation mechanism."
+            - list [ref=e42]:
+              - listitem [ref=e43]:
+                - strong [ref=e44]: "Recruiter Screen [30m]:"
+                - text: Introductory call with our recruiting team to get to know each other and see if the role could be a good mutual fit.
+              - listitem [ref=e45]:
+                - strong [ref=e46]: "System Design Screen [60m]:"
+                - text: Designing a data processing feature end-to-end.
+              - listitem [ref=e47]:
+                - strong [ref=e48]: "Hiring Manager Interview [30m]:"
+                - text: Chat with hiring manager about past experiences and future operating preferences to assess fit on company values and operating principles.
+              - listitem [ref=e49]:
+                - strong [ref=e50]: "Agent Building Systems Interview [75m]:"
+                - text: Work with the interviewer to architect an agentic system at a conceptual level. The problem will be at a pretty high level - and have both product and customer requirements as well as technical.
+            - paragraph [ref=e51]: We have limited inbound applications to one application per candidate. You will be auto-rejected if you apply to multiple roles. Please only apply to the position you are most qualified for.
+            - paragraph [ref=e52]
+          - generic [ref=e53]:
+            - paragraph [ref=e54]:
+              - strong [ref=e55]: E-Verify Statement
+            - paragraph [ref=e56]:
+              - emphasis [ref=e57]: Hightouch participates in E-Verify. We will provide the Social Security Administration, and if necessary, the Department of Homeland Security, with information from each new employee’s Form I-9 to confirm work authorization. Please note that we do not use this information to pre-screen job applicants.
+              - emphasis
+              - link "E-Verify Notice" [ref=e58] [cursor=pointer]:
+                - /url: https://www.rhoworld.com/wp-content/uploads/E-Verify_Participation_Poster-1.pdf
+                - emphasis [ref=e59]: E-Verify Notice
+                - emphasis
+              - link "E-Verify Notice (Spanish)" [ref=e60] [cursor=pointer]:
+                - /url: https://www.rhoworld.com/wp-content/uploads/E-Verify_Participation_Poster_ES-1.pdf
+                - emphasis [ref=e61]: E-Verify Notice (Spanish)
+                - emphasis
+              - link "Right to Work Notice" [ref=e62] [cursor=pointer]:
+                - /url: https://www.rhoworld.com/wp-content/uploads/ier_poster_final.pdf
+                - emphasis [ref=e63]: Right to Work Notice
+                - emphasis
+              - link "Right to Work Notice (Spanish)" [ref=e64] [cursor=pointer]:
+                - /url: https://www.rhoworld.com/wp-content/uploads/spanish_ier_poster_final.pdf
+                - emphasis [ref=e65]: Right to Work Notice (Spanish)
+        - generic [ref=e66]:
+          - img [ref=e67]
+          - generic [ref=e69]:
+            - paragraph [ref=e70]: Create a Job Alert
+            - paragraph [ref=e71]: Interested in building your career at Hightouch? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e72] [cursor=pointer]
+      - separator [ref=e73]
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - generic [ref=e76]:
+            - heading "Apply for this job" [level=2] [ref=e78]
+            - generic [ref=e79]:
+              - paragraph [ref=e81]: "*"
+              - paragraph [ref=e82]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e85] [cursor=pointer]
+        - generic [ref=e86]:
+          - generic [ref=e87]:
+            - generic [ref=e90]:
+              - generic [ref=e91]: First Name*
+              - textbox "First Name" [ref=e92]
+            - generic [ref=e95]:
+              - generic [ref=e96]: Last Name*
+              - textbox "Last Name" [ref=e97]
+            - generic [ref=e100]:
+              - generic [ref=e101]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e102]
+            - generic [ref=e105]:
+              - generic [ref=e106]: Email*
+              - textbox "Email" [ref=e107]
+            - group "Phone" [ref=e109]:
+              - generic [ref=e110]: Phone
+              - generic [ref=e113]:
+                - generic [ref=e114]: Country
+                - generic [ref=e115]:
+                  - log [ref=e117]
+                  - generic [ref=e119]:
+                    - combobox "Country" [ref=e122]
+                    - button "Toggle flyout" [ref=e124] [cursor=pointer]:
+                      - img [ref=e125]
+              - generic [ref=e129]:
+                - generic [ref=e130]: Phone
+                - textbox "Phone" [ref=e131]
+            - group "Resume/CV" [ref=e133]:
+              - generic [ref=e134]: Resume/CV
+              - generic [ref=e136]:
+                - generic [ref=e138]:
+                  - button "Attach" [ref=e139] [cursor=pointer]
+                  - generic [ref=e140]: Attach
+                  - button "Attach" [ref=e141]
+                - button "Dropbox" [ref=e143] [cursor=pointer]
+                - button "Google Drive" [ref=e145] [cursor=pointer]
+                - generic [ref=e147]:
+                  - button "Enter manually" [ref=e148] [cursor=pointer]
+                  - generic [ref=e149]: Enter manually
+                - paragraph [ref=e150]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e152]:
+              - generic [ref=e153]: Cover Letter
+              - generic [ref=e155]:
+                - generic [ref=e157]:
+                  - button "Attach" [ref=e158] [cursor=pointer]
+                  - generic [ref=e159]: Attach
+                  - button "Attach" [ref=e160]
+                - button "Dropbox" [ref=e162] [cursor=pointer]
+                - button "Google Drive" [ref=e164] [cursor=pointer]
+                - generic [ref=e166]:
+                  - button "Enter manually" [ref=e167] [cursor=pointer]
+                  - generic [ref=e168]: Enter manually
+                - paragraph [ref=e169]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e170]:
+            - separator [ref=e171]
+            - generic [ref=e174]:
+              - generic [ref=e175]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e176]
+            - generic [ref=e179]:
+              - generic [ref=e180]: Website
+              - textbox "Website" [ref=e181]
+            - generic [ref=e184]:
+              - generic [ref=e185]: Are you legally authorized to work in the country where this role is based, now and in the future, without requiring employer visa sponsorship?*
+              - generic [ref=e186]:
+                - log [ref=e188]
+                - generic [ref=e190]:
+                  - generic [ref=e191]:
+                    - generic [ref=e192]: Select...
+                    - combobox "Are you legally authorized to work in the country where this role is based, now and in the future, without requiring employer visa sponsorship?" [ref=e194]
+                  - button "Toggle flyout" [ref=e196] [cursor=pointer]:
+                    - img [ref=e197]
+                - textbox
+            - generic [ref=e201]:
+              - generic [ref=e202]: Are you authorized to work for any employer in the U.S?*
+              - generic [ref=e203]:
+                - log [ref=e205]
+                - generic [ref=e207]:
+                  - generic [ref=e208]:
+                    - generic [ref=e209]: Select...
+                    - combobox "Are you authorized to work for any employer in the U.S?" [ref=e211]
+                  - button "Toggle flyout" [ref=e213] [cursor=pointer]:
+                    - img [ref=e214]
+                - textbox
+            - generic [ref=e218]:
+              - generic [ref=e219]: Will you now or in the future require sponsorship for employment visa status? *
+              - generic [ref=e220]:
+                - log [ref=e222]
+                - generic [ref=e224]:
+                  - generic [ref=e225]:
+                    - generic [ref=e226]: Select...
+                    - combobox "Will you now or in the future require sponsorship for employment visa status?" [ref=e228]
+                  - button "Toggle flyout" [ref=e230] [cursor=pointer]:
+                    - img [ref=e231]
+                - textbox
+          - button "Submit application" [ref=e234] [cursor=pointer]
+  - contentinfo [ref=e235]:
+    - generic [ref=e236]:
+      - paragraph [ref=e237]: Powered by
+      - link "Greenhouse logo" [ref=e238] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e239]

@@ -1,0 +1,211 @@
+- generic [active] [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - link "Quince Logo" [ref=e7] [cursor=pointer]:
+        - /url: https://boards.greenhouse.io/quince
+        - img "Quince Logo" [ref=e8]
+      - generic [ref=e9]:
+        - link "Back to jobs" [ref=e10] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/quince
+          - img [ref=e11]
+          - text: Back to jobs
+        - generic [ref=e15]: New
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - heading "Software Development Engineer [New Grad]" [level=1] [ref=e18]
+            - generic [ref=e19]:
+              - img [ref=e20]
+              - generic [ref=e22]: Palo Alto, California, United States
+          - button "Apply" [ref=e23] [cursor=pointer]
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - paragraph [ref=e26]:
+              - strong [ref=e27]: ABOUT QUINCE
+            - paragraph [ref=e28]: "Founded in 2018, Quince was built to challenge the idea that nice things have to cost a lot. Our mission is simple: to make really high quality essentials for really low prices, produced fairly and sustainably. We believe everyone deserves exceptional craftsmanship and timeless design without the traditional markups. Quince is a direct-to-consumer (DTC) model that cuts out middlemen and leverages just-in-time manufacturing to minimize waste and maximize value."
+            - paragraph [ref=e29]: "Quince is a tech company disrupting the retail industry by putting AI, analytics and automation at the center of everything we do. Our unwavering commitment to excellence and company values guide our teams and actions:"
+            - list [ref=e30]:
+              - listitem [ref=e31]:
+                - paragraph [ref=e32]:
+                  - strong [ref=e33]: Customer First
+                  - text: ": We prioritize customer satisfaction in every decision."
+              - listitem [ref=e34]:
+                - paragraph [ref=e35]:
+                  - strong [ref=e36]: High Quality
+                  - text: ": True quality means premium materials and rigorous production standards you can feel good about."
+              - listitem [ref=e37]:
+                - paragraph [ref=e38]:
+                  - strong [ref=e39]: Essential Design
+                  - text: ": We focus on timeless, functional essentials instead of chasing trends."
+              - listitem [ref=e40]:
+                - paragraph [ref=e41]:
+                  - strong [ref=e42]: Always a Better Deal
+                  - text: ": Innovation and transparency ensure value for both customers and partners."
+              - listitem [ref=e43]:
+                - paragraph [ref=e44]:
+                  - strong [ref=e45]: Social & Environmental Responsibility
+                  - text: ": We commit to sustainable materials, ethical production, and fair wages."
+            - paragraph [ref=e46]: Quince partners with world-class manufacturers across the globe and serves millions of customers. With strong investor backing and a focus on sustainable growth, we are a company that is rapidly scaling while maintaining a commitment to quality, simplicity, and radical price transparency.
+            - paragraph [ref=e47]:
+              - strong [ref=e48]: OUR TEAM AND SUCCESS
+            - paragraph [ref=e49]: At Quince, you will be part of a high-performing team that is redefining what quality, value, and sustainability mean in modern retail. We are a destination for builders, innovators, and operators to come together and challenge the status quo. Our collective ambition is bold. We are creating an entirely new category and customer experience – one that democratizes luxury and provides high quality products at radically low prices. That mission demands a world-class team committed to excellence.
+            - paragraph [ref=e50]: If you are motivated by impact, growth, and purpose, you will find a strong sense of belonging at Quince.
+          - generic [ref=e51]:
+            - paragraph [ref=e52]:
+              - strong [ref=e54]: THE ROLE
+            - paragraph [ref=e55]:
+              - strong [ref=e56]: Software Development Engineer [New Grad]
+            - paragraph [ref=e57]: We are hiring upcoming undergraduate candidates to join our U.S.-based engineering team. As a SDE, you will design, build, and operate scalable software systems that power core business capabilities. Success in this role means shipping high-quality code, owning features end-to-end, and continuously improving performance, reliability, and engineering standards across the organization. This role is based in our Palo Alto office and requires in-office presence 3 days per week.
+            - paragraph [ref=e58]:
+              - strong [ref=e59]: RESPONSIBILITIES
+            - list [ref=e60]:
+              - listitem [ref=e61]: Designing and implementing software features and components, following best practices and coding standards.
+              - listitem [ref=e62]: Support operational excellence by participating in monitoring, debugging, and issue resolution
+              - listitem [ref=e63]: Maintain strong documentation and adhere to coding, data-quality, and architectural standards
+              - listitem [ref=e64]: Keeping up-to-date with new technologies, frameworks, and best practices in software development, and applying them to improve the performance and reliability of software systems.
+              - listitem [ref=e65]: Primarily hands-on role focused on programming, execution, and continuous improvement
+            - paragraph [ref=e66]:
+              - strong [ref=e67]: QUALIFICATIONS
+            - paragraph [ref=e68]:
+              - strong [ref=e69]: "Required:"
+            - list [ref=e70]:
+              - listitem [ref=e71]: You have excellent computer science fundamentals
+              - listitem [ref=e72]: Bachelor's or Master's degree in Computer Science or a related field.
+              - listitem [ref=e73]: Proficiency in at least one programming language (e.g. Java, JavaScript)
+              - listitem [ref=e74]: Strong analytical and problem-solving abilities
+              - listitem [ref=e75]: Experience using AI-powered development tools to improve coding efficiency, testing, and problem-solving
+              - listitem [ref=e76]: High ownership, eagerness to learn, and ability to work in ambiguous, fast-paced environments
+              - listitem [ref=e77]: Curious, quick learner, scrappy and someone who loves to experiment
+            - paragraph [ref=e78]: All posted ranges are reflective of base salary and may vary depending upon experience level and location.
+            - paragraph [ref=e79]: Bonus and equity may also be provided for eligible roles.
+          - generic [ref=e81]:
+            - paragraph [ref=e85]:
+              - emphasis [ref=e86]: All posted ranges are reflective of base salary and may vary depending upon experience level and location.
+              - emphasis [ref=e87]: Bonus and equity may also be provided for eligible roles.
+            - paragraph [ref=e88]: Pay Range
+            - paragraph [ref=e89]: $125,000 - $135,000 USD
+          - generic [ref=e90]:
+            - paragraph [ref=e91]:
+              - strong [ref=e92]: WHY QUINCE?
+            - paragraph [ref=e93]: Joining Quince means being part of a mission-driven team reshaping retail. You will work alongside talented colleagues, tackle meaningful challenges, and contribute to building a more sustainable, accessible future for customers and partners alike.
+            - paragraph [ref=e94]:
+              - strong [ref=e95]: EQUAL OPPORTUNITY & HIRING INTEGRITY
+            - paragraph [ref=e96]: Quince provides equal employment opportunities to all employees and applications for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran or military status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.
+            - paragraph [ref=e97]:
+              - text: Quince is committed to providing reasonable accommodations to qualified individuals with disabilities. If you need a reasonable accommodation to complete your application or to perform the essential functions of a role at Quince, please let us know by completing
+              - link "this accommodation form" [ref=e98] [cursor=pointer]:
+                - /url: https://forms.gle/DpJ11jHa1WbqfUWB9
+              - text: . We review all requests individually and will work with you to determine appropriate accommodations on a case-by-case basis.
+            - paragraph [ref=e99]: Employment is contingent upon successful completion of a background check. Quince will conduct background checks in compliance with applicable federal, state, and local laws.
+            - paragraph [ref=e100]:
+              - emphasis [ref=e101]: "Security Advisory: Beware of Frauds"
+            - paragraph [ref=e102]: At Quince, we're dedicated to recruiting top talent who share our drive for innovation. To safeguard candidates, Quince emphasizes legitimate recruitment practices. Initial communication is primarily via official Quince email addresses and LinkedIn; beware of deviations. Personal data and sensitive information will not be solicited during the application phase. Interviews are conducted via phone, in person, or through the approved platforms Google Meets or Zoom—never via messaging apps or other calling services. Offers are merit-based, communicated verbally, and followed up in writing. If personal information is requested to initiate the hiring process, rest assured it will be through secure and protected means.
+            - paragraph [ref=e103]
+      - separator [ref=e104]
+      - generic [ref=e105]:
+        - generic [ref=e107]:
+          - heading "Apply for this job" [level=2] [ref=e109]
+          - generic [ref=e110]:
+            - paragraph [ref=e112]: "*"
+            - paragraph [ref=e113]: indicates a required field
+        - generic [ref=e114]:
+          - generic [ref=e115]:
+            - generic [ref=e118]:
+              - generic [ref=e119]: First Name*
+              - textbox "First Name" [ref=e120]
+            - generic [ref=e123]:
+              - generic [ref=e124]: Last Name*
+              - textbox "Last Name" [ref=e125]
+            - generic [ref=e128]:
+              - generic [ref=e129]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e130]
+            - generic [ref=e133]:
+              - generic [ref=e134]: Email*
+              - textbox "Email" [ref=e135]
+            - group "Phone" [ref=e137]:
+              - generic [ref=e138]: Phone
+              - generic [ref=e141]:
+                - generic [ref=e142]: Country
+                - generic [ref=e143]:
+                  - log [ref=e145]
+                  - generic [ref=e147]:
+                    - combobox "Country" [ref=e150]
+                    - button "Toggle flyout" [ref=e152] [cursor=pointer]:
+                      - img [ref=e153]
+              - generic [ref=e157]:
+                - generic [ref=e158]: Phone
+                - textbox "Phone" [ref=e160]
+            - group "Resume/CV" [ref=e162]:
+              - generic [ref=e163]: Resume/CV
+              - generic [ref=e165]:
+                - generic [ref=e167]:
+                  - button "Attach" [ref=e168] [cursor=pointer]
+                  - generic [ref=e169]: Attach
+                  - button "Attach" [ref=e170]
+                - button "Dropbox" [ref=e172] [cursor=pointer]
+                - button "Google Drive" [ref=e174] [cursor=pointer]
+                - generic [ref=e176]:
+                  - button "Enter manually" [ref=e177] [cursor=pointer]
+                  - generic [ref=e178]: Enter manually
+                - paragraph [ref=e179]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e181]:
+              - generic [ref=e182]: Cover Letter
+              - generic [ref=e184]:
+                - generic [ref=e186]:
+                  - button "Attach" [ref=e187] [cursor=pointer]
+                  - generic [ref=e188]: Attach
+                  - button "Attach" [ref=e189]
+                - button "Dropbox" [ref=e191] [cursor=pointer]
+                - button "Google Drive" [ref=e193] [cursor=pointer]
+                - generic [ref=e195]:
+                  - button "Enter manually" [ref=e196] [cursor=pointer]
+                  - generic [ref=e197]: Enter manually
+                - paragraph [ref=e198]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e199]:
+            - separator [ref=e200]
+            - generic [ref=e203]:
+              - generic [ref=e204]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e205]
+            - generic [ref=e208]:
+              - generic [ref=e209]: Are you legally authorized to work in the United States?*
+              - generic [ref=e210]:
+                - log [ref=e212]
+                - generic [ref=e214]:
+                  - generic [ref=e215]:
+                    - generic [ref=e216]: Select...
+                    - combobox "Are you legally authorized to work in the United States?" [ref=e218]
+                  - button "Toggle flyout" [ref=e220] [cursor=pointer]:
+                    - img [ref=e221]
+                - textbox
+            - generic [ref=e225]:
+              - generic [ref=e226]: Will you now or in the future require sponsorship from Quince for employment visa status?*
+              - generic [ref=e227]:
+                - log [ref=e229]
+                - generic [ref=e231]:
+                  - generic [ref=e232]:
+                    - generic [ref=e233]: Select...
+                    - combobox "Will you now or in the future require sponsorship from Quince for employment visa status?" [ref=e235]
+                  - button "Toggle flyout" [ref=e237] [cursor=pointer]:
+                    - img [ref=e238]
+                - textbox
+            - generic [ref=e242]:
+              - generic [ref=e243]: To help us understand potential work authorization options, please check any categories you believe may apply to you. This information will not be used to make hiring decisions.
+              - generic [ref=e244]:
+                - log [ref=e246]
+                - generic [ref=e248]:
+                  - generic [ref=e249]:
+                    - generic [ref=e250]: Select...
+                    - combobox "To help us understand potential work authorization options, please check any categories you believe may apply to you. This information will not be used to make hiring decisions." [ref=e252]
+                  - button "Toggle flyout" [ref=e254] [cursor=pointer]:
+                    - img [ref=e255]
+          - button "Submit application" [ref=e258] [cursor=pointer]
+  - contentinfo [ref=e259]:
+    - generic [ref=e260]:
+      - paragraph [ref=e261]: Powered by
+      - link "Greenhouse logo" [ref=e262] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e263]
+  - iframe [ref=e277]:
+    - generic [ref=f9e6]:
+      - text: protected by
+      - strong [ref=f9e7]: reCAPTCHA

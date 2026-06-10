@@ -1,0 +1,163 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - link [ref=e296] [cursor=pointer]:
+      - /url: ""
+      - text: Skip to main content
+    - generic [ref=e297]:
+      - paragraph [ref=e11]:
+        - text: CDW uses cookies and other technologies to make our website function and to make advertising and content more relevant to you. To learn more, view our
+        - link [ref=e298] [cursor=pointer]:
+          - /url: http://www.cdw.com/content/cdw/en/terms-conditions/privacy-notice/cookie-notice.html
+          - text: cookie policy
+        - text: .
+      - generic [ref=e13]:
+        - button [ref=e299] [cursor=pointer]: Decline
+        - button [ref=e300] [cursor=pointer]: Accept Cookies
+    - banner [ref=e23]:
+      - generic [ref=e25]:
+        - link [ref=e301] [cursor=pointer]:
+          - /url: https://cdw.wd5.myworkdayjobs.com/Careers
+          - img [ref=e302]
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - button [ref=e303] [cursor=pointer]:
+              - generic [ref=e39]: English
+            - button [ref=e304] [cursor=pointer]:
+              - generic [ref=e46]: Sign In
+          - navigation [ref=e47]:
+            - button [ref=e305] [cursor=pointer]: Careers Hub
+            - button [ref=e306] [cursor=pointer]: Search for Jobs
+    - generic [ref=e54]:
+      - alert [ref=e55]: Software Engineer I - Frontend page is loaded
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - heading [level=2] [ref=e307]: Software Engineer I - Frontend
+            - button [ref=e308] [cursor=pointer]: Apply
+          - img [ref=e309]
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - generic [ref=e68]:
+              - generic [ref=e75]:
+                - term [ref=e76]: remote type
+                - definition [ref=e77]: Remote
+              - generic [ref=e84]:
+                - term [ref=e85]: locations
+                - definition [ref=e86]: Virtual - Illinois
+            - generic [ref=e87]:
+              - generic [ref=e96]:
+                - term [ref=e97]: time type
+                - definition [ref=e98]: Full time
+              - generic [ref=e107]:
+                - term [ref=e108]: posted on
+                - definition [ref=e109]: Posted 7 Days Ago
+              - generic [ref=e118]:
+                - term [ref=e119]: job requisition id
+                - definition [ref=e120]: R26_00001465
+          - generic [ref=e122]:
+            - paragraph [ref=e123]: At CDW, we make it happen, together. Trust, connection, and commitment are at the heart of how we work together to deliver for our customers. It’s why we’re coworkers, not just employees. Coworkers who genuinely believe in supporting our customers and one another. We collectively forge our path forward with a level of commitment that speaks to who we are and where we’re headed. We’re proud to share our story and Make Amazing Happen at CDW.
+            - paragraph [ref=e124]: As a Software Engineer, Frontend you will work with Product Managers, Product Designers, and Backend Engineers to build effective tools for our customers to manage their services. You will ship world-class, accessible, and impactful features to our customers across a range of managed cloud and consulting services.
+            - paragraph [ref=e125]
+            - paragraph [ref=e126]: At CDW, we understand that experience comes in many forms. We’re dedicated to adding new perspectives to the team, so if your experience is close to what we’re looking for, please consider applying.
+            - paragraph [ref=e127]
+            - paragraph [ref=e128]: This position is 100% remote.
+            - paragraph [ref=e129]: Responsibilities
+            - list [ref=e130]:
+              - listitem [ref=e131]:
+                - paragraph [ref=e132]: Work with Product Managers, Product Designers, and Engineers to strategize, scope, and develop front-end web experiences that scale and perform across various browsers and devices
+              - listitem [ref=e133]:
+                - paragraph [ref=e134]: Use the latest web standards in HTML, CSS, and JavaScript, and modern technologies, frameworks, and tools like Tailwind, React, TypeScript, GraphQL, and Storybook
+              - listitem [ref=e135]:
+                - paragraph [ref=e136]: Create fast, scalable, accessible, documented, and tested code that improves application experiences
+              - listitem [ref=e137]:
+                - paragraph [ref=e138]: Clearly articulate and advocate for improvements to the product quality, security, accessibility, and performance to a wide variety of audiences
+              - listitem [ref=e139]:
+                - paragraph [ref=e140]: Balance your time correctly between shipping large and complex initiatives and mentoring and unblocking other engineers on the team
+              - listitem [ref=e141]:
+                - paragraph [ref=e142]: Drive critical decisions that fully consider software best practices, Mission Cloud’s system realities, stakeholder concerns, and existing roadmap obligations
+            - paragraph [ref=e143]: Requirements
+            - list [ref=e144]:
+              - listitem [ref=e145]:
+                - paragraph [ref=e146]: Professional experience developing web interfaces in React/JS consuming REST and GraphQL APIs
+              - listitem [ref=e147]:
+                - paragraph [ref=e148]: Expert-level knowledge of Javascript, React, and their ecosystems
+              - listitem [ref=e149]:
+                - paragraph [ref=e150]: A deep appreciation for semantic HTML, accessibility, & implementing design systems or component libraries
+              - listitem [ref=e151]:
+                - paragraph [ref=e152]: Ability to create and maintain bundling and build tools, package dependencies, and CI/CD deployments in Gitlab or other common code delivery tools
+              - listitem [ref=e153]:
+                - paragraph [ref=e154]: Ability to mentor frontend engineers and provide clear feedback on technical work
+              - listitem [ref=e155]:
+                - paragraph [ref=e156]: Ability to write tests in automated testing frameworks such as Jest, Playwright or similar
+              - listitem [ref=e157]:
+                - paragraph [ref=e158]: Strong teamwork, listening, verbal and written communication skills, with an ability to communicate technical needs to both engineering and non-engineering teams
+              - listitem [ref=e159]:
+                - paragraph [ref=e160]: AWS Cloud Practitioner certification (to be achieved within one year of hire)
+            - paragraph [ref=e161]
+            - paragraph [ref=e162]: CDW is committed to being an AI-fluent organization
+            - text: We’re looking for people who bring curiosity, a learner’s mindset, and a willingness to engage with ever-evolving technology and tools. We value adopting AI as a partner, openness to experimentation, and a shared interest in learning together on AI. Our goal is to create a culture where AI enhances—not replaces—human creativity and decision-making. You don’t need to be an expert today; what matters is your readiness to explore, adapt, and grow with us as we integrate AI responsibly and effectively into our work.
+            - paragraph [ref=e163]
+            - paragraph [ref=e164]: Additionally, CDW is committed to fostering an equitable, transparent, and respectful hiring process for all applicants. During our application process, our goal is to understand your experience, strengths, skills, and qualifications. As an AI forward company, we see AI not just as a tool, but as a catalyst for new ways of thinking, creating, and communicating. We encourage candidates to embrace an AI mindset, one that’s curious, adaptive, and ready to explore what’s possible. We welcome thoughtful use of AI to expand your perspective and elevate how you share your story, while ensuring your application remains rooted in your own background, judgment, and voice.
+            - paragraph [ref=e165]
+            - paragraph [ref=e166]: We make technology work so people can do great things.
+            - paragraph [ref=e167]: CDW is a leading multi-brand provider of information technology solutions to business, government, education and healthcare customers in the United States, the United Kingdom and Canada. A Fortune 500 company and member of the S&P 500 Index, CDW helps its customers to navigate an increasingly complex IT market and maximize return on their technology investments. Together, we unite. Together, we win. Together, we thrive.
+            - paragraph [ref=e168]
+            - paragraph [ref=e169]: CDW is an equal opportunity employer. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by state and local law.
+      - generic [ref=e171]:
+        - heading [level=3] [ref=e310]: Similar Jobs (1)
+        - generic [ref=e174]:
+          - link [ref=e311] [cursor=pointer]:
+            - /url: /en-US/careers/job/Virtual---Illinois/Software-Engineer-I---Backend_R26_00001466?utm_source=Simplify&ref=Simplify
+            - heading [level=4] [ref=e312]: Software Engineer I - Backend
+          - generic [ref=e186]:
+            - term [ref=e187]: remote type
+            - definition [ref=e188]: Remote
+          - generic [ref=e196]:
+            - term [ref=e197]: locations
+            - definition [ref=e198]: Virtual - Illinois
+          - generic [ref=e207]:
+            - term [ref=e208]: time type
+            - definition [ref=e209]: Full time
+          - generic [ref=e218]:
+            - term [ref=e219]: posted on
+            - definition [ref=e220]: Posted 7 Days Ago
+      - generic [ref=e225]:
+        - generic [ref=e227]:
+          - paragraph [ref=e228]: At CDW, we make technology work so people can do great things. We are a leading multi-brand technology solutions provider to business, government, education and healthcare customers in the United States, the United Kingdom and Canada.
+          - paragraph [ref=e229]
+          - paragraph [ref=e230]: Our coworkers across the globe are working together to bring technology to life for our customers by solving complicated IT business challenges, providing outstanding service, and orchestrating the technology landscape to optimize our customers’ performance.
+        - button [ref=e313] [cursor=pointer]:
+          - generic [ref=e234]: Read More
+    - generic [ref=e238]:
+      - generic [ref=e239]: Follow Us
+      - list [ref=e240]:
+        - listitem [ref=e241] [cursor=pointer]:
+          - link [ref=e314]:
+            - /url: https://plus.google.com/+workday/posts
+        - listitem [ref=e246] [cursor=pointer]:
+          - link [ref=e315]:
+            - /url: https://www.linkedin.com/company/cdw
+        - listitem [ref=e251] [cursor=pointer]:
+          - link [ref=e316]:
+            - /url: https://www.glassdoor.com/Overview/Working-at-CDW-EI_IE2347.11,14.htm
+        - listitem [ref=e257] [cursor=pointer]:
+          - link [ref=e317]:
+            - /url: https://www.youtube.com/user/CDWPeopleWhoGetIT
+        - listitem [ref=e264] [cursor=pointer]:
+          - link [ref=e318]:
+            - /url: https://twitter.com/CDWCorp
+      - link [ref=e319] [cursor=pointer]:
+        - /url: https://www.cdw.com/content/cdw/en/terms-conditions/privacy-notice.html
+        - text: Privacy Policy
+      - generic [ref=e271]:
+        - img [ref=e275]
+        - generic [ref=e295]: © 2026 Workday, Inc. All rights reserved.
+  - dialog "Start Your Application" [ref=e323]:
+    - button "Close" [active] [ref=e325] [cursor=pointer]
+    - generic [ref=e331]:
+      - heading "Start Your Application" [level=2] [ref=e332]
+      - heading "Software Engineer I - Frontend" [level=3] [ref=e333]
+      - paragraph [ref=e334]: "Choose your application journey:"
+      - button "Autofill with Resume" [ref=e338] [cursor=pointer]
+      - button "Apply Manually" [ref=e342] [cursor=pointer]
+      - button "Use My Last Application" [ref=e347] [cursor=pointer]

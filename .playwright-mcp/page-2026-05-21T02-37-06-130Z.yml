@@ -1,0 +1,361 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "Captivation Software Logo" [ref=e5]
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/captivation
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e12]: New
+        - generic [ref=e13]:
+          - generic [ref=e14]:
+            - heading "Software Engineer 0 - Java" [level=1] [ref=e15]
+            - generic [ref=e16]:
+              - img [ref=e17]
+              - generic [ref=e19]: Annapolis Junction, MD
+          - button "Apply" [ref=e20] [cursor=pointer]
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - heading "Build to something to be proud of." [level=1] [ref=e23]:
+              - strong [ref=e25]: Build to something to be proud of.
+            - separator [ref=e26]
+            - paragraph [ref=e27]: Captivation has built a reputation on providing customers exactly what is needed in a timely manner. Our team of engineers take pride in what they develop and constantly innovate to provide the best solution. Captivation is looking for software developers who can get stuff done while making a difference in support of the mission to protect our country.
+            - paragraph [ref=e28]
+          - generic [ref=e29]:
+            - heading "Description" [level=1] [ref=e30]
+            - separator [ref=e31]
+            - paragraph [ref=e32]: Captivation Software is looking for a entry level software engineer who has experience with Java outside of coursework.
+            - paragraph [ref=e33]
+            - heading "Requirements" [level=1] [ref=e34]
+            - separator [ref=e35]
+            - heading "Security Clearance:" [level=3] [ref=e36]
+            - list [ref=e37]:
+              - listitem [ref=e38]: Must currently hold a Top Secret/SCI U.S. Government security clearance with a favorable Polygraph, therefore all candidates must be a U.S. citizen
+            - heading "Minimum Qualifications:" [level=3] [ref=e39]
+            - list [ref=e40]:
+              - listitem [ref=e41]: Bachelor’s degree in Computer Science or related discipline from an accredited college or university is required
+              - listitem [ref=e42]: Four (4) years of SWE experience on projects with similar software processes may be substituted for a bachelor’s degree.
+            - heading "Required Skills:" [level=3] [ref=e43]
+            - list [ref=e44]:
+              - listitem [ref=e45]: Java
+            - paragraph [ref=e46]
+            - paragraph [ref=e47]:
+              - emphasis [ref=e49]:
+                - strong [ref=e50]: This position is open for direct hires only. We will not consider candidates from third party staffing/recruiting firms.
+          - generic [ref=e51]:
+            - heading "Benefits" [level=1] [ref=e52]
+            - separator [ref=e53]
+            - list [ref=e54]:
+              - listitem [ref=e55]: "Annual Salary: $130,000 - $270,000 (Depends on the Years of Experience)"
+              - listitem [ref=e56]: Up to 20% 401k contribution (No Matching Required and Vested from Day 1)
+              - listitem [ref=e57]: Above Market Hourly Rates
+              - listitem [ref=e58]: $3,600 HSA Contribution
+              - listitem [ref=e59]: 6 Weeks Paid Time Off
+              - listitem [ref=e60]: Company Paid Employee Medical/Dental/Vision Insurance/Life Insurance/Short-Term & Long-Term Disability/AD&D
+            - paragraph [ref=e61]
+        - generic [ref=e62]:
+          - img [ref=e63]
+          - generic [ref=e65]:
+            - paragraph [ref=e66]: Create a Job Alert
+            - paragraph [ref=e67]: Interested in building your career at Captivation Software? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e68] [cursor=pointer]
+      - separator [ref=e69]
+      - generic [ref=e70]:
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - heading "Apply for this job" [level=2] [ref=e74]
+            - generic [ref=e75]:
+              - paragraph [ref=e77]: "*"
+              - paragraph [ref=e78]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e81] [cursor=pointer]
+        - generic [ref=e82]:
+          - generic [ref=e83]:
+            - generic [ref=e86]:
+              - generic [ref=e87]: First Name*
+              - textbox "First Name" [ref=e88]
+            - generic [ref=e91]:
+              - generic [ref=e92]: Last Name*
+              - textbox "Last Name" [ref=e93]
+            - generic [ref=e96]:
+              - generic [ref=e97]: Email*
+              - textbox "Email" [ref=e98]
+            - group "Phone" [ref=e100]:
+              - generic [ref=e101]: Phone
+              - generic [ref=e104]:
+                - generic [ref=e105]: Country*
+                - generic [ref=e106]:
+                  - log [ref=e108]
+                  - generic [ref=e110]:
+                    - combobox "Country" [ref=e113]
+                    - button "Toggle flyout" [ref=e115] [cursor=pointer]:
+                      - img [ref=e116]
+                  - textbox
+              - generic [ref=e120]:
+                - generic [ref=e121]: Phone*
+                - textbox "Phone" [ref=e122]
+            - group "Resume/CV*" [ref=e124]:
+              - generic [ref=e125]: Resume/CV*
+              - generic [ref=e127]:
+                - generic [ref=e129]:
+                  - button "Attach" [ref=e130] [cursor=pointer]
+                  - generic [ref=e131]: Attach
+                  - button "Attach" [ref=e132]
+                - button "Dropbox" [ref=e134] [cursor=pointer]
+                - button "Google Drive" [ref=e136] [cursor=pointer]
+                - generic [ref=e138]:
+                  - button "Enter manually" [ref=e139] [cursor=pointer]
+                  - generic [ref=e140]: Enter manually
+                - paragraph [ref=e141]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e143]:
+              - generic [ref=e144]: Cover Letter
+              - generic [ref=e146]:
+                - generic [ref=e148]:
+                  - button "Attach" [ref=e149] [cursor=pointer]
+                  - generic [ref=e150]: Attach
+                  - button "Attach" [ref=e151]
+                - button "Dropbox" [ref=e153] [cursor=pointer]
+                - button "Google Drive" [ref=e155] [cursor=pointer]
+                - generic [ref=e157]:
+                  - button "Enter manually" [ref=e158] [cursor=pointer]
+                  - generic [ref=e159]: Enter manually
+                - paragraph [ref=e160]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e161]:
+            - separator [ref=e162]
+            - generic [ref=e165]:
+              - generic [ref=e166]: Are You Authorized to work in the U.S. without restriction?*
+              - generic [ref=e167]:
+                - log [ref=e169]
+                - generic [ref=e171]:
+                  - generic [ref=e172]:
+                    - generic [ref=e173]: Select...
+                    - combobox "Are You Authorized to work in the U.S. without restriction?" [ref=e175]
+                  - button "Toggle flyout" [ref=e177] [cursor=pointer]:
+                    - img [ref=e178]
+                - textbox
+            - generic [ref=e182]:
+              - generic [ref=e183]: Will You Now or in the Future Require Sponsorship to work within the United States?*
+              - generic [ref=e184]:
+                - log [ref=e186]
+                - generic [ref=e188]:
+                  - generic [ref=e189]:
+                    - generic [ref=e190]: Select...
+                    - combobox "Will You Now or in the Future Require Sponsorship to work within the United States?" [ref=e192]
+                  - button "Toggle flyout" [ref=e194] [cursor=pointer]:
+                    - img [ref=e195]
+                - textbox
+            - generic [ref=e199]:
+              - generic [ref=e200]: Do You Currently Hold an Active Security Clearance?*
+              - generic [ref=e201]:
+                - log [ref=e203]
+                - generic [ref=e205]:
+                  - generic [ref=e206]:
+                    - generic [ref=e207]: Select...
+                    - combobox "Do You Currently Hold an Active Security Clearance?" [ref=e209]
+                  - button "Toggle flyout" [ref=e211] [cursor=pointer]:
+                    - img [ref=e212]
+                - textbox
+            - generic [ref=e216]:
+              - generic [ref=e217]: If Yes, Which level of Security Clearance Do You Hold?*
+              - generic [ref=e218]:
+                - log [ref=e220]
+                - generic [ref=e222]:
+                  - generic [ref=e223]:
+                    - generic [ref=e224]: Select...
+                    - combobox "If Yes, Which level of Security Clearance Do You Hold?" [ref=e226]
+                  - button "Toggle flyout" [ref=e228] [cursor=pointer]:
+                    - img [ref=e229]
+                - textbox
+            - generic [ref=e233]:
+              - generic [ref=e234]: Please Confirm Which Polygraph Level You Have:*
+              - generic [ref=e235]:
+                - log [ref=e237]
+                - generic [ref=e239]:
+                  - generic [ref=e240]:
+                    - generic [ref=e241]: Select...
+                    - combobox "Please Confirm Which Polygraph Level You Have:" [ref=e243]
+                  - button "Toggle flyout" [ref=e245] [cursor=pointer]:
+                    - img [ref=e246]
+                - textbox
+            - generic [ref=e250]:
+              - generic [ref=e251]: Is Your Clearance from the MD Agency?*
+              - generic [ref=e252]:
+                - log [ref=e254]
+                - generic [ref=e256]:
+                  - generic [ref=e257]:
+                    - generic [ref=e258]: Select...
+                    - combobox "Is Your Clearance from the MD Agency?" [ref=e260]
+                  - button "Toggle flyout" [ref=e262] [cursor=pointer]:
+                    - img [ref=e263]
+                - textbox
+          - separator [ref=e265]
+          - generic [ref=e266]:
+            - heading "U.S. Standard Demographic Questions" [level=3] [ref=e267]
+            - generic [ref=e269]: We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of improvement in our hiring process.
+            - generic [ref=e271]:
+              - generic [ref=e272]: How would you describe your gender identity?
+              - generic [ref=e273]:
+                - log [ref=e275]
+                - generic [ref=e277]:
+                  - generic [ref=e278]:
+                    - generic [ref=e279]: Select...
+                    - combobox "How would you describe your gender identity?" [ref=e281]
+                  - button "Toggle flyout" [ref=e283] [cursor=pointer]:
+                    - img [ref=e284]
+            - generic [ref=e287]:
+              - generic [ref=e288]: How would you describe your racial/ethnic background?
+              - generic [ref=e289]:
+                - log [ref=e291]
+                - generic [ref=e293]:
+                  - generic [ref=e294]:
+                    - generic [ref=e295]: Select...
+                    - combobox "How would you describe your racial/ethnic background?" [ref=e297]
+                  - button "Toggle flyout" [ref=e299] [cursor=pointer]:
+                    - img [ref=e300]
+            - generic [ref=e303]:
+              - generic [ref=e304]: How would you describe your sexual orientation?
+              - generic [ref=e305]:
+                - log [ref=e307]
+                - generic [ref=e309]:
+                  - generic [ref=e310]:
+                    - generic [ref=e311]: Select...
+                    - combobox "How would you describe your sexual orientation?" [ref=e313]
+                  - button "Toggle flyout" [ref=e315] [cursor=pointer]:
+                    - img [ref=e316]
+            - generic [ref=e319]:
+              - generic [ref=e320]: Do you identify as transgender?
+              - generic [ref=e321]:
+                - log [ref=e323]
+                - generic [ref=e325]:
+                  - generic [ref=e326]:
+                    - generic [ref=e327]: Select...
+                    - combobox "Do you identify as transgender?" [ref=e329]
+                  - button "Toggle flyout" [ref=e331] [cursor=pointer]:
+                    - img [ref=e332]
+            - generic [ref=e335]:
+              - generic [ref=e336]: Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?
+              - generic [ref=e337]:
+                - log [ref=e339]
+                - generic [ref=e341]:
+                  - generic [ref=e342]:
+                    - generic [ref=e343]: Select...
+                    - combobox "Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?" [ref=e345]
+                  - button "Toggle flyout" [ref=e347] [cursor=pointer]:
+                    - img [ref=e348]
+            - generic [ref=e351]:
+              - generic [ref=e352]: Are you a veteran or active member of the United States Armed Forces?
+              - generic [ref=e353]:
+                - log [ref=e355]
+                - generic [ref=e357]:
+                  - generic [ref=e358]:
+                    - generic [ref=e359]: Select...
+                    - combobox "Are you a veteran or active member of the United States Armed Forces?" [ref=e361]
+                  - button "Toggle flyout" [ref=e363] [cursor=pointer]:
+                    - img [ref=e364]
+          - generic [ref=e366]:
+            - separator [ref=e367]
+            - generic [ref=e368]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e369]
+              - paragraph [ref=e370]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e371]: As set forth in Captivation Software’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e374]:
+              - generic [ref=e375]: Gender
+              - generic [ref=e376]:
+                - log [ref=e378]
+                - generic [ref=e380]:
+                  - generic [ref=e381]:
+                    - generic [ref=e382]: Select...
+                    - combobox "Gender" [ref=e384]
+                  - button "Toggle flyout" [ref=e386] [cursor=pointer]:
+                    - img [ref=e387]
+            - generic [ref=e389]:
+              - generic [ref=e391]:
+                - generic [ref=e392]: Are you Hispanic/Latino?
+                - generic [ref=e393]:
+                  - log [ref=e395]
+                  - generic [ref=e397]:
+                    - generic [ref=e398]:
+                      - generic [ref=e399]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e401]
+                    - button "Toggle flyout" [ref=e403] [cursor=pointer]:
+                      - img [ref=e404]
+              - link "Race & Ethnicity Definitions" [ref=e406] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e407]:
+              - paragraph [ref=e408]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e409]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e410]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e411]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e412]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e415]:
+              - generic [ref=e416]: Veteran Status
+              - generic [ref=e417]:
+                - log [ref=e419]
+                - generic [ref=e421]:
+                  - generic [ref=e422]:
+                    - generic [ref=e423]: Select...
+                    - combobox "Veteran Status" [ref=e425]
+                  - button "Toggle flyout" [ref=e427] [cursor=pointer]:
+                    - img [ref=e428]
+            - separator [ref=e430]
+            - generic [ref=e431]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e432]
+              - generic [ref=e433]:
+                - generic [ref=e434]:
+                  - generic [ref=e435]: Form CC-305
+                  - generic [ref=e436]: Page 1 of 1
+                - generic [ref=e437]:
+                  - generic [ref=e438]: OMB Control Number 1250-0005
+                  - generic [ref=e439]: Expires 04/30/2026
+              - strong [ref=e440]: Why are you being asked to complete this form?
+              - paragraph [ref=e441]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e442]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e443] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e444]: How do you know if you have a disability?
+              - paragraph [ref=e445]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e446]: "Disabilities include, but are not limited to:"
+              - list [ref=e447]:
+                - listitem [ref=e448]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e449]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e450]: Blind or low vision
+                - listitem [ref=e451]: Cancer (past or present)
+                - listitem [ref=e452]: Cardiovascular or heart disease
+                - listitem [ref=e453]: Celiac disease
+                - listitem [ref=e454]: Cerebral palsy
+                - listitem [ref=e455]: Deaf or serious difficulty hearing
+                - listitem [ref=e456]: Diabetes
+                - listitem [ref=e457]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e458]: Epilepsy or other seizure disorder
+                - listitem [ref=e459]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e460]: Intellectual or developmental disability
+                - listitem [ref=e461]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e462]: Missing limbs or partially missing limbs
+                - listitem [ref=e463]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e464]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e465]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e466]: Partial or complete paralysis (any cause)
+                - listitem [ref=e467]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e468]: Short stature (dwarfism)
+                - listitem [ref=e469]: Traumatic brain injury
+            - generic [ref=e472]:
+              - generic [ref=e473]: Disability Status
+              - generic [ref=e474]:
+                - log [ref=e476]
+                - generic [ref=e478]:
+                  - generic [ref=e479]:
+                    - generic [ref=e480]: Select...
+                    - combobox "Disability Status" [ref=e482]
+                  - button "Toggle flyout" [ref=e484] [cursor=pointer]:
+                    - img [ref=e485]
+            - paragraph [ref=e488]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e490] [cursor=pointer]
+  - contentinfo [ref=e491]:
+    - generic [ref=e492]:
+      - paragraph [ref=e493]: Powered by
+      - link "Greenhouse logo" [ref=e494] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e495]

@@ -1,0 +1,98 @@
+- generic [active] [ref=e1]:
+  - link "Ladders logo" [ref=e4] [cursor=pointer]:
+    - /url: https://jobs.lever.co/ladders
+    - img "Ladders logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "Software Engineer [Entry Level]" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: New York , Philadelphia (Remote work options available)
+          - generic [ref=e14]: Engineering /
+          - generic [ref=e15]: Full-time /
+          - generic [ref=e16]: Remote
+      - link "apply for this job" [ref=e18] [cursor=pointer]:
+        - /url: https://jobs.lever.co/ladders/cdaf77b0-5385-4041-bbca-afad7975b736/apply
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e21]: At Ladders, we’re building the most effective AI products in job search. We are at the forefront of using AI to get our users more interviews.
+        - generic [ref=e23]: "As the leading innovator in our space, we’re shipping industry-first and industry-best products:"
+        - generic [ref=e24]: • The first AI-generated resumes
+        - generic [ref=e25]: • One-click resume customization for every job
+        - generic [ref=e26]: • Instant, personalized cover letters that feel human
+        - generic [ref=e27]: • LinkedIn profile optimization that drives responses
+        - generic [ref=e28]: • With more great innovations to come - built by you!
+        - generic [ref=e30]: Every week, we ship products that help people advance their careers — faster, smarter, and with less friction. Our products help professionals stand out, get seen, and land interviews that lead to better careers.
+        - generic [ref=e32]: We work in tight, high-output teams that care deeply about craft, clarity, and customer outcomes.
+        - generic [ref=e34]: If you’re excited to build ambitious, high-leverage tools with a team that moves fast and ships often — we’d love to meet you.
+      - generic [ref=e36]:
+        - heading "What You'll Do" [level=3] [ref=e37]
+        - list [ref=e40]:
+          - listitem [ref=e41]: "Design & Deliver: Build scalable, high-performance front-end and back-end systems for fast and seamless web experiences."
+          - listitem [ref=e42]: "Solve Complex Problems: Break down intricate challenges into actionable solutions, iterating quickly to address broad goals"
+          - listitem [ref=e43]: "Embrace AI: Identify opportunities to embed AI into processes, optimizing efficiency and user experience"
+          - listitem [ref=e44]: "Collaborate & Lead: Partner cross-functionally with design, product, and business teams. Lead and mentor engineers to foster growth and shared success"
+          - listitem [ref=e45]: "Craft Excellence: Promote and practice clean code, robust testing, thorough documentation, and performance optimization"
+          - listitem [ref=e46]: "Drive Innovation: Balance technical debt with long-term product and business goals. Your ideas today could shape our best-selling products tomorrow."
+      - generic [ref=e48]:
+        - heading "What We're Looking For" [level=3] [ref=e49]
+        - list [ref=e52]:
+          - listitem [ref=e53]:
+            - text: "Problem-Solving Mindset: An innate ability to tackle complexity with intelligence and"
+            - link "c" [ref=e54] [cursor=pointer]:
+              - /url: http://curiosity.Full-Stack
+            - text: uriosity
+          - listitem [ref=e55]:
+            - text: "Full-Stack Proficiency: Expertise in front-end and/or back-end"
+            - link "t" [ref=e56] [cursor=pointer]:
+              - /url: http://technologies.Speed
+            - text: echnologies
+          - listitem [ref=e57]: "Speed Matters: Experience in delivering fast, efficient solutions is highly valued"
+          - listitem [ref=e58]: "Adaptability: Eagerness to learn and work with new tools, languages, and paradigms"
+          - listitem [ref=e59]: "AI Enthusiast: Passion for integrating AI into development workflows to simplify and enhance solutions"
+          - listitem [ref=e60]:
+            - text: "Experience at Scale: You’ve architected solutions for companies operating at significant"
+            - link "s" [ref=e61] [cursor=pointer]:
+              - /url: http://scale.Customer
+            - text: cale
+          - listitem [ref=e62]: "Customer Focus: Empathy for end users and an unwavering commitment to improving their experience."
+      - generic [ref=e64]:
+        - heading "What We Value" [level=3] [ref=e65]
+        - generic [ref=e67]:
+          - list [ref=e68]:
+            - listitem [ref=e69]: "Transparency: Open communication and feedback are at the core of how we work"
+            - listitem [ref=e70]: "Customer Obsession: Every decision is guided by our commitment to delivering exceptional customer outcomes"
+            - listitem [ref=e71]: "Simplicity: We believe the best solutions are those that simplify complexity without compromising quality"
+            - listitem [ref=e72]: "AI Integration: Harnessing the power of AI to drive innovation and efficiency."
+          - generic [ref=e74]: "Ideal candidate should have experience with: -"
+          - list [ref=e75]:
+            - listitem [ref=e76]:
+              - text: "Any modern, typed language: Python ("
+              - link "3.10" [ref=e77] [cursor=pointer]:
+                - /url: http://3.0.0.10/
+              - text: +), Golang, TypeScript, Rust - MySQL/MariaDB, OpenSearch (or ElasticSearch), Redshift
+            - listitem [ref=e78]: LLMs, vector search, embeddings, similarity search - Terraform or Pulumi
+            - listitem [ref=e79]: AWS, K8s
+            - listitem [ref=e80]: Jenkins - Focus on thought through but simple and maintainable solutions addressing actual problems.
+            - listitem [ref=e81]: Designing systems with ease of repeatable testing and local-first development.
+            - listitem [ref=e82]: None of the above are mandatory, but are nice to have.
+      - generic [ref=e84]:
+        - heading "Why Join Us" [level=3] [ref=e85]
+        - list [ref=e88]:
+          - listitem [ref=e89]: Work remotely from anywhere while contributing to impactful projects that shape the careers of millions
+          - listitem [ref=e90]: Competitive compensation
+          - listitem [ref=e91]: Be part of a fast-paced, innovation-driven team where your ideas have a direct impact
+          - listitem [ref=e92]: Collaborate with curious, motivated, and empathetic colleagues who value growth and excellence.
+      - generic [ref=e94]: $100,000 - $140,000 a year
+      - generic [ref=e96]: If this sounds like the challenge you’re looking for, let’s create something extraordinary together. Apply today and lead the evolution at Ladders.
+      - generic [ref=e98]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e100] [cursor=pointer]:
+        - /url: https://jobs.lever.co/ladders/cdaf77b0-5385-4041-bbca-afad7975b736/apply
+  - generic [ref=e102]:
+    - paragraph [ref=e103]:
+      - link "Ladders Home Page" [ref=e104] [cursor=pointer]:
+        - /url: https://jobs.lever.co/ladders
+    - link "Jobs powered by Lever logo" [ref=e105] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e106]: Jobs powered by
+      - img "Lever logo" [ref=e107]

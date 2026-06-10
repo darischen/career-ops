@@ -1,0 +1,374 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Handshake" [ref=e6] [cursor=pointer]:
+        - /url: https://joinhandshake.com/
+        - img "Handshake" [ref=e7]
+    - link "Back to Handshake’s Job Listings" [ref=e8] [cursor=pointer]:
+      - /url: https://www.joinhandshake.com/careers/#open-roles
+      - img [ref=e9]
+    - listitem
+  - generic [ref=e11]:
+    - heading "Machine Learning Engineer I" [level=1] [ref=e13]
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - heading "Location" [level=2] [ref=e17]
+          - paragraph [ref=e18]: San Francisco, CA
+        - generic [ref=e19]:
+          - heading "Employment Type" [level=2] [ref=e20]
+          - paragraph [ref=e21]: Full time
+        - generic [ref=e22]:
+          - heading "Department" [level=2] [ref=e23]
+          - paragraph [ref=e24]: Engineering
+        - generic [ref=e25]:
+          - heading "Compensation" [level=2] [ref=e26]
+          - list [ref=e27]:
+            - listitem [ref=e28]:
+              - generic [ref=e29]: $151K – $189K
+          - paragraph [ref=e31]:
+            - emphasis [ref=e32]: For cash compensation, we set standard ranges for all U.S.-based roles based on function, level, and geographic location, benchmarked against similar stage growth companies. In order to be compliant with local legislation, as well as to provide greater transparency to candidates, we share salary ranges on all job postings regardless of desired hiring location. Final offer amounts are determined by multiple factors, including geographic location as well as candidate experience and expertise, and may vary from the amounts listed above.
+      - generic [ref=e33]:
+        - tablist [ref=e34]:
+          - tab "Overview" [ref=e35] [cursor=pointer]
+          - tab "Application" [selected] [ref=e36] [cursor=pointer]
+        - tabpanel "Application" [ref=e158]:
+          - generic [ref=e159]:
+            - button "Choose File" [ref=e160]
+            - generic [ref=e162]:
+              - generic [ref=e163]:
+                - img [ref=e165]
+                - heading "Autofill from resume" [level=3] [ref=e167]
+              - paragraph [ref=e168]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e170] [cursor=pointer]
+          - generic [ref=e171]:
+            - generic [ref=e172]:
+              - heading "Personal Information" [level=2] [ref=e174]
+              - generic [ref=e175]:
+                - generic [ref=e176]: Name*
+                - textbox "Name*" [ref=e178] [cursor=pointer]:
+                  - /placeholder: Type here...
+                  - text: Daris Chen
+              - generic [ref=e179]:
+                - generic [ref=e180]: Name Pronunciation
+                - paragraph [ref=e182]: Please share the phonetic spelling of your name to help our team pronounce it correctly.
+                - textbox "Name Pronunciation" [ref=e184] [cursor=pointer]:
+                  - /placeholder: Type here...
+              - generic [ref=e185]:
+                - generic [ref=e186]: Email*
+                - textbox "Email*" [ref=e188] [cursor=pointer]:
+                  - /placeholder: hello@example.com...
+                  - text: daris.chen@gmail.com
+              - generic [ref=e189]:
+                - generic [ref=e190]: Phone number*
+                - textbox "Phone number*" [ref=e191] [cursor=pointer]:
+                  - /placeholder: 1-415-555-1234...
+                  - text: (562) 386-3975
+                - generic [ref=e192]:
+                  - paragraph [ref=e193]:
+                    - text: Check
+                    - strong [ref=e194]: "Yes"
+                    - text: or
+                    - strong [ref=e195]: "No"
+                    - text: to indicate your agreement to receive text message updates from Stryder Corp regarding your job application. Frequency may vary. Message and data rates may apply. Reply STOP to opt out of future messaging.
+                  - paragraph [ref=e196]:
+                    - text: "View our privacy policy here:"
+                    - link "Privacy Policy" [ref=e197] [cursor=pointer]:
+                      - /url: https://docs.google.com/document/d/1-28DUpd9Y-1iiRGbKzxZaFb8PPqIe_Ni9dO_2mbbcRI/edit?tab=t.0
+                  - generic [ref=e198]:
+                    - generic [ref=e199]:
+                      - radio "Yes - I consent to receiving text messages" [ref=e200]
+                      - generic [ref=e201]:
+                        - strong [ref=e202]: "Yes"
+                        - text: "- I consent to receiving text messages"
+                    - generic [ref=e203]:
+                      - radio "No - I do not consent to receiving text messages" [ref=e204]
+                      - generic [ref=e205]:
+                        - strong [ref=e206]: "No"
+                        - text: "- I do not consent to receiving text messages"
+              - generic [ref=e207]:
+                - generic [ref=e208]: Resume*
+                - button "Resume*" [ref=e209]
+                - generic [ref=e210]:
+                  - button "Upload File" [ref=e211] [cursor=pointer]:
+                    - img [ref=e212]
+                    - generic [ref=e214]: Upload File
+                  - paragraph [ref=e215]: or drag and drop here
+              - generic [ref=e216]:
+                - generic [ref=e217]: Cover Letter
+                - button "Cover Letter" [ref=e218]
+                - generic [ref=e219]:
+                  - button "Upload File" [ref=e220] [cursor=pointer]:
+                    - img [ref=e221]
+                    - generic [ref=e223]: Upload File
+                  - paragraph [ref=e224]: or drag and drop here
+            - generic [ref=e225]:
+              - heading "Custom application questions" [level=2] [ref=e227]
+              - generic [ref=e228]:
+                - generic [ref=e229]: LinkedIn Profile (indicate N/A if you don't have one)*
+                - textbox "LinkedIn Profile (indicate N/A if you don't have one)*" [ref=e231] [cursor=pointer]:
+                  - /placeholder: Type here...
+                  - text: linkedin.com/in/darischen
+              - generic [ref=e232]:
+                - generic [ref=e233]: How did you hear about this job?*
+                - textbox "How did you hear about this job?*" [ref=e234] [cursor=pointer]:
+                  - /placeholder: Type here...
+                  - text: Found through Career Ops, evaluated your semantic search and embeddings stack against my target roles in production ML. Your recent work on billion-scale data and model deployment aligns directly with my PatentIQ experience building pgvector semantic search systems.
+              - group [ref=e236]:
+                - generic [ref=e237]: Are you willing to relocate for this position if required?*
+                - generic [ref=e238]:
+                  - radio "Yes" [checked] [ref=e241] [cursor=pointer]
+                  - generic [ref=e242]: "Yes"
+                - generic [ref=e243]:
+                  - radio "No" [ref=e246] [cursor=pointer]
+                  - generic [ref=e247]: "No"
+                - generic [ref=e248]:
+                  - radio "I'm already located where the position is based" [ref=e251] [cursor=pointer]
+                  - generic [ref=e252]: I'm already located where the position is based
+              - generic [ref=e253]:
+                - generic [ref=e254]: This role is onsite and in person. Are you willing to work from our local office Monday-Friday?*
+                - generic [ref=e255]:
+                  - button "Yes" [active] [ref=e256] [cursor=pointer]
+                  - button "No" [ref=e257] [cursor=pointer]
+              - generic [ref=e258]:
+                - generic [ref=e259]: Are you authorized to work lawfully in the United States for Handshake?*
+                - generic [ref=e260]:
+                  - button "Yes" [ref=e261] [cursor=pointer]
+                  - button "No" [ref=e262] [cursor=pointer]
+              - generic [ref=e263]:
+                - generic [ref=e264]: Will you now, or in the future, require sponsorship for employment visa status?*
+                - generic [ref=e265]:
+                  - button "Yes" [ref=e266] [cursor=pointer]
+                  - button "No" [ref=e267] [cursor=pointer]
+              - generic [ref=e268]:
+                - generic [ref=e269]: Location*
+                - generic [ref=e270]:
+                  - combobox "Start typing..." [ref=e271] [cursor=pointer]
+                  - button [ref=e272] [cursor=pointer]:
+                    - img [ref=e273]
+          - generic [ref=e275]:
+            - generic [ref=e276]:
+              - generic [ref=e277]:
+                - generic [ref=e279]:
+                  - paragraph [ref=e280]:
+                    - strong [ref=e281]: U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION
+                    - text: (Completion is voluntary and will not subject you to adverse treatment)
+                  - paragraph [ref=e282]
+                  - paragraph [ref=e283]: Handshake provides equal employment opportunities to applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability.
+                  - paragraph [ref=e284]
+                  - paragraph [ref=e285]: Handshake is a federal contractor or subcontractor subject to certain governmental recordkeeping and reporting requirements for the administration of civil right laws and regulations. Employment decisions are made on the basis of job-related criteria without regard to race, ethnicity, color, religion, sex, sexual orientation, gender identity, marital status, age, genetic information, national origin, disability, military, or veteran status, or any other classification protected by applicable law.
+                  - paragraph [ref=e286]
+                  - paragraph [ref=e287]: We invite all applicants to voluntarily self-identify their race, ethnicity, and gender. Submission of the information on this form is strictly voluntary and refusal to provide it will not subject you to any adverse treatment. Information obtained will be retained in a confidential file and separate from personnel records. This information may only be used in accordance with the provision of applicable federal laws, executive orders, and regulations. If you want more information about any of the sections, please check with a company representative.
+                - group [ref=e289]:
+                  - generic [ref=e290]: Gender
+                  - paragraph [ref=e292]: Input gender
+                  - generic [ref=e293]:
+                    - radio "Male" [ref=e296] [cursor=pointer]
+                    - generic [ref=e297]: Male
+                  - generic [ref=e298]:
+                    - radio "Female" [ref=e301] [cursor=pointer]
+                    - generic [ref=e302]: Female
+                  - generic [ref=e303]:
+                    - radio "Decline to self-identify" [ref=e306] [cursor=pointer]
+                    - generic [ref=e307]: Decline to self-identify
+                - group [ref=e309]:
+                  - generic [ref=e310]: Race
+                  - generic [ref=e311]:
+                    - list [ref=e312]:
+                      - listitem [ref=e313]:
+                        - paragraph [ref=e314]:
+                          - strong [ref=e315]: Hispanic or Latino
+                          - text: "- A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race."
+                    - list [ref=e316]:
+                      - listitem [ref=e317]:
+                        - paragraph [ref=e318]:
+                          - strong [ref=e319]: White
+                          - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+                      - listitem [ref=e320]:
+                        - paragraph [ref=e321]:
+                          - strong [ref=e322]: Black or African American
+                          - text: (Not Hispanic or Latino) - A person having origins in any of the black racial groups of Africa.
+                      - listitem [ref=e323]:
+                        - paragraph [ref=e324]:
+                          - strong [ref=e325]: Native Hawaiian or Other Pacific Islander
+                          - text: (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+                      - listitem [ref=e326]:
+                        - paragraph [ref=e327]:
+                          - strong [ref=e328]: Asian
+                          - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+                      - listitem [ref=e329]:
+                        - paragraph [ref=e330]:
+                          - strong [ref=e331]: American Indian or Alaska Native
+                          - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.
+                      - listitem [ref=e332]:
+                        - paragraph [ref=e333]:
+                          - strong [ref=e334]: Two or More Races
+                          - text: (Not Hispanic or Latino) - All persons who identify with more than one of the above five races.
+                  - generic [ref=e335]:
+                    - radio "Hispanic or Latino" [ref=e338] [cursor=pointer]
+                    - generic [ref=e339]: Hispanic or Latino
+                  - generic [ref=e340]:
+                    - radio "White (Not Hispanic or Latino)" [ref=e343] [cursor=pointer]
+                    - generic [ref=e344]: White (Not Hispanic or Latino)
+                  - generic [ref=e345]:
+                    - radio "Black or African American (Not Hispanic or Latino)" [ref=e348] [cursor=pointer]
+                    - generic [ref=e349]: Black or African American (Not Hispanic or Latino)
+                  - generic [ref=e350]:
+                    - radio "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)" [ref=e353] [cursor=pointer]
+                    - generic [ref=e354]: Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)
+                  - generic [ref=e355]:
+                    - radio "Asian (Not Hispanic or Latino)" [ref=e358] [cursor=pointer]
+                    - generic [ref=e359]: Asian (Not Hispanic or Latino)
+                  - generic [ref=e360]:
+                    - radio "American Indian or Alaska Native (Not Hispanic or Latino)" [ref=e363] [cursor=pointer]
+                    - generic [ref=e364]: American Indian or Alaska Native (Not Hispanic or Latino)
+                  - generic [ref=e365]:
+                    - radio "Two or More Races (Not Hispanic or Latino)" [ref=e368] [cursor=pointer]
+                    - generic [ref=e369]: Two or More Races (Not Hispanic or Latino)
+                  - generic [ref=e370]:
+                    - radio "Decline to self-identify" [ref=e373] [cursor=pointer]
+                    - generic [ref=e374]: Decline to self-identify
+              - generic [ref=e375]:
+                - generic [ref=e377]:
+                  - paragraph [ref=e378]:
+                    - strong [ref=e379]: SELF-IDENTIFICATION OF VETERAN STATUS
+                    - text: (Completion is voluntary and will not subject you to adverse treatment)
+                  - paragraph [ref=e380]: Handshake is a Government contractor subject to the Section 4212 of the Vietnam Era Veterans’ Readjustment Assistance Act of 1974, as amended by the Jobs for Veterans Act of 2002, which requires Government contractors to take affirmative action to employ and advance in employment protected veterans. If you believe that you belong to any of the following categories of protected veterans, please indicate by making the appropriate selection.
+                  - list [ref=e381]:
+                    - listitem [ref=e382]:
+                      - paragraph [ref=e383]:
+                        - strong [ref=e384]: Disabled veteran
+                        - text: – A veteran who served on active duty in the U.S. military and is entitled to disability compensation (or who but for the receipt of military retired pay would be entitled to disability compensation) under laws administered by the Secretary of Veterans Affairs, or was discharged or released from active duty because of a service-connected disability
+                    - listitem [ref=e385]:
+                      - paragraph [ref=e386]:
+                        - strong [ref=e387]: Recently separated veteran
+                        - text: – A veteran separated during the three-year period beginning on the date of the veteran's discharge or release from active duty in the U.S military, ground, naval, or air service
+                    - listitem [ref=e388]:
+                      - paragraph [ref=e389]:
+                        - strong [ref=e390]: Active duty wartime or campaign badge veteran
+                        - text: – A veteran who served on active duty in the U.S. military during a war, or in a campaign or expedition for which a campaign badge was authorized under the laws administered by the Department of Defense
+                    - listitem [ref=e391]:
+                      - paragraph [ref=e392]:
+                        - strong [ref=e393]: Armed forces service medal veteran
+                        - text: "- Armed forces service medal veteran – A veteran who, while serving on active duty in the U.S. military ground, naval, or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985 (61 Fed. Reg. 1209)."
+                - group [ref=e395]:
+                  - generic [ref=e396]: Veteran Status
+                  - generic [ref=e397]:
+                    - radio "I identify as one or more of the classifications of protected veteran listed above" [ref=e400] [cursor=pointer]
+                    - generic [ref=e401]: I identify as one or more of the classifications of protected veteran listed above
+                  - generic [ref=e402]:
+                    - radio "I am not a protected veteran" [ref=e405] [cursor=pointer]
+                    - generic [ref=e406]: I am not a protected veteran
+                  - generic [ref=e407]:
+                    - radio "I decline to self-identify for protected veteran status" [ref=e410] [cursor=pointer]
+                    - generic [ref=e411]: I decline to self-identify for protected veteran status
+              - generic [ref=e412]:
+                - generic [ref=e414]:
+                  - paragraph [ref=e415]:
+                    - strong [ref=e416]: VOLUNTARY SELF-IDENTIFICATION OF DISABILITY
+                  - paragraph [ref=e417]:
+                    - emphasis [ref=e418]: Form CC-305, OMB Control Number 1250-0005, Expires 4/30/2026
+                  - paragraph [ref=e419]:
+                    - strong [ref=e420]: Why are you being asked to complete this form?
+                  - paragraph [ref=e421]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+                  - paragraph [ref=e422]:
+                    - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                    - link "www.dol.gov/ofccp" [ref=e423] [cursor=pointer]:
+                      - /url: http://www.dol.gov/ofccp
+                    - text: .
+                  - paragraph [ref=e424]:
+                    - strong [ref=e425]: How do you know if you have a disability?
+                  - paragraph [ref=e426]:
+                    - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                    - strong [ref=e427]: "Disabilities include, but are not limited to:"
+                  - list [ref=e428]:
+                    - listitem [ref=e429]:
+                      - paragraph [ref=e430]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                    - listitem [ref=e431]:
+                      - paragraph [ref=e432]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                    - listitem [ref=e433]:
+                      - paragraph [ref=e434]: Blind or low vision
+                    - listitem [ref=e435]:
+                      - paragraph [ref=e436]: Cancer (past or present)
+                    - listitem [ref=e437]:
+                      - paragraph [ref=e438]: Cardiovascular or heart disease
+                    - listitem [ref=e439]:
+                      - paragraph [ref=e440]: Celiac disease
+                    - listitem [ref=e441]:
+                      - paragraph [ref=e442]: Cerebral palsy
+                    - listitem [ref=e443]:
+                      - paragraph [ref=e444]: Deaf or serious difficulty hearing
+                    - listitem [ref=e445]:
+                      - paragraph [ref=e446]: Diabetes
+                    - listitem [ref=e447]:
+                      - paragraph [ref=e448]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                    - listitem [ref=e449]:
+                      - paragraph [ref=e450]: Epilepsy or other seizure disorder
+                    - listitem [ref=e451]:
+                      - paragraph [ref=e452]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                    - listitem [ref=e453]:
+                      - paragraph [ref=e454]: Intellectual or developmental disability
+                    - listitem [ref=e455]:
+                      - paragraph [ref=e456]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                    - listitem [ref=e457]:
+                      - paragraph [ref=e458]: Missing limbs or partially missing limbs
+                    - listitem [ref=e459]:
+                      - paragraph [ref=e460]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                    - listitem [ref=e461]:
+                      - paragraph [ref=e462]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                    - listitem [ref=e463]:
+                      - paragraph [ref=e464]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                    - listitem [ref=e465]:
+                      - paragraph [ref=e466]: Partial or complete paralysis (any cause)
+                    - listitem [ref=e467]:
+                      - paragraph [ref=e468]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                    - listitem [ref=e469]:
+                      - paragraph [ref=e470]: Short stature (dwarfism)
+                    - listitem [ref=e471]:
+                      - paragraph [ref=e472]: Traumatic brain injury
+                  - paragraph [ref=e473]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+                - group [ref=e475]:
+                  - generic [ref=e476]: Disability Status
+                  - generic [ref=e477]:
+                    - radio "Yes, I have a disability, or have had one in the past" [ref=e480] [cursor=pointer]
+                    - generic [ref=e481]: Yes, I have a disability, or have had one in the past
+                  - generic [ref=e482]:
+                    - radio "No, I don't have a disability and have not had one in the past" [ref=e485] [cursor=pointer]
+                    - generic [ref=e486]: No, I don't have a disability and have not had one in the past
+                  - generic [ref=e487]:
+                    - radio "I do not want to answer" [ref=e490] [cursor=pointer]
+                    - generic [ref=e491]: I do not want to answer
+            - group [ref=e495]:
+              - generic [ref=e496]:
+                - paragraph [ref=e497]: Do you agree to allow Handshake to contact you about job opportunities for up to 24 months?
+                - paragraph [ref=e498]:
+                  - link "Recruiting Privacy Policy" [ref=e499] [cursor=pointer]:
+                    - /url: https://joinhandshake.com/legal/candidate-privacy/
+              - generic [ref=e500]:
+                - generic [ref=e501] [cursor=pointer]:
+                  - img [ref=e502]
+                  - checkbox "I agree" [ref=e504]
+                - generic [ref=e505]: I agree
+          - generic [ref=e506]:
+            - generic:
+              - link "Recruiting Privacy Policy":
+                - /url: https://joinhandshake.com/legal/candidate-privacy/
+          - button "Submit Application" [ref=e507] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e508]
+          - paragraph [ref=e510]:
+            - text: Handshake may use Artificial Intelligence with this application.
+            - link "Learn more." [ref=e511] [cursor=pointer]:
+              - /url: /handshake/automation-notice
+  - contentinfo [ref=e145]:
+    - link "Learn more about Ashby" [ref=e146] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e147]: Powered by
+      - img "Ashby" [ref=e148]
+    - paragraph [ref=e154]:
+      - link "Privacy Policy" [ref=e155] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e156] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e157] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

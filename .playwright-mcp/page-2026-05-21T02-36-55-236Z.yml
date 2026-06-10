@@ -1,0 +1,95 @@
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - heading "Altamira Technologies Corp. Careers" [level=1] [ref=e7]:
+      - link "Altamira Technologies Corp. Careers" [ref=e8] [cursor=pointer]:
+        - /url: /altamiracorps/jobs
+  - main [ref=e9]:
+    - generic [ref=e10]:
+      - heading "Junior Software Engineer" [level=2] [ref=e11]
+      - paragraph [ref=e12]:
+        - text: Software Development
+        - generic [ref=e13]: •
+        - text: Fairborn, OH
+      - separator [ref=e14]
+      - link "Apply" [ref=e16] [cursor=pointer]:
+        - /url: /altamiracorps/job/oaYaAfwC/apply
+      - generic [ref=e17]:
+        - heading "Description" [level=3] [ref=e18]
+        - paragraph
+        - generic [ref=e20]:
+          - text: Altamira Technologies Corporation has a long and successful history providing innovative solutions throughout the U.S. National Security community. Headquartered in McLean, Virginia, Altamira serves the defense, intelligence and homeland security communities by focusing on creating innovative solutions leveraging common standards in architecture, data and security.
+          - text: Altamira believes that our people and the culture of our company differentiate us from other companies.
+          - text: We focus on recruiting talented, self-motivated employees that strive to find a way to get things done.
+        - strong [ref=e23]: Acceptable candidates MUST be a current US citizen and willing to apply for and obtain a US Government security clearance.
+        - generic [ref=e25]: We are currently seeking an Entry Level Software Developer with a minimum of a BS degree in computer science or a related technical field.
+        - generic [ref=e27]: NOTE THAT THESE POSITIONS ARE NOT REMOTE - CANDIDATES WILL NEED TO WORK ON SITE IN DAYTON OHIO.
+        - generic [ref=e29]: "Successful candidate will have a basic knowledge of Agile software development practices and engineering best practices for software development. Candidate must have knowledge of some of the following desired skills: data architectures, modern cloud-computing software and tools, Python coding, Kubernetes, algorithm development, JavaScript/Typescript, Angular, Java, Spring Boot, Vue, Jira, React, NodeJS, QT, OpenSearch Dashboards, Linux, Docker."
+        - generic [ref=e31]: Other desirable skills include, MATLAB, IDL, C++, UI/UX, and database design.
+        - paragraph
+        - paragraph [ref=e32]: Altamira is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. We focus on recruiting talented, self-motivated employees that find a way to get things done. Join our team of experts as we engineer national security!
+      - generic [ref=e33]:
+        - link "Apply" [ref=e34] [cursor=pointer]:
+          - /url: /altamiracorps/job/oaYaAfwC/apply
+        - link "Apply Later" [ref=e35] [cursor=pointer]:
+          - /url: mailto:?subject=Apply for Junior Software Engineer at Altamira Technologies Corp.&body=To apply for Junior Software Engineer at Altamira Technologies Corp., click the link below:%0A%0Ahttps%3A%2F%2Fjobs.jobvite.com%2Faltamiracorps%2Fjob%2FoaYaAfwC
+        - link "← Back to Current Openings" [ref=e37] [cursor=pointer]:
+          - /url: /altamiracorps/jobs
+      - separator [ref=e38]
+      - generic [ref=e39]:
+        - heading "Share" [level=3] [ref=e40]
+        - generic [ref=e41]:
+          - link " LinkedIn" [ref=e42] [cursor=pointer]:
+            - /url: ""
+            - generic [ref=e44]:
+              - text: 
+              - generic: LinkedIn
+          - link " Facebook" [ref=e45] [cursor=pointer]:
+            - /url: ""
+            - generic [ref=e47]:
+              - text: 
+              - generic: Facebook
+          - link " Twitter" [ref=e48] [cursor=pointer]:
+            - /url: https://twitter.com/intent/tweet?url=https%3A%2F%2Fjobs.jobvite.com%2Faltamiracorps%2Fjob%2FoaYaAfwC%3F__jvst%3Dcareersite%26__jvsd%3Daltamiracorps%26__jvsc%3DTwitter&text=Altamira Technologies Corp. is looking for Junior Software Engineer. Learn more or Jobvite a friend.
+            - generic [ref=e50]:
+              - text: 
+              - generic: Twitter
+          - link " Email" [ref=e51] [cursor=pointer]:
+            - /url: mailto:?subject=Altamira Technologies Corp. is looking for Junior Software Engineer.&body=Altamira Technologies Corp. is looking for Junior Software Engineer. Learn more or Jobvite a friend.%0A%0Ahttps%3A%2F%2Fjobs.jobvite.com%2Faltamiracorps%2Fjob%2FoaYaAfwC%3F__jvst%3Dcareersite%26__jvsd%3Daltamiracorps%26__jvsc%3DEmail
+            - generic [ref=e53]:
+              - text: 
+              - generic: Email
+      - generic [ref=e54]:
+        - separator [ref=e55]
+        - heading "Similar Jobs" [level=3] [ref=e56]
+        - table [ref=e57]:
+          - rowgroup [ref=e58]:
+            - row "Software Engineer" [ref=e59]:
+              - cell "Software Engineer" [ref=e60]:
+                - link "Software Engineer" [ref=e61] [cursor=pointer]:
+                  - /url: /altamiracorps/job/oRc9Afww
+            - row "Junior Software Engineer" [ref=e62]:
+              - cell "Junior Software Engineer" [ref=e63]:
+                - link "Junior Software Engineer" [ref=e64] [cursor=pointer]:
+                  - /url: /altamiracorps/job/oXo0zfwE
+            - row "Software Engineer" [ref=e65]:
+              - cell "Software Engineer" [ref=e66]:
+                - link "Software Engineer" [ref=e67] [cursor=pointer]:
+                  - /url: /altamiracorps/job/oyYUzfwJ
+            - row "Senior Software Engineer" [ref=e68]:
+              - cell "Senior Software Engineer" [ref=e69]:
+                - link "Senior Software Engineer" [ref=e70] [cursor=pointer]:
+                  - /url: /altamiracorps/job/otWQzfwy
+            - row "Software Engineer" [ref=e71]:
+              - cell "Software Engineer" [ref=e72]:
+                - link "Software Engineer" [ref=e73] [cursor=pointer]:
+                  - /url: /altamiracorps/job/ovX4zfwP
+  - contentinfo [ref=e74]:
+    - generic [ref=e75]:
+      - paragraph
+      - separator [ref=e76]
+      - link " Powered by Jobvite" [ref=e77] [cursor=pointer]:
+        - /url: https://www.jobvite.com/support/job-seeker-support/
+        - generic [ref=e78]:
+          - text: 
+          - generic: Powered by Jobvite
+      - paragraph

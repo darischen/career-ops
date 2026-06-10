@@ -1,0 +1,144 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "OpenAI" [ref=e6] [cursor=pointer]:
+        - /url: https://openai.com/
+        - img "OpenAI" [ref=e7]
+    - link "Back to OpenAI’s Job Listings" [ref=e8] [cursor=pointer]:
+      - /url: https://openai.com/careers/search/
+      - img [ref=e9]
+    - listitem
+  - generic [ref=e11]:
+    - heading "Frontend Software Engineer, Codex App" [level=1] [ref=e13]
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - heading "Location" [level=2] [ref=e17]
+          - paragraph [ref=e18]: San Francisco; London, UK; Seattle
+        - generic [ref=e19]:
+          - heading "Employment Type" [level=2] [ref=e20]
+          - paragraph [ref=e21]: Full time
+        - generic [ref=e22]:
+          - heading "Department" [level=2] [ref=e23]
+          - paragraph [ref=e24]: Applied AI
+        - generic [ref=e25]:
+          - heading "Compensation" [level=2] [ref=e26]
+          - list [ref=e27]:
+            - listitem [ref=e28]:
+              - generic [ref=e29]: $230K – $385K • Offers Equity
+          - generic [ref=e30]:
+            - paragraph [ref=e31]: The base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. If the role is non-exempt, overtime pay will be provided consistent with applicable laws. In addition to the salary range listed above, total compensation also includes generous equity, performance-related bonus(es) for eligible employees, and the following benefits.
+            - list [ref=e32]:
+              - listitem [ref=e33]:
+                - paragraph [ref=e34]: Medical, dental, and vision insurance for you and your family, with employer contributions to Health Savings Accounts
+              - listitem [ref=e35]:
+                - paragraph [ref=e36]: Pre-tax accounts for Health FSA, Dependent Care FSA, and commuter expenses (parking and transit)
+              - listitem [ref=e37]:
+                - paragraph [ref=e38]: 401(k) retirement plan with employer match
+              - listitem [ref=e39]:
+                - paragraph [ref=e40]: Paid parental leave (up to 24 weeks for birth parents and 20 weeks for non-birthing parents), plus paid medical and caregiver leave (up to 8 weeks)
+              - listitem [ref=e41]:
+                - paragraph [ref=e42]: "Paid time off: flexible PTO for exempt employees and up to 15 days annually for non-exempt employees"
+              - listitem [ref=e43]:
+                - paragraph [ref=e44]: 13+ paid company holidays, and multiple paid coordinated company office closures throughout the year for focus and recharge, plus paid sick or safe time (1 hour per 30 hours worked, or more, as required by applicable state or local law)
+              - listitem [ref=e45]:
+                - paragraph [ref=e46]: Mental health and wellness support
+              - listitem [ref=e47]:
+                - paragraph [ref=e48]: Employer-paid basic life and disability coverage
+              - listitem [ref=e49]:
+                - paragraph [ref=e50]: Annual learning and development stipend to fuel your professional growth
+              - listitem [ref=e51]:
+                - paragraph [ref=e52]: Daily meals in our offices, and meal delivery credits as eligible
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: Relocation support for eligible employees
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]: Additional taxable fringe benefits, such as charitable donation matching and wellness stipends, may also be provided.
+            - paragraph [ref=e57]: More details about our benefits are available to candidates during the hiring process.
+            - paragraph [ref=e58]: This role is at-will and OpenAI reserves the right to modify base pay and other compensation components at any time based on individual performance, team or company results, or market conditions.
+      - generic [ref=e59]:
+        - tablist [ref=e60]:
+          - tab "Overview" [selected] [ref=e61] [cursor=pointer]
+          - tab "Application" [ref=e62] [cursor=pointer]
+        - tabpanel "Overview" [ref=e64]:
+          - generic [ref=e65]:
+            - heading "About the Team" [level=2] [ref=e66]:
+              - strong [ref=e67]: About the Team
+            - paragraph [ref=e68]: "The Codex App team builds and maintains the Codex desktop app and IDE extension — the primary ways developers interact with Codex. Our goal is to make AI feel like a real software engineering teammate inside real workflows: editing code, running tasks, reviewing changes, and coordinating long-running work."
+            - paragraph [ref=e69]: We sit at the intersection of research, product, and design. We ship quickly, learn from real usage, and continuously refine both the experience and the harness that connects users to the model.
+            - paragraph [ref=e70]
+            - heading "About the Role" [level=2] [ref=e71]:
+              - strong [ref=e72]: About the Role
+            - paragraph [ref=e73]: "We’re hiring a Frontend Software Engineer to build a top-tier desktop experience and push forward the interface for working with agents. This is a craft-heavy role: you’ll partner closely with design to prototype, iterate, and polish new interaction models — then turn them into reliable, high-performance product."
+            - paragraph [ref=e74]: "You’ll help define what great looks like for “human ↔ agent” collaboration: what belongs in the UI, how state is represented, how progress and uncertainty are communicated, and how users stay oriented across long-running and multi-step work."
+            - paragraph [ref=e75]
+            - heading "What You’ll Do" [level=2] [ref=e76]:
+              - strong [ref=e77]: What You’ll Do
+            - list [ref=e78]:
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Build and ship polished, high-performance UI across the Codex desktop app and IDE extension.
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: Partner tightly with design to turn prototypes into production-quality experiences (layout, motion, typography, interaction details).
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: "Iterate on future interfaces for interacting with agents: delegation, task timelines, status/progress, handoffs, review, and control surfaces."
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: Own frontend architecture decisions (component systems, state management, navigation, rendering performance).
+              - listitem [ref=e87]:
+                - paragraph [ref=e88]: Improve quality and reliability through testing, instrumentation, and thoughtful UX for failure modes.
+              - listitem [ref=e89]:
+                - paragraph [ref=e90]: Collaborate with platform/model/backend partners to integrate new capabilities into cohesive product flows.
+            - heading "You Might Thrive Here If You" [level=2] [ref=e91]:
+              - strong [ref=e92]: You Might Thrive Here If You
+            - list [ref=e93]:
+              - listitem [ref=e94]:
+                - paragraph [ref=e95]: Have strong experience with modern frontend stacks (React, TypeScript) and a high bar for UI craft.
+              - listitem [ref=e96]:
+                - paragraph [ref=e97]: "Love design engineering: sweating the details while keeping velocity."
+              - listitem [ref=e98]:
+                - paragraph [ref=e99]: Have built desktop-caliber product experiences (Electron or similar), and care about performance, responsiveness, and “it just feels right.”
+              - listitem [ref=e100]:
+                - paragraph [ref=e101]: Enjoy exploring ambiguous problems and iterating rapidly with design and product.
+              - listitem [ref=e102]:
+                - paragraph [ref=e103]: Think in end-to-end workflows, not isolated screens.
+              - listitem [ref=e104]:
+                - paragraph [ref=e105]: Have experience with developer tools or IDE extensions (nice-to-have).
+            - paragraph [ref=e106]
+            - paragraph [ref=e107]
+            - paragraph [ref=e108]:
+              - strong [ref=e109]: About OpenAI
+            - paragraph [ref=e110]: OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
+            - paragraph [ref=e111]: We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
+            - paragraph [ref=e112]:
+              - text: For additional information, please see
+              - link "OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement" [ref=e113] [cursor=pointer]:
+                - /url: https://cdn.openai.com/policies/eeo-policy-statement.pdf
+              - text: .
+            - paragraph [ref=e114]: "Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations."
+            - paragraph [ref=e115]:
+              - text: To notify OpenAI that you believe this job posting is non-compliant, please submit a report through
+              - link "this form" [ref=e116] [cursor=pointer]:
+                - /url: https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA
+              - text: . No response will be provided to inquiries unrelated to job posting compliance.
+            - paragraph [ref=e117]:
+              - text: We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this
+              - link "link" [ref=e118] [cursor=pointer]:
+                - /url: https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241
+              - text: .
+            - paragraph [ref=e119]:
+              - link "OpenAI Global Applicant Privacy Policy" [ref=e120] [cursor=pointer]:
+                - /url: https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf
+            - paragraph [ref=e121]: At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+          - link "Apply for this Job" [ref=e122] [cursor=pointer]:
+            - /url: /openai/5f6685ad-2fba-4e60-8982-fa142b33e194/application
+            - button "Apply for this Job" [ref=e123]
+  - contentinfo [ref=e124]:
+    - link "Learn more about Ashby" [ref=e125] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e126]: Powered by
+      - img "Ashby" [ref=e127]
+    - paragraph [ref=e133]:
+      - link "Privacy Policy" [ref=e134] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e135] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e136] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

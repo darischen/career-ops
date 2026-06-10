@@ -1,0 +1,141 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "The San Francisco Compute Company" [ref=e6] [cursor=pointer]:
+        - /url: https://sfcompute.com
+        - img "The San Francisco Compute Company" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to The San Francisco Compute Company’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /sfcompute
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer, Hermetic Build" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco, CA
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Department" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Engineering
+        - generic [ref=e26]:
+          - heading "Compensation" [level=2] [ref=e27]
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - generic [ref=e30]: $175K – $250K
+      - generic [ref=e31]:
+        - tablist [ref=e32]:
+          - tab "Overview" [selected] [ref=e33] [cursor=pointer]
+          - tab "Application" [ref=e34] [cursor=pointer]
+        - tabpanel "Overview" [ref=e36]:
+          - generic [ref=e37]:
+            - paragraph [ref=e38]: We're building the company which will de-risk the largest infrastructure build-out in history.
+            - paragraph [ref=e39]
+            - paragraph [ref=e40]: When people finance GPU clusters, the datacenters housing them, and the infrastructure powering them, they need "offtake" - meaning someone has signed a contract to lease the cluster for a period of time before its even built.
+            - paragraph [ref=e41]
+            - paragraph [ref=e42]: Financing a GPU cluster is inherently risky, since margins are thin and volumes are huge. Lenders don't want to take on the risk that cluster developers can't repay their loan, and cluster developers really don't want to risk not selling their cluster. As a result, risk is offloaded to the customer using fixed-price long-term contracts.
+            - paragraph [ref=e43]
+            - paragraph [ref=e44]: "If you don't mitigate this customer risk, there's a bubble. This isn't SaaS anymore - application layer companies sign multi-year contracts for computer and inference, but sell to customers on monthly subscriptions. If you mess up a purchase, it's game over: a minor shift in your revenue growth rate might mean the difference between profit or bankruptcy. But what if companies could exit their contract by selling it back to the market?"
+            - paragraph [ref=e45]
+            - paragraph [ref=e46]: Otherwise, as AI scales, compute only becomes available to folks who can effectively take on that risk. A 2-person startup in a San Francisco Victorian can't realistically sign a 5-year take or pay contract on $100m supercomputers. But they may be able to buy the month of liquidity that someone else sold back.
+            - paragraph [ref=e47]
+            - paragraph [ref=e48]: "So that's what we make: a liquid market for GPU offtake."
+            - paragraph [ref=e49]
+            - heading "About SFCompute" [level=2] [ref=e50]
+            - paragraph [ref=e51]: The San Francisco Compute Company runs large-scale GPU clusters (H100s, H200s, B300s) on contracts you can exit. Need 256 H100s for three days? Buy them at market price, cancel what you don't use. We operate the stack from UEFI up, so you're never paying a reseller markup or waiting on a support ticket. Customers include NVIDIA, MIT, Liquid AI, and Roboflow. We're a small team that has managed over $1B of hardware and is building what we think will be the defining infrastructure marketplace for the AI era.
+            - paragraph [ref=e52]
+            - heading "The Role" [level=2] [ref=e53]
+            - paragraph [ref=e54]: We need someone who has run a serious build system at a previous job, ideally a large Bazel monorepo, and wants to do it again here. Our codebase is a TypeScript monorepo, a Rust workspace, a protobuf layer that wires them together, and a growing pile of services and container images. CI works. It isn't hermetic, it isn't deterministic, and the cache hit rates are nowhere near where they should be. That's the work.
+            - paragraph [ref=e55]
+            - paragraph [ref=e56]: You'll own the build and CI experience top to bottom. We're not religious about Bazel. If Buck2 fits better, or a simpler setup gets us 80% of the value, that's fine. The goal is local and CI builds that produce the same artifact, fast incremental feedback for every engineer, and a credible roadmap for what this looks like at 10x our current size.
+            - paragraph [ref=e57]
+            - heading "What You'll Do" [level=2] [ref=e58]
+            - list [ref=e59]:
+              - listitem [ref=e60]:
+                - paragraph [ref=e61]: Audit the current build and test pipeline (Bun for TypeScript, Cargo for Rust, buf for protobuf, plus Docker and Helm) and write down where it fails on reproducibility, hermeticity, and speed
+              - listitem [ref=e62]:
+                - paragraph [ref=e63]: Pick a build system and migrate us onto it without breaking shipping
+              - listitem [ref=e64]:
+                - paragraph [ref=e65]: Stand up remote execution and remote caching that actually move CI and local build times
+              - listitem [ref=e66]:
+                - paragraph [ref=e67]: Pin toolchains, seal dependencies, and stop the host environment from leaking into builds
+              - listitem [ref=e68]:
+                - paragraph [ref=e69]: Run the long-term roadmap for build, test, and CI as the team and codebase grow
+              - listitem [ref=e70]:
+                - paragraph [ref=e71]: Work alongside application and infrastructure engineers throughout, since the migration touches all of them
+            - paragraph [ref=e72]
+            - heading "What We're Looking For" [level=2] [ref=e73]
+            - list [ref=e74]:
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: Senior or staff-level experience running Bazel, Buck2, Pants, or a comparable system somewhere the build system genuinely mattered
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: Experience operating remote execution and remote caching in production
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Comfortable across language ecosystems. We run TypeScript and Rust today, with Python showing up.
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: Strong opinions on determinism and reproducibility, with the judgment to know when full hermeticity is worth the cost and when it isn't
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: "CI ops chops: queue health, flake budgets, real test signal, build time budgets you can defend"
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: Able to scope your own work. There's no spec for what our build system should look like.
+              - listitem [ref=e87]:
+                - paragraph [ref=e88]: "Nice to have: experience moving a codebase onto Bazel (or off of it), polyglot or protobuf-heavy monorepos, prior work on developer infrastructure at an autonomy, robotics, or systems company"
+            - paragraph [ref=e89]
+            - heading "Why This Role" [level=2] [ref=e90]
+            - paragraph [ref=e91]: Build systems are one of the few pieces of infrastructure where every hour you save shows up for every engineer in the company. Doing this well before we're 10x the size is one of the most leveraged things we can do right now. You pick the tools, you set the standards, and you own the outcome.
+            - heading "Benefits" [level=1] [ref=e92]:
+              - strong [ref=e93]: Benefits
+            - heading [level=2]
+            - heading "Generous equity grant" [level=2] [ref=e94]
+            - paragraph [ref=e95]: Team members are offered a competitive salary along with equity in the company
+            - paragraph [ref=e96]
+            - heading "Visa Sponsorships" [level=2] [ref=e97]
+            - paragraph [ref=e98]: Yes, we sponsor visas and work permits
+            - paragraph [ref=e99]
+            - heading "Retirement matching" [level=2] [ref=e100]
+            - paragraph [ref=e101]: We match 401(k) plans up to 4%
+            - paragraph [ref=e102]
+            - heading "Medical, dental & vision" [level=2] [ref=e103]
+            - paragraph [ref=e104]: We offer competitive medical, dental, vision insurance for employees and dependents and cover 100% of premiums
+            - paragraph [ref=e105]
+            - heading "Time off" [level=2] [ref=e106]
+            - paragraph [ref=e107]: We offer unlimited paid time off as well as 10+ observed holidays
+            - paragraph [ref=e108]
+            - heading "Parental leave" [level=2] [ref=e109]
+            - paragraph [ref=e110]: We offer biological, adoptive, and foster parents paid time off to spend quality time with family
+            - paragraph [ref=e111]
+            - heading "Daily lunch" [level=2] [ref=e112]
+            - paragraph [ref=e113]: We cover lunch daily for employees
+            - paragraph [ref=e114]
+            - heading "Unlimited office book budget" [level=2] [ref=e115]
+            - paragraph [ref=e116]: You can buy as many books for the office as you want
+            - paragraph [ref=e117]
+            - paragraph [ref=e118]: The San Francisco Compute Company is committed to maintaining a workplace free from discrimination and harassment.
+            - paragraph [ref=e119]
+            - paragraph [ref=e120]: We make employment decisions based on business needs, job requirements, and individual qualifications, without regard to race, color, religion, belief, national origin, social or ethical origin, age, physical, mental, or sensory disability, sexual orientation, gender identity or expression, marital status, civil union or domestic partnership status, past or present military service, HIV status, family medical history or genetic information, family or parental status including pregnancy, or any other status protected by law.
+            - paragraph [ref=e121]
+            - paragraph [ref=e122]: We welcome the opportunity to consider qualified applicants with prior arrest or conviction records. Our commitment to diversity includes hiring talented individuals regardless of their criminal history, in accordance with local, state, and federal laws, including San Francisco’s Fair Chance Ordinance and California’s ban-the-box laws.
+            - paragraph [ref=e123]
+            - paragraph [ref=e124]:
+              - text: If you require reasonable accommodation for any reason, please reach out to us at
+              - link "hiring@sfcompute.com" [ref=e125] [cursor=pointer]:
+                - /url: mailto:team@sfcompute.com
+          - link "Apply for this Job" [ref=e126] [cursor=pointer]:
+            - /url: /sfcompute/2f72be9e-cdea-4a82-bf73-a1809053f329/application
+            - button "Apply for this Job" [ref=e127]
+  - contentinfo [ref=e128]:
+    - link "Learn more about Ashby" [ref=e129] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e130]: Powered by
+      - img "Ashby" [ref=e131]
+    - paragraph [ref=e137]:
+      - link "Privacy Policy" [ref=e138] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e139] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e140] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

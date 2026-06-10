@@ -1,0 +1,114 @@
+- generic [active] [ref=e1]:
+  - dialog "cookieconsent" [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: 🍪
+      - heading "Privacy Notice" [level=4] [ref=e6]
+      - paragraph [ref=e7]:
+        - text: This website uses cookies to improve your web experience. By clicking Accept, you agree to the use of cookies.
+        - link "Cookie Policy" [ref=e8] [cursor=pointer]:
+          - /url: https://www.fieldai.com/privacy-policy
+      - generic [ref=e9]:
+        - button "Deny" [ref=e10] [cursor=pointer]
+        - button "Accept" [ref=e11] [cursor=pointer]
+  - link "FieldAI logo" [ref=e14] [cursor=pointer]:
+    - /url: https://jobs.lever.co/field-ai
+    - img "FieldAI logo" [ref=e15]
+  - generic [ref=e17]:
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - heading "Agentic AI/ML Engineer" [level=2] [ref=e21]
+        - generic [ref=e22]:
+          - generic [ref=e23]: Irvine, CA
+          - generic [ref=e24]: Engineering – Product Engineering /
+          - generic [ref=e25]: Fixed-Term /
+          - generic [ref=e26]: On-site
+      - link "apply for this job" [ref=e28] [cursor=pointer]:
+        - /url: https://jobs.lever.co/field-ai/c56e6bc4-23d9-4ed1-9349-fee74e35c264/apply
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - link "FieldAI" [ref=e32] [cursor=pointer]:
+            - /url: http://www.fieldai.com
+          - text: ’s Irvine team is where embodied AI meets real robots, real sensors, and real field deployments. Based in the heart of Southern California’s robotics ecosystem, we build risk-aware, reliable, field-ready AI systems that solve the hardest problems in robotics and unlock the full potential of embodied intelligence. If you want your work to ship, get tested on hardware, and improve through real deployments, Irvine is the place. We go beyond typical data-driven approaches or pure transformer-only architectures, combining rigorous engineering with learning systems proven in globally deployed solutions that deliver results today and get better every time our robots run in the field.
+        - paragraph [ref=e34]: "As an Agentic AI/ML Engineer, you will build agentic solutions that turn FieldAI’s data and tooling into actionable support and insights. Your work has a dual focus: creating internal agents that accelerate engineering and operational workflows, and building customer-facing agentic experiences that help users gain insights from their deployments."
+        - paragraph [ref=e35]: A critical foundation of this work is the AI Ops platform you will help build—developing core infrastructure for orchestration, tool integration, memory, evaluation, and observability. This is a hands-on engineering role where you will prototype, evaluate, and deploy agent-native solutions that directly multiply the impact of our teams, customers, and technology.
+        - paragraph [ref=e36]: This role is critical to how we scale. As our fleet, customer base, and team continue to grow, the agentic solutions and AI Ops infrastructure you build will enable us to support more customers, surface deeper insights, and operate more efficiently without scaling headcount linearly. Your work will directly amplify the effectiveness of engineers, field teams, and customers, making this a high-impact opportunity to contribute to FieldAI's next phase of growth.
+        - paragraph [ref=e37]: This is a fixed-term engineering role intended for early-career candidates, including recent graduates and engineers with up to approximately one year of professional experience. The initial engagement is expected to last 3–6 months, with the possibility of extension or conversion to a full-time position based on performance, business needs, and organizational priorities.
+      - generic [ref=e39]:
+        - heading "What You Do" [level=3] [ref=e40]
+        - list [ref=e44]:
+          - listitem [ref=e45]:
+            - paragraph [ref=e46]: Design and build agentic workflows that leverage tool use, memory, planning, and orchestration to automate repetitive tasks and enable natural-language access to internal and customer-facing data.
+          - listitem [ref=e47]:
+            - paragraph [ref=e48]: Contribute to FieldAI's AI Ops platform by developing agent infrastructure for orchestration, evaluation, observability, and reliability. Apply these capabilities to create agent-native DevOps workflows that automate engineering, support, and operational processes.
+          - listitem [ref=e49]:
+            - paragraph [ref=e50]: Develop and optimize retrieval systems, including RAG pipelines, vector databases, and knowledge graph integrations, to provide agents with accurate, relevant, and scalable context.
+          - listitem [ref=e51]:
+            - paragraph [ref=e52]: Build evaluation frameworks and automated testing pipelines to measure agent quality, reliability, safety, latency, and business impact, and use those insights to continuously improve system performance.
+          - listitem [ref=e53]:
+            - paragraph [ref=e54]: Prototype, iterate, and deploy AI-powered tools that improve internal productivity and deliver actionable insights to customers.
+          - listitem [ref=e55]:
+            - paragraph [ref=e56]: Partner closely with engineering, product, field operations, and customer-facing teams to identify high-leverage opportunities for automation and agent-driven workflows.
+      - generic [ref=e58]:
+        - heading "What You Bring" [level=3] [ref=e59]
+        - list [ref=e63]:
+          - listitem [ref=e64]:
+            - paragraph [ref=e65]: BS, MS, or Ph.D. in Computer Science, Artificial Intelligence, Machine Learning, Robotics, or a related technical field, or equivalent hands-on experience. Recent graduates and candidates with up to approximately one year of professional experience are encouraged to apply.
+          - listitem [ref=e66]:
+            - paragraph [ref=e67]: Strong evidence of building and shipping AI or agentic systems through academic research, internships, hackathons, open-source contributions, or personal projects.
+          - listitem [ref=e68]:
+            - paragraph [ref=e69]: Solid understanding of modern agentic AI concepts, including tool use, memory, retrieval-augmented generation (RAG), planning, and multi-step reasoning, with experience applying these concepts in real-world projects.
+          - listitem [ref=e70]:
+            - paragraph [ref=e71]: Strong Python engineering skills, including writing clean, maintainable, testable, and performant code. Familiarity with software engineering best practices such as version control, containerization (Docker), CI/CD, and automated testing.
+          - listitem [ref=e72]:
+            - paragraph [ref=e73]: Hands-on experience with modern agent frameworks and orchestration systems such as LangGraph, LangChain, LlamaIndex, CrewAI, or similar technologies.
+          - listitem [ref=e74]:
+            - paragraph [ref=e75]: Experience building, evaluating, and improving AI systems through structured testing, benchmarking, observability, tracing, and monitoring frameworks.
+          - listitem [ref=e76]:
+            - paragraph [ref=e77]: Familiarity with retrieval and grounding techniques, including vector databases, semantic search, knowledge graphs, and other approaches used to improve agent accuracy and reliability.
+          - listitem [ref=e78]:
+            - paragraph [ref=e79]: Experience working with cloud platforms such as AWS, GCP, or Azure for deploying and operating AI/ML systems. Experience with robotics, edge computing, or on-device AI systems is a plus.
+          - listitem [ref=e80]:
+            - paragraph [ref=e81]: Demonstrated ownership and bias for action, with the ability to take an ambiguous problem, break it down into actionable steps, and deliver working solutions.
+          - listitem [ref=e82]:
+            - paragraph [ref=e83]: Strong collaboration and communication skills, including the ability to work across engineering, product, operations, and customer-facing teams to understand requirements and drive outcomes.
+          - listitem [ref=e84]:
+            - paragraph [ref=e85]: Curiosity, initiative, and a desire to learn quickly while contributing in a fast-paced, high-growth environment.
+      - generic [ref=e87]:
+        - heading "What Sets You Apart" [level=3] [ref=e88]
+        - list [ref=e92]:
+          - listitem [ref=e93]:
+            - paragraph [ref=e94]: Experience building, operating, or contributing to AI infrastructure, evaluation systems, observability platforms, or data pipelines that support production AI applications.
+          - listitem [ref=e95]:
+            - paragraph [ref=e96]: Familiarity with advanced agentic patterns such as multi-agent systems, human-in-the-loop workflows, long-horizon planning, tool orchestration, or autonomous task execution.
+          - listitem [ref=e97]:
+            - paragraph [ref=e98]: Experience building AI-powered products, internal developer tools, copilots, assistants, or workflow automation systems used by real users.
+          - listitem [ref=e99]:
+            - paragraph [ref=e100]: Exposure to robotics, autonomy, edge computing, or large-scale operational systems.
+          - listitem [ref=e101]:
+            - paragraph [ref=e102]: Familiarity with observability and debugging tools for AI and robotic systems, such as Langfuse, MLflow, Weights & Biases, Foxglove, or similar platforms.
+          - listitem [ref=e103]:
+            - paragraph [ref=e104]: Contributions to open-source projects, research publications, technical blogs, competition results, or other publicly available work that demonstrates technical depth and initiative.
+          - listitem [ref=e105]:
+            - paragraph [ref=e106]: A portfolio of personal projects, hackathon submissions, or agentic applications you've designed and shipped independently. We love seeing what you've built.
+      - generic [ref=e108]: $35 - $50 an hour
+      - generic [ref=e109]:
+        - generic [ref=e110]: Our salary range is generous and we consider each individual’s background and experience when determining final compensation. Base pay may vary based on role scope, job-related knowledge, skills, experience, and the Irvine, California market.
+        - generic [ref=e112]: Why Join FieldAI in Irvine?
+        - generic [ref=e113]: "In Irvine, you will work where the robots are. Our local team builds and tests systems on real hardware with real sensors, then ships them to operate in unstructured, previously unknown environments around the world. We are solving one of robotics’ hardest challenges: reliable deployment outside the lab. Our Field Foundational Models™ raise the bar for perception, planning, localization, and manipulation, with an emphasis on explainability and safety for real-world use."
+        - generic [ref=e114]: You will collaborate with a world-class team that thrives on creativity, resilience, and bold thinking. We bring deep experience from organizations such as DeepMind, NASA JPL, Boston Dynamics, NVIDIA, Amazon, Tesla Autopilot, Cruise, Zoox, Toyota Research Institute, and SpaceX, along with a track record of field deployments and strong performance in DARPA challenge segments.
+        - generic [ref=e116]: Be Part of the Next Robotics Revolution
+        - generic [ref=e117]: We are looking for builders who want their work to leave the whiteboard and show up on robots. If you enjoy tackling tough, uncharted questions and working across disciplines, you will find your people here. Our teams span AI, software, robotics engineering, product, field deployment, and technical communication, all focused on shipping systems that perform in the real world.
+        - generic [ref=e119]: Our headquarters is in Irvine, and we partner closely with teams there as well as colleagues across the US and around the world. Join us in Southern California and help define what dependable, field-ready autonomy looks like.
+        - generic [ref=e121]: We value diverse perspectives and are committed to fostering an inclusive workplace. We evaluate candidates and employees based on merit, qualifications, and performance, and we do not discriminate on the basis of race, color, gender, national origin, ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, or any other legally protected statu
+      - generic [ref=e123]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e125] [cursor=pointer]:
+        - /url: https://jobs.lever.co/field-ai/c56e6bc4-23d9-4ed1-9349-fee74e35c264/apply
+  - generic [ref=e127]:
+    - paragraph [ref=e128]:
+      - link "FieldAI Home Page" [ref=e129] [cursor=pointer]:
+        - /url: https://fieldai.com/
+    - link "Jobs powered by Lever logo" [ref=e130] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e131]: Jobs powered by
+      - img "Lever logo" [ref=e132]

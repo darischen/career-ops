@@ -1,0 +1,597 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "Company Logo" [ref=e5] [cursor=pointer]:
+          - /url: https://www.dat.com
+          - img "Company Logo" [ref=e6]
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - link "Products" [ref=e10] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - text: Products
+              - generic [ref=e11]: 
+            - text:                  
+          - listitem [ref=e12]:
+            - link "Solutions" [ref=e13] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - text: Solutions
+              - generic [ref=e14]: 
+            - text:      
+          - listitem [ref=e15]:
+            - link "Resources" [ref=e16] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - text: Resources
+              - generic [ref=e17]: 
+            - text:              
+          - listitem [ref=e18]:
+            - link "Contact" [ref=e19] [cursor=pointer]:
+              - /url: https://www.dat.com/support
+          - listitem [ref=e20]:
+            - link "" [ref=e21] [cursor=pointer]:
+              - /url: https://www.dat.com/?s=
+              - generic [ref=e22]: 
+          - listitem [ref=e23]:
+            - link "Login" [ref=e24] [cursor=pointer]:
+              - /url: https://www.dat.com/login
+          - listitem [ref=e25]:
+            - link "Signup" [ref=e26] [cursor=pointer]:
+              - /url: https://www.dat.com/load-boards#pricing
+  - text: 
+  - main [ref=e27]:
+    - generic [ref=e29]:
+      - link "DAT Employees images for careers banner_Oct25" [ref=e36] [cursor=pointer]:
+        - /url: /
+        - img "DAT Employees images for careers banner_Oct25" [ref=e37]
+      - generic [ref=e48]:
+        - generic [ref=e50]:
+          - generic [ref=e51]:
+            - generic [ref=e52]:
+              - heading "Details" [level=5] [ref=e53]
+              - list [ref=e54]:
+                - listitem [ref=e55]:
+                  - generic [ref=e56]: 
+                  - text: Full-time
+                - listitem [ref=e57]:
+                  - generic [ref=e58]: 
+                  - text: "Job ID: 1381"
+            - generic [ref=e59]:
+              - heading "Locations" [level=5] [ref=e60]
+              - list [ref=e61]:
+                - listitem [ref=e62]:
+                  - generic [ref=e63]: 
+                  - text: Seattle, Washington, United States
+                - listitem
+            - generic [ref=e64]:
+              - heading "Category" [level=5] [ref=e65]
+              - list [ref=e66]:
+                - listitem [ref=e67]:
+                  - generic [ref=e68]: 
+                  - text: Technology
+                - listitem
+            - generic [ref=e69]:
+              - figure [ref=e70]:
+                - img "About DAT" [ref=e71]
+              - heading "About DAT" [level=5] [ref=e72]
+              - paragraph [ref=e73]: At DAT Freight & Analytics, we're more than just a technology company – we're the backbone of North America's transportation industry. Since 1978, we've been transforming how freight moves across the continent, combining cutting-edge technology with deep industry expertise to create solutions that matter. Our success is built on integrity, innovation, and collaboration. We take pride in delivering on our promises, challenging the status quo, and fostering an environment where diverse perspectives drive our success. Processing over $100 billion in freight transactions annually, we're the industry's most trusted source for rates, capacity, and market intelligence. Join us as we take the uncertainty out of freight and write the next chapter in transportation innovation.
+              - paragraph [ref=e74]:
+                - text: Learn more at
+                - link "dat.com/company" [ref=e75] [cursor=pointer]:
+                  - /url: https://www.dat.com/company
+          - text:  
+        - generic [ref=e77]:
+          - link " Back to all jobs" [ref=e78] [cursor=pointer]:
+            - /url: /jobs
+            - generic [ref=e79]: 
+            - text: Back to all jobs
+          - generic [ref=e80]:
+            - link "Apply Now" [ref=e82] [cursor=pointer]:
+              - /url: javascript:void(0)
+            - iframe [ref=e84]:
+              - main [ref=f8e2]:
+                - generic [ref=f8e3]:
+                  - link "DAT Logo" [ref=f8e5] [cursor=pointer]:
+                    - /url: https://www.dat.com/?gh_src=Simplify
+                    - img "DAT Logo" [ref=f8e6]
+                  - generic [ref=f8e7]:
+                    - link "Back to jobs" [ref=f8e8] [cursor=pointer]:
+                      - /url: https://careers.dat.com/jobs/?gh_src=Simplify
+                      - img [ref=f8e9]
+                      - text: Back to jobs
+                    - generic [ref=f8e12]:
+                      - generic [ref=f8e13]:
+                        - heading "Software Engineer" [level=1] [ref=f8e14]
+                        - generic [ref=f8e15]:
+                          - img [ref=f8e16]
+                          - generic [ref=f8e18]: Seattle, Washington, United States
+                      - button "Apply" [ref=f8e19] [cursor=pointer]
+                    - generic [ref=f8e21]:
+                      - paragraph [ref=f8e22]:
+                        - strong [ref=f8e23]: About DAT
+                      - paragraph [ref=f8e24]:
+                        - generic [ref=f8e25]:
+                          - strong [ref=f8e26]: DAT
+                          - text: is an award-winning employer of choice and a next-generation SaaS technology company that has been at the leading edge of innovation in transportation supply chain logistics for 45 years. We continue to transform the industry year over year, by deploying a suite of software solutions to millions of customers every day - customers who depend on DAT for the most relevant data and most accurate insights to help them make smarter business decisions and run their companies more profitably. We operate the largest marketplace of its kind in North America, with 400 million freights posted in 2022, and a database of $150 billion of annual global shipment market transaction data. Our headquarters are in Denver, CO, and Beaverton, OR, with additional offices in Seattle, WA; Springfield, MO; and Bangalore, India. For additional information, see
+                          - link [ref=f8e27] [cursor=pointer]:
+                            - /url: http://www.dat.com/company
+                          - link "www.DAT.com/company" [ref=f8e28] [cursor=pointer]:
+                            - /url: http://www.dat.com/company
+                      - paragraph [ref=f8e29]:
+                        - link [ref=f8e30] [cursor=pointer]:
+                          - /url: https://www.dat.com/company/news-events/news-releases/built-in-colorado-honors-dat-freight-analytics-in-its-esteemed-2023-best-places-to-work-awards?_gl=1*1f7bb2i*_ga*MTEwNjQzODc2OC4xNjcxMTQwMTMz*_ga_C36TRC5CVZ*MTY3NDc1ODM4My4xOS4xLjE2NzQ3NTg5MTYuNjAuMC4w*_ga_QYVEY2GZSM*MTY3NDc1ODM4Ni4yLjAuMTY3NDc1ODUwOC4wLjAuMA..
+                      - separator [ref=f8e31]
+                      - paragraph [ref=f8e32]:
+                        - strong [ref=f8e33]: "Job Application Deadline:"
+                        - text: 06/30/2026
+                      - paragraph [ref=f8e34]
+                      - paragraph [ref=f8e35]:
+                        - strong [ref=f8e36]: The Opportunity
+                      - paragraph [ref=f8e37]: "Broker Tech builds products for the Convoy Platform at DAT, enabling brokers to match and execute shipments while they work seamlessly within their Transportation Management Systems (TMS). We partner with brokers to transform how they work, grow, and succeed by:"
+                      - list [ref=f8e38]:
+                        - listitem [ref=f8e39]:
+                          - strong [ref=f8e40]: "Empowering Matching:"
+                          - text: Building smarter tools and visibility that boost broker match rates and strengthen carrier connections.
+                        - listitem [ref=f8e41]:
+                          - strong [ref=f8e42]: "Fueling Growth:"
+                          - text: Enabling brokers to expand through better pricing, new freight categories, and integrations.
+                        - listitem [ref=f8e43]:
+                          - strong [ref=f8e44]: "Ensuring Payments:"
+                          - text: Strengthening and automating broker payment processes to reduce risk and ensure reliability.
+                        - listitem [ref=f8e45]:
+                          - strong [ref=f8e46]: "Enabling Ideal Experiences:"
+                          - text: Delivering seamless workflows via APIs and webhooks between the Convoy Platform and TMSs, with self-service configuration and onboarding tools.
+                      - paragraph [ref=f8e47]:
+                        - strong [ref=f8e48]: What You’ll Do
+                      - paragraph [ref=f8e49]: Hands-on Development
+                      - list [ref=f8e50]:
+                        - listitem [ref=f8e51]: Write, test, and deploy production-quality code with guidance from senior engineers.
+                        - listitem [ref=f8e52]:
+                          - text: Build and maintain backend services in
+                          - strong [ref=f8e53]: Node.js/TypeScript
+                          - text: and contribute to
+                          - strong [ref=f8e54]: React
+                          - text: frontends as needed.
+                        - listitem [ref=f8e55]: Implement and support message-driven workflows (Kafka/RabbitMQ) using existing patterns and reusable components.
+                        - listitem [ref=f8e56]: Improve code quality and maintainability as you deliver features (tests, refactors, documentation).
+                      - paragraph [ref=f8e57]: Collaboration & Growth
+                      - list [ref=f8e58]:
+                        - listitem [ref=f8e59]: Partner with product and business stakeholders to clarify requirements in a complex domain.
+                        - listitem [ref=f8e60]: Participate in code reviews (both receiving and giving) and incorporate feedback quickly.
+                        - listitem [ref=f8e61]: "Learn the team’s operational practices: monitoring, alerts, on-call support, and incident follow-ups."
+                        - listitem [ref=f8e62]: "Grow ownership over time: take on increasingly complex tickets, then small projects."
+                      - paragraph [ref=f8e63]:
+                        - strong [ref=f8e64]: What Excites Us About This Role
+                      - list [ref=f8e65]:
+                        - listitem [ref=f8e66]: As the Convoy platform expands into a critical marketplace for brokers, this team shapes outcomes that matter for broker workflows and reliability.
+                        - listitem [ref=f8e67]: "High ownership with support: you’ll ship meaningful work while learning from senior engineers in a complex, real-world domain."
+                        - listitem [ref=f8e68]: "Lots of surface area: integrations, workflows, payments, messaging, and partner-facing APIs."
+                      - paragraph [ref=f8e69]:
+                        - strong [ref=f8e70]: The Skills and Experience You’ll Bring
+                      - list [ref=f8e71]:
+                        - listitem [ref=f8e72]:
+                          - strong [ref=f8e73]: 2–5+ years
+                          - text: of professional software engineering experience (or equivalent).
+                        - listitem [ref=f8e74]:
+                          - text: Experience building production services in
+                          - strong [ref=f8e75]: TypeScript/Node.js
+                          - text: (or strong Java/C#/Go experience with willingness to ramp).
+                        - listitem [ref=f8e76]:
+                          - text: Familiarity with
+                          - strong [ref=f8e77]: React
+                          - text: and modern frontend development fundamentals.
+                        - listitem [ref=f8e78]: Comfort working with APIs (REST preferred; GraphQL a plus) and collaborating on contracts.
+                        - listitem [ref=f8e79]: Familiarity with SQL databases (schema basics, writing queries, migrations with guidance).
+                        - listitem [ref=f8e80]: Exposure to async systems (queues/events) such as Kafka/RabbitMQ/SQS is a plus, or willingness to learn.
+                        - listitem [ref=f8e81]: "Solid engineering fundamentals: debugging, testing, code quality, and clear written communication."
+                      - paragraph [ref=f8e82]:
+                        - strong [ref=f8e83]: Bonus Skills
+                      - list [ref=f8e84]:
+                        - listitem [ref=f8e85]: Experience with microservices in production.
+                        - listitem [ref=f8e86]: Hands-on exposure to Kafka/RabbitMQ patterns (retries, DLQs, idempotency).
+                        - listitem [ref=f8e87]: Docker/Kubernetes familiarity.
+                        - listitem [ref=f8e88]: CI/CD experience (tests in pipeline, safe deploy patterns, feature flags).
+                        - listitem [ref=f8e89]: Background in transportation/logistics or complex B2B integrations.
+                      - paragraph [ref=f8e90]
+                      - paragraph [ref=f8e91]:
+                        - strong [ref=f8e92]: Why DAT?
+                        - text: DAT is an award winning employer of choice.
+                      - paragraph [ref=f8e93]: "For starters, we have a hybrid work environment, but we also know what makes a great workplace. We have a time-tested and resolute set of operating values predicated on integrity, mutual respect, open communication, and executing with excellence. These values inform our strategic vision as much as any one of our products does. We’ve been an employer of choice in the Portland metropolitan area for four decades, and within one year of opening our Denver office, DAT was #26 on Built In Colorado’s 100 Best Places to Work In Colorado."
+                      - list [ref=f8e94]:
+                        - listitem [ref=f8e95]: Medical, Dental, Vision, Life, and AD&D insurance
+                        - listitem [ref=f8e96]: Parental Leave
+                        - listitem [ref=f8e97]: Flexible Vacation Time (FVT)
+                        - listitem [ref=f8e98]: An additional 10 holidays of paid time off per calendar year
+                        - listitem [ref=f8e99]: 401k matching (immediately vested)
+                        - listitem [ref=f8e100]: Employee Stock Purchase Plan
+                        - listitem [ref=f8e101]: Short- and Long-term disability sick leave
+                        - listitem [ref=f8e102]: Flexible Spending Accounts
+                        - listitem [ref=f8e103]: Health Savings Accounts
+                        - listitem [ref=f8e104]: Employee Assistance Program
+                        - listitem [ref=f8e105]: Additional programs - Employee Referral, Internal Recognition, and Wellness
+                        - listitem [ref=f8e106]: Free TriMet transit pass (Beaverton Office)
+                        - listitem [ref=f8e107]: Competitive salary and benefits package
+                        - listitem [ref=f8e108]: Work on impactful projects in a cutting-edge environment
+                        - listitem [ref=f8e109]: Collaborative and supportive team culture
+                        - listitem [ref=f8e110]: Opportunity to make a real difference in the trucking industry
+                        - listitem [ref=f8e111]: Employee Resource Groups
+                      - paragraph [ref=f8e112]
+                      - paragraph [ref=f8e113]:
+                        - emphasis [ref=f8e114]: "**This position is not eligible for visa sponsorship**"
+                      - paragraph [ref=f8e115]:
+                        - emphasis [ref=f8e116]: For Washington-based candidates, in compliance with the Washington State Pay Transparency Law, the salary range for this role is $122,000.00 - $157,000.00 + Target Bonus. DAT considers factors such as scope and responsibilities of the position, candidate's work experience, education and training, core skills, internal equity, and market and business elements when extending an offer.
+                      - paragraph [ref=f8e117]
+                      - paragraph [ref=f8e118]:
+                        - text: DAT
+                        - strong [ref=f8e119]: embraces the value of a diverse workforce, and believes it is a core strength of our company that we encourage those values in every DAT employee, at every level of our organization, regardless of tenure or rank. We provide equal employment opportunities (EEO) to all employees and applicants without regard to race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state, and local laws.
+                      - paragraph [ref=f8e120]:
+                        - strong [ref=f8e121]: Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+                      - paragraph [ref=f8e122]: The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)
+                      - paragraph [ref=f8e123]: "#LI-RF1"
+                      - paragraph [ref=f8e124]: "#LI-hybrid"
+                    - generic [ref=f8e125]:
+                      - img [ref=f8e126]
+                      - generic [ref=f8e128]:
+                        - paragraph [ref=f8e129]: Create a Job Alert
+                        - paragraph [ref=f8e130]: Interested in building your career at DAT? Get future opportunities sent straight to your email.
+                        - button "Create alert" [ref=f8e131] [cursor=pointer]
+                  - separator [ref=f8e132]
+                  - generic [ref=f8e133]:
+                    - generic [ref=f8e134]:
+                      - generic [ref=f8e135]:
+                        - heading "Apply for this job" [level=2] [ref=f8e137]
+                        - generic [ref=f8e138]:
+                          - paragraph [ref=f8e140]: "*"
+                          - paragraph [ref=f8e141]: indicates a required field
+                      - button "Quick Apply with MyGreenhouse" [ref=f8e144] [cursor=pointer]
+                    - generic [ref=f8e145]:
+                      - generic [ref=f8e146]:
+                        - generic [ref=f8e149]:
+                          - generic [ref=f8e150]: First Name*
+                          - textbox "First Name" [ref=f8e151]
+                        - generic [ref=f8e154]:
+                          - generic [ref=f8e155]: Last Name*
+                          - textbox "Last Name" [ref=f8e156]
+                        - generic [ref=f8e159]:
+                          - generic [ref=f8e160]: Email*
+                          - textbox "Email" [ref=f8e161]
+                        - group "Phone" [ref=f8e163]:
+                          - generic [ref=f8e164]: Phone
+                          - generic [ref=f8e167]:
+                            - generic [ref=f8e168]: Country*
+                            - generic [ref=f8e169]:
+                              - log [ref=f8e171]
+                              - generic [ref=f8e173]:
+                                - combobox "Country" [ref=f8e176]
+                                - button "Toggle flyout" [ref=f8e178] [cursor=pointer]:
+                                  - img [ref=f8e179]
+                              - textbox
+                          - generic [ref=f8e183]:
+                            - generic [ref=f8e184]: Phone*
+                            - textbox "Phone" [ref=f8e185]
+                        - group "Resume/CV*" [ref=f8e187]:
+                          - generic [ref=f8e188]: Resume/CV*
+                          - generic [ref=f8e190]:
+                            - generic [ref=f8e192]:
+                              - button "Attach" [ref=f8e193] [cursor=pointer]
+                              - generic [ref=f8e194]: Attach
+                              - button "Attach" [ref=f8e195]
+                            - button "Dropbox" [ref=f8e197] [cursor=pointer]
+                            - generic [ref=f8e199]:
+                              - button "Enter manually" [ref=f8e200] [cursor=pointer]
+                              - generic [ref=f8e201]: Enter manually
+                            - paragraph [ref=f8e202]: "Accepted file types: pdf, doc, docx, txt, rtf"
+                        - group "Cover Letter" [ref=f8e204]:
+                          - generic [ref=f8e205]: Cover Letter
+                          - generic [ref=f8e207]:
+                            - generic [ref=f8e209]:
+                              - button "Attach" [ref=f8e210] [cursor=pointer]
+                              - generic [ref=f8e211]: Attach
+                              - button "Attach" [ref=f8e212]
+                            - button "Dropbox" [ref=f8e214] [cursor=pointer]
+                            - generic [ref=f8e216]:
+                              - button "Enter manually" [ref=f8e217] [cursor=pointer]
+                              - generic [ref=f8e218]: Enter manually
+                            - paragraph [ref=f8e219]: "Accepted file types: pdf, doc, docx, txt, rtf"
+                      - generic [ref=f8e220]:
+                        - separator [ref=f8e221]
+                        - generic [ref=f8e224]:
+                          - generic [ref=f8e225]: LinkedIn Profile
+                          - textbox "LinkedIn Profile" [ref=f8e226]
+                        - generic [ref=f8e229]:
+                          - generic [ref=f8e230]: Website
+                          - textbox "Website" [ref=f8e231]
+                        - generic [ref=f8e234]:
+                          - generic [ref=f8e235]: Will you now or in the future require Visa sponsorship to work in the United States?*
+                          - generic [ref=f8e236]:
+                            - log [ref=f8e238]
+                            - generic [ref=f8e240]:
+                              - generic [ref=f8e241]:
+                                - generic [ref=f8e242]: Select...
+                                - combobox "Will you now or in the future require Visa sponsorship to work in the United States?" [ref=f8e244]
+                              - button "Toggle flyout" [ref=f8e246] [cursor=pointer]:
+                                - img [ref=f8e247]
+                            - textbox
+                        - generic [ref=f8e249]:
+                          - group "I have read the terms of the privacy policy, and consent to the processing of my information. *" [ref=f8e250]:
+                            - generic [ref=f8e251]: I have read the terms of the privacy policy, and consent to the processing of my information. *
+                            - generic [ref=f8e252]:
+                              - checkbox "I accept" [ref=f8e254]
+                              - generic [ref=f8e255]: I accept
+                          - paragraph [ref=f8e258]:
+                            - link "Click here to read our Privacy Policy" [ref=f8e259] [cursor=pointer]:
+                              - /url: https://www.dat.com/applicant-privacy-policy
+                        - generic [ref=f8e262]:
+                          - generic [ref=f8e263]: Are you related to a current DAT employee? *
+                          - generic [ref=f8e264]:
+                            - log [ref=f8e266]
+                            - generic [ref=f8e268]:
+                              - generic [ref=f8e269]:
+                                - generic [ref=f8e270]: Select...
+                                - combobox "Are you related to a current DAT employee?" [ref=f8e272]
+                              - button "Toggle flyout" [ref=f8e274] [cursor=pointer]:
+                                - img [ref=f8e275]
+                            - textbox
+                        - generic [ref=f8e279]:
+                          - generic [ref=f8e280]: "If you answered yes, please provide the DAT employee's name:"
+                          - textbox "If you answered yes, please provide the DAT employee's name:" [ref=f8e281]
+                      - generic [ref=f8e282]:
+                        - separator [ref=f8e283]
+                        - generic [ref=f8e284]:
+                          - heading "Voluntary Self-Identification" [level=2] [ref=f8e285]
+                          - paragraph [ref=f8e286]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+                          - paragraph [ref=f8e287]: As set forth in DAT’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+                        - generic [ref=f8e290]:
+                          - generic [ref=f8e291]: Gender
+                          - generic [ref=f8e292]:
+                            - log [ref=f8e294]
+                            - generic [ref=f8e296]:
+                              - generic [ref=f8e297]:
+                                - generic [ref=f8e298]: Select...
+                                - combobox "Gender" [ref=f8e300]
+                              - button "Toggle flyout" [ref=f8e302] [cursor=pointer]:
+                                - img [ref=f8e303]
+                        - generic [ref=f8e305]:
+                          - generic [ref=f8e307]:
+                            - generic [ref=f8e308]: Are you Hispanic/Latino?
+                            - generic [ref=f8e309]:
+                              - log [ref=f8e311]
+                              - generic [ref=f8e313]:
+                                - generic [ref=f8e314]:
+                                  - generic [ref=f8e315]: Select...
+                                  - combobox "Are you Hispanic/Latino?" [ref=f8e317]
+                                - button "Toggle flyout" [ref=f8e319] [cursor=pointer]:
+                                  - img [ref=f8e320]
+                          - link "Race & Ethnicity Definitions" [ref=f8e322] [cursor=pointer]:
+                            - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+                        - generic [ref=f8e323]:
+                          - paragraph [ref=f8e324]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+                          - paragraph [ref=f8e325]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+                          - paragraph [ref=f8e326]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+                          - paragraph [ref=f8e327]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+                          - paragraph [ref=f8e328]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+                        - generic [ref=f8e331]:
+                          - generic [ref=f8e332]: Veteran Status
+                          - generic [ref=f8e333]:
+                            - log [ref=f8e335]
+                            - generic [ref=f8e337]:
+                              - generic [ref=f8e338]:
+                                - generic [ref=f8e339]: Select...
+                                - combobox "Veteran Status" [ref=f8e341]
+                              - button "Toggle flyout" [ref=f8e343] [cursor=pointer]:
+                                - img [ref=f8e344]
+                        - separator [ref=f8e346]
+                        - generic [ref=f8e347]:
+                          - heading "Voluntary Self-Identification of Disability" [level=2] [ref=f8e348]
+                          - generic [ref=f8e349]:
+                            - generic [ref=f8e350]:
+                              - generic [ref=f8e351]: Form CC-305
+                              - generic [ref=f8e352]: Page 1 of 1
+                            - generic [ref=f8e353]:
+                              - generic [ref=f8e354]: OMB Control Number 1250-0005
+                              - generic [ref=f8e355]: Expires 04/30/2026
+                          - strong [ref=f8e356]: Why are you being asked to complete this form?
+                          - paragraph [ref=f8e357]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+                          - paragraph [ref=f8e358]:
+                            - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                            - link "www.dol.gov/ofccp" [ref=f8e359] [cursor=pointer]:
+                              - /url: https://www.dol.gov/ofccp
+                            - text: .
+                          - strong [ref=f8e360]: How do you know if you have a disability?
+                          - paragraph [ref=f8e361]:
+                            - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                            - strong [ref=f8e362]: "Disabilities include, but are not limited to:"
+                          - list [ref=f8e363]:
+                            - listitem [ref=f8e364]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                            - listitem [ref=f8e365]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                            - listitem [ref=f8e366]: Blind or low vision
+                            - listitem [ref=f8e367]: Cancer (past or present)
+                            - listitem [ref=f8e368]: Cardiovascular or heart disease
+                            - listitem [ref=f8e369]: Celiac disease
+                            - listitem [ref=f8e370]: Cerebral palsy
+                            - listitem [ref=f8e371]: Deaf or serious difficulty hearing
+                            - listitem [ref=f8e372]: Diabetes
+                            - listitem [ref=f8e373]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                            - listitem [ref=f8e374]: Epilepsy or other seizure disorder
+                            - listitem [ref=f8e375]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                            - listitem [ref=f8e376]: Intellectual or developmental disability
+                            - listitem [ref=f8e377]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                            - listitem [ref=f8e378]: Missing limbs or partially missing limbs
+                            - listitem [ref=f8e379]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                            - listitem [ref=f8e380]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                            - listitem [ref=f8e381]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                            - listitem [ref=f8e382]: Partial or complete paralysis (any cause)
+                            - listitem [ref=f8e383]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                            - listitem [ref=f8e384]: Short stature (dwarfism)
+                            - listitem [ref=f8e385]: Traumatic brain injury
+                        - generic [ref=f8e388]:
+                          - generic [ref=f8e389]: Disability Status
+                          - generic [ref=f8e390]:
+                            - log [ref=f8e392]
+                            - generic [ref=f8e394]:
+                              - generic [ref=f8e395]:
+                                - generic [ref=f8e396]: Select...
+                                - combobox "Disability Status" [ref=f8e398]
+                              - button "Toggle flyout" [ref=f8e400] [cursor=pointer]:
+                                - img [ref=f8e401]
+                        - paragraph [ref=f8e404]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+                      - button "Submit application" [ref=f8e406] [cursor=pointer]
+  - contentinfo [ref=e85]:
+    - generic [ref=e87]:
+      - heading "Company" [level=6] [ref=e92]:
+        - link "Company" [ref=e93] [cursor=pointer]:
+          - /url: https://www.dat.com/company
+      - heading "Products" [level=6] [ref=e98]:
+        - link "Products" [ref=e99] [cursor=pointer]:
+          - /url: https://www.dat.com/products
+      - heading "Resources" [level=6] [ref=e104]:
+        - link "Resources" [ref=e105] [cursor=pointer]:
+          - /url: https://www.dat.com/resources
+      - heading "Support" [level=6] [ref=e110]:
+        - link "Support" [ref=e111] [cursor=pointer]:
+          - /url: https://www.dat.com/support
+    - generic [ref=e113]:
+      - navigation "Menu" [ref=e118]:
+        - list [ref=e119]:
+          - listitem [ref=e120]:
+            - link "Leadership" [ref=e121] [cursor=pointer]:
+              - /url: https://www.dat.com/company/leadership
+          - listitem [ref=e122]:
+            - link "History" [ref=e123] [cursor=pointer]:
+              - /url: https://www.dat.com/company/history
+          - listitem [ref=e124]:
+            - link "Careers" [ref=e125] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e126]:
+            - link "News & Events" [ref=e127] [cursor=pointer]:
+              - /url: https://www.dat.com/news-events
+          - listitem [ref=e128]:
+            - link "Partner with Us" [ref=e129] [cursor=pointer]:
+              - /url: https://www.dat.com/company/partner
+      - navigation "Menu" [ref=e134]:
+        - list [ref=e135]:
+          - listitem [ref=e136]:
+            - link "Load Board" [ref=e137] [cursor=pointer]:
+              - /url: https://www.dat.com/load-boards
+          - listitem [ref=e138]:
+            - link "Rateview Analytics" [ref=e139] [cursor=pointer]:
+              - /url: https://www.dat.com/rateview
+          - listitem [ref=e140]:
+            - link "DAT iQ Benchmark" [ref=e141] [cursor=pointer]:
+              - /url: https://www.dat.com/benchmark-analytics
+          - listitem [ref=e142]:
+            - link "Operating Authority" [ref=e143] [cursor=pointer]:
+              - /url: https://www.dat.com/authority
+          - listitem [ref=e144]:
+            - link "Product Reviews" [ref=e145] [cursor=pointer]:
+              - /url: https://go.dat.com/reviews
+          - listitem [ref=e146]:
+            - link "DAT Outgo" [ref=e147] [cursor=pointer]:
+              - /url: https://www.dat.com/factoring
+      - navigation "Menu" [ref=e152]:
+        - list [ref=e153]:
+          - listitem [ref=e154]:
+            - link "FAQs" [ref=e155] [cursor=pointer]:
+              - /url: https://www.dat.com/resources/faq
+          - listitem [ref=e156]:
+            - link "Blog" [ref=e157] [cursor=pointer]:
+              - /url: https://www.dat.com/blog
+          - listitem [ref=e158]:
+            - link "Press Room" [ref=e159] [cursor=pointer]:
+              - /url: https://www.dat.com/press-room
+          - listitem [ref=e160]:
+            - link "Guides" [ref=e161] [cursor=pointer]:
+              - /url: https://www.dat.com/resources
+          - listitem [ref=e162]:
+            - link "Videos" [ref=e163] [cursor=pointer]:
+              - /url: https://www.youtube.com/datloadboards
+          - listitem [ref=e164]:
+            - link "Podcast" [ref=e165] [cursor=pointer]:
+              - /url: https://www.dat.com/podcast
+      - navigation "Menu" [ref=e170]:
+        - list [ref=e171]:
+          - listitem [ref=e172]:
+            - link "Product Login" [ref=e173] [cursor=pointer]:
+              - /url: https://www.dat.com/support/customer-login
+          - listitem [ref=e174]:
+            - link "Fraud Protection" [ref=e175] [cursor=pointer]:
+              - /url: https://www.dat.com/fraud-protection
+          - listitem [ref=e176]:
+            - link "Support Request" [ref=e177] [cursor=pointer]:
+              - /url: https://www.dat.com/support
+          - listitem [ref=e178]:
+            - link "Contact Us" [ref=e179] [cursor=pointer]:
+              - /url: https://www.dat.com/login
+    - list [ref=e186]:
+      - listitem [ref=e187]:
+        - link "Facebook" [ref=e188] [cursor=pointer]:
+          - /url: https://www.facebook.com/datfreight
+          - generic [ref=e190]: 
+          - generic [ref=e191]: Facebook
+      - listitem [ref=e192]:
+        - link "X" [ref=e193] [cursor=pointer]:
+          - /url: https://x.com/datfreightteam
+          - img [ref=e195]
+          - generic [ref=e198]: X
+      - listitem [ref=e199]:
+        - link "LinkedIn" [ref=e200] [cursor=pointer]:
+          - /url: https://linkedin.com/company/dat-freight-and-analytics
+          - generic [ref=e202]: 
+          - generic [ref=e203]: LinkedIn
+      - listitem [ref=e204]:
+        - link "Youtube" [ref=e205] [cursor=pointer]:
+          - /url: https://www.youtube.com/datloadboards
+          - generic [ref=e207]: 
+          - generic [ref=e208]: Youtube
+      - listitem [ref=e209]:
+        - link "Instagram" [ref=e210] [cursor=pointer]:
+          - /url: https://instagram.com/datfreight
+          - generic [ref=e212]: 
+          - generic [ref=e213]: Instagram
+    - generic [ref=e217]:
+      - paragraph [ref=e220]: Download the DAT One mobile app
+      - list [ref=e223]:
+        - listitem [ref=e224]:
+          - link [ref=e225] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/developer/dat-solutions-llc/id474213239
+            - img [ref=e227]
+        - listitem [ref=e239]:
+          - link [ref=e240] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.dat.unified
+            - img [ref=e242]
+      - paragraph [ref=e264]: Review Us
+      - generic [ref=e266]:
+        - link [ref=e271] [cursor=pointer]:
+          - /url: https://www.capterra.com/p/265434/DAT-Load-Board/reviews/
+        - link [ref=e276] [cursor=pointer]:
+          - /url: https://www.g2.com/products/dat-load-board/take_survey?utm_source=review-widget
+        - link [ref=e281] [cursor=pointer]:
+          - /url: https://www.g2.com/products/dat-iq/take_survey?utm_source=review-widget
+        - link [ref=e286] [cursor=pointer]:
+          - /url: https://www.capterra.com/p/264785/DAT-iQ/
+      - navigation "Menu" [ref=e289]:
+        - list [ref=e290]:
+          - listitem [ref=e291]:
+            - link "Marketing Index" [ref=e292] [cursor=pointer]:
+              - /url: https://www.dat.com/solutions
+          - listitem [ref=e293]:
+            - link "Site Map" [ref=e294] [cursor=pointer]:
+              - /url: https://www.dat.com/site-map
+          - listitem [ref=e295]:
+            - link "Legal" [ref=e296] [cursor=pointer]:
+              - /url: https://www.dat.com/legal
+          - listitem [ref=e297]:
+            - link "Privacy Policy" [ref=e298] [cursor=pointer]:
+              - /url: https://www.dat.com/privacy-policy
+      - paragraph [ref=e301]: Copyright © 2026 DAT Solutions, LLC. All rights reserved. All trademarks are the property of their respective owners.
+  - generic [ref=e302]: tablet
+  - dialog "Cookie Notice" [ref=e304]:
+    - generic [ref=e305]:
+      - generic [ref=e306]:
+        - generic:
+          - heading "Cookie Notice" [level=2] [ref=e307]
+          - generic [ref=e308]:
+            - text: This website uses cookies and other tracking technologies, including session replay tools (“Cookies”), to gather information about you and your device to improve our services, conduct analytics to gain insights about how you interact with our websites and services, evaluate and improve advertising, and enhance performance and functionality. For more information, please review our
+            - link "Privacy Policy" [ref=e309] [cursor=pointer]:
+              - /url: https://www.dat.com/privacy-policy
+            - text: .
+      - button "OK" [ref=e312] [cursor=pointer]

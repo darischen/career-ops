@@ -1,0 +1,382 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e6]:
+      - heading "Stripe logo Jobs" [level=1] [ref=e7]:
+        - link "Stripe logo" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img "Stripe logo" [ref=e9]
+        - link "Jobs" [ref=e11] [cursor=pointer]:
+          - /url: /jobs
+      - navigation [ref=e12]:
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - link "Our opportunity" [ref=e15] [cursor=pointer]:
+              - /url: /jobs
+          - listitem [ref=e16]:
+            - link "Life at Stripe" [ref=e17] [cursor=pointer]:
+              - /url: /jobs/life-at-stripe
+          - listitem [ref=e18]:
+            - link "Benefits" [ref=e19] [cursor=pointer]:
+              - /url: /jobs/benefits
+          - listitem [ref=e20]:
+            - link "University" [ref=e21] [cursor=pointer]:
+              - /url: /jobs/university
+      - navigation [ref=e22]:
+        - link "See open roles" [ref=e23] [cursor=pointer]:
+          - /url: /jobs/search
+          - text: See open roles
+          - img [ref=e24]
+  - navigation "Breadcrumb" [ref=e27]:
+    - list [ref=e31]:
+      - listitem [ref=e32]:
+        - link "Roles at Stripe" [ref=e33] [cursor=pointer]:
+          - /url: /jobs/search
+      - listitem [ref=e34]:
+        - text: /
+        - link "Role details" [ref=e35] [cursor=pointer]:
+          - /url: /jobs/listing/backend-api-engineer-billing/7737241
+      - listitem [ref=e36]: / Application
+  - heading "Backend / API Engineer, Billing" [level=1] [ref=e46]
+  - iframe [ref=e56]:
+    - main [ref=f45e2]:
+      - generic [ref=f45e3]:
+        - separator [ref=f45e4]
+        - generic [ref=f45e5]:
+          - generic [ref=f45e6]:
+            - generic [ref=f45e7]:
+              - heading "Apply for this job" [level=2] [ref=f45e9]
+              - generic [ref=f45e10]:
+                - paragraph [ref=f45e12]: "*"
+                - paragraph [ref=f45e13]: indicates a required field
+            - button "Autofill with MyGreenhouse" [ref=f45e16] [cursor=pointer]
+          - generic [ref=f45e17]:
+            - generic [ref=f45e18]:
+              - generic [ref=f45e21]:
+                - generic [ref=f45e22]: First Name*
+                - textbox "First Name" [ref=f45e23]
+              - generic [ref=f45e26]:
+                - generic [ref=f45e27]: Last Name*
+                - textbox "Last Name" [ref=f45e28]
+              - generic [ref=f45e31]:
+                - generic [ref=f45e32]: Email*
+                - textbox "Email" [ref=f45e33]
+              - group "Phone" [ref=f45e35]:
+                - generic [ref=f45e36]: Phone
+                - generic [ref=f45e39]:
+                  - generic [ref=f45e40]: Country*
+                  - generic [ref=f45e41]:
+                    - log [ref=f45e43]
+                    - generic [ref=f45e45]:
+                      - combobox "Country" [ref=f45e48]
+                      - button "Toggle flyout" [ref=f45e50] [cursor=pointer]:
+                        - img [ref=f45e51]
+                    - textbox
+                - generic [ref=f45e55]:
+                  - generic [ref=f45e56]: Phone*
+                  - textbox "Phone" [ref=f45e58]
+              - generic [ref=f45e59]:
+                - generic [ref=f45e61]:
+                  - generic [ref=f45e62]: Location (City)*
+                  - generic [ref=f45e63]:
+                    - log [ref=f45e65]
+                    - combobox "Location (City)" [ref=f45e70]
+                    - textbox
+                - button "Locate me" [ref=f45e71] [cursor=pointer]
+              - group "Resume/CV" [ref=f45e73]:
+                - generic [ref=f45e74]: Resume/CV
+                - generic [ref=f45e76]:
+                  - generic [ref=f45e78]:
+                    - button "Attach" [ref=f45e79] [cursor=pointer]
+                    - generic [ref=f45e80]: Attach
+                    - button "Attach" [ref=f45e81]
+                  - button "Dropbox" [ref=f45e83] [cursor=pointer]
+                  - generic [ref=f45e85]:
+                    - button "Enter manually" [ref=f45e86] [cursor=pointer]
+                    - generic [ref=f45e87]: Enter manually
+                  - paragraph [ref=f45e88]: "Accepted file types: pdf, doc, docx, txt, rtf"
+              - group "Cover Letter" [ref=f45e90]:
+                - generic [ref=f45e91]: Cover Letter
+                - generic [ref=f45e93]:
+                  - generic [ref=f45e95]:
+                    - button "Attach" [ref=f45e96] [cursor=pointer]
+                    - generic [ref=f45e97]: Attach
+                    - button "Attach" [ref=f45e98]
+                  - button "Dropbox" [ref=f45e100] [cursor=pointer]
+                  - generic [ref=f45e102]:
+                    - button "Enter manually" [ref=f45e103] [cursor=pointer]
+                    - generic [ref=f45e104]: Enter manually
+                  - paragraph [ref=f45e105]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - generic [ref=f45e106]:
+              - separator [ref=f45e107]
+              - generic [ref=f45e110]:
+                - generic [ref=f45e111]: Please select the country where you currently reside. *
+                - generic [ref=f45e112]:
+                  - log [ref=f45e114]
+                  - generic [ref=f45e116]:
+                    - generic [ref=f45e117]:
+                      - generic [ref=f45e118]: Select...
+                      - combobox "Please select the country where you currently reside." [ref=f45e120]
+                    - button "Toggle flyout" [ref=f45e122] [cursor=pointer]:
+                      - img [ref=f45e123]
+                  - textbox
+              - group "Please select the country or countries you anticipate working in for the role in which you are applying. *" [ref=f45e126]:
+                - generic [ref=f45e127]: Please select the country or countries you anticipate working in for the role in which you are applying. *
+                - generic [ref=f45e128]:
+                  - checkbox "Australia" [ref=f45e130]
+                  - generic [ref=f45e131]: Australia
+                - generic [ref=f45e132]:
+                  - checkbox "Belgium" [ref=f45e134]
+                  - generic [ref=f45e135]: Belgium
+                - generic [ref=f45e136]:
+                  - checkbox "Brazil" [ref=f45e138]
+                  - generic [ref=f45e139]: Brazil
+                - generic [ref=f45e140]:
+                  - checkbox "Canada" [ref=f45e142]
+                  - generic [ref=f45e143]: Canada
+                - generic [ref=f45e144]:
+                  - checkbox "France" [ref=f45e146]
+                  - generic [ref=f45e147]: France
+                - generic [ref=f45e148]:
+                  - checkbox "Germany" [ref=f45e150]
+                  - generic [ref=f45e151]: Germany
+                - generic [ref=f45e152]:
+                  - checkbox "India" [ref=f45e154]
+                  - generic [ref=f45e155]: India
+                - generic [ref=f45e156]:
+                  - checkbox "Indonesia" [ref=f45e158]
+                  - generic [ref=f45e159]: Indonesia
+                - generic [ref=f45e160]:
+                  - checkbox "Ireland" [ref=f45e162]
+                  - generic [ref=f45e163]: Ireland
+                - generic [ref=f45e164]:
+                  - checkbox "Israel" [ref=f45e166]
+                  - generic [ref=f45e167]: Israel
+                - generic [ref=f45e168]:
+                  - checkbox "Italy" [ref=f45e170]
+                  - generic [ref=f45e171]: Italy
+                - generic [ref=f45e172]:
+                  - checkbox "Japan" [ref=f45e174]
+                  - generic [ref=f45e175]: Japan
+                - generic [ref=f45e176]:
+                  - checkbox "Malaysia" [ref=f45e178]
+                  - generic [ref=f45e179]: Malaysia
+                - generic [ref=f45e180]:
+                  - checkbox "Mexico" [ref=f45e182]
+                  - generic [ref=f45e183]: Mexico
+                - generic [ref=f45e184]:
+                  - checkbox "New Zealand" [ref=f45e186]
+                  - generic [ref=f45e187]: New Zealand
+                - generic [ref=f45e188]:
+                  - checkbox "Poland" [ref=f45e190]
+                  - generic [ref=f45e191]: Poland
+                - generic [ref=f45e192]:
+                  - checkbox "Portugal" [ref=f45e194]
+                  - generic [ref=f45e195]: Portugal
+                - generic [ref=f45e196]:
+                  - checkbox "Romania" [ref=f45e198]
+                  - generic [ref=f45e199]: Romania
+                - generic [ref=f45e200]:
+                  - checkbox "Singapore" [ref=f45e202]
+                  - generic [ref=f45e203]: Singapore
+                - generic [ref=f45e204]:
+                  - checkbox "South Korea" [ref=f45e206]
+                  - generic [ref=f45e207]: South Korea
+                - generic [ref=f45e208]:
+                  - checkbox "Spain" [ref=f45e210]
+                  - generic [ref=f45e211]: Spain
+                - generic [ref=f45e212]:
+                  - checkbox "Sweden" [ref=f45e214]
+                  - generic [ref=f45e215]: Sweden
+                - generic [ref=f45e216]:
+                  - checkbox "Switzerland" [ref=f45e218]
+                  - generic [ref=f45e219]: Switzerland
+                - generic [ref=f45e220]:
+                  - checkbox "Thailand" [ref=f45e222]
+                  - generic [ref=f45e223]: Thailand
+                - generic [ref=f45e224]:
+                  - checkbox "The Netherlands" [ref=f45e226]
+                  - generic [ref=f45e227]: The Netherlands
+                - generic [ref=f45e228]:
+                  - checkbox "UAE" [ref=f45e230]
+                  - generic [ref=f45e231]: UAE
+                - generic [ref=f45e232]:
+                  - checkbox "UK" [ref=f45e234]
+                  - generic [ref=f45e235]: UK
+                - generic [ref=f45e236]:
+                  - checkbox "US" [ref=f45e238]
+                  - generic [ref=f45e239]: US
+              - generic [ref=f45e242]:
+                - generic [ref=f45e243]: Are you authorized to work in the location(s) you selected in your previous response?*
+                - generic [ref=f45e244]:
+                  - log [ref=f45e246]
+                  - generic [ref=f45e248]:
+                    - generic [ref=f45e249]:
+                      - generic [ref=f45e250]: Select...
+                      - combobox "Are you authorized to work in the location(s) you selected in your previous response?" [ref=f45e252]
+                    - button "Toggle flyout" [ref=f45e254] [cursor=pointer]:
+                      - img [ref=f45e255]
+                  - textbox
+              - generic [ref=f45e259]:
+                - generic [ref=f45e260]: Will you require Stripe to sponsor you for a work permit now or in the future for the location(s) you selected in in your previous response? *
+                - generic [ref=f45e261]:
+                  - log [ref=f45e263]
+                  - generic [ref=f45e265]:
+                    - generic [ref=f45e266]:
+                      - generic [ref=f45e267]: Select...
+                      - combobox "Will you require Stripe to sponsor you for a work permit now or in the future for the location(s) you selected in in your previous response?" [ref=f45e269]
+                    - button "Toggle flyout" [ref=f45e271] [cursor=pointer]:
+                      - img [ref=f45e272]
+                  - textbox
+              - generic [ref=f45e274]:
+                - generic [ref=f45e276]:
+                  - generic [ref=f45e277]: If this role offers the option to work from a remote location, do you plan to work remotely?*
+                  - generic [ref=f45e278]:
+                    - log [ref=f45e280]
+                    - generic [ref=f45e282]:
+                      - generic [ref=f45e283]:
+                        - generic [ref=f45e284]: Select...
+                        - combobox "If this role offers the option to work from a remote location, do you plan to work remotely?" [ref=f45e286]
+                      - button "Toggle flyout" [ref=f45e288] [cursor=pointer]:
+                        - img [ref=f45e289]
+                    - textbox
+                - generic [ref=f45e292]:
+                  - paragraph [ref=f45e293]: This role is available either in an office or a remote location (typically, 35+ miles or 56+ km from a Stripe office).
+                  - paragraph [ref=f45e294]: Office-assigned Stripes spend at least 50% of the time in a given month in their local office or with users. This hits a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility about how to do this in a way that makes sense for individuals and their teams.
+                  - paragraph [ref=f45e295]: A remote location, in most cases, is defined as being 35 miles (56 kilometers) or more from one of our offices. While you would be welcome to come into the office for team/business meetings, on-sites, meet-ups, and events, our expectation is you would regularly work from home rather than a Stripe office. Stripe does not cover the cost of relocating to a remote location. We encourage you to apply for roles that match the location where you currently or plan to live.
+              - generic [ref=f45e298]:
+                - generic [ref=f45e299]: Have you ever been employed by Stripe or a Stripe affiliate?*
+                - generic [ref=f45e300]:
+                  - log [ref=f45e302]
+                  - generic [ref=f45e304]:
+                    - generic [ref=f45e305]:
+                      - generic [ref=f45e306]: Select...
+                      - combobox "Have you ever been employed by Stripe or a Stripe affiliate?" [ref=f45e308]
+                    - button "Toggle flyout" [ref=f45e310] [cursor=pointer]:
+                      - img [ref=f45e311]
+                  - textbox
+              - generic [ref=f45e315]:
+                - generic [ref=f45e316]: Who is your current or previous employer?*
+                - textbox "Who is your current or previous employer?" [ref=f45e317]
+              - generic [ref=f45e320]:
+                - generic [ref=f45e321]: What is your current or previous job title?*
+                - textbox "What is your current or previous job title?" [ref=f45e322]
+              - generic [ref=f45e325]:
+                - generic [ref=f45e326]: What is the most recent school you attended?*
+                - textbox "What is the most recent school you attended?" [ref=f45e327]
+              - generic [ref=f45e330]:
+                - generic [ref=f45e331]: What is the most recent degree you obtained?*
+                - textbox "What is the most recent degree you obtained?" [ref=f45e332]
+              - generic [ref=f45e333]:
+                - generic [ref=f45e335]:
+                  - generic [ref=f45e336]: Do you opt-in to receive WhatsApp messages from Stripe Recruiting?*
+                  - generic [ref=f45e337]:
+                    - log [ref=f45e339]
+                    - generic [ref=f45e341]:
+                      - generic [ref=f45e342]:
+                        - generic [ref=f45e343]: Select...
+                        - combobox "Do you opt-in to receive WhatsApp messages from Stripe Recruiting?" [ref=f45e345]
+                      - button "Toggle flyout" [ref=f45e347] [cursor=pointer]:
+                        - img [ref=f45e348]
+                    - textbox
+                - paragraph [ref=f45e352]: Messages will only be sent regarding your candidacy with Stripe.
+            - generic [ref=f45e353]:
+              - separator [ref=f45e354]
+              - generic [ref=f45e355]:
+                - heading "Voluntary Self-Identification" [level=2] [ref=f45e356]
+                - paragraph [ref=f45e357]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+                - paragraph [ref=f45e358]: As set forth in Stripe’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+              - generic [ref=f45e361]:
+                - generic [ref=f45e362]: Gender
+                - generic [ref=f45e363]:
+                  - log [ref=f45e365]
+                  - generic [ref=f45e367]:
+                    - generic [ref=f45e368]:
+                      - generic [ref=f45e369]: Select...
+                      - combobox "Gender" [ref=f45e371]
+                    - button "Toggle flyout" [ref=f45e373] [cursor=pointer]:
+                      - img [ref=f45e374]
+              - generic [ref=f45e376]:
+                - generic [ref=f45e378]:
+                  - generic [ref=f45e379]: Are you Hispanic/Latino?
+                  - generic [ref=f45e380]:
+                    - log [ref=f45e382]
+                    - generic [ref=f45e384]:
+                      - generic [ref=f45e385]:
+                        - generic [ref=f45e386]: Select...
+                        - combobox "Are you Hispanic/Latino?" [ref=f45e388]
+                      - button "Toggle flyout" [ref=f45e390] [cursor=pointer]:
+                        - img [ref=f45e391]
+                - link "Race & Ethnicity Definitions" [ref=f45e393] [cursor=pointer]:
+                  - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+              - generic [ref=f45e394]:
+                - paragraph [ref=f45e395]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+                - paragraph [ref=f45e396]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+                - paragraph [ref=f45e397]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+                - paragraph [ref=f45e398]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+                - paragraph [ref=f45e399]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+              - generic [ref=f45e402]:
+                - generic [ref=f45e403]: Veteran Status
+                - generic [ref=f45e404]:
+                  - log [ref=f45e406]
+                  - generic [ref=f45e408]:
+                    - generic [ref=f45e409]:
+                      - generic [ref=f45e410]: Select...
+                      - combobox "Veteran Status" [ref=f45e412]
+                    - button "Toggle flyout" [ref=f45e414] [cursor=pointer]:
+                      - img [ref=f45e415]
+              - separator [ref=f45e417]
+              - generic [ref=f45e418]:
+                - heading "Voluntary Self-Identification of Disability" [level=2] [ref=f45e419]
+                - generic [ref=f45e420]:
+                  - generic [ref=f45e421]:
+                    - generic [ref=f45e422]: Form CC-305
+                    - generic [ref=f45e423]: Page 1 of 1
+                  - generic [ref=f45e424]:
+                    - generic [ref=f45e425]: OMB Control Number 1250-0005
+                    - generic [ref=f45e426]: Expires 04/30/2026
+                - strong [ref=f45e427]: Why are you being asked to complete this form?
+                - paragraph [ref=f45e428]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+                - paragraph [ref=f45e429]:
+                  - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                  - link "www.dol.gov/ofccp" [ref=f45e430] [cursor=pointer]:
+                    - /url: https://www.dol.gov/ofccp
+                  - text: .
+                - strong [ref=f45e431]: How do you know if you have a disability?
+                - paragraph [ref=f45e432]:
+                  - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                  - strong [ref=f45e433]: "Disabilities include, but are not limited to:"
+                - list [ref=f45e434]:
+                  - listitem [ref=f45e435]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                  - listitem [ref=f45e436]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                  - listitem [ref=f45e437]: Blind or low vision
+                  - listitem [ref=f45e438]: Cancer (past or present)
+                  - listitem [ref=f45e439]: Cardiovascular or heart disease
+                  - listitem [ref=f45e440]: Celiac disease
+                  - listitem [ref=f45e441]: Cerebral palsy
+                  - listitem [ref=f45e442]: Deaf or serious difficulty hearing
+                  - listitem [ref=f45e443]: Diabetes
+                  - listitem [ref=f45e444]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                  - listitem [ref=f45e445]: Epilepsy or other seizure disorder
+                  - listitem [ref=f45e446]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                  - listitem [ref=f45e447]: Intellectual or developmental disability
+                  - listitem [ref=f45e448]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                  - listitem [ref=f45e449]: Missing limbs or partially missing limbs
+                  - listitem [ref=f45e450]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                  - listitem [ref=f45e451]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                  - listitem [ref=f45e452]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                  - listitem [ref=f45e453]: Partial or complete paralysis (any cause)
+                  - listitem [ref=f45e454]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                  - listitem [ref=f45e455]: Short stature (dwarfism)
+                  - listitem [ref=f45e456]: Traumatic brain injury
+              - generic [ref=f45e459]:
+                - generic [ref=f45e460]: Disability Status
+                - generic [ref=f45e461]:
+                  - log [ref=f45e463]
+                  - generic [ref=f45e465]:
+                    - generic [ref=f45e466]:
+                      - generic [ref=f45e467]: Select...
+                      - combobox "Disability Status" [ref=f45e469]
+                    - button "Toggle flyout" [ref=f45e471] [cursor=pointer]:
+                      - img [ref=f45e472]
+              - paragraph [ref=f45e475]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+            - button "Submit application" [ref=f45e477] [cursor=pointer]

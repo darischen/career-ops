@@ -1,0 +1,296 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Chime Financial, Inc Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://boards.greenhouse.io/chime?gh_src=Simplify
+        - img "Chime Financial, Inc Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://careers.chime.com/jobs/?gh_src=Simplify
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e13]: New
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - heading "AI/ML Engineer" [level=1] [ref=e16]
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e20]: San Francisco, CA, USA
+          - button "Apply" [ref=e21] [cursor=pointer]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - heading "About the role" [level=2] [ref=e24]:
+              - strong [ref=e25]: About the role
+            - paragraph [ref=e26]: Chime’s AI/ML Trust & Safety team is building models, insights, and decisioning systems that help protect millions of members while enabling safe, reliable financial progress. We are looking for an AI/ML Engineer who is growing strong technical depth in machine learning, experimentation, and analytical problem solving, with an interest in applying those skills to trust, safety, and risk challenges across Chime.
+            - paragraph [ref=e27]: You’ll contribute to end-to-end model development, analysis, and production-facing decision systems with guidance from senior team members. Your work will help improve how Chime detects risk, understands member behavior, evaluates tradeoffs, and scales trustworthy member experiences. This role is a strong opportunity to build deeper expertise in applied ML, risk systems, experimentation, generative AI, sequence models, and cross-functional product impact in a high-scale environment.
+            - paragraph [ref=e28]: The base salary offered for this role and level of experience will begin at$125,000.00 and up to $173,000.00. Full-time employees are also eligible for a bonus, competitive equity package, and benefits. The actual base salary offered may be higher, depending on your location, skills, qualifications, and experience.
+            - heading "In this role, you can expect to" [level=2] [ref=e29]:
+              - strong [ref=e30]: In this role, you can expect to
+            - list [ref=e31]:
+              - listitem [ref=e32]: Contribute to the design and implementation of training pipeline components for AI/ML models that support Chime’s risk decisioning systems.
+              - listitem [ref=e33]: Develop, test, and iterate on model features within clear requirements and with support from senior team members.
+              - listitem [ref=e34]: Support offline model evaluation and contribute to online experiment analysis to understand performance, tradeoffs, and member impact.
+              - listitem [ref=e35]: Write modular, testable, and maintainable code following engineering best practices.
+              - listitem [ref=e36]: Collaborate with Product Managers, Engineers, and Risk teams to translate model findings into clear recommendations and measurable member impact.
+              - listitem [ref=e37]: Contribute to production-facing model workflows, including model training, tuning, inference, and monitoring.
+              - listitem [ref=e38]: Contribute to projects that apply modern AI/ML methods, such as generative AI, sequence models, and automation workflows, to improve Risk decisioning.
+            - heading "To thrive in this role, you have" [level=2] [ref=e39]:
+              - strong [ref=e40]: To thrive in this role, you have
+            - list [ref=e41]:
+              - listitem [ref=e42]: 1–2 years of experience in applied data science or AI/ML engineering, including relevant internship, academic, or project experience.
+              - listitem [ref=e43]: Working knowledge of machine learning fundamentals, including feature development, model training, validation, tuning, and evaluation.
+              - listitem [ref=e44]: Familiarity with cloud platforms, preferably AWS, orchestration tools, and version control.
+              - listitem [ref=e45]: Familiarity with offline model evaluation, experimentation, and model performance tradeoffs.
+              - listitem [ref=e46]: Ability to communicate analyses and model findings clearly, clarify requirements, and collaborate effectively with technical and non-technical partners.
+            - heading "Nice to have" [level=2] [ref=e47]:
+              - strong [ref=e48]: Nice to have
+            - list [ref=e49]:
+              - listitem [ref=e50]: Exposure to production ML workflows, including inference, monitoring, retraining, orchestration, model deployment.
+              - listitem [ref=e51]: Experience using AI-assisted development tools such as Cursor, Claude Code, or similar tools.
+              - listitem [ref=e52]: Exposure to deep learning methods, such as embeddings, sequence models, representation learning, or behavioral modeling.
+            - paragraph [ref=e53]: "#LI-GC1 #LI-Hybrid"
+          - generic [ref=e54]:
+            - heading "A little about us" [level=2] [ref=e55]:
+              - strong [ref=e57]: A little about us
+            - paragraph [ref=e58]: At Chime, we believe that everyone can achieve financial progress. We created Chime—a financial technology company, not a bank*—on the premise that core banking services should be helpful, easy, and free. Through our user-friendly tools and intuitive platforms, we empower our members to take control of their finances and work towards their goals. Whether it's starting a savings account, purchasing a first car or home, launching a business, or pursuing higher education, we're proud to have helped millions unlock their financial potential.
+            - paragraph [ref=e59]: "We're a team of problem solvers, dreamers, and builders with one shared obsession: our members. From day one, Chimers have worked tirelessly to out-hustle and out-execute competitors to bring our mission to life. Their grit and determination inspire us to work harder every day to deliver the very best experience possible. We each bring an owner's mindset to our work, refusing to be outdone and holding ourselves accountable to meet and exceed the highest bars for our teams, our company, and our members."
+            - paragraph [ref=e60]: We believe in being bold, dreaming big, and taking risks, while also working together, embracing our diverse perspectives, and giving each other honest feedback. Our culture remains deeply entrepreneurial, encouraging every Chimer to see themselves as stewards of our mission to help everyday Americans unlock their financial progress.
+            - paragraph [ref=e61]: We know that to achieve our mission, we must earn and keep people's trust—so we hold ourselves to the highest standards of integrity in everything we do. These aren't just words on a wall—our values are embedded in every aspect of our business, serving as a north star that guides us as we work to help millions achieve their financial potential.
+            - paragraph [ref=e62]: Because if we don't—who will?
+            - paragraph [ref=e63]: "*Chime is a financial technology company, not a bank. Banking services provided by The Bancorp Bank, N.A. or Stride Bank, N.A., Members FDIC."
+            - heading "What we offer for our full-time, regular employees" [level=2] [ref=e64]:
+              - strong [ref=e66]: What we offer for our full-time, regular employees
+            - list [ref=e67]:
+              - listitem [ref=e68]: 🏢 Our in-office work policy is designed to keep you connected - with four days a week in the office and Fridays from home for those near one of our offices, plus team and company-wide events depending on location. Whether you’re coming in regularly or are part of our fully remote program, you’ll stay engaged with your work and teammates.
+              - listitem [ref=e69]: 💻 In-office perks including backup child, elder, and/or pet care, plus a subsidized commuter benefit to support your regular commute
+              - listitem [ref=e70]: 💰 Competitive salary based on experience
+              - listitem [ref=e71]: ✨ 401k match plus great medical, dental, vision, life, and disability benefits
+              - listitem [ref=e72]: 🏝 Generous vacation policy and company-wide Chime Days, bonus company-wide paid days off
+              - listitem [ref=e73]: 🫂 1% of your time off to support local community organizations of your choice
+              - listitem [ref=e74]: 👟 Annual wellness stipend to use towards eligible wellness related expenses
+              - listitem [ref=e75]: 👶 Up to 24 weeks of paid parental leave for birthing parents and 12 weeks of paid parental leave for non-birthing parents
+              - listitem [ref=e76]: 👪 Access to Maven, a family planning tool, with $15k lifetime reimbursement for egg freezing, fertility treatments, adoption, and more.
+              - listitem [ref=e77]: 🎉 In-person and virtual events to connect with your fellow Chimers—think cooking classes, guided meditations, music festivals, mixology classes, paint nights, etc., and delicious snack boxes, too!
+              - listitem [ref=e78]: 💚 A challenging and fulfilling opportunity to join one of the most experienced teams in FinTech and help millions unlock financial progress
+            - paragraph [ref=e79]: We know that great work can’t be done without a diverse team and inclusive environment. That’s why we specifically look for individuals of varying strengths, skills, backgrounds, and ideas to join our team. We believe this gives us a competitive advantage to better serve our members and helps us all grow as Chimers and individuals.
+            - paragraph [ref=e80]:
+              - generic [ref=e81]:
+                - text: "Chime is proud to be an Equal Opportunity Employer. We consider qualified applicants without regard to race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, genetic information, veteran status, or any other legally protected basis under provincial, federal, state, and local laws, regulations, or ordinances. We will also consider qualified applicants with criminal histories in a manner consistent with the requirements of state and local laws, including the San Francisco Fair Chance Ordinance, Cook County Ordinance, NYC Fair Chance Act, and the LA City Fair Chance Ordinance, and consistent with Canadian provincial and federal laws. If you have a disability or special need that requires accommodation during any stage of the application process, please contact:"
+                - link "benefits@chime.com" [ref=e83] [cursor=pointer]:
+                  - /url: mailto:benefits@chime.com
+                - text: .
+            - paragraph [ref=e84]:
+              - generic [ref=e85]:
+                - text: To learn more about how Chime collects and uses your personal information during the application process, please see the
+                - link "Chime Applicant Privacy Notice." [ref=e86] [cursor=pointer]:
+                  - /url: https://www.chime.com/careers/chime-applicant-privacy-notice/
+        - generic [ref=e87]:
+          - img [ref=e88]
+          - generic [ref=e90]:
+            - paragraph [ref=e91]: Create a Job Alert
+            - paragraph [ref=e92]: Interested in building your career at Chime Financial, Inc? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e93] [cursor=pointer]
+      - separator [ref=e94]
+      - generic [ref=e95]:
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - heading "Apply for this job" [level=2] [ref=e99]
+            - generic [ref=e100]:
+              - paragraph [ref=e102]: "*"
+              - paragraph [ref=e103]: indicates a required field
+          - button "Quick Apply with MyGreenhouse" [ref=e106] [cursor=pointer]
+        - generic [ref=e107]:
+          - generic [ref=e108]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: First Name*
+              - textbox "First Name" [ref=e113]
+            - generic [ref=e116]:
+              - generic [ref=e117]: Last Name*
+              - textbox "Last Name" [ref=e118]
+            - generic [ref=e121]:
+              - generic [ref=e122]: Preferred First Name*
+              - textbox "Preferred First Name" [ref=e123]
+            - generic [ref=e126]:
+              - generic [ref=e127]: Email*
+              - textbox "Email" [ref=e128]
+            - group "Phone" [ref=e130]:
+              - generic [ref=e131]: Phone
+              - generic [ref=e134]:
+                - generic [ref=e135]: Country*
+                - generic [ref=e136]:
+                  - log [ref=e138]
+                  - generic [ref=e140]:
+                    - combobox "Country" [ref=e143]
+                    - button "Toggle flyout" [ref=e145] [cursor=pointer]:
+                      - img [ref=e146]
+                  - textbox
+              - generic [ref=e150]:
+                - generic [ref=e151]: Phone*
+                - textbox "Phone" [ref=e152]
+            - group "Resume/CV*" [ref=e154]:
+              - generic [ref=e155]: Resume/CV*
+              - generic [ref=e157]:
+                - generic [ref=e159]:
+                  - button "Attach" [ref=e160] [cursor=pointer]
+                  - generic [ref=e161]: Attach
+                  - button "Attach" [ref=e162]
+                - button "Dropbox" [ref=e164] [cursor=pointer]
+                - button "Google Drive" [ref=e166] [cursor=pointer]
+                - generic [ref=e168]:
+                  - button "Enter manually" [ref=e169] [cursor=pointer]
+                  - generic [ref=e170]: Enter manually
+                - paragraph [ref=e171]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e173]:
+              - generic [ref=e174]: Cover Letter
+              - generic [ref=e176]:
+                - generic [ref=e178]:
+                  - button "Attach" [ref=e179] [cursor=pointer]
+                  - generic [ref=e180]: Attach
+                  - button "Attach" [ref=e181]
+                - button "Dropbox" [ref=e183] [cursor=pointer]
+                - button "Google Drive" [ref=e185] [cursor=pointer]
+                - generic [ref=e187]:
+                  - button "Enter manually" [ref=e188] [cursor=pointer]
+                  - generic [ref=e189]: Enter manually
+                - paragraph [ref=e190]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e191]:
+            - separator [ref=e192]
+            - generic [ref=e195]:
+              - generic [ref=e196]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e197]
+            - generic [ref=e200]:
+              - generic [ref=e201]: How did you hear about this job?*
+              - textbox "How did you hear about this job?" [ref=e202]
+            - generic [ref=e205]:
+              - generic [ref=e206]: Are you currently eligible to work legally in the United States of America?*
+              - generic [ref=e207]:
+                - log [ref=e209]
+                - generic [ref=e211]:
+                  - generic [ref=e212]:
+                    - generic [ref=e213]: Select...
+                    - combobox "Are you currently eligible to work legally in the United States of America?" [ref=e215]
+                  - button "Toggle flyout" [ref=e217] [cursor=pointer]:
+                    - img [ref=e218]
+                - textbox
+            - generic [ref=e222]:
+              - generic [ref=e223]: Do you now or in the future require immigration support or visa sponsorship to continue working in the United States?*
+              - generic [ref=e224]:
+                - log [ref=e226]
+                - generic [ref=e228]:
+                  - generic [ref=e229]:
+                    - generic [ref=e230]: Select...
+                    - combobox "Do you now or in the future require immigration support or visa sponsorship to continue working in the United States?" [ref=e232]
+                  - button "Toggle flyout" [ref=e234] [cursor=pointer]:
+                    - img [ref=e235]
+                - textbox
+            - generic [ref=e239]:
+              - generic [ref=e240]: Do you acknowledge that this is a hybrid role based in San Francisco or Chicago and you will be required to come into the office four days a week?*
+              - generic [ref=e241]:
+                - log [ref=e243]
+                - generic [ref=e245]:
+                  - generic [ref=e246]:
+                    - generic [ref=e247]: Select...
+                    - combobox "Do you acknowledge that this is a hybrid role based in San Francisco or Chicago and you will be required to come into the office four days a week?" [ref=e249]
+                  - button "Toggle flyout" [ref=e251] [cursor=pointer]:
+                    - img [ref=e252]
+                - textbox
+            - generic [ref=e256]:
+              - generic [ref=e257]: Are you currently subject to any agreement with a former employer/third party (such as a non-solicitation or non-compete agreement) that may potentially limit your ability to perform the duties of the position you are applying for? If yes, you may be asked to provide a copy for review. Please note, answering "yes" will not disqualify your application from consideration.*
+              - generic [ref=e258]:
+                - log [ref=e260]
+                - generic [ref=e262]:
+                  - generic [ref=e263]:
+                    - generic [ref=e264]: Select...
+                    - combobox "Are you currently subject to any agreement with a former employer/third party (such as a non-solicitation or non-compete agreement) that may potentially limit your ability to perform the duties of the position you are applying for? If yes, you may be asked to provide a copy for review. Please note, answering \"yes\" will not disqualify your application from consideration." [ref=e266]
+                  - button "Toggle flyout" [ref=e268] [cursor=pointer]:
+                    - img [ref=e269]
+                - textbox
+          - separator [ref=e271]
+          - generic [ref=e272]:
+            - heading "Chime Demographic Questions" [level=3] [ref=e273]
+            - generic [ref=e275]:
+              - paragraph [ref=e276]
+              - paragraph [ref=e277]: At Chime we are committed to providing a welcoming and inclusive work environment, and that starts with our application process. To hold ourselves accountable for equitable and inclusive hiring practices, we ask candidates to voluntarily complete the following survey that helps us in our efforts to ensure equal employment opportunities.
+              - paragraph [ref=e278]: We believe that diversity, equity, and belonging—DEB— is essential to our ability to help our diverse member base and continue delivering on our mission to provide them with financial peace of mind. Anyone who wants to work with us will be considered without regard to their race/ethnicity, religion, national origin, age, sex, marital status, ancestry, disability, gender identity, or sexual orientation.
+              - paragraph [ref=e279]:
+                - emphasis [ref=e280]: Your responses will be reported in aggregate only. Please be assured that your responses (or choosing not to identify) will have zero impact on your candidacy; this information is maintained confidentially and always stored separately from your application.
+              - paragraph [ref=e281]:
+                - text: This information will be stored in Greenhouse (
+                - link "you can review Greenhouse’s privacy policy here" [ref=e282] [cursor=pointer]:
+                  - /url: https://www.greenhouse.io/privacy-policy
+                - text: ). Access inside Chime to this information is restricted to selected members of the People team, who are committed to keeping details confidential.. Greenhouse will retain this information, along with the rest of the information provided in your application, 18 months from your application date, after which all application information will be anonymized and stored only in that form. Once information is anonymized, neither we nor Greenhouse can determine the individual to whom it once belonged.
+              - paragraph [ref=e283]
+            - generic [ref=e285]:
+              - generic [ref=e286]: I identify my gender as:*
+              - generic [ref=e287]:
+                - log [ref=e289]
+                - generic [ref=e291]:
+                  - generic [ref=e292]:
+                    - generic [ref=e293]: Select...
+                    - combobox "I identify my gender as:" [ref=e295]
+                  - button "Toggle flyout" [ref=e297] [cursor=pointer]:
+                    - img [ref=e298]
+                - textbox
+            - generic [ref=e301]:
+              - generic [ref=e302]: I identify as:*
+              - generic [ref=e303]:
+                - log [ref=e305]
+                - generic [ref=e307]:
+                  - generic [ref=e308]:
+                    - generic [ref=e309]: Select...
+                    - combobox "I identify as:" [ref=e311]
+                  - button "Toggle flyout" [ref=e313] [cursor=pointer]:
+                    - img [ref=e314]
+                - textbox
+            - generic [ref=e317]:
+              - generic [ref=e318]: I identify my sexual orientation as:*
+              - generic [ref=e319]:
+                - log [ref=e321]
+                - generic [ref=e323]:
+                  - generic [ref=e324]:
+                    - generic [ref=e325]: Select...
+                    - combobox "I identify my sexual orientation as:" [ref=e327]
+                  - button "Toggle flyout" [ref=e329] [cursor=pointer]:
+                    - img [ref=e330]
+                - textbox
+            - generic [ref=e333]:
+              - generic [ref=e334]: Veteran Status:*
+              - generic [ref=e335]:
+                - log [ref=e337]
+                - generic [ref=e339]:
+                  - generic [ref=e340]:
+                    - generic [ref=e341]: Select...
+                    - combobox "Veteran Status:" [ref=e343]
+                  - button "Toggle flyout" [ref=e345] [cursor=pointer]:
+                    - img [ref=e346]
+                - textbox
+            - generic [ref=e349]:
+              - generic [ref=e350]: I have a disability:*
+              - generic [ref=e351]:
+                - log [ref=e353]
+                - generic [ref=e355]:
+                  - generic [ref=e356]:
+                    - generic [ref=e357]: Select...
+                    - combobox "I have a disability:" [ref=e359]
+                  - button "Toggle flyout" [ref=e361] [cursor=pointer]:
+                    - img [ref=e362]
+                - textbox
+            - generic [ref=e365]:
+              - generic [ref=e366]: I identify my race/ethnicity as (please mark all that apply):*
+              - generic [ref=e367]:
+                - log [ref=e369]
+                - generic [ref=e371]:
+                  - generic [ref=e372]:
+                    - generic [ref=e373]: Select...
+                    - combobox "I identify my race/ethnicity as (please mark all that apply):" [ref=e375]
+                  - button "Toggle flyout" [ref=e377] [cursor=pointer]:
+                    - img [ref=e378]
+                - textbox
+          - separator [ref=e380]
+          - button "Submit application" [ref=e382] [cursor=pointer]
+  - contentinfo [ref=e383]:
+    - generic [ref=e384]:
+      - paragraph [ref=e385]: Powered by
+      - link "Greenhouse logo" [ref=e386] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e387]

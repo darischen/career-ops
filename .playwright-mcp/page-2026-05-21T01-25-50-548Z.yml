@@ -1,0 +1,127 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Zip" [ref=e6] [cursor=pointer]:
+        - /url: ziphq.com
+        - img "Zip" [ref=e7]
+    - link "Back to Zip’s Job Listings" [ref=e8] [cursor=pointer]:
+      - /url: https://ziphq.com/careers?departmentId=7d6388ea-1527-49c0-9c5a-89743ccf10f5
+      - img [ref=e9]
+    - listitem
+  - generic [ref=e11]:
+    - heading "Software Engineer, Frontend (All Levels)" [level=1] [ref=e13]
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - heading "Location" [level=2] [ref=e17]
+          - paragraph [ref=e18]: San Francisco
+        - generic [ref=e19]:
+          - heading "Employment Type" [level=2] [ref=e20]
+          - paragraph [ref=e21]: Full time
+        - generic [ref=e22]:
+          - heading "Location Type" [level=2] [ref=e23]
+          - paragraph [ref=e24]: Hybrid
+        - generic [ref=e25]:
+          - heading "Department" [level=2] [ref=e26]
+          - paragraph [ref=e27]: Engineering
+      - generic [ref=e28]:
+        - tablist [ref=e29]:
+          - tab "Overview" [selected] [ref=e30] [cursor=pointer]
+          - tab "Application" [ref=e31] [cursor=pointer]
+        - tabpanel "Overview" [ref=e33]:
+          - generic [ref=e34]:
+            - heading "About Zip" [level=1] [ref=e35]:
+              - strong [ref=e36]: About Zip
+            - paragraph [ref=e37]
+            - paragraph [ref=e38]:
+              - text: Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.
+              - text: The world’s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they’ve saved over $8 billion and processed over $500 billion in spend. Zip’s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA.
+              - text: Backed by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups.
+            - paragraph [ref=e39]:
+              - text: We’re looking for a passionate
+              - strong [ref=e40]: Software Engineer, Frontend (Mid-level to Senior)
+              - text: to help us build beautiful, performant, and scalable user-facing experiences. In this role, you’ll take ownership of our core frontend architecture and ship features that have a direct and immediate impact on our customers.
+            - paragraph [ref=e41]: You'll collaborate closely with a highly skilled, cross-functional team that values thoughtful design, fast iteration, and clean, maintainable code. Our engineers have a high degree of autonomy and are trusted to take features from concept to production, all while contributing towards improving our frontend practices as a company.
+            - paragraph [ref=e42]
+            - heading "You will" [level=2] [ref=e43]:
+              - strong [ref=e44]: You will
+            - list [ref=e45]:
+              - listitem [ref=e46]:
+                - paragraph [ref=e47]: Design and build highly reliable and resilient products and features.
+              - listitem [ref=e48]:
+                - paragraph [ref=e49]: Work closely with cross functional product and customer-facing teams to understand requirements and ship thoughtful solutions.
+              - listitem [ref=e50]:
+                - paragraph [ref=e51]: Write high-quality, extensible, and maintainable code.
+              - listitem [ref=e52]:
+                - paragraph [ref=e53]: Design and build scalable frontend applications and components.
+              - listitem [ref=e54]:
+                - paragraph [ref=e55]: Design and build APIs to drive existing and new features for a web-based application.
+            - heading "Qualifications" [level=2] [ref=e56]:
+              - strong [ref=e57]: Qualifications
+            - list [ref=e58]:
+              - listitem [ref=e59]:
+                - paragraph [ref=e60]: 3+ years of experience in modern web app development
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: BS or higher, in Computer Science or technical field
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: Proficiency in React, TypeScript, browser APIs, and performance optimization
+              - listitem [ref=e65]:
+                - paragraph [ref=e66]: Experience with web application and API development in production environments. At Zip, our stack includes Python, Typescript, React, and GraphQL.
+              - listitem [ref=e67]:
+                - paragraph [ref=e68]: "Experience with industry standard build, test, deploy tools. At Zip, we work with: Kubernetes, Spinnaker, Jenkins, Segment, Github Actions, Datadog, Bugsnag and Fullstory."
+              - listitem [ref=e69]:
+                - paragraph [ref=e70]: Ability and interest to quickly learn new frameworks and architecture patterns as needed
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]: Experience working at a small company with diverse responsibilities is a bonus, but not required.
+              - listitem [ref=e73]:
+                - paragraph [ref=e74]: Exposure to AI-driven automation or interest in working with AI/ML teams to build intelligent workflows.
+            - paragraph [ref=e75]: The salary range for this role is $150,000 - $220,000. The salary for this position is determined based on a variety of job-related factors that may include location, relevant experience, education, or particular skills and expertise.
+            - paragraph [ref=e76]
+            - heading "Perks & Benefits" [level=2] [ref=e77]:
+              - strong [ref=e78]: Perks & Benefits
+            - paragraph [ref=e79]: At Zip, we’re committed to providing our employees with everything they need to do their best work.
+            - list [ref=e80]:
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: 📈 Start-up equity
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: 🦷 100% health, vision & dental coverage options
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: 🍽️ Catered breakfast, lunch, & dinner
+              - listitem [ref=e87]:
+                - paragraph [ref=e88]: 🌴 Flexible PTO
+              - listitem [ref=e89]:
+                - paragraph [ref=e90]: 🏋️‍♀️ ClassPass membership
+              - listitem [ref=e91]:
+                - paragraph [ref=e92]: 🚍 Monthly commuter benefit
+              - listitem [ref=e93]:
+                - paragraph [ref=e94]: 🚠 Team building events & happy hours
+              - listitem [ref=e95]:
+                - paragraph [ref=e96]: 💻 Home office stipend
+              - listitem [ref=e97]:
+                - paragraph [ref=e98]: 🛜 Phone/internet reimbursement
+              - listitem [ref=e99]:
+                - paragraph [ref=e100]: 🍼 Paid parental leave
+              - listitem [ref=e101]:
+                - paragraph [ref=e102]: 🧑‍🧑‍🧒‍🧒 Fertility stipend
+              - listitem [ref=e103]:
+                - paragraph [ref=e104]: 💸 401k plan
+              - listitem [ref=e105]:
+                - paragraph [ref=e106]: 🤖 Unlimited AI token usage
+            - paragraph [ref=e107]
+            - paragraph [ref=e108]:
+              - emphasis [ref=e109]: We're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!
+          - link "Apply for this Job" [ref=e110] [cursor=pointer]:
+            - /url: /zip/0c1b3417-9ba4-4630-8590-f6b45c40310a/application?departmentId=7d6388ea-1527-49c0-9c5a-89743ccf10f5
+            - button "Apply for this Job" [ref=e111]
+  - contentinfo [ref=e112]:
+    - link "Learn more about Ashby" [ref=e113] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e114]: Powered by
+      - img "Ashby" [ref=e115]
+    - paragraph [ref=e121]:
+      - link "Privacy Policy" [ref=e122] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e123] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e124] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

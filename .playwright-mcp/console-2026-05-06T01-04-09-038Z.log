@@ -1,0 +1,33 @@
+[     403ms] Unexpected end of input
+[     939ms] TypeError: Cannot read properties of null (reading 'querySelector')
+    at HTMLDocument.<anonymous> (https://careers.viasat.com/jobs/6087?mode=apply&iis=Job+Board&iisn=HANDSHAKE:1001:31)
+[    1372ms] [LOG] Checking for Ad Cloud =  true @ :4
+[    1374ms] [LOG] Initializing Ad Cloud @ :23
+[    1567ms] [LOG] fromSCroll events ->  ,C0001,BG43,C0003,C0002,SPD_BG,C0004, @ :1
+[    2071ms] [LOG] gdpr module loaded {apply_consent: undefined, pixel_consent: undefined} {enabled: true, pixel_consent: Object, apply_consent: Object, ttl: 2592000000} @ https://careers.viasat.com/dist/js/gdpr/gdpr.js?v=5.2.2:110
+[    3357ms] [ERROR] Connecting to 'wss://ws.paradox.ai/' violates the following Content Security Policy directive: "default-src https: 'unsafe-inline' 'unsafe-eval' data: blob: mediastream:". Note that 'connect-src' was not explicitly set, so 'default-src' is used as a fallback. The action has been blocked. @ https://dokumfe7mps0i.cloudfront.net/static/widget/js/vendors.async.758ac44a.7df8996.js:6
+[    4392ms] [ERROR] Connecting to 'wss://ws.paradox.ai/' violates the following Content Security Policy directive: "default-src https: 'unsafe-inline' 'unsafe-eval' data: blob: mediastream:". Note that 'connect-src' was not explicitly set, so 'default-src' is used as a fallback. The action has been blocked. @ https://dokumfe7mps0i.cloudfront.net/static/widget/js/vendors.async.758ac44a.7df8996.js:6
+[    5404ms] [ERROR] Connecting to 'wss://ws.paradox.ai/' violates the following Content Security Policy directive: "default-src https: 'unsafe-inline' 'unsafe-eval' data: blob: mediastream:". Note that 'connect-src' was not explicitly set, so 'default-src' is used as a fallback. The action has been blocked. @ https://dokumfe7mps0i.cloudfront.net/static/widget/js/vendors.async.758ac44a.7df8996.js:6
+[    5723ms] [LOG] DEBUG - (ATS-ENVELOPE-MODULE) ats-set-additional-data event set up. @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:2
+[    5724ms] [INFO] INFO - (ATS-ENVELOPE-MODULE) (Geo location) persisted cached location data @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:2
+[    5724ms] [LOG] DEBUG - (ATS-ENVELOPE-MODULE) Consent is given, module will start! @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:2
+[    5724ms] [INFO] INFO - (ATS-ENVELOPE-MODULE) (Geo location) persisted cached location data @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:2
+[    5724ms] [LOG] DEBUG - (ATS-ENVELOPE-MODULE) LIVERAMP envelope not found in storage! New envelope will be acquired. @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:2
+[    5725ms] [INFO] INFO - (ATS-ENVELOPE-MODULE) Catching identifier configured. @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:2
+[    5725ms] [INFO] INFO - (ATS-ENVELOPE-MODULE) Envelope-module is configured. @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:2
+[    6077ms] [INFO] INFO - (ATS-DETECTION-MODULE) (Geo location) persisted cached location data @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:0
+[    6077ms] [LOG] DEBUG - (ATS-DETECTION-MODULE) Consent is given, module will start! @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:0
+[    6077ms] [INFO] INFO - (ATS-DETECTION-MODULE) (Geo location) persisted cached location data @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:0
+[    6291ms] [INFO] INFO - (ATS-DETECTION-MODULE) Detection started! Library is configured to detect:  [email] @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:0
+[    6291ms] [INFO] INFO - (ATS-DETECTION-MODULE) Detection event type is  onsubmit @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:0
+[    6401ms] [LOG] DEBUG - (ATS-ENVELOPE-MODULE) There is no liveramp envelope in storage. @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:2
+[    8911ms] [LOG] DEBUG - (ATS-ENVELOPE-MODULE) There is no liveramp envelope in storage. @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:2
+[   23318ms] [LOG] fromSCroll events ->  ,C0001,BG43,C0003,C0002,SPD_BG,C0004, @ :1
+[   23319ms] [LOG] s object from main event tracker ->  AppMeasurement @ https://assets.adobedtm.com/138ddf5a8359/0880e83f9587/launch-ba9586140784.min.js:18
+[   23442ms] [LOG] fromSCroll events ->  ,C0001,BG43,C0003,C0002,SPD_BG,C0004, @ :1
+[   23443ms] [LOG] s object from main event tracker ->  AppMeasurement @ https://assets.adobedtm.com/138ddf5a8359/0880e83f9587/launch-ba9586140784.min.js:18
+[   25109ms] [LOG] fromSCroll events ->  ,C0001,BG43,C0003,C0002,SPD_BG,C0004, @ :1
+[   25110ms] [LOG] s object from main event tracker ->  AppMeasurement @ https://assets.adobedtm.com/138ddf5a8359/0880e83f9587/launch-ba9586140784.min.js:18
+[   27164ms] [LOG] fromSCroll events ->  ,C0001,BG43,C0003,C0002,SPD_BG,C0004, @ :1
+[   27165ms] [LOG] s object from main event tracker ->  AppMeasurement @ https://assets.adobedtm.com/138ddf5a8359/0880e83f9587/launch-ba9586140784.min.js:18
+[   30498ms] [LOG] DEBUG - (ATS-DETECTION-MODULE) Detected dynamically added nodes. @ https://ats-wrapper.privacymanager.io/ats-modules/8a6ccce0-ada8-49ba-8b13-1eae01f9e014/ats.js:0

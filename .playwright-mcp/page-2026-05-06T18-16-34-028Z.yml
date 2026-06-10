@@ -1,0 +1,259 @@
+- generic [ref=e7]:
+  - link [ref=e8] [cursor=pointer]:
+    - /url: "#mdc-main-content"
+    - generic [ref=e11]: Skip to main content
+  - navigation [ref=e13]:
+    - generic [ref=e17]:
+      - generic [ref=e19]:
+        - button [ref=e21] [cursor=pointer]:
+          - img [ref=e23]
+        - link [ref=e25] [cursor=pointer]:
+          - /url: /
+          - img [ref=e26]
+      - button [ref=e30] [cursor=pointer]:
+        - img [ref=e33]
+  - generic [ref=e40]:
+    - generic [ref=e43]:
+      - heading [level=2] [ref=e50]: Get personalized job recommendations from AI
+      - generic [ref=e51]: The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
+      - button [ref=e53] [cursor=pointer]:
+        - generic [ref=e56]: Upload resume for job recommendations
+    - generic [ref=e57]:
+      - generic [ref=e60]:
+        - button [ref=e61] [cursor=pointer]:
+          - generic [ref=e63]:
+            - img [ref=e65]
+            - generic [ref=e68]: Hide filters
+        - generic [ref=e69]: 500 Items
+      - separator [ref=e71]
+      - generic [ref=e73]:
+        - generic [ref=e76]:
+          - progressbar [ref=e77]
+          - progressbar [ref=e78]
+          - progressbar [ref=e79]
+        - generic [ref=e81]:
+          - generic [ref=e87]:
+            - textbox [ref=e88]:
+              - /placeholder: Search by technology, team, location, or ref.code
+            - button [ref=e90] [cursor=pointer]:
+              - img [ref=e93]
+          - generic [ref=e95]:
+            - progressbar [ref=e96]
+            - progressbar [ref=e97]
+            - progressbar [ref=e98]
+            - progressbar [ref=e99]
+            - progressbar [ref=e100]
+            - progressbar [ref=e101]
+      - contentinfo [ref=e103]:
+        - generic [ref=e104]:
+          - separator [ref=e105]
+          - generic [ref=e107]:
+            - generic [ref=e109]:
+              - generic [ref=e111]:
+                - img [ref=e113]
+                - list [ref=e115]:
+                  - listitem [ref=e116]:
+                    - link [ref=e117] [cursor=pointer]:
+                      - /url: https://www.facebook.com/LifeAtMeta
+                      - img [ref=e118]
+                  - listitem [ref=e119]:
+                    - link [ref=e120] [cursor=pointer]:
+                      - /url: https://www.instagram.com/lifeatmeta
+                      - img [ref=e121]
+                  - listitem [ref=e122]:
+                    - link [ref=e123] [cursor=pointer]:
+                      - /url: https://www.twitter.com/MetaforBusiness
+                      - img [ref=e124]
+                  - listitem [ref=e125]:
+                    - link [ref=e126] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/meta
+                      - img [ref=e127]
+              - generic [ref=e129]:
+                - generic [ref=e130]:
+                  - heading [level=2] [ref=e133]:
+                    - link [ref=e135] [cursor=pointer]:
+                      - /url: /jobsearch
+                      - text: Job Search
+                  - generic [ref=e137]:
+                    - heading [level=2] [ref=e138]:
+                      - generic [ref=e139]: Technology Teams
+                    - list [ref=e140]:
+                      - listitem [ref=e141]:
+                        - link [ref=e143] [cursor=pointer]:
+                          - /url: /teams/technology/ai
+                          - text: Artificial Intelligence
+                      - listitem [ref=e144]:
+                        - link [ref=e146] [cursor=pointer]:
+                          - /url: /teams/technology/creative
+                          - text: Creative
+                      - listitem [ref=e147]:
+                        - link [ref=e149] [cursor=pointer]:
+                          - /url: /teams/technology/infrastructure
+                          - text: Infrastructure
+                      - listitem [ref=e150]:
+                        - link [ref=e152] [cursor=pointer]:
+                          - /url: /teams/technology/metaverse-and-wearables
+                          - text: Metaverse and Wearables
+                      - listitem [ref=e153]:
+                        - link [ref=e155] [cursor=pointer]:
+                          - /url: /teams/technology/product-and-program-management
+                          - text: Product and Program Management
+                      - listitem [ref=e156]:
+                        - link [ref=e158] [cursor=pointer]:
+                          - /url: /teams/technology/research-and-data
+                          - text: Research and Data
+                      - listitem [ref=e159]:
+                        - link [ref=e161] [cursor=pointer]:
+                          - /url: /teams/technology/security
+                          - text: Security
+                      - listitem [ref=e162]:
+                        - link [ref=e164] [cursor=pointer]:
+                          - /url: /teams/technology/software-engineering
+                          - text: Software Engineering
+                - generic [ref=e165]:
+                  - generic [ref=e167]:
+                    - heading [level=2] [ref=e168]:
+                      - generic [ref=e169]: Business Teams
+                    - list [ref=e170]:
+                      - listitem [ref=e171]:
+                        - link [ref=e173] [cursor=pointer]:
+                          - /url: /teams/business/business-operations
+                          - text: Business Operations
+                      - listitem [ref=e174]:
+                        - link [ref=e176] [cursor=pointer]:
+                          - /url: /teams/business/partnerships
+                          - text: Partnerships
+                      - listitem [ref=e177]:
+                        - link [ref=e179] [cursor=pointer]:
+                          - /url: /teams/business/sales-and-marketing
+                          - text: Sales and Marketing
+                  - generic [ref=e181]:
+                    - heading [level=2] [ref=e182]:
+                      - generic [ref=e183]: Career Programs
+                    - list [ref=e184]:
+                      - listitem [ref=e185]:
+                        - link [ref=e187] [cursor=pointer]:
+                          - /url: /careerprograms/research
+                          - text: Research
+                      - listitem [ref=e188]:
+                        - link [ref=e190] [cursor=pointer]:
+                          - /url: /careerprograms/accelerate-eng-talent
+                          - text: Accelerate Eng Talent
+                      - listitem [ref=e191]:
+                        - link [ref=e193] [cursor=pointer]:
+                          - /url: /careerprograms/students
+                          - text: Students and Grads
+                      - listitem [ref=e194]:
+                        - link [ref=e196] [cursor=pointer]:
+                          - /url: /rotational-programs
+                          - text: Rotational Programs
+                  - generic [ref=e198]:
+                    - heading [level=2] [ref=e199]:
+                      - generic [ref=e200]: Working at Meta
+                    - list [ref=e201]:
+                      - listitem [ref=e202]:
+                        - link [ref=e204] [cursor=pointer]:
+                          - /url: /accessibility-and-engagement
+                          - text: Accessiblity and Engagement
+                      - listitem [ref=e205]:
+                        - link [ref=e207] [cursor=pointer]:
+                          - /url: /benefits
+                          - text: Benefits
+                      - listitem [ref=e208]:
+                        - link [ref=e210] [cursor=pointer]:
+                          - /url: /culture
+                          - text: Culture
+                      - listitem [ref=e211]:
+                        - link [ref=e213] [cursor=pointer]:
+                          - /url: /hiring-process
+                          - text: Hiring Process
+                - generic [ref=e214]:
+                  - generic [ref=e216]:
+                    - heading [level=2] [ref=e217]:
+                      - generic [ref=e218]: My account
+                    - list [ref=e219]:
+                      - listitem [ref=e220]:
+                        - link [ref=e222] [cursor=pointer]:
+                          - /url: /profile/info
+                          - text: Career profile
+                      - listitem [ref=e223]:
+                        - link [ref=e225] [cursor=pointer]:
+                          - /url: /profile/settings
+                          - text: Account settings
+                      - listitem [ref=e226]:
+                        - link [ref=e228] [cursor=pointer]:
+                          - /url: /profile/messages
+                          - text: Messages
+                  - heading [level=2] [ref=e231]:
+                    - link [ref=e233] [cursor=pointer]:
+                      - /url: /blog
+                      - text: Meta Careers Blog
+                  - heading [level=2] [ref=e236]:
+                    - link [ref=e238] [cursor=pointer]:
+                      - /url: /podcasts
+                      - text: Meta Tech Podcasts
+                  - generic [ref=e240]:
+                    - heading [level=2] [ref=e241]:
+                      - generic [ref=e242]: About us
+                    - list [ref=e243]:
+                      - listitem [ref=e244]:
+                        - link [ref=e246] [cursor=pointer]:
+                          - /url: https://www.meta.com/about/company-info/
+                          - text: About Meta
+                      - listitem [ref=e247]:
+                        - link [ref=e249] [cursor=pointer]:
+                          - /url: https://www.meta.com/media-gallery/
+                          - text: Media gallery
+                      - listitem [ref=e250]:
+                        - link [ref=e252] [cursor=pointer]:
+                          - /url: https://www.meta.com/brand/resources/
+                          - text: Brand resources
+                      - listitem [ref=e253]:
+                        - link [ref=e255] [cursor=pointer]:
+                          - /url: https://investor.atmeta.com/home/default.aspx
+                          - text: For investors
+                      - listitem [ref=e256]:
+                        - link [ref=e258] [cursor=pointer]:
+                          - /url: https://us.meta.talentnet.community/
+                          - text: Looking for contractor roles?
+            - generic [ref=e260]:
+              - generic [ref=e263]:
+                - link [ref=e265] [cursor=pointer]:
+                  - /url: https://transparency.meta.com/policies/community-standards
+                  - text: Community Standards
+                - link [ref=e267] [cursor=pointer]:
+                  - /url: /privacy
+                  - text: Data Policy
+                - link [ref=e269] [cursor=pointer]:
+                  - /url: https://www.facebook.com/terms.php
+                  - text: Terms
+                - link [ref=e271] [cursor=pointer]:
+                  - /url: /policy/cookies
+                  - text: Cookie Policy
+              - generic [ref=e273]:
+                - text: Equal Employment Opportunity
+                - paragraph [ref=e274]:
+                  - text: Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice
+                  - link [ref=e275] [cursor=pointer]:
+                    - /url: https://www.metacareers.com/profile/footer_link/redirect?page=equal_opportunity_policy
+                    - text: here
+                  - text: .
+                - paragraph [ref=e276]:
+                  - text: Meta is committed to providing reasonable support (called accommodations) in our recruiting processes for candidates with disabilities, long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support. If you need assistance or an accommodation due to a disability, fill out the
+                  - link [ref=e277] [cursor=pointer]:
+                    - /url: https://www.metacareers.com/accommodations_request
+                    - text: Accommodations request form
+                - text: Notice regarding automated employment decision tools in New York City
+                - paragraph [ref=e278]:
+                  - text: Learn more about this
+                  - link [ref=e279] [cursor=pointer]:
+                    - /url: /nyc-disclosure-notice
+                    - text: here
+                  - text: .
+                - paragraph [ref=e280]: ©2026 Meta.
+              - generic [ref=e281]:
+                - text: If you have any trouble, you can report an issue
+                - button [ref=e283] [cursor=pointer]:
+                  - generic [ref=e284]:
+                    - img [ref=e285]
+                    - text: Report a bug

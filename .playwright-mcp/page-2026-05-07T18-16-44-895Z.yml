@@ -1,0 +1,153 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - banner [ref=e6]:
+        - img "CyberArk logo" [ref=e8]
+      - main [ref=e9]:
+        - heading "Software Engineer" [level=1] [ref=e10]
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - generic [ref=e15]:
+              - generic [ref=e16]: Santa Clara, California, United States
+              - generic [ref=e17]:
+                - img [ref=e19]
+                - generic [ref=e21]: Employees work in a hybrid mode
+                - generic [ref=e22]: 3 days a week in Santa Clara Palo Alto Networks HQ office
+          - listitem [ref=e23]: Full-time
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - generic [ref=e26]:
+              - heading "Company Description" [level=2] [ref=e28]
+              - generic [ref=e29]:
+                - paragraph [ref=e30]:
+                  - strong [ref=e31]: About CyberArk
+                - paragraph [ref=e32]:
+                  - link "CyberArk" [ref=e33] [cursor=pointer]:
+                    - /url: https://www.cyberark.com/
+                  - text: ", a Palo Alto Networks company, is the global leader in identity security, trusted by organizations around the world to secure human and machine identities in the modern enterprise. CyberArk’s AI-powered Identity Security Platform applies intelligent privilege controls to every identity with continuous threat prevention, detection and response across the identity lifecycle. With Identity Security, organizations can reduce operational and security risks by enabling zero trust and least privilege with complete visibility, empowering all users and identities, including workforce, IT, developers and machines, to securely access any resource, located anywhere, from everywhere. Learn more at"
+                  - link "cyberark.com" [ref=e34] [cursor=pointer]:
+                    - /url: https://www.cyberark.com/
+                  - text: .
+                - paragraph [ref=e35]:
+                  - emphasis [ref=e36]: Copyright © 2026 CyberArk Software. All Rights Reserved. All other brand names, product names, or trademarks belong to their respective holders.
+            - generic [ref=e37]:
+              - heading "Job Description" [level=2] [ref=e39]
+              - generic [ref=e40]:
+                - paragraph [ref=e41]: CyberArk is seeking a Software Engineer to join the NGTS (Next Generation Trust Services) team, focused on building and scaling platform services that power machine identity and certificate lifecycle management.
+                - paragraph [ref=e42]: As organizations increasingly adopt AI-driven systems and autonomous services, secure machine identity and trusted service-to-service communication are becoming foundational to modern cloud infrastructure.
+                - paragraph [ref=e43]: This is an early-career role designed for engineers who want to grow in backend and platform development, working on distributed systems, APIs, and cloud-based services at scale. You’ll collaborate closely with experienced engineers to build reliable systems that operate across complex environments.
+                - paragraph [ref=e44]:
+                  - strong [ref=e45]: What You’ll Do
+                - list [ref=e46]:
+                  - listitem [ref=e47]: Build and enhance backend services that support machine identity and certificate lifecycle workflows
+                  - listitem [ref=e48]: Contribute to the development of APIs and service components used across the platform
+                  - listitem [ref=e49]: Work with senior engineers to design, implement, and test scalable distributed systems
+                  - listitem [ref=e50]: Debug and troubleshoot issues across services, APIs, and system components
+                  - listitem [ref=e51]: Write unit and integration tests to improve system reliability and quality
+                  - listitem [ref=e52]: Participate in code reviews and team design discussions
+                  - listitem [ref=e53]: Collaborate with engineers, product managers, and other teams to deliver features end-to-end
+                  - listitem [ref=e54]: Learn and apply best practices in performance, reliability, and system design
+                - list
+            - generic [ref=e55]:
+              - heading "Qualifications" [level=2] [ref=e57]
+              - generic [ref=e58]:
+                - paragraph [ref=e59]
+                - list [ref=e60]:
+                  - listitem [ref=e61]: Bachelor’s or Master’s degree in Computer Science, Engineering, or related field
+                  - listitem [ref=e62]: 0–3 years of experience (internships, co-ops, or full-time) in software development
+                  - listitem [ref=e63]: Experience with at least one backend language (Java, Python, Go, or similar)
+                  - listitem [ref=e64]: Basic understanding of APIs, REST services, or microservices concepts
+                  - listitem [ref=e65]: Familiarity with data structures, algorithms, and core computer science fundamentals
+                  - listitem [ref=e66]: Ability to debug issues and reason through system behavior
+                - paragraph [ref=e67]:
+                  - strong [ref=e68]: Nice to Have
+                - list [ref=e69]:
+                  - listitem [ref=e70]: Exposure to cloud platforms or distributed systems
+                  - listitem [ref=e71]: Experience building small projects, services, or APIs (school, internships, or personal work)
+                  - listitem [ref=e72]: Familiarity with databases (SQL or NoSQL)
+                  - listitem [ref=e73]: Interest in security, identity systems, or infrastructure
+                - paragraph [ref=e74]:
+                  - strong [ref=e75]: What You’ll Gain
+                - list [ref=e76]:
+                  - listitem [ref=e77]: Hands-on experience building platform services at scale
+                  - listitem [ref=e78]: Exposure to distributed systems and cloud infrastructure
+                  - listitem [ref=e79]: Mentorship from experienced engineers and technical leaders
+                  - listitem [ref=e80]: Growth path into backend or platform engineering roles
+                - paragraph [ref=e81]
+            - generic [ref=e82]:
+              - heading "Additional Information" [level=2] [ref=e84]
+              - generic [ref=e85]:
+                - paragraph [ref=e86]: CyberArk is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.
+                - paragraph [ref=e87]: The salary range for this position is $100,000/year - 150,000, plus discretionary annual bonus, and equity. Base pay may also vary considerably depending on job-related knowledge, skills, and experience. The compensation package includes a wide range of medical, dental, vision, financial, and other benefits.
+          - link "I'm interested" [ref=e89] [cursor=pointer]:
+            - /url: https://jobs.smartrecruiters.com/oneclick-ui/company/Cyberark1/publication/86dd0c0d-2381-41dd-a0bc-916739f49222?dcr_ci=Cyberark1&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73
+          - link "Privacy Notice" [ref=e91] [cursor=pointer]:
+            - /url: https://www.cyberark.com/candidate-privacy-notice/
+          - button "Cookies Settings" [ref=e93] [cursor=pointer]
+    - complementary [ref=e95]:
+      - generic [ref=e96]:
+        - link "I'm interested" [ref=e97] [cursor=pointer]:
+          - /url: https://jobs.smartrecruiters.com/oneclick-ui/company/Cyberark1/publication/86dd0c0d-2381-41dd-a0bc-916739f49222?dcr_ci=Cyberark1&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73
+        - link "Refer a friend" [ref=e98] [cursor=pointer]:
+          - /url: https://jobs.smartrecruiters.com/external-referrals/company/Cyberark1/publication/86dd0c0d-2381-41dd-a0bc-916739f49222?dcr_ci=Cyberark1
+      - generic [ref=e104]:
+        - paragraph [ref=e105]: Posted by
+        - heading "Heather Arnold" [level=3] [ref=e106]
+      - generic [ref=e107]:
+        - heading "share this job" [level=2] [ref=e108]
+        - list [ref=e109]:
+          - listitem [ref=e110]:
+            - link "Share on LinkedIn" [ref=e111] [cursor=pointer]:
+              - /url: https://www.linkedin.com/shareArticle?title=Software%20Engineer%20&mini=true&source=SmartRecruiters&summary=CyberArk%20is%20looking%20for%3A%20Software%20Engineer%20%20in%20Santa%20Clara%2C%20California%2C%20United%20States.%20https%3A%2F%2Fjobs.smartrecruiters.com%2FCyberark1%2F744000125034669-software-engineer-%3Ftrid%3D463ac537-35c8-4256-8fe4-47ea285de0a6&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FCyberark1%2F744000125034669-software-engineer-%3Ftrid%3D463ac537-35c8-4256-8fe4-47ea285de0a6
+              - img [ref=e113]
+          - listitem [ref=e115]:
+            - link "Share on Facebook" [ref=e116] [cursor=pointer]:
+              - /url: http://www.facebook.com/sharer/sharer.php?s=100&u=https%3A%2F%2Fjobs.smartrecruiters.com%2FCyberark1%2F744000125034669-software-engineer-%3Ftrid%3D162ef3c2-cdcc-47a9-8327-c69d95269302
+              - img [ref=e118]
+          - listitem [ref=e120]:
+            - link "Share on Twitter" [ref=e121] [cursor=pointer]:
+              - /url: https://twitter.com/share?text=CyberArk%20is%20looking%20for%3A%20Software%20Engineer%20.&via=SmartRecruiters&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FCyberark1%2F744000125034669-software-engineer-%3Ftrid%3D33221b55-7baa-4189-992e-a7fac0c08950
+              - img [ref=e123]
+          - listitem [ref=e125]:
+            - link "Share via email" [ref=e126] [cursor=pointer]:
+              - /url: mailto:?&subject=Software%20Engineer%20&body=CyberArk%20is%20looking%20for%3A%20Software%20Engineer%20%20in%20Santa%20Clara%2C%20California%2C%20United%20States.%20https%3A%2F%2Fjobs.smartrecruiters.com%2FCyberark1%2F744000125034669-software-engineer-
+              - img [ref=e128]
+          - listitem [ref=e130]:
+            - link "Share on Xing" [ref=e131] [cursor=pointer]:
+              - /url: https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fjobs.smartrecruiters.com%2FCyberark1%2F744000125034669-software-engineer-%3Ftrid%3Ddafac7a1-12ef-45e2-8ca9-f875193e392b
+              - img [ref=e133]
+          - listitem [ref=e135]:
+            - link "Share on WeChat" [ref=e136] [cursor=pointer]:
+              - /url: https://jobs.smartrecruiters.com/Cyberark1/744000125034669-software-engineer-?trid=7d1dcdfa-96a8-4e55-bb9c-0db211f5a9b3
+              - img [ref=e138]
+      - generic [ref=e140]:
+        - heading "Other jobs at CyberArk" [level=2] [ref=e141]
+        - list [ref=e142]:
+          - listitem [ref=e143]:
+            - link "Manager, Engineering" [ref=e144] [cursor=pointer]:
+              - /url: /Cyberark1/744000125122640-manager-engineering
+              - paragraph [ref=e145]: Manager, Engineering
+            - paragraph [ref=e146]: Sofia, Bulgaria
+          - listitem [ref=e147]:
+            - link "Staff Software Engineer - Ruby, Python, Java" [ref=e148] [cursor=pointer]:
+              - /url: /Cyberark1/744000125066540-staff-software-engineer-ruby-python-java-
+              - paragraph [ref=e149]: Staff Software Engineer - Ruby, Python, Java
+            - paragraph [ref=e150]: Sofia, Bulgaria
+          - listitem [ref=e151]:
+            - link "Senior Software Engineer – Secure Agentic AI" [ref=e152] [cursor=pointer]:
+              - /url: /Cyberark1/744000125058672-senior-software-engineer-secure-agentic-ai
+              - paragraph [ref=e153]: Senior Software Engineer – Secure Agentic AI
+            - paragraph [ref=e154]: Petah Tikva, Israel
+          - listitem [ref=e155]:
+            - link "Show all jobs" [ref=e156] [cursor=pointer]:
+              - /url: https://careers.smartrecruiters.com/Cyberark1
+  - generic [ref=e159]:
+    - generic [ref=e160]:
+      - paragraph [ref=e161]: Software Engineer
+      - list [ref=e162]:
+        - listitem [ref=e163]: Santa Clara, California, United States
+        - listitem [ref=e164]: Full-time
+    - complementary [ref=e165]:
+      - link [ref=e166] [cursor=pointer]:
+        - /url: https://jobs.smartrecruiters.com/oneclick-ui/company/Cyberark1/publication/86dd0c0d-2381-41dd-a0bc-916739f49222?dcr_ci=Cyberark1&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73
+        - text: I'm interested

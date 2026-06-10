@@ -1,0 +1,76 @@
+- generic [active] [ref=e1]:
+  - link "Belvedere Trading logo" [ref=e4] [cursor=pointer]:
+    - /url: https://jobs.lever.co/belvederetrading
+    - img "Belvedere Trading logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "Software Engineer - Entry Level 2026" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: Chicago, Illinois / Boulder, Colorado
+          - generic [ref=e14]: Technology – Campus /
+          - generic [ref=e15]: Full-Time /
+          - generic [ref=e16]: Hybrid
+      - link "apply for this job" [ref=e18] [cursor=pointer]:
+        - /url: https://jobs.lever.co/belvederetrading/f81a8965-5537-4a4b-aec6-c02dfa51815e/apply
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e21]: Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions.
+        - generic [ref=e23]: High-performance proprietary development is the source of our success and competitive advantage at Belvedere, further fueling our passion for performance. We are a team driven by intellectual curiosity, seeking answers that will change not only how we trade in this technological age, but also the future landscape of the trading industry. We place a high premium on defining, developing, and deploying high-performance trading software using a team-based, holistic development approach. We look for passionate team members that excel and their contribution is critical to our continued success.
+        - generic [ref=e25]: At Belvedere Trading, our pragmatic Software Engineers develop our low latency, high-performance, proprietary trading systems. They participate in all aspects of our software development lifecycle, from design to testing to deployment, and have both a love of technology and a demonstrated interest in the financial markets. We’re looking for graduating seniors who fit this bill.
+        - generic [ref=e27]: Don’t know a lot about finance or trading? No sweat. Belvedere Trading University (BTU) program will teach you everything you need to know once you join the team.
+      - generic [ref=e29]:
+        - heading "What our Software Engineers do" [level=3] [ref=e30]
+        - list [ref=e33]:
+          - listitem [ref=e34]: Strong development – enhance the proprietary trading software platform that our traders use every day and deliver software solutions to drive business needs
+          - listitem [ref=e35]: Design, implement, and debug complex low latency trading applications
+          - listitem [ref=e36]: Efficient programming – Balance optimization and readability to create efficient and extendable applications
+          - listitem [ref=e37]: Partner with team members to ensure that our software meets requirements and follows Belvedere's coding standards, which ensures that it fits into our architecture and has proper automated testing
+          - listitem [ref=e38]: Communicate with project managers and team leadership to develop work strategies
+          - listitem [ref=e39]: Collaborate – Work in a collaborative team environment which encourages constant learning and innovation from all levels of the company to build the future of technology and finance
+          - listitem [ref=e40]: BTU – Participate in our in-house learning and development curriculum via peer-led lectures to obtain knowledge about the fundamentals of trading and our proprietary trading systems
+      - generic [ref=e42]:
+        - heading "Key Qualities in Great Candidates" [level=3] [ref=e43]
+        - list [ref=e46]:
+          - listitem [ref=e47]: High performer – Experience with all phases of the Software Development Lifecycle, preferably with an object-oriented programming language such as C++, C#, or Java
+          - listitem [ref=e48]: Problem solver – Understanding when to use the right tool for the job
+          - listitem [ref=e49]: Innovative – Ability to optimize and design low latency software
+          - listitem [ref=e50]: Ownership – Thrive in a collaborative, entrepreneurial environment
+          - listitem [ref=e51]: Intellectual curiosity and passion – Desire to continuously learn in a team environment and solve challenging problems
+          - listitem [ref=e52]: Strong Communication – Effectively communicate project updates to teammates and product managers
+          - listitem [ref=e53]: Ability to live in or relocate to Chicago. Applicants for this position will be considered for the Chicago location only
+          - listitem [ref=e54]: Graduation date of December 2025 or May/June 2026 (start date of fall 2026)
+          - listitem [ref=e55]: "Extra credit: Experience with hardware optimization and/or the financial industry!"
+      - generic [ref=e56]:
+        - generic [ref=e57]: $140,000 - $140,000 a year
+        - emphasis [ref=e60]:
+          - text: Additionally, certain positions at Belvedere Trading are eligible for discretionary bonuses. Our employees have access to a variety of benefits, which can be found on our website
+          - link "here" [ref=e61] [cursor=pointer]:
+            - /url: https://www.belvederetrading.com/working-at-belvedere#work-benefits
+          - text: .
+      - generic [ref=e62]:
+        - generic [ref=e63]: Women and underrepresented groups frequently apply to jobs only if they meet 100% of the qualifications.
+        - generic [ref=e64]: We encourage you to break that mold and apply. No candidate is perfect; all have a lot to offer.
+        - generic [ref=e65]: We welcome your application.
+        - generic [ref=e67]: Core Values
+        - generic [ref=e68]: "The secret to our award-winning culture is our Core Values: Team Belvedere, Me In Team, Own It, Build Rockets, and Passionate Discourse. We live and breathe these values every day."
+        - generic [ref=e70]: Compliance
+        - generic [ref=e71]: For our trading positions and certain engineering roles, the SIE and Series 57 licenses are required; Belvedere Trading will provide comprehensive study materials and allocate dedicated time during the onboarding process to ensure your success in obtaining these certifications.
+        - generic [ref=e73]: Our Stance
+        - generic [ref=e74]: Belvedere is an Equal Opportunity Employer and is committed to providing a non-discriminatory employment environment for its employees. Discrimination against employees and applicants due to race, color, religion, sex, national origin, disability, age, military, and veteran status is prohibited. Belvedere encourages initiatives to increase diversity and provide equal opportunity to all applicants and employees. Belvedere is committed to providing a positive environment in which team members are treated with respect, dignity, and courtesy. Our firm believes in a dynamic culture of inclusion and diversity, where people thrive on individual and organizational characteristics, values, experiences, and backgrounds.
+        - generic [ref=e76]: Please note that Belvedere Trading does not accept unsolicited resumes from search firms or employment agencies. Any unsolicited resumes will become the property of Team Belvedere. No phone calls, please.
+        - generic [ref=e78]: Any questions regarding the virtual recruiting process, please reach out to recruiting@belvederetrading.com.
+        - generic [ref=e80]: "Work Schedule: Regular and reliable attendance during standard business hours with the ability to be on-site prior to the start of business on occasion"
+        - generic [ref=e81]: "Amount of Travel Required: None"
+        - generic [ref=e82]: "Sponsorship: Yes"
+      - generic [ref=e85]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e87] [cursor=pointer]:
+        - /url: https://jobs.lever.co/belvederetrading/f81a8965-5537-4a4b-aec6-c02dfa51815e/apply
+  - generic [ref=e89]:
+    - paragraph [ref=e90]:
+      - link "Belvedere Trading Home Page" [ref=e91] [cursor=pointer]:
+        - /url: http://www.belvederetrading.com/
+    - link "Jobs powered by Lever logo" [ref=e92] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e93]: Jobs powered by
+      - img "Lever logo" [ref=e94]

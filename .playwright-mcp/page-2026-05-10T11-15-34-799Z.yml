@@ -1,0 +1,118 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Nectar" [ref=e6] [cursor=pointer]:
+        - /url: https://www.nectarsocial.com/
+        - img "Nectar" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Nectar’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /nectar-social?utm_source=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer, Early Career" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: Palo Alto
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $140K – $160K • Offers Equity • Offers Bonus
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [selected] [ref=e36] [cursor=pointer]
+          - tab "Application" [ref=e37] [cursor=pointer]
+        - tabpanel "Overview" [ref=e39]:
+          - generic [ref=e40]:
+            - heading "About Us" [level=2] [ref=e41]:
+              - strong [ref=e42]: About Us
+            - paragraph [ref=e43]: We're living through a fundamental shift in how people discover, evaluate, and purchase products. The next generation doesn't respond to traditional marketing -- they build relationships with brands through authentic social interactions, seek recommendations from communities they trust, and expect personalized experiences that feel human, not corporate.
+            - paragraph [ref=e44]: At Nectar Social, we're building the AI-native social operating system that enables this new era of commerce. We believe every social interaction should deepen the relationship between brands and their communities while creating genuine value for both sides.
+            - paragraph [ref=e45]: Founded by ex-Meta product and engineering leaders, we've raised over $30M in total capital from investors including GV and True Ventures. We work with brands like Oura Health, Caraway, e.l.f. Cosmetics, Kosas, OLIPOP, and many more. We're building the future of social commerce -- where community, conversation, and commerce converge.
+            - heading "The Role" [level=2] [ref=e46]:
+              - strong [ref=e47]: The Role
+            - paragraph [ref=e48]: We're looking for an early-career Software Engineer to help build the next generation of AI-powered social commerce tools. In this role, you'll contribute to real systems used by major consumer brands while gaining mentorship and experience in a fast-moving startup environment.
+            - paragraph [ref=e49]: You'll work across product features, AI integrations, and platform infrastructure while learning best practices in software engineering, cloud systems, and AI-driven product development.
+            - heading "What You'll Be Doing" [level=2] [ref=e50]:
+              - strong [ref=e51]: What You'll Be Doing
+            - list [ref=e52]:
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: Build and ship product features across Nectar's platform, contributing to development, testing, and deployment
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]: Work across our technology stack to build scalable systems and user-facing functionality
+              - listitem [ref=e57]:
+                - paragraph [ref=e58]: Collaborate closely with product, design, and engineering teams to deliver impactful solutions
+              - listitem [ref=e59]:
+                - paragraph [ref=e60]: Support AI-powered features including automation workflows, social data processing, and campaign insights
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: Learn and apply best practices for software development, cloud infrastructure, and modern AI tooling
+            - heading "What We're Looking For" [level=2] [ref=e63]:
+              - strong [ref=e64]: What We're Looking For
+            - list [ref=e65]:
+              - listitem [ref=e66]:
+                - paragraph [ref=e67]: Recent or upcoming graduate with a degree in Computer Science, Software Engineering, or a related field
+              - listitem [ref=e68]:
+                - paragraph [ref=e69]: Hands-on experience through internships, personal projects, coursework, or previous work experience
+              - listitem [ref=e70]:
+                - paragraph [ref=e71]: Familiarity with modern programming languages and frameworks used in web development
+              - listitem [ref=e72]:
+                - paragraph [ref=e73]: Curiosity about AI tools such as ChatGPT, Claude, or similar LLM technologies
+              - listitem [ref=e74]:
+                - paragraph [ref=e75]: Strong problem-solving skills and eagerness to learn in a fast-moving startup environment
+              - listitem [ref=e76]:
+                - paragraph [ref=e77]: Comfortable working in a hybrid environment with at least 3 days per week in the Palo Alto office
+            - heading "Bonus Points" [level=2] [ref=e78]:
+              - strong [ref=e79]: Bonus Points
+            - list [ref=e80]:
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: Experience building full-stack applications using modern frameworks
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: Experience working with APIs, cloud infrastructure, or real-time data systems
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: Hands-on experimentation with LLMs or AI-powered workflows
+              - listitem [ref=e87]:
+                - paragraph [ref=e88]: Previous internship or startup experience
+            - heading "What We Offer" [level=2] [ref=e89]:
+              - strong [ref=e90]: What We Offer
+            - list [ref=e91]:
+              - listitem [ref=e92]:
+                - paragraph [ref=e93]: Competitive compensation and early equity
+              - listitem [ref=e94]:
+                - paragraph [ref=e95]: Health, vision, and dental benefits + 401(k) match
+              - listitem [ref=e96]:
+                - paragraph [ref=e97]: Clear career growth opportunities as the company scales
+              - listitem [ref=e98]:
+                - paragraph [ref=e99]: Free lunch in the heart of University Ave. in Palo Alto
+              - listitem [ref=e100]:
+                - paragraph [ref=e101]: Deep exposure to cutting-edge AI tooling and the opportunity to shape how brands use it
+              - listitem [ref=e102]:
+                - paragraph [ref=e103]: A collaborative, ambitious team defining a new category of AI-native marketing infrastructure
+            - paragraph [ref=e104]
+            - paragraph [ref=e105]
+          - link "Apply for this Job" [ref=e106] [cursor=pointer]:
+            - /url: /nectar-social/606df770-4167-4066-bbfd-d7464b28d9b2/application?utm_source=Simplify
+            - button "Apply for this Job" [ref=e107]
+  - contentinfo [ref=e108]:
+    - link "Learn more about Ashby" [ref=e109] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e110]: Powered by
+      - img "Ashby" [ref=e111]
+    - paragraph [ref=e117]:
+      - link "Privacy Policy" [ref=e118] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e119] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e120] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

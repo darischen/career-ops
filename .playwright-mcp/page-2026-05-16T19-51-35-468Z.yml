@@ -1,0 +1,89 @@
+- generic [active] [ref=e1]:
+  - link "Worldscape Technology Inc. logo" [ref=e4] [cursor=pointer]:
+    - /url: https://jobs.lever.co/worldscape-technology
+    - img "Worldscape Technology Inc. logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "Software Engineer - Full Stack/Backend" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: Redmond, Washington
+          - generic [ref=e14]: Engineering /
+          - generic [ref=e15]: Full-Time /
+          - generic [ref=e16]: On-site
+      - link "apply for this job" [ref=e18] [cursor=pointer]:
+        - /url: https://jobs.lever.co/worldscape-technology/a50f83c7-63d7-4df9-b5da-a6944d933e58/apply
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e21]: Worldscape is a cutting-edge platform designed to unify distributed data, sensors, and intelligent agents across cloud, on-prem, and edge environments. By combining geospatial intelligence, physics-based 3D simulation, and reward-driven AI, Worldscape enables organizations to build immersive digital twins for predictive modeling, scenario planning, and adaptive decision-making. With a zero-trust security framework, seamless integration with legacy systems, and robust developer tools, Worldscape empowers rapid deployment of agentic applications that drive resilience and efficiency in sectors like logistics, telecom, defense, and infrastructure.
+        - generic [ref=e23]: Worldscape is seeking a skilled Full Stack Software Engineer to join our innovative team. We are pioneering next-generation AI decision-making and agentic integration across our AI fabric. This role focuses on designing and implementing the next generation of platform to power end-to-end agentic solutions - from ingesting and transforming data sources, to deploying intelligent agents within our evolving platform.
+        - generic [ref=e25]: As an Full Stack Engineer, you will work on complex data integration challenges, distributed real-time systems, portal, and leverage advanced models to deliver a scalable, extensible, and reliable platform to author/host and monitor agentic workloads. You will collaborate closely with product management, studio teams, and the rest of the engineering teams to ensure the best integration and predictable delivery to our customers.
+        - generic [ref=e27]: This is an onsite role that will be located in Redmond, WA.
+      - generic [ref=e29]:
+        - heading "Responsibilities:" [level=3] [ref=e30]
+        - list [ref=e33]:
+          - listitem [ref=e34]: Design and implement backend services and APIs to power scalable, secure, and efficient agentic solutions.
+          - listitem [ref=e35]: Develop and optimize data pipelines for ingestion, transformation, and real-time processing of large datasets.
+          - listitem [ref=e36]: Development distributed systems leveraging cloud platforms (Azure, AWS, or GCP) and containerization (Docker/Kubernetes) for high availability and fault tolerance.
+          - listitem [ref=e37]:
+            - text: Integrate backend logic with front-end frameworks (React,
+            - link "Next.js" [ref=e38] [cursor=pointer]:
+              - /url: http://Next.js
+            - text: ", Typescript) to deliver seamless user experiences."
+          - listitem [ref=e39]: Implement security best practices across authentication, authorization, and data protection layers.
+          - listitem [ref=e40]: Collaborate with cross-functional teams including product management, design, and QA to align technical solutions with business goals.
+          - listitem [ref=e41]: Conduct code reviews and enforce standards for performance, reliability, and security.
+          - listitem [ref=e42]: Continuously research and integrate emerging technologies such as LLM orchestration, multi-agent systems, and knowledge graphs.
+          - listitem [ref=e43]: Document architecture and technical decisions for transparency, scalability, and maintainability.
+      - generic [ref=e45]:
+        - heading "Professional Qualifications:" [level=3] [ref=e46]
+        - list [ref=e49]:
+          - listitem [ref=e50]: Bachelor’s degree in computer science, AI/ML, Data Engineering, or related field.
+          - listitem [ref=e51]: Strong proficiency in coding languages (e.g., C#, Java, Python, or C++).
+          - listitem [ref=e52]: Passion for solving customer problems.
+          - listitem [ref=e53]: Hands-on experience with data pipelines, cloud platforms (Azure, AWS, or GCP), and containerization (Docker/Kubernetes).
+          - listitem [ref=e54]: Proven ability to work in agile environments, managing ambiguity and delivering impactful outcomes.
+      - generic [ref=e56]:
+        - heading "Preferred Qualifications:" [level=3] [ref=e57]
+        - list [ref=e60]:
+          - listitem [ref=e61]: Experience in building AI-driven applications or distributed systems.
+          - listitem [ref=e62]:
+            - text: Hands-on experience developing full-stack solutions (React,
+            - link "Next.js" [ref=e63] [cursor=pointer]:
+              - /url: http://Next.js
+            - text: ", Typescript,"
+            - link "Node.js" [ref=e64] [cursor=pointer]:
+              - /url: http://Node.js
+            - text: )
+          - listitem [ref=e65]: Experience with nsjail, Firecracker and MS Orleans preferred.
+          - listitem [ref=e66]: Experience with vector databases, semantic search, and prompt engineering.
+          - listitem [ref=e67]: Knowledge of reinforcement learning, planning algorithms, or multi-agent coordination.
+          - listitem [ref=e68]: Familiarity with LLM frameworks, agent orchestration, and knowledge representation techniques.
+      - generic [ref=e69]:
+        - generic [ref=e70]: $100,000 - $130,000 a year
+        - generic [ref=e72]: Final compensation will be determined based on factors such as experience, skills, and qualifications. In addition to base salary, this role may be eligible for performance-based bonuses and equity awards.
+      - generic [ref=e73]:
+        - generic [ref=e74]: Why Worldscape?
+        - generic [ref=e75]: There is nothing more important to Worldscape than our culture. It is the fundamental means by which we will succeed as an organization. Talent, ability, drive, experience, knowledge cannot be maximized without first embracing the culture we espouse and will live every single day. Worldscape offers great benefits, opportunities for continued growth, and the ability to directly affect change in our organization and be part of a high-growth startup at a pivotal stage.
+        - generic [ref=e77]: "What we offer:"
+        - generic [ref=e78]: "- Competitive salary and meaningful equity"
+        - generic [ref=e79]: "- Attractive benefits package"
+        - generic [ref=e80]: "- Flexible time off policy"
+        - generic [ref=e81]: "- Medical, Dental and Vision insurance"
+        - generic [ref=e82]: "- HSA health insurance options"
+        - generic [ref=e83]: "- 401k plan"
+        - generic [ref=e84]: "- Basic and Voluntary Life Insurance"
+        - generic [ref=e85]: "- Fast paced environment with flexibility and ownership"
+        - generic [ref=e87]: Worldscape is committed to creating a diverse and inclusive workplace and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, color, gender identity or expression, marital status, national origin, disability, protected veteran status, race, religion, pregnancy, sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.
+        - generic [ref=e89]: Employment is contingent upon successful completion of a background check.
+      - generic [ref=e91]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e93] [cursor=pointer]:
+        - /url: https://jobs.lever.co/worldscape-technology/a50f83c7-63d7-4df9-b5da-a6944d933e58/apply
+  - generic [ref=e95]:
+    - paragraph [ref=e96]:
+      - link "Worldscape Technology Inc. Home Page" [ref=e97] [cursor=pointer]:
+        - /url: https://worldscape.ai/
+    - link "Jobs powered by Lever logo" [ref=e98] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e99]: Jobs powered by
+      - img "Lever logo" [ref=e100]

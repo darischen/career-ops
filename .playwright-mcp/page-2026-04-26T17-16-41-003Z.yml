@@ -1,0 +1,467 @@
+- generic [active] [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - link "Freeform Logo" [ref=e7] [cursor=pointer]:
+        - /url: https://boards.greenhouse.io/freeformfuturecorp
+        - img "Freeform Logo" [ref=e8]
+      - heading "Current openings at Freeform" [level=1] [ref=e9]
+      - generic [ref=e13]:
+        - paragraph
+        - paragraph [ref=e14]: Freeform builds AI-native manufacturing systems that unify software, hardware, and physics to produce industrial-scale parts at the speed of human ideation. By treating manufacturing as a single integrated system, we unlock a new era of innovation where complex hardware is designed, built, and scaled without limits.
+        - paragraph [ref=e15]
+        - paragraph [ref=e16]: "We are a team of first-principles thinkers driven by a shared mission: to build the fundamental technology that moves the world forward. We believe that solving the foundational challenges of production requires a massive diversity of expertise, deep collaboration, low ego, and a healthy sense of humor. Whether you are an engineer, a builder of systems, or a creative problem-solver in any field, we invite you to help us align the physical world with the pace of human imagination."
+        - paragraph [ref=e17]
+        - paragraph [ref=e18]: Even if you don’t see a role that perfectly matches your background today, we are always looking for exceptional people to join us on the road ahead. Reach out at careers@freeform.co and let’s see where you fit into the future we’re building.
+      - generic [ref=e19]:
+        - img [ref=e20]
+        - generic [ref=e22]:
+          - paragraph [ref=e23]: Create a Job Alert
+          - paragraph [ref=e24]: Level-up your career by having opportunities at Freeform sent directly to your inbox.
+          - button "Create alert" [ref=e25] [cursor=pointer]
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Search
+            - textbox "Search" [ref=e31]
+          - generic [ref=e33]:
+            - generic [ref=e34]: Department
+            - generic [ref=e35]:
+              - log [ref=e37]
+              - generic [ref=e39]:
+                - generic [ref=e40]:
+                  - generic [ref=e41]: Select...
+                  - combobox "Department" [ref=e43]
+                - button "Toggle flyout" [ref=e45] [cursor=pointer]:
+                  - img [ref=e46]
+        - generic [ref=e48]:
+          - heading "47 jobs" [level=2] [ref=e49]
+          - generic [ref=e50]:
+            - generic [ref=e51]:
+              - heading "Across the Company" [level=3] [ref=e52]
+              - table [ref=e54]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e55]:
+                      - paragraph [ref=e56]: Job
+                - rowgroup [ref=e57]:
+                  - row "Technical Leadership Opportunities Los Angeles, CA" [ref=e58]:
+                    - cell "Technical Leadership Opportunities Los Angeles, CA" [ref=e59]:
+                      - link "Technical Leadership Opportunities Los Angeles, CA" [ref=e60] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7524709003
+                        - paragraph [ref=e61]: Technical Leadership Opportunities
+                        - paragraph [ref=e62]: Los Angeles, CA
+            - generic [ref=e63]:
+              - heading "Commercial" [level=3] [ref=e64]
+              - table [ref=e66]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e67]:
+                      - paragraph [ref=e68]: Job
+                - rowgroup [ref=e69]:
+                  - row "Lead Applications Engineer (Aerospace & Defense) Los Angeles, CA (On-site)" [ref=e70]:
+                    - cell "Lead Applications Engineer (Aerospace & Defense) Los Angeles, CA (On-site)" [ref=e71]:
+                      - link "Lead Applications Engineer (Aerospace & Defense) Los Angeles, CA (On-site)" [ref=e72] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688773003
+                        - paragraph [ref=e73]: Lead Applications Engineer (Aerospace & Defense)
+                        - paragraph [ref=e74]: Los Angeles, CA (On-site)
+                  - row "Lead Applications Engineer (Automotive) Los Angeles, CA (On-site)" [ref=e75]:
+                    - cell "Lead Applications Engineer (Automotive) Los Angeles, CA (On-site)" [ref=e76]:
+                      - link "Lead Applications Engineer (Automotive) Los Angeles, CA (On-site)" [ref=e77] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688774003
+                        - paragraph [ref=e78]: Lead Applications Engineer (Automotive)
+                        - paragraph [ref=e79]: Los Angeles, CA (On-site)
+                  - row "Lead Applications Engineer (Robotics) Los Angeles, CA (On-site)" [ref=e80]:
+                    - cell "Lead Applications Engineer (Robotics) Los Angeles, CA (On-site)" [ref=e81]:
+                      - link "Lead Applications Engineer (Robotics) Los Angeles, CA (On-site)" [ref=e82] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688779003
+                        - paragraph [ref=e83]: Lead Applications Engineer (Robotics)
+                        - paragraph [ref=e84]: Los Angeles, CA (On-site)
+                  - row "Lead Applications Engineer (Semiconductor Machinery) Los Angeles, CA (On-site)" [ref=e85]:
+                    - cell "Lead Applications Engineer (Semiconductor Machinery) Los Angeles, CA (On-site)" [ref=e86]:
+                      - link "Lead Applications Engineer (Semiconductor Machinery) Los Angeles, CA (On-site)" [ref=e87] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688780003
+                        - paragraph [ref=e88]: Lead Applications Engineer (Semiconductor Machinery)
+                        - paragraph [ref=e89]: Los Angeles, CA (On-site)
+            - generic [ref=e90]:
+              - heading "Early Career" [level=3] [ref=e91]
+              - table [ref=e93]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e94]:
+                      - paragraph [ref=e95]: Job
+                - rowgroup [ref=e96]:
+                  - row "Electrical Engineer (New Grad Summer 2026) Los Angeles, CA (On-site)" [ref=e97]:
+                    - cell "Electrical Engineer (New Grad Summer 2026) Los Angeles, CA (On-site)" [ref=e98]:
+                      - link "Electrical Engineer (New Grad Summer 2026) Los Angeles, CA (On-site)" [ref=e99] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7631560003
+                        - paragraph [ref=e100]: Electrical Engineer (New Grad Summer 2026)
+                        - paragraph [ref=e101]: Los Angeles, CA (On-site)
+                  - row "Process Engineering Internship/Co-Op (Summer/Fall 2026) Los Angeles, CA (On-site)" [ref=e102]:
+                    - cell "Process Engineering Internship/Co-Op (Summer/Fall 2026) Los Angeles, CA (On-site)" [ref=e103]:
+                      - link "Process Engineering Internship/Co-Op (Summer/Fall 2026) Los Angeles, CA (On-site)" [ref=e104] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7605514003
+                        - paragraph [ref=e105]: Process Engineering Internship/Co-Op (Summer/Fall 2026)
+                        - paragraph [ref=e106]: Los Angeles, CA (On-site)
+            - generic [ref=e107]:
+              - heading "Electrical Engineering" [level=3] [ref=e108]
+              - table [ref=e110]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e111]:
+                      - paragraph [ref=e112]: Job
+                - rowgroup [ref=e113]:
+                  - row "Electrical Engineer (Hardware Design) Los Angeles, CA (On-site)" [ref=e114]:
+                    - cell "Electrical Engineer (Hardware Design) Los Angeles, CA (On-site)" [ref=e115]:
+                      - link "Electrical Engineer (Hardware Design) Los Angeles, CA (On-site)" [ref=e116] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688763003
+                        - paragraph [ref=e117]: Electrical Engineer (Hardware Design)
+                        - paragraph [ref=e118]: Los Angeles, CA (On-site)
+                  - row "Head of Electrical (Hardware Design) Los Angeles, CA (On-site)" [ref=e119]:
+                    - cell "Head of Electrical (Hardware Design) Los Angeles, CA (On-site)" [ref=e120]:
+                      - link "Head of Electrical (Hardware Design) Los Angeles, CA (On-site)" [ref=e121] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688767003
+                        - paragraph [ref=e122]: Head of Electrical (Hardware Design)
+                        - paragraph [ref=e123]: Los Angeles, CA (On-site)
+                  - row "Lead/Staff Electrical Engineer (Hardware Design) Los Angeles, CA (On-site)" [ref=e124]:
+                    - cell "Lead/Staff Electrical Engineer (Hardware Design) Los Angeles, CA (On-site)" [ref=e125]:
+                      - link "Lead/Staff Electrical Engineer (Hardware Design) Los Angeles, CA (On-site)" [ref=e126] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688302003
+                        - paragraph [ref=e127]: Lead/Staff Electrical Engineer (Hardware Design)
+                        - paragraph [ref=e128]: Los Angeles, CA (On-site)
+                  - row "Senior Electrical Engineer (Hardware Design) Los Angeles, CA (On-site)" [ref=e129]:
+                    - cell "Senior Electrical Engineer (Hardware Design) Los Angeles, CA (On-site)" [ref=e130]:
+                      - link "Senior Electrical Engineer (Hardware Design) Los Angeles, CA (On-site)" [ref=e131] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688769003
+                        - paragraph [ref=e132]: Senior Electrical Engineer (Hardware Design)
+                        - paragraph [ref=e133]: Los Angeles, CA (On-site)
+            - generic [ref=e134]:
+              - heading "Finance & Accounting" [level=3] [ref=e135]
+              - table [ref=e137]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e138]:
+                      - paragraph [ref=e139]: Job
+                - rowgroup [ref=e140]:
+                  - row "Controller Hawthorne, CA" [ref=e141]:
+                    - cell "Controller Hawthorne, CA" [ref=e142]:
+                      - link "Controller Hawthorne, CA" [ref=e143] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7701335003
+                        - paragraph [ref=e144]: Controller
+                        - paragraph [ref=e145]: Hawthorne, CA
+                  - row "Finance and Operations Coordinator Los Angeles, CA" [ref=e146]:
+                    - cell "Finance and Operations Coordinator Los Angeles, CA" [ref=e147]:
+                      - link "Finance and Operations Coordinator Los Angeles, CA" [ref=e148] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7701310003
+                        - paragraph [ref=e149]: Finance and Operations Coordinator
+                        - paragraph [ref=e150]: Los Angeles, CA
+            - generic [ref=e151]:
+              - heading "HR & Recruiting" [level=3] [ref=e152]
+              - table [ref=e154]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e155]:
+                      - paragraph [ref=e156]: Job
+                - rowgroup [ref=e157]:
+                  - row "Senior People Operations Business Partner Hawthorne, CA" [ref=e158]:
+                    - cell "Senior People Operations Business Partner Hawthorne, CA" [ref=e159]:
+                      - link "Senior People Operations Business Partner Hawthorne, CA" [ref=e160] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7701336003
+                        - paragraph [ref=e161]: Senior People Operations Business Partner
+                        - paragraph [ref=e162]: Hawthorne, CA
+                  - row "Senior Technical Recruiter Los Angeles, CA" [ref=e163]:
+                    - cell "Senior Technical Recruiter Los Angeles, CA" [ref=e164]:
+                      - link "Senior Technical Recruiter Los Angeles, CA" [ref=e165] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7701343003
+                        - paragraph [ref=e166]: Senior Technical Recruiter
+                        - paragraph [ref=e167]: Los Angeles, CA
+            - generic [ref=e168]:
+              - heading "Information Technology" [level=3] [ref=e169]
+              - table [ref=e171]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e172]:
+                      - paragraph [ref=e173]: Job
+                - rowgroup [ref=e174]:
+                  - row "Edge Compute and Data Center Architect Los Angeles, CA (On-site)" [ref=e175]:
+                    - cell "Edge Compute and Data Center Architect Los Angeles, CA (On-site)" [ref=e176]:
+                      - link "Edge Compute and Data Center Architect Los Angeles, CA (On-site)" [ref=e177] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7701333003
+                        - paragraph [ref=e178]: Edge Compute and Data Center Architect
+                        - paragraph [ref=e179]: Los Angeles, CA (On-site)
+            - generic [ref=e180]:
+              - heading "Inspection" [level=3] [ref=e181]
+              - table [ref=e183]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e184]:
+                      - paragraph [ref=e185]: Job
+                - rowgroup [ref=e186]:
+                  - row "Precision Inspector (CMM) - Swing Shift Los Angeles, CA" [ref=e187]:
+                    - cell "Precision Inspector (CMM) - Swing Shift Los Angeles, CA" [ref=e188]:
+                      - link "Precision Inspector (CMM) - Swing Shift Los Angeles, CA" [ref=e189] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688781003
+                        - paragraph [ref=e190]: Precision Inspector (CMM) - Swing Shift
+                        - paragraph [ref=e191]: Los Angeles, CA
+            - generic [ref=e192]:
+              - heading "Machine Learning & AI" [level=3] [ref=e193]
+              - table [ref=e195]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e196]:
+                      - paragraph [ref=e197]: Job
+                - rowgroup [ref=e198]:
+                  - row "Principal Machine Learning Researcher (Physical AI) Los Angeles, CA (On-site)" [ref=e199]:
+                    - cell "Principal Machine Learning Researcher (Physical AI) Los Angeles, CA (On-site)" [ref=e200]:
+                      - link "Principal Machine Learning Researcher (Physical AI) Los Angeles, CA (On-site)" [ref=e201] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692962003
+                        - paragraph [ref=e202]: Principal Machine Learning Researcher (Physical AI)
+                        - paragraph [ref=e203]: Los Angeles, CA (On-site)
+                  - row "Principal Simulation Engineer New Los Angeles, CA (On-site)" [ref=e204]:
+                    - cell "Principal Simulation Engineer New Los Angeles, CA (On-site)" [ref=e205]:
+                      - link "Principal Simulation Engineer New Los Angeles, CA (On-site)" [ref=e206] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7712630003
+                        - paragraph [ref=e207]:
+                          - text: Principal Simulation Engineer
+                          - generic [ref=e209]: New
+                        - paragraph [ref=e210]: Los Angeles, CA (On-site)
+                  - row "Senior Simulation Engineer Los Angeles, CA (On-site)" [ref=e211]:
+                    - cell "Senior Simulation Engineer Los Angeles, CA (On-site)" [ref=e212]:
+                      - link "Senior Simulation Engineer Los Angeles, CA (On-site)" [ref=e213] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692965003
+                        - paragraph [ref=e214]: Senior Simulation Engineer
+                        - paragraph [ref=e215]: Los Angeles, CA (On-site)
+                  - row "Simulation Engineer New Los Angeles, CA (On-site)" [ref=e216]:
+                    - cell "Simulation Engineer New Los Angeles, CA (On-site)" [ref=e217]:
+                      - link "Simulation Engineer New Los Angeles, CA (On-site)" [ref=e218] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7712629003
+                        - paragraph [ref=e219]:
+                          - text: Simulation Engineer
+                          - generic [ref=e221]: New
+                        - paragraph [ref=e222]: Los Angeles, CA (On-site)
+            - generic [ref=e223]:
+              - heading "Machining & Fabrication" [level=3] [ref=e224]
+              - table [ref=e226]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e227]:
+                      - paragraph [ref=e228]: Job
+                - rowgroup [ref=e229]:
+                  - row "Additive Manufacturing Technician (Post Processing Operations) Los Angeles, CA (On-site)" [ref=e230]:
+                    - cell "Additive Manufacturing Technician (Post Processing Operations) Los Angeles, CA (On-site)" [ref=e231]:
+                      - link "Additive Manufacturing Technician (Post Processing Operations) Los Angeles, CA (On-site)" [ref=e232] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7666738003
+                        - paragraph [ref=e233]: Additive Manufacturing Technician (Post Processing Operations)
+                        - paragraph [ref=e234]: Los Angeles, CA (On-site)
+                  - row "Associate CNC Operator Los Angeles, CA (On-site)" [ref=e235]:
+                    - cell "Associate CNC Operator Los Angeles, CA (On-site)" [ref=e236]:
+                      - link "Associate CNC Operator Los Angeles, CA (On-site)" [ref=e237] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7653279003
+                        - paragraph [ref=e238]: Associate CNC Operator
+                        - paragraph [ref=e239]: Los Angeles, CA (On-site)
+                  - row "Deburr Technician (Additive Manufacturing) Los Angeles, CA (On-site)" [ref=e240]:
+                    - cell "Deburr Technician (Additive Manufacturing) Los Angeles, CA (On-site)" [ref=e241]:
+                      - link "Deburr Technician (Additive Manufacturing) Los Angeles, CA (On-site)" [ref=e242] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7666739003
+                        - paragraph [ref=e243]: Deburr Technician (Additive Manufacturing)
+                        - paragraph [ref=e244]: Los Angeles, CA (On-site)
+                  - row "Machine Shop General Helper Los Angeles, CA (On-site)" [ref=e245]:
+                    - cell "Machine Shop General Helper Los Angeles, CA (On-site)" [ref=e246]:
+                      - link "Machine Shop General Helper Los Angeles, CA (On-site)" [ref=e247] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7675844003
+                        - paragraph [ref=e248]: Machine Shop General Helper
+                        - paragraph [ref=e249]: Los Angeles, CA (On-site)
+                  - row "Senior Engineering Technician (Mechanical Systems) Los Angeles, CA (On-site)" [ref=e250]:
+                    - cell "Senior Engineering Technician (Mechanical Systems) Los Angeles, CA (On-site)" [ref=e251]:
+                      - link "Senior Engineering Technician (Mechanical Systems) Los Angeles, CA (On-site)" [ref=e252] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7664176003
+                        - paragraph [ref=e253]: Senior Engineering Technician (Mechanical Systems)
+                        - paragraph [ref=e254]: Los Angeles, CA (On-site)
+            - generic [ref=e255]:
+              - heading "Manufacturing & Development Operations" [level=3] [ref=e256]
+              - table [ref=e258]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e259]:
+                      - paragraph [ref=e260]: Job
+                - rowgroup [ref=e261]:
+                  - row "Senior/Lead Manufacturing Development Engineer Los Angeles, CA" [ref=e262]:
+                    - cell "Senior/Lead Manufacturing Development Engineer Los Angeles, CA" [ref=e263]:
+                      - link "Senior/Lead Manufacturing Development Engineer Los Angeles, CA" [ref=e264] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692967003
+                        - paragraph [ref=e265]: Senior/Lead Manufacturing Development Engineer
+                        - paragraph [ref=e266]: Los Angeles, CA
+            - generic [ref=e267]:
+              - heading "Marketing & Communications" [level=3] [ref=e268]
+              - table [ref=e270]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e271]:
+                      - paragraph [ref=e272]: Job
+                - rowgroup [ref=e273]:
+                  - row "Narrative Systems Lead / Lead Content Producer Hawthorne, CA" [ref=e274]:
+                    - cell "Narrative Systems Lead / Lead Content Producer Hawthorne, CA" [ref=e275]:
+                      - link "Narrative Systems Lead / Lead Content Producer Hawthorne, CA" [ref=e276] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7671115003
+                        - paragraph [ref=e277]: Narrative Systems Lead / Lead Content Producer
+                        - paragraph [ref=e278]: Hawthorne, CA
+            - generic [ref=e279]:
+              - heading "Mechanical Engineering" [level=3] [ref=e280]
+              - table [ref=e282]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e283]:
+                      - paragraph [ref=e284]: Job
+                - rowgroup [ref=e285]:
+                  - row "Additive Manufacturing Development Engineer Los Angeles, CA (On-site)" [ref=e286]:
+                    - cell "Additive Manufacturing Development Engineer Los Angeles, CA (On-site)" [ref=e287]:
+                      - link "Additive Manufacturing Development Engineer Los Angeles, CA (On-site)" [ref=e288] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7653245003
+                        - paragraph [ref=e289]: Additive Manufacturing Development Engineer
+                        - paragraph [ref=e290]: Los Angeles, CA (On-site)
+                  - row "Mechanical Engineer Los Angeles, CA (On-site)" [ref=e291]:
+                    - cell "Mechanical Engineer Los Angeles, CA (On-site)" [ref=e292]:
+                      - link "Mechanical Engineer Los Angeles, CA (On-site)" [ref=e293] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692922003
+                        - paragraph [ref=e294]: Mechanical Engineer
+                        - paragraph [ref=e295]: Los Angeles, CA (On-site)
+                  - row "Mechanical Engineer (Site Infrastructure) Los Angeles, CA (On-site)" [ref=e296]:
+                    - cell "Mechanical Engineer (Site Infrastructure) Los Angeles, CA (On-site)" [ref=e297]:
+                      - link "Mechanical Engineer (Site Infrastructure) Los Angeles, CA (On-site)" [ref=e298] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692926003
+                        - paragraph [ref=e299]: Mechanical Engineer (Site Infrastructure)
+                        - paragraph [ref=e300]: Los Angeles, CA (On-site)
+                  - row "Senior Additive Manufacturing Development Engineer Los Angeles, CA (On-site)" [ref=e301]:
+                    - cell "Senior Additive Manufacturing Development Engineer Los Angeles, CA (On-site)" [ref=e302]:
+                      - link "Senior Additive Manufacturing Development Engineer Los Angeles, CA (On-site)" [ref=e303] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7653259003
+                        - paragraph [ref=e304]: Senior Additive Manufacturing Development Engineer
+                        - paragraph [ref=e305]: Los Angeles, CA (On-site)
+                  - row "Senior Mechanical Engineer Los Angeles, CA (On-site)" [ref=e306]:
+                    - cell "Senior Mechanical Engineer Los Angeles, CA (On-site)" [ref=e307]:
+                      - link "Senior Mechanical Engineer Los Angeles, CA (On-site)" [ref=e308] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692941003
+                        - paragraph [ref=e309]: Senior Mechanical Engineer
+                        - paragraph [ref=e310]: Los Angeles, CA (On-site)
+                  - row "Senior Mechanical Engineer (Site Infrastructure) Los Angeles, CA (On-site)" [ref=e311]:
+                    - cell "Senior Mechanical Engineer (Site Infrastructure) Los Angeles, CA (On-site)" [ref=e312]:
+                      - link "Senior Mechanical Engineer (Site Infrastructure) Los Angeles, CA (On-site)" [ref=e313] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692944003
+                        - paragraph [ref=e314]: Senior Mechanical Engineer (Site Infrastructure)
+                        - paragraph [ref=e315]: Los Angeles, CA (On-site)
+            - generic [ref=e316]:
+              - heading "Operations - Business" [level=3] [ref=e317]
+              - table [ref=e319]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e320]:
+                      - paragraph [ref=e321]: Job
+                - rowgroup [ref=e322]:
+                  - row "Manager of Facilities & EHS Los Angeles, CA" [ref=e323]:
+                    - cell "Manager of Facilities & EHS Los Angeles, CA" [ref=e324]:
+                      - link "Manager of Facilities & EHS Los Angeles, CA" [ref=e325] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7701350003
+                        - paragraph [ref=e326]: Manager of Facilities & EHS
+                        - paragraph [ref=e327]: Los Angeles, CA
+            - generic [ref=e328]:
+              - heading "Opto-Mechanical Engineering" [level=3] [ref=e329]
+              - table [ref=e331]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e332]:
+                      - paragraph [ref=e333]: Job
+                - rowgroup [ref=e334]:
+                  - row "Mechanical Engineer (Complex Precision Systems) Los Angeles, CA" [ref=e335]:
+                    - cell "Mechanical Engineer (Complex Precision Systems) Los Angeles, CA" [ref=e336]:
+                      - link "Mechanical Engineer (Complex Precision Systems) Los Angeles, CA" [ref=e337] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692972003
+                        - paragraph [ref=e338]: Mechanical Engineer (Complex Precision Systems)
+                        - paragraph [ref=e339]: Los Angeles, CA
+                  - row "Opto-Mechanical Build Engineer Los Angeles, CA (On-site)" [ref=e340]:
+                    - cell "Opto-Mechanical Build Engineer Los Angeles, CA (On-site)" [ref=e341]:
+                      - link "Opto-Mechanical Build Engineer Los Angeles, CA (On-site)" [ref=e342] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692969003
+                        - paragraph [ref=e343]: Opto-Mechanical Build Engineer
+                        - paragraph [ref=e344]: Los Angeles, CA (On-site)
+                  - row "Senior Opto-Mechanical Engineer (High-Power Lasers) Los Angeles, CA" [ref=e345]:
+                    - cell "Senior Opto-Mechanical Engineer (High-Power Lasers) Los Angeles, CA" [ref=e346]:
+                      - link "Senior Opto-Mechanical Engineer (High-Power Lasers) Los Angeles, CA" [ref=e347] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692968003
+                        - paragraph [ref=e348]: Senior Opto-Mechanical Engineer (High-Power Lasers)
+                        - paragraph [ref=e349]: Los Angeles, CA
+            - generic [ref=e350]:
+              - heading "Process Engineering" [level=3] [ref=e351]
+              - table [ref=e353]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e354]:
+                      - paragraph [ref=e355]: Job
+                - rowgroup [ref=e356]:
+                  - row "Process Engineer (Advanced R&D) Los Angeles, CA" [ref=e357]:
+                    - cell "Process Engineer (Advanced R&D) Los Angeles, CA" [ref=e358]:
+                      - link "Process Engineer (Advanced R&D) Los Angeles, CA" [ref=e359] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692973003
+                        - paragraph [ref=e360]: Process Engineer (Advanced R&D)
+                        - paragraph [ref=e361]: Los Angeles, CA
+                  - row "Senior Materials Engineer (Metal 3D Printing) Los Angeles, CA (On-site)" [ref=e362]:
+                    - cell "Senior Materials Engineer (Metal 3D Printing) Los Angeles, CA (On-site)" [ref=e363]:
+                      - link "Senior Materials Engineer (Metal 3D Printing) Los Angeles, CA (On-site)" [ref=e364] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692974003
+                        - paragraph [ref=e365]: Senior Materials Engineer (Metal 3D Printing)
+                        - paragraph [ref=e366]: Los Angeles, CA (On-site)
+                  - row "Senior Process Engineer (Advanced R&D) Los Angeles, CA" [ref=e367]:
+                    - cell "Senior Process Engineer (Advanced R&D) Los Angeles, CA" [ref=e368]:
+                      - link "Senior Process Engineer (Advanced R&D) Los Angeles, CA" [ref=e369] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692975003
+                        - paragraph [ref=e370]: Senior Process Engineer (Advanced R&D)
+                        - paragraph [ref=e371]: Los Angeles, CA
+            - generic [ref=e372]:
+              - heading "Software Engineering" [level=3] [ref=e373]
+              - table [ref=e375]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e376]:
+                      - paragraph [ref=e377]: Job
+                - rowgroup [ref=e378]:
+                  - row "Factory Software Engineer Los Angeles, CA (On-site)" [ref=e379]:
+                    - cell "Factory Software Engineer Los Angeles, CA (On-site)" [ref=e380]:
+                      - link "Factory Software Engineer Los Angeles, CA (On-site)" [ref=e381] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7691540003
+                        - paragraph [ref=e382]: Factory Software Engineer
+                        - paragraph [ref=e383]: Los Angeles, CA (On-site)
+                  - row "Principal Software Engineer Los Angeles, CA (On-site)" [ref=e384]:
+                    - cell "Principal Software Engineer Los Angeles, CA (On-site)" [ref=e385]:
+                      - link "Principal Software Engineer Los Angeles, CA (On-site)" [ref=e386] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688735003
+                        - paragraph [ref=e387]: Principal Software Engineer
+                        - paragraph [ref=e388]: Los Angeles, CA (On-site)
+                  - row "Senior Factory Software Engineer Los Angeles, CA (On-site)" [ref=e389]:
+                    - cell "Senior Factory Software Engineer Los Angeles, CA (On-site)" [ref=e390]:
+                      - link "Senior Factory Software Engineer Los Angeles, CA (On-site)" [ref=e391] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688742003
+                        - paragraph [ref=e392]: Senior Factory Software Engineer
+                        - paragraph [ref=e393]: Los Angeles, CA (On-site)
+                  - row "Senior Software Engineer (Embedded) Los Angeles, CA (On-site)" [ref=e394]:
+                    - cell "Senior Software Engineer (Embedded) Los Angeles, CA (On-site)" [ref=e395]:
+                      - link "Senior Software Engineer (Embedded) Los Angeles, CA (On-site)" [ref=e396] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688748003
+                        - paragraph [ref=e397]: Senior Software Engineer (Embedded)
+                        - paragraph [ref=e398]: Los Angeles, CA (On-site)
+                  - row "Software Engineer (Full Stack Enterprise) Los Angeles, CA (On-site)" [ref=e399]:
+                    - cell "Software Engineer (Full Stack Enterprise) Los Angeles, CA (On-site)" [ref=e400]:
+                      - link "Software Engineer (Full Stack Enterprise) Los Angeles, CA (On-site)" [ref=e401] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7704562003
+                        - paragraph [ref=e402]: Software Engineer (Full Stack Enterprise)
+                        - paragraph [ref=e403]: Los Angeles, CA (On-site)
+                  - row "Staff FPGA Engineer Los Angeles, CA (On-site)" [ref=e404]:
+                    - cell "Staff FPGA Engineer Los Angeles, CA (On-site)" [ref=e405]:
+                      - link "Staff FPGA Engineer Los Angeles, CA (On-site)" [ref=e406] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688758003
+                        - paragraph [ref=e407]: Staff FPGA Engineer
+                        - paragraph [ref=e408]: Los Angeles, CA (On-site)
+  - contentinfo [ref=e409]:
+    - generic [ref=e410]:
+      - paragraph [ref=e411]: Powered by
+      - link "Greenhouse logo" [ref=e412] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e413]

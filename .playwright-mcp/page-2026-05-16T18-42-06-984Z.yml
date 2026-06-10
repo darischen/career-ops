@@ -1,0 +1,121 @@
+- generic [active] [ref=e1]:
+  - link "Aircall logo" [ref=e4] [cursor=pointer]:
+    - /url: https://jobs.lever.co/aircall
+    - img "Aircall logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "Full Stack Software Engineer, GTM AI Automation" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: San Francisco Office
+          - generic [ref=e14]: Engineering – 13008 - Data /
+          - generic [ref=e15]: Permanent Full Time Employee /
+          - generic [ref=e16]: Hybrid
+      - link "apply for this job" [ref=e18] [cursor=pointer]:
+        - /url: https://jobs.lever.co/aircall/f823d560-84f0-4f59-9f4e-0c51c03972b1/apply
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e21]: Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI together into one seamless workspace.
+        - generic [ref=e23]: "Our momentum comes from a simple idea: help teams work smarter, not harder. Aircall’s AI Voice Agent automates routine calls, AI Assist streamlines post-call work, and AI Assist Pro delivers real-time guidance so people can do their best work. The result is higher revenue, faster resolutions, and teams that scale with confidence."
+        - generic [ref=e25]: Aircall is headquartered in Paris, our European HQ, with a strong North American presence anchored in Seattle, our North American HQ, and teams across Madrid, London, Berlin, San Francisco, New York City, Sydney, and Mexico City. We’ve built a product customers love and a business that’s scaling quickly, backed by world-class investors and driven by rapid AI innovation across multiple product lines.
+        - generic [ref=e26]: At Aircall, you’ll join a company in motion. We’re ambitious, product-driven, and execution-focused, with visible impact, fast decisions, and real growth.
+        - generic [ref=e28]:
+          - strong [ref=e29]: "How we work at Aircall:"
+          - text: We’re customer-obsessed, data-driven, and focused on delivering meaningful outcomes. We value ownership, continuous learning, and thoughtful speed. If you thrive in a collaborative, fast-moving environment where trust and impact matter, you’ll feel at home here.
+        - strong [ref=e32]: About the Role
+        - generic [ref=e33]: We're looking for a Full Stack Software Engineer with a product mindset to join our Data team and help transform how Aircall goes to market.
+        - generic [ref=e35]: In this role, you'll partner closely with go-to-market teams — Sales, Marketing, Customer Success, Support, and Revenue Operations — to understand their workflows, identify high-leverage opportunities, and build AI-powered tools that automate processes and boost productivity. You'll report to the Data team lead while embedding directly with GTM stakeholders to ensure what you build delivers real impact.
+        - generic [ref=e37]: You'll move quickly from prototype to production. This role is ideal for engineers who want to be close to users, own end-to-end outcomes, and shape entirely new categories of internal tooling powered by AI. If you thrive at the intersection of engineering, data, and business operations, this is your opportunity to make an outsized impact.
+      - generic [ref=e39]:
+        - heading "What You Will Do" [level=3] [ref=e40]
+        - list [ref=e43]:
+          - listitem [ref=e44]:
+            - strong [ref=e45]: Build AI-powered tools and applications
+            - text: that accelerate Aircall's go-to-market efforts — from lead enrichment and workflow automation to intelligent dashboards and internal assistants.
+          - listitem [ref=e46]:
+            - strong [ref=e47]: "Work across the full product lifecycle:"
+            - text: prototype, iterate, ship, and maintain production-grade solutions that GTM teams rely on daily.
+          - listitem [ref=e48]:
+            - strong [ref=e49]: Embed with GTM stakeholders
+            - text: (Sales, Marketing, CS, Support, RevOps) to deeply understand their pain points, map workflows, and rapidly prototype solutions.
+          - listitem [ref=e50]:
+            - strong [ref=e51]: Apply LLMs and AI APIs
+            - text: in novel ways to solve real-world GTM workflow problems — automating repetitive tasks, extracting insights from unstructured data, and enabling smarter decision-making.
+          - listitem [ref=e52]:
+            - strong [ref=e53]: Create reusable code libraries, integrations, and MCP servers
+            - text: to enable consumption of AI-powered tooling across the GTM stack (Salesforce, Slack, Outreach, and more).
+          - listitem [ref=e54]:
+            - strong [ref=e55]: Collaborate with the Data & Analytics team
+            - text: to pull customer usage, engagement, and pipeline data and leverage it within your tooling.
+          - listitem [ref=e56]:
+            - strong [ref=e57]: "Measure and iterate:"
+            - text: deploy solutions, track adoption and impact against pre-defined metrics, and continuously refine based on end-user feedback.
+          - listitem [ref=e58]:
+            - strong [ref=e59]: Write documentation and runbooks
+            - text: for productionized solutions so others can maintain and debug them.
+      - generic [ref=e61]:
+        - heading "What We Are Looking For" [level=3] [ref=e62]
+        - list [ref=e65]:
+          - listitem [ref=e66]:
+            - strong [ref=e67]: 2–4 years of experience
+            - text: as a software engineer, data engineer, analytics engineer, product engineer, or ML engineer working on user-facing systems.
+          - listitem [ref=e68]:
+            - strong [ref=e69]: "Full-stack proficiency:"
+            - text: comfortable building end-to-end applications with Python (FastAPI/Flask) on the backend and JavaScript/TypeScript (React) on the frontend.
+          - listitem [ref=e70]:
+            - strong [ref=e71]: "Hands-on AI/LLM experience is a must:"
+            - text: you have built or prototyped LLM-powered workflows using APIs from OpenAI, Anthropic, or similar providers. You understand prompt engineering, model integration, and how to ship AI features into production.
+          - listitem [ref=e72]:
+            - strong [ref=e73]: Familiarity with modern AI frameworks and patterns
+            - text: such as LangChain, LlamaIndex, or AutoGen, and architectures like RAG, vector databases, reranking, and agentic workflows.
+          - listitem [ref=e74]:
+            - strong [ref=e75]: "Strong product sense and ownership mentality:"
+            - text: you take initiative, move quickly, and care deeply about whether your work is actually used and useful.
+          - listitem [ref=e76]:
+            - strong [ref=e77]: "Excellent communication skills:"
+            - text: you're comfortable working directly with non-technical end users, gathering requirements, doing lightweight design, and presenting solutions.
+          - listitem [ref=e78]:
+            - strong [ref=e79]: A builder's mindset
+            - text: with a bias toward action, experimentation, and shipping.
+      - generic [ref=e81]:
+        - heading "Nice to Have" [level=3] [ref=e82]
+        - list [ref=e85]:
+          - listitem [ref=e86]: Prior experience in a GTM role (Sales Ops, Marketing Ops, RevOps, Sales, or Marketing) or significant experience building tools for GTM teams at a B2B SaaS company.
+          - listitem [ref=e87]: "Experience with the modern GTM tools ecosystem: Salesforce, Outreach, Clay, HubSpot, Slack APIs, Twilio, etc.Proven understanding of agentic AI systems, including designing, developing, and deploying AI Agents and MCP servers."
+          - listitem [ref=e88]: AWS cloud experience — you've deployed and operated production applications on AWS and understand how to design for scalability and reliability.
+          - listitem [ref=e89]: Former founder, or early engineer at a startup who built a product from 0 to 1.
+          - listitem [ref=e90]: "Curiosity about the rapidly evolving AI landscape: different models, paradigms, and tools being used in the wild."
+      - generic [ref=e91]:
+        - generic [ref=e92]: $150,000 - $220,000 a year
+        - generic [ref=e94]: This is not including equity and other benefits. The actual salary offered will carefully consider a wide range of factors, including your skills, qualifications, and experience.
+      - generic [ref=e95]:
+        - generic [ref=e96]: Why join us?
+        - generic [ref=e98]: 🚀 Key moment to join Aircall in terms of growth and opportunities
+        - generic [ref=e99]: 💆‍♀️ Our people matter, work-life balance is important at Aircall
+        - generic [ref=e100]: 📚 Fast-learning environment, entrepreneurial and strong team spirit
+        - generic [ref=e101]: "🌍 45+ Nationalities: cosmopolite & multi-cultural mindset"
+        - generic [ref=e102]: 💵 Competitive salary package & benefits
+        - generic [ref=e103]: 🏨 Medical, dental, and vision insurance is 100% covered
+        - generic [ref=e104]: 📈 401k plan with company matching!
+        - generic [ref=e105]: ✈️ Unlimited PTO — take the time you need to come to work feeling great!
+        - generic [ref=e106]: ⭐️ Wellness, commuter, and childcare reimbursements
+        - generic [ref=e107]: 💚 Generous parental leave policy
+        - generic [ref=e109]: "DE&I Statement:"
+        - generic [ref=e110]: At Aircall, we believe diversity, equity and inclusion – irrespective of origins, identity, background and orientations – are core to our journey.
+        - generic [ref=e112]: We pride ourselves on promoting active inclusion within our business to foster a strong sense of belonging for all. We’re working to create a place filled with diverse people who can enrich and learn from one another. We’re committed to ensuring that everyone not only has a seat at the table but is valued and respected at it by providing equal opportunities to develop and thrive.
+        - generic [ref=e114]: We will constantly challenge ourselves to make sure that we live up to our ambitions around diversity, equity and inclusion, and keep this conversation open. Above all else, we understand and acknowledge that we have work to do and much to learn.
+        - generic [ref=e116]:
+          - text: Want to know more about candidate privacy? Find our
+          - link "Candidate Privacy Notice here." [ref=e117] [cursor=pointer]:
+            - /url: https://aircall.io/candidate-privacy-notice/
+      - generic [ref=e119]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e121] [cursor=pointer]:
+        - /url: https://jobs.lever.co/aircall/f823d560-84f0-4f59-9f4e-0c51c03972b1/apply
+  - generic [ref=e123]:
+    - paragraph [ref=e124]:
+      - link "Aircall Home Page" [ref=e125] [cursor=pointer]:
+        - /url: http://aircall.io
+    - link "Jobs powered by Lever logo" [ref=e126] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e127]: Jobs powered by
+      - img "Lever logo" [ref=e128]

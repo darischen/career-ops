@@ -1,0 +1,19 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e8]:
+    - generic [ref=e10]:
+      - link "search for jobs" [ref=e13] [cursor=pointer]:
+        - /url: /en-US/amcor_external_career_site
+        - img "search for jobs" [ref=e14]
+      - heading "Current employee with Workday access? Apply through your Workday account!" [level=1] [ref=e16]
+      - button "main menu" [ref=e18] [cursor=pointer]
+  - generic [ref=e28]:
+    - generic [ref=e29]: Follow Us
+    - list [ref=e30]:
+      - listitem [ref=e31] [cursor=pointer]:
+        - link "LinkedIn" [ref=e32]:
+          - /url: https://www.linkedin.com/company/amcor/
+    - generic [ref=e36]:
+      - img [ref=e40]
+      - generic [ref=e60]: © 2026 Workday, Inc. All rights reserved.

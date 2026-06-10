@@ -1,0 +1,159 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - img [ref=e6]
+    - paragraph [ref=e8]: The job you are looking for is no longer open.
+  - main [ref=e9]:
+    - generic [ref=e10]:
+      - img "Poppulo Logo" [ref=e12]
+      - heading "Current openings at Poppulo" [level=1] [ref=e13]
+      - generic [ref=e15]:
+        - img [ref=e16]
+        - generic [ref=e18]:
+          - paragraph [ref=e19]: Create a Job Alert
+          - paragraph [ref=e20]: Level-up your career by having opportunities at Poppulo sent directly to your inbox.
+          - link "Create alert" [ref=e21] [cursor=pointer]:
+            - /url: https://my.greenhouse.io/users/sign_in?job_board=poppulo&source=job_alert_board
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - generic [ref=e25]:
+            - generic [ref=e26]: Search
+            - textbox "Search" [ref=e27]
+          - generic [ref=e29]:
+            - generic [ref=e30]: Department
+            - generic [ref=e31]:
+              - log [ref=e33]
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - generic [ref=e37]: Select...
+                  - combobox "Department" [ref=e39]
+                - button "Toggle flyout" [ref=e41] [cursor=pointer]:
+                  - img [ref=e42]
+          - generic [ref=e45]:
+            - generic [ref=e46]: Office
+            - generic [ref=e47]:
+              - log [ref=e49]
+              - generic [ref=e51]:
+                - generic [ref=e52]:
+                  - generic [ref=e53]: Select...
+                  - combobox "Office" [ref=e55]
+                - button "Toggle flyout" [ref=e57] [cursor=pointer]:
+                  - img [ref=e58]
+        - generic [ref=e60]:
+          - heading "13 jobs" [level=2] [ref=e61]
+          - generic [ref=e62]:
+            - generic [ref=e63]:
+              - heading "Customer Success" [level=3] [ref=e64]
+              - table [ref=e66]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e67]:
+                      - paragraph [ref=e68]: Job
+                - rowgroup [ref=e69]:
+                  - row "Enterprise Customer Success Manager Cork, Ireland" [ref=e70]:
+                    - cell "Enterprise Customer Success Manager Cork, Ireland" [ref=e71]:
+                      - link "Enterprise Customer Success Manager Cork, Ireland" [ref=e72] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/poppulo/jobs/7814917
+                        - paragraph [ref=e73]: Enterprise Customer Success Manager
+                        - paragraph [ref=e74]: Cork, Ireland
+                  - row "Enterprise Customer Success Manager (12-Months Contract) Cork, Ireland" [ref=e75]:
+                    - cell "Enterprise Customer Success Manager (12-Months Contract) Cork, Ireland" [ref=e76]:
+                      - link "Enterprise Customer Success Manager (12-Months Contract) Cork, Ireland" [ref=e77] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/poppulo/jobs/7742534
+                        - paragraph [ref=e78]: Enterprise Customer Success Manager (12-Months Contract)
+                        - paragraph [ref=e79]: Cork, Ireland
+            - generic [ref=e80]:
+              - heading "Engineering & Product" [level=3] [ref=e81]
+              - table [ref=e83]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e84]:
+                      - paragraph [ref=e85]: Job
+                - rowgroup [ref=e86]:
+                  - row "Engineering Manager - Data Analytics Bengaluru, Hybrid" [ref=e87]:
+                    - cell "Engineering Manager - Data Analytics Bengaluru, Hybrid" [ref=e88]:
+                      - link "Engineering Manager - Data Analytics Bengaluru, Hybrid" [ref=e89] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/poppulo/jobs/7818249
+                        - paragraph [ref=e90]: Engineering Manager - Data Analytics
+                        - paragraph [ref=e91]: Bengaluru, Hybrid
+                  - row "Principal Software Engineer - Full Stack Bengaluru, India" [ref=e92]:
+                    - cell "Principal Software Engineer - Full Stack Bengaluru, India" [ref=e93]:
+                      - link "Principal Software Engineer - Full Stack Bengaluru, India" [ref=e94] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/poppulo/jobs/7491163
+                        - paragraph [ref=e95]: Principal Software Engineer - Full Stack
+                        - paragraph [ref=e96]: Bengaluru, India
+                  - row "Senior Full-Stack Machine Learning Engineer (GenAI / Agentic Systems) Bangalore, India" [ref=e97]:
+                    - cell "Senior Full-Stack Machine Learning Engineer (GenAI / Agentic Systems) Bangalore, India" [ref=e98]:
+                      - link "Senior Full-Stack Machine Learning Engineer (GenAI / Agentic Systems) Bangalore, India" [ref=e99] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/poppulo/jobs/7738745
+                        - paragraph [ref=e100]: Senior Full-Stack Machine Learning Engineer (GenAI / Agentic Systems)
+                        - paragraph [ref=e101]: Bangalore, India
+                  - row "Senior Full-Stack Machine Learning Engineer (GenAI / Agentic Systems) Bangalore, India" [ref=e102]:
+                    - cell "Senior Full-Stack Machine Learning Engineer (GenAI / Agentic Systems) Bangalore, India" [ref=e103]:
+                      - link "Senior Full-Stack Machine Learning Engineer (GenAI / Agentic Systems) Bangalore, India" [ref=e104] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/poppulo/jobs/7861500
+                        - paragraph [ref=e105]: Senior Full-Stack Machine Learning Engineer (GenAI / Agentic Systems)
+                        - paragraph [ref=e106]: Bangalore, India
+                  - row "Senior Product Manager Cork, Ireland" [ref=e107]:
+                    - cell "Senior Product Manager Cork, Ireland" [ref=e108]:
+                      - link "Senior Product Manager Cork, Ireland" [ref=e109] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/poppulo/jobs/7746292
+                        - paragraph [ref=e110]: Senior Product Manager
+                        - paragraph [ref=e111]: Cork, Ireland
+                  - row "Senior Software Engineer -Full Stack Bengaluru, India- Hybrid" [ref=e112]:
+                    - cell "Senior Software Engineer -Full Stack Bengaluru, India- Hybrid" [ref=e113]:
+                      - link "Senior Software Engineer -Full Stack Bengaluru, India- Hybrid" [ref=e114] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/poppulo/jobs/6824055
+                        - paragraph [ref=e115]: Senior Software Engineer -Full Stack
+                        - paragraph [ref=e116]: Bengaluru, India- Hybrid
+                  - row "Senior Software Engineer (Node.js / Java, AWS) Cork, Ireland" [ref=e117]:
+                    - cell "Senior Software Engineer (Node.js / Java, AWS) Cork, Ireland" [ref=e118]:
+                      - link "Senior Software Engineer (Node.js / Java, AWS) Cork, Ireland" [ref=e119] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/poppulo/jobs/7642294
+                        - paragraph [ref=e120]: Senior Software Engineer (Node.js / Java, AWS)
+                        - paragraph [ref=e121]: Cork, Ireland
+                  - row "Senior Test Architect Cork, Ireland" [ref=e122]:
+                    - cell "Senior Test Architect Cork, Ireland" [ref=e123]:
+                      - link "Senior Test Architect Cork, Ireland" [ref=e124] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/poppulo/jobs/7818631
+                        - paragraph [ref=e125]: Senior Test Architect
+                        - paragraph [ref=e126]: Cork, Ireland
+                  - row "Staff Software Engineer Bengaluru, India" [ref=e127]:
+                    - cell "Staff Software Engineer Bengaluru, India" [ref=e128]:
+                      - link "Staff Software Engineer Bengaluru, India" [ref=e129] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/poppulo/jobs/7657315
+                        - paragraph [ref=e130]: Staff Software Engineer
+                        - paragraph [ref=e131]: Bengaluru, India
+            - generic [ref=e132]:
+              - heading "IT" [level=3] [ref=e133]
+              - table [ref=e135]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e136]:
+                      - paragraph [ref=e137]: Job
+                - rowgroup [ref=e138]:
+                  - row "Principal Applied AI Engineer - Internal Tools Bangalore, India" [ref=e139]:
+                    - cell "Principal Applied AI Engineer - Internal Tools Bangalore, India" [ref=e140]:
+                      - link "Principal Applied AI Engineer - Internal Tools Bangalore, India" [ref=e141] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/poppulo/jobs/7279021
+                        - paragraph [ref=e142]: Principal Applied AI Engineer - Internal Tools
+                        - paragraph [ref=e143]: Bangalore, India
+            - generic [ref=e144]:
+              - heading "Sales" [level=3] [ref=e145]
+              - table [ref=e147]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e148]:
+                      - paragraph [ref=e149]: Job
+                - rowgroup [ref=e150]:
+                  - row "Account Executive Cork, Ireland" [ref=e151]:
+                    - cell "Account Executive Cork, Ireland" [ref=e152]:
+                      - link "Account Executive Cork, Ireland" [ref=e153] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/poppulo/jobs/7438524
+                        - paragraph [ref=e154]: Account Executive
+                        - paragraph [ref=e155]: Cork, Ireland
+  - contentinfo [ref=e156]:
+    - generic [ref=e157]:
+      - paragraph [ref=e158]: Powered by
+      - link "Greenhouse logo" [ref=e159] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e160]

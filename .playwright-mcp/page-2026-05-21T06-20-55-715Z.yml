@@ -1,0 +1,71 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic:
+      - link "Skip to main content":
+        - /url: "#skipToMainContent"
+    - generic [ref=e6]:
+      - link "Company Logo" [ref=e8] [cursor=pointer]:
+        - /url: https://www.pgcareers.com/us/en
+        - img "P&G careers home page logo" [ref=e9]
+      - generic:
+        - list:
+          - listitem
+          - listitem
+  - main [ref=e10]:
+    - generic [ref=e13]: "-"
+    - generic [ref=e14]:
+      - main [ref=e18]:
+        - figure [ref=e21]:
+          - img "JobsBanner" [ref=e23]
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - generic [ref=e34]:
+            - heading "Learn More About Our Company" [level=2] [ref=e36]
+            - generic: 
+          - generic [ref=e37]:
+            - text: Z 
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - generic [ref=e41]:
+                  - figure [ref=e45]
+                  - generic [ref=e48]:
+                    - heading "About Us" [level=3] [ref=e49]
+                    - paragraph [ref=e52]: We’re the world’s largest consumer goods company and home to iconic, trusted brands that make life a little bit easier in small but meaningful ways. Learn more about our company.
+                    - link "Explore More about About Us" [ref=e54] [cursor=pointer]:
+                      - /url: https://www.pgcareers.com/global/en/about-us
+                      - generic [ref=e55]: Explore More
+                      - text: 
+              - listitem [ref=e56]:
+                - generic [ref=e58]:
+                  - figure [ref=e62]:
+                    - img "Benefits" [ref=e64]
+                  - generic [ref=e66]:
+                    - heading "Benefits" [level=3] [ref=e67]
+                    - paragraph [ref=e70]: P&G wants to make life better for our team, and we do that through great benefits.
+                    - link "Explore More about Benefits" [ref=e72] [cursor=pointer]:
+                      - /url: https://www.pgcareers.com/global/en/benefits
+                      - generic [ref=e73]: Explore More
+                      - text: 
+              - listitem [ref=e74]:
+                - generic [ref=e76]:
+                  - figure [ref=e80]:
+                    - img "Culture" [ref=e82]
+                  - generic [ref=e84]:
+                    - heading "Culture" [level=3] [ref=e85]
+                    - paragraph [ref=e88]: Learn how our meaningful work is making life better for customers and communities everywhere.
+                    - link "Explore More about Culture" [ref=e90] [cursor=pointer]:
+                      - /url: https://www.pgcareers.com/global/en/culture
+                      - generic [ref=e91]: Explore More
+                      - text: 
+              - listitem [ref=e92]:
+                - generic [ref=e94]:
+                  - figure [ref=e98]:
+                    - img "Leadership & Development" [ref=e100]
+                  - generic [ref=e102]:
+                    - heading "Leadership & Development" [level=3] [ref=e103]
+                    - paragraph [ref=e106]: We build leaders from Day 1. Find out how.
+                    - link "Explore More about Leadership & Development" [ref=e108] [cursor=pointer]:
+                      - /url: https://www.pgcareers.com/global/en/leadership-development
+                      - generic [ref=e109]: Explore More
+                      - text: 
+        - generic: $

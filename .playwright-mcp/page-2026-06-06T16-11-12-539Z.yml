@@ -1,0 +1,139 @@
+- generic [ref=e8]:
+  - link [ref=e9] [cursor=pointer]:
+    - /url: "#mdc-main-content"
+    - generic [ref=e12]: Skip to main content
+  - navigation [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e20]:
+        - button [ref=e22] [cursor=pointer]:
+          - img [ref=e24]
+        - link [ref=e26] [cursor=pointer]:
+          - /url: /
+          - img [ref=e27]
+      - button [ref=e31] [cursor=pointer]:
+        - img [ref=e34]
+  - generic [ref=e39]:
+    - generic [ref=e41]:
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - navigation [ref=e46]:
+              - list [ref=e47]:
+                - listitem [ref=e48]:
+                  - generic [ref=e49]:
+                    - button [ref=e50] [cursor=pointer]:
+                      - generic [ref=e52]: Jobs
+                    - img [ref=e53]
+                - listitem [ref=e55]:
+                  - generic [ref=e58]: Scaled Business Growth
+            - generic [ref=e59]:
+              - heading [level=1] [ref=e61]: Scaled Business Growth
+              - generic [ref=e62]:
+                - generic [ref=e63]:
+                  - text: Menlo Park, CA
+                  - button [ref=e64] [cursor=pointer]: +2 locations
+                - generic [ref=e65]:
+                  - generic [ref=e68]: Business Marketing
+                  - button [ref=e69] [cursor=pointer]:
+                    - generic [ref=e72]: + 3 more
+          - button [ref=e73] [cursor=pointer]:
+            - img [ref=e76]
+        - button [ref=e79] [cursor=pointer]:
+          - generic [ref=e82]: Apply now
+        - generic [ref=e84]: Meta empowers millions of businesses to connect with customers and drive real business outcomes. Scaled Business Marketing (SBM) is looking for a Scaled Business Growth Marketer to design data-driven programs that help businesses discover, adopt, and maximize the value of Meta's products. You'll work with cross-functional teams to unlock new opportunities, remove friction in the customer journey, scale high-impact solutions that drive measurable results, and help millions of businesses around the world succeed. This role requires someone who can analyze data & understand market trends to identify opportunities/challenges, design globally scalable marketing strategies and experiment/iterate while operationalizing what works to drive sustained business impact.
+        - separator [ref=e85]
+        - generic [ref=e86]:
+          - heading [level=2] [ref=e87]: Scaled Business Growth Responsibilities
+          - list [ref=e88]:
+            - generic [ref=e89]:
+              - listitem [ref=e90]: Lead marketing growth strategy across a large area and drive cross-team alignment.
+              - listitem [ref=e91]: Identify and size marketing opportunities to drive material business impact.
+              - listitem [ref=e92]: Design comprehensive, multi-channel marketing programs that accelerate outcomes across the funnel with a variety of audiences.
+              - listitem [ref=e93]: Execute on projects by working closely with Product, Sales, Data Science, and other partners.
+              - listitem [ref=e94]: Lead experimentation from designing tests to analyzing results that drive business impact.
+              - listitem [ref=e95]: Leverage AI and advanced analytics to accelerate business impact.
+        - generic [ref=e96]:
+          - heading [level=2] [ref=e97]: Minimum Qualifications
+          - list [ref=e98]:
+            - generic [ref=e99]:
+              - listitem [ref=e100]: Bachelor's degree in a directly related field, or equivalent practical experience
+              - listitem [ref=e101]: 8+ years of experience in growth marketing, digital marketing, marketing strategy, product growth, management consulting, or related field
+              - listitem [ref=e102]: 7+ years of work experience in analytics - data extraction, querying, & interpretation with languages such as SQL including leveraging AI tooling
+              - listitem [ref=e103]: 7+ years of experience developing and executing strategies to drive Marketing impact across multiple channels, combining quantitative analysis with qualitative customer insight to optimize performance and scale successful programs
+              - listitem [ref=e104]: Experience developing & leveraging audience understanding via quantitative methods (segmentation, behavioral analysis) and qualitative methods (customer research, market insight), and translating findings into full-funnel marketing strategies
+              - listitem [ref=e105]: Proficiency in quantitative analysis geared towards drawing actionable insights from complex datasets
+              - listitem [ref=e106]: Experience designing & executing experiments, interpreting results, and translating findings into decisions
+              - listitem [ref=e107]: Experience establishing KPIs, measurement frameworks, and attribution models, including incrementality and mixed media approaches, that connect marketing activities to business outcomes
+              - listitem [ref=e108]: Proficiency in leveraging AI tools to accelerate business outcomes (e.g., audience research, personalization, content development, marketing optimization, etc.)
+              - listitem [ref=e109]: Experience distilling complex data into compelling narratives and influence stakeholders at all levels of the organization
+              - listitem [ref=e110]: Experience working with and influencing cross-functional teams including Product, Sales, Analytics, etc
+              - listitem [ref=e111]: Experience working on marketing programs that reach a wide range of business customers
+        - generic [ref=e112]:
+          - heading [level=2] [ref=e113]: Preferred Qualifications
+          - list [ref=e114]:
+            - generic [ref=e115]:
+              - listitem [ref=e116]: Familiarity with advanced analytics including statistical analysis, predictive analytics, or machine learning applications in marketing
+              - listitem [ref=e117]: Experience with data visualization tools (e.g., Tableau, Python, etc.) and ability to design executive-level dashboards that communicate complex insights to diverse audiences
+              - listitem [ref=e118]: Knowledge of Meta's products and platform capabilities, or experience with similar technologies
+              - listitem [ref=e119]: Demonstrated use of AI tools to accelerate core marketing capabilities
+              - listitem [ref=e120]: Demonstrated ability to integrate AI tools to optimize/redesign workflows and drive measurable impact (e.g., efficiency gains, quality improvements)
+              - listitem [ref=e121]: Experience adhering to and implementing responsible, ethical AI practices (e.g., risk assessment, bias mitigation, quality and accuracy reviews)
+              - listitem [ref=e122]: Demonstrated ongoing AI skill development (e.g., prompt/context engineering, agent orchestration) and staying current with emerging AI technologies
+        - separator [ref=e123]
+        - generic [ref=e124]:
+          - heading [level=2] [ref=e125]: About Meta
+          - generic [ref=e128]: Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+        - generic [ref=e133]:
+          - text: For those who live in or expect to work from California if hired for this position, please click
+          - link [ref=e134] [cursor=pointer]:
+            - /url: https://scontent-lax3-1.xx.fbcdn.net/v/t39.2365-6/457477312_480861821467896_777041002100550877_n.pdf?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=WNJKUQaZ0zYQ7kNvwETmvNg&_nc_oc=AdrCxWEHBep1AjncfFwJotaeZGjg2r4V8T8E5tvFrO3TgXpb-gvmsGOZjpduQGliLznJwXOcMv9yGFF6k96qNCkp&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=LVGyTv4kSU1n8sGqL6YXkg&_nc_ss=7b289&oh=00_Af9SVs2y59mpExEJbQOJr_u-WptxkTfOPWizw6L7jRNsMQ&oe=6A3E776B
+            - text: here
+          - text: for additional information.
+        - generic [ref=e135]:
+          - generic [ref=e137]: "United States of America: $161,000/year to $227,000/year + bonus + equity + benefits"
+          - generic [ref=e138]:
+            - text: Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about
+            - link [ref=e139] [cursor=pointer]:
+              - /url: https://www.metacareers.com/benefits/
+              - text: benefits
+            - text: at Meta.
+        - generic [ref=e141]:
+          - heading [level=2] [ref=e142]: Equal Employment Opportunity
+          - generic [ref=e146]:
+            - text: Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice
+            - link [ref=e147] [cursor=pointer]:
+              - /url: https://www.metacareers.com/profile/footer_link/redirect/?page=equal_opportunity_policy
+              - text: here
+            - text: .
+          - generic [ref=e150]:
+            - text: Meta is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, fill out the
+            - link [ref=e151] [cursor=pointer]:
+              - /url: https://www.metacareers.com/accommodations_request
+              - text: Accommodations request form
+            - text: .
+      - separator [ref=e152]
+      - generic [ref=e154]:
+        - generic [ref=e156]: Apply for this job
+        - generic [ref=e157]: Take the first step toward a rewarding career at Meta.
+        - button [ref=e162] [cursor=pointer]:
+          - generic [ref=e165]: Apply now
+    - generic [ref=e168]:
+      - generic [ref=e170]:
+        - img [ref=e173]
+        - button [ref=e181] [cursor=pointer]:
+          - img [ref=e184]
+      - generic [ref=e186]:
+        - generic [ref=e191]:
+          - text: Recruiters can view your conversations with AI. Using AI is optional and does not impact the outcome of your application process.
+          - button [ref=e192] [cursor=pointer]: Learn more
+          - text: about AI usage and settings.
+        - generic [ref=e196]:
+          - button [ref=e198] [cursor=pointer]:
+            - img [ref=e201]
+          - generic [ref=e204]:
+            - generic [ref=e205]: Ask follow-up questions
+            - button [ref=e206] [cursor=pointer]:
+              - generic [ref=e207]:
+                - img [ref=e208]
+                - generic [ref=e210]: Sign up
+            - generic [ref=e211]: to ask follow-up questions

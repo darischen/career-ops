@@ -1,0 +1,101 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - banner [ref=e4] [cursor=pointer]:
+        - img "IXL Learning" [ref=e5]
+      - navigation [ref=e6]:
+        - menu [ref=e7]:
+          - button "PRODUCTS" [ref=e8] [cursor=pointer]
+          - menu "PRODUCTS":
+            - menuitem "IXL" [ref=e9] [cursor=pointer]
+            - menuitem "TPT" [ref=e10] [cursor=pointer]
+            - menuitem "Rosetta Stone" [ref=e11] [cursor=pointer]
+            - menuitem "Education.com" [ref=e12] [cursor=pointer]
+            - menuitem "Vocabulary.com" [ref=e13] [cursor=pointer]
+            - menuitem "Emmersion" [ref=e14] [cursor=pointer]
+            - menuitem "Dictionary.com" [ref=e15] [cursor=pointer]
+            - menuitem "SpanishDictionary.com" [ref=e16] [cursor=pointer]
+            - menuitem "Ingles.com" [ref=e17] [cursor=pointer]
+            - menuitem "FrenchDictionary.com" [ref=e18] [cursor=pointer]
+            - menuitem "Thesaurus.com" [ref=e19] [cursor=pointer]
+            - menuitem "Wyzant" [ref=e20] [cursor=pointer]
+            - menuitem "MyTutor" [ref=e21] [cursor=pointer]
+            - menuitem "ABCya" [ref=e22] [cursor=pointer]
+            - menuitem "Carson Dellosa" [ref=e23] [cursor=pointer]
+            - menuitem "Evan Moor" [ref=e24] [cursor=pointer]
+          - text: "|"
+          - button "COMPANY" [ref=e25] [cursor=pointer]
+          - menu "COMPANY":
+            - menuitem "Our mission" [ref=e26] [cursor=pointer]
+            - menuitem "Our story" [ref=e27] [cursor=pointer]
+            - menuitem "Our people" [ref=e28] [cursor=pointer]
+          - text: "|"
+          - button "NEWSROOM" [ref=e29] [cursor=pointer]
+          - menu "NEWSROOM":
+            - menuitem "Newsroom Home" [ref=e30] [cursor=pointer]
+            - menuitem "News" [ref=e31] [cursor=pointer]
+            - menuitem "Press Releases" [ref=e32] [cursor=pointer]
+            - menuitem "Media Resources" [ref=e33] [cursor=pointer]
+          - text: "|"
+          - menuitem "JOIN US" [ref=e34] [cursor=pointer]
+          - text: "|"
+          - menuitem "CONTACT US" [ref=e35] [cursor=pointer]
+  - link "<< Back to all positions" [ref=e38] [cursor=pointer]:
+    - /url: /company/careers
+  - generic [ref=e40]:
+    - generic [ref=e42]:
+      - link "Apply now" [ref=e44] [cursor=pointer]:
+        - /url: /company/careers/apply?gh_jid=8574194002
+      - generic [ref=e45]:
+        - heading "Software Engineer, New Grad" [level=2] [ref=e46]
+        - heading "San Mateo, CA" [level=3] [ref=e47]
+      - generic [ref=e48]:
+        - paragraph [ref=e49]: IXL Learning, developer of personalized learning products used by millions of people globally, is seeking new graduates who have a passion for technology and education. You will dive into our code base and immediately contribute to our three extremely impactful educational products and build new, innovative products. You can fine-tune your existing skills and learn new ones as you work on one of our many teams. You’ll be able to work with our Core Technology team in back-end engineering, Front-end group using cutting-edge technologies like React, Mobile team in implementing iOS and Android apps, or our Full-stack teams who seek engineers interested in doing it all.
+        - paragraph [ref=e50]: We find it immensely satisfying to develop products that impact the lives of millions, and we are eager to have you join our team.
+        - paragraph [ref=e51]: This position requires you to be in our San Mateo, CA, headquarters office. H1B sponsorship is available for this position.
+        - heading "WHAT YOU'LL BE DOING" [level=4] [ref=e52]
+        - paragraph [ref=e53]: As a Software Engineer, you will build the back-end wiring, application logic, and UI that engage our users. You will find and use the best technologies to add features and create new products. You’ll be involved in all aspects of the development process – including design, coding, testing, debugging, and tuning. You will own your projects from start to end as they travel through our fast-paced development cycle. In addition to working with your fellow engineers, you’ll collaborate with other teams to design amazing products that meet the needs of our users, who are students and teachers all over the world.
+        - heading "TECHNOLOGY" [level=4] [ref=e54]
+        - paragraph [ref=e55]: Our server-side stack currently includes Linux, Apache, Java, Scala, Python, and Oracle. For our iOS app development, we use Swift. Our front-end code is written in JavaScript (including the React and D3 libraries, and ES6). Of course, the specific technologies and languages you use will vary by project and according to your own interests or specialization areas.
+        - heading "WHAT WE'RE LOOKING FOR" [level=4] [ref=e56]
+        - list [ref=e57]:
+          - listitem [ref=e58]: Bachelor's or advanced degree in computer science or a related discipline
+          - listitem [ref=e59]: Excellent programming skills
+          - listitem [ref=e60]: Strong analytical-reasoning and problem-solving skills
+          - listitem [ref=e61]: Ability to work both independently and with a wide variety of teams
+          - listitem [ref=e62]: Knowledge of Unix, Python, Java, SQL, or JavaScript is a plus
+          - listitem [ref=e63]: Passion for improving education through technology
+        - paragraph [ref=e64]:
+          - emphasis [ref=e66]: The base salary range for this full-time position is $110,000 to $135,000 + equity + benefits. Our pay ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position. Individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training.
+        - generic [ref=e67]:
+          - heading "ABOUT IXL LEARNING" [level=4] [ref=e68]
+          - paragraph [ref=e69]: "IXL Learning is the country's largest EdTech company. We reach millions of learners through our diverse range of products. For example:"
+          - list [ref=e70]:
+            - listitem [ref=e71]:
+              - text: 1 in 4 students in the United States uses
+              - link "IXL.com" [ref=e72] [cursor=pointer]:
+                - /url: https://www.ixl.com/
+            - listitem [ref=e73]:
+              - link "Rosetta Stone" [ref=e74] [cursor=pointer]:
+                - /url: https://www.rosettastone.com/
+              - text: provides an immersive learning experience for 25 languages
+            - listitem [ref=e75]:
+              - link "Wyzant" [ref=e76] [cursor=pointer]:
+                - /url: https://www.wyzant.com/
+              - text: is the nation's largest community of tutors, covering 300+ subjects
+            - listitem [ref=e77]:
+              - link "Teachers Pay Teachers (TPT)" [ref=e78] [cursor=pointer]:
+                - /url: https://www.teacherspayteachers.com/
+              - text: is a comprehensive marketplace for millions of educator-created resources
+          - paragraph [ref=e79]: Our mission is to create innovative products that will make a real, positive difference for learners and educators and we're looking for passionate, mission-minded people to join us in achieving this goal. We have a unique culture at IXL that fosters collaboration and the open exchange of ideas. We value our team and treat one another with kindness and respect. We approach our work with passion, tenacity, and authenticity. We find it immensely satisfying to develop products that impact the lives of millions and we are eager to have you join our team.
+          - blockquote [ref=e80]:
+            - paragraph [ref=e81]:
+              - emphasis [ref=e83]: At IXL, we value diversity in age, race, ethnicity, gender, sexual orientation, physical and mental ability, political and religious beliefs, and life experience, and we are proud to promote a work environment where everyone, from any background, can do their best work. IXL Learning is an equal opportunity employer and does not discriminate against applicants and employees based on any legally protected category.
+    - generic [ref=e84]: This site is protected by reCAPTCHA.
+  - heading "Explore our products" [level=3] [ref=e88]
+  - contentinfo [ref=e90]:
+    - banner [ref=e91] [cursor=pointer]:
+      - img "IXL Learning" [ref=e92]
+    - paragraph [ref=e93]: © 2026 IXL Learning. All rights reserved.
+    - link:
+      - /url: "#top"

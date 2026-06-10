@@ -1,0 +1,112 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Liquid" [ref=e6] [cursor=pointer]:
+        - /url: http://tryliquid.xyz/
+        - img "Liquid" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Liquid’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /liquid?utm_source=Simplify&ref=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Member of Technical Staff" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York City
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $160K – $320K • Offers Equity • Offers Bonus
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [selected] [ref=e36] [cursor=pointer]
+          - tab "Application" [ref=e37] [cursor=pointer]
+        - tabpanel "Overview" [ref=e39]:
+          - generic [ref=e40]:
+            - paragraph [ref=e41]:
+              - strong [ref=e42]: About Liquid
+            - paragraph [ref=e43]: Liquid is a trading platform to trade anything, anytime, and anywhere. Our team is small, highly efficient, motivated, and focused on engineering excellence. We cultivate individuals that enjoy ownership and thrive off of agency. We operate with a flat organizational structure. All employees are expected to be hands-on, and contribute directly to the company's mission. Work ethic, contextual organization and strong prioritization are important. All employees are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+            - paragraph [ref=e44]
+            - paragraph [ref=e45]:
+              - strong [ref=e46]: About the role
+            - paragraph [ref=e47]: We're seeking a remarkable Member of Technical Staff to join our team in managing and enhancing reliability, automating processes, and conjuring excellent experiences for platforms tens of thousands are using now. The ideal candidate will combine strong coding capabilities, contextual awareness, and previous experience to build robust experiences that users can rely on.
+            - paragraph [ref=e48]
+            - paragraph [ref=e49]:
+              - strong [ref=e50]: Responsibilities
+            - list [ref=e51]:
+              - listitem [ref=e52]:
+                - paragraph [ref=e53]: Contribute perspective and craft delightful, interactive, and intuitive user experiences that redefine how people interact with trading platforms on mobile
+              - listitem [ref=e54]:
+                - paragraph [ref=e55]: Drive technical and product decisions, collaborating with designers and engineers to create lightning-fast, highly performant trading systems
+            - paragraph [ref=e56]
+            - paragraph [ref=e57]:
+              - strong [ref=e58]: Qualifications
+            - paragraph [ref=e59]: We do not believe that technical prowess is correlated to age, or previous experience.
+            - list [ref=e60]:
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: You have a strong technical background, backed by proof
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: You take extreme pride in your work, and thrive in meritocratic environments
+              - listitem [ref=e65]:
+                - paragraph [ref=e66]: You are an exceptional software engineer
+            - paragraph [ref=e67]
+            - paragraph [ref=e68]:
+              - strong [ref=e69]: What we prefer
+            - list [ref=e70]:
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]: Bachelor's Degree in Computer Science, or a closely related technical field (or equivalent professional experience)
+              - listitem [ref=e73]:
+                - paragraph [ref=e74]: Previous work in open-source, which we will inquire about if applicable
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: A trading/Olympiad background, but will not be considered negatively if without
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: React, Python for working with our other platforms and backend components
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Pride themselves on delivering results swiftly, often faster than their peers; we ship extremely fast here, and with that we must all maintain velocity
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: An eye for product sense, with an ability to empathize with users, anticipate what they actually need, and translate that into features that deliver actual value
+            - paragraph [ref=e83]
+            - paragraph [ref=e84]:
+              - strong [ref=e85]: Our interview process
+            - paragraph [ref=e86]: "We do not believe in traditional interview processes, and a practical experience is better for us to gauge your experience. You can expect one, or a process similar to the following, based on our perception of your weakness:"
+            - list [ref=e87]:
+              - listitem [ref=e88]:
+                - paragraph [ref=e89]: Peer programming, fitted with system design into an existing implemented system
+              - listitem [ref=e90]:
+                - paragraph [ref=e91]: Implementing new features and deploying them properly
+              - listitem [ref=e92]:
+                - paragraph [ref=e93]: Theoretical questions, pertaining to systematic processes in a work environment
+            - paragraph [ref=e94]: Work trials are paid generously and we may fly you out to New York City to integrate with the team and the office.
+            - paragraph [ref=e95]
+            - paragraph [ref=e96]:
+              - strong [ref=e97]: Compensation and benefits
+            - paragraph [ref=e98]: $160,000 – $320,000 USD
+            - paragraph [ref=e99]: Base salary is not only one of our total compensation package at Liquid, which also includes early equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, wellness benefits, transportation to-and-from office, and fully compensated lunch and dinner.
+          - link "Apply for this Job" [ref=e100] [cursor=pointer]:
+            - /url: /liquid/7b47044b-4b81-44b4-8986-ea5eaaa85c27/application?utm_source=Simplify&ref=Simplify
+            - button "Apply for this Job" [ref=e101]
+  - contentinfo [ref=e102]:
+    - link "Learn more about Ashby" [ref=e103] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e104]: Powered by
+      - img "Ashby" [ref=e105]
+    - paragraph [ref=e111]:
+      - link "Privacy Policy" [ref=e112] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e113] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e114] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

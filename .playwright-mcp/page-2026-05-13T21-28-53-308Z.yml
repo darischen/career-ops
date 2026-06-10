@@ -1,0 +1,101 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "The Job Sauce" [ref=e6] [cursor=pointer]:
+        - /url: https://thejobsauce.com/
+        - paragraph [ref=e7]: The Job Sauce
+    - listitem [ref=e8]:
+      - link "Back to The Job Sauce’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /The%20Job%20Sauce
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer - Strala" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Strala
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $175K – $250K • 0.1% – 0.3%
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [selected] [ref=e36] [cursor=pointer]
+          - tab "Application" [ref=e37] [cursor=pointer]
+        - tabpanel "Overview" [ref=e39]:
+          - generic [ref=e40]:
+            - paragraph [ref=e41]: "TL;DR: Strala is rebuilding the foundation of the world’s largest industry - insurance."
+            - paragraph [ref=e42]: In less than a year, we reached multi seven-figure ARR and are growing 50% MOM. We raised two rounds from Tier 1 funds including Peter Thiel’s Founders Fund, led by the partner who was early in OpenAI, Cognition and Scale AI. Our team comes from institutions like Harvard, Berkeley & Oxford and firms like Optiver, AMD & Palantir (+ICPC, NeurIPS backgrounds).
+            - paragraph [ref=e43]:
+              - strong [ref=e44]: What we are looking for
+            - list [ref=e45]:
+              - listitem [ref=e46]:
+                - paragraph [ref=e47]: Problem Solver - You love solving hard problems (and have a history of doing so).
+              - listitem [ref=e48]:
+                - paragraph [ref=e49]: High Agency & Ownership - You take charge and force things into existence - bonus points if you've been a CTO or founding engineer.
+              - listitem [ref=e50]:
+                - paragraph [ref=e51]: Proven Builder - 2+ years in backend development and Python, with a track record of fast, production-grade code shipping.
+              - listitem [ref=e52]:
+                - paragraph [ref=e53]: Core System Design - You own and are responsible for our core infrastructure, databases (PostgreSQL, vector DBs), and architecture.
+              - listitem [ref=e54]:
+                - paragraph [ref=e55]: Cloud Mastery - You know your way around REST, GraphQL, GCP, AWS, Docker.
+            - paragraph [ref=e56]:
+              - strong [ref=e57]: Your First Month at Strala
+            - list [ref=e58]:
+              - listitem [ref=e59]:
+                - paragraph [ref=e60]: Ship from Day 1 - You deploy to production on your first day and take full responsibility for your code.
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: Ownership - You create specs, you figure shit out, you build features.
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: Solve Every Problem - Hiring your next teammate, designing core infrastructure, scaling the existing codebase.
+            - paragraph [ref=e65]:
+              - strong [ref=e66]: Values
+            - list [ref=e67]:
+              - listitem [ref=e68]:
+                - paragraph [ref=e69]: "Ambition: We want to win, and we need to be the best"
+              - listitem [ref=e70]:
+                - paragraph [ref=e71]: "Performance: Speed, system thinking, efficiency"
+              - listitem [ref=e72]:
+                - paragraph [ref=e73]: "Ownership: When we see a problem, we take ownership of it, and we solve it"
+              - listitem [ref=e74]:
+                - paragraph [ref=e75]: "Spirit: Clarity, optimism, meritocracy"
+            - paragraph [ref=e76]:
+              - strong [ref=e77]: We Offer
+            - list [ref=e78]:
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Impact - Shape a company, redefine an industry, and make your code impact millions.
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: Intensity - Complex problems, ownership, in-person in SF - we are here to solve problems and win.
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: Reward - Interesting work, top quartile salary, top quartile equity.
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: Team - Everyone on our team considers themselves the most competitive and intense person they have ever met.
+              - listitem [ref=e87]:
+                - paragraph [ref=e88]: Zero Barriers - We want the best people and will do whatever it takes. That includes full relocation support, covering all meals and paying for any product that makes you more productive.
+          - link "Apply for this Job" [ref=e89] [cursor=pointer]:
+            - /url: /The%20Job%20Sauce/4270ed4b-0efb-4596-bdf8-047c30209de5/application
+            - button "Apply for this Job" [ref=e90]
+  - contentinfo [ref=e91]:
+    - link "Learn more about Ashby" [ref=e92] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e93]: Powered by
+      - img "Ashby" [ref=e94]
+    - paragraph [ref=e100]:
+      - link "Privacy Policy" [ref=e101] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e102] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e103] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

@@ -1,0 +1,131 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "AXQ Capital Logo" [ref=e5]
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/axq?gh_src=Simplify
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - heading "AI Engineer" [level=1] [ref=e13]
+            - generic [ref=e14]:
+              - img [ref=e15]
+              - generic [ref=e17]: Beijing; New York; Shanghai
+          - button "Apply" [ref=e18] [cursor=pointer]
+        - generic [ref=e20]:
+          - paragraph [ref=e21]:
+            - strong [ref=e23]: About Us
+          - paragraph [ref=e24]:
+            - strong [ref=e26]: AXQ Capital
+            - text: is a global quantitative investment firm with offices in
+            - strong [ref=e28]: New York, Beijing, Shanghai, and Hong Kong
+            - text: . We pursue consistent alpha through rigorous scientific research and sustained investment in technology and data infrastructure. Our strategies are deployed across global markets, spanning multiple geographies, asset classes, and trading horizons.
+          - paragraph [ref=e29]
+          - paragraph [ref=e30]:
+            - strong [ref=e32]: Job Duties
+          - paragraph [ref=e33]:
+            - text: As an
+            - strong [ref=e34]: AI Engineer,
+            - text: you will build the next generation of agentic AI research infrastructure. Working closely with our quantitative research team, you will push the frontiers of modern AI — with the rare advantage of real financial market feedback as your ground truth.
+          - list [ref=e35]:
+            - listitem [ref=e36]: Design and build a multi-agent framework for quantitative finance research
+            - listitem [ref=e37]: Develop tools and deep integrations with AXQ's proprietary research infrastructure
+            - listitem [ref=e38]: Research frontier model capabilities and develop rigorous agentic evaluations
+            - listitem [ref=e39]: Partner with quantitative researchers to create best-in-class system observability, well-grounded research pipelines, and novel research ideation methods
+            - listitem [ref=e40]: High-performing candidates may also contribute directly to model work, including post-training
+          - paragraph [ref=e41]
+          - paragraph [ref=e42]:
+            - strong [ref=e44]: Qualifications
+          - list [ref=e45]:
+            - listitem [ref=e46]:
+              - strong [ref=e47]: 2+ years of experience in software engineering, machine learning, AI research, or a related role
+            - listitem [ref=e48]: Bachelor's, Master's, or PhD from a top-tier university in a quantitative or technical discipline (mathematics, physics, statistics, computer science, or similar)
+            - listitem [ref=e49]: Strong foundation in statistics and machine learning fundamentals
+            - listitem [ref=e50]: Deep, practical knowledge of agentic systems, pre/post-training evaluations, or related AI engineering domains
+            - listitem [ref=e51]: Prior experience in quantitative finance is not required
+            - listitem [ref=e52]: Self-motivated and highly productive, with a strong sense of ownership and a bias toward action
+      - separator [ref=e53]
+      - generic [ref=e54]:
+        - generic [ref=e56]:
+          - heading "Apply for this job" [level=2] [ref=e58]
+          - generic [ref=e59]:
+            - paragraph [ref=e61]: "*"
+            - paragraph [ref=e62]: indicates a required field
+        - generic [ref=e63]:
+          - generic [ref=e64]:
+            - generic [ref=e67]:
+              - generic [ref=e68]: First Name*
+              - textbox "First Name" [ref=e69]
+            - generic [ref=e72]:
+              - generic [ref=e73]: Last Name*
+              - textbox "Last Name" [ref=e74]
+            - generic [ref=e77]:
+              - generic [ref=e78]: Email*
+              - textbox "Email" [ref=e79]
+            - group "Phone" [ref=e81]:
+              - generic [ref=e82]: Phone
+              - generic [ref=e85]:
+                - generic [ref=e86]: Country*
+                - generic [ref=e87]:
+                  - log [ref=e89]
+                  - generic [ref=e91]:
+                    - combobox "Country" [ref=e94]
+                    - button "Toggle flyout" [ref=e96] [cursor=pointer]:
+                      - img [ref=e97]
+                  - textbox
+              - generic [ref=e101]:
+                - generic [ref=e102]: Phone*
+                - textbox "Phone" [ref=e104]
+            - group "Resume/CV*" [ref=e106]:
+              - generic [ref=e107]: Resume/CV*
+              - generic [ref=e109]:
+                - generic [ref=e111]:
+                  - button "Attach" [ref=e112] [cursor=pointer]
+                  - generic [ref=e113]: Attach
+                  - button "Attach" [ref=e114]
+                - generic [ref=e116]:
+                  - button "Enter manually" [ref=e117] [cursor=pointer]
+                  - generic [ref=e118]: Enter manually
+                - paragraph [ref=e119]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e121]:
+              - generic [ref=e122]: Cover Letter
+              - generic [ref=e124]:
+                - generic [ref=e126]:
+                  - button "Attach" [ref=e127] [cursor=pointer]
+                  - generic [ref=e128]: Attach
+                  - button "Attach" [ref=e129]
+                - generic [ref=e131]:
+                  - button "Enter manually" [ref=e132] [cursor=pointer]
+                  - generic [ref=e133]: Enter manually
+                - paragraph [ref=e134]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e135]:
+            - separator [ref=e136]
+            - generic [ref=e139]:
+              - generic [ref=e140]: Work Location (Select all that apply)
+              - generic [ref=e141]:
+                - log [ref=e143]
+                - generic [ref=e145]:
+                  - generic [ref=e146]:
+                    - generic [ref=e147]: Select...
+                    - combobox "Work Location (Select all that apply)" [ref=e149]
+                  - button "Toggle flyout" [ref=e151] [cursor=pointer]:
+                    - img [ref=e152]
+            - generic [ref=e156]:
+              - generic [ref=e157]: LinkedIn (Optional)
+              - textbox "LinkedIn (Optional)" [ref=e158]
+            - generic [ref=e161]:
+              - generic [ref=e162]: Reference (Optional)
+              - textbox "Reference (Optional)" [ref=e163]
+          - button "Submit application" [ref=e165] [cursor=pointer]
+  - contentinfo [ref=e166]:
+    - generic [ref=e167]:
+      - paragraph [ref=e168]: Powered by
+      - link "Greenhouse logo" [ref=e169] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e170]
+  - iframe [ref=e184]:
+    - generic [ref=f16e6]:
+      - text: protected by
+      - strong [ref=f16e7]: reCAPTCHA

@@ -1,0 +1,170 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Assort Health" [ref=e6] [cursor=pointer]:
+        - /url: https://www.assorthealth.com/
+        - img "Assort Health" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Assort Health’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /assorthealth
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Agent Engineer (New Grad, Summer 2026)" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco (HQ)
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $135K – $150K • Offers Equity
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [selected] [ref=e36] [cursor=pointer]
+          - tab "Application" [ref=e37] [cursor=pointer]
+        - tabpanel "Overview" [ref=e39]:
+          - generic [ref=e40]:
+            - heading "Our mission is to make exceptional healthcare accessible anytime, anywhere, for anyone." [level=1] [ref=e41]:
+              - strong [ref=e42]: Our mission is to make exceptional healthcare accessible anytime, anywhere, for anyone.
+            - paragraph [ref=e43]: At Assort Health, we believe healthcare should feel effortless and connected — quick answers, clear communication, and seamless access to care. That’s why we’re building a new foundation for how patients and providers connect, driven by AI, built to embrace the complexities of healthcare, and tailored to each provider’s unique needs.
+            - paragraph [ref=e44]: Assort is the most comprehensive patient experience platform powered by specialty-specific agentic AI. Assort’s omnichannel AI agents seamlessly integrate with EHR/PMS and complicated provider preferences to eliminate lengthy hold times and inefficiencies that stand in the way of patients getting the care they need.
+            - paragraph [ref=e45]:
+              - text: Since launching in 2023, Assort has managed
+              - strong [ref=e46]: over 145M+ patient interactions
+              - text: ", slashing average hold times from"
+              - strong [ref=e47]: 11 minutes to 1 minute
+              - text: . Our platform now handles calls for
+              - strong [ref=e48]: thousands of providers
+              - text: with
+              - strong [ref=e49]: 98%+ resolution rates
+              - text: and
+              - strong [ref=e50]: 99% scheduling accuracy
+              - text: . Patient satisfaction averages
+              - strong [ref=e51]: 4.5/5 over 52K reviews
+              - text: ", and we’ve achieved"
+              - strong [ref=e52]: 20× revenue growth in 2025
+              - text: . We’re scaling rapidly and expanding adoption across the entire healthcare industry.
+            - paragraph [ref=e53]
+            - paragraph [ref=e54]
+            - heading "About the Role" [level=1] [ref=e55]:
+              - strong [ref=e56]: About the Role
+            - paragraph [ref=e57]: We're on the hunt for driven, hacky and scrappy product-minded Engineers to join our team at an exciting stage of our startup's journey. If you're eager to contribute to building and scaling innovative products, this role is your ticket to making a significant impact. You'll gain hands-on experience in a dynamic startup environment, working with and contributing to cutting-edge generative AI and voice/transcription models + technologies.
+            - paragraph [ref=e58]: As part of our engineering department, you will be a cornerstone to our company's growth and success. If you are a self-starter who is ready to wear many hats and build and scale products from zero-one, then this is the perfect role for you. You’ll have lots of autonomy and will need to be comfortable operating in ambiguous situations with an entrepreneurial mindset.
+            - paragraph [ref=e59]:
+              - strong [ref=e60]: The anticipated start date for this role is Summer 2026.
+            - paragraph [ref=e61]
+            - heading "What You'll Do" [level=1] [ref=e62]:
+              - strong [ref=e63]: What You'll Do
+            - list [ref=e64]:
+              - listitem [ref=e65]:
+                - paragraph [ref=e66]: Be involved in key decisions alongside the founders
+              - listitem [ref=e67]:
+                - paragraph [ref=e68]: Work closely with our world-class engineering team to develop features and products from the ground up.
+              - listitem [ref=e69]:
+                - paragraph [ref=e70]: Enjoy a high degree of autonomy, tasked with solving complex problems in innovative ways.
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]: Participate actively in design and development discussions, contributing fresh ideas and perspectives.
+              - listitem [ref=e73]:
+                - paragraph [ref=e74]: Engage with healthcare professionals to tailor software solutions that meet real-world needs.
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: Play a role in an agile team, prioritizing rapid development and deployment to meet our ambitious goals.
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: You will develop scalable software solutions that comply with HIPAA and other security standards.
+            - paragraph [ref=e79]
+            - heading "What We're Looking For" [level=1] [ref=e80]:
+              - strong [ref=e81]: What We're Looking For
+            - list [ref=e82]:
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: Strong engineering fundamentals and a demonstrated ability to design, build, and scale production-grade applications or systems.
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: Willingness to wear multiple hats—from design and development to testing and occasional support. Comfortable with rapid iteration, experimentation, and learning from failure in a fast-paced environment.
+            - paragraph [ref=e87]
+            - paragraph [ref=e88]
+            - heading "Benefits & Perks for Assorties" [level=1] [ref=e89]:
+              - strong [ref=e90]: Benefits & Perks for Assorties
+            - list [ref=e91]:
+              - listitem [ref=e92]:
+                - paragraph [ref=e93]:
+                  - strong [ref=e94]: 💸 Competitive Compensation
+                  - text: – Including salary
+                  - emphasis [ref=e95]: and
+                  - text: employee stock options so you share in our success.
+              - listitem [ref=e96]:
+                - paragraph [ref=e97]:
+                  - strong [ref=e98]: 📚 Lifelong Learning
+                  - text: – Annual budget for professional development, plus training opportunities to help you grow.
+              - listitem [ref=e99]:
+                - paragraph [ref=e100]:
+                  - strong [ref=e101]: 💻 Office Setup Stipend
+                  - text: – We’ll outfit your in-office workspace so comfy as it's productive.
+              - listitem [ref=e102]:
+                - paragraph [ref=e103]:
+                  - strong [ref=e104]: 🩺 Top-Tier Health Coverage
+                  - text: – Medical, dental, and vision insurance, because your health comes first.
+              - listitem [ref=e105]:
+                - paragraph [ref=e106]:
+                  - strong [ref=e107]: 🏖 Unlimited PTO
+                  - text: – We trust you to take the time you need to recharge and come back ready to crush it.
+              - listitem [ref=e108]:
+                - paragraph [ref=e109]:
+                  - strong [ref=e110]: 🥗 Meals & Snacks
+                  - text: – Lunch, dinner, and snack breaks that fuel great ideas.
+              - listitem [ref=e111]:
+                - paragraph [ref=e112]:
+                  - strong [ref=e113]: 💪 Fitness Stipend
+                  - text: – Your wellness matters. We reimburse monthly membership costs to support your health.
+              - listitem [ref=e114]:
+                - paragraph [ref=e115]:
+                  - text: 🚆
+                  - strong [ref=e116]: Commuter Benefits
+                  - text: – We cover eligible transportation costs to make your trip to work easier.
+              - listitem [ref=e117]:
+                - paragraph [ref=e118]:
+                  - strong [ref=e119]: 👵 401(k)
+                  - text: – Build your retirement savings.
+                - paragraph [ref=e120]
+            - heading "How We Work & What We Value" [level=1] [ref=e121]
+            - paragraph [ref=e122]:
+              - text: Our team at Assort Health moves fast, stays focused, and is fueled by a desire to serve our customers and patients. Our company values guide
+              - emphasis [ref=e123]: how
+              - text: we work—they are present in how we show up, make decisions and work together to move our mission forward. We bring a
+              - strong [ref=e124]: Day One Drive
+              - text: ", relentlessly striving to improve, keep a"
+              - strong [ref=e125]: 5-Star Focus
+              - text: ", as our customers are our lifeblood, always"
+              - strong [ref=e126]: Answer the Call
+              - text: ", remembering that ownership and accountability are paramount, and show up with"
+              - strong [ref=e127]: One Pulse
+              - text: ", because we are one team, with one rhythm and one result. Our team is growing and we are looking for motivated, hardworking, and passionate talent. If you want to make healthcare accessible for everyone, we’d love to hear from you!"
+              - strong [ref=e128]: "Please note:"
+              - text: the Assort Health Talent Team will only email you from an
+              - link "assorthealth.com" [ref=e129] [cursor=pointer]:
+                - /url: http://assorthealth.com
+              - text: email address.
+          - link "Apply for this Job" [ref=e130] [cursor=pointer]:
+            - /url: /assorthealth/64876579-05a2-40b6-a772-d1ce8b0ac8c4/application
+            - button "Apply for this Job" [ref=e131]
+  - contentinfo [ref=e132]:
+    - link "Learn more about Ashby" [ref=e133] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e134]: Powered by
+      - img "Ashby" [ref=e135]
+    - paragraph [ref=e141]:
+      - link "Privacy Policy" [ref=e142] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e143] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e144] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

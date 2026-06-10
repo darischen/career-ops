@@ -1,0 +1,367 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "Wonderschool Logo" [ref=e5]
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/wonderschool
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - heading "Early Career Software Engineer – Applied AI" [level=1] [ref=e13]
+            - generic [ref=e14]:
+              - img [ref=e15]
+              - generic [ref=e17]: San Francisco
+          - button "Apply" [ref=e18] [cursor=pointer]
+        - generic [ref=e20]:
+          - paragraph [ref=e21]:
+            - strong [ref=e22]: About Wonderschool
+          - paragraph [ref=e23]:
+            - link "Wonderschool" [ref=e24] [cursor=pointer]:
+              - /url: https://wonderschool.com/
+            - text: is harnessing the power of technology to provide comprehensive support to childcare providers operating out of their homes as well as in the government and non-profit sectors. Our products enable childcare providers to create high-quality environments and meet the demands of their business, while also helping parents in need of childcare solutions through the creation of an accessible marketplace.
+          - paragraph [ref=e25]: We are seeking a highly skilled and motivated Early Career Software Engineer to join our team. As the Early Career Software Engineer, you will play a crucial role in leading our software development initiatives, working with a talented team to create innovative solutions. Your expertise in delivery of high-quality software will be essential in driving the development of our cutting-edge applications.
+          - paragraph [ref=e26]:
+            - strong [ref=e27]: Role Overview
+          - paragraph [ref=e28]: We are seeking an Early Career Software Engineer with an interest in applied AI to join our growing team. This is a unique opportunity to work in a fast-paced, purpose-driven environment where you can apply your technical skills to create meaningful impact in the childcare ecosystem. You’ll collaborate with cross-functional teams to build scalable, AI-driven solutions that empower childcare providers and improve parent experiences. This position is on site in our San Francisco office, Tuesday, Wednesday, and Thursday to allow for collaboration.
+          - paragraph [ref=e29]:
+            - strong [ref=e30]: Key Responsibilities
+          - list [ref=e31]:
+            - listitem [ref=e32]: Design, develop, and maintain robust software solutions with a focus on integrating AI capabilities.
+            - listitem [ref=e33]: Collaborate with product managers, designers, and engineers to define requirements and implement innovative features.
+          - list [ref=e34]:
+            - listitem [ref=e35]: "Design and Development of AI Agents: Build modular, task-specific AI agents capable of natural language understanding, dialogue management, and action execution using frameworks such as LangChain or Rasa."
+            - listitem [ref=e36]: Debug and troubleshoot technical issues to ensure platform stability.
+            - listitem [ref=e37]: Stay current with emerging technologies and best practices in software engineering and AI.
+          - paragraph [ref=e38]:
+            - strong [ref=e39]: Required Qualifications
+          - list [ref=e40]:
+            - listitem [ref=e41]: Bachelor’s degree in Computer Science, Engineering, or related field.
+            - listitem [ref=e42]: Strong foundation in programming languages (e.g., Python, JavaScript, or TypeScript).
+            - listitem [ref=e43]: Familiarity with AI/ML concepts and frameworks (e.g., TensorFlow, PyTorch, Scikit-learn).
+            - listitem [ref=e44]: Basic understanding of cloud platforms like Google Cloud Platform and AWS.
+            - listitem [ref=e45]: Excellent communication skills and ability to work in a collaborative, in-person environment.
+          - paragraph [ref=e46]:
+            - strong [ref=e47]: Nice-to-Have Skills
+          - list [ref=e48]:
+            - listitem [ref=e49]: Strong understanding of machine learning principles, including model development, evaluation, and deployment for real-world applications.
+            - listitem [ref=e50]:
+              - strong [ref=e51]: Retrieval-Augmented Generation (RAG) Pipelines
+              - text: ": Design and deploy RAG pipelines by integrating retrievers with generative models to enable contextual, real-time responses using vectorized knowledge bases."
+            - listitem [ref=e52]:
+              - strong [ref=e53]: Continuous Learning
+              - text: ": Incorporate user feedback loops and data augmentation techniques to iteratively improve the performance and relevance of AI agents and RAG pipelines."
+          - paragraph [ref=e54]:
+            - strong [ref=e55]: What We Offer
+          - list [ref=e56]:
+            - listitem [ref=e57]:
+              - strong [ref=e58]: Compensation
+              - text: ": Expected salary range is $100K–$120K annually, based on experience and location."
+            - listitem [ref=e59]:
+              - strong [ref=e60]: Health Benefits
+              - text: ": 100% coverage for employee premiums and 80% for dependents."
+            - listitem [ref=e61]:
+              - strong [ref=e62]: Wellness
+              - text: ": Flexible PTO, mental wellness days, and reimbursements for wellness initiatives."
+            - listitem [ref=e63]:
+              - strong [ref=e64]: Parental Leave
+              - text: ": Competitive policies eligible after six months of employment."
+            - listitem [ref=e65]:
+              - strong [ref=e66]: Work Environment
+              - text: ": 3-5 Days in our SF Office in Downtown in SF with lunch covered."
+          - paragraph [ref=e67]:
+            - link "Wonderschool’s" [ref=e68] [cursor=pointer]:
+              - /url: https://wonderschool.com/
+            - text: mission is to ensure every child has access to child care that helps them realize their potential. We are doing this by building a suite of tools to support passionate early care and education professionals to start and run quality and sustainable child care programs. Our tools allow providers to easily manage their students, parents, and school all from one dashboard. Our community allows providers to seek advice, support, and a sense of belonging with a group of like-minded peers.
+          - paragraph [ref=e69]: For parents, our marketplace allows parents to easily search for schools, schedule visits, enroll their children, and make payments.
+          - paragraph [ref=e70]: The first five years of a child’s life are critical for nurturing brain development for success in school and beyond. All children deserve access to a care situation that will allow them to grow into healthy, lifelong learners. By leading a revolution where all children are able to get access to an environment to develop these skills, we can create drastic changes to neighborhoods and societies as a whole.
+        - generic [ref=e71]:
+          - img [ref=e72]
+          - generic [ref=e74]:
+            - paragraph [ref=e75]: Create a Job Alert
+            - paragraph [ref=e76]: Interested in building your career at Wonderschool? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e77] [cursor=pointer]
+      - separator [ref=e78]
+      - generic [ref=e79]:
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - heading "Apply for this job" [level=2] [ref=e83]
+            - generic [ref=e84]:
+              - paragraph [ref=e86]: "*"
+              - paragraph [ref=e87]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e90] [cursor=pointer]
+        - generic [ref=e91]:
+          - generic [ref=e92]:
+            - generic [ref=e95]:
+              - generic [ref=e96]: First Name*
+              - textbox "First Name" [ref=e97]
+            - generic [ref=e100]:
+              - generic [ref=e101]: Last Name*
+              - textbox "Last Name" [ref=e102]
+            - generic [ref=e105]:
+              - generic [ref=e106]: Email*
+              - textbox "Email" [ref=e107]
+            - group "Phone" [ref=e109]:
+              - generic [ref=e110]: Phone
+              - generic [ref=e113]:
+                - generic [ref=e114]: Country*
+                - generic [ref=e115]:
+                  - log [ref=e117]
+                  - generic [ref=e119]:
+                    - combobox "Country" [ref=e122]
+                    - button "Toggle flyout" [ref=e124] [cursor=pointer]:
+                      - img [ref=e125]
+                  - textbox
+              - generic [ref=e129]:
+                - generic [ref=e130]: Phone*
+                - textbox "Phone" [ref=e131]
+            - group "Resume/CV*" [ref=e133]:
+              - generic [ref=e134]: Resume/CV*
+              - generic [ref=e136]:
+                - generic [ref=e138]:
+                  - button "Attach" [ref=e139] [cursor=pointer]
+                  - generic [ref=e140]: Attach
+                  - button "Attach" [ref=e141]
+                - button "Dropbox" [ref=e143] [cursor=pointer]
+                - button "Google Drive" [ref=e145] [cursor=pointer]
+                - generic [ref=e147]:
+                  - button "Enter manually" [ref=e148] [cursor=pointer]
+                  - generic [ref=e149]: Enter manually
+                - paragraph [ref=e150]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e151]:
+            - generic [ref=e152]:
+              - separator [ref=e153]
+              - paragraph [ref=e155]: Education
+              - generic [ref=e157]:
+                - generic [ref=e158]: School
+                - generic [ref=e159]:
+                  - log [ref=e161]
+                  - generic [ref=e163]:
+                    - generic [ref=e164]:
+                      - generic [ref=e165]: Select...
+                      - combobox "School" [ref=e167]
+                    - button "Toggle flyout" [ref=e169] [cursor=pointer]:
+                      - img [ref=e170]
+              - generic [ref=e173]:
+                - generic [ref=e174]: Degree
+                - generic [ref=e175]:
+                  - log [ref=e177]
+                  - generic [ref=e179]:
+                    - generic [ref=e180]:
+                      - generic [ref=e181]: Select...
+                      - combobox "Degree" [ref=e183]
+                    - button "Toggle flyout" [ref=e185] [cursor=pointer]:
+                      - img [ref=e186]
+              - generic [ref=e189]:
+                - generic [ref=e190]: Discipline
+                - generic [ref=e191]:
+                  - log [ref=e193]
+                  - generic [ref=e195]:
+                    - generic [ref=e196]:
+                      - generic [ref=e197]: Select...
+                      - combobox "Discipline" [ref=e199]
+                    - button "Toggle flyout" [ref=e201] [cursor=pointer]:
+                      - img [ref=e202]
+              - generic [ref=e204]:
+                - generic [ref=e205]:
+                  - generic [ref=e207]:
+                    - generic [ref=e208]: Start date month
+                    - generic [ref=e209]:
+                      - log [ref=e211]
+                      - generic [ref=e213]:
+                        - generic [ref=e214]:
+                          - generic [ref=e215]: Select...
+                          - combobox "Start date month" [ref=e217]
+                        - button "Toggle flyout" [ref=e219] [cursor=pointer]:
+                          - img [ref=e220]
+                  - generic [ref=e223]:
+                    - generic [ref=e224]: Start date year
+                    - spinbutton "Start date year" [ref=e225]
+                - generic [ref=e226]:
+                  - generic [ref=e228]:
+                    - generic [ref=e229]: End date month
+                    - generic [ref=e230]:
+                      - log [ref=e232]
+                      - generic [ref=e234]:
+                        - generic [ref=e235]:
+                          - generic [ref=e236]: Select...
+                          - combobox "End date month" [ref=e238]
+                        - button "Toggle flyout" [ref=e240] [cursor=pointer]:
+                          - img [ref=e241]
+                  - generic [ref=e244]:
+                    - generic [ref=e245]: End date year
+                    - spinbutton "End date year" [ref=e246]
+            - button "Add another" [ref=e247] [cursor=pointer]
+          - generic [ref=e248]:
+            - separator [ref=e249]
+            - generic [ref=e252]:
+              - generic [ref=e253]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e254]
+            - generic [ref=e257]:
+              - generic [ref=e258]: Github or Website*
+              - textbox "Github or Website" [ref=e259]
+            - generic [ref=e262]:
+              - generic [ref=e263]: What is your current position?*
+              - textbox "What is your current position?" [ref=e264]
+            - generic [ref=e267]:
+              - generic [ref=e268]: What is your current company?*
+              - textbox "What is your current company?" [ref=e269]
+            - generic [ref=e272]:
+              - generic [ref=e273]: Are you currently authorized to work in the United States? *
+              - generic [ref=e274]:
+                - log [ref=e276]
+                - generic [ref=e278]:
+                  - generic [ref=e279]:
+                    - generic [ref=e280]: Select...
+                    - combobox "Are you currently authorized to work in the United States?" [ref=e282]
+                  - button "Toggle flyout" [ref=e284] [cursor=pointer]:
+                    - img [ref=e285]
+                - textbox
+            - generic [ref=e289]:
+              - generic [ref=e290]: Do you now, or will you in the future, require sponsorship to work in the United States?*
+              - generic [ref=e291]:
+                - log [ref=e293]
+                - generic [ref=e295]:
+                  - generic [ref=e296]:
+                    - generic [ref=e297]: Select...
+                    - combobox "Do you now, or will you in the future, require sponsorship to work in the United States?" [ref=e299]
+                  - button "Toggle flyout" [ref=e301] [cursor=pointer]:
+                    - img [ref=e302]
+                - textbox
+            - generic [ref=e304]:
+              - generic [ref=e306]:
+                - generic [ref=e307]: Are you comfortable coming in 5 days a week to the office?*
+                - textbox "Are you comfortable coming in 5 days a week to the office?" [ref=e308]
+              - paragraph [ref=e311]: We normally require 3 days a week however since this for individuals earlier in their career we believe 5 days a week of in person training and collaboration will be required for success?
+            - generic [ref=e312]:
+              - generic [ref=e314]:
+                - generic [ref=e315]: Are you willing to spend a significant portion of your time (up to 50%) working directly with customers through support tickets and calls to inform the AI systems you build, and can you share specific examples where you’ve worked outside traditional engineering responsibilities or why this type of work appeals to you?*
+                - textbox "Are you willing to spend a significant portion of your time (up to 50%) working directly with customers through support tickets and calls to inform the AI systems you build, and can you share specific examples where you’ve worked outside traditional engineering responsibilities or why this type of work appeals to you?" [ref=e316]
+              - generic [ref=e318]:
+                - paragraph [ref=e319]: This role focuses on building applied AI systems that automate customer interactions. To do this well, you will spend up to 50% of your time directly handling support tickets and customer calls. This hands-on exposure ensures you deeply understand user needs, edge cases, and the real-world workflows the AI must replicate or improve.
+                - paragraph [ref=e320]: You will use these insights to design, build, and iterate on AI-driven solutions that improve quality, efficiency, and customer experience. The role is best suited for someone who is excited to operate beyond traditional software engineering boundaries, enjoys engaging directly with customers, and can translate those experiences into practical, high-impact AI systems.
+            - generic [ref=e321]:
+              - generic [ref=e323]:
+                - generic [ref=e324]: What experience do you have using tools like Claude Code, OpenClaw, or similar AI-assisted development environments?*
+                - textbox "What experience do you have using tools like Claude Code, OpenClaw, or similar AI-assisted development environments?" [ref=e325]
+              - paragraph [ref=e335]: In this role, a significant portion of your work will involve building tools that allow non-engineers to create, modify, and operate workflows using AI-assisted coding systems. You will also be expected to use these tools yourself to accelerate development. We are looking for candidates who not only use AI to write code, but who can design systems that enable others to do the same effectively.
+            - generic [ref=e338]:
+              - generic [ref=e339]: Where did you attend undergad?*
+              - textbox "Where did you attend undergad?" [ref=e340]
+            - generic [ref=e343]:
+              - generic [ref=e344]: What did you get your undergrad degree in?*
+              - textbox "What did you get your undergrad degree in?" [ref=e345]
+            - generic [ref=e348]:
+              - generic [ref=e349]: What startup or founder experience do you have?*
+              - textbox "What startup or founder experience do you have?" [ref=e350]
+            - generic [ref=e353]:
+              - generic [ref=e354]: Describe a system you've built, either online or offline. Or even a video game. *
+              - textbox "Describe a system you've built, either online or offline. Or even a video game." [ref=e355]
+          - generic [ref=e356]:
+            - separator [ref=e357]
+            - generic [ref=e358]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e359]
+              - paragraph [ref=e360]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e361]: As set forth in Wonderschool’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e364]:
+              - generic [ref=e365]: Gender
+              - generic [ref=e366]:
+                - log [ref=e368]
+                - generic [ref=e370]:
+                  - generic [ref=e371]:
+                    - generic [ref=e372]: Select...
+                    - combobox "Gender" [ref=e374]
+                  - button "Toggle flyout" [ref=e376] [cursor=pointer]:
+                    - img [ref=e377]
+            - generic [ref=e379]:
+              - generic [ref=e381]:
+                - generic [ref=e382]: Are you Hispanic/Latino?
+                - generic [ref=e383]:
+                  - log [ref=e385]
+                  - generic [ref=e387]:
+                    - generic [ref=e388]:
+                      - generic [ref=e389]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e391]
+                    - button "Toggle flyout" [ref=e393] [cursor=pointer]:
+                      - img [ref=e394]
+              - link "Race & Ethnicity Definitions" [ref=e396] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e397]:
+              - paragraph [ref=e398]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e399]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e400]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e401]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e402]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e405]:
+              - generic [ref=e406]: Veteran Status
+              - generic [ref=e407]:
+                - log [ref=e409]
+                - generic [ref=e411]:
+                  - generic [ref=e412]:
+                    - generic [ref=e413]: Select...
+                    - combobox "Veteran Status" [ref=e415]
+                  - button "Toggle flyout" [ref=e417] [cursor=pointer]:
+                    - img [ref=e418]
+            - separator [ref=e420]
+            - generic [ref=e421]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e422]
+              - generic [ref=e423]:
+                - generic [ref=e424]:
+                  - generic [ref=e425]: Form CC-305
+                  - generic [ref=e426]: Page 1 of 1
+                - generic [ref=e427]:
+                  - generic [ref=e428]: OMB Control Number 1250-0005
+                  - generic [ref=e429]: Expires 04/30/2026
+              - strong [ref=e430]: Why are you being asked to complete this form?
+              - paragraph [ref=e431]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e432]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e433] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e434]: How do you know if you have a disability?
+              - paragraph [ref=e435]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e436]: "Disabilities include, but are not limited to:"
+              - list [ref=e437]:
+                - listitem [ref=e438]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e439]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e440]: Blind or low vision
+                - listitem [ref=e441]: Cancer (past or present)
+                - listitem [ref=e442]: Cardiovascular or heart disease
+                - listitem [ref=e443]: Celiac disease
+                - listitem [ref=e444]: Cerebral palsy
+                - listitem [ref=e445]: Deaf or serious difficulty hearing
+                - listitem [ref=e446]: Diabetes
+                - listitem [ref=e447]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e448]: Epilepsy or other seizure disorder
+                - listitem [ref=e449]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e450]: Intellectual or developmental disability
+                - listitem [ref=e451]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e452]: Missing limbs or partially missing limbs
+                - listitem [ref=e453]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e454]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e455]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e456]: Partial or complete paralysis (any cause)
+                - listitem [ref=e457]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e458]: Short stature (dwarfism)
+                - listitem [ref=e459]: Traumatic brain injury
+            - generic [ref=e462]:
+              - generic [ref=e463]: Disability Status
+              - generic [ref=e464]:
+                - log [ref=e466]
+                - generic [ref=e468]:
+                  - generic [ref=e469]:
+                    - generic [ref=e470]: Select...
+                    - combobox "Disability Status" [ref=e472]
+                  - button "Toggle flyout" [ref=e474] [cursor=pointer]:
+                    - img [ref=e475]
+            - paragraph [ref=e478]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e480] [cursor=pointer]
+  - contentinfo [ref=e481]:
+    - generic [ref=e482]:
+      - paragraph [ref=e483]: Powered by
+      - link "Greenhouse logo" [ref=e484] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e485]

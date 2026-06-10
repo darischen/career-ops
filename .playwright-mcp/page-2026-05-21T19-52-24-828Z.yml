@@ -1,0 +1,161 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Parspec" [ref=e6] [cursor=pointer]:
+        - /url: http://parspec.io
+        - img "Parspec" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Parspec’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /parspec?utm_source=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Machine Learning Engineer - 1" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: Hybrid - San Mateo, California
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Department" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Parspec US
+      - generic [ref=e26]:
+        - tablist [ref=e27]:
+          - tab "Overview" [selected] [ref=e28] [cursor=pointer]
+          - tab "Application" [ref=e29] [cursor=pointer]
+        - tabpanel "Overview" [ref=e31]:
+          - generic [ref=e32]:
+            - heading "About Parspec" [level=2] [ref=e33]
+            - paragraph [ref=e34]: Founded in 2021, Parspec is revolutionizing material procurement for the $13 trillion USD construction industry by digitizing and organizing the industry's product data. Our proprietary AI technology maintains a current and comprehensive catalogue of millions of products, enabling our customers to identify products that best meet their needs - instantly. Trusted by top designers, builders, distributors and sales agents and backed by leading venture investors, Parspec is paving the way for a more innovative, connected, and sustainable future in construction. Join us in building transformative technology that reshapes one of the world’s oldest and largest industries.
+            - paragraph [ref=e35]
+            - heading "The Opportunity" [level=2] [ref=e36]
+            - paragraph [ref=e37]: We're looking for a Machine Learning Engineer 1 to join our AI team in San Mateo. This is an early-career role for someone with strong ML fundamentals, real curiosity, and a drive to ship production systems.
+            - paragraph [ref=e38]: "You'll work alongside senior ML engineers on the AI behind Parspec's product catalog: search, ranking, recommendations, NLP, and document extraction. You'll own real components from day one, with scope that grows as you do."
+            - paragraph [ref=e39]
+            - heading "What You'll Do" [level=2] [ref=e40]
+            - heading "Search, Ranking & Recommendations" [level=3] [ref=e41]
+            - list [ref=e42]:
+              - listitem [ref=e43]:
+                - paragraph [ref=e44]: Contribute to hybrid search systems that combine keyword retrieval with dense vector embeddings
+              - listitem [ref=e45]:
+                - paragraph [ref=e46]: Help develop and evaluate recommendation models for product discovery and personalization
+              - listitem [ref=e47]:
+                - paragraph [ref=e48]: Implement and experiment with retrieval, ranking, and re-ranking approaches under guidance from senior engineers
+              - listitem [ref=e49]:
+                - paragraph [ref=e50]: Work with vector databases and embedding pipelines to improve search relevance across millions of products
+            - heading "NLP & Document Extraction" [level=3] [ref=e51]
+            - list [ref=e52]:
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: Build and improve NLP pipelines for construction domain tasks like entity extraction, classification, and text understanding
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]: Contribute to document extraction systems that turn PDFs, spec sheets, and product catalogs into structured data
+              - listitem [ref=e57]:
+                - paragraph [ref=e58]: Experiment with LLM-based approaches (prompting, RAG pipelines) for domain-specific information retrieval
+              - listitem [ref=e59]:
+                - paragraph [ref=e60]: Debug model behavior. Understand why a model is wrong, instead of retraining and hoping
+            - heading "Data & Pipeline Work" [level=3] [ref=e61]
+            - list [ref=e62]:
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: Build and maintain data pipelines for model training and evaluation
+              - listitem [ref=e65]:
+                - paragraph [ref=e66]: Create, clean, and curate labeled datasets. Data quality is a first-class problem here
+              - listitem [ref=e67]:
+                - paragraph [ref=e68]: Build evaluation frameworks for search relevance and extraction accuracy
+              - listitem [ref=e69]:
+                - paragraph [ref=e70]: Instrument models with metrics and monitoring to catch regressions early
+            - heading "Product Contribution" [level=3] [ref=e71]
+            - list [ref=e72]:
+              - listitem [ref=e73]:
+                - paragraph [ref=e74]: Work with product managers and senior engineers to turn business problems into ML solutions
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: Participate in the full lifecycle, from prototyping through deployment
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: Own specific components or features end-to-end, with increasing scope over time
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Use AI tools (Claude Code, Copilot) as part of your daily workflow. We're an AI-native team
+            - heading "Who You Are" [level=2] [ref=e81]
+            - paragraph [ref=e82]: You're early in your career, but you've done the work. You've trained models, not just followed tutorials, and you understand why things work, not just how to call a function. You write code other people can read, and you care about getting the details right.
+            - paragraph [ref=e83]: You're comfortable with ambiguity. You don't need a perfectly scoped ticket to make progress. When something breaks, you debug it methodically rather than guessing.
+            - paragraph [ref=e84]: You already use LLMs, Copilot, or similar tools in your own workflow. You see AI-augmented development as a multiplier.
+            - paragraph [ref=e85]: You want to work on hard, real problems with messy data. You'd rather build a document extraction pipeline that handles thousands of noisy PDFs than tune a metric on a clean benchmark. You care about impact, and you want to learn from people who've shipped production AI.
+            - paragraph [ref=e86]
+            - heading "Why This Matters" [level=2] [ref=e87]
+            - paragraph [ref=e88]: Construction is one of the last major industries to be digitized. Most of the data is buried in PDFs, spec sheets, and product catalogs that were never designed for machines to read. You'll be building the AI that makes this data accessible, searchable, and useful.
+            - paragraph [ref=e89]
+            - heading "Minimum Qualifications" [level=2] [ref=e90]
+            - list [ref=e91]:
+              - listitem [ref=e92]:
+                - paragraph [ref=e93]: "Education: Bachelor's or Master's in Computer Science, Engineering, or a related field"
+              - listitem [ref=e94]:
+                - paragraph [ref=e95]: "Experience: 0-2 years in ML/AI (internships, academic projects, or early-career roles count)"
+              - listitem [ref=e96]:
+                - paragraph [ref=e97]: "ML Fundamentals: Solid grasp of supervised and unsupervised learning, bias-variance tradeoff, regularization, and cross-validation"
+              - listitem [ref=e98]:
+                - paragraph [ref=e99]: "Deep Learning: Working knowledge of CNNs, transformers, training loops, and loss functions"
+              - listitem [ref=e100]:
+                - paragraph [ref=e101]: "NLP or Search: Exposure to text processing, embeddings, retrieval, or information extraction"
+              - listitem [ref=e102]:
+                - paragraph [ref=e103]: "Python: Proficient beyond notebooks. Can write clean, testable code with NumPy, Pandas, and scikit-learn"
+              - listitem [ref=e104]:
+                - paragraph [ref=e105]: "Frameworks: Experience with PyTorch or TensorFlow. You've trained models, not just called APIs"
+              - listitem [ref=e106]:
+                - paragraph [ref=e107]: "Engineering Basics: Familiar with Git, collaborative development workflows, and writing code others can maintain"
+              - listitem [ref=e108]:
+                - paragraph [ref=e109]: "Mindset: Strong problem-solving, curiosity, and a bias toward shipping"
+            - heading "Preferred Qualifications" [level=2] [ref=e110]
+            - list [ref=e111]:
+              - listitem [ref=e112]:
+                - paragraph [ref=e113]: Experience with search or recommendation systems (academic or personal projects count)
+              - listitem [ref=e114]:
+                - paragraph [ref=e115]: Familiarity with vector databases (Pinecone, Qdrant, Milvus, FAISS)
+              - listitem [ref=e116]:
+                - paragraph [ref=e117]: Exposure to LLMs. Has used APIs, built simple RAG pipelines, or experimented with fine-tuning
+              - listitem [ref=e118]:
+                - paragraph [ref=e119]: Experience with OCR, PDF parsing, or document processing
+              - listitem [ref=e120]:
+                - paragraph [ref=e121]: Understanding of search evaluation metrics (nDCG, MRR, precision@k)
+              - listitem [ref=e122]:
+                - paragraph [ref=e123]: Cloud platform basics (AWS, GCP). Can deploy a model or run training on cloud infrastructure
+              - listitem [ref=e124]:
+                - paragraph [ref=e125]: Kaggle competitions, open-source contributions, or published research
+              - listitem [ref=e126]:
+                - paragraph [ref=e127]: Experience with messy, real-world data, not just clean benchmark datasets
+            - heading "What We Offer" [level=2] [ref=e128]
+            - list [ref=e129]:
+              - listitem [ref=e130]:
+                - paragraph [ref=e131]: Competitive salary and discretionary bonus, plus equity options.
+              - listitem [ref=e132]:
+                - paragraph [ref=e133]: Unlimited PTO policy
+              - listitem [ref=e134]:
+                - paragraph [ref=e135]: Medical, dental, and vision coverage
+              - listitem [ref=e136]:
+                - paragraph [ref=e137]: Flexible hybrid work environment
+              - listitem [ref=e138]:
+                - paragraph [ref=e139]: Regular team offsites and a budget for professional development
+              - listitem [ref=e140]:
+                - paragraph [ref=e141]: "Preferred Location: San Mateo, with regular in-office presence"
+            - heading "Join Us – Lead the Transformation!" [level=2] [ref=e142]
+            - paragraph [ref=e143]: At Parspec, we recognize that traditional job descriptions don’t always capture the full range of your unique abilities—and that’s perfectly okay. You may not meet every requirement, but if you bring a mix of experiences, fresh perspectives, and a passion that aligns with our mission, we want to hear from you!
+            - paragraph [ref=e144]: The Parspec team believes that varied backgrounds drive better outcomes and fuel innovation. We are a team of self-starters that lead from every seat. We think big, set a standard of excellence and are committed to diversity and a discrimination-free workplace. We welcome applicants from all walks of life to join us and help shape the future at Parspec.
+            - paragraph [ref=e145]
+            - heading "How to Apply" [level=2] [ref=e146]
+            - paragraph [ref=e147]: Submit your application and resume highlighting your achievements. Apply now and help drive transformative change in one of the world’s oldest and largest industries!
+            - paragraph [ref=e148]
+          - link "Apply for this Job" [ref=e149] [cursor=pointer]:
+            - /url: /parspec/526bdff4-893e-4d57-a139-95072ba51f90/application?utm_source=Simplify
+            - button "Apply for this Job" [ref=e150]
+  - contentinfo [ref=e151]:
+    - link "Learn more about Ashby" [ref=e152] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e153]: Powered by
+      - img "Ashby" [ref=e154]
+    - paragraph [ref=e160]:
+      - link "Privacy Policy" [ref=e161] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e162] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e163] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

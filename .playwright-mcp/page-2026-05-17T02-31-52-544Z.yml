@@ -1,0 +1,221 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Maybern" [ref=e6] [cursor=pointer]:
+        - /url: https://maybern.com
+        - img "Maybern" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Maybern’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /maybern?utm_source=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York Office
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Department" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Engineering
+        - generic [ref=e26]:
+          - heading "Compensation" [level=2] [ref=e27]
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - generic [ref=e30]: $140K – $180K • Offers Equity
+      - generic [ref=e31]:
+        - tablist [ref=e32]:
+          - tab "Overview" [ref=e33] [cursor=pointer]
+          - tab "Application" [selected] [ref=e34] [cursor=pointer]
+        - tabpanel "Application" [ref=e36]:
+          - generic [ref=e37]:
+            - button "Choose File" [ref=e38]
+            - generic [ref=e40]:
+              - generic [ref=e41]:
+                - img [ref=e43]
+                - heading "Autofill from resume" [level=3] [ref=e45]
+              - paragraph [ref=e46]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e48] [cursor=pointer]
+          - generic [ref=e49]:
+            - generic [ref=e50]:
+              - generic [ref=e51]:
+                - generic [ref=e52]: Name*
+                - textbox "Name*" [ref=e54] [cursor=pointer]:
+                  - /placeholder: Type here...
+              - generic [ref=e55]:
+                - generic [ref=e56]: Pronouns
+                - textbox "Pronouns" [ref=e58] [cursor=pointer]:
+                  - /placeholder: Type here...
+              - generic [ref=e59]:
+                - generic [ref=e60]: Email*
+                - textbox "Email*" [ref=e62] [cursor=pointer]:
+                  - /placeholder: hello@example.com...
+              - generic [ref=e63]:
+                - generic [ref=e64]: Resume*
+                - button "Resume*" [ref=e65]
+                - generic [ref=e66]:
+                  - button "Upload File" [ref=e67] [cursor=pointer]:
+                    - img [ref=e68]
+                    - generic [ref=e70]: Upload File
+                  - paragraph [ref=e71]: or drag and drop here
+              - generic [ref=e72]:
+                - generic [ref=e73]: LinkedIn URL*
+                - textbox "LinkedIn URL*" [ref=e75] [cursor=pointer]:
+                  - /placeholder: Type here...
+              - generic [ref=e76]:
+                - generic [ref=e77]: How did you hear about Maybern?*
+                - textbox "How did you hear about Maybern?*" [ref=e79] [cursor=pointer]:
+                  - /placeholder: Type here...
+              - generic [ref=e80]:
+                - generic [ref=e81]: What interests you about this role at Maybern?*
+                - textbox "What interests you about this role at Maybern?*" [ref=e82] [cursor=pointer]:
+                  - /placeholder: Type here...
+              - generic [ref=e83]:
+                - generic [ref=e84]: Are you open to working in our office in NYC?*
+                - generic [ref=e85]:
+                  - button "Yes" [ref=e86] [cursor=pointer]
+                  - button "No" [ref=e87] [cursor=pointer]
+            - generic [ref=e88]:
+              - heading "Authorization Status" [level=2] [ref=e90]
+              - generic [ref=e91]:
+                - generic [ref=e92]: Are you currently authorized to work in the U.S. on a full-time basis?*
+                - generic [ref=e93]:
+                  - button "Yes" [ref=e94] [cursor=pointer]
+                  - button "No" [ref=e95] [cursor=pointer]
+              - generic [ref=e96]:
+                - generic [ref=e97]: Will you now or in the future require sponsorship for employment visa status? *
+                - generic [ref=e98]:
+                  - button "Yes" [ref=e99] [cursor=pointer]
+                  - button "No" [ref=e100] [cursor=pointer]
+          - generic [ref=e102]:
+            - generic [ref=e103]:
+              - generic [ref=e105]:
+                - paragraph [ref=e106]:
+                  - strong [ref=e107]: U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION
+                  - text: (Completion is voluntary and will not subject you to adverse treatment)
+                - paragraph [ref=e108]
+                - paragraph [ref=e109]: Maybern provides equal employment and affirmative action opportunities to applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability.
+                - paragraph [ref=e110]
+                - paragraph [ref=e111]: We invite all applicants to voluntarily self-identify their race, ethnicity, and gender. Submission of the information on this form is strictly voluntary and refusal to provide it will not subject you to any adverse treatment. Information obtained will be retained in a confidential file and separate from personnel records. This information may only be used in accordance with the provision of applicable federal laws, executive orders, and regulations. If you want more information about any of the sections, please check with a company representative.
+              - group [ref=e113]:
+                - generic [ref=e114]: Gender
+                - paragraph [ref=e116]: Input gender
+                - generic [ref=e117]:
+                  - radio "Male" [ref=e120] [cursor=pointer]
+                  - generic [ref=e121]: Male
+                - generic [ref=e122]:
+                  - radio "Female" [ref=e125] [cursor=pointer]
+                  - generic [ref=e126]: Female
+                - generic [ref=e127]:
+                  - radio "Decline to self-identify" [ref=e130] [cursor=pointer]
+                  - generic [ref=e131]: Decline to self-identify
+              - group [ref=e133]:
+                - generic [ref=e134]: Race
+                - generic [ref=e135]:
+                  - list [ref=e136]:
+                    - listitem [ref=e137]:
+                      - paragraph [ref=e138]:
+                        - strong [ref=e139]: Hispanic or Latino
+                        - text: "- A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race."
+                  - list [ref=e140]:
+                    - listitem [ref=e141]:
+                      - paragraph [ref=e142]:
+                        - strong [ref=e143]: White
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+                    - listitem [ref=e144]:
+                      - paragraph [ref=e145]:
+                        - strong [ref=e146]: Black or African American
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the black racial groups of Africa.
+                    - listitem [ref=e147]:
+                      - paragraph [ref=e148]:
+                        - strong [ref=e149]: Native Hawaiian or Other Pacific Islander
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+                    - listitem [ref=e150]:
+                      - paragraph [ref=e151]:
+                        - strong [ref=e152]: Asian
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+                    - listitem [ref=e153]:
+                      - paragraph [ref=e154]:
+                        - strong [ref=e155]: American Indian or Alaska Native
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.
+                    - listitem [ref=e156]:
+                      - paragraph [ref=e157]:
+                        - strong [ref=e158]: Two or More Races
+                        - text: (Not Hispanic or Latino) - All persons who identify with more than one of the above five races.
+                - generic [ref=e159]:
+                  - radio "Hispanic or Latino" [ref=e162] [cursor=pointer]
+                  - generic [ref=e163]: Hispanic or Latino
+                - generic [ref=e164]:
+                  - radio "White (Not Hispanic or Latino)" [ref=e167] [cursor=pointer]
+                  - generic [ref=e168]: White (Not Hispanic or Latino)
+                - generic [ref=e169]:
+                  - radio "Black or African American (Not Hispanic or Latino)" [ref=e172] [cursor=pointer]
+                  - generic [ref=e173]: Black or African American (Not Hispanic or Latino)
+                - generic [ref=e174]:
+                  - radio "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)" [ref=e177] [cursor=pointer]
+                  - generic [ref=e178]: Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)
+                - generic [ref=e179]:
+                  - radio "Asian (Not Hispanic or Latino)" [ref=e182] [cursor=pointer]
+                  - generic [ref=e183]: Asian (Not Hispanic or Latino)
+                - generic [ref=e184]:
+                  - radio "American Indian or Alaska Native (Not Hispanic or Latino)" [ref=e187] [cursor=pointer]
+                  - generic [ref=e188]: American Indian or Alaska Native (Not Hispanic or Latino)
+                - generic [ref=e189]:
+                  - radio "Two or More Races (Not Hispanic or Latino)" [ref=e192] [cursor=pointer]
+                  - generic [ref=e193]: Two or More Races (Not Hispanic or Latino)
+                - generic [ref=e194]:
+                  - radio "Decline to self-identify" [ref=e197] [cursor=pointer]
+                  - generic [ref=e198]: Decline to self-identify
+            - generic [ref=e199]:
+              - generic [ref=e201]:
+                - paragraph [ref=e202]:
+                  - strong [ref=e203]: SELF-IDENTIFICATION OF VETERAN STATUS
+                  - text: (Completion is voluntary and will not subject you to adverse treatment)
+                - paragraph [ref=e204]: If you believe that you belong to any of the following categories of protected veterans, please indicate by making the appropriate selection
+                - list [ref=e205]:
+                  - listitem [ref=e206]:
+                    - paragraph [ref=e207]:
+                      - strong [ref=e208]: Disabled veteran
+                      - text: – A veteran who served on active duty in the U.S. military and is entitled to disability compensation (or who but for the receipt of military retired pay would be entitled to disability compensation) under laws administered by the Secretary of Veterans Affairs, or was discharged or released from active duty because of a service-connected disability
+                  - listitem [ref=e209]:
+                    - paragraph [ref=e210]:
+                      - strong [ref=e211]: Recently separated veteran
+                      - text: – A veteran separated during the three-year period beginning on the date of the veteran's discharge or release from active duty in the U.S military, ground, naval, or air service
+                  - listitem [ref=e212]:
+                    - paragraph [ref=e213]:
+                      - strong [ref=e214]: Active duty wartime or campaign badge veteran
+                      - text: – A veteran who served on active duty in the U.S. military during a war, or in a campaign or expedition for which a campaign badge was authorized under the laws administered by the Department of Defense
+                  - listitem [ref=e215]:
+                    - paragraph [ref=e216]:
+                      - strong [ref=e217]: Armed forces service medal veteran
+                      - text: "- Armed forces service medal veteran – A veteran who, while serving on active duty in the U.S. military ground, naval, or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985 (61 Fed. Reg. 1209)."
+              - group [ref=e219]:
+                - generic [ref=e220]: Veteran Status
+                - generic [ref=e221]:
+                  - radio "I identify as one or more of the classifications of protected veteran listed above" [ref=e224] [cursor=pointer]
+                  - generic [ref=e225]: I identify as one or more of the classifications of protected veteran listed above
+                - generic [ref=e226]:
+                  - radio "I am not a protected veteran" [ref=e229] [cursor=pointer]
+                  - generic [ref=e230]: I am not a protected veteran
+                - generic [ref=e231]:
+                  - radio "I decline to self-identify for protected veteran status" [ref=e234] [cursor=pointer]
+                  - generic [ref=e235]: I decline to self-identify for protected veteran status
+          - button "Submit Application" [ref=e236] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e237]
+  - contentinfo [ref=e239]:
+    - link "Learn more about Ashby" [ref=e240] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e241]: Powered by
+      - img "Ashby" [ref=e242]
+    - paragraph [ref=e248]:
+      - link "Privacy Policy" [ref=e249] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e250] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e251] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

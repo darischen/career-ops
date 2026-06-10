@@ -1,0 +1,323 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - navigation [ref=e4]:
+      - link "Go to X homepage." [ref=e6] [cursor=pointer]:
+        - /url: /
+      - list [ref=e10]:
+        - listitem [ref=e11]:
+          - link "Projects" [ref=e12] [cursor=pointer]:
+            - /url: /projects/
+        - listitem [ref=e13]:
+          - link "Factory" [ref=e14] [cursor=pointer]:
+            - /url: /factory/
+        - listitem [ref=e15]:
+          - link "Careers" [ref=e16] [cursor=pointer]:
+            - /url: /careers/
+        - listitem [ref=e17]:
+          - link "Blog" [ref=e18] [cursor=pointer]:
+            - /url: /blog/
+        - listitem [ref=e19]:
+          - button [ref=e20] [cursor=pointer]:
+            - img [ref=e21]
+  - main [ref=e23]:
+    - generic [ref=e25]:
+      - heading "M a c h i n e L e a r n i n g E n g i n e e r ( T a p e s t r y )" [level=1] [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e28]:
+            - generic [ref=e29]: M
+            - generic [ref=e30]: a
+            - generic [ref=e31]: c
+            - generic [ref=e32]: h
+            - generic [ref=e33]: i
+            - generic [ref=e34]: "n"
+            - generic [ref=e35]: e
+          - generic [ref=e36]:
+            - generic [ref=e37]: L
+            - generic [ref=e38]: e
+            - generic [ref=e39]: a
+            - generic [ref=e40]: r
+            - generic [ref=e41]: "n"
+            - generic [ref=e42]: i
+            - generic [ref=e43]: "n"
+            - generic [ref=e44]: g
+          - generic [ref=e45]:
+            - generic [ref=e46]: E
+            - generic [ref=e47]: "n"
+            - generic [ref=e48]: g
+            - generic [ref=e49]: i
+            - generic [ref=e50]: "n"
+            - generic [ref=e51]: e
+            - generic [ref=e52]: e
+            - generic [ref=e53]: r
+          - generic [ref=e54]:
+            - generic [ref=e55]: (
+            - generic [ref=e56]: T
+            - generic [ref=e57]: a
+            - generic [ref=e58]: p
+            - generic [ref=e59]: e
+            - generic [ref=e60]: s
+            - generic [ref=e61]: t
+            - generic [ref=e62]: r
+            - generic [ref=e63]: "y"
+            - generic [ref=e64]: )
+      - paragraph [ref=e66]:
+        - generic [ref=e67]: Software Engineering
+        - generic [ref=e68]: Mountain View, CA (HQ)
+    - generic [ref=e71]:
+      - paragraph [ref=e72]:
+        - strong [ref=e73]: "About the team:"
+      - paragraph [ref=e74]: Tapestry is X’s moonshot for the electric grid. We’re transforming how the world makes, moves and uses electricity, using AI to reshape energy on a global scale.
+      - paragraph [ref=e75]: We’re looking for curious minds who want to be a part of this extraordinary moment in energy. You would be joining a multidisciplinary team from a wide variety of experiences and backgrounds—from ML/AI and power systems experts to software engineers and energy entrepreneurs– working together to realize Tapestry’s mission to make the grid visible so that everyone, everywhere can access reliable, abundant, and clean energy.
+      - paragraph [ref=e76]: Tapestry is incubating at X, Alphabet’s Moonshot Factory—the birthplace of breakthrough technologies like Waymo, Android and Google Brain. At Tapestry, you’ll have the chance to be part of a rapidly growing team that has the agility and impact of an early stage company with the resources and technical excellence of Alphabet. If developing multimodal AI solutions gets you up in the morning and load growth challenges keep you up at night, we'd love to meet you.
+      - paragraph [ref=e77]: Learn more about our team and our mission here.
+      - paragraph [ref=e78]:
+        - strong [ref=e79]: "About the role:"
+      - paragraph [ref=e80]: We're looking for an early career Machine Learning Engineer to join our team. In this role you will build and deploy state of the art machine learning models to solve complex challenges that face today’s electric grid. You will work closely with other Machine Learning Engineers, Data Scientists and Software Engineers across diverse ML domains spanning multimodal machine learning, information retrieval, natural language processing and agentic AI.
+      - paragraph [ref=e81]:
+        - strong [ref=e82]: "How you will make 10x impact:"
+      - list [ref=e83]:
+        - listitem [ref=e84]: "- Train, and deploy machine learning models in production environments."
+        - listitem [ref=e85]: "- Work with senior team members to develop enterprise quality ML systems, spanning multiple ML domains"
+        - listitem [ref=e86]: "- Operationalize ML model training at serving at enterprise scale"
+        - listitem [ref=e87]: "- Stay abreast of the latest advancements in machine learning"
+      - paragraph [ref=e88]:
+        - strong [ref=e89]: "What you should have:"
+      - list [ref=e90]:
+        - listitem [ref=e91]: "- Master’s Degree/Bachelor's Degree in Machine Learning, Computer Science, Statistics or related field"
+        - listitem [ref=e92]: "- Experience in machine learning model development and engineering."
+        - listitem [ref=e93]: "- Expertise in one or more of the following areas: multimodal machine learning NLP or agentic AI, planning, control and reinforcement learning"
+        - listitem [ref=e94]: "- Strong programming skills in Python and experience with ML frameworks like PyTorch or TensorFlow."
+        - listitem [ref=e95]: "- Experience with building and deploying ML systems at scale, OR a proven ability to perform applied ML research and develop the state of the art in an academic setting"
+      - paragraph [ref=e96]:
+        - strong [ref=e97]: "It’d be great if you also had these:"
+      - list [ref=e98]:
+        - listitem [ref=e99]: "- PhD in Machine Learning, Computer Science, Statistics, or a related field"
+        - listitem [ref=e100]: "- Experience with cloud platforms such as AWS, GCP, or Azure."
+        - listitem [ref=e101]: "- A strong portfolio of projects demonstrating ML expertise."
+      - paragraph [ref=e102]:
+        - strong [ref=e103]: Our values
+      - list [ref=e104]:
+        - listitem [ref=e105]: "- Take charge: We take initiative and own outcomes that move the mission forward."
+        - listitem [ref=e106]: "- Transform with purpose: We build solutions that solve real problems and create meaningful impact."
+        - listitem [ref=e107]: "- Be a Tapestry, not a thread: We collaborate across diverse skills and perspectives to achieve more than we can individually."
+        - listitem [ref=e108]: "- Always fine-tune: We stay curious, seek feedback, and refine our understanding as we learn."
+        - listitem [ref=e109]: "- Stay grounded: We listen openly, value different perspectives, and stay focused on what matters most."
+      - paragraph [ref=e110]:
+        - strong [ref=e111]: What we offer
+      - paragraph [ref=e112]: "A culture that supports growth, ownership, and meaningful impact, along with:"
+      - list [ref=e113]:
+        - listitem [ref=e114]: "- Competitive salary and equity"
+        - listitem [ref=e115]: "- Medical, dental, and vision coverage"
+        - listitem [ref=e116]: "- Generous PTO and flexible hybrid work model"
+        - listitem [ref=e117]: "- 401(k) with employer contribution"
+        - listitem [ref=e118]: "- Professional development"
+        - listitem [ref=e119]: "- The ability to work on important real-world problems within an Alphabet-backed environment"
+      - paragraph [ref=e120]: The US base salary range for this full-time position is $166,000 - $244,000 + bonus + equity + benefits. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your location during the hiring process.
+      - paragraph [ref=e121]: Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.
+      - paragraph [ref=e122]: .
+    - generic [ref=e124]:
+      - heading "An Equal Opportunity Workplace" [level=2] [ref=e125]
+      - paragraph [ref=e126]: At X, we don't just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. We are proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+      - paragraph [ref=e127]:
+        - text: If you have a disability or special need that requires accommodation, please contact us at
+        - link "x-accommodation-request@x.team" [ref=e128] [cursor=pointer]:
+          - /url: mailto:x-accommodation-request@x.team
+        - text: .
+    - generic [ref=e132]:
+      - heading "Apply Now" [level=4] [ref=e133]
+      - paragraph [ref=e134]: Fields marked with * are required
+      - textbox "First Name*" [ref=e136]
+      - textbox "Last Name*" [ref=e138]
+      - textbox "Preferred First Name*" [ref=e140]
+      - textbox "Email*" [ref=e142]
+      - textbox "Phone*" [ref=e144]
+      - generic [ref=e145]:
+        - generic [ref=e146]:
+          - generic [ref=e147]: Resume/CV*
+          - text: Upload
+        - button "Resume/CV* Upload" [ref=e148]
+      - generic [ref=e149]:
+        - generic [ref=e150]:
+          - generic [ref=e151]: Cover Letter
+          - text: Upload
+        - button "Cover Letter Upload" [ref=e152]
+      - textbox "LinkedIn Profile" [ref=e154]
+      - textbox "Website" [ref=e156]
+      - generic [ref=e157]:
+        - generic [ref=e158]: This position is located in Mountain View, CA. Are you able to commute to the office and/or are you willing to relocate?*
+        - generic [ref=e159]:
+          - radio "Yes" [ref=e160]
+          - text: "Yes"
+        - generic [ref=e161]:
+          - radio "No" [ref=e162]
+          - text: "No"
+      - generic [ref=e163]:
+        - generic [ref=e164]: Are you currently or were you previously an Alphabet employee, contractor, or intern?*
+        - generic [ref=e165]:
+          - radio "Yes" [ref=e166]
+          - text: "Yes"
+        - generic [ref=e167]:
+          - radio "No" [ref=e168]
+          - text: "No"
+      - generic [ref=e169]:
+        - generic [ref=e170]: Application consent for X
+        - paragraph [ref=e173]:
+          - text: By clicking the “I Accept” button you expressly give your consent for the collection and use of your information as described at
+          - link "https://www.google.com/about/careers/privacy/" [ref=e174] [cursor=pointer]:
+            - /url: https://www.google.com/about/careers/privacy/
+          - text: . I consent to the processing of my information as described in that policy including that, in limited circumstances, my information may be shared with trusted third parties to assist in certain phases of the hiring process (such as conducting background checks).
+        - generic [ref=e175]:
+          - radio "I Accept" [ref=e176]
+          - text: I Accept
+      - generic [ref=e177]:
+        - paragraph [ref=e180]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+        - generic [ref=e182]:
+          - heading "Voluntary Self-Identification of Disability" [level=3] [ref=e183]:
+            - strong [ref=e184]: Voluntary Self-Identification of Disability
+          - generic [ref=e185]:
+            - generic [ref=e186]:
+              - generic [ref=e187]: Form CC-305
+              - generic [ref=e188]: Page 1 of 1
+            - generic [ref=e189]:
+              - generic [ref=e190]: OMB Control Number 1250-0005
+              - generic [ref=e191]: Expires 04/30/2026
+          - strong [ref=e192]: Why are you being asked to complete this form?
+          - paragraph [ref=e193]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+          - paragraph [ref=e194]:
+            - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+            - link "www.dol.gov/ofccp" [ref=e195] [cursor=pointer]:
+              - /url: https://www.dol.gov/ofccp
+            - text: .
+          - strong [ref=e196]: How do you know if you have a disability?
+          - paragraph [ref=e197]:
+            - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+            - strong [ref=e198]: "Disabilities include, but are not limited to:"
+          - list [ref=e199]:
+            - listitem [ref=e200]: "- Alcohol or other substance use disorder (not currently using drugs illegally)"
+            - listitem [ref=e201]: "- Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS"
+            - listitem [ref=e202]: "- Blind or low vision"
+            - listitem [ref=e203]: "- Cancer (past or present)"
+            - listitem [ref=e204]: "- Cardiovascular or heart disease"
+            - listitem [ref=e205]: "- Celiac disease"
+            - listitem [ref=e206]: "- Cerebral palsy"
+            - listitem [ref=e207]: "- Deaf or serious difficulty hearing"
+            - listitem [ref=e208]: "- Diabetes"
+            - listitem [ref=e209]: "- Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders"
+            - listitem [ref=e210]: "- Epilepsy or other seizure disorder"
+            - listitem [ref=e211]: "- Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome"
+            - listitem [ref=e212]: "- Intellectual or developmental disability"
+            - listitem [ref=e213]: "- Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD"
+            - listitem [ref=e214]: "- Missing limbs or partially missing limbs"
+            - listitem [ref=e215]: "- Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports"
+            - listitem [ref=e216]: "- Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)"
+            - listitem [ref=e217]: "- Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities"
+            - listitem [ref=e218]: "- Partial or complete paralysis (any cause)"
+            - listitem [ref=e219]: "- Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema"
+            - listitem [ref=e220]: "- Short stature (dwarfism)"
+            - listitem [ref=e221]: "- Traumatic brain injury"
+        - generic [ref=e222]:
+          - generic [ref=e223]: DisabilityStatus
+          - generic [ref=e224]:
+            - radio "I do not want to answer" [ref=e225]
+            - text: I do not want to answer
+          - generic [ref=e226]:
+            - radio "No, I do not have a disability and have not had one in the past" [ref=e227]
+            - text: No, I do not have a disability and have not had one in the past
+          - generic [ref=e228]:
+            - radio "Yes, I have a disability, or have had one in the past" [ref=e229]
+            - text: Yes, I have a disability, or have had one in the past
+        - generic [ref=e231]:
+          - paragraph [ref=e232]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans' Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+          - paragraph [ref=e233]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+          - paragraph [ref=e234]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+          - paragraph [ref=e235]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+          - paragraph [ref=e236]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+        - generic [ref=e237]:
+          - generic [ref=e238]: VeteranStatus
+          - generic [ref=e239]:
+            - radio "I don't wish to answer" [ref=e240]
+            - text: I don't wish to answer
+          - generic [ref=e241]:
+            - radio "I identify as one or more of the classifications of a protected veteran" [ref=e242]
+            - text: I identify as one or more of the classifications of a protected veteran
+          - generic [ref=e243]:
+            - radio "I am not a protected veteran" [ref=e244]
+            - text: I am not a protected veteran
+        - generic [ref=e246]:
+          - heading "Voluntary Self-Identification" [level=3] [ref=e247]:
+            - strong [ref=e248]: Voluntary Self-Identification
+          - paragraph [ref=e249]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+          - paragraph [ref=e250]: As set forth in X, the moonshot factory’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+        - generic [ref=e251]:
+          - generic [ref=e252]: Race
+          - generic [ref=e253]:
+            - radio "Decline To Self Identify" [ref=e254]
+            - text: Decline To Self Identify
+          - generic [ref=e255]:
+            - radio "Two or More Races" [ref=e256]
+            - text: Two or More Races
+          - generic [ref=e257]:
+            - radio "Native Hawaiian or Other Pacific Islander" [ref=e258]
+            - text: Native Hawaiian or Other Pacific Islander
+          - generic [ref=e259]:
+            - radio "White" [ref=e260]
+            - text: White
+          - generic [ref=e261]:
+            - radio "Hispanic or Latino" [ref=e262]
+            - text: Hispanic or Latino
+          - generic [ref=e263]:
+            - radio "Black or African American" [ref=e264]
+            - text: Black or African American
+          - generic [ref=e265]:
+            - radio "Asian" [ref=e266]
+            - text: Asian
+          - generic [ref=e267]:
+            - radio "American Indian or Alaskan Native" [ref=e268]
+            - text: American Indian or Alaskan Native
+        - generic [ref=e269]:
+          - generic [ref=e270]: Gender
+          - generic [ref=e271]:
+            - radio "Decline To Self Identify" [ref=e272]
+            - text: Decline To Self Identify
+          - generic [ref=e273]:
+            - radio "Female" [ref=e274]
+            - text: Female
+          - generic [ref=e275]:
+            - radio "Male" [ref=e276]
+            - text: Male
+      - button "Submit Application" [ref=e277]
+  - contentinfo [ref=e278]:
+    - generic [ref=e279]:
+      - generic [ref=e280]:
+        - link "Go to X homepage." [ref=e282] [cursor=pointer]:
+          - /url: /
+          - img [ref=e283]
+        - generic [ref=e284]:
+          - list [ref=e285]:
+            - listitem [ref=e286]:
+              - link "Contact" [ref=e287] [cursor=pointer]:
+                - /url: /contact/
+            - listitem [ref=e288]:
+              - link "Press" [ref=e289] [cursor=pointer]:
+                - /url: /press/
+          - list [ref=e290]:
+            - listitem [ref=e291]:
+              - link "Privacy & Terms" [ref=e292] [cursor=pointer]:
+                - /url: https://policies.google.com/
+            - listitem [ref=e293]:
+              - link "Google" [ref=e294] [cursor=pointer]:
+                - /url: https://about.google/intl/en/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header
+            - listitem [ref=e295]:
+              - link "Alphabet" [ref=e296] [cursor=pointer]:
+                - /url: https://abc.xyz
+          - list [ref=e297]:
+            - listitem [ref=e298]:
+              - link "LinkedIn" [ref=e299] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/x/
+            - listitem [ref=e300]:
+              - link "X (not us)" [ref=e301] [cursor=pointer]:
+                - /url: https://www.twitter.com/theteamatx
+            - listitem [ref=e302]:
+              - link "YouTube" [ref=e303] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/wesolveforx/
+      - generic [ref=e304]: X, a division of Google LLC. All rights reserved.

@@ -1,0 +1,304 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "Back to jobs" [ref=e5] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/graphcore
+          - img [ref=e6]
+          - text: Back to jobs
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - heading "2026 Graduate Software Engineer - AI/ ML Test Systems" [level=1] [ref=e11]
+            - generic [ref=e12]:
+              - img [ref=e13]
+              - generic [ref=e15]: Bristol, UK
+          - button "Apply" [ref=e16] [cursor=pointer]
+        - generic [ref=e18]:
+          - paragraph [ref=e19]:
+            - strong [ref=e20]: About us
+          - paragraph [ref=e21]: Graphcore is one of the world’s leading innovators in Artificial Intelligence compute.
+          - paragraph [ref=e22]: It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of AI solutions across every industry.
+          - paragraph [ref=e23]: "As part of the SoftBank Group, Graphcore is a member of an elite family of companies responsible for some of the world’s most transformative technologies. Together, they share a bold vision: to enable Artificial Super Intelligence and ensure its benefits are accessible to everyone."
+          - paragraph [ref=e24]: Graphcore’s teams are drawn from diverse backgrounds and bring a broad range of skills and perspectives. A melting pot of AI research specialists, silicon designers, software engineers and systems architects, Graphcore enjoys a culture of continuous learning and constant innovation.
+          - paragraph [ref=e25]
+          - paragraph [ref=e26]:
+            - strong [ref=e27]: Job Summary
+            - strong [ref=e28]
+          - paragraph [ref=e29]: The position requires a strong interest in reliability and performance testing, as well as a genuine passion for debugging and problem-solving. Ideal candidates will be self-motivated, enthusiastic, and able to work independently while also being effective communicators who can collaborate with team members. They should also be the type of person who takes initiative and gets things done quickly and efficiently. This opportunity is particularly well-suited for graduate software engineers seeking to gain hands-on exposure to the exciting fields of Artificial Intelligence (AI), ML, and AI accelerator hardware.
+          - paragraph [ref=e30]
+          - paragraph [ref=e31]:
+            - strong [ref=e32]: The Team
+          - paragraph [ref=e33]: The Software QA team is composed of highly skilled and dedicated software engineers with a strong passion for automation and data analysis. They collaborate extensively with industry-standard machine learning frameworks and models, making contributions to upstream open-source projects. Operating in a dynamic and fast-paced environment, the team consistently delivers high-quality results, ensuring exceptional customer experiences and impactful advancements in the product.
+          - paragraph [ref=e34]
+          - paragraph [ref=e35]:
+            - strong [ref=e36]: Responsibilities and Duties
+          - list [ref=e37]:
+            - listitem [ref=e38]: Create representative ML workloads and gain insights from their execution. (Numerical accuracy, performance analysis and benchmarking).
+          - list [ref=e39]:
+            - listitem [ref=e40]: Build Continuous Integration/Delivery (CI/CD) against hardware simulators/emulators and physical hardware.
+          - list [ref=e41]:
+            - listitem [ref=e42]: Design and write tests for projects within the Software team and ML frameworks.
+          - list [ref=e43]:
+            - listitem [ref=e44]: Work closely with all Software development teams, supporting a culture of quality, security and maintainability.
+          - list [ref=e45]:
+            - listitem [ref=e46]: Evaluate the effectiveness of existing test strategies and infrastructure and make thoughtful improvements to ensure they continue to support team goals and organizational direction.
+          - paragraph [ref=e47]
+          - paragraph [ref=e48]:
+            - strong [ref=e49]: Candidate Profile
+          - paragraph [ref=e50]:
+            - strong [ref=e51]: "Essential:"
+          - list [ref=e52]:
+            - listitem [ref=e53]: Bachelor’s or Master’s Degree in Computer Science, Maths, Machine Learning, Data Science, or related field.
+          - list [ref=e54]:
+            - listitem [ref=e55]: Strong proficiency in Python
+          - list [ref=e56]:
+            - listitem [ref=e57]: Proficiency in C++
+          - list [ref=e58]:
+            - listitem [ref=e59]: Experience with Linux operating systems
+          - list [ref=e60]:
+            - listitem [ref=e61]: Must be a fast learner
+          - paragraph [ref=e62]
+          - paragraph [ref=e63]:
+            - strong [ref=e64]: Desirable
+          - list [ref=e65]:
+            - listitem [ref=e66]: Exposure to machine learning frameworks such as PyTorch, JAX, Triton, TensorFlow
+          - list [ref=e67]:
+            - listitem [ref=e68]: Experience with distributed workload management systems such as Kubernetes, VLLM, Keras or MLOps pipelines
+          - list [ref=e69]:
+            - listitem [ref=e70]: Experience with hardware architectures or compilers
+          - list [ref=e71]:
+            - listitem [ref=e72]: Experience with test automation in a CI/CD environment
+          - list [ref=e73]:
+            - listitem [ref=e74]: Exposure to data analytic methodologies
+          - paragraph [ref=e75]
+          - paragraph [ref=e76]:
+            - strong [ref=e77]: Benefits
+          - paragraph [ref=e78]: In addition to a competitive salary, Graphcore offers flexible working, a generous annual leave policy, private medical insurance and health cash plan, a dental plan, pension (matched up to 5%), life assurance and income protection. We have a generous parental leave policy and an employee assistance programme (which includes health, mental wellbeing, and bereavement support). We offer a range of healthy food and snacks at our central Bristol office and have our own barista bar! We welcome people of different backgrounds and experiences; we’re committed to building an inclusive work environment that makes Graphcore a great home for everyone. We offer an equal opportunity process and understand that there are visible and invisible differences in all of us. We can provide a flexible approach to interview and encourage you to chat to us if you require any reasonable adjustments.
+        - generic [ref=e79]:
+          - img [ref=e80]
+          - generic [ref=e82]:
+            - paragraph [ref=e83]: Create a Job Alert
+            - paragraph [ref=e84]: Interested in building your career at Graphcore? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e85] [cursor=pointer]
+      - separator [ref=e86]
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - generic [ref=e89]:
+            - heading "Apply for this job" [level=2] [ref=e91]
+            - generic [ref=e92]:
+              - paragraph [ref=e94]: "*"
+              - paragraph [ref=e95]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e98] [cursor=pointer]
+        - generic [ref=e99]:
+          - generic [ref=e100]:
+            - generic [ref=e103]:
+              - generic [ref=e104]: First Name*
+              - textbox "First Name" [ref=e105]
+            - generic [ref=e108]:
+              - generic [ref=e109]: Last Name*
+              - textbox "Last Name" [ref=e110]
+            - generic [ref=e113]:
+              - generic [ref=e114]: Email*
+              - textbox "Email" [ref=e115]
+            - group "Phone" [ref=e117]:
+              - generic [ref=e118]: Phone
+              - generic [ref=e121]:
+                - generic [ref=e122]: Country
+                - generic [ref=e123]:
+                  - log [ref=e125]
+                  - generic [ref=e127]:
+                    - combobox "Country" [ref=e130]
+                    - button "Toggle flyout" [ref=e132] [cursor=pointer]:
+                      - img [ref=e133]
+              - generic [ref=e137]:
+                - generic [ref=e138]: Phone
+                - textbox "Phone" [ref=e139]
+            - generic [ref=e140]:
+              - generic [ref=e142]:
+                - generic [ref=e143]: Location (City)*
+                - generic [ref=e144]:
+                  - log [ref=e146]
+                  - combobox "Location (City)" [ref=e151]
+                  - textbox
+              - button "Locate me" [ref=e152] [cursor=pointer]
+            - group "Resume/CV*" [ref=e154]:
+              - generic [ref=e155]: Resume/CV*
+              - generic [ref=e157]:
+                - generic [ref=e159]:
+                  - button "Attach" [ref=e160] [cursor=pointer]
+                  - generic [ref=e161]: Attach
+                  - button "Attach" [ref=e162]
+                - button "Dropbox" [ref=e164] [cursor=pointer]
+                - button "Google Drive" [ref=e166] [cursor=pointer]
+                - generic [ref=e168]:
+                  - button "Enter manually" [ref=e169] [cursor=pointer]
+                  - generic [ref=e170]: Enter manually
+                - paragraph [ref=e171]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter*" [ref=e173]:
+              - generic [ref=e174]: Cover Letter*
+              - generic [ref=e176]:
+                - generic [ref=e178]:
+                  - button "Attach" [ref=e179] [cursor=pointer]
+                  - generic [ref=e180]: Attach
+                  - button "Attach" [ref=e181]
+                - button "Dropbox" [ref=e183] [cursor=pointer]
+                - button "Google Drive" [ref=e185] [cursor=pointer]
+                - generic [ref=e187]:
+                  - button "Enter manually" [ref=e188] [cursor=pointer]
+                  - generic [ref=e189]: Enter manually
+                - paragraph [ref=e190]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e191]:
+            - generic [ref=e192]:
+              - separator [ref=e193]
+              - paragraph [ref=e195]: Education
+              - generic [ref=e197]:
+                - generic [ref=e198]: School*
+                - generic [ref=e199]:
+                  - log [ref=e201]
+                  - generic [ref=e203]:
+                    - generic [ref=e204]:
+                      - generic [ref=e205]: Select...
+                      - combobox "School" [ref=e207]
+                    - button "Toggle flyout" [ref=e209] [cursor=pointer]:
+                      - img [ref=e210]
+                  - textbox
+              - generic [ref=e213]:
+                - generic [ref=e214]: Degree*
+                - generic [ref=e215]:
+                  - log [ref=e217]
+                  - generic [ref=e219]:
+                    - generic [ref=e220]:
+                      - generic [ref=e221]: Select...
+                      - combobox "Degree" [ref=e223]
+                    - button "Toggle flyout" [ref=e225] [cursor=pointer]:
+                      - img [ref=e226]
+                  - textbox
+              - generic [ref=e229]:
+                - generic [ref=e230]: Discipline*
+                - generic [ref=e231]:
+                  - log [ref=e233]
+                  - generic [ref=e235]:
+                    - generic [ref=e236]:
+                      - generic [ref=e237]: Select...
+                      - combobox "Discipline" [ref=e239]
+                    - button "Toggle flyout" [ref=e241] [cursor=pointer]:
+                      - img [ref=e242]
+                  - textbox
+              - generic [ref=e244]:
+                - generic [ref=e247]:
+                  - generic [ref=e248]: Start date year*
+                  - spinbutton "Start date year" [ref=e249]
+                - generic [ref=e252]:
+                  - generic [ref=e253]: End date year*
+                  - spinbutton "End date year" [ref=e254]
+            - button "Add another" [ref=e255] [cursor=pointer]
+          - generic [ref=e256]:
+            - separator [ref=e257]
+            - generic [ref=e260]:
+              - generic [ref=e261]: Have you added your full legal name and surname (including any middle names)?*
+              - generic [ref=e262]:
+                - log [ref=e264]
+                - generic [ref=e266]:
+                  - generic [ref=e267]:
+                    - generic [ref=e268]: Select...
+                    - combobox "Have you added your full legal name and surname (including any middle names)?" [ref=e270]
+                  - button "Toggle flyout" [ref=e272] [cursor=pointer]:
+                    - img [ref=e273]
+                - textbox
+            - generic [ref=e277]:
+              - generic [ref=e278]: Do you have the legal right to work in the UK?*
+              - generic [ref=e279]:
+                - log [ref=e281]
+                - generic [ref=e283]:
+                  - generic [ref=e284]:
+                    - generic [ref=e285]: Select...
+                    - combobox "Do you have the legal right to work in the UK?" [ref=e287]
+                  - button "Toggle flyout" [ref=e289] [cursor=pointer]:
+                    - img [ref=e290]
+                - textbox
+            - generic [ref=e294]:
+              - generic [ref=e295]: Please select your right to work status*
+              - generic [ref=e296]:
+                - log [ref=e298]
+                - generic [ref=e300]:
+                  - generic [ref=e301]:
+                    - generic [ref=e302]: Select...
+                    - combobox "Please select your right to work status" [ref=e304]
+                  - button "Toggle flyout" [ref=e306] [cursor=pointer]:
+                    - img [ref=e307]
+                - textbox
+            - generic [ref=e311]:
+              - generic [ref=e312]: What is your predicted/final degree classification? *
+              - generic [ref=e313]:
+                - log [ref=e315]
+                - generic [ref=e317]:
+                  - generic [ref=e318]:
+                    - generic [ref=e319]: Select...
+                    - combobox "What is your predicted/final degree classification?" [ref=e321]
+                  - button "Toggle flyout" [ref=e323] [cursor=pointer]:
+                    - img [ref=e324]
+                - textbox
+            - group "Please upload your university transcript (PDF or Image Format) *" [ref=e327]:
+              - generic [ref=e328]: Please upload your university transcript (PDF or Image Format) *
+              - generic [ref=e330]:
+                - generic [ref=e332]:
+                  - button "Attach" [ref=e333] [cursor=pointer]
+                  - generic [ref=e334]: Attach
+                  - button "Attach" [ref=e335]
+                - button "Dropbox" [ref=e337] [cursor=pointer]
+                - button "Google Drive" [ref=e339] [cursor=pointer]
+                - paragraph [ref=e340]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - generic [ref=e343]:
+              - generic [ref=e344]: Website
+              - textbox "Website" [ref=e345]
+            - generic [ref=e348]:
+              - generic [ref=e349]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e350]
+            - generic [ref=e353]:
+              - generic [ref=e354]: How did you hear about this role?*
+              - textbox "How did you hear about this role?" [ref=e355]
+          - separator [ref=e356]
+          - generic [ref=e357]:
+            - heading "UK Demographic Data" [level=3] [ref=e358]
+            - paragraph [ref=e361]: We take pride in our commitment to creating an inclusive and diverse workplace. As part of our recruitment process, we ask for confidential diversity data from all applicants. This data will be anonymised so that no personal identification information will be collected, and is retained for statistical purposes only and is not attached to your application. Your responses to the following three questions will remain confidential and will not impact or be used in any way in regards to your application. We are only using this data to improve our hiring process to be inclusive of all diversity backgrounds.
+            - generic [ref=e363]:
+              - generic [ref=e364]: I identify my gender as*
+              - generic [ref=e365]:
+                - log [ref=e367]
+                - generic [ref=e369]:
+                  - generic [ref=e370]:
+                    - generic [ref=e371]: Select...
+                    - combobox "I identify my gender as" [ref=e373]
+                  - button "Toggle flyout" [ref=e375] [cursor=pointer]:
+                    - img [ref=e376]
+                - textbox
+            - generic [ref=e379]:
+              - generic [ref=e380]: What is your ethnicity?*
+              - generic [ref=e381]:
+                - log [ref=e383]
+                - generic [ref=e385]:
+                  - generic [ref=e386]:
+                    - generic [ref=e387]: Select...
+                    - combobox "What is your ethnicity?" [ref=e389]
+                  - button "Toggle flyout" [ref=e391] [cursor=pointer]:
+                    - img [ref=e392]
+                - textbox
+            - generic [ref=e395]:
+              - generic [ref=e396]: Do you consider yourself to have a disability?*
+              - generic [ref=e397]:
+                - log [ref=e399]
+                - generic [ref=e401]:
+                  - generic [ref=e402]:
+                    - generic [ref=e403]: Select...
+                    - combobox "Do you consider yourself to have a disability?" [ref=e405]
+                  - button "Toggle flyout" [ref=e407] [cursor=pointer]:
+                    - img [ref=e408]
+                - textbox
+          - separator [ref=e410]
+          - button "Submit application" [ref=e412] [cursor=pointer]
+  - contentinfo [ref=e413]:
+    - generic [ref=e414]:
+      - paragraph [ref=e415]: Powered by
+      - link "Greenhouse logo" [ref=e416] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e417]

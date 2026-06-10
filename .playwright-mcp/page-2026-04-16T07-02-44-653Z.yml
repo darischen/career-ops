@@ -1,0 +1,262 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - button "Hamburger menu icon" [ref=e6]:
+          - img "Hamburger menu icon" [ref=e7]
+        - link "Spot and Tango logo" [ref=e8] [cursor=pointer]:
+          - /url: https://www.spotandtango.com/?utm_source=Simplify
+          - img "Spot and Tango logo" [ref=e9]
+      - link "Get Started" [ref=e11] [cursor=pointer]:
+        - /url: https://shop.spotandtango.com/?utm_source=Simplify
+        - generic [ref=e12]: Get Started
+  - iframe [ref=e17]:
+    - main [ref=f1e2]:
+      - generic [ref=f1e3]:
+        - generic [ref=f1e4]:
+          - link "Back to jobs" [ref=f1e5] [cursor=pointer]:
+            - /url: http://www.spotandtango.com/careers?gh_src=%5Bobject+Object%5D
+            - img [ref=f1e6]
+            - text: Back to jobs
+          - generic [ref=f1e10]: tags.new
+          - generic [ref=f1e11]:
+            - generic [ref=f1e12]:
+              - heading "Jr Software Engineer" [level=1] [ref=f1e13]
+              - generic [ref=f1e14]:
+                - img [ref=f1e15]
+                - generic [ref=f1e17]: New York, New York, United States
+            - button "Apply" [ref=f1e18] [cursor=pointer]
+          - generic [ref=f1e19]:
+            - generic [ref=f1e20]:
+              - paragraph [ref=f1e21]:
+                - strong [ref=f1e22]: Who We Are
+              - paragraph [ref=f1e23]: Spot & Tango is an innovative pet health & wellness brand that delivers personalized meal plans on a subscription basis. Our recipes are developed by leading animal nutritionists, and are made with only real, human-grade ingredients... and nothing artificial! We have lofty goals (to make every dog in the US and Canada healthier, and every pet parent happier!) and we are looking for the right people to help us get there. This is an exciting opportunity to join a VC-backed, high-growth, e-commerce startup and have an outsized impact in an extremely fast-paced environment. Plus, you get to think about dogs all day!
+              - paragraph [ref=f1e24]:
+                - strong [ref=f1e25]: Who You Are
+              - paragraph [ref=f1e26]:
+                - text: We are seeking a talented and experienced
+                - strong [ref=f1e27]: Jr Software Engineer
+                - text: to join our growing team. We are seeking candidates with expertise primarily in React and Python. As a Jr Software Engineer at Spot & Tango, you will play a pivotal role in building scalable web applications for our customers and for internal company use.
+              - paragraph [ref=f1e28]:
+                - strong [ref=f1e29]: "Responsibilities:"
+              - list [ref=f1e30]:
+                - listitem [ref=f1e31]: Play a role in designing and building new features for our core products, primarily using TypeScript, React, React Native, and NextJS
+                - listitem [ref=f1e32]: QA efforts by writing integration tests and thoroughly testing code before merging
+                - listitem [ref=f1e33]: Collaborate with cross-functional stakeholders to ensure web applications achieve their business goals
+                - listitem [ref=f1e34]: Optimize applications for maximum performance and responsiveness, especially on mobile devices
+                - listitem [ref=f1e35]: Troubleshoot, debug, and resolve software defects and issues
+                - listitem [ref=f1e36]: Implement security best practices to ensure the integrity and confidentiality of user data
+                - listitem [ref=f1e37]: Stay up-to-date with emerging technologies and industry trends, and apply them to enhance our products
+                - listitem [ref=f1e38]: Participate in code reviews to maintain code quality and ensure compliance with coding standards
+                - listitem [ref=f1e39]: Contribute to the development of technical documentation and knowledge sharing within the team
+                - listitem [ref=f1e40]: Help us scale the company, the culture, and our products
+              - paragraph [ref=f1e41]:
+                - strong [ref=f1e42]: "Qualifications:"
+              - list [ref=f1e43]:
+                - listitem [ref=f1e44]: BS in Computer Science, Engineering, or a related field strongly preferred
+                - listitem [ref=f1e45]: 0-3 years of professional experience developing software
+                - listitem [ref=f1e46]: Proficiency in NextJS and React, with a strong portfolio showcasing your work
+                - listitem [ref=f1e47]: Experience in developing and deploying web applications
+                - listitem [ref=f1e48]: Ability to work independently and as part of a collaborative team
+                - listitem [ref=f1e49]: Ability to find simple solutions to complex problems
+                - listitem [ref=f1e50]: Excellent communication skills
+                - listitem [ref=f1e51]: Solid understanding of front-end technologies such as HTML, CSS, and TypeScript
+                - listitem [ref=f1e52]: Experience with AWS services preferred
+                - listitem [ref=f1e53]: Experience with version control systems (e.g., Git)
+                - listitem [ref=f1e54]: Excellent problem-solving skills and attention to detail
+                - listitem [ref=f1e55]: Experience working in a startup environment, and familiarity with DTC (Direct-to- Consumer) business models and e-commerce is a plus
+                - listitem [ref=f1e56]: Familiarity with RESTful APIs and third-party integrations
+                - listitem [ref=f1e57]: Familiarity with SQL, Python, and Django is preferred
+              - paragraph [ref=f1e58]: If you have a passion for technology, a desire to work with a high-performing engineering team, and are excited about the prospect of contributing to the growth of a DTC startup, we encourage you to apply for this exciting opportunity.
+              - paragraph [ref=f1e59]:
+                - emphasis [ref=f1e60]: This is a hybrid position.
+              - paragraph [ref=f1e61]:
+                - emphasis [ref=f1e62]: You must be able to commute into our office in Midtown Manhattan Monday, Wednesday, and Thursday.
+            - paragraph [ref=f1e64]: Spot & Tango is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+          - generic [ref=f1e65]:
+            - img [ref=f1e66]
+            - generic [ref=f1e68]:
+              - paragraph [ref=f1e69]: Create a Job Alert
+              - paragraph [ref=f1e70]: Interested in building your career at Spot & Tango? Get future opportunities sent straight to your email.
+              - button "Create alert" [ref=f1e71] [cursor=pointer]
+        - separator [ref=f1e72]
+        - generic [ref=f1e73]:
+          - generic [ref=f1e74]:
+            - generic [ref=f1e75]:
+              - heading "Apply for this job" [level=2] [ref=f1e77]
+              - generic [ref=f1e78]:
+                - paragraph [ref=f1e80]: "*"
+                - paragraph [ref=f1e81]: indicates a required field
+            - button "Autofill with MyGreenhouse" [ref=f1e84] [cursor=pointer]
+          - generic [ref=f1e85]:
+            - generic [ref=f1e86]:
+              - generic [ref=f1e89]:
+                - generic [ref=f1e90]: First Name*
+                - textbox "First Name" [ref=f1e91]
+              - generic [ref=f1e94]:
+                - generic [ref=f1e95]: Last Name*
+                - textbox "Last Name" [ref=f1e96]
+              - generic [ref=f1e99]:
+                - generic [ref=f1e100]: Email*
+                - textbox "Email" [ref=f1e101]
+              - group "Phone" [ref=f1e103]:
+                - generic [ref=f1e104]: Phone
+                - generic [ref=f1e107]:
+                  - generic [ref=f1e108]: Country*
+                  - generic [ref=f1e109]:
+                    - log [ref=f1e111]
+                    - generic [ref=f1e113]:
+                      - combobox "Country" [ref=f1e116]
+                      - button "Toggle flyout" [ref=f1e118] [cursor=pointer]:
+                        - img [ref=f1e119]
+                    - textbox
+                - generic [ref=f1e123]:
+                  - generic [ref=f1e124]: Phone*
+                  - textbox "Phone" [ref=f1e125]
+              - group "Resume/CV*" [ref=f1e127]:
+                - generic [ref=f1e128]: Resume/CV*
+                - generic [ref=f1e130]:
+                  - generic [ref=f1e132]:
+                    - button "Attach" [ref=f1e133] [cursor=pointer]
+                    - generic [ref=f1e134]: Attach
+                    - button "Attach" [ref=f1e135]
+                  - button "Dropbox" [ref=f1e137] [cursor=pointer]
+                  - generic [ref=f1e139]:
+                    - button "Enter manually" [ref=f1e140] [cursor=pointer]
+                    - generic [ref=f1e141]: Enter manually
+                  - paragraph [ref=f1e142]: "Accepted file types: pdf, doc, docx, txt, rtf"
+              - group "Cover Letter" [ref=f1e144]:
+                - generic [ref=f1e145]: Cover Letter
+                - generic [ref=f1e147]:
+                  - generic [ref=f1e149]:
+                    - button "Attach" [ref=f1e150] [cursor=pointer]
+                    - generic [ref=f1e151]: Attach
+                    - button "Attach" [ref=f1e152]
+                  - button "Dropbox" [ref=f1e154] [cursor=pointer]
+                  - generic [ref=f1e156]:
+                    - button "Enter manually" [ref=f1e157] [cursor=pointer]
+                    - generic [ref=f1e158]: Enter manually
+                  - paragraph [ref=f1e159]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - generic [ref=f1e160]:
+              - separator [ref=f1e161]
+              - generic [ref=f1e164]:
+                - generic [ref=f1e165]: LinkedIn Profile
+                - textbox "LinkedIn Profile" [ref=f1e166]
+              - generic [ref=f1e169]:
+                - generic [ref=f1e170]: Can you start working on or before June 1, 2026?*
+                - generic [ref=f1e171]:
+                  - log [ref=f1e173]
+                  - generic [ref=f1e175]:
+                    - generic [ref=f1e176]:
+                      - generic [ref=f1e177]: Select...
+                      - combobox "Can you start working on or before June 1, 2026?" [ref=f1e179]
+                    - button "Toggle flyout" [ref=f1e181] [cursor=pointer]:
+                      - img [ref=f1e182]
+                  - textbox
+              - generic [ref=f1e186]:
+                - generic [ref=f1e187]: What is your earliest available start date?*
+                - textbox "What is your earliest available start date?" [ref=f1e188]
+              - generic [ref=f1e191]:
+                - generic [ref=f1e192]: How many years of full-time professional experience do you have as a software engineer?*
+                - textbox "How many years of full-time professional experience do you have as a software engineer?" [ref=f1e193]
+              - generic [ref=f1e196]:
+                - generic [ref=f1e197]: Will you now or in the future require visa sponsorship to work in the United States?*
+                - generic [ref=f1e198]:
+                  - log [ref=f1e200]
+                  - generic [ref=f1e202]:
+                    - generic [ref=f1e203]:
+                      - generic [ref=f1e204]: Select...
+                      - combobox "Will you now or in the future require visa sponsorship to work in the United States?" [ref=f1e206]
+                    - button "Toggle flyout" [ref=f1e208] [cursor=pointer]:
+                      - img [ref=f1e209]
+                  - textbox
+              - generic [ref=f1e213]:
+                - generic [ref=f1e214]: Are you currently based in the New York City area (or planning to relocate soon)?*
+                - generic [ref=f1e215]:
+                  - log [ref=f1e217]
+                  - generic [ref=f1e219]:
+                    - generic [ref=f1e220]:
+                      - generic [ref=f1e221]: Select...
+                      - combobox "Are you currently based in the New York City area (or planning to relocate soon)?" [ref=f1e223]
+                    - button "Toggle flyout" [ref=f1e225] [cursor=pointer]:
+                      - img [ref=f1e226]
+                  - textbox
+              - generic [ref=f1e230]:
+                - generic [ref=f1e231]: Are you able to come into our NYC office three days per week (Monday, Wednesday, and Thursday) in Midtown Manhattan?*
+                - generic [ref=f1e232]:
+                  - log [ref=f1e234]
+                  - generic [ref=f1e236]:
+                    - generic [ref=f1e237]:
+                      - generic [ref=f1e238]: Select...
+                      - combobox "Are you able to come into our NYC office three days per week (Monday, Wednesday, and Thursday) in Midtown Manhattan?" [ref=f1e240]
+                    - button "Toggle flyout" [ref=f1e242] [cursor=pointer]:
+                      - img [ref=f1e243]
+                  - textbox
+              - generic [ref=f1e247]:
+                - generic [ref=f1e248]: What university did you attend? *
+                - textbox "What university did you attend?" [ref=f1e249]
+              - generic [ref=f1e252]:
+                - generic [ref=f1e253]: Did you study Computer Science in undergrad? *
+                - generic [ref=f1e254]:
+                  - log [ref=f1e256]
+                  - generic [ref=f1e258]:
+                    - generic [ref=f1e259]:
+                      - generic [ref=f1e260]: Select...
+                      - combobox "Did you study Computer Science in undergrad?" [ref=f1e262]
+                    - button "Toggle flyout" [ref=f1e264] [cursor=pointer]:
+                      - img [ref=f1e265]
+                  - textbox
+            - button "Submit application" [ref=f1e268] [cursor=pointer]
+  - contentinfo [ref=e18]:
+    - generic [ref=e19]:
+      - link "Spot and Tango logo" [ref=e21] [cursor=pointer]:
+        - /url: https://www.spotandtango.com/?utm_source=Simplify
+        - img "Spot and Tango logo" [ref=e22]
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - link "Shop" [ref=e26] [cursor=pointer]:
+              - /url: https://shop.spotandtango.com/signup/?utm_source=Simplify
+            - link "Blog" [ref=e27] [cursor=pointer]:
+              - /url: https://www.spotandtango.com/blog?utm_source=Simplify
+            - link "UnKibble" [ref=e28] [cursor=pointer]:
+              - /url: https://www.spotandtango.com/unkibble?utm_source=Simplify
+            - link "Why S&T" [ref=e29] [cursor=pointer]:
+              - /url: https://learn.spotandtango.com/?utm_source=Simplify
+          - generic [ref=e30]:
+            - link "What The Pup" [ref=e31] [cursor=pointer]:
+              - /url: https://whatthepup.spotandtango.com/?utm_source=Simplify
+            - link "Privacy Policy" [ref=e32] [cursor=pointer]:
+              - /url: https://www.spotandtango.com/privacy-policy?utm_source=Simplify
+            - link "Terms of Use" [ref=e33] [cursor=pointer]:
+              - /url: https://www.spotandtango.com/terms-of-use?utm_source=Simplify
+            - link "Careers" [ref=e34] [cursor=pointer]:
+              - /url: https://www.spotandtango.com/careers?utm_source=Simplify
+          - generic [ref=e35]:
+            - link "Refer a Friend" [ref=e36] [cursor=pointer]:
+              - /url: https://www.spotandtango.com/refer?utm_source=Simplify
+            - link "Media Inquiries" [ref=e37] [cursor=pointer]:
+              - /url: "mailto: press@spotandtango.com"
+            - link "Affiliate Inquiries" [ref=e38] [cursor=pointer]:
+              - /url: https://try.spotandtango.com/affiliates/?utm_source=Simplify
+            - link "Contact Us" [ref=e39] [cursor=pointer]:
+              - /url: https://www.spotandtango.com/faq?a=How-do-I-contact-customer-support---id--IKoHhdLiR3SYrMUbeS90EQ
+        - generic [ref=e40]:
+          - paragraph [ref=e41]: Sign Up for Pet Tips & More
+          - generic [ref=e42]:
+            - textbox "Enter Your Email" [ref=e43]
+            - button "Sign Up" [ref=e44]
+        - generic [ref=e45]:
+          - link "Instagram logo" [ref=e46] [cursor=pointer]:
+            - /url: https://www.instagram.com/spotandtango/
+            - img "Instagram logo" [ref=e47]
+          - link "Facebook logo" [ref=e48] [cursor=pointer]:
+            - /url: https://www.facebook.com/groups/1000066503949814?utm_source=Simplify
+            - img "Facebook logo" [ref=e49]
+          - link "TikTok logo" [ref=e50] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@spotandtango
+            - img "TikTok logo" [ref=e51]
+          - link "Pinterest logo" [ref=e52] [cursor=pointer]:
+            - /url: https://www.pinterest.com/spotandtango/pins/?utm_source=Simplify
+            - img "Pinterest logo" [ref=e53]
+  - alert [ref=e54]

@@ -1,0 +1,422 @@
+- generic [active] [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - link "PhysicsX Logo" [ref=e7] [cursor=pointer]:
+        - /url: https://www.physicsx.ai/careers?gh_src=Simplify
+        - img "PhysicsX Logo" [ref=e8]
+      - generic [ref=e9]:
+        - link "Back to jobs" [ref=e10] [cursor=pointer]:
+          - /url: https://job-boards.eu.greenhouse.io/physicsx?gh_src=Simplify
+          - img [ref=e11]
+          - text: Back to jobs
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - heading "Machine Learning Engineer" [level=1] [ref=e16]
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e20]: New York, United States
+          - button "Apply" [ref=e21] [cursor=pointer]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - heading "About us" [level=2] [ref=e24]
+            - generic [ref=e25]: PhysicsX is a deep-tech company with roots in numerical physics and Formula One, dedicated to accelerating hardware innovation at the speed of software.
+            - generic [ref=e26]: We are building an AI-driven simulation software stack for engineering and manufacturing across advanced industries. By enabling high-fidelity, multi-physics simulation through AI inference across the entire engineering lifecycle, PhysicsX unlocks new levels of optimization and automation in design, manufacturing, and operations — empowering engineers to push the boundaries of possibility. Our customers include leading innovators in Aerospace & Defense, Materials, Energy, Semiconductors, and Automotive.
+          - generic [ref=e27]:
+            - paragraph [ref=e28]:
+              - strong [ref=e29]: "Note:"
+              - text: We are currently recruiting for multiple positions, however please only apply for the role that best aligns with your skillset and career goals.
+            - heading "Who We're Looking For" [level=2] [ref=e30]:
+              - strong [ref=e31]: Who We're Looking For
+            - paragraph [ref=e32]:
+              - text: As a Machine Learning Engineer in Delivery, you are a problem solver who stays anchored to impact. You are someone who can grasp advanced engineering concepts across multiple industries, and excel at working directly with customers (and often side-by-side with them on-site) to embed cutting-edge AI models into tools that are useful and used.
+              - text: "You’ve shipped ML systems end-to-end and at scale: you design, build and test reliable, scalable ML data pipelines; you know how to explore and manipulate 3D point-cloud and mesh data to enable geometry-aware modelling; you select the right libraries, frameworks and tools. Working at the intersection of data science and software engineering, you translate R&D and project outputs into reusable libraries, tooling and products."
+              - text: With at least 2 years industry experience (post Masters or PhD) in a commercial, non-research environment. You're truly excited about taking ownership of complex work streams and guiding teams to success, while continuously improving the systems and solutions you work on to ensure they are practical, impactful and meet the evolving needs of our customers.
+            - paragraph [ref=e33]:
+              - strong [ref=e34]: "Note:"
+              - text: Due to the nature of our aerospace and defense work, this position is open to US citizens only.
+            - heading "This Role" [level=2] [ref=e35]
+            - paragraph [ref=e36]: As a Machine Learning Engineer, you'll work closely with our Data Scientists, Simulation Engineers, and customers to understand and define the engineering and physics challenges we are solving. You will iterate with customers and use your influence to drive decisions around reliable deployment with measurable outcomes.
+            - strong [ref=e38]: What you will do
+            - list [ref=e39]:
+              - listitem [ref=e40]: Work closely with our simulation engineers, data scientists and customers to develop an understanding of the physics and engineering challenges we are solving
+              - listitem [ref=e41]: Design, build and test data pipelines for machine learning that are reliable, scalable and easily deployable
+              - listitem [ref=e42]: Explore and manipulate 3D point cloud & mesh data
+              - listitem [ref=e43]: Own the delivery of technical workstreams
+              - listitem [ref=e44]: Create analytics environments and resources in the cloud or on premise, spanning data engineering and science
+              - listitem [ref=e45]: Identify the best libraries, frameworks and tools for a given task, make product design decisions to set us up for success
+              - listitem [ref=e46]: Work at the intersection of data science and software engineering to translate the results of our R&D and projects into re-usable libraries, tooling and products
+              - listitem [ref=e47]: Continuously apply and improve engineering best practices and standards and coach your colleagues in their adoption
+            - generic [ref=e48]:
+              - text: You'll also have the opportunity to travel to customer sites in North America, Europe, Asia, Oceania, for an
+              - strong [ref=e49]: average of 3-4 weeks per quarter
+              - text: ", where you'll collaborate closely with customers to build solutions on-site."
+            - strong [ref=e52]: What you bring to the table
+            - list [ref=e53]:
+              - listitem [ref=e54]: Experience applying Machine learning methods (including 3D graph/point cloud deep learning methods) to real-world engineering applications, with a focus on driving measurable impact in industry settings.
+              - listitem [ref=e55]: Experience in ML/Computational statistics/Modelling use-cases in industrial settings (for example supply chain optimisation or manufacturing processes) is encouraged.
+              - listitem [ref=e56]: A track record of scoping and delivering projects in a customer facing role
+              - listitem [ref=e57]: 2+ years’ experience in a data-driven role, with exposure to software engineering concepts and best practices (e.g., versioning, testing, CI/CD, API design, MLOps)
+              - listitem [ref=e58]: Building machine learning models and pipelines in Python, using common libraries and frameworks (e.g., TensorFlow, MLFlow)
+              - listitem [ref=e59]: Distributed computing frameworks (e.g., Spark, Dask)
+              - listitem [ref=e60]: Cloud platforms (e.g., AWS, Azure, GCP) and HP computing
+              - listitem [ref=e61]: Containerization and orchestration (Docker, Kubernetes)
+              - listitem [ref=e62]: Strong problem-solving skills and the ability to analyse issues, identify causes, and recommend solutions quickly
+              - listitem [ref=e63]: Excellent collaboration and communication skills - with teams and customers alike
+              - listitem [ref=e64]: A background in Physics, Engineering, or equivalent
+            - heading "Our delivery teams drive innovation to turn AI models into practical solutions - read our blog to learn more about how you’ll contribute to this exciting journey!" [level=4] [ref=e65]:
+              - strong [ref=e66]:
+                - text: Our delivery teams drive innovation to turn AI models into practical solutions -
+                - link "read our blog to learn more about how you’ll contribute to this exciting journey!" [ref=e67] [cursor=pointer]:
+                  - /url: https://www.physicsx.ai/newsroom/how-delivery-makes-physical-ai-work-in-the-real-world
+              - link:
+                - /url: https://www.physicsx.ai/newsroom/how-delivery-makes-physical-ai-work-in-the-real-world
+            - heading "What we offer" [level=2] [ref=e68]:
+              - strong [ref=e69]: What we offer
+            - heading "Build what actually matters" [level=3] [ref=e70]:
+              - strong [ref=e71]: Build what actually matters
+            - paragraph [ref=e72]: Help shape an AI-native engineering company at a formative stage, tackling problems that genuinely matter for industry and society. This is work with real-world impact - and something you can be proud to stand behind.
+            - heading "Learn alongside exceptional people" [level=3] [ref=e73]:
+              - strong [ref=e74]: Learn alongside exceptional people
+            - paragraph [ref=e75]: Work with a high-caliber, collaborative team of engineers, scientists, and operators who care deeply about doing great work, and about helping each other get better. We come from diverse backgrounds, but we share a commitment to operating at the highest level and addressing some of the most complex challenges out there. If you’re ambitious, thoughtful, and driven by impact, you’ll feel at home.
+            - heading "Influence over hierarchy" [level=3] [ref=e76]:
+              - strong [ref=e77]: Influence over hierarchy
+            - paragraph [ref=e78]: "We operate with a flat structure: good ideas win - wherever they come from. Questioning assumptions and challenging the status quo isn’t just welcomed, it’s expected."
+            - heading "Sustainable pace, long-term ambition" [level=3] [ref=e79]:
+              - strong [ref=e80]: Sustainable pace, long-term ambition
+            - paragraph [ref=e81]: Building meaningful technology is a marathon, not a sprint. We believe in balancing focused, ambitious work with a life beyond it. Our hybrid model blends time together in our New York office with work-from-home days, giving you the flexibility to work sustainably while staying connected in person.
+            - paragraph [ref=e82]:
+              - strong [ref=e83]: And it doesn’t stop there …
+            - paragraph [ref=e84]:
+              - text: 🚀
+              - strong [ref=e85]: Equity options
+              - text: "- share meaningfully in the company you’re helping to build."
+            - paragraph [ref=e86]:
+              - text: 💰
+              - strong [ref=e87]: 5% contribution to
+              - strong [ref=e88]: 401(k)
+              - text: "- build long-term security with a strong retirement plan."
+            - paragraph [ref=e89]:
+              - text: 🍽️
+              - strong [ref=e90]: Free team lunch 1x/week
+              - text: "- good food, great company, and space to connect."
+            - paragraph [ref=e91]:
+              - text: 🏥
+              - strong [ref=e92]: Private health insurance
+              - text: – comprehensive cover for you, offering total peace of mind.
+            - paragraph [ref=e93]:
+              - text: 👶
+              - strong [ref=e94]: Enhanced parental leave
+              - text: – 3 months full pay paternity and 6 months full pay maternity leave, to provide extra flexibility during the moments that matter most.
+            - paragraph [ref=e95]:
+              - strong [ref=e96]: ☀️ 20 days of Annual Leave (+ Public Holidays)
+              - text: "- because taking time to rest matters."
+            - paragraph [ref=e97]:
+              - text: 📈
+              - strong [ref=e98]: Personal development
+              - text: – dedicated support for learning, development, and leveling up over time.
+            - paragraph [ref=e99]:
+              - text: 💪
+              - strong [ref=e100]: Gympass / Wellhub (subsidized)
+              - text: – for you and up to 3 family members, supporting both physical and mental wellbeing.
+            - paragraph [ref=e101]:
+              - text: 💳
+              - strong [ref=e102]: Flexible Spending Account (FSA)
+              - text: – set aside pre-tax dollars for eligible healthcare expenses.
+            - paragraph [ref=e103]:
+              - emphasis [ref=e104]: 🔎 Watch this space, we’re continuing to build this as we grow…
+            - heading "Salary range:" [level=2] [ref=e105]
+            - paragraph [ref=e106]:
+              - text: $150,000 - $190,000 depending on experience
+              - text: Seniority will be assessed throughout our interview process
+          - generic [ref=e107]:
+            - generic [ref=e109]: We value diversity and are committed to equal employment opportunity regardless of sex, race, religion, ethnicity, nationality, disability, age, sexual orientation or gender identity. We strongly encourage individuals from groups traditionally underrepresented in tech to apply. To help make a change, we sponsor bright women from disadvantaged backgrounds through their university degrees in science and mathematics.
+            - generic [ref=e111]: We collect diversity and inclusion data solely for the purpose of monitoring the effectiveness of our equal opportunities policies and ensuring compliance with UK employment and equality legislation. This information is confidential, used only in aggregate form, and will not influence the outcome of your application.
+      - separator [ref=e114]
+      - generic [ref=e115]:
+        - generic [ref=e117]:
+          - heading "Apply for this job" [level=2] [ref=e119]
+          - generic [ref=e120]:
+            - paragraph [ref=e122]: "*"
+            - paragraph [ref=e123]: indicates a required field
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - generic [ref=e128]:
+              - generic [ref=e129]: First Name*
+              - textbox "First Name" [ref=e130]
+            - generic [ref=e133]:
+              - generic [ref=e134]: Last Name*
+              - textbox "Last Name" [ref=e135]
+            - generic [ref=e138]:
+              - generic [ref=e139]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e140]
+            - generic [ref=e143]:
+              - generic [ref=e144]: Email*
+              - textbox "Email" [ref=e145]
+            - group "Phone" [ref=e147]:
+              - generic [ref=e148]: Phone
+              - generic [ref=e151]:
+                - generic [ref=e152]: Country*
+                - generic [ref=e153]:
+                  - log [ref=e155]
+                  - generic [ref=e157]:
+                    - combobox "Country" [ref=e160]
+                    - button "Toggle flyout" [ref=e162] [cursor=pointer]:
+                      - img [ref=e163]
+                  - textbox
+              - generic [ref=e167]:
+                - generic [ref=e168]: Phone*
+                - textbox "Phone" [ref=e169]
+            - generic [ref=e170]:
+              - generic [ref=e172]:
+                - generic [ref=e173]: Location (City)*
+                - generic [ref=e174]:
+                  - log [ref=e176]
+                  - combobox "Location (City)" [ref=e181]
+                  - textbox
+              - button "Locate me" [ref=e182] [cursor=pointer]
+            - group "Resume/CV*" [ref=e184]:
+              - generic [ref=e185]: Resume/CV*
+              - generic [ref=e187]:
+                - generic [ref=e189]:
+                  - button "Attach" [ref=e190] [cursor=pointer]
+                  - generic [ref=e191]: Attach
+                  - button "Attach" [ref=e192]
+                - button "Google Drive" [ref=e194] [cursor=pointer]
+                - generic [ref=e196]:
+                  - button "Enter manually" [ref=e197] [cursor=pointer]
+                  - generic [ref=e198]: Enter manually
+                - paragraph [ref=e199]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e201]:
+              - generic [ref=e202]: Cover Letter
+              - generic [ref=e204]:
+                - generic [ref=e206]:
+                  - button "Attach" [ref=e207] [cursor=pointer]
+                  - generic [ref=e208]: Attach
+                  - button "Attach" [ref=e209]
+                - button "Google Drive" [ref=e211] [cursor=pointer]
+                - generic [ref=e213]:
+                  - button "Enter manually" [ref=e214] [cursor=pointer]
+                  - generic [ref=e215]: Enter manually
+                - paragraph [ref=e216]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e217]:
+            - separator [ref=e218]
+            - generic [ref=e221]:
+              - generic [ref=e222]: Website
+              - textbox "Website" [ref=e223]
+            - generic [ref=e226]:
+              - generic [ref=e227]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e228]
+            - generic [ref=e231]:
+              - generic [ref=e232]: Where did you hear about us?*
+              - generic [ref=e233]:
+                - log [ref=e235]
+                - generic [ref=e237]:
+                  - generic [ref=e238]:
+                    - generic [ref=e239]: Select...
+                    - combobox "Where did you hear about us?" [ref=e241]
+                  - button "Toggle flyout" [ref=e243] [cursor=pointer]:
+                    - img [ref=e244]
+                - textbox
+            - generic [ref=e248]:
+              - generic [ref=e249]: What interests you in this role with PhysicsX?*
+              - textbox "What interests you in this role with PhysicsX?" [ref=e250]
+            - generic [ref=e253]:
+              - generic [ref=e254]: What is your notice period/when is the earliest you could start?*
+              - textbox "What is your notice period/when is the earliest you could start?" [ref=e255]
+            - generic [ref=e258]:
+              - generic [ref=e259]: What is your current Right to Work status?*
+              - generic [ref=e260]:
+                - log [ref=e262]
+                - generic [ref=e264]:
+                  - generic [ref=e265]:
+                    - generic [ref=e266]: Select...
+                    - combobox "What is your current Right to Work status?" [ref=e268]
+                  - button "Toggle flyout" [ref=e270] [cursor=pointer]:
+                    - img [ref=e271]
+                - textbox
+            - generic [ref=e275]:
+              - generic [ref=e276]: Please share your salary expectations:*
+              - textbox "Please share your salary expectations:" [ref=e277]
+            - generic [ref=e280]:
+              - generic [ref=e281]: "Choose the correct answer: def mystery(s): return \"\".join(sorted(set(s), reverse=True)) print(mystery(\"programming\"))*"
+              - generic [ref=e282]:
+                - log [ref=e284]
+                - generic [ref=e286]:
+                  - generic [ref=e287]:
+                    - generic [ref=e288]: Select...
+                    - 'combobox "Choose the correct answer: def mystery(s): return \"\".join(sorted(set(s), reverse=True)) print(mystery(\"programming\"))" [ref=e290]'
+                  - button "Toggle flyout" [ref=e292] [cursor=pointer]:
+                    - img [ref=e293]
+                - textbox
+          - separator [ref=e295]
+          - generic [ref=e296]:
+            - heading "U.S. Standard Demographic Questions" [level=3] [ref=e297]
+            - generic [ref=e299]: We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of improvement in our hiring process.
+            - generic [ref=e301]:
+              - generic [ref=e302]: How would you describe your gender identity? (mark all that apply)
+              - generic [ref=e303]:
+                - log [ref=e305]
+                - generic [ref=e307]:
+                  - generic [ref=e308]:
+                    - generic [ref=e309]: Select...
+                    - combobox "How would you describe your gender identity? (mark all that apply)" [ref=e311]
+                  - button "Toggle flyout" [ref=e313] [cursor=pointer]:
+                    - img [ref=e314]
+            - generic [ref=e317]:
+              - generic [ref=e318]: How would you describe your racial/ethnic background? (mark all that apply)
+              - generic [ref=e319]:
+                - log [ref=e321]
+                - generic [ref=e323]:
+                  - generic [ref=e324]:
+                    - generic [ref=e325]: Select...
+                    - combobox "How would you describe your racial/ethnic background? (mark all that apply)" [ref=e327]
+                  - button "Toggle flyout" [ref=e329] [cursor=pointer]:
+                    - img [ref=e330]
+            - generic [ref=e333]:
+              - generic [ref=e334]: How would you describe your sexual orientation? (mark all that apply)
+              - generic [ref=e335]:
+                - log [ref=e337]
+                - generic [ref=e339]:
+                  - generic [ref=e340]:
+                    - generic [ref=e341]: Select...
+                    - combobox "How would you describe your sexual orientation? (mark all that apply)" [ref=e343]
+                  - button "Toggle flyout" [ref=e345] [cursor=pointer]:
+                    - img [ref=e346]
+            - generic [ref=e349]:
+              - generic [ref=e350]: Do you identify as transgender?
+              - generic [ref=e351]:
+                - log [ref=e353]
+                - generic [ref=e355]:
+                  - generic [ref=e356]:
+                    - generic [ref=e357]: Select...
+                    - combobox "Do you identify as transgender?" [ref=e359]
+                  - button "Toggle flyout" [ref=e361] [cursor=pointer]:
+                    - img [ref=e362]
+            - generic [ref=e365]:
+              - generic [ref=e366]: Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?
+              - generic [ref=e367]:
+                - log [ref=e369]
+                - generic [ref=e371]:
+                  - generic [ref=e372]:
+                    - generic [ref=e373]: Select...
+                    - combobox "Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?" [ref=e375]
+                  - button "Toggle flyout" [ref=e377] [cursor=pointer]:
+                    - img [ref=e378]
+            - generic [ref=e381]:
+              - generic [ref=e382]: Are you a veteran or active member of the United States Armed Forces?
+              - generic [ref=e383]:
+                - log [ref=e385]
+                - generic [ref=e387]:
+                  - generic [ref=e388]:
+                    - generic [ref=e389]: Select...
+                    - combobox "Are you a veteran or active member of the United States Armed Forces?" [ref=e391]
+                  - button "Toggle flyout" [ref=e393] [cursor=pointer]:
+                    - img [ref=e394]
+          - generic [ref=e396]:
+            - separator [ref=e397]
+            - generic [ref=e398]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e399]
+              - paragraph [ref=e400]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e401]: As set forth in PhysicsX’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e404]:
+              - generic [ref=e405]: Gender
+              - generic [ref=e406]:
+                - log [ref=e408]
+                - generic [ref=e410]:
+                  - generic [ref=e411]:
+                    - generic [ref=e412]: Select...
+                    - combobox "Gender" [ref=e414]
+                  - button "Toggle flyout" [ref=e416] [cursor=pointer]:
+                    - img [ref=e417]
+            - generic [ref=e419]:
+              - generic [ref=e421]:
+                - generic [ref=e422]: Are you Hispanic/Latino?
+                - generic [ref=e423]:
+                  - log [ref=e425]
+                  - generic [ref=e427]:
+                    - generic [ref=e428]:
+                      - generic [ref=e429]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e431]
+                    - button "Toggle flyout" [ref=e433] [cursor=pointer]:
+                      - img [ref=e434]
+              - link "Race & Ethnicity Definitions" [ref=e436] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e437]:
+              - paragraph [ref=e438]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e439]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e440]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e441]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e442]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e445]:
+              - generic [ref=e446]: Veteran Status
+              - generic [ref=e447]:
+                - log [ref=e449]
+                - generic [ref=e451]:
+                  - generic [ref=e452]:
+                    - generic [ref=e453]: Select...
+                    - combobox "Veteran Status" [ref=e455]
+                  - button "Toggle flyout" [ref=e457] [cursor=pointer]:
+                    - img [ref=e458]
+            - separator [ref=e460]
+            - generic [ref=e461]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e462]
+              - generic [ref=e463]:
+                - generic [ref=e464]:
+                  - generic [ref=e465]: Form CC-305
+                  - generic [ref=e466]: Page 1 of 1
+                - generic [ref=e467]:
+                  - generic [ref=e468]: OMB Control Number 1250-0005
+                  - generic [ref=e469]: Expires 04/30/2026
+              - strong [ref=e470]: Why are you being asked to complete this form?
+              - paragraph [ref=e471]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e472]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e473] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e474]: How do you know if you have a disability?
+              - paragraph [ref=e475]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e476]: "Disabilities include, but are not limited to:"
+              - list [ref=e477]:
+                - listitem [ref=e478]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e479]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e480]: Blind or low vision
+                - listitem [ref=e481]: Cancer (past or present)
+                - listitem [ref=e482]: Cardiovascular or heart disease
+                - listitem [ref=e483]: Celiac disease
+                - listitem [ref=e484]: Cerebral palsy
+                - listitem [ref=e485]: Deaf or serious difficulty hearing
+                - listitem [ref=e486]: Diabetes
+                - listitem [ref=e487]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e488]: Epilepsy or other seizure disorder
+                - listitem [ref=e489]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e490]: Intellectual or developmental disability
+                - listitem [ref=e491]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e492]: Missing limbs or partially missing limbs
+                - listitem [ref=e493]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e494]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e495]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e496]: Partial or complete paralysis (any cause)
+                - listitem [ref=e497]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e498]: Short stature (dwarfism)
+                - listitem [ref=e499]: Traumatic brain injury
+            - generic [ref=e502]:
+              - generic [ref=e503]: Disability Status
+              - generic [ref=e504]:
+                - log [ref=e506]
+                - generic [ref=e508]:
+                  - generic [ref=e509]:
+                    - generic [ref=e510]: Select...
+                    - combobox "Disability Status" [ref=e512]
+                  - button "Toggle flyout" [ref=e514] [cursor=pointer]:
+                    - img [ref=e515]
+            - paragraph [ref=e518]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e520] [cursor=pointer]
+  - contentinfo [ref=e521]:
+    - generic [ref=e522]:
+      - paragraph [ref=e523]: Powered by
+      - link "Greenhouse logo" [ref=e524] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e525]

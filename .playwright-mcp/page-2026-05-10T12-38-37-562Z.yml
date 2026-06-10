@@ -1,0 +1,126 @@
+- generic [ref=e10]:
+  - generic [ref=e12]:
+    - banner [ref=e13]:
+      - generic [ref=e14]:
+        - link "quadric, Inc" [ref=e16] [cursor=pointer]:
+          - /url: /quadric-dot-i-o-inc/
+          - img "quadric, Inc" [ref=e17]
+        - heading "Deep Learning Compiler Engineer (New Grad)" [level=1] [ref=e18]
+        - generic [ref=e19]:
+          - paragraph [ref=e20]:
+            - strong [ref=e22]: Hybrid
+            - text: ·Software Engineering·Full time
+          - generic [ref=e25]:
+            - generic [ref=e26]: Burlingame,
+            - generic [ref=e27]: California,
+            - text: United States
+    - generic [ref=e28]:
+      - navigation [ref=e30]:
+        - link "Overview" [ref=e32] [cursor=pointer]:
+          - /url: /quadric-dot-i-o-inc/j/43779C9213/
+        - link "Application" [ref=e33]:
+          - /url: /quadric-dot-i-o-inc/j/43779C9213/apply/
+      - progressbar "Scroll progress"
+      - main [ref=e34]:
+        - generic [ref=e35]:
+          - generic [ref=e38]:
+            - generic [ref=e39]:
+              - generic [ref=e40]:
+                - img [ref=e41]
+                - strong [ref=e43]: Autofill application
+              - paragraph [ref=e44]: "Save time by importing your resume in one of the following formats: .pdf, .doc, .docx, .odt, or .rtf."
+            - button "Import resume from" [ref=e48] [cursor=pointer]:
+              - generic [ref=e49]:
+                - generic [ref=e50]: Import resume from
+                - img
+          - generic [ref=e51]: "* Required fields"
+          - generic [ref=e52]:
+            - generic [ref=e53]:
+              - heading "Personal information" [level=2] [ref=e54]
+              - button "Clear Personal information" [disabled] [ref=e55]:
+                - img [ref=e56]
+                - text: Clear
+            - generic [ref=e58]:
+              - generic [ref=e60]:
+                - generic [ref=e61]:
+                  - strong [ref=e63]: "*"
+                  - strong [ref=e66]: First name
+                - textbox "First name" [ref=e69]
+              - generic [ref=e71]:
+                - generic [ref=e72]:
+                  - strong [ref=e74]: "*"
+                  - strong [ref=e77]: Last name
+                - textbox "Last name" [ref=e80]
+              - generic [ref=e82]:
+                - generic [ref=e83]:
+                  - strong [ref=e85]: "*"
+                  - strong [ref=e88]: Email
+                - textbox "Email" [ref=e91]
+          - generic [ref=e92]:
+            - generic [ref=e93]:
+              - heading "Profile" [level=2] [ref=e94]
+              - button "Clear Profile" [disabled] [ref=e95]:
+                - img [ref=e96]
+                - text: Clear
+            - generic [ref=e101]:
+              - generic [ref=e102]:
+                - strong [ref=e104]: "*"
+                - generic [ref=e105]:
+                  - strong [ref=e107]: Resume
+                  - img [ref=e109]
+              - generic [ref=e112]:
+                - img [ref=e117] [cursor=pointer]
+                - button "Choose file" [ref=e120] [cursor=pointer]
+                - button "Resume Choose file" [ref=e121]
+          - generic [ref=e122]:
+            - generic [ref=e123]:
+              - heading "Details" [level=2] [ref=e124]
+              - button "Clear Details" [disabled] [ref=e125]:
+                - img [ref=e126]
+                - text: Clear
+            - generic [ref=e128]:
+              - generic [ref=e130]:
+                - generic [ref=e132]:
+                  - strong [ref=e134]: Cover letter
+                  - text: (Optional)
+                - textbox "Cover letter" [ref=e137]
+              - generic [ref=e139]:
+                - generic [ref=e140]:
+                  - strong [ref=e142]: "*"
+                  - strong [ref=e145]: Will you now or at any time in the future require employer sponsorship to obtain or maintain employment authorization to work in the country where this role is based?
+                - generic [ref=e146]:
+                  - generic [ref=e149]:
+                    - combobox "Will you now or at any time in the future require employer sponsorship to obtain or maintain employment authorization to work in the country where this role is based?" [ref=e150]
+                    - img
+                  - textbox [ref=e151]
+              - generic [ref=e153]:
+                - generic [ref=e154]:
+                  - strong [ref=e156]: "*"
+                  - strong [ref=e159]: Do you give your consent to have Quadric text you about your application?
+                - generic [ref=e160]:
+                  - generic [ref=e163]:
+                    - combobox "Do you give your consent to have Quadric text you about your application?" [ref=e164]
+                    - img
+                  - textbox [ref=e165]
+          - button "Submit application" [ref=e166] [cursor=pointer]
+  - contentinfo [ref=e167]:
+    - generic [ref=e168]:
+      - link "View website" [ref=e170] [cursor=pointer]:
+        - /url: https://quadric.io
+      - generic [ref=e171]:
+        - link "View all jobs" [ref=e172] [cursor=pointer]:
+          - /url: /quadric-dot-i-o-inc/
+        - link "Help" [ref=e173] [cursor=pointer]:
+          - /url: https://jobseekers.workable.com/hc/en
+          - text: Help
+          - img [ref=e174]
+    - generic [ref=e176]:
+      - link "Accessibility" [ref=e178] [cursor=pointer]:
+        - /url: https://workable.com/web-accessibility-statement
+        - text: Accessibility
+        - img [ref=e179]
+      - button "Cookie settings" [ref=e182] [cursor=pointer]
+      - generic [ref=e183]:
+        - text: Powered by
+        - link "Workable" [ref=e184] [cursor=pointer]:
+          - /url: https://jobs.workable.com/?utm_campaign=careers_page&utm_content=careers_page&utm_medium=feature&utm_source=careers_page

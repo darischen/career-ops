@@ -1,0 +1,118 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Profound" [ref=e6] [cursor=pointer]:
+        - /url: https://www.tryprofound.com/
+        - img "Profound" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Profound’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /Profound
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer, New Grad" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York, New York; San Francisco, California
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]:
+            - generic [ref=e29]: Engineering
+      - generic [ref=e30]:
+        - tablist [ref=e31]:
+          - tab "Overview" [ref=e32] [cursor=pointer]
+          - tab "Application" [active] [selected] [ref=e33] [cursor=pointer]
+        - tabpanel "Application" [ref=e86]:
+          - generic [ref=e87]:
+            - button "Choose File" [ref=e88]
+            - generic [ref=e90]:
+              - generic [ref=e91]:
+                - img [ref=e93]
+                - heading "Autofill from resume" [level=3] [ref=e95]
+              - paragraph [ref=e96]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e98] [cursor=pointer]
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - generic [ref=e102]: Name*
+              - textbox "Name*" [ref=e104] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e105]:
+              - generic [ref=e106]: Email*
+              - textbox "Email*" [ref=e108] [cursor=pointer]:
+                - /placeholder: hello@example.com...
+            - generic [ref=e109]:
+              - generic [ref=e110]: Resume*
+              - button "Resume*" [ref=e111]
+              - generic [ref=e112]:
+                - button "Upload File" [ref=e113] [cursor=pointer]:
+                  - img [ref=e114]
+                  - generic [ref=e116]: Upload File
+                - paragraph [ref=e117]: or drag and drop here
+            - generic [ref=e118]:
+              - generic [ref=e119]: Transcript*
+              - button "Transcript*" [ref=e120]
+              - generic [ref=e121]:
+                - button "Upload File" [ref=e122] [cursor=pointer]:
+                  - img [ref=e123]
+                  - generic [ref=e125]: Upload File
+                - paragraph [ref=e126]: or drag and drop here
+            - generic [ref=e127]:
+              - generic [ref=e128]: LinkedIn URL*
+              - textbox "LinkedIn URL*" [ref=e130] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e131]:
+              - generic [ref=e132]: Phone Number*
+              - textbox "Phone Number*" [ref=e133] [cursor=pointer]:
+                - /placeholder: 1-415-555-1234...
+            - group [ref=e134]:
+              - generic [ref=e135]: Which Profound office location are you interested in?*
+              - generic [ref=e136]:
+                - radio "San Francisco" [ref=e139] [cursor=pointer]
+                - generic [ref=e140]: San Francisco
+              - generic [ref=e141]:
+                - radio "New York City" [ref=e144] [cursor=pointer]
+                - generic [ref=e145]: New York City
+            - generic [ref=e146]:
+              - generic [ref=e147]: Why are you interested in working at Profound?*
+              - textbox "Why are you interested in working at Profound?*" [ref=e148] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e149]:
+              - generic [ref=e150]: What is something you worked on that you are proud of?*
+              - textbox "What is something you worked on that you are proud of?*" [ref=e151] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e152]:
+              - generic [ref=e153]: What motivates you?*
+              - textbox "What motivates you?*" [ref=e154] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e155]:
+              - generic [ref=e156]: Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa)?*
+              - generic [ref=e157]:
+                - button "Yes" [ref=e158] [cursor=pointer]
+                - button "No" [ref=e159] [cursor=pointer]
+            - generic [ref=e160]:
+              - generic [ref=e161]: Is there anything else you'd like us to know?
+              - textbox "Is there anything else you'd like us to know?" [ref=e163] [cursor=pointer]:
+                - /placeholder: Type here...
+          - button "Submit Application" [ref=e164] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e165]
+  - contentinfo [ref=e73]:
+    - link "Learn more about Ashby" [ref=e74] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e75]: Powered by
+      - img "Ashby" [ref=e76]
+    - paragraph [ref=e82]:
+      - link "Privacy Policy" [ref=e83] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e84] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e85] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

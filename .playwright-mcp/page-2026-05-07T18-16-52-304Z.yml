@@ -1,0 +1,22 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - img "CyberArk Logo" [ref=e6]
+    - generic [ref=e7]:
+      - paragraph [ref=e8]: Software Engineer
+      - paragraph [ref=e9]:
+        - generic "Location" [ref=e10]:
+          - img [ref=e11]
+        - text: Santa Clara, California, United States
+  - generic [ref=e15]:
+    - generic:
+      - generic [ref=e19]:
+        - banner:
+          - heading "Software Engineer" [level=1] [ref=e20]
+        - main [ref=e21]
+        - generic [ref=e26]:
+          - img "SmartRecruiters - Logo" [ref=e29]
+          - button [ref=e30] [cursor=pointer]
+      - generic:
+        - generic:
+          - status
+          - alert

@@ -1,0 +1,112 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Pylon" [ref=e6] [cursor=pointer]:
+        - /url: https://usepylon.com/
+        - img "Pylon" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Pylon’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /pylon-labs?utm_source=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $180K – $300K • Offers Equity
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [active] [selected] [ref=e36] [cursor=pointer]
+          - tab "Application" [ref=e37] [cursor=pointer]
+        - tabpanel "Overview" [ref=e147]:
+          - generic [ref=e148]:
+            - heading "At Pylon, we're building the future of B2B Post Sales." [level=2] [ref=e149]:
+              - strong [ref=e150]: At Pylon, we're building the future of B2B Post Sales.
+            - paragraph [ref=e151]: We’re building the all-in-one B2B post-sales support platform powered by conversational data and layered with intelligence to help our customers run their operations in real-time.
+            - paragraph [ref=e152]: We’re backed by a16z, BCV, General Catalyst, Y Combinator.
+            - paragraph [ref=e153]:
+              - text: Currently more than 1300 companies including Linear, Cognition (makers of Devin), Modal Labs, and
+              - link "Incident.io" [ref=e154] [cursor=pointer]:
+                - /url: http://Incident.io
+              - text: run their support and customer success workflows with Pylon. You'll also find us on the
+              - link "Enterprise Tech 30 List" [ref=e155] [cursor=pointer]:
+                - /url: https://www.enterprisetech30.com/
+              - text: .
+            - paragraph [ref=e156]: Our product has a very large problem space so there’s a ton of stuff to build and take ownership of - we’d be excited to get your help as we're hiring several extremely talented software engineers across the stack.
+            - heading [level=2]
+            - paragraph [ref=e157]:
+              - strong [ref=e158]: You might be a fit if the below describes you...
+            - list [ref=e159]:
+              - listitem [ref=e160]:
+                - paragraph [ref=e161]: You dislike meetings and would much rather focus your time on building, being productive, and shipping code
+              - listitem [ref=e162]:
+                - paragraph [ref=e163]: You have strong engineering fundamentals, code efficiently, and you know what you're great at and what you're less great at
+              - listitem [ref=e164]:
+                - paragraph [ref=e165]: You thrive when you have autonomy, own as many of the details as possible, and project manage your own work
+              - listitem [ref=e166]:
+                - paragraph [ref=e167]: You're in SF or you're willing to relocate, you love working in-person, and you're serious about joining us to build a culture we'll all love
+              - listitem [ref=e168]:
+                - paragraph [ref=e169]: We work with React, Golang, GraphQL, and AWS
+              - listitem [ref=e170]:
+                - paragraph [ref=e171]: You'll join a strong technical team of senior engineers from places like Samsara, Affinity, and Airbnb.
+            - paragraph [ref=e172]
+            - paragraph [ref=e173]:
+              - strong [ref=e174]: Our perks
+            - paragraph [ref=e175]: 🏥 Fully covered medical, dental, and vision insurance for employees
+            - paragraph [ref=e176]: 🏦 401(k) retirement plan
+            - paragraph [ref=e177]: 🚆 Commuter benefits
+            - paragraph [ref=e178]: 🌱 Parental leave
+            - paragraph [ref=e179]: 🏝️ 14 company holidays + unlimited PTO
+            - paragraph [ref=e180]: 🗺️ Annual offsite
+            - paragraph [ref=e181]: 🍽 Lunch, dinner, and snacks at the office
+            - paragraph [ref=e182]: 🏋️ Fitness stipend
+            - paragraph [ref=e183]
+            - paragraph [ref=e184]:
+              - strong [ref=e185]: More about Pylon
+            - paragraph [ref=e186]:
+              - strong [ref=e187]: "Funding:"
+              - text: Series B led by a16z and BCV ($51M total raised)
+            - paragraph [ref=e188]:
+              - strong [ref=e189]: "Founders:"
+              - link "Advith Chelikani" [ref=e190] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/advith/
+              - text: ","
+              - link "Robert Eng" [ref=e191] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/robert-eng/
+              - text: ", and"
+              - link "Marty Kausas" [ref=e192] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/martykausas
+            - paragraph [ref=e193]:
+              - strong [ref=e194]: "Team:"
+              - text: Currently 90 and growing!
+          - link "Apply for this Job" [ref=e195] [cursor=pointer]:
+            - /url: /pylon-labs/edba2728-f620-49f8-b18c-7a4294fe08af/application?utm_source=Simplify
+            - button "Apply for this Job" [ref=e196]
+  - contentinfo [ref=e87]:
+    - link "Learn more about Ashby" [ref=e88] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e89]: Powered by
+      - img "Ashby" [ref=e90]
+    - paragraph [ref=e96]:
+      - link "Privacy Policy" [ref=e97] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e98] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e99] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

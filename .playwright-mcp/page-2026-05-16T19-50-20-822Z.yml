@@ -1,0 +1,94 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Sofar Ocean" [ref=e6] [cursor=pointer]:
+        - /url: https://www.sofarocean.com
+        - paragraph [ref=e7]: Sofar Ocean
+    - listitem [ref=e8]:
+      - link "Back to Sofar Ocean’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /sofarocean
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Department" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Engineering
+        - generic [ref=e26]:
+          - heading "Compensation" [level=2] [ref=e27]
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - generic [ref=e30]: $100K – $139K
+      - generic [ref=e31]:
+        - tablist [ref=e32]:
+          - tab "Overview" [selected] [ref=e33] [cursor=pointer]
+          - tab "Application" [ref=e34] [cursor=pointer]
+        - tabpanel "Overview" [ref=e36]:
+          - generic [ref=e37]:
+            - heading "The Role:" [level=3] [ref=e38]:
+              - strong [ref=e39]: "The Role:"
+            - paragraph [ref=e40]: We are looking for a product-driven software engineer to join our team as we scale our groundbreaking Wayfinder weather routing service for the maritime transport industry. This is a great opportunity for someone early in their career who is eager to learn, grow and make a real impact. In this position you will help design, develop, and maintain services in the Wayfinder Optimization Engine – an optimal ship-routing tool that combines weather data with ship performance models and user-specified constraints to find the most efficient routes across the worlds' oceans, saving fuel, emissions and reducing risk.
+            - paragraph [ref=e41]: You’ll develop a deep understanding of our customers, their workflows, and critical data they need to operate. You will collaborate with a top-notch team of engineers, ocean scientists and product designers to translate these unique user needs into high quality software that helps users and saves carbon. You’ll spend a lot of time making internal workflows more efficient, improving core algorithms to drive top-line optimization metrics, and rolling out new features which delight our clients.
+            - paragraph [ref=e42]: You’ll be primarily be working on our routing optimization system, which is written in Rust with some elements in Python. You should be comfortable working with both high- and low-level languages. You will be collaborating with engineers to deliver end-to-end features to users.
+            - heading "About You:" [level=3] [ref=e43]:
+              - strong [ref=e44]: "About You:"
+            - list [ref=e45]:
+              - listitem [ref=e46]:
+                - paragraph [ref=e47]: Deeply committed to building a product with a positive impact on the world
+              - listitem [ref=e48]:
+                - paragraph [ref=e49]: Passionate about the craft of software engineering. Loves making beautiful, functional interfaces for humans and maintainable, extendable interfaces for systems.
+              - listitem [ref=e50]:
+                - paragraph [ref=e51]: Curious and experimental in the face of rapid tech change like LLM’s
+              - listitem [ref=e52]:
+                - paragraph [ref=e53]: Enthusiastically leverages agentic programming techniques
+              - listitem [ref=e54]:
+                - paragraph [ref=e55]: Exposure to Rust, C++, C,or othercompiled, non-garbage-collected language
+              - listitem [ref=e56]:
+                - paragraph [ref=e57]: Clear communicator who enjoys collaborating with other engineers, designers, PMs, and scientists
+              - listitem [ref=e58]:
+                - paragraph [ref=e59]: Can rapidly acquire new technical skills and knowledge in a fast-paced, high-delivery environment
+              - listitem [ref=e60]:
+                - paragraph [ref=e61]: Excited to be be a part of a small but growing startup team
+              - listitem [ref=e62]:
+                - paragraph [ref=e63]: Understands the realities of startup life and is energized by the pace, ambiguity, and hands-on nature of a small but growing team.
+            - paragraph [ref=e64]:
+              - strong [ref=e65]: "Bonus Points:"
+            - list [ref=e66]:
+              - listitem [ref=e67]:
+                - paragraph [ref=e68]: Coursework or equivalent in optimization problems and controls systems
+              - listitem [ref=e69]:
+                - paragraph [ref=e70]: Coursework or equivalent background in physics
+            - heading "Estimated Salary Range" [level=3] [ref=e71]:
+              - strong [ref=e72]: Estimated Salary Range
+            - list [ref=e73]:
+              - listitem [ref=e74]:
+                - paragraph [ref=e75]: $100,000 - $139,000
+              - listitem [ref=e76]:
+                - paragraph [ref=e77]: The range listed is what we reasonably expect to pay for this role at the time of this posting. We may ultimately pay more or less than the posted range and may be modified in the future. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to skill set, experience, and equity package.
+            - heading "Sofar's Commitment to Climate Justice" [level=3] [ref=e78]:
+              - strong [ref=e79]: Sofar's Commitment to Climate Justice
+            - paragraph [ref=e80]: We at Sofar Ocean acknowledge that careers in the marine sciences “... have traditionally been, and remain, non-diverse work environments”, thereby limiting the entry and prosperity of underrepresented groups in the space. (Johri et al., 2021) Many of these same groups are disproportionately affected by climate change, and are often excluded from decision-making that directly address their interests and needs.
+            - paragraph [ref=e81]: We are committed to addressing these climate injustices and highly encourage people who identify as women, LGBTQ+, Black, Indigenous, and people of color (BIPOC) to apply.
+          - link "Apply for this Job" [ref=e83] [cursor=pointer]:
+            - /url: /sofarocean/28baef4b-7bc6-40ee-a479-b4a940ecdbfd/application
+            - button "Apply for this Job" [ref=e84]
+  - contentinfo [ref=e85]:
+    - link "Learn more about Ashby" [ref=e86] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e87]: Powered by
+      - img "Ashby" [ref=e88]
+    - paragraph [ref=e94]:
+      - link "Privacy Policy" [ref=e95] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e96] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e97] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

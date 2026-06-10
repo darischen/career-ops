@@ -1,0 +1,6 @@
+[     121ms] [LOG] Hey you! We like your type. Come join us - https://seatgeek.com/jobs @ https://seatgeek.com/jobs/7858968?gh_jid=7858968:508
+[     175ms] [LOG] Talos: Anti-tamper crypto enabled (PBKDF2 iterations: 5708 ) @ https://seatgeek.com/talos/mask.v1.0.0.js?v=96f2d5506cea:198
+[    1899ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://my.greenhouse.io/users/self?job_post_id=7858968:0
+[    1899ms] UnauthorizedError: Unauthorized: User is not logged in.
+    at Gs.fetchProfile (https://job-boards.cdn.greenhouse.io/assets/entry.client-DJvenSzz.js:61:71218)
+[    1983ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://seatgeek.com/jobs/7858968?gh_jid=7858968:0

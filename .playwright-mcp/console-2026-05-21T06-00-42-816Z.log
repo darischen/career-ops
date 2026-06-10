@@ -1,0 +1,15 @@
+[     765ms] [LOG] JQMIGRATE: Migrate is installed, version 3.3.0 @ https://performancemanager8.successfactors.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:4
+[     766ms] [LOG] JQMIGRATE: Migrate plugin loaded multiple times @ https://performancemanager8.successfactors.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery-migrate.js:1
+[     766ms] [LOG] JQMIGRATE: Migrate is installed, version 3.3.0 @ https://performancemanager8.successfactors.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery-migrate.js:1
+[   32470ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.linkedin.com/li/track:0
+[   32475ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.linkedin.com/li/track:0
+[   78620ms] [LOG] JQMIGRATE: Migrate is installed, version 3.3.0 @ https://career8.successfactors.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:4
+[   78765ms] [LOG] [AjaxService] Using native Proxy for lazyDataGridController @ https://career8.successfactors.com/verp/vmod_v1/ui/ajaxservice/js/AjaxService_2d3475025ccd13215ad79270d11032b7.js:0
+[   78803ms] [INFO] 2026-05-20 23:02:01 Device API logging initialized - DEVICE @ https://career8.successfactors.com/verp/vmod_v1/ui/sapui5-bundles-main/resources_1.142.5-7/common-1.js:1336
+[   78889ms] [WARNING] The current jQuery version 3.5.1 is different than the version 3.6.0 that is used for testing jquery-compat.js. jquery-compat.js is applied but it may not work properly. @ https://career8.successfactors.com/verp/vmod_v1/ui/sapui5-main/resources_1.142.5/resources/sap/ui/thirdparty/jquery-compat.js?eval:4
+[   79161ms] [LOG] Should load SAPUI5 @ https://career8.successfactors.com/careers?company=C0003043182P:1239
+[   79352ms] [LOG] Req in Event: /messagebundle/C0003043182P/vmod_v1-20eaaef5-ca9d81dd/common!/verp/ui/sapui5-main/resources/resources/sap/ui/core/messagebundle_en_US.properties @ https://career8.successfactors.com/verp/vmod_v1/ui/perflog-lib/resources_1.1.4/perflog-lib.min.js:0
+[   79572ms] [LOG] Req in Event: /messagebundle/C0003043182P/vmod_v1-633f85e7-ca9d81dd/sap.m!/verp/ui/sapui5-main/resources/resources/sap/m/messagebundle_en_US.properties @ https://career8.successfactors.com/verp/vmod_v1/ui/perflog-lib/resources_1.1.4/perflog-lib.min.js:0
+[   79762ms] [ERROR] API Key not found @ https://www.linkedin.com/mjobs/awli/awliWidget:0
+[   79768ms] [INFO] PerfLog Page Completed (ver:1.1.4 2025-07-11T03:34:42.994Z) @ https://career8.successfactors.com/verp/vmod_v1/ui/perflog-lib/resources_1.1.4/perflog-lib.min.js:0
+[   79879ms] [LOG] --------- Event ended --------- @ https://career8.successfactors.com/verp/vmod_v1/ui/perflog-lib/resources_1.1.4/perflog-lib.min.js:0

@@ -1,0 +1,101 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Cohere" [ref=e6] [cursor=pointer]:
+        - /url: https://cohere.com/
+        - img "Cohere" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Cohere’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /cohere
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer Intern (Fall / Winter 2026)" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: Canada; United States
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Intern
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Remote
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]:
+            - generic [ref=e29]: Internships
+      - generic [ref=e30]:
+        - tablist [ref=e31]:
+          - tab "Overview" [selected] [ref=e32] [cursor=pointer]
+          - tab "Application" [ref=e33] [cursor=pointer]
+        - tabpanel "Overview" [ref=e35]:
+          - generic [ref=e36]:
+            - paragraph [ref=e37]:
+              - strong [ref=e38]: Who are we?
+            - paragraph [ref=e39]: Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI.
+            - paragraph [ref=e40]: We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers.
+            - paragraph [ref=e41]: Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products.
+            - paragraph [ref=e42]: Join us on our mission and shape the future!
+            - paragraph [ref=e43]:
+              - strong [ref=e44]: Why this role?
+            - paragraph [ref=e45]: This role is for students who are excited about building the next generation of machine learning models and NLP products. Our SWE roles can cover creating datasets for machine learning, scaling the pods to serve our API, or even building out new security features on our platform. We don't distinguish much between interns and full-time employees, and you’ll have plenty of opportunities to push code to production. You'll have full autonomy and ownership over high-impact work, and will be backed by the support of an incredible team or leaders & mentors.
+            - paragraph [ref=e46]:
+              - text: Join us at a pivotal moment, shape what we build, and wear multiple hats!
+              - text: We're currently hiring for multiple teams and roles, including Frontend, Backend, Full-stack, and Infrastructure roles. We'll take your interests & experience into account throughout the application process.
+              - text: Our recruitment process will begin in the upcoming weeks, and we will be carefully reviewing applications and assessing potential candidates for our internships. Should we find a suitable match with your qualifications and our requirements, we will be in touch to discuss the opportunity further and to advance your application to the next stage.
+            - paragraph [ref=e47]:
+              - strong [ref=e48]: "Please Note:"
+              - text: To be eligible for this position, you should be currently enrolled in a post-secondary program and available for a full-time 3-6 month internship, co-op, or research work term.
+            - paragraph [ref=e49]
+            - paragraph [ref=e50]:
+              - strong [ref=e51]: "As a Software Engineering Intern, you will:"
+            - list [ref=e52]:
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: Ship delightful experiences for our user-facing products, meticulously crafting code for browsers or server code.
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]: Build features for the API platform that directly impact users.
+              - listitem [ref=e57]:
+                - paragraph [ref=e58]: Design and implement robust data pipelines (crawlers, storage, filters).
+              - listitem [ref=e59]:
+                - paragraph [ref=e60]: Design and implement scalable services or infrastructure for machine learning development.
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: Build internal tooling (CI/CD, dev utilities) to move faster together.
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: Build tech writing skills through maintaining and contributing to technical documentation, both internal and external facing.
+              - listitem [ref=e65]:
+                - paragraph [ref=e66]: Keep up with the cutting edge and adopt new technologies to improve performance and reliability across Cohere.
+            - paragraph [ref=e67]: If some of the above doesn’t line up perfectly with your experience, we still encourage you to apply!
+            - paragraph [ref=e68]
+            - paragraph [ref=e69]:
+              - text: We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an
+              - link "Accommodations Request Form" [ref=e70] [cursor=pointer]:
+                - /url: https://docs.google.com/forms/d/12a6IrLdF3kI2nonKSr4tiFuz18rLQbaeYV-JM9L4o9Q/edit
+              - text: ", and we will work together to meet your needs."
+            - paragraph [ref=e71]
+            - paragraph [ref=e72]:
+              - strong [ref=e73]: "Full-Time Employees at Cohere enjoy these Perks:"
+            - paragraph [ref=e74]: 🤝 An open and inclusive culture and work environment
+            - paragraph [ref=e75]: 🧑‍💻 Work closely with a team on the cutting edge of AI research
+            - paragraph [ref=e76]: 🍽 Weekly lunch stipend, in-office lunches & snacks
+            - paragraph [ref=e77]: 🦷 Full health and dental benefits, including a separate budget to take care of your mental health
+            - paragraph [ref=e78]: 🐣 100% Parental Leave top-up for up to 6 months
+            - paragraph [ref=e79]: 🎨 Personal enrichment benefits towards arts and culture, fitness and well-being, quality time, and workspace improvement
+            - paragraph [ref=e80]: 🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend
+            - paragraph [ref=e81]: ✈️ 6 weeks of vacation (30 working days!)
+          - link "Apply for this Job" [ref=e82] [cursor=pointer]:
+            - /url: /cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application
+            - button "Apply for this Job" [ref=e83]
+  - contentinfo [ref=e84]:
+    - link "Learn more about Ashby" [ref=e85] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e86]: Powered by
+      - img "Ashby" [ref=e87]
+    - paragraph [ref=e93]:
+      - link "Privacy Policy" [ref=e94] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e95] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e96] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

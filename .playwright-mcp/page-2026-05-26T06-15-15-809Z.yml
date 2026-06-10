@@ -1,0 +1,165 @@
+- generic [active] [ref=e1]:
+  - link "Skip to Main Content" [ref=e2] [cursor=pointer]:
+    - /url: "#iCIMS_Header"
+  - link [ref=e4] [cursor=pointer]:
+    - /url: https://careers-blackhawknetwork.icims.com/jobs?hashed=-435804152
+    - img [ref=e5]
+  - text: 
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - link "Welcome page" [ref=e11] [cursor=pointer]:
+        - /url: https://careers-blackhawknetwork.icims.com/jobs/intro
+        - generic [ref=e12]: 
+        - text: Welcome page
+      - generic [ref=e15]:
+        - generic [ref=e16]: Returning Candidate?
+        - link "Log back in!" [ref=e18] [cursor=pointer]:
+          - /url: https://careers-blackhawknetwork.icims.com/jobs/26610/software-engineer/login?loginOnly=1&redirect=job&hashed=-435804152
+    - generic [ref=e20]:
+      - generic [ref=e22]:
+        - heading "Software Engineer" [level=1] [ref=e25]
+        - generic [ref=e27]:
+          - generic [ref=e28]:
+            - term [ref=e29]: ID
+            - definition [ref=e30]: 2026-26610
+          - generic [ref=e31]:
+            - term [ref=e32]: Category
+            - definition [ref=e33]: Technology
+          - generic [ref=e34]:
+            - term [ref=e35]: Position Type
+            - definition [ref=e36]: Full Time
+          - generic [ref=e37]:
+            - term [ref=e38]:
+              - generic [ref=e39]: 
+              - generic [ref=e40]: "Location : Location"
+            - definition [ref=e41]: US-TX-Coppell
+      - heading "About Blackhawk Network:" [level=2] [ref=e42]
+      - generic [ref=e45]:
+        - paragraph [ref=e46]:
+          - generic [ref=e48]: At Blackhawk Network (BHN), we shape the future of global branded payments through the prepaid products, technologies and network that connect brands and people. Our collaborative innovation and scalable, security-minded solutions help our partners to increase reach, loyalty and revenue. We believe our future holds great things for Blackhawk Network and its partners. We believe that together, we can shape the future. Our beliefs? Win as one team, be innovative, global excellence and be inspiring!
+        - paragraph [ref=e49]:
+          - generic [ref=e51]: Blackhawk Network (BHN) is building a digital platform and products that bring people and brands together. We facilitate cross channel payments via cash-in, cash-out and mobile payments. By leveraging blockchain, smart contracts, serverless technology, and real time payment systems, we are unlocking the next million users through innovation.
+        - paragraph [ref=e52]
+        - paragraph [ref=e53]:
+          - generic [ref=e55]: Our employees are our biggest assets! Come find out how we engage, with the biggest brands in the world. We look for people who collaborate, who are inspirational, who have passion that can make a difference by working as a team while striving for global excellence. You can expect a strong investment in your professional growth, and a dedication to crafting a successful, sustainable career for you. Our teams are composed of highly talented and passionate 'A' players, who are also invested in mentoring and enabling the best qualities. Our vibrant culture and high expectations will kindle your passion and bring out the best in you!
+      - heading "Overview:" [level=2] [ref=e56]
+      - generic [ref=e59]:
+        - paragraph [ref=e60]:
+          - generic [ref=e61]:
+            - generic [ref=e62]: We are looking for a
+            - generic [ref=e63]: Software Engineer I
+            - generic [ref=e64]: to join the Product Engineering department within our Incentives business. This early-career full-stack engineer will help build and improve customer-facing product experiences across the frontend, backend, APIs, and cloud while learning how to operate inside a modern product engineering model that connects product outcomes, technical delivery, instrumentation, and post-release learning.
+        - paragraph [ref=e65]:
+          - generic [ref=e67]: This role is a fit for an early-career engineer who wants to grow by working in a customer-obsessed environment where secure, scalable, iterative delivery matters, and practical exposure to AI-assisted workflows.
+        - list [ref=e68]:
+          - listitem [ref=e69]:
+            - generic [ref=e71]: Collaborate with product, design, and other engineers to understand requirements to deliver usable product increments
+        - list [ref=e72]:
+          - listitem [ref=e73]:
+            - generic [ref=e75]: Use AI-assisted development tools thoughtfully to accelerate delivery and improve quality without compromising clarity, reliability, or accountability
+        - list [ref=e76]:
+          - listitem [ref=e77]:
+            - generic [ref=e79]: Help define, implement and monitor the features you build through testing, release readiness, and post-release
+        - list [ref=e80]:
+          - listitem [ref=e81]:
+            - generic [ref=e83]: Support shared ownership of systems through documentation, diagrams, and knowledge sharing
+        - list [ref=e84]:
+          - listitem [ref=e85]:
+            - generic [ref=e87]: Contribute to operational excellence by helping investigate issues, improve support readiness, and strengthen production discipline
+        - paragraph [ref=e88]
+        - paragraph [ref=e91]
+      - heading "Qualifications:" [level=2] [ref=e92]
+      - generic [ref=e95]:
+        - paragraph [ref=e96]:
+          - strong [ref=e98]:
+            - generic [ref=e99]: What’ we’re looking for
+        - list [ref=e100]:
+          - listitem [ref=e101]:
+            - generic [ref=e103]: BA/BS in Computer Science or a related field, or equivalent practical experience
+        - list [ref=e104]:
+          - listitem [ref=e105]:
+            - generic [ref=e107]: Recent history of software engineering experience, including internships, co-ops, academic projects, or equivalent hands-on development work
+        - list [ref=e108]:
+          - listitem [ref=e109]:
+            - generic [ref=e111]: Proven experience using modern web development using JavaScript or TypeScript, HTML, CSS, and a frontend framework such as React or Vue
+        - list [ref=e112]:
+          - listitem [ref=e113]:
+            - generic [ref=e115]: Proven backend experience with Java, Node.js, Python, Postgres, cloud-based services via AWS, REST APIs, or equivalent technologies
+        - list [ref=e116]:
+          - listitem [ref=e117]:
+            - generic [ref=e119]: Interest in AI-enhanced development using tools such as GitHub Copilot, Playwright MCP, and agent orchestration
+        - list [ref=e120]:
+          - listitem [ref=e121]:
+            - generic [ref=e123]: Interest in working across the full stack and learning how product, frontend, backend, APIs, cloud, and operational concerns fit together
+        - list [ref=e124]:
+          - listitem [ref=e125]:
+            - generic [ref=e127]: "Interest in product thinking: understanding who the user is, what outcome matters, and how to leverage metrics to assess the customer impact post-release"
+        - list [ref=e128]:
+          - listitem [ref=e129]:
+            - generic [ref=e131]: Strong communication skills and willingness to collaborate across distributed teams and cross-functional partners
+        - list [ref=e132]:
+          - listitem [ref=e133]:
+            - generic [ref=e135]: Comfortable learning in an evolving environment balancing product modernization, security, and operational maturity
+        - list [ref=e136]:
+          - listitem [ref=e137]:
+            - generic [ref=e139]: A mindset of curiosity, shared ownership, steady learning, and comfortable operating in a low ego environment
+        - paragraph [ref=e140]:
+          - strong [ref=e142]:
+            - generic [ref=e143]: What success looks like in this role
+        - paragraph [ref=e144]:
+          - generic [ref=e146]: In the first 6–12 months, you'll be shipping useful product work, learning the product deeply, participating in measurable releases, and becoming a dependable team contributor with growing ownership of a functional area. You’ll be involved in our Production Support rotation, helping triage real customer problems with colleagues across departments. Success also means building collective context across your team, so that knowledge does not stay in a vacuum.
+        - paragraph [ref=e147]:
+          - strong [ref=e149]:
+            - generic [ref=e150]: Why join us
+        - list [ref=e151]:
+          - listitem [ref=e152]:
+            - generic [ref=e154]: Learn from experienced engineers committed to mentorship
+        - list [ref=e155]:
+          - listitem [ref=e156]:
+            - generic [ref=e158]: Work on real product features with real impact
+        - list [ref=e159]:
+          - listitem [ref=e160]:
+            - generic [ref=e162]: Build full-stack engineering skills
+        - list [ref=e163]:
+          - listitem [ref=e164]:
+            - generic [ref=e166]: Grow your capabilities in AI-enhanced software development within a product engineering organization that is actively evolving how it builds, measures, and improves customer workflows
+      - heading "Benefits:" [level=2] [ref=e167]
+      - generic [ref=e170]:
+        - paragraph [ref=e171]: "Salary Range for California Residents Only: $115,763.00 to $131,500.00"
+        - paragraph [ref=e172]: "Salary Range for Illinois Residents Only: $78,220.00 to $101,700.00"
+        - paragraph [ref=e173]
+        - paragraph [ref=e174]: Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, Blackhawk Network offers benefits including 401k with employer match, medical, dental, vision, 12 paid holidays in the year 2026, 1 hour of sick pay accrual for every 30 hours worked, parental leave, life insurance, disability insurance, accident and illness insurance, health and dependent care flexible spending accounts, wellness benefits, and flexible time off for all full-time employees.
+      - heading "EEO Statement:" [level=2] [ref=e175]
+      - generic [ref=e178]:
+        - paragraph [ref=e179]: Blackhawk Network provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Blackhawk Network believes that diversity leads to strength. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
+        - paragraph [ref=e180]:
+          - strong [ref=e182]
+        - paragraph [ref=e183]:
+          - generic [ref=e184]:
+            - text: "Blackhawk Network encourages applicants with previous criminal records to apply to all positions and, pursuant to the San Francisco and Los Angeles Fair Chance Acts (and other “Fair Chance” laws), Blackhawk Network will consider for employment qualified applicants with arrest and conviction records. For Philadelphia applicants or jobs, please see a copy of Philadelphia’s ordinance on this topic by clicking this link:"
+            - link "https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-280104" [ref=e185] [cursor=pointer]:
+              - /url: https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcodelibrary.amlegal.com%2Fcodes%2Fphiladelphia%2Flatest%2Fphiladelphia_pa%2F0-0-0-280104&data=05%7C01%7CDanielle.Donnelly%40bhnetwork.com%7Ceb6fc500f7b942baf8e208daeee67ac4%7C09f55992c50c45628657b1bd6acc36c5%7C0%7C0%7C638084970930872351%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=MkHeXbJtIsI0YEFlKXF6tNK98LyQxixqY%2BUDNdPxE2Y%3D&reserved=0
+            - text: .
+      - generic [ref=e186]:
+        - heading "Options:" [level=2] [ref=e187]
+        - generic [ref=e188]:
+          - link "Apply for this job online" [ref=e189] [cursor=pointer]:
+            - /url: https://careers-blackhawknetwork.icims.com/jobs/26610/software-engineer/job?mode=apply&apply=yes&hashed=-336239690
+            - generic [ref=e190]: Apply for this job online
+          - link "Employee Referral" [ref=e191] [cursor=pointer]:
+            - /url: https://careers-blackhawknetwork.icims.com/jobs/26610/software-engineer/referral?hashed=-435804152
+            - generic [ref=e192]: Employee Referral
+        - generic [ref=e193]:
+          - text: 
+          - heading "Share on your newsfeed" [level=2] [ref=e194]
+          - generic [ref=e196]:
+            - img "..." [ref=e197]
+            - generic [ref=e198]: Loading...
+      - generic [ref=e199]: "Socialize this job opportunity to a friend, colleague, or family member:"
+      - generic [ref=e201]:
+        - link "Application FAQs" [ref=e202] [cursor=pointer]:
+          - /url: https://icims.help/candidate-faq
+        - paragraph [ref=e204]:
+          - text: Software Powered by iCIMS
+          - link "www.icims.com" [ref=e205] [cursor=pointer]:
+            - /url: http://www.icims.com/platform_help?utm_source=platform&utm_medium=link&utm_content=page1&utm_campaign=platform%20help

@@ -1,0 +1,5 @@
+[      31ms] [INFO] Connecting to 'https://uxi-ingestion.us.mlde.workday.com/' violates the following Content Security Policy directive: "connect-src 'none'". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://wd103.myworkday.com/wday/asset/client-analytics/uxInsights.min.js?plate=BMT216A:1
+[      31ms] [INFO] Connecting to 'https://uxi-ingestion.us.mlde.workday.com/' violates the following Content Security Policy directive: "connect-src 'none'". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://wd103.myworkday.com/wday/asset/client-analytics/uxInsights.min.js?plate=BMT216A:1
+[   18463ms] [ERROR] Error code: 'error.application.not.active' @ https://static.licdn.com/aero-v1/sc/h/5ytgawbowik20bwjjixbwgb8t:0
+[   18626ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.linkedin.com/li/track:0
+[  167493ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://www.linkedin.com/li/track:0

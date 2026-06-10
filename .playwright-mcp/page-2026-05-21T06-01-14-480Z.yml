@@ -1,0 +1,144 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - text: By continuing to use and navigate this website, you are agreeing to the use of cookies.
+      - button "Accept Use Of Cookies" [ref=e6] [cursor=pointer]: Accept
+      - button "Close Cookies Notice" [ref=e7] [cursor=pointer]: Close
+    - generic:
+      - link "Skip to main content":
+        - /url: "#content"
+    - generic [ref=e10]:
+      - link [ref=e15] [cursor=pointer]:
+        - /url: https://apply.edisoncareers.com
+        - img [ref=e16]
+      - list [ref=e19]:
+        - listitem
+        - listitem [ref=e20]:
+          - link "View Profile" [ref=e22] [cursor=pointer]:
+            - /url: "#"
+      - button "Menu" [ref=e30] [cursor=pointer]:
+        - generic [ref=e31]: 
+  - main [ref=e33]:
+    - generic [ref=e34]:
+      - generic [ref=e35]:
+        - heading "App Software & AI Engineer, Associate Specialist" [level=1] [ref=e36]
+        - button "Apply now" [ref=e39] [cursor=pointer]: Apply now
+      - paragraph [ref=e41]:
+        - strong [ref=e42]: "Date:"
+        - text: May 17, 2026
+      - paragraph [ref=e43]:
+        - strong [ref=e44]: "Location:"
+        - text: Rosemead, CA, US, 91770-3714
+      - paragraph [ref=e45]:
+        - strong [ref=e46]: "Company:"
+        - text: Southern California Edison
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - paragraph [ref=e49]
+          - paragraph [ref=e50]
+          - paragraph [ref=e51]:
+            - strong [ref=e53]: Join the Clean Energy Revolution
+          - paragraph [ref=e54]:
+            - generic [ref=e55]:
+              - text: Become an
+              - strong [ref=e56]: App Software & AI Engineer, Associate Specialist
+              - text: at Southern California Edison (SCE) and be part of a team building modern, intelligent applications that support critical utility and clean‑energy initiatives. In this role, you’ll contribute across the full stack—helping deliver user-facing experiences, connecting them to backend services and data, and ensuring solutions are reliable, secure, and well-tested—while working within a defined product area under the guidance of experienced engineers. You’ll also gain hands‑on exposure to AI‑enabled features, supporting the integration of foundational AI capabilities into applications and participating in simple proof‑of‑concept efforts that validate how AI can improve productivity and customer outcomes. As an
+              - strong [ref=e57]: App Software & AI Engineer, Associate Specialist
+              - text: ", you’ll collaborate with cross‑functional partners, learn modern engineering practices, and grow your skills while contributing to solutions that help power our planet, reduce carbon emissions, and create cleaner air for everyone."
+          - paragraph [ref=e58]
+          - paragraph [ref=e59]
+          - generic [ref=e60]:
+            - generic [ref=e61]:
+              - heading "Responsibilities" [level=2] [ref=e63]
+              - list [ref=e65]:
+                - listitem [ref=e66]: Assists in the development, deployment, and maintenance of applications (using React, Angular, Node.js, Python, and Express deployed on Azure or GCP cloud platforms), mobile applications (using iOS Swift, React Native, etc.), and low-code/no-code tools such as Power Platform, under direct supervision and following established guidelines and procedures.
+                - listitem [ref=e67]: Under the mentorship of senior team members, assists in designing and implementing AI‐integrated solutions using technologies such as Azure OpenAI, Copilot Studio, and RAG architectures to support the development of LLM‐powered agents, voice‐to‐text, image‐to‐text capabilities, and custom machine learning models, while adhering to established guidelines and procedures.
+                - listitem [ref=e68]: Under the guidance of leadership, explores and analyzes emerging technologies, tools, practices, and proof‐of‐concepts to validate the technical viability of AI or other innovative solutions.
+                - listitem [ref=e69]: A material job duty of all positions within the Company is ensuring the protection of all its physical, financial, and cybersecurity assets and properly accessing and managing private customer data, proprietary information, confidential medical records, and other types of highly sensitive information and data with the highest standards of conduct and integrity.
+            - generic [ref=e70]:
+              - heading "Minimum Qualifications" [level=2] [ref=e72]
+              - list [ref=e74]:
+                - listitem [ref=e75]: Academic background in computer science or information science.
+                - listitem [ref=e76]: Understanding of various types of AI (computer vision, NLP, predictive analytics, etc.) and Generative AI concepts (LLM models, agents, prompting, etc.).
+          - paragraph [ref=e77]
+          - paragraph [ref=e78]:
+            - strong [ref=e80]: Preferred Qualifications
+          - list [ref=e81]:
+            - listitem [ref=e82]: Experience contributing to end to end application features, with exposure to both user facing components and backend logic within a single application or product area.
+            - listitem [ref=e83]: Hands on experience supporting full cycle software delivery, including requirements interpretation, development, testing, and production support under guidance.
+            - listitem [ref=e84]: Exposure to integrating basic AI enabled capabilities into applications or participating in simple proof of concept efforts that demonstrate how AI can improve productivity or user outcomes.
+            - listitem [ref=e85]: Familiarity with modern engineering practices, including secure coding, testing approaches, documentation, and adherence to established development standards.
+            - listitem [ref=e86]: Interest in learning and leveraging low code or no code development approaches alongside traditional software development methods.
+            - listitem [ref=e87]: Ability to collaborate effectively within a team environment, communicate progress clearly, and partner with peers to deliver features aligned with defined acceptance criteria.
+            - listitem [ref=e88]: Strong problem solving skills, attention to detail, and a positive mindset with openness to feedback and continuous learning in full stack and AI driven development.
+          - paragraph [ref=e89]
+          - paragraph [ref=e90]
+          - paragraph [ref=e91]:
+            - strong [ref=e93]: Additional Information
+          - list [ref=e94]:
+            - listitem [ref=e95]:
+              - generic [ref=e96]:
+                - text: This position’s work mode is
+                - strong [ref=e97]: hybrid.
+                - text: The employee will report to an SCE facility for a set number of days with the option to work remotely on the remaining days. Unless otherwise noted, employees are required to work and reside in the state of California. Further details of this work mode will be discussed at the interview stage. The work mode can be changed based on business needs.
+            - listitem [ref=e98]:
+              - generic [ref=e99]:
+                - text: Visit our
+                - link "Candidate Resource" [ref=e100] [cursor=pointer]:
+                  - /url: https://www.edisoncareers.com/page/show/Candidate-Resources
+                - text: page to get meaningful information related to benefits, perks, resources, testing information, hiring process, and more!
+            - listitem [ref=e101]:
+              - generic [ref=e102]: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.
+            - listitem [ref=e103]: The primary work location for this position is Rosemead, CA.
+          - paragraph [ref=e104]
+          - paragraph [ref=e105]
+          - paragraph [ref=e106]
+          - paragraph [ref=e107]:
+            - strong [ref=e109]: About Southern California Edison
+          - paragraph [ref=e110]: The people at SCE don't just keep the lights on. Our mission is so much bigger. We’re fueling the kind of innovation that’s changing an entire industry, and quite possibly the planet. Join us and create a future with cleaner energy, while providing our customers with the safety and reliability they demand. At SCE, you’ll have a chance to grow personally and professionally, making a real impact in Southern California and around the world.
+          - paragraph [ref=e111]
+          - paragraph [ref=e112]: Southern California Edison is a proud Equal Opportunity Employer, including disability and protected veteran status.
+          - paragraph [ref=e113]
+          - paragraph [ref=e114]: We are committed to ensuring that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodations at AskHR@sce.com or (626) 302-3456 and select option 2.
+        - paragraph
+      - button "Apply now" [ref=e117] [cursor=pointer]: Apply now
+  - contentinfo [ref=e120]:
+    - generic [ref=e123]:
+      - img [ref=e124]
+      - list [ref=e125]:
+        - listitem [ref=e126]:
+          - link "Personal Information Request Notice" [ref=e127] [cursor=pointer]:
+            - /url: https://www.edisoncareers.com/personal-information-request-notice/
+        - listitem [ref=e128]:
+          - link "Privacy Notice" [ref=e129] [cursor=pointer]:
+            - /url: https://www.edisoncareers.com/privacy-policy/
+        - listitem [ref=e130]:
+          - link "Terms of Service" [ref=e131] [cursor=pointer]:
+            - /url: https://www.edisoncareers.com/terms-of-service/
+      - list [ref=e133]:
+        - listitem [ref=e134]:
+          - link "Visit our Facebook page" [ref=e135] [cursor=pointer]:
+            - /url: http://www.facebook.com/SCE
+            - generic [ref=e136]: Opens in a new tab.
+            - img [ref=e137]
+        - listitem [ref=e139]:
+          - link "Follow us on X" [ref=e140] [cursor=pointer]:
+            - /url: https://twitter.com/sce_careers
+            - generic [ref=e141]: Opens in a new tab.
+            - img [ref=e142]
+        - listitem [ref=e144]:
+          - link "Follow us on LinkedIn" [ref=e145] [cursor=pointer]:
+            - /url: http://www.linkedin.com/company/sce
+            - generic [ref=e146]: Opens in a new tab.
+            - img [ref=e147]
+        - listitem [ref=e149]:
+          - link "Follow us on Instagram" [ref=e150] [cursor=pointer]:
+            - /url: https://www.instagram.com/sce/?hl=en
+            - generic [ref=e151]: Opens in a new tab.
+            - img [ref=e152]
+        - listitem [ref=e155]:
+          - link "Visit our YouTube channel" [ref=e156] [cursor=pointer]:
+            - /url: http://www.youtube.com/sce
+            - generic [ref=e157]: Opens in a new tab.
+            - img [ref=e158]
+    - paragraph [ref=e162]: Copyright © 2024 Southern California Edison.

@@ -1,0 +1,77 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Factory" [ref=e6] [cursor=pointer]:
+        - /url: https://factory.ai
+        - img "Factory" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Factory’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /factory?utm_source=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "AI Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco, CA
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Department" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Engineering
+      - generic [ref=e26]:
+        - tablist [ref=e27]:
+          - tab "Overview" [selected] [ref=e28] [cursor=pointer]
+          - tab "Application" [ref=e29] [cursor=pointer]
+        - tabpanel "Overview" [ref=e31]:
+          - generic [ref=e32]:
+            - paragraph [ref=e33]: Factory is looking for innovative AI Engineers to build and evolve cutting-edge AI systems that transform how software organizations accelerate their productivity and innovation.
+            - paragraph [ref=e34]
+            - heading "What you will do and achieve:" [level=2] [ref=e35]:
+              - strong [ref=e36]: "What you will do and achieve:"
+            - list [ref=e37]:
+              - listitem [ref=e38]:
+                - paragraph [ref=e39]: Innovate at the forefront of AI by designing, developing, and deploying AI-driven agentic systems that enhance Factory's core AI capabilities
+              - listitem [ref=e40]:
+                - paragraph [ref=e41]: Work with product and engineering teams to integrate emerging AI research findings into practical, customer-centric solutions
+              - listitem [ref=e42]:
+                - paragraph [ref=e43]: Engage in iterative development processes, rapidly prototyping and refining AI functionalities based on real-world feedback to meet the evolving needs of developers and enterprises
+              - listitem [ref=e44]:
+                - paragraph [ref=e45]: Take the initiative in identifying and addressing product stability and scalability challenges, ensuring the Factory Platform reliably supports large-scale operational demands
+              - listitem [ref=e46]:
+                - paragraph [ref=e47]: Lead the exploration and integration of large-scale data processing techniques to improve the reliability and effectiveness of our AI systems
+            - paragraph [ref=e48]
+            - heading "Qualifications" [level=2] [ref=e49]:
+              - strong [ref=e50]: Qualifications
+            - list [ref=e51]:
+              - listitem [ref=e52]:
+                - paragraph [ref=e53]: 2+ years of hands-on experience in AI/ML engineering roles post-acquisition of a Bachelor's or Master's degree in Computer Science, Engineering, AI, or a related technical field.
+              - listitem [ref=e54]:
+                - paragraph [ref=e55]: Demonstrated proficiency with LLMs and a track record of applying AI/ML techniques to solve complex, unstructured problems, ideally within the domain of software engineering or related areas.
+              - listitem [ref=e56]:
+                - paragraph [ref=e57]: Self-motivated and autonomous, with a proven ability to navigate ambiguous research projects from conception to impactful deployment.
+              - listitem [ref=e58]:
+                - paragraph [ref=e59]: Strong communication skills that enable you to articulate technical concepts and strategies clearly at all levels, coupled with a strategic mindset oriented towards innovation.
+              - listitem [ref=e60]:
+                - paragraph [ref=e61]: Experience with data-intensive applications and familiarity with the software development lifecycle are highly desirable, though not mandatory.
+              - listitem [ref=e62]:
+                - paragraph [ref=e63]:
+                  - strong [ref=e64]: This is an in-office position (5 days/week) in San Francisco (walking distance to Caltrain)
+          - link "Apply for this Job" [ref=e65] [cursor=pointer]:
+            - /url: /factory/2243dab2-62dc-4c64-b4bc-8f7314475607/application?utm_source=Simplify
+            - button "Apply for this Job" [ref=e66]
+  - contentinfo [ref=e67]:
+    - link "Learn more about Ashby" [ref=e68] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e69]: Powered by
+      - img "Ashby" [ref=e70]
+    - paragraph [ref=e76]:
+      - link "Privacy Policy" [ref=e77] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e78] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e79] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

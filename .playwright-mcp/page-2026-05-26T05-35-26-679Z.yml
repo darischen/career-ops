@@ -1,0 +1,153 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Scout AI Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://scoutco.ai/?gh_src=Simplify
+        - img "Scout AI Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/scoutai?gh_src=Simplify
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e12]:
+          - generic [ref=e13]:
+            - heading "AI Engineer - Fury Team" [level=1] [ref=e14]
+            - generic [ref=e15]:
+              - img [ref=e16]
+              - generic [ref=e18]: Sunnyvale, CA
+          - button "Apply" [ref=e19] [cursor=pointer]
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - paragraph [ref=e22]: "The future of defense will be decided by those who field intelligent machines at scale. At Scout AI, we’re developing Fury, the first robotic foundation model for defense, to give U.S. forces overwhelming, adaptable, and autonomous power across every domain. Fury enables human operators to command fleets of robots through natural language, and empowers those machines to sense, decide, and act together as one. This mission will ask everything of us: urgency, precision, and relentless work."
+            - paragraph [ref=e23]:
+              - strong [ref=e24]: The Role
+              - strong
+              - text: We're looking for an AI Engineer to join the Fury Team with a deep passion for building next-generation autonomous systems. You’ll work across the stack of perception, reasoning, and control, helping architect and deploy cutting-edge multimodal models that will become the cognitive engine of our robotic platforms. Your work will run on robots in complex, adversarial environments. Expect to move fast, test ideas aggressively, and break new ground as we create the first robotic foundation model for defense.
+            - paragraph [ref=e25]:
+              - text: We’re a startup. You’ll be moving fast, context-switching daily, and helping define the culture and process as we go. This is a rare opportunity to come in early and architect the future of defense.
+              - emphasis [ref=e26]
+            - paragraph [ref=e27]:
+              - strong [ref=e28]: Responsibilities
+            - list [ref=e29]:
+              - listitem [ref=e30]: Design, train, and evaluate state-of-the-art VLA models for robotic systems
+              - listitem [ref=e31]: Implement scalable architectures for multimodal model fusion, continual learning, and domain adaptation
+              - listitem [ref=e32]: Develop dynamic memory, communication, and tool use faculties for AI agents
+              - listitem [ref=e33]: Translate foundational research into deployable, real-time perception and decision-making systems
+              - listitem [ref=e34]: Collaborate across engineering, robotics, and mission teams to integrate ML pipelines with onboard autonomy
+              - listitem [ref=e35]: Develop and maintain codebases for training, simulation, and real-world inference
+              - listitem [ref=e36]: Conduct experiments to benchmark performance and robustness in diverse, unstructured environments
+              - listitem [ref=e37]: Track, digest, and incorporate breakthroughs from the latest literature in VLMs, RL, CV, and autonomous agents
+              - listitem [ref=e38]: Support field trials and mission operations to validate model performance under real-world constraints
+            - paragraph [ref=e39]:
+              - strong [ref=e40]: Qualifications
+            - list [ref=e41]:
+              - listitem [ref=e42]: 2+ years of hands-on experience building and deploying AI models, ideally in agentic AI, robotics, autonomous systems, or real-time applications
+              - listitem [ref=e43]: Strong background in computer vision, deep learning, or multimodal architectures (VLMs, transformers, or agents)
+              - listitem [ref=e44]: Proficiency in Python and frameworks like PyTorch or TensorFlow; bonus for JAX, CUDA, or real-time inference experience
+              - listitem [ref=e45]: Solid grasp of modern model training techniques including distributed training, fine-tuning, and reinforcement learning
+              - listitem [ref=e46]: Bachelor's degree or higher in Computer Science, AI, or related technical field, MS/PhD preferred
+              - listitem [ref=e47]: Demonstrated ability to take research from prototype to product in fast-moving environments
+              - listitem [ref=e48]: Must be a U.S. Person due to required access to U.S. export controlled information or facilities
+              - listitem [ref=e49]: "Bonus: Experience with embodied AI systems or mission-oriented deployments (DoD, aerospace, robotics)"
+            - paragraph [ref=e50]:
+              - strong [ref=e51]: Why Join Scout
+            - list [ref=e52]:
+              - listitem [ref=e53]: Work on the world’s most important frontier, ensuring U.S. and allied dominance in the age of intelligent machines
+              - listitem [ref=e54]: Be a core part of a team building the first defense-specific robotic foundation model
+              - listitem [ref=e55]: Collaborate with some of the top engineers in autonomy, AI, and national security
+              - listitem [ref=e56]: See your work deployed on real systems
+              - listitem [ref=e57]: Help define the future of intelligent defense systems
+              - listitem [ref=e58]: Backed by Draper Associates, Booz Allen Ventures, and other top investors
+            - paragraph [ref=e59]:
+              - strong [ref=e60]: Benefits
+            - list [ref=e61]:
+              - listitem [ref=e62]: Competitive compensation package including base salary and bonus
+              - listitem [ref=e63]: Meaningful equity
+              - listitem [ref=e64]: Premium medical, dental, and vision plans with $0 paycheck contribution
+              - listitem [ref=e65]: Competitive PTO and company holiday calendar
+              - listitem [ref=e66]: Unlimited AI tokens
+              - listitem [ref=e67]: Catered lunch daily and fully stocked kitchen
+              - listitem [ref=e68]: EV charging
+              - listitem [ref=e69]: Relocation assistance (depending on role eligibility)
+          - generic [ref=e71]:
+            - paragraph [ref=e75]: The stated salary range below represents an estimated base pay only and reflects consideration of multiple compensation factors. Final salary offers may differ depending on factors including, but not limited to, relevant experience or training background, specialized skills, and business needs. Most full-time positions also include highly competitive equity awards, which form part of Scout AI's overall compensation package. In addition, Scout AI provides comprehensive, top-tier benefits to full-time employees.
+            - paragraph [ref=e76]: US Salary Range
+            - paragraph [ref=e77]: $160,000 - $400,000 USD
+        - generic [ref=e78]:
+          - img [ref=e79]
+          - generic [ref=e81]:
+            - paragraph [ref=e82]: Create a Job Alert
+            - paragraph [ref=e83]: Interested in building your career at Scout AI? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e84] [cursor=pointer]
+      - separator [ref=e85]
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - heading "Apply for this job" [level=2] [ref=e90]
+            - generic [ref=e91]:
+              - paragraph [ref=e93]: "*"
+              - paragraph [ref=e94]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e97] [cursor=pointer]
+        - generic [ref=e98]:
+          - generic [ref=e99]:
+            - generic [ref=e102]:
+              - generic [ref=e103]: First Name*
+              - textbox "First Name" [ref=e104]
+            - generic [ref=e107]:
+              - generic [ref=e108]: Last Name*
+              - textbox "Last Name" [ref=e109]
+            - generic [ref=e112]:
+              - generic [ref=e113]: Email*
+              - textbox "Email" [ref=e114]
+            - group "Phone" [ref=e116]:
+              - generic [ref=e117]: Phone
+              - generic [ref=e120]:
+                - generic [ref=e121]: Country
+                - generic [ref=e122]:
+                  - log [ref=e124]
+                  - generic [ref=e126]:
+                    - combobox "Country" [ref=e129]
+                    - button "Toggle flyout" [ref=e131] [cursor=pointer]:
+                      - img [ref=e132]
+              - generic [ref=e136]:
+                - generic [ref=e137]: Phone
+                - textbox "Phone" [ref=e138]
+            - group "Resume/CV*" [ref=e140]:
+              - generic [ref=e141]: Resume/CV*
+              - generic [ref=e143]:
+                - generic [ref=e145]:
+                  - button "Attach" [ref=e146] [cursor=pointer]
+                  - generic [ref=e147]: Attach
+                  - button "Attach" [ref=e148]
+                - button "Dropbox" [ref=e150] [cursor=pointer]
+                - button "Google Drive" [ref=e152] [cursor=pointer]
+                - generic [ref=e154]:
+                  - button "Enter manually" [ref=e155] [cursor=pointer]
+                  - generic [ref=e156]: Enter manually
+                - paragraph [ref=e157]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e158]:
+            - separator [ref=e159]
+            - generic [ref=e162]:
+              - generic [ref=e163]: Will you now or in the future require sponsorship to work in the U.S.?*
+              - generic [ref=e164]:
+                - log [ref=e166]
+                - generic [ref=e168]:
+                  - generic [ref=e169]:
+                    - generic [ref=e170]: Select...
+                    - combobox "Will you now or in the future require sponsorship to work in the U.S.?" [ref=e172]
+                  - button "Toggle flyout" [ref=e174] [cursor=pointer]:
+                    - img [ref=e175]
+                - textbox
+            - generic [ref=e179]:
+              - generic [ref=e180]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e181]
+            - generic [ref=e184]:
+              - generic [ref=e185]: Website
+              - textbox "Website" [ref=e186]
+          - button "Submit application" [ref=e188] [cursor=pointer]
+  - contentinfo [ref=e189]:
+    - generic [ref=e190]:
+      - paragraph [ref=e191]: Powered by
+      - link "Greenhouse logo" [ref=e192] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e193]

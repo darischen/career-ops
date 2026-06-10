@@ -1,0 +1,21 @@
+[     309ms] ReferenceError: _tfa is not defined
+    at https://www.clearme.com/careers:374:3
+[     414ms] [ERROR] Error handling OneTrust consent: Error: OneTrust cookie not found.
+    at handleWebflowAnalyticsConsent (https://www.clearme.com/careers:414:15)
+    at https://www.clearme.com/careers:446:5
+    at Mt.executeFunction (https://cdn.intellimize.co/snippet/117236205.js:4:28794)
+    at so.doCallback (https://cdn.intellimize.co/snippet/117236205.js:4:162843)
+    at so.ready (https://cdn.intellimize.co/snippet/117236205.js:4:171133)
+    at https://cdn.intellimize.co/snippet/117236205.js:4:165938
+    at Array.forEach (<anonymous>)
+    at so.initialize (https://cdn.intellimize.co/snippet/117236205.js:4:165858)
+    at Yl.postServerContextWork (https://cdn.intellimize.co/snippet/117236205.js:4:364408)
+    at Yl.<anonymous> (https://cdn.intellimize.co/snippet/117236205.js:4:360779) @ https://www.clearme.com/careers:433
+[     636ms] TypeError: Cannot read properties of null (reading 'style')
+    at HTMLDocument.<anonymous> (https://www.clearme.com/careers:393:42)
+[     683ms] [LOG] null @ https://www.clearme.com/careers:1465
+[     759ms] TypeError: Failed to execute 'observe' on 'IntersectionObserver': parameter 1 is not of type 'Element'.
+    at https://www.clearme.com/careers:782:10
+[    1106ms] [LOG] JSHandle@node @ https://www.clearme.com/careers:1425
+[    1106ms] [LOG] JSHandle@node @ https://www.clearme.com/careers:1426
+[    2056ms] [LOG] Ctd: [c] @ https://www.clearme.com/careers:120

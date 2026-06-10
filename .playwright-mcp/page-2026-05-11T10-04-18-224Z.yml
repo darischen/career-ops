@@ -1,0 +1,272 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "Navigate home" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img "Navigate home" [ref=e6]
+        - generic [ref=e12]:
+          - generic [ref=e13]:
+            - link "Log in" [ref=e14] [cursor=pointer]:
+              - /url: https://app.ashbyhq.com/signin
+              - button "Log in" [ref=e15]:
+                - generic [ref=e17]: Log in
+            - link "Get in Touch" [ref=e18] [cursor=pointer]:
+              - /url: /request-demo
+              - button "Get in Touch" [ref=e19]:
+                - generic [ref=e21]: Get in Touch
+          - button [ref=e23] [cursor=pointer]:
+            - img [ref=e24]
+    - generic [ref=e26]:
+      - heading [level=1] [ref=e34]
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - heading "Product Tour" [level=2] [ref=e44]
+          - heading "Products designed to help you excel at hiring — no matter your company stage" [level=2] [ref=e45]
+        - generic [ref=e46]:
+          - link "Ashby All-in-one Ashby All-in-one For Startups 1–100 Get a head start on recruiting with an all-in-one product that is easy to use and will scale with you. Learn more" [ref=e47] [cursor=pointer]:
+            - /url: /startups
+            - generic [ref=e48]:
+              - img "Ashby All-in-one" [ref=e52]
+              - generic [ref=e53]:
+                - heading "Ashby All-in-one For Startups" [level=2] [ref=e54]:
+                  - generic [ref=e55]: Ashby All-in-one
+                  - text: For Startups
+                - heading "1–100" [level=2] [ref=e57]
+              - paragraph [ref=e58]: Get a head start on recruiting with an all-in-one product that is easy to use and will scale with you.
+              - generic [ref=e59]: Learn more
+          - link "Ashby All-in-one Ashby All-in-one For Growth 101-1000 A powerful all-in-one recruiting product that will help your scaling organization excel at hiring. Learn more" [ref=e60] [cursor=pointer]:
+            - /url: /growth
+            - generic [ref=e61]:
+              - img "Ashby All-in-one" [ref=e65]
+              - generic [ref=e66]:
+                - heading "Ashby All-in-one For Growth" [level=2] [ref=e67]:
+                  - generic [ref=e68]: Ashby All-in-one
+                  - text: For Growth
+                - heading "101-1000" [level=2] [ref=e70]
+              - paragraph [ref=e71]: A powerful all-in-one recruiting product that will help your scaling organization excel at hiring.
+              - generic [ref=e72]: Learn more
+          - link "Ashby All-in-one Ashby All-in-one For Enterprise 1000+ A proven all-in-one recruiting solution that supports large organizations with sophisticated hiring needs. Learn more" [ref=e73] [cursor=pointer]:
+            - /url: /enterprise
+            - generic [ref=e74]:
+              - img "Ashby All-in-one" [ref=e78]
+              - generic [ref=e79]:
+                - heading "Ashby All-in-one For Enterprise" [level=2] [ref=e80]:
+                  - generic [ref=e81]: Ashby All-in-one
+                  - text: For Enterprise
+                - heading "1000+" [level=2] [ref=e83]
+              - paragraph [ref=e84]: A proven all-in-one recruiting solution that supports large organizations with sophisticated hiring needs.
+              - generic [ref=e85]: Learn more
+          - link "Ashby Analytics Ashby Analytics For your existing ATS Advanced recruiting analytics that work on top of your existing recruiting tools. Learn more" [ref=e86] [cursor=pointer]:
+            - /url: /platform/recruiting/analytics
+            - generic [ref=e87]:
+              - img "Ashby Analytics" [ref=e91]
+              - heading "Ashby Analytics For your existing ATS" [level=2] [ref=e93]:
+                - generic [ref=e94]: Ashby Analytics
+                - text: For your existing ATS
+              - paragraph [ref=e96]: Advanced recruiting analytics that work on top of your existing recruiting tools.
+              - generic [ref=e97]: Learn more
+      - region [ref=e100]:
+        - generic [ref=e102]:
+          - tab "Replit Testimonial" [expanded] [ref=e104]:
+            - img "Replit" [ref=e106]
+          - tab "Deel Testimonial" [ref=e109] [cursor=pointer]:
+            - img "Deel" [ref=e111]
+          - tab "Cointracker Testimonial" [ref=e113] [cursor=pointer]:
+            - img "Cointracker" [ref=e115]
+          - tab "Coder Testimonial" [ref=e117] [cursor=pointer]:
+            - img "Coder" [ref=e119]
+          - tab "Help Scout Testimonial" [ref=e121] [cursor=pointer]:
+            - img "Help Scout" [ref=e123]
+        - generic:
+          - tabpanel [ref=e124]:
+            - paragraph [ref=e125]: Ashby is easily the best ATS I’ve used in my 10+ years of recruiting. Loving the power of the system and the customization. I feel like it’s sparked a renewed passion for me when it comes to the abilities of an ATS. Happy we made the switch.
+            - generic [ref=e126]:
+              - img "Chase Johnson" [ref=e130]
+              - generic [ref=e131]:
+                - paragraph [ref=e132]: Chase Johnson
+                - paragraph [ref=e133]: Talent at Replit
+          - tabpanel [ref=e134]:
+            - paragraph [ref=e135]: The biggest reason I recommend Ashby is because of how much you can automate activities within different stages. When you first set up a new vacancy on Ashby, you can set up all the different things that you want to be automated between each step of the process. It saves you countless hours of admin time throughout the process.
+            - generic [ref=e136]:
+              - img [ref=e140]
+              - generic [ref=e141]:
+                - paragraph [ref=e142]: Huw Sensier
+                - paragraph [ref=e143]: Talent Acquisition Manager at Deel
+          - tabpanel [ref=e144]:
+            - paragraph [ref=e145]: We just switched from Legacy ATS. Long story short - Ashby is amazing. They are taking an end-to-end approach to recruiting that is startup-friendly. They combine the functionality of sourcing, outreach, applicant tracking, analytics (much better than Legacy ATS), scheduling automation and more. Best of all they have a strong & responsive support team, they make on-boarding super easy. I wish Ashby had been around when we launched so we could have just started with them from the beginning.
+            - generic [ref=e146]:
+              - img [ref=e150]
+              - generic [ref=e151]:
+                - paragraph [ref=e152]: Chandan Lohdan
+                - paragraph [ref=e153]: Hiring at Cointracker
+          - tabpanel [ref=e154]:
+            - paragraph [ref=e155]: I am really impressed so far! It was tricky to get other hiring managers using other ATS's and they seem to be enjoying Ashby for collaboration.
+            - generic [ref=e156]:
+              - img [ref=e160]
+              - generic [ref=e161]:
+                - paragraph [ref=e162]: Camilla Lever
+                - paragraph [ref=e163]: Director of People at Coder
+          - tabpanel [ref=e164]:
+            - paragraph [ref=e165]: I know this sounds weird, but I’m super excited to start using Ashby very soon. Finally a proper ATS!
+            - generic [ref=e166]:
+              - img [ref=e170]
+              - generic [ref=e171]:
+                - paragraph [ref=e172]: Dali Chabaane
+                - paragraph [ref=e173]: Senior Technical Recruiter at Help Scout
+      - generic [ref=e176]:
+        - heading "Hear from our customers" [level=2] [ref=e177]
+        - iframe [ref=e178]:
+          
+      - generic [ref=e184]:
+        - generic [ref=e185]:
+          - heading "Why Ashby?" [level=2] [ref=e186]
+          - heading "How Ashby enables hiring excellence" [level=2] [ref=e187]
+          - paragraph [ref=e188]: "Hiring has changed and so should your tools. Companies that excel at hiring have a strategic advantage. Our approach to building Ashby centers around ambitious teams that question the status quo:"
+        - generic [ref=e190]:
+          - generic [ref=e191]:
+            - heading "We've designed Ashby to:" [level=3] [ref=e192]
+            - generic [ref=e193]:
+              - paragraph [ref=e194]: Be easy to get started with, powerful when you're ready
+              - paragraph [ref=e195]: Enable structured hiring end-to-end
+              - paragraph [ref=e196]: Automate with a human touch
+              - paragraph [ref=e197]: Provide instant visibility and reduce clicks
+              - paragraph [ref=e198]: Enable custom reporting to unlock real insights
+              - paragraph [ref=e199]: Offer one integrated system for your entire hiring process
+          - generic [ref=e200]:
+            - heading "To help you achieve:" [level=3] [ref=e201]
+            - generic [ref=e202]:
+              - paragraph [ref=e203]: Improved candidate experience
+              - paragraph [ref=e204]: More accurate and fair candidate assessments
+              - paragraph [ref=e205]: Hiring team productivity
+              - paragraph [ref=e206]: Continuous improvement through data feedback loops
+              - paragraph [ref=e207]: Visibility for the entire hiring team
+              - paragraph [ref=e208]: Stronger, more diverse candidate pipelines
+        - link "Read Our Story" [ref=e210] [cursor=pointer]:
+          - /url: /story
+          - generic [ref=e211]:
+            - generic [ref=e212]: Read Our Story
+            - img [ref=e214]
+      - generic [ref=e219]:
+        - generic [ref=e220]:
+          - img [ref=e221]
+          - generic [ref=e227]:
+            - heading "Hiring excellence is one conversation away." [level=2] [ref=e228]
+            - paragraph [ref=e229]: Connect with our team and learn how Ashby can help your team grow faster and better.
+          - link "Get in Touch" [ref=e230] [cursor=pointer]:
+            - /url: /request-demo
+            - button "Get in Touch" [ref=e231]:
+              - generic [ref=e233]: Get in Touch
+        - img "Woman working with a laptop" [ref=e237]
+    - generic [ref=e241]:
+      - generic [ref=e242]:
+        - generic [ref=e243]:
+          - link "Navigate home" [ref=e245] [cursor=pointer]:
+            - /url: /
+            - img "Navigate home" [ref=e246]
+          - paragraph [ref=e252]: © 2026 Ashby, Inc.
+          - link "G2 Logo" [ref=e255] [cursor=pointer]:
+            - /url: https://www.g2.com/products/ashby-ashby/reviews?utm_source=review-widget
+            - img "G2 Logo" [ref=e256]
+          - img "SoC2" [ref=e260]
+        - generic [ref=e261]:
+          - link "Twitter" [ref=e262] [cursor=pointer]:
+            - /url: https://twitter.com/ashbyhq
+            - button "Navigate to Twitter" [ref=e265]:
+              - img [ref=e266]
+          - link "LinkedIn" [ref=e268] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/ashbyhq/
+            - button "Navigate to LinkedIn" [ref=e271]:
+              - img [ref=e272]
+      - generic [ref=e274]:
+        - heading "Product" [level=2] [ref=e275]
+        - generic [ref=e276]:
+          - link "Ashby All-in-one • Startups" [ref=e277] [cursor=pointer]:
+            - /url: /startups
+            - generic [ref=e278]: Ashby All-in-one • Startups
+          - link "Ashby All-in-one • Growth" [ref=e279] [cursor=pointer]:
+            - /url: /growth
+            - generic [ref=e280]: Ashby All-in-one • Growth
+          - link "Ashby All-in-one • Enterprise" [ref=e281] [cursor=pointer]:
+            - /url: /enterprise
+            - generic [ref=e282]: Ashby All-in-one • Enterprise
+          - link "Ashby Analytics" [ref=e283] [cursor=pointer]:
+            - /url: /platform/recruiting/analytics
+            - generic [ref=e284]: Ashby Analytics
+          - generic [ref=e285]:
+            - link "Product Updates" [ref=e286] [cursor=pointer]:
+              - /url: /product-updates
+              - generic [ref=e287]: Product Updates
+            - link "Integrations" [ref=e288] [cursor=pointer]:
+              - /url: /integrations
+              - generic [ref=e289]: Integrations
+            - link "Customers" [ref=e290] [cursor=pointer]:
+              - /url: /customers
+              - generic [ref=e291]: Customers
+            - link "Pricing" [ref=e292] [cursor=pointer]:
+              - /url: /pricing
+              - generic [ref=e293]: Pricing
+            - link "Security" [ref=e294] [cursor=pointer]:
+              - /url: /resources/security
+              - generic [ref=e295]: Security
+      - generic [ref=e296]:
+        - heading "Resources" [level=2] [ref=e297]
+        - generic [ref=e299]:
+          - link "Migrating to Ashby" [ref=e300] [cursor=pointer]:
+            - /url: /migrating-to-ashby
+            - generic [ref=e301]: Migrating to Ashby
+          - link "Ashby vs. Greenhouse" [ref=e302] [cursor=pointer]:
+            - /url: /compare/ashby-vs-greenhouse
+            - generic [ref=e303]: Ashby vs. Greenhouse
+          - link "Ashby vs. Lever" [ref=e304] [cursor=pointer]:
+            - /url: /compare/ashby-vs-lever
+            - generic [ref=e305]: Ashby vs. Lever
+          - link "Ashby vs. SmartRecruiters" [ref=e306] [cursor=pointer]:
+            - /url: /compare/ashby-vs-smartrecruiters
+            - generic [ref=e307]: Ashby vs. SmartRecruiters
+          - link "Support" [ref=e308] [cursor=pointer]:
+            - /url: /support
+            - generic [ref=e309]: Support
+          - link "Blog" [ref=e310] [cursor=pointer]:
+            - /url: /blog/all
+            - generic [ref=e311]: Blog
+          - link "Offer Accepted Podcast" [ref=e312] [cursor=pointer]:
+            - /url: /podcast
+            - generic [ref=e313]: Offer Accepted Podcast
+          - link "Trends Report" [ref=e314] [cursor=pointer]:
+            - /url: /talent-trends-report
+            - generic [ref=e315]: Trends Report
+          - link "Terms and Policies" [ref=e316] [cursor=pointer]:
+            - /url: /resources/terms-and-policies
+            - generic [ref=e317]: Terms and Policies
+          - link "Privacy Policy" [ref=e318] [cursor=pointer]:
+            - /url: /resources/privacy
+            - generic [ref=e319]: Privacy Policy
+          - link "Status" [ref=e320] [cursor=pointer]:
+            - /url: https://status.ashbyhq.com/
+            - generic [ref=e321]: Status
+          - link "Partners" [ref=e322] [cursor=pointer]:
+            - /url: /partners
+            - generic [ref=e323]: Partners
+      - generic [ref=e324]:
+        - heading "Company" [level=2] [ref=e325]
+        - generic [ref=e327]:
+          - link "Our Story" [ref=e328] [cursor=pointer]:
+            - /url: /story
+            - generic [ref=e329]: Our Story
+          - link "Careers" [ref=e330] [cursor=pointer]:
+            - /url: /careers
+            - generic [ref=e331]: Careers
+          - link "Team" [ref=e332] [cursor=pointer]:
+            - /url: /team
+            - generic [ref=e333]: Team
+      - generic [ref=e334]:
+        - heading "Developers" [level=2] [ref=e335]
+        - generic [ref=e337]:
+          - link "API" [ref=e338] [cursor=pointer]:
+            - /url: https://developers.ashbyhq.com/
+            - generic [ref=e339]: API
+          - link "Vulnerability Disclosure" [ref=e340] [cursor=pointer]:
+            - /url: /resources/vulnerability-disclosure
+            - generic [ref=e341]: Vulnerability Disclosure
+  - alert [ref=e342]

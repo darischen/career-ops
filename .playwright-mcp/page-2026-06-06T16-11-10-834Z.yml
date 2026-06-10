@@ -1,0 +1,134 @@
+- generic [ref=e8]:
+  - link [ref=e9] [cursor=pointer]:
+    - /url: "#mdc-main-content"
+    - generic [ref=e12]: Skip to main content
+  - navigation [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e20]:
+        - button [ref=e22] [cursor=pointer]:
+          - img [ref=e24]
+        - link [ref=e26] [cursor=pointer]:
+          - /url: /
+          - img [ref=e27]
+      - button [ref=e31] [cursor=pointer]:
+        - img [ref=e34]
+  - generic [ref=e39]:
+    - generic [ref=e41]:
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - navigation [ref=e46]:
+              - list [ref=e47]:
+                - listitem [ref=e48]:
+                  - generic [ref=e49]:
+                    - button [ref=e50] [cursor=pointer]:
+                      - generic [ref=e52]: Jobs
+                    - img [ref=e53]
+                - listitem [ref=e55]:
+                  - generic [ref=e58]: DFX Engineer
+            - generic [ref=e59]:
+              - heading [level=1] [ref=e61]: DFX Engineer
+              - generic [ref=e62]:
+                - generic [ref=e63]: Sunnyvale, CA
+                - generic [ref=e64]:
+                  - generic [ref=e67]: Hardware
+                  - button [ref=e68] [cursor=pointer]:
+                    - generic [ref=e71]: + 2 more
+          - button [ref=e72] [cursor=pointer]:
+            - img [ref=e75]
+        - button [ref=e78] [cursor=pointer]:
+          - generic [ref=e81]: Apply now
+        - generic [ref=e83]: Meta is at the forefront of developing innovative hardware that redefines how people experience the world — from virtual and augmented reality technology. The DFX team is a critical pillar of this mission, ensuring that our advanced devices are not only advanced in function but also manufacturable at scale with the highest standards of quality, cost-efficiency, and reliability. As a DFX Engineer, you will be a vital member of this team, directly influencing the quality, cost, and delivery of advanced Meta devices by creating and implementing solutions for complex manufacturing challenges. Your work will span the entire product lifecycle — from initial concept through to mass production — making this a uniquely impactful engineering role.
+        - separator [ref=e84]
+        - generic [ref=e85]:
+          - heading [level=2] [ref=e86]: DFX Engineer Responsibilities
+          - list [ref=e87]:
+            - generic [ref=e88]:
+              - listitem [ref=e89]: This position sits within the NPI & Manufacturing Engineering team and demands close partnership with Hardware Engineering, Quality, Test Engineering, and our external manufacturing partners. You will be responsible for defining and enforcing manufacturing process best practices as they relate to product design, serving as the critical bridge between design intent and production reality
+              - listitem [ref=e90]: On a day-to-day basis, you will partner with cross-functional Engineering teams to identify and resolve manufacturing challenges by applying DFX principles and establishing robust Design for Manufacturing (DFM) guidelines. You will develop manufacturing assembly processes, fixtures, and equipment requirements, and will drive line and fixture qualifications to meet Meta's rigorous standards
+              - listitem [ref=e91]: A core part of your mandate will be to engineer new or improved manufacturing processes through the application of both theoretical and practical engineering knowledge, with the goal of enhancing product quality and production efficiency
+              - listitem [ref=e92]: You will also serve as the primary technical resource for all factory-related operational issues concerning final assembly processes, from pre-production builds through mass production and end-of-life. This includes providing expert production support engineering for technically complex assembly procedures, testing methods, and failure analysis
+              - listitem [ref=e93]: Beyond individual problem-solving, you will offer direction, guidance, and resources to other engineering groups and factory technicians, fostering an environment of continuous improvement and knowledge sharing across the organization
+              - listitem [ref=e94]: Willingness to travel domestically and internationally
+        - generic [ref=e95]:
+          - heading [level=2] [ref=e96]: Minimum Qualifications
+          - list [ref=e97]:
+            - generic [ref=e98]:
+              - listitem [ref=e99]: Bachelor’s Degree in Mechanical, Electro-Mechanical, Manufacturing Engineering or related field
+              - listitem [ref=e100]: 8+ years in engineering roles with experience in product design or manufacturing
+              - listitem [ref=e101]: Experience with New product introduction and Manufacturing Operations
+              - listitem [ref=e102]: Knowledge of GD&T
+              - listitem [ref=e103]: Experience in creating tolerance analysis for assemblies and part level drawings
+              - listitem [ref=e104]: Experience with NX or PTC Creo CAD
+        - generic [ref=e105]:
+          - heading [level=2] [ref=e106]: Preferred Qualifications
+          - list [ref=e107]:
+            - generic [ref=e108]:
+              - listitem [ref=e109]: Experience in AI-driven manufacturing or Smart Factory initiatives
+              - listitem [ref=e110]: Familiarity with liquid adhesives, hot bar, laser soldering/jetting a plus
+              - listitem [ref=e111]: Working knowledge of optics principles as related to CCD cameras and optical alignment
+              - listitem [ref=e112]: Proven ability to communicate effectively across audiences
+              - listitem [ref=e113]: Demonstrated ongoing AI skill development (e.g., prompt/context engineering, agent orchestration) and staying current with emerging AI technologies
+              - listitem [ref=e114]: Experience in precision assembly, inspection and automation equipment
+              - listitem [ref=e115]: Demonstrated ability to integrate AI tools to optimize/redesign workflows and drive measurable impact (e.g., efficiency gains, quality improvements)
+              - listitem [ref=e116]: Experience adhering to and implementing responsible, ethical AI practices (e.g., risk assessment, bias mitigation, quality and accuracy reviews)
+        - separator [ref=e117]
+        - generic [ref=e118]:
+          - heading [level=2] [ref=e119]: About Meta
+          - generic [ref=e122]: Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+        - generic [ref=e127]:
+          - text: For those who live in or expect to work from California if hired for this position, please click
+          - link [ref=e128] [cursor=pointer]:
+            - /url: https://scontent-lax3-1.xx.fbcdn.net/v/t39.2365-6/457477312_480861821467896_777041002100550877_n.pdf?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=WNJKUQaZ0zYQ7kNvwETmvNg&_nc_oc=AdrCxWEHBep1AjncfFwJotaeZGjg2r4V8T8E5tvFrO3TgXpb-gvmsGOZjpduQGliLznJwXOcMv9yGFF6k96qNCkp&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=3okSItCnBc4Ww0vaggqc5A&_nc_ss=7b289&oh=00_Af8RoEnDY_NF5QJNDo83rFRfyo494XZPkuN0GOTOVvTMKQ&oe=6A3E776B
+            - text: here
+          - text: for additional information.
+        - generic [ref=e129]:
+          - generic [ref=e131]: "United States of America: $173,000/year to $245,000/year + bonus + equity + benefits"
+          - generic [ref=e132]:
+            - text: Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about
+            - link [ref=e133] [cursor=pointer]:
+              - /url: https://www.metacareers.com/benefits/
+              - text: benefits
+            - text: at Meta.
+        - generic [ref=e135]:
+          - heading [level=2] [ref=e136]: Equal Employment Opportunity
+          - generic [ref=e140]:
+            - text: Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice
+            - link [ref=e141] [cursor=pointer]:
+              - /url: https://www.metacareers.com/profile/footer_link/redirect/?page=equal_opportunity_policy
+              - text: here
+            - text: .
+          - generic [ref=e144]:
+            - text: Meta is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, fill out the
+            - link [ref=e145] [cursor=pointer]:
+              - /url: https://www.metacareers.com/accommodations_request
+              - text: Accommodations request form
+            - text: .
+      - separator [ref=e146]
+      - generic [ref=e148]:
+        - generic [ref=e150]: Apply for this job
+        - generic [ref=e151]: Take the first step toward a rewarding career at Meta.
+        - button [ref=e156] [cursor=pointer]:
+          - generic [ref=e159]: Apply now
+      - progressbar [ref=e161]:
+        - img [ref=e162]
+    - generic [ref=e167]:
+      - generic [ref=e169]:
+        - img [ref=e172]
+        - button [ref=e180] [cursor=pointer]:
+          - img [ref=e183]
+      - generic [ref=e185]:
+        - generic [ref=e190]:
+          - text: Recruiters can view your conversations with AI. Using AI is optional and does not impact the outcome of your application process.
+          - button [ref=e191] [cursor=pointer]: Learn more
+          - text: about AI usage and settings.
+        - generic [ref=e195]:
+          - button [ref=e197] [cursor=pointer]:
+            - img [ref=e200]
+          - generic [ref=e203]:
+            - generic [ref=e204]: Ask follow-up questions
+            - button [ref=e205] [cursor=pointer]:
+              - generic [ref=e206]:
+                - img [ref=e207]
+                - generic [ref=e209]: Sign up
+            - generic [ref=e210]: to ask follow-up questions

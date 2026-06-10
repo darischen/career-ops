@@ -1,0 +1,364 @@
+- generic [active] [ref=e1]:
+  - link "Belvedere Trading logo" [ref=e4] [cursor=pointer]:
+    - /url: https://jobs.lever.co/belvederetrading
+    - img "Belvedere Trading logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - heading "Software Engineer - Entry Level 2026" [level=2] [ref=e10]
+      - generic [ref=e11]:
+        - generic [ref=e12]: Chicago, Illinois / Boulder, Colorado
+        - generic [ref=e13]: Technology – Campus /
+        - generic [ref=e14]: Full-Time /
+        - generic [ref=e15]: Hybrid
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - heading "Submit your application" [level=4] [ref=e19]
+        - list [ref=e20]:
+          - listitem [ref=e21]:
+            - generic [ref=e22]: Which location are you applying for?
+            - combobox [ref=e25]:
+              - option "Select..." [selected]
+              - option "Chicago, Illinois"
+              - option "Boulder, Colorado"
+          - listitem [ref=e26]:
+            - generic [ref=e27]: LinkedIn profile
+            - generic [ref=e29]:
+              - button "Apply with LinkedIn":
+                - generic:
+                  - img
+                  - generic: Apply with LinkedIn
+              - paragraph [ref=e30]:
+                - text: Authorize sharing of selected
+                - text: LinkedIn profile details to
+                - text: auto-complete this form.
+                - link "Learn more" [ref=e31] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/a507542/
+              - iframe [ref=e32]:
+                - main [ref=f10e2]:
+                  - button "Apply With LinkedIn" [ref=f10e3] [cursor=pointer]:
+                    - img [ref=f10e5]
+                    - generic [ref=f10e7]: Apply With LinkedIn
+          - listitem [ref=e33]:
+            - generic [ref=e34]:
+              - generic [ref=e35]:
+                - text: Resume/CV
+                - generic [ref=e36]: ✱
+              - link "ATTACH RESUME/CV Resume/CV ✱" [ref=e38] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e39]
+                - generic [ref=e41]: ATTACH RESUME/CV
+                - button "Resume/CV ✱ ATTACH RESUME/CV" [ref=e42]
+          - listitem [ref=e43]:
+            - generic [ref=e44]:
+              - generic [ref=e45]:
+                - text: Full name
+                - generic [ref=e46]: ✱
+              - textbox "Full name ✱" [ref=e48]
+          - listitem [ref=e49]:
+            - generic [ref=e50]:
+              - generic [ref=e51]:
+                - text: Email
+                - generic [ref=e52]: ✱
+              - textbox "Email ✱" [ref=e54]
+          - listitem [ref=e55]:
+            - generic [ref=e56]:
+              - generic [ref=e57]:
+                - text: Phone
+                - generic [ref=e58]: ✱
+              - textbox "Phone ✱" [ref=e60]
+          - listitem [ref=e61]:
+            - generic [ref=e62]:
+              - generic [ref=e63]: Current location
+              - textbox "Current location" [ref=e65]
+          - listitem [ref=e66]:
+            - generic [ref=e67]:
+              - generic [ref=e68]: Current company
+              - textbox "Current company" [ref=e70]
+      - generic [ref=e71]:
+        - heading "Links" [level=4] [ref=e72]
+        - list [ref=e73]:
+          - listitem [ref=e74]:
+            - generic [ref=e75]:
+              - generic [ref=e76]: LinkedIn URL
+              - textbox "LinkedIn URL" [ref=e78]
+          - listitem [ref=e79]:
+            - generic [ref=e80]:
+              - generic [ref=e81]: Twitter URL
+              - textbox "Twitter URL" [ref=e83]
+          - listitem [ref=e84]:
+            - generic [ref=e85]:
+              - generic [ref=e86]: GitHub URL
+              - textbox "GitHub URL" [ref=e88]
+          - listitem [ref=e89]:
+            - generic [ref=e90]:
+              - generic [ref=e91]: Portfolio URL
+              - textbox "Portfolio URL" [ref=e93]
+          - listitem [ref=e94]:
+            - generic [ref=e95]:
+              - generic [ref=e96]: Other website
+              - textbox "Other website" [ref=e98]
+      - generic [ref=e99]:
+        - heading "OCR Application for Employment" [level=4] [ref=e100]
+        - list [ref=e101]:
+          - listitem [ref=e102]:
+            - generic [ref=e103]:
+              - generic [ref=e105]:
+                - text: Street Address
+                - generic [ref=e106]: ✱
+              - textbox "Type your response" [ref=e108]
+          - listitem [ref=e109]:
+            - generic [ref=e110]:
+              - generic [ref=e112]:
+                - text: City
+                - generic [ref=e113]: ✱
+              - textbox "Type your response" [ref=e115]
+          - listitem [ref=e116]:
+            - generic [ref=e117]:
+              - generic [ref=e119]:
+                - text: State
+                - generic [ref=e120]: ✱
+              - textbox "Type your response" [ref=e122]
+          - listitem [ref=e123]:
+            - generic [ref=e124]:
+              - generic [ref=e126]:
+                - text: Zip Code
+                - generic [ref=e127]: ✱
+              - textbox "Type your response" [ref=e129]
+          - listitem [ref=e130]:
+            - generic [ref=e131]:
+              - generic [ref=e133]:
+                - text: How did you learn about Belvedere Trading?
+                - generic [ref=e134]: ✱
+              - combobox [ref=e137]:
+                - option "Select..." [selected]
+                - option "Belvedere Trading Website"
+                - option "Handshake/Campus Job Board"
+                - option "Campus Career Fair"
+                - option "Other Campus Event"
+                - option "LinkedIn"
+                - option "Glassdoor"
+                - option "Indeed"
+                - option "Built in Chicago"
+                - option "Current Belvedere Employee"
+                - option "Former Belvedere Employee"
+                - option "Know from the Industry"
+                - option "Rewriting The Code"
+                - option "Other"
+          - listitem [ref=e138]:
+            - generic [ref=e139]:
+              - generic [ref=e141]:
+                - text: Location Preference
+                - generic [ref=e142]: ✱
+              - list [ref=e144]:
+                - listitem [ref=e145]:
+                  - generic [ref=e146] [cursor=pointer]:
+                    - checkbox "Chicago, IL" [ref=e147]
+                    - generic [ref=e148]: Chicago, IL
+                - listitem [ref=e149]:
+                  - generic [ref=e150] [cursor=pointer]:
+                    - checkbox "Boulder, CO" [ref=e151]
+                    - generic [ref=e152]: Boulder, CO
+                - listitem [ref=e153]:
+                  - generic [ref=e154] [cursor=pointer]:
+                    - checkbox "Either" [ref=e155]
+                    - generic [ref=e156]: Either
+          - listitem [ref=e157]:
+            - generic [ref=e158]:
+              - generic [ref=e160]:
+                - text: Are you lawfully authorized to work in the United States?
+                - generic [ref=e161]: ✱
+              - list [ref=e163]:
+                - listitem [ref=e164]:
+                  - generic [ref=e165] [cursor=pointer]:
+                    - radio "Yes" [ref=e166]
+                    - generic [ref=e167]: "Yes"
+                - listitem [ref=e168]:
+                  - generic [ref=e169] [cursor=pointer]:
+                    - radio "No" [ref=e170]
+                    - generic [ref=e171]: "No"
+          - listitem [ref=e172]:
+            - generic [ref=e173]:
+              - generic [ref=e175]:
+                - text: Will you need sponsorship at any point in the future to maintain lawful employment in the United States (including CPT and OPT)?
+                - generic [ref=e176]: ✱
+              - list [ref=e178]:
+                - listitem [ref=e179]:
+                  - generic [ref=e180] [cursor=pointer]:
+                    - radio "Yes" [ref=e181]
+                    - generic [ref=e182]: "Yes"
+                - listitem [ref=e183]:
+                  - generic [ref=e184] [cursor=pointer]:
+                    - radio "No" [ref=e185]
+                    - generic [ref=e186]: "No"
+          - listitem [ref=e187]:
+            - generic [ref=e188]:
+              - generic [ref=e190]: If yes, what type of sponsorship will you require? (Ex. F-1, H1-B, OPT, etc.)
+              - textbox [ref=e192]
+          - listitem [ref=e193]:
+            - generic [ref=e194]:
+              - generic [ref=e196]:
+                - text: "Highest Level of Education:"
+                - generic [ref=e197]: ✱
+              - list [ref=e199]:
+                - listitem [ref=e200]:
+                  - generic [ref=e201] [cursor=pointer]:
+                    - radio "High School" [ref=e202]
+                    - generic [ref=e203]: High School
+                - listitem [ref=e204]:
+                  - generic [ref=e205] [cursor=pointer]:
+                    - radio "Associate Degree" [ref=e206]
+                    - generic [ref=e207]: Associate Degree
+                - listitem [ref=e208]:
+                  - generic [ref=e209] [cursor=pointer]:
+                    - radio "Bachelor Degree" [ref=e210]
+                    - generic [ref=e211]: Bachelor Degree
+                - listitem [ref=e212]:
+                  - generic [ref=e213] [cursor=pointer]:
+                    - radio "Masters" [ref=e214]
+                    - generic [ref=e215]: Masters
+                - listitem [ref=e216]:
+                  - generic [ref=e217] [cursor=pointer]:
+                    - radio "PhD" [ref=e218]
+                    - generic [ref=e219]: PhD
+                - listitem [ref=e220]:
+                  - generic [ref=e221] [cursor=pointer]:
+                    - radio "Currently in school" [ref=e222]
+                    - generic [ref=e223]: Currently in school
+          - listitem [ref=e224]:
+            - generic [ref=e225]:
+              - generic [ref=e227]:
+                - text: Name of School
+                - generic [ref=e228]: ✱
+              - generic [ref=e230]:
+                - combobox [ref=e231]
+                - combobox "Other" [ref=e234] [cursor=pointer]:
+                  - generic [ref=e235]: Other
+          - listitem [ref=e236]:
+            - generic [ref=e237]:
+              - generic [ref=e239]: "School Major:"
+              - textbox [ref=e241]
+          - listitem [ref=e242]:
+            - generic [ref=e243]:
+              - generic [ref=e245]: "School Minor:"
+              - textbox [ref=e247]
+          - listitem [ref=e248]:
+            - generic [ref=e249]:
+              - generic [ref=e251]:
+                - text: "Graduation date or expected graduation date:"
+                - generic [ref=e252]: ✱
+              - list [ref=e254]:
+                - listitem [ref=e255]:
+                  - generic [ref=e256] [cursor=pointer]:
+                    - radio "December 2025/January 2026" [ref=e257]
+                    - generic [ref=e258]: December 2025/January 2026
+                - listitem [ref=e259]:
+                  - generic [ref=e260] [cursor=pointer]:
+                    - radio "Spring 2026" [ref=e261]
+                    - generic [ref=e262]: Spring 2026
+                - listitem [ref=e263]:
+                  - generic [ref=e264] [cursor=pointer]:
+                    - radio "December 2026/January 2027" [ref=e265]
+                    - generic [ref=e266]: December 2026/January 2027
+                - listitem [ref=e267]:
+                  - generic [ref=e268] [cursor=pointer]:
+                    - radio "Spring 2027" [ref=e269]
+                    - generic [ref=e270]: Spring 2027
+                - listitem [ref=e271]:
+                  - generic [ref=e272] [cursor=pointer]:
+                    - radio "December 2027/January 2028" [ref=e273]
+                    - generic [ref=e274]: December 2027/January 2028
+                - listitem [ref=e275]:
+                  - generic [ref=e276] [cursor=pointer]:
+                    - radio "Spring 2028" [ref=e277]
+                    - generic [ref=e278]: Spring 2028
+                - listitem [ref=e279]:
+                  - generic [ref=e280] [cursor=pointer]:
+                    - radio "December 2028/January 2029" [ref=e281]
+                    - generic [ref=e282]: December 2028/January 2029
+                - listitem [ref=e283]:
+                  - generic [ref=e284] [cursor=pointer]:
+                    - radio "Spring 2029" [ref=e285]
+                    - generic [ref=e286]: Spring 2029
+                - listitem [ref=e287]:
+                  - generic [ref=e288] [cursor=pointer]:
+                    - radio "Other" [ref=e289]
+                    - generic [ref=e290]: Other
+          - listitem [ref=e291]:
+            - generic [ref=e292]:
+              - generic [ref=e294]:
+                - text: "Start Date at Current School:"
+                - generic [ref=e295]: ✱
+              - combobox [ref=e298]:
+                - option "Select..." [selected]
+                - option "Fall 2021"
+                - option "Spring 2022"
+                - option "Fall 2022"
+                - option "Spring 2023"
+                - option "Fall 2023"
+                - option "Spring 2024"
+                - option "Fall 2024"
+                - option "Spring 2025"
+                - option "Other"
+          - listitem [ref=e299]:
+            - generic [ref=e300]:
+              - generic [ref=e302]:
+                - text: What year did you graduate high school?
+                - generic [ref=e303]: ✱
+              - combobox [ref=e306]:
+                - option "Select..." [selected]
+                - option "2021"
+                - option "2022"
+                - option "2023"
+                - option "2024"
+                - option "2025"
+                - option "Other"
+          - listitem [ref=e307]:
+            - generic [ref=e308]:
+              - generic [ref=e310]:
+                - text: Why do you want to work for Belvedere Trading?
+                - generic [ref=e311]: ✱
+              - textbox [ref=e313]
+          - listitem [ref=e314]:
+            - generic [ref=e315]:
+              - generic [ref=e317]:
+                - text: Are you able to perform the essential functions of the job for which you are applying, with or without a reasonable accommodation?
+                - generic [ref=e318]: ✱
+              - list [ref=e320]:
+                - listitem [ref=e321]:
+                  - generic [ref=e322] [cursor=pointer]:
+                    - radio "Yes" [ref=e323]
+                    - generic [ref=e324]: "Yes"
+                - listitem [ref=e325]:
+                  - generic [ref=e326] [cursor=pointer]:
+                    - radio "No" [ref=e327]
+                    - generic [ref=e328]: "No"
+          - listitem [ref=e329]:
+            - generic [ref=e330]:
+              - generic [ref=e332]: Do you currently have pending offers from other employers? If yes, please tell us the name of the employer and the offer deadline below.
+              - textbox [ref=e334]
+          - listitem [ref=e335]:
+            - generic [ref=e336]:
+              - generic [ref=e338]:
+                - text: What date are you available to begin employment (Month and Year)
+                - generic [ref=e339]: ✱
+              - textbox [ref=e341]
+          - listitem [ref=e342]:
+            - generic [ref=e343]:
+              - generic [ref=e345]:
+                - text: Your application will be reviewed for one position at a time. If you're interested in multiple roles, please apply to your top choice.
+                - generic [ref=e346]: ✱
+              - list [ref=e348]:
+                - listitem [ref=e349]:
+                  - generic [ref=e350] [cursor=pointer]:
+                    - checkbox "I Understand" [ref=e351]
+                    - generic [ref=e352]: I Understand
+      - button "Submit application" [ref=e354] [cursor=pointer]
+  - generic [ref=e356]:
+    - paragraph [ref=e357]:
+      - link "Belvedere Trading Home Page" [ref=e358] [cursor=pointer]:
+        - /url: http://www.belvederetrading.com/
+    - paragraph [ref=e360]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+    - link "Jobs powered by Lever logo" [ref=e361] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e362]: Jobs powered by
+      - img "Lever logo" [ref=e363]

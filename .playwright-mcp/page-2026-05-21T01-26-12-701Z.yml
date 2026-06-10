@@ -1,0 +1,133 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Benchling" [ref=e6] [cursor=pointer]:
+        - /url: https://www.benchling.com/
+        - img "Benchling" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Benchling’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /benchling
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer, Agents" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco, CA
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $173,369 – $234,388 • Offers Equity
+          - generic [ref=e34]:
+            - paragraph [ref=e35]:
+              - strong [ref=e36]: U.S. Benefits
+            - paragraph [ref=e37]: Full-time U.S. employees enjoy a comprehensive benefits program including equity, health, dental, vision, 401(k)+ employer match, wellness, commuter, and more.
+            - paragraph [ref=e38]
+            - paragraph [ref=e39]
+            - paragraph [ref=e40]: Benchling takes a market-based approach to pay. The candidate's starting pay will be determined based on job-related skills, experience, qualifications, interview performance, and work location.
+      - generic [ref=e41]:
+        - tablist [ref=e42]:
+          - tab "Overview" [selected] [ref=e43] [cursor=pointer]
+          - tab "Application" [ref=e44] [cursor=pointer]
+        - tabpanel "Overview" [ref=e46]:
+          - generic [ref=e47]:
+            - paragraph [ref=e48]
+            - paragraph [ref=e49]:
+              - text: We are rebuilding biotech for the AI era.
+              - text: When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into years. But that only happens when clean, structured scientific data and AI are built into how science gets done.
+              - text: Benchling is the AI platform for biotech R&D. Scientists use Benchling to design experiments, capture structured data, and run AI agents and models directly in their workflows. Over 200,000 scientists around the world trust Benchling to power their most important work, from academic labs to Sanofi, Moderna, and more than half of the world's top 50 biopharma.
+              - text: We’re building an AI scientist for our customers. We can’t do that if we haven’t built the muscle ourselves. AI fluency is the foundation we build on; it's core to how we work, and we're committed to helping every new hire integrate it into their day-to-day. As part of our interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about and use AI to drive impact in your role. Feel free to reference any tools, platforms, or workflows you use today.
+            - paragraph [ref=e50]
+            - paragraph [ref=e51]
+            - heading "ROLE OVERVIEW" [level=2] [ref=e52]:
+              - strong [ref=e53]: ROLE OVERVIEW
+            - paragraph [ref=e54]: "We’re a team focusing on shipping AI agents for scientists, helping them automate toil and accelerate breakthroughs. Our agents automate many parts of scientific work that take hours to weeks today: designing experiments, capturing data, analyzing data, and writing complex reports. As an engineer on the team, you’ll build these agents end-to-end, from designing the agent architecture to shipping intuitive interfaces for the agents within our scientific applications. It’s early days for AI agents, both at Benchling and in the industry at large. We’ll rapidly iterate with customers and change directions quickly, figuring out new patterns for how we develop and go to market. We’ll win if we stay curious and obsess over our customers."
+            - heading "RESPONSIBILITIES" [level=2] [ref=e55]:
+              - strong [ref=e56]: RESPONSIBILITIES
+            - list [ref=e57]:
+              - listitem [ref=e58]:
+                - paragraph [ref=e59]:
+                  - strong [ref=e60]: Build end-to-end AI agents
+                  - text: ", prototyping and productionizing systems that automate scientific work, from experiment design to data analysis and reporting."
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]:
+                  - strong [ref=e63]: Work directly with customers
+                  - text: to ideate use cases, gather feedback, build evaluations, and onboard scientific teams.
+              - listitem [ref=e64]:
+                - paragraph [ref=e65]:
+                  - strong [ref=e66]: Engineer across the stack
+                  - text: ", from developing new LLM-powered primitives to shipping intuitive user interfaces inside Benchling’s applications."
+              - listitem [ref=e67]:
+                - paragraph [ref=e68]:
+                  - strong [ref=e69]: Continuously improve our agent platform
+                  - text: ", contributing to frameworks, tooling, and infrastructure that accelerate future agent development."
+              - listitem [ref=e70]:
+                - paragraph [ref=e71]:
+                  - strong [ref=e72]: Shape how we build AI at Benchling
+                  - text: ", driving experimentation, contributing to technical direction, and helping evolve our engineering and product development practices as the field matures."
+            - heading "QUALIFICATIONS" [level=2] [ref=e73]:
+              - strong [ref=e74]: QUALIFICATIONS
+            - list [ref=e75]:
+              - listitem [ref=e76]:
+                - paragraph [ref=e77]:
+                  - strong [ref=e78]: 2+ years of professional software engineering experience
+                  - text: ", building and maintaining production systems."
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]:
+                  - strong [ref=e81]: Experience across the stack
+                  - text: ", comfort working with backend systems (Python or similar languages) and modern frontend frameworks (React or equivalent)."
+              - listitem [ref=e82]:
+                - paragraph [ref=e83]:
+                  - strong [ref=e84]: Strong product sense
+                  - text: ", with the ability to iterate quickly and refine solutions based on user feedback and data."
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]:
+                  - strong [ref=e87]: Curiosity and excitement about LLMs and AI agents
+                  - text: ", and a desire to shape how they can transform scientific research."
+              - listitem [ref=e88]:
+                - paragraph [ref=e89]:
+                  - strong [ref=e90]: Collaborative mindset
+                  - text: ", able to work closely with engineers, product managers, and scientists to bring new ideas to life."
+              - listitem [ref=e91]:
+                - paragraph [ref=e92]:
+                  - strong [ref=e93]: Desire to work in a fast-paced environment
+                  - text: ", where priorities can shift and rapid experimentation is encouraged."
+              - listitem [ref=e94]:
+                - paragraph [ref=e95]:
+                  - strong [ref=e96]: Interest in learning about biotechnology (no prior knowledge required, just a willingness to learn and adapt).
+            - paragraph [ref=e97]
+            - heading "HOW WE WORK" [level=2] [ref=e98]
+            - paragraph [ref=e99]: This is an in-person team in San Francisco built around collaborating in the office in a fast-paced environment. We’re in the office Monday through Friday.
+            - paragraph [ref=e100]: "#LI-KW1"
+            - paragraph [ref=e101]:
+              - strong [ref=e102]: Benchling welcomes everyone.
+            - paragraph [ref=e103]:
+              - text: We believe diversity enriches our team so we hire people with a wide range of identities, backgrounds, and experiences.
+              - text: We are an equal opportunity employer. That means we don’t discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We also consider for employment qualified applicants with arrest and conviction records, consistent with applicable federal, state and local law, including but not limited to the San Francisco Fair Chance Ordinance.
+          - link "Apply for this Job" [ref=e104] [cursor=pointer]:
+            - /url: /benchling/815d941c-dff6-40cb-8307-57695acb37a7/application
+            - button "Apply for this Job" [ref=e105]
+  - contentinfo [ref=e106]:
+    - link "Learn more about Ashby" [ref=e107] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e108]: Powered by
+      - img "Ashby" [ref=e109]
+    - paragraph [ref=e115]:
+      - link "Privacy Policy" [ref=e116] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e117] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e118] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

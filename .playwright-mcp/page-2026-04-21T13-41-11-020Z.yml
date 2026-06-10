@@ -1,0 +1,257 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "PermitFlow" [ref=e6] [cursor=pointer]:
+        - /url: https://www.permitflow.com
+        - img "PermitFlow" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to PermitFlow’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /permitflow?utm_source=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Fullstack Software Engineer, New Grad" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York City, NY
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $100K – $130K • Offers Equity
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [ref=e36] [cursor=pointer]
+          - tab "Application" [active] [selected] [ref=e37] [cursor=pointer]
+        - tabpanel "Application" [ref=e477]:
+          - generic [ref=e478]:
+            - button "Choose File" [ref=e479]
+            - generic [ref=e481]:
+              - generic [ref=e482]:
+                - img [ref=e484]
+                - heading "Autofill from resume" [level=3] [ref=e486]
+              - paragraph [ref=e487]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e489] [cursor=pointer]
+          - generic [ref=e491]:
+            - generic [ref=e492]:
+              - generic [ref=e493]: Name*
+              - textbox "Name*" [ref=e495] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e496]:
+              - generic [ref=e497]: Email*
+              - textbox "Email*" [ref=e499] [cursor=pointer]:
+                - /placeholder: hello@example.com...
+            - generic [ref=e500]:
+              - generic [ref=e501]: Phone Number*
+              - textbox "Phone Number*" [ref=e502] [cursor=pointer]:
+                - /placeholder: 1-415-555-1234...
+              - generic [ref=e503]:
+                - paragraph [ref=e504]:
+                  - text: Check
+                  - strong [ref=e505]: "Yes"
+                  - text: or
+                  - strong [ref=e506]: "No"
+                  - text: to indicate your agreement to receive text message updates from PermitFlow regarding your job application. Frequency may vary. Message and data rates may apply. Reply STOP to opt out of future messaging.
+                - paragraph [ref=e507]:
+                  - text: "View our privacy policy here:"
+                  - link "Privacy Policy" [ref=e508] [cursor=pointer]:
+                    - /url: https://www.permitflow.com/privacy-policy
+                  - text: "and our terms and conditions here:"
+                  - link "Terms and Conditions" [ref=e509] [cursor=pointer]:
+                    - /url: https://www.permitflow.com/terms-and-conditions
+                - generic [ref=e510]:
+                  - generic [ref=e511]:
+                    - radio "Yes - I consent to receiving text messages" [ref=e512]
+                    - generic [ref=e513]:
+                      - strong [ref=e514]: "Yes"
+                      - text: "- I consent to receiving text messages"
+                  - generic [ref=e515]:
+                    - radio "No - I do not consent to receiving text messages" [ref=e516]
+                    - generic [ref=e517]:
+                      - strong [ref=e518]: "No"
+                      - text: "- I do not consent to receiving text messages"
+            - generic [ref=e519]:
+              - generic [ref=e520]: Resume*
+              - button "Resume*" [ref=e521]
+              - generic [ref=e522]:
+                - button "Upload File" [ref=e523] [cursor=pointer]:
+                  - img [ref=e524]
+                  - generic [ref=e526]: Upload File
+                - paragraph [ref=e527]: or drag and drop here
+            - generic [ref=e528]:
+              - generic [ref=e529]: LinkedIn Profile*
+              - textbox "LinkedIn Profile*" [ref=e531] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e532]:
+              - generic [ref=e533]: Location*
+              - generic [ref=e534]:
+                - combobox "Start typing..." [ref=e535] [cursor=pointer]
+                - button [ref=e536] [cursor=pointer]:
+                  - img [ref=e537]
+            - generic [ref=e539]:
+              - generic [ref=e540]: Are you currently located in the NYC area, or would you be willing to relocate, for hybrid work from our office three days a week?*
+              - generic [ref=e541]:
+                - button "Yes" [ref=e542] [cursor=pointer]
+                - button "No" [ref=e543] [cursor=pointer]
+            - generic [ref=e544]:
+              - generic [ref=e545]: Are you legally authorized to work in the United States?*
+              - generic [ref=e546]:
+                - button "Yes" [ref=e547] [cursor=pointer]
+                - button "No" [ref=e548] [cursor=pointer]
+            - generic [ref=e549]:
+              - generic [ref=e550]: If hired by PermitFlow, will you now or in the future require sponsorship for employment visa status (e.g. H-1B, TN, OPT, etc.)?*
+              - generic [ref=e551]:
+                - button "Yes" [ref=e552] [cursor=pointer]
+                - button "No" [ref=e553] [cursor=pointer]
+            - generic [ref=e554]:
+              - generic [ref=e555]: What are your salary expectations?*
+              - spinbutton "What are your salary expectations?*" [ref=e556] [cursor=pointer]
+            - generic [ref=e557]:
+              - generic [ref=e558]: Are you graduating within the next 12 months or already graduated?*
+              - paragraph [ref=e560]: This role is only open to new grads graduating within 12 months of their application date. We do not offer internships at this time.
+              - generic [ref=e561]:
+                - button "Yes" [ref=e562] [cursor=pointer]
+                - button "No" [ref=e563] [cursor=pointer]
+            - generic [ref=e564]:
+              - generic [ref=e565]: What is your prospective / recent graduation date?*
+              - paragraph [ref=e567]
+              - textbox "Pick date..." [ref=e570] [cursor=pointer]
+          - generic [ref=e572]:
+            - generic [ref=e573]:
+              - generic [ref=e575]:
+                - paragraph [ref=e576]:
+                  - strong [ref=e577]: U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION
+                  - text: (Completion is voluntary and will not subject you to adverse treatment)
+                - paragraph [ref=e578]
+                - paragraph [ref=e579]: PermitFlow provides equal employment and affirmative action opportunities to applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability.
+                - paragraph [ref=e580]
+                - paragraph [ref=e581]: We invite all applicants to voluntarily self-identify their race, ethnicity, and gender. Submission of the information on this form is strictly voluntary and refusal to provide it will not subject you to any adverse treatment. Information obtained will be retained in a confidential file and separate from personnel records. This information may only be used in accordance with the provision of applicable federal laws, executive orders, and regulations. If you want more information about any of the sections, please check with a company representative.
+              - group [ref=e582]:
+                - generic [ref=e583]: Gender
+                - paragraph [ref=e585]: Input gender
+                - generic [ref=e586]:
+                  - radio "Male" [ref=e589] [cursor=pointer]
+                  - generic [ref=e590]: Male
+                - generic [ref=e591]:
+                  - radio "Female" [ref=e594] [cursor=pointer]
+                  - generic [ref=e595]: Female
+                - generic [ref=e596]:
+                  - radio "Decline to self-identify" [ref=e599] [cursor=pointer]
+                  - generic [ref=e600]: Decline to self-identify
+              - group [ref=e601]:
+                - generic [ref=e602]: Race
+                - generic [ref=e603]:
+                  - list [ref=e604]:
+                    - listitem [ref=e605]:
+                      - paragraph [ref=e606]:
+                        - strong [ref=e607]: Hispanic or Latino
+                        - text: "- A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race."
+                  - list [ref=e608]:
+                    - listitem [ref=e609]:
+                      - paragraph [ref=e610]:
+                        - strong [ref=e611]: White
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+                    - listitem [ref=e612]:
+                      - paragraph [ref=e613]:
+                        - strong [ref=e614]: Black or African American
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the black racial groups of Africa.
+                    - listitem [ref=e615]:
+                      - paragraph [ref=e616]:
+                        - strong [ref=e617]: Native Hawaiian or Other Pacific Islander
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+                    - listitem [ref=e618]:
+                      - paragraph [ref=e619]:
+                        - strong [ref=e620]: Asian
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+                    - listitem [ref=e621]:
+                      - paragraph [ref=e622]:
+                        - strong [ref=e623]: American Indian or Alaska Native
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.
+                    - listitem [ref=e624]:
+                      - paragraph [ref=e625]:
+                        - strong [ref=e626]: Two or More Races
+                        - text: (Not Hispanic or Latino) - All persons who identify with more than one of the above five races.
+                - generic [ref=e627]:
+                  - radio "Hispanic or Latino" [ref=e630] [cursor=pointer]
+                  - generic [ref=e631]: Hispanic or Latino
+                - generic [ref=e632]:
+                  - radio "White (Not Hispanic or Latino)" [ref=e635] [cursor=pointer]
+                  - generic [ref=e636]: White (Not Hispanic or Latino)
+                - generic [ref=e637]:
+                  - radio "Black or African American (Not Hispanic or Latino)" [ref=e640] [cursor=pointer]
+                  - generic [ref=e641]: Black or African American (Not Hispanic or Latino)
+                - generic [ref=e642]:
+                  - radio "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)" [ref=e645] [cursor=pointer]
+                  - generic [ref=e646]: Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)
+                - generic [ref=e647]:
+                  - radio "Asian (Not Hispanic or Latino)" [ref=e650] [cursor=pointer]
+                  - generic [ref=e651]: Asian (Not Hispanic or Latino)
+                - generic [ref=e652]:
+                  - radio "American Indian or Alaska Native (Not Hispanic or Latino)" [ref=e655] [cursor=pointer]
+                  - generic [ref=e656]: American Indian or Alaska Native (Not Hispanic or Latino)
+                - generic [ref=e657]:
+                  - radio "Two or More Races (Not Hispanic or Latino)" [ref=e660] [cursor=pointer]
+                  - generic [ref=e661]: Two or More Races (Not Hispanic or Latino)
+                - generic [ref=e662]:
+                  - radio "Decline to self-identify" [ref=e665] [cursor=pointer]
+                  - generic [ref=e666]: Decline to self-identify
+            - generic [ref=e667]:
+              - generic [ref=e669]:
+                - paragraph [ref=e670]:
+                  - strong [ref=e671]: SELF-IDENTIFICATION OF VETERAN STATUS
+                  - text: (Completion is voluntary and will not subject you to adverse treatment)
+                - paragraph [ref=e672]: If you believe that you belong to any of the following categories of protected veterans, please indicate by making the appropriate selection
+                - list [ref=e673]:
+                  - listitem [ref=e674]:
+                    - paragraph [ref=e675]:
+                      - strong [ref=e676]: Disabled veteran
+                      - text: – A veteran who served on active duty in the U.S. military and is entitled to disability compensation (or who but for the receipt of military retired pay would be entitled to disability compensation) under laws administered by the Secretary of Veterans Affairs, or was discharged or released from active duty because of a service-connected disability
+                  - listitem [ref=e677]:
+                    - paragraph [ref=e678]:
+                      - strong [ref=e679]: Recently separated veteran
+                      - text: – A veteran separated during the three-year period beginning on the date of the veteran's discharge or release from active duty in the U.S military, ground, naval, or air service
+                  - listitem [ref=e680]:
+                    - paragraph [ref=e681]:
+                      - strong [ref=e682]: Active duty wartime or campaign badge veteran
+                      - text: – A veteran who served on active duty in the U.S. military during a war, or in a campaign or expedition for which a campaign badge was authorized under the laws administered by the Department of Defense
+                  - listitem [ref=e683]:
+                    - paragraph [ref=e684]:
+                      - strong [ref=e685]: Armed forces service medal veteran
+                      - text: "- Armed forces service medal veteran – A veteran who, while serving on active duty in the U.S. military ground, naval, or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985 (61 Fed. Reg. 1209)."
+              - group [ref=e686]:
+                - generic [ref=e687]: Veteran Status
+                - generic [ref=e688]:
+                  - radio "I identify as one or more of the classifications of protected veteran listed above" [ref=e691] [cursor=pointer]
+                  - generic [ref=e692]: I identify as one or more of the classifications of protected veteran listed above
+                - generic [ref=e693]:
+                  - radio "I am not a protected veteran" [ref=e696] [cursor=pointer]
+                  - generic [ref=e697]: I am not a protected veteran
+                - generic [ref=e698]:
+                  - radio "I decline to self-identify for protected veteran status" [ref=e701] [cursor=pointer]
+                  - generic [ref=e702]: I decline to self-identify for protected veteran status
+          - button "Submit Application" [ref=e703] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e704]
+  - contentinfo [ref=e268]:
+    - link "Learn more about Ashby" [ref=e269] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e270]: Powered by
+      - img "Ashby" [ref=e271]
+    - paragraph [ref=e277]:
+      - link "Privacy Policy" [ref=e278] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e279] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e280] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

@@ -1,0 +1,114 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Figure Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://www.figure.ai
+        - img "Figure Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/figureai
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e12]:
+          - generic [ref=e13]:
+            - heading "Electrical Engineer (All Levels)" [level=1] [ref=e14]
+            - generic [ref=e15]:
+              - img [ref=e16]
+              - generic [ref=e18]: San Jose, CA
+          - button "Apply" [ref=e19] [cursor=pointer]
+        - generic [ref=e21]:
+          - paragraph [ref=e22]: Figure is an AI robotics company developing autonomous general-purpose humanoid robots. The goal of the company is to ship humanoid robots with human level intelligence. Its robots are engineered to perform a variety of tasks in the home and commercial markets. Figure is headquartered in San Jose, CA
+          - paragraph [ref=e23]: We are looking for experienced Electrical Engineers to design and test critical hardware components of our Humanoid.
+          - paragraph [ref=e24]:
+            - strong [ref=e25]: "Responsibilities:"
+          - list [ref=e26]:
+            - listitem [ref=e27]: Develop conceptual designs and conduct trade studies to support key design decisions
+            - listitem [ref=e28]: Design and validate PCBAs for critical components of the Humanoid like compute boards, camera electronics, power distribution boards, battery management systems, sensing boards, or motor controllers
+            - listitem [ref=e29]: Support the review of design artifacts (schematics, layouts, bill of materials…) from your peers or external suppliers
+            - listitem [ref=e30]: Support system integration and test activities by contributing to test execution and debugging
+          - paragraph [ref=e31]:
+            - strong [ref=e32]: "Requirements:"
+          - list [ref=e33]:
+            - listitem [ref=e34]: Bachelor or graduate degree in Electrical Engineering or related field
+            - listitem [ref=e35]: 2+ years of industry experience
+            - listitem [ref=e36]: Solid EE fundamentals with hands-on experience designing, building, and testing PCBAs
+            - listitem [ref=e37]: Mastery of Altium in both schematics and layout
+            - listitem [ref=e38]: Mastery of debugging HW issues. You know how to attack a problem, document, and come up with solutions quickly
+          - paragraph [ref=e39]:
+            - strong [ref=e40]: "Bonus Qualifications:"
+          - list [ref=e41]:
+            - listitem [ref=e42]: Experience with Camera Electronics
+            - listitem [ref=e43]: Designed high speed boards (PCIe Gen1-5, USB3/4, MIPI, GMSL, 10G Ethernet) with high current power supplies for compute modules
+            - listitem [ref=e44]: Understanding of signal integrity issues and how to mitigate them
+            - listitem [ref=e45]: Experience with very small boards (HDI, flex, rigid flex)
+            - listitem [ref=e46]: Experience using LTspice and Python
+            - listitem [ref=e47]: Embedded programming of DSPs, microcontrollers, and FPGAs
+          - paragraph [ref=e48]: The US base salary range for this full-time position is between $120,000 - $250,000 annually.
+          - paragraph [ref=e49]: The pay offered for this position may vary based on several individual factors, including job-related knowledge, skills, and experience. The total compensation package may also include additional components/benefits depending on the specific role. This information will be shared if an employment offer is extended.
+        - generic [ref=e50]:
+          - img [ref=e51]
+          - generic [ref=e53]:
+            - paragraph [ref=e54]: Create a Job Alert
+            - paragraph [ref=e55]: Interested in building your career at Figure? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e56] [cursor=pointer]
+      - separator [ref=e57]
+      - generic [ref=e58]:
+        - generic [ref=e59]:
+          - generic [ref=e60]:
+            - heading "Apply for this job" [level=2] [ref=e62]
+            - generic [ref=e63]:
+              - paragraph [ref=e65]: "*"
+              - paragraph [ref=e66]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e69] [cursor=pointer]
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - generic [ref=e74]:
+              - generic [ref=e75]: First Name*
+              - textbox "First Name" [ref=e76]
+            - generic [ref=e79]:
+              - generic [ref=e80]: Last Name*
+              - textbox "Last Name" [ref=e81]
+            - generic [ref=e84]:
+              - generic [ref=e85]: Email*
+              - textbox "Email" [ref=e86]
+            - group "Phone" [ref=e88]:
+              - generic [ref=e89]: Phone
+              - generic [ref=e92]:
+                - generic [ref=e93]: Country
+                - generic [ref=e94]:
+                  - log [ref=e96]
+                  - generic [ref=e98]:
+                    - combobox "Country" [ref=e101]
+                    - button "Toggle flyout" [ref=e103] [cursor=pointer]:
+                      - img [ref=e104]
+              - generic [ref=e108]:
+                - generic [ref=e109]: Phone
+                - textbox "Phone" [ref=e110]
+            - group "Resume/CV" [ref=e112]:
+              - generic [ref=e113]: Resume/CV
+              - generic [ref=e115]:
+                - generic [ref=e117]:
+                  - button "Attach" [ref=e118] [cursor=pointer]
+                  - generic [ref=e119]: Attach
+                  - button "Attach" [ref=e120]
+                - button "Dropbox" [ref=e122] [cursor=pointer]
+                - button "Google Drive" [ref=e124] [cursor=pointer]
+                - generic [ref=e126]:
+                  - button "Enter manually" [ref=e127] [cursor=pointer]
+                  - generic [ref=e128]: Enter manually
+                - paragraph [ref=e129]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e130]:
+            - separator [ref=e131]
+            - generic [ref=e134]:
+              - generic [ref=e135]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e136]
+            - generic [ref=e139]:
+              - generic [ref=e140]: Website
+              - textbox "Website" [ref=e141]
+          - button "Submit application" [ref=e143] [cursor=pointer]
+  - contentinfo [ref=e144]:
+    - generic [ref=e145]:
+      - paragraph [ref=e146]: Powered by
+      - link "Greenhouse logo" [ref=e147] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e148]

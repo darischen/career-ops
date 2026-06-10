@@ -1,0 +1,297 @@
+- generic [active] [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/machinifyinc?gh_src=7ria3ymg9us
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - heading "AI Engineer | Agentic Systems" [level=1] [ref=e13]
+            - generic [ref=e14]:
+              - img [ref=e15]
+              - generic [ref=e17]: Remote - US
+          - button "Apply" [ref=e18] [cursor=pointer]
+        - generic [ref=e19]:
+          - paragraph [ref=e21]: Machinify is a leading healthcare intelligence company with expertise across the payment continuum, delivering unmatched value, transparency, and efficiency to health plan clients across the country. Deployed by over 85 health plans, including many of the top 20, and representing more than 270 million lives, Machinify brings together a fully configurable and content-rich, AI-powered platform along with best-in-class expertise. We’re constantly reimagining what’s possible in our industry, creating disruptively simple, powerfully clear ways to maximize financial outcomes and drive down healthcare costs.
+          - generic [ref=e22]:
+            - paragraph [ref=e23]: Machinify is a leading healthcare intelligence company with expertise across the payment continuum, delivering unmatched value, transparency, and efficiency to health plan clients across the country. Deployed by over 85 health plans — including many of the top 20 and representing more than 270 million lives — Machinify brings together a fully configurable, content-rich, AI-powered platform along with best-in-class expertise. We're constantly reimagining what's possible in our industry, creating disruptively simple, powerfully clear ways to maximize financial outcomes and drive down healthcare costs.
+            - paragraph [ref=e24]:
+              - strong [ref=e25]: The Role
+            - paragraph [ref=e26]: We're building production-grade agentic systems that audit medical claims end-to-end — reading raw medical records, reasoning over coding and clinical guidelines, and producing defensible findings that hold up to clinical and regulatory review. Reaching human-expert accuracy on noisy, long-context documents is one of the hardest unsolved problems in applied AI, and the field is moving weekly.
+            - paragraph [ref=e27]: We're hiring an L4 AI Engineer who can step into an ambiguous problem, design an agent system from scratch, and ship it. You won't be plugging into someone else's architecture — you'll be deciding what the architecture should be.
+            - paragraph [ref=e28]:
+              - strong [ref=e29]: What You'll Do
+            - paragraph [ref=e30]:
+              - text: "- Design agent systems from first principles. Decide the loop, the tools, the context strategy, the evaluation harness. Choose between single-agent and multi-agent topologies, between LLM reasoning and deterministic post-passes, between retrieval and direct context loading — and defend the choice with data."
+              - text: "- Engineer the context. The hardest part of building a good agent is what goes into the prompt and what comes out. You'll obsess over context windows, tool surfaces, structured outputs, citation grounding, and the prompt itself."
+              - text: "- Drive evaluation rigor. Build evals before you build the agent. Diagnose where it fails, fix the root cause, and prove the fix moved the metric."
+              - text: "- Use AI tooling like a power user. A meaningful fraction of your day will be spent driving Claude Code, Codex, and similar tools to plan, scaffold, refactor, and debug your own work. We expect you to be faster with these tools than most engineers are without them."
+              - text: "- Become a domain expert. Healthcare claims, coding guidelines, and the medical record itself are unavoidable parts of the job. Strong engineers who lean into the domain become outsized contributors here."
+            - paragraph [ref=e31]:
+              - strong [ref=e32]: What We're Looking For
+            - paragraph [ref=e33]:
+              - strong [ref=e34]: Required
+            - paragraph [ref=e35]:
+              - text: "- 2–4 years of applied ML / AI engineering experience with a Bachelor's in CS, Math, Engineering or equivalent — or a Master's in a similar program with no prior industry experience required. Either way, at least one production-quality system (industry, research, or substantial open-source) you owned end-to-end."
+              - text: "- Strong Python engineering. Clean abstractions, type discipline, async, tested code."
+              - text: "- Deep, hands-on understanding of agent loops — how a model decides to call a tool, how a tool result re-enters context, how loops terminate, where they fail."
+              - text: "- Hands-on experience with at least one major agent SDK — OpenAI Agents SDK, Anthropic SDK / claude-agent-sdk, LangGraph, or equivalent — and an opinion on the tradeoffs."
+              - text: "- Working knowledge of how modern coding agents are built and how they engineer context — what goes in the system prompt, how files are read and edited, how long-running tasks are planned and tracked, where they break."
+              - text: "- Fluency with Claude Code / Codex as a power user. You should be able to brainstorm, plan, and execute non-trivial engineering tasks with these tools — including reading their source when needed to understand or extend behavior."
+              - text: "- Solid command of VS Code and git — branches, rebases, worktrees, conflict resolution, PR workflows. Not optional."
+              - text: "- A bias toward measurement: you don't ship without an eval, and you don't believe a number you can't reproduce."
+            - paragraph [ref=e36]:
+              - strong [ref=e37]: Strongly preferred
+            - paragraph [ref=e38]:
+              - text: "- Experience designing structured outputs (Pydantic / JSON Schema) and tool interfaces that LLMs reliably call correctly."
+              - text: "- Familiarity with reasoning models (o-series, Claude extended thinking, Gemini thinking) and a sense of when they earn their cost."
+              - text: "- Prior work on long-context, citation-grounded systems where the model must point to evidence, not just answer."
+              - text: "- Healthcare, legal, finance, or any other domain where \"mostly right\" is unacceptable."
+            - paragraph [ref=e39]:
+              - strong [ref=e40]: Nice to have
+            - paragraph [ref=e41]:
+              - text: "- Document understanding (OCR, layout-aware models, table extraction)."
+              - text: "- Vision-language models, multimodal retrieval."
+              - text: "- Production experience with caching, observability, and cost control on LLM workloads."
+            - paragraph [ref=e42]:
+              - strong [ref=e43]: What We Offer
+            - list [ref=e44]:
+              - listitem [ref=e45]: Work from anywhere in the US! Machinify is digital-first.
+              - listitem [ref=e46]: Top Medical/Dental/Vision offerings
+              - listitem [ref=e47]: FSA/HSA
+              - listitem [ref=e48]: Tuition reimbursement
+              - listitem [ref=e49]: Competitive salary, 401(k) with company match
+              - listitem [ref=e50]: Unlimited PTO
+              - listitem [ref=e51]: Additional health and wellness benefits and perks
+              - listitem [ref=e52]: Flexible and trusting environment where you’ll feel empowered to do your best work
+            - paragraph [ref=e53]: "The salary for this position is based on an array of factors unique to each candidate: Such as years and depth of experience, set skills, certifications, etc. We are hiring for different levels and the base salary can range from $130k-$200k+ based on your assessed level. Compensation also includes meaningful equity, healthcare, unlimited PTO, and more."
+          - generic [ref=e54]:
+            - strong [ref=e57]: Equal Employment Opportunity at Machinify
+            - generic [ref=e60]:
+              - text: "We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace. Machinify is an employment at will employer. We participate in E-Verify as required by applicable law. In accordance with applicable state laws, we do not inquire about salary history during the recruitment process. If you require a reasonable accommodation to complete any part of the application or recruitment process, please let our recruiters know. See our Candidate Privacy Notice at:"
+              - link "https://www.machinify.com/candidate-privacy-notice/" [ref=e62] [cursor=pointer]:
+                - /url: https://www.machinify.com/candidate-privacy-notice/
+      - separator [ref=e63]
+      - generic [ref=e64]:
+        - generic [ref=e65]:
+          - generic [ref=e66]:
+            - heading "Apply for this job" [level=2] [ref=e68]
+            - generic [ref=e69]:
+              - paragraph [ref=e71]: "*"
+              - paragraph [ref=e72]: indicates a required field
+          - button "Quick Apply with MyGreenhouse" [ref=e75] [cursor=pointer]
+        - generic [ref=e76]:
+          - generic [ref=e77]:
+            - generic [ref=e80]:
+              - generic [ref=e81]: First Name*
+              - textbox "First Name" [ref=e82]
+            - generic [ref=e85]:
+              - generic [ref=e86]: Last Name*
+              - textbox "Last Name" [ref=e87]
+            - generic [ref=e90]:
+              - generic [ref=e91]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e92]
+            - generic [ref=e95]:
+              - generic [ref=e96]: Email*
+              - textbox "Email" [ref=e97]
+            - group "Phone" [ref=e99]:
+              - generic [ref=e100]: Phone
+              - generic [ref=e103]:
+                - generic [ref=e104]: Country*
+                - generic [ref=e105]:
+                  - log [ref=e107]
+                  - generic [ref=e109]:
+                    - combobox "Country" [ref=e112]
+                    - button "Toggle flyout" [ref=e114] [cursor=pointer]:
+                      - img [ref=e115]
+                  - textbox
+              - generic [ref=e119]:
+                - generic [ref=e120]: Phone*
+                - textbox "Phone" [ref=e121]
+            - group "Resume/CV*" [ref=e123]:
+              - generic [ref=e124]: Resume/CV*
+              - generic [ref=e126]:
+                - generic [ref=e128]:
+                  - button "Attach" [ref=e129] [cursor=pointer]
+                  - generic [ref=e130]: Attach
+                  - button "Attach" [ref=e131]
+                - button "Dropbox" [ref=e133] [cursor=pointer]
+                - button "Google Drive" [ref=e135] [cursor=pointer]
+                - generic [ref=e137]:
+                  - button "Enter manually" [ref=e138] [cursor=pointer]
+                  - generic [ref=e139]: Enter manually
+                - paragraph [ref=e140]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e141]:
+            - separator [ref=e142]
+            - generic [ref=e145]:
+              - generic [ref=e146]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e147]
+            - generic [ref=e150]:
+              - generic [ref=e151]: Phone number*
+              - textbox "Phone number" [ref=e152]
+            - generic [ref=e153]:
+              - generic [ref=e155]:
+                - generic [ref=e156]: Additional links (optional)
+                - textbox "Additional links (optional)" [ref=e157]
+              - paragraph [ref=e160]: Share any relevant links you'd like us to review here, such as your GitHub, personal website, online portfolio, or other professional profiles.
+            - generic [ref=e163]:
+              - generic [ref=e164]: Did an employee refer you to apply? *
+              - generic [ref=e165]:
+                - log [ref=e167]
+                - generic [ref=e169]:
+                  - generic [ref=e170]:
+                    - generic [ref=e171]: Select...
+                    - combobox "Did an employee refer you to apply?" [ref=e173]
+                  - button "Toggle flyout" [ref=e175] [cursor=pointer]:
+                    - img [ref=e176]
+                - textbox
+            - generic [ref=e180]:
+              - generic [ref=e181]: If yes, please enter the name of the person who referred you.
+              - textbox "If yes, please enter the name of the person who referred you." [ref=e182]
+            - generic [ref=e185]:
+              - generic [ref=e186]: Are you legally authorized to work in the United States for any employer?*
+              - generic [ref=e187]:
+                - log [ref=e189]
+                - generic [ref=e191]:
+                  - generic [ref=e192]:
+                    - generic [ref=e193]: Select...
+                    - combobox "Are you legally authorized to work in the United States for any employer?" [ref=e195]
+                  - button "Toggle flyout" [ref=e197] [cursor=pointer]:
+                    - img [ref=e198]
+                - textbox
+            - generic [ref=e202]:
+              - generic [ref=e203]: Do you or will you require sponsorship for a US employment visa?*
+              - generic [ref=e204]:
+                - log [ref=e206]
+                - generic [ref=e208]:
+                  - generic [ref=e209]:
+                    - generic [ref=e210]: Select...
+                    - combobox "Do you or will you require sponsorship for a US employment visa?" [ref=e212]
+                  - button "Toggle flyout" [ref=e214] [cursor=pointer]:
+                    - img [ref=e215]
+                - textbox
+            - generic [ref=e219]:
+              - generic [ref=e220]: I currently reside in the United States.*
+              - generic [ref=e221]:
+                - log [ref=e223]
+                - generic [ref=e225]:
+                  - generic [ref=e226]:
+                    - generic [ref=e227]: Select...
+                    - combobox "I currently reside in the United States." [ref=e229]
+                  - button "Toggle flyout" [ref=e231] [cursor=pointer]:
+                    - img [ref=e232]
+                - textbox
+          - generic [ref=e234]:
+            - separator [ref=e235]
+            - generic [ref=e236]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e237]
+              - paragraph [ref=e238]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e239]: As set forth in Machinify’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e242]:
+              - generic [ref=e243]: Gender
+              - generic [ref=e244]:
+                - log [ref=e246]
+                - generic [ref=e248]:
+                  - generic [ref=e249]:
+                    - generic [ref=e250]: Select...
+                    - combobox "Gender" [ref=e252]
+                  - button "Toggle flyout" [ref=e254] [cursor=pointer]:
+                    - img [ref=e255]
+            - generic [ref=e257]:
+              - generic [ref=e259]:
+                - generic [ref=e260]: Are you Hispanic/Latino?
+                - generic [ref=e261]:
+                  - log [ref=e263]
+                  - generic [ref=e265]:
+                    - generic [ref=e266]:
+                      - generic [ref=e267]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e269]
+                    - button "Toggle flyout" [ref=e271] [cursor=pointer]:
+                      - img [ref=e272]
+              - link "Race & Ethnicity Definitions" [ref=e274] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e275]:
+              - paragraph [ref=e276]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e277]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e278]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e279]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e280]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e283]:
+              - generic [ref=e284]: Veteran Status
+              - generic [ref=e285]:
+                - log [ref=e287]
+                - generic [ref=e289]:
+                  - generic [ref=e290]:
+                    - generic [ref=e291]: Select...
+                    - combobox "Veteran Status" [ref=e293]
+                  - button "Toggle flyout" [ref=e295] [cursor=pointer]:
+                    - img [ref=e296]
+            - separator [ref=e298]
+            - generic [ref=e299]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e300]
+              - generic [ref=e301]:
+                - generic [ref=e302]:
+                  - generic [ref=e303]: Form CC-305
+                  - generic [ref=e304]: Page 1 of 1
+                - generic [ref=e305]:
+                  - generic [ref=e306]: OMB Control Number 1250-0005
+                  - generic [ref=e307]: Expires 04/30/2026
+              - strong [ref=e308]: Why are you being asked to complete this form?
+              - paragraph [ref=e309]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e310]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e311] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e312]: How do you know if you have a disability?
+              - paragraph [ref=e313]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e314]: "Disabilities include, but are not limited to:"
+              - list [ref=e315]:
+                - listitem [ref=e316]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e317]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e318]: Blind or low vision
+                - listitem [ref=e319]: Cancer (past or present)
+                - listitem [ref=e320]: Cardiovascular or heart disease
+                - listitem [ref=e321]: Celiac disease
+                - listitem [ref=e322]: Cerebral palsy
+                - listitem [ref=e323]: Deaf or serious difficulty hearing
+                - listitem [ref=e324]: Diabetes
+                - listitem [ref=e325]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e326]: Epilepsy or other seizure disorder
+                - listitem [ref=e327]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e328]: Intellectual or developmental disability
+                - listitem [ref=e329]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e330]: Missing limbs or partially missing limbs
+                - listitem [ref=e331]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e332]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e333]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e334]: Partial or complete paralysis (any cause)
+                - listitem [ref=e335]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e336]: Short stature (dwarfism)
+                - listitem [ref=e337]: Traumatic brain injury
+            - generic [ref=e340]:
+              - generic [ref=e341]: Disability Status
+              - generic [ref=e342]:
+                - log [ref=e344]
+                - generic [ref=e346]:
+                  - generic [ref=e347]:
+                    - generic [ref=e348]: Select...
+                    - combobox "Disability Status" [ref=e350]
+                  - button "Toggle flyout" [ref=e352] [cursor=pointer]:
+                    - img [ref=e353]
+            - paragraph [ref=e356]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e358] [cursor=pointer]
+  - contentinfo [ref=e359]:
+    - generic [ref=e360]:
+      - paragraph [ref=e361]: Powered by
+      - link "Greenhouse logo" [ref=e362] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e363]
+  - iframe [ref=e378]:
+    - generic [ref=f15e6]:
+      - text: protected by
+      - strong [ref=f15e7]: reCAPTCHA

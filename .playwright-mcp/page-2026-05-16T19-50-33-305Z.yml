@@ -1,0 +1,96 @@
+- generic [active] [ref=e1]:
+  - dialog "cookieconsent" [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: 🍪
+      - heading "Privacy Notice" [level=4] [ref=e6]
+      - paragraph [ref=e7]: This website uses cookies to improve your web experience. By using the site, you agree to the use of cookies.
+      - button "Dismiss" [ref=e9] [cursor=pointer]
+  - generic [ref=e13]:
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - heading "Software Engineer (AI Platform)" [level=2] [ref=e17]
+        - generic [ref=e18]:
+          - generic [ref=e19]: United States, Remote
+          - generic [ref=e20]: Engineering and Product Development /
+          - generic [ref=e21]: Full-time /
+          - generic [ref=e22]: Remote
+      - link "apply for this job" [ref=e24] [cursor=pointer]:
+        - /url: https://jobs.lever.co/conversica/765d2754-a07a-4a83-8a9d-fc25b80d73c3/apply
+    - generic [ref=e25]:
+      - generic [ref=e27]:
+        - paragraph [ref=e28]: Conversica is building the next generation of our conversational AI platform, and we’re looking for a Software Engineer to help us expand and scale our backend systems. Our platform powers automated, human-like conversations across email, SMS, and chat, helping businesses engage customers and qualify opportunities through AI-driven interactions.
+        - paragraph [ref=e29]: In this role, you’ll work closely with experienced engineers to build backend services, APIs, and infrastructure that support AI-powered systems used in real production environments. This role is well suited for early-career engineers who enjoy backend development and are excited about building practical AI applications.
+      - generic [ref=e31]:
+        - heading "What You'll Do" [level=3] [ref=e32]
+        - list [ref=e35]:
+          - listitem [ref=e36]:
+            - paragraph [ref=e37]: Build and improve backend services that power our conversational AI platform
+          - listitem [ref=e38]:
+            - paragraph [ref=e39]: Develop APIs and integrations with internal systems and external data sources
+          - listitem [ref=e40]:
+            - paragraph [ref=e41]: Work with modern AI technologies and large language models (LLMs) in production environments
+          - listitem [ref=e42]:
+            - paragraph [ref=e43]: Design and implement scalable cloud infrastructure and data pipelines
+          - listitem [ref=e44]:
+            - paragraph [ref=e45]: Collaborate with engineers, product managers, and data scientists to ship new features
+          - listitem [ref=e46]:
+            - paragraph [ref=e47]: Contribute to system reliability, performance improvements, and monitoring
+      - generic [ref=e49]:
+        - heading "Technologies We Use" [level=3] [ref=e50]
+        - list [ref=e54]:
+          - listitem [ref=e55]:
+            - paragraph [ref=e56]: Python
+          - listitem [ref=e57]:
+            - paragraph [ref=e58]: Backend web frameworks and APIs
+          - listitem [ref=e59]:
+            - paragraph [ref=e60]: AWS cloud infrastructure
+          - listitem [ref=e61]:
+            - paragraph [ref=e62]: PostgreSQL and distributed data systems
+          - listitem [ref=e63]:
+            - paragraph [ref=e64]: Modern AI tools and large language models (LLMs)
+      - generic [ref=e66]:
+        - heading "What We’re Looking For" [level=3] [ref=e67]
+        - list [ref=e71]:
+          - listitem [ref=e72]:
+            - paragraph [ref=e73]: Bachelor’s degree in Computer Science, Engineering, or a related technical field (or equivalent experience)
+          - listitem [ref=e74]:
+            - paragraph [ref=e75]: Experience programming in Python or a similar backend language
+          - listitem [ref=e76]:
+            - paragraph [ref=e77]: Familiarity with backend services, APIs, or distributed systems
+          - listitem [ref=e78]:
+            - paragraph [ref=e79]: Interest in artificial intelligence, machine learning, or intelligent systems
+          - listitem [ref=e80]:
+            - paragraph [ref=e81]: Strong problem-solving skills and curiosity to learn
+      - generic [ref=e83]:
+        - heading "Nice to Have" [level=3] [ref=e84]
+        - list [ref=e88]:
+          - listitem [ref=e89]:
+            - paragraph [ref=e90]: Experience working with AWS or other cloud platforms
+          - listitem [ref=e91]:
+            - paragraph [ref=e92]: Internship or project experience building backend applications
+          - listitem [ref=e93]:
+            - paragraph [ref=e94]: Experience working with APIs, data pipelines, or distributed systems
+          - listitem [ref=e95]:
+            - paragraph [ref=e96]: Personal or academic projects involving AI or machine learning
+      - generic [ref=e98]:
+        - heading "Why Join Conversica" [level=3] [ref=e99]
+        - list [ref=e103]:
+          - listitem [ref=e104]:
+            - paragraph [ref=e105]: Work on real AI systems used by businesses worldwide
+          - listitem [ref=e106]:
+            - paragraph [ref=e107]: Join a collaborative engineering team building modern AI infrastructure
+          - listitem [ref=e108]:
+            - paragraph [ref=e109]: Gain hands-on experience with production systems and applied AI
+          - listitem [ref=e110]:
+            - paragraph [ref=e111]: Fully remote team with opportunities for learning and growth
+      - generic [ref=e113]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e115] [cursor=pointer]:
+        - /url: https://jobs.lever.co/conversica/765d2754-a07a-4a83-8a9d-fc25b80d73c3/apply
+  - generic [ref=e117]:
+    - paragraph [ref=e118]:
+      - link "Conversica Home Page" [ref=e119] [cursor=pointer]:
+        - /url: https://www.conversica.com
+    - link "Jobs powered by Lever logo" [ref=e120] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e121]: Jobs powered by
+      - img "Lever logo" [ref=e122]

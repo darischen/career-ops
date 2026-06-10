@@ -1,0 +1,51 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]: .
+    - generic [ref=e4]: ..
+    - generic [ref=e5]: .
+  - generic [ref=e7]:
+    - link "Skip to main content." [ref=e539] [cursor=pointer]:
+      - /url: "#main"
+    - generic:
+      - alert
+    - generic [ref=e451]:
+      - banner [ref=e453]:
+        - generic [ref=e455]:
+          - button "Back to Job Details" [ref=e540] [cursor=pointer]:
+            - generic [ref=e457]: 
+          - generic [ref=e459]:
+            - generic [ref=e460]: Software Development Engineer I
+            - generic [ref=e461]: ...
+      - main "Job application form" [ref=e541]:
+        - heading "Job application form" [level=1] [ref=e542]
+        - generic [ref=e466]:
+          - heading "Authentication screen. You don't need to have an account" [level=1] [ref=e543]:
+            - generic: Authentication screen.
+            - text: You don't need to have an account
+          - generic [ref=e469]:
+            - paragraph [ref=e470]: Get started right away by using your email or phone number. Your profile will be created and kept up to date automatically as you enter details for each of your job applications.
+            - generic [ref=e472]:
+              - generic [ref=e473]:
+                - generic "Email Address" [ref=e544]:
+                  - generic [ref=e476]: Email Address
+                  - generic [ref=e477]: "*"
+                - textbox "Email Address" [ref=e545]: daris.chen@gmail.com
+              - generic:
+                - generic [ref=e481]: honeypot
+                - textbox [ref=e483]
+              - generic [ref=e484]:
+                - text: This is how we'll communicate with you.
+                - button "Do you want to communicate by phone instead?" [ref=e546] [cursor=pointer]
+              - generic [ref=e487]:
+                - checkbox "I agree with the terms and conditions" [checked]
+                - generic [ref=e490] [cursor=pointer]:
+                  - generic [ref=e492]:
+                    - text: I agree with the
+                    - link "terms and conditions" [active] [ref=e547]:
+                      - /url: "#"
+                  - generic [ref=e494]: "*"
+          - generic [ref=e495]:
+            - button "Cancel" [ref=e548] [cursor=pointer]:
+              - generic [ref=e498]: Cancel
+            - button "Next" [ref=e549] [cursor=pointer]:
+              - generic [ref=e500]: Next

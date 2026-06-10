@@ -1,0 +1,344 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - heading "Current openings at ZipRecruiter" [level=1] [ref=e4]
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - generic [ref=e9]:
+            - generic [ref=e10]: Search
+            - textbox "Search" [ref=e11]
+          - generic [ref=e13]:
+            - generic [ref=e14]: Department
+            - generic [ref=e15]:
+              - log [ref=e17]
+              - generic [ref=e19]:
+                - generic [ref=e20]:
+                  - generic [ref=e21]: Select...
+                  - combobox "Department" [ref=e23]
+                - button "Toggle flyout" [ref=e25] [cursor=pointer]:
+                  - img [ref=e26]
+          - generic [ref=e29]:
+            - generic [ref=e30]: Office
+            - generic [ref=e31]:
+              - log [ref=e33]
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - generic [ref=e37]: Select...
+                  - combobox "Office" [ref=e39]
+                - button "Toggle flyout" [ref=e41] [cursor=pointer]:
+                  - img [ref=e42]
+        - generic [ref=e44]:
+          - heading "35 jobs" [level=2] [ref=e45]
+          - generic [ref=e46]:
+            - generic [ref=e47]:
+              - heading "120 People" [level=3] [ref=e48]
+              - table [ref=e50]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e51]:
+                      - paragraph [ref=e52]: Job
+                - rowgroup [ref=e53]:
+                  - row "People Business Partner III, Engineering & Product Santa Monica, CA/Remote" [ref=e54]:
+                    - cell "People Business Partner III, Engineering & Product Santa Monica, CA/Remote" [ref=e55]:
+                      - link "People Business Partner III, Engineering & Product Santa Monica, CA/Remote" [ref=e56] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7913937
+                        - paragraph [ref=e57]: People Business Partner III, Engineering & Product
+                        - paragraph [ref=e58]: Santa Monica, CA/Remote
+            - generic [ref=e59]:
+              - heading "320 Enterprise Account Management" [level=3] [ref=e60]
+              - table [ref=e62]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e63]:
+                      - paragraph [ref=e64]: Job
+                - rowgroup [ref=e65]:
+                  - row "Enterprise Account Manager, Staffing Los Angeles, California" [ref=e66]:
+                    - cell "Enterprise Account Manager, Staffing Los Angeles, California" [ref=e67]:
+                      - link "Enterprise Account Manager, Staffing Los Angeles, California" [ref=e68] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7624253
+                        - paragraph [ref=e69]: Enterprise Account Manager, Staffing
+                        - paragraph [ref=e70]: Los Angeles, California
+            - generic [ref=e71]:
+              - heading "405 Revenue Operations" [level=3] [ref=e72]
+              - table [ref=e74]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e75]:
+                      - paragraph [ref=e76]: Job
+                - rowgroup [ref=e77]:
+                  - row "Sr. Revenue Operations Business Analyst Santa Monica, CA/Remote" [ref=e78]:
+                    - cell "Sr. Revenue Operations Business Analyst Santa Monica, CA/Remote" [ref=e79]:
+                      - link "Sr. Revenue Operations Business Analyst Santa Monica, CA/Remote" [ref=e80] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7905434
+                        - paragraph [ref=e81]: Sr. Revenue Operations Business Analyst
+                        - paragraph [ref=e82]: Santa Monica, CA/Remote
+                  - row "Sr. Revenue Operations Business Analyst tags.new New York, NY/Remote" [ref=e83]:
+                    - cell "Sr. Revenue Operations Business Analyst tags.new New York, NY/Remote" [ref=e84]:
+                      - link "Sr. Revenue Operations Business Analyst tags.new New York, NY/Remote" [ref=e85] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7947899
+                        - paragraph [ref=e86]:
+                          - text: Sr. Revenue Operations Business Analyst
+                          - generic [ref=e88]: tags.new
+                        - paragraph [ref=e89]: New York, NY/Remote
+            - generic [ref=e90]:
+              - heading "410 Sales Engineering" [level=3] [ref=e91]
+              - table [ref=e93]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e94]:
+                      - paragraph [ref=e95]: Job
+                - rowgroup [ref=e96]:
+                  - row "Sales Engineer Remote" [ref=e97]:
+                    - cell "Sales Engineer Remote" [ref=e98]:
+                      - link "Sales Engineer Remote" [ref=e99] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7767630
+                        - paragraph [ref=e100]: Sales Engineer
+                        - paragraph [ref=e101]: Remote
+                  - row "Sales Engineer Austin, TX" [ref=e102]:
+                    - cell "Sales Engineer Austin, TX" [ref=e103]:
+                      - link "Sales Engineer Austin, TX" [ref=e104] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7767633
+                        - paragraph [ref=e105]: Sales Engineer
+                        - paragraph [ref=e106]: Austin, TX
+                  - row "Sales Engineer New York, NY" [ref=e107]:
+                    - cell "Sales Engineer New York, NY" [ref=e108]:
+                      - link "Sales Engineer New York, NY" [ref=e109] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7767632
+                        - paragraph [ref=e110]: Sales Engineer
+                        - paragraph [ref=e111]: New York, NY
+                  - row "Sales Engineer Chicago, IL" [ref=e112]:
+                    - cell "Sales Engineer Chicago, IL" [ref=e113]:
+                      - link "Sales Engineer Chicago, IL" [ref=e114] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7767634
+                        - paragraph [ref=e115]: Sales Engineer
+                        - paragraph [ref=e116]: Chicago, IL
+                  - row "Sales Engineer Phoenix, AZ" [ref=e117]:
+                    - cell "Sales Engineer Phoenix, AZ" [ref=e118]:
+                      - link "Sales Engineer Phoenix, AZ" [ref=e119] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7767643
+                        - paragraph [ref=e120]: Sales Engineer
+                        - paragraph [ref=e121]: Phoenix, AZ
+                  - row "Sales Engineer Denver, CO" [ref=e122]:
+                    - cell "Sales Engineer Denver, CO" [ref=e123]:
+                      - link "Sales Engineer Denver, CO" [ref=e124] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7767635
+                        - paragraph [ref=e125]: Sales Engineer
+                        - paragraph [ref=e126]: Denver, CO
+                  - row "Sales Engineer, Enterprise New York, NY" [ref=e127]:
+                    - cell "Sales Engineer, Enterprise New York, NY" [ref=e128]:
+                      - link "Sales Engineer, Enterprise New York, NY" [ref=e129] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7354399
+                        - paragraph [ref=e130]: Sales Engineer, Enterprise
+                        - paragraph [ref=e131]: New York, NY
+                  - row "Sales Engineer, Enterprise Austin, TX" [ref=e132]:
+                    - cell "Sales Engineer, Enterprise Austin, TX" [ref=e133]:
+                      - link "Sales Engineer, Enterprise Austin, TX" [ref=e134] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7354400
+                        - paragraph [ref=e135]: Sales Engineer, Enterprise
+                        - paragraph [ref=e136]: Austin, TX
+                  - row "Sales Engineer, Enterprise Dallas, TX" [ref=e137]:
+                    - cell "Sales Engineer, Enterprise Dallas, TX" [ref=e138]:
+                      - link "Sales Engineer, Enterprise Dallas, TX" [ref=e139] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7354401
+                        - paragraph [ref=e140]: Sales Engineer, Enterprise
+                        - paragraph [ref=e141]: Dallas, TX
+                  - row "Sales Engineer, Enterprise San Jose, CA" [ref=e142]:
+                    - cell "Sales Engineer, Enterprise San Jose, CA" [ref=e143]:
+                      - link "Sales Engineer, Enterprise San Jose, CA" [ref=e144] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7354402
+                        - paragraph [ref=e145]: Sales Engineer, Enterprise
+                        - paragraph [ref=e146]: San Jose, CA
+                  - row "Sales Engineer, Enterprise Boston, MA" [ref=e147]:
+                    - cell "Sales Engineer, Enterprise Boston, MA" [ref=e148]:
+                      - link "Sales Engineer, Enterprise Boston, MA" [ref=e149] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7354406
+                        - paragraph [ref=e150]: Sales Engineer, Enterprise
+                        - paragraph [ref=e151]: Boston, MA
+                  - row "Sales Engineer, Enterprise Los Angeles, CA" [ref=e152]:
+                    - cell "Sales Engineer, Enterprise Los Angeles, CA" [ref=e153]:
+                      - link "Sales Engineer, Enterprise Los Angeles, CA" [ref=e154] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7354409
+                        - paragraph [ref=e155]: Sales Engineer, Enterprise
+                        - paragraph [ref=e156]: Los Angeles, CA
+            - generic [ref=e157]:
+              - heading "415 Enterprise Sales" [level=3] [ref=e158]
+              - table [ref=e160]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e161]:
+                      - paragraph [ref=e162]: Job
+                - rowgroup [ref=e163]:
+                  - row "Enterprise, Account Executive Los Angeles" [ref=e164]:
+                    - cell "Enterprise, Account Executive Los Angeles" [ref=e165]:
+                      - link "Enterprise, Account Executive Los Angeles" [ref=e166] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7858982
+                        - paragraph [ref=e167]: Enterprise, Account Executive
+                        - paragraph [ref=e168]: Los Angeles
+            - generic [ref=e169]:
+              - heading "460 ISO - New Logo Sales" [level=3] [ref=e170]
+              - table [ref=e172]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e173]:
+                      - paragraph [ref=e174]: Job
+                - rowgroup [ref=e175]:
+                  - row "Inside Sales - Account Executive, Acquisition Phoenix, Arizona" [ref=e176]:
+                    - cell "Inside Sales - Account Executive, Acquisition Phoenix, Arizona" [ref=e177]:
+                      - link "Inside Sales - Account Executive, Acquisition Phoenix, Arizona" [ref=e178] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7714442
+                        - paragraph [ref=e179]: Inside Sales - Account Executive, Acquisition
+                        - paragraph [ref=e180]: Phoenix, Arizona
+                  - row "Inside Sales - Associate Account Executive Phoenix, AZ" [ref=e181]:
+                    - cell "Inside Sales - Associate Account Executive Phoenix, AZ" [ref=e182]:
+                      - link "Inside Sales - Associate Account Executive Phoenix, AZ" [ref=e183] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/6249261
+                        - paragraph [ref=e184]: Inside Sales - Associate Account Executive
+                        - paragraph [ref=e185]: Phoenix, AZ
+            - generic [ref=e186]:
+              - heading "505 Operations and Compliance" [level=3] [ref=e187]
+              - table [ref=e189]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e190]:
+                      - paragraph [ref=e191]: Job
+                - rowgroup [ref=e192]:
+                  - row "Trust & Safety Associate Phoenix, AZ" [ref=e193]:
+                    - cell "Trust & Safety Associate Phoenix, AZ" [ref=e194]:
+                      - link "Trust & Safety Associate Phoenix, AZ" [ref=e195] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7168926
+                        - paragraph [ref=e196]: Trust & Safety Associate
+                        - paragraph [ref=e197]: Phoenix, AZ
+            - generic [ref=e198]:
+              - heading "610 Product" [level=3] [ref=e199]
+              - table [ref=e201]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e202]:
+                      - paragraph [ref=e203]: Job
+                - rowgroup [ref=e204]:
+                  - row "Director of Product Management, Acquisition and Search tags.new Santa Monica, CA/Remote" [ref=e205]:
+                    - cell "Director of Product Management, Acquisition and Search tags.new Santa Monica, CA/Remote" [ref=e206]:
+                      - link "Director of Product Management, Acquisition and Search tags.new Santa Monica, CA/Remote" [ref=e207] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7954725
+                        - paragraph [ref=e208]:
+                          - text: Director of Product Management, Acquisition and Search
+                          - generic [ref=e210]: tags.new
+                        - paragraph [ref=e211]: Santa Monica, CA/Remote
+            - generic [ref=e212]:
+              - heading "710 Tech" [level=3] [ref=e213]
+              - table [ref=e215]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e216]:
+                      - paragraph [ref=e217]: Job
+                - rowgroup [ref=e218]:
+                  - row "Senior Software Engineer, Big Data Santa Monica, CA" [ref=e219]:
+                    - cell "Senior Software Engineer, Big Data Santa Monica, CA" [ref=e220]:
+                      - link "Senior Software Engineer, Big Data Santa Monica, CA" [ref=e221] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/6530760
+                        - paragraph [ref=e222]: Senior Software Engineer, Big Data
+                        - paragraph [ref=e223]: Santa Monica, CA
+                  - row "Senior Software Engineer, Big Data Palo Alto, CA" [ref=e224]:
+                    - cell "Senior Software Engineer, Big Data Palo Alto, CA" [ref=e225]:
+                      - link "Senior Software Engineer, Big Data Palo Alto, CA" [ref=e226] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/6557024
+                        - paragraph [ref=e227]: Senior Software Engineer, Big Data
+                        - paragraph [ref=e228]: Palo Alto, CA
+                  - row "Senior Software Engineer, Big Data Seattle, WA" [ref=e229]:
+                    - cell "Senior Software Engineer, Big Data Seattle, WA" [ref=e230]:
+                      - link "Senior Software Engineer, Big Data Seattle, WA" [ref=e231] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/6557032
+                        - paragraph [ref=e232]: Senior Software Engineer, Big Data
+                        - paragraph [ref=e233]: Seattle, WA
+                  - row "Senior Software Engineer, Full Stack Santa Monica, CA" [ref=e234]:
+                    - cell "Senior Software Engineer, Full Stack Santa Monica, CA" [ref=e235]:
+                      - link "Senior Software Engineer, Full Stack Santa Monica, CA" [ref=e236] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/6530780
+                        - paragraph [ref=e237]: Senior Software Engineer, Full Stack
+                        - paragraph [ref=e238]: Santa Monica, CA
+                  - row "Senior Software Engineer, Full Stack Palo Alto, CA" [ref=e239]:
+                    - cell "Senior Software Engineer, Full Stack Palo Alto, CA" [ref=e240]:
+                      - link "Senior Software Engineer, Full Stack Palo Alto, CA" [ref=e241] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/6556954
+                        - paragraph [ref=e242]: Senior Software Engineer, Full Stack
+                        - paragraph [ref=e243]: Palo Alto, CA
+                  - row "Senior Software Engineer, Machine Learning Remote" [ref=e244]:
+                    - cell "Senior Software Engineer, Machine Learning Remote" [ref=e245]:
+                      - link "Senior Software Engineer, Machine Learning Remote" [ref=e246] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/5167472
+                        - paragraph [ref=e247]: Senior Software Engineer, Machine Learning
+                        - paragraph [ref=e248]: Remote
+                  - row "Senior Software Engineer, Machine Learning Santa Monica, CA" [ref=e249]:
+                    - cell "Senior Software Engineer, Machine Learning Santa Monica, CA" [ref=e250]:
+                      - link "Senior Software Engineer, Machine Learning Santa Monica, CA" [ref=e251] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/5167470
+                        - paragraph [ref=e252]: Senior Software Engineer, Machine Learning
+                        - paragraph [ref=e253]: Santa Monica, CA
+                  - row "Senior Software Engineer, Site Reliability Los Angeles, CA" [ref=e254]:
+                    - cell "Senior Software Engineer, Site Reliability Los Angeles, CA" [ref=e255]:
+                      - link "Senior Software Engineer, Site Reliability Los Angeles, CA" [ref=e256] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/3425886
+                        - paragraph [ref=e257]: Senior Software Engineer, Site Reliability
+                        - paragraph [ref=e258]: Los Angeles, CA
+                  - row "Software Engineer III tags.new Santa Monica, CA" [ref=e259]:
+                    - cell "Software Engineer III tags.new Santa Monica, CA" [ref=e260]:
+                      - link "Software Engineer III tags.new Santa Monica, CA" [ref=e261] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7951866
+                        - paragraph [ref=e262]:
+                          - text: Software Engineer III
+                          - generic [ref=e264]: tags.new
+                        - paragraph [ref=e265]: Santa Monica, CA
+                  - row "Software Engineering Manager Santa Monica, CA" [ref=e266]:
+                    - cell "Software Engineering Manager Santa Monica, CA" [ref=e267]:
+                      - link "Software Engineering Manager Santa Monica, CA" [ref=e268] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/2447848
+                        - paragraph [ref=e269]: Software Engineering Manager
+                        - paragraph [ref=e270]: Santa Monica, CA
+                  - row "Staff Software Engineer, Machine Learning Santa Monica, CA" [ref=e271]:
+                    - cell "Staff Software Engineer, Machine Learning Santa Monica, CA" [ref=e272]:
+                      - link "Staff Software Engineer, Machine Learning Santa Monica, CA" [ref=e273] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/5167496
+                        - paragraph [ref=e274]: Staff Software Engineer, Machine Learning
+                        - paragraph [ref=e275]: Santa Monica, CA
+                  - row "Staff Software Engineer, Machine Learning Remote" [ref=e276]:
+                    - cell "Staff Software Engineer, Machine Learning Remote" [ref=e277]:
+                      - link "Staff Software Engineer, Machine Learning Remote" [ref=e278] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/5167480
+                        - paragraph [ref=e279]: Staff Software Engineer, Machine Learning
+                        - paragraph [ref=e280]: Remote
+            - generic [ref=e281]:
+              - heading "760 TechOps Research and Development" [level=3] [ref=e282]
+              - table [ref=e284]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e285]:
+                      - paragraph [ref=e286]: Job
+                - rowgroup [ref=e287]:
+                  - row "Software Engineer, Tech Ops Los Angeles, CA" [ref=e288]:
+                    - cell "Software Engineer, Tech Ops Los Angeles, CA" [ref=e289]:
+                      - link "Software Engineer, Tech Ops Los Angeles, CA" [ref=e290] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7927670
+                        - paragraph [ref=e291]: Software Engineer, Tech Ops
+                        - paragraph [ref=e292]: Los Angeles, CA
+            - generic [ref=e293]:
+              - heading "765 Decision Science" [level=3] [ref=e294]
+              - table [ref=e296]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e297]:
+                      - paragraph [ref=e298]: Job
+                - rowgroup [ref=e299]:
+                  - row "Decision Scientist II, Mobile tags.new Santa Monica, CA/Remote" [ref=e300]:
+                    - cell "Decision Scientist II, Mobile tags.new Santa Monica, CA/Remote" [ref=e301]:
+                      - link "Decision Scientist II, Mobile tags.new Santa Monica, CA/Remote" [ref=e302] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/ziprecruiter/jobs/7950373
+                        - paragraph [ref=e303]:
+                          - text: Decision Scientist II, Mobile
+                          - generic [ref=e305]: tags.new
+                        - paragraph [ref=e306]: Santa Monica, CA/Remote
+  - contentinfo [ref=e307]:
+    - generic [ref=e308]:
+      - paragraph [ref=e309]: Powered by
+      - link "Greenhouse logo" [ref=e310] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e311]

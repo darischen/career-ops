@@ -1,0 +1,135 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - banner [ref=e6]:
+        - link "ServiceNow logo" [ref=e8] [cursor=pointer]:
+          - /url: https://www.servicenow.com/
+          - img "ServiceNow logo" [ref=e9]
+      - main [ref=e10]:
+        - heading "Associate Software Engineer, Search Infrastructure - Moveworks" [level=1] [ref=e11]
+        - list [ref=e12]:
+          - listitem [ref=e13]:
+            - generic [ref=e17]: 1400 Terra Bella Avenue, 94043 Mountain View, CALIFORNIA, United States
+          - listitem [ref=e18]: Full-time
+          - listitem [ref=e19]: "Employee Type: Regular"
+          - listitem [ref=e20]: "Region: AMS - North America and Canada"
+          - listitem [ref=e21]: "Work Persona: Required in Office"
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - generic [ref=e24]:
+              - heading "Company Description" [level=2] [ref=e26]
+              - paragraph [ref=e28]: It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.
+            - generic [ref=e29]:
+              - heading "Job Description" [level=2] [ref=e31]
+              - list [ref=e33]:
+                - listitem [ref=e34]: Build out core infrastructure services and microservices that impact our machine learning, frontend, and platform teams.
+                - listitem [ref=e35]: "Build out core infrastructure for various functionalities such as: distributed configuration management, rate limiting, feature flag, A/B testing, and traffic capture and replay."
+                - listitem [ref=e36]: Improve the performance, scalability and observability of the Moveworks cloud infrastructure.
+                - listitem [ref=e37]: Deliver deadline sensitive work regularly that is interdependent with other engineering teams.
+                - listitem [ref=e38]: Own features end-to-end, and regularly influence the infrastructure roadmap.
+                - listitem [ref=e39]: This is a highly collaborative, in-person role, working cross functionally with Core and ML engineering teams, and more.
+            - generic [ref=e40]:
+              - heading "Qualifications" [level=2] [ref=e42]
+              - list [ref=e44]:
+                - listitem [ref=e45]: 0-3 years of experience
+                - listitem [ref=e46]: Familiarity with Python/Golang/Java/C++.
+                - listitem [ref=e47]: Experience with containers/Docker, and with cloud infrastructure like AWS/GCP/Azure.
+                - listitem [ref=e48]: Experience working with and operating open source technologies like Kafka, Elasticsearch or Opensearch, Istio, Vector DB, etc. at scale.
+                - listitem [ref=e49]: Desire to work at a startup pace with a high degree of ownership.
+                - listitem [ref=e50]: Experience solving for performance, optimization, scalability, latency, and monitoring.
+                - listitem [ref=e51]: Strong motivation, gumption, and an appetite for continuous, incremental changes and completing challenging projects quickly.
+                - listitem [ref=e52]: BS in computer science or a related field.
+                - listitem [ref=e53]: High level of curiosity about engineering outside of your immediate discipline and an incessant desire to learn.
+            - generic [ref=e54]:
+              - heading "Additional Information" [level=2] [ref=e56]
+              - generic [ref=e57]:
+                - paragraph [ref=e58]:
+                  - strong [ref=e59]: Work Personas
+                - paragraph [ref=e60]:
+                  - text: We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location.
+                  - link "Learn more here" [ref=e61] [cursor=pointer]:
+                    - /url: https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/other-document/careers/new-world-of-work-personas.pdf
+                  - text: . To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.
+                - paragraph [ref=e62]:
+                  - strong [ref=e63]: Equal Opportunity Employer
+                - paragraph [ref=e64]: ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.
+                - paragraph [ref=e65]:
+                  - strong [ref=e66]: Accommodations
+                - paragraph [ref=e67]:
+                  - text: We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact
+                  - link "globaltalentss@servicenow.com" [ref=e68] [cursor=pointer]:
+                    - /url: mailto:globaltalentss@servicenow.com
+                  - text: for assistance.
+                - paragraph [ref=e69]:
+                  - strong [ref=e70]: Export Control Regulations
+                - paragraph [ref=e71]: For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.
+                - paragraph [ref=e72]: From Fortune. ©2025 Fortune Media IP Limited. All rights reserved. Used under license.
+          - link "I'm interested" [ref=e74] [cursor=pointer]:
+            - /url: https://jobs.smartrecruiters.com/oneclick-ui/company/ServiceNow/publication/99c06c61-284f-4c2b-bd4d-1a7b53bf3fa4?dcr_ci=ServiceNow
+          - link "Privacy Notice" [ref=e76] [cursor=pointer]:
+            - /url: https://www.servicenow.com/applicant-privacy.html
+          - button "Cookies Settings" [ref=e78] [cursor=pointer]
+    - complementary [ref=e80]:
+      - generic [ref=e81]:
+        - link "I'm interested" [ref=e82] [cursor=pointer]:
+          - /url: https://jobs.smartrecruiters.com/oneclick-ui/company/ServiceNow/publication/99c06c61-284f-4c2b-bd4d-1a7b53bf3fa4?dcr_ci=ServiceNow
+        - link "Refer a friend" [ref=e83] [cursor=pointer]:
+          - /url: https://jobs.smartrecruiters.com/external-referrals/company/ServiceNow/publication/99c06c61-284f-4c2b-bd4d-1a7b53bf3fa4?dcr_ci=ServiceNow
+      - generic [ref=e84]:
+        - heading "share this job" [level=2] [ref=e85]
+        - list [ref=e86]:
+          - listitem [ref=e87]:
+            - link "Share on LinkedIn" [ref=e88] [cursor=pointer]:
+              - /url: https://www.linkedin.com/shareArticle?title=Associate%20Software%20Engineer%2C%20Search%20Infrastructure%20-%20Moveworks&mini=true&source=SmartRecruiters&summary=ServiceNow%20is%20looking%20for%3A%20Associate%20Software%20Engineer%2C%20Search%20Infrastructure%20-%20Moveworks%20in%201400%20Terra%20Bella%20Avenue%2C%2094043%20Mountain%20View%2C%20CALIFORNIA%2C%20United%20States.%20https%3A%2F%2Fjobs.smartrecruiters.com%2FServiceNow%2F744000123802354-associate-software-engineer-search-infrastructure-moveworks%3Ftrid%3D463ac537-35c8-4256-8fe4-47ea285de0a6&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FServiceNow%2F744000123802354-associate-software-engineer-search-infrastructure-moveworks%3Ftrid%3D463ac537-35c8-4256-8fe4-47ea285de0a6
+              - img [ref=e90]
+          - listitem [ref=e92]:
+            - link "Share on Facebook" [ref=e93] [cursor=pointer]:
+              - /url: http://www.facebook.com/sharer/sharer.php?s=100&u=https%3A%2F%2Fjobs.smartrecruiters.com%2FServiceNow%2F744000123802354-associate-software-engineer-search-infrastructure-moveworks%3Ftrid%3D162ef3c2-cdcc-47a9-8327-c69d95269302
+              - img [ref=e95]
+          - listitem [ref=e97]:
+            - link "Share on Twitter" [ref=e98] [cursor=pointer]:
+              - /url: https://twitter.com/share?text=ServiceNow%20is%20looking%20for%3A%20Associate%20Software%20Engineer%2C%20Search%20Infrastructure%20-%20Moveworks.&via=SmartRecruiters&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FServiceNow%2F744000123802354-associate-software-engineer-search-infrastructure-moveworks%3Ftrid%3D33221b55-7baa-4189-992e-a7fac0c08950
+              - img [ref=e100]
+          - listitem [ref=e102]:
+            - link "Share via email" [ref=e103] [cursor=pointer]:
+              - /url: mailto:?&subject=Associate%20Software%20Engineer%2C%20Search%20Infrastructure%20-%20Moveworks&body=ServiceNow%20is%20looking%20for%3A%20Associate%20Software%20Engineer%2C%20Search%20Infrastructure%20-%20Moveworks%20in%201400%20Terra%20Bella%20Avenue%2C%2094043%20Mountain%20View%2C%20CALIFORNIA%2C%20United%20States.%20https%3A%2F%2Fjobs.smartrecruiters.com%2FServiceNow%2F744000123802354-associate-software-engineer-search-infrastructure-moveworks
+              - img [ref=e105]
+          - listitem [ref=e107]:
+            - link "Share on Xing" [ref=e108] [cursor=pointer]:
+              - /url: https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fjobs.smartrecruiters.com%2FServiceNow%2F744000123802354-associate-software-engineer-search-infrastructure-moveworks%3Ftrid%3Ddafac7a1-12ef-45e2-8ca9-f875193e392b
+              - img [ref=e110]
+          - listitem [ref=e112]:
+            - link "Share on WeChat" [ref=e113] [cursor=pointer]:
+              - /url: https://jobs.smartrecruiters.com/ServiceNow/744000123802354-associate-software-engineer-search-infrastructure-moveworks?trid=7d1dcdfa-96a8-4e55-bb9c-0db211f5a9b3
+              - img [ref=e115]
+      - generic [ref=e117]:
+        - heading "Other jobs at ServiceNow" [level=2] [ref=e118]
+        - list [ref=e119]:
+          - listitem [ref=e120]:
+            - link "Associate Software Engineer, Core Infrastructure - Moveworks" [ref=e121] [cursor=pointer]:
+              - /url: /ServiceNow/744000123803504-associate-software-engineer-core-infrastructure-moveworks
+              - paragraph [ref=e122]: Associate Software Engineer, Core Infrastructure - Moveworks
+            - paragraph [ref=e123]: Mountain View, CALIFORNIA
+          - listitem [ref=e124]:
+            - link "Associate Software Engineer, Core Infrastructure - Moveworks" [ref=e125] [cursor=pointer]:
+              - /url: /ServiceNow/744000107369741-associate-software-engineer-core-infrastructure-moveworks
+              - paragraph [ref=e126]: Associate Software Engineer, Core Infrastructure - Moveworks
+            - paragraph [ref=e127]: Mountain View, CALIFORNIA
+          - listitem [ref=e128]:
+            - link "Business Development Manager - Security & Risk | Partner Channels" [ref=e129] [cursor=pointer]:
+              - /url: /ServiceNow/744000124508504-business-development-manager-security-risk-partner-channels
+              - paragraph [ref=e130]: Business Development Manager - Security & Risk | Partner Channels
+            - paragraph [ref=e131]: Issy Les Moulineaux, France
+          - listitem [ref=e132]:
+            - link "Show all jobs" [ref=e133] [cursor=pointer]:
+              - /url: https://www.servicenow.com/careers.html
+  - generic [ref=e136]:
+    - generic [ref=e137]:
+      - paragraph [ref=e138]: Associate Software Engineer, Search Infrastructure - Moveworks
+      - list [ref=e139]:
+        - listitem [ref=e140]: 1400 Terra Bella Avenue, 94043 Mountain View, CALIFORNIA, United States
+        - listitem [ref=e141]: Full-time
+    - complementary [ref=e142]:
+      - link [ref=e143] [cursor=pointer]:
+        - /url: https://jobs.smartrecruiters.com/oneclick-ui/company/ServiceNow/publication/99c06c61-284f-4c2b-bd4d-1a7b53bf3fa4?dcr_ci=ServiceNow
+        - text: I'm interested

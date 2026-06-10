@@ -1,0 +1,318 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "EverDriven Logo" [ref=e5]
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/everdriven?gh_src=Simplify
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e12]: tags.new
+        - generic [ref=e13]:
+          - generic [ref=e14]:
+            - heading "Software Engineer, Full Stack" [level=1] [ref=e15]
+            - generic [ref=e16]:
+              - img [ref=e17]
+              - generic [ref=e19]: Greenwood Village, Colorado, United States
+          - button "Apply" [ref=e20] [cursor=pointer]
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - paragraph
+            - paragraph [ref=e23]: EverDriven is the nation’s leading provider of alternative student transportation, partnering with school districts to serve students who need it most—including those experiencing homelessness, living with disabilities, or outside traditional bus routes. Our tech-enabled, human-led model helps remove barriers to learning through safe, reliable transportation.
+            - paragraph [ref=e24]: Since 2006, we’ve helped organizations solve complex transportation challenges through strong partnerships, dependable service, and a people-first approach. Guided by integrity, ownership, and collaboration, we move with urgency, lead with data, and never settle. Our success is driven by people who bring curiosity, accountability, and a commitment to continuous growth.
+            - paragraph
+          - generic [ref=e25]:
+            - paragraph [ref=e26]:
+              - strong [ref=e27]: "Position Summary:"
+            - paragraph [ref=e28]: The ideal candidate is passionate about building high-quality, innovative, and scalable products and can iterate rapidly. You’ll get the chance to own and deliver multiple features and be a driving force behind the evolution of our product.
+            - paragraph [ref=e29]:
+              - strong [ref=e30]: "Salary Range:"
+              - text: $115,000-$130,000/year, based on experience + bonus potential
+              - strong [ref=e31]
+            - paragraph [ref=e32]:
+              - strong [ref=e33]: Location - Greenwood Village, CO.
+              - text: Hybrid role - 4 days in the office and 1 days remote.
+            - paragraph [ref=e34]:
+              - strong [ref=e35]: "Responsibilities:"
+            - list [ref=e36]:
+              - listitem [ref=e37]:
+                - text: Deliver results on complex projects, including leading some projects end-to-end
+                - list [ref=e38]:
+                  - listitem [ref=e39]: Prototype, develop and extend our front-end and backend systems in support of our portals.
+                  - listitem [ref=e40]: Assist with design and definition of business and system level services, APIs, and front-end portal using modern design principles and patterns
+                  - listitem [ref=e41]: Work with Frontend and Backend engineers to ensure seamless delivery
+                  - listitem [ref=e42]: Help to provide an accurate timeline and scoping estimations on engineering projects
+                  - listitem [ref=e43]: Deliver high-quality maintainable code
+              - listitem [ref=e44]: Provide leadership in feature implementation & code quality
+              - listitem [ref=e45]: Contribute to a positive and productive team culture by supporting your team and collaborating with others
+              - listitem [ref=e46]: Follow agile/continuous integration engineering best practices
+            - paragraph [ref=e47]:
+              - strong [ref=e48]: "Qualifications:"
+            - list [ref=e49]:
+              - listitem [ref=e50]: 2 years of engineering experience building features end-to-end
+              - listitem [ref=e51]: Have a passion for technology and a drive to think out of the box
+              - listitem [ref=e52]: Diverse experience with a broad range of technologies and services – some of our key technologies are Microsoft Azure, C#, React/HTML/CSS, Docker, Kubernetes
+              - listitem [ref=e53]: Understanding of RESTful API patterns and how to optimize for front-end applications
+              - listitem [ref=e54]: Outstanding written and verbal communication skills
+              - listitem [ref=e55]: Ability to work across environments and teams
+              - listitem [ref=e56]: BA/BS in Computer Science or a related field preferred
+            - strong [ref=e58]: "Benefits:"
+            - list [ref=e59]:
+              - listitem [ref=e60]: Medical, Dental, Vision insurance
+              - listitem [ref=e61]: Virtual Doctor Visits with $0 Co-Pay
+              - listitem [ref=e62]: Life Insurance (company paid)
+              - listitem [ref=e63]: Short Term Disability Insurance (company paid)
+              - listitem [ref=e64]: Long-Term Disability Insurance (company paid)
+              - listitem [ref=e65]: Flexible Time Off (FTO)
+              - listitem [ref=e66]: Paid Holidays
+              - listitem [ref=e67]: Paid Time to Volunteer
+              - listitem [ref=e68]: Flex Spending Account (FSA)
+              - listitem [ref=e69]: 401K Plan (with an awesome employer match!)
+              - listitem [ref=e70]: Employee Assistance Program
+              - listitem [ref=e71]: Employee Discounts Program
+            - paragraph [ref=e72]:
+              - strong [ref=e73]: "#LI-Hybrid"
+          - generic [ref=e74]:
+            - paragraph [ref=e75]:
+              - strong [ref=e76]: Equal Opportunity Employer
+            - paragraph [ref=e77]: EverDriven is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other status protected by applicable law. We are committed to maintaining a respectful, professional workplace where employees are evaluated and supported based on performance and potential.
+            - paragraph [ref=e78]:
+              - text: Visit our website and learn more about us at
+              - link "www.EverDriven.com" [ref=e79] [cursor=pointer]:
+                - /url: https://www.everdriven.com/
+                - generic [ref=e80]: www.EverDriven.com
+            - paragraph [ref=e81]
+        - generic [ref=e82]:
+          - img [ref=e83]
+          - generic [ref=e85]:
+            - paragraph [ref=e86]: Create a Job Alert
+            - paragraph [ref=e87]: Interested in building your career at EverDriven? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e88] [cursor=pointer]
+      - separator [ref=e89]
+      - generic [ref=e90]:
+        - generic [ref=e91]:
+          - generic [ref=e92]:
+            - heading "Apply for this job" [level=2] [ref=e94]
+            - generic [ref=e95]:
+              - paragraph [ref=e97]: "*"
+              - paragraph [ref=e98]: indicates a required field
+          - button "Quick Apply with MyGreenhouse" [ref=e101] [cursor=pointer]
+        - generic [ref=e102]:
+          - generic [ref=e103]:
+            - generic [ref=e106]:
+              - generic [ref=e107]: First Name*
+              - textbox "First Name" [ref=e108]
+            - generic [ref=e111]:
+              - generic [ref=e112]: Last Name*
+              - textbox "Last Name" [ref=e113]
+            - generic [ref=e116]:
+              - generic [ref=e117]: Preferred First Name*
+              - textbox "Preferred First Name" [ref=e118]
+            - generic [ref=e121]:
+              - generic [ref=e122]: Email*
+              - textbox "Email" [ref=e123]
+            - group "Phone" [ref=e125]:
+              - generic [ref=e126]: Phone
+              - generic [ref=e129]:
+                - generic [ref=e130]: Country*
+                - generic [ref=e131]:
+                  - log [ref=e133]
+                  - generic [ref=e135]:
+                    - combobox "Country" [ref=e138]
+                    - button "Toggle flyout" [ref=e140] [cursor=pointer]:
+                      - img [ref=e141]
+                  - textbox
+              - generic [ref=e145]:
+                - generic [ref=e146]: Phone*
+                - textbox "Phone" [ref=e147]
+            - group "Resume/CV*" [ref=e149]:
+              - generic [ref=e150]: Resume/CV*
+              - generic [ref=e152]:
+                - generic [ref=e154]:
+                  - button "Attach" [ref=e155] [cursor=pointer]
+                  - generic [ref=e156]: Attach
+                  - button "Attach" [ref=e157]
+                - button "Dropbox" [ref=e159] [cursor=pointer]
+                - button "Google Drive" [ref=e161] [cursor=pointer]
+                - generic [ref=e163]:
+                  - button "Enter manually" [ref=e164] [cursor=pointer]
+                  - generic [ref=e165]: Enter manually
+                - paragraph [ref=e166]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e168]:
+              - generic [ref=e169]: Cover Letter
+              - generic [ref=e171]:
+                - generic [ref=e173]:
+                  - button "Attach" [ref=e174] [cursor=pointer]
+                  - generic [ref=e175]: Attach
+                  - button "Attach" [ref=e176]
+                - button "Dropbox" [ref=e178] [cursor=pointer]
+                - button "Google Drive" [ref=e180] [cursor=pointer]
+                - generic [ref=e182]:
+                  - button "Enter manually" [ref=e183] [cursor=pointer]
+                  - generic [ref=e184]: Enter manually
+                - paragraph [ref=e185]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e186]:
+            - separator [ref=e187]
+            - generic [ref=e190]:
+              - generic [ref=e191]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e192]
+            - generic [ref=e195]:
+              - generic [ref=e196]: What interests you the most about working at this company?
+              - textbox "What interests you the most about working at this company?" [ref=e197]
+            - generic [ref=e200]:
+              - generic [ref=e201]: Requested Compensation Range*
+              - textbox "Requested Compensation Range" [ref=e202]
+            - generic [ref=e205]:
+              - generic [ref=e206]: Are you legally authorized to work in the United States?*
+              - generic [ref=e207]:
+                - log [ref=e209]
+                - generic [ref=e211]:
+                  - generic [ref=e212]:
+                    - generic [ref=e213]: Select...
+                    - combobox "Are you legally authorized to work in the United States?" [ref=e215]
+                  - button "Toggle flyout" [ref=e217] [cursor=pointer]:
+                    - img [ref=e218]
+                - textbox
+            - generic [ref=e220]:
+              - generic [ref=e222]:
+                - generic [ref=e223]: Will you now or in the future require employer sponsorship or support for work authorization (for example, an H-1B, O-1, TN, or employment-based Green Card)? *
+                - generic [ref=e224]:
+                  - log [ref=e226]
+                  - generic [ref=e228]:
+                    - generic [ref=e229]:
+                      - generic [ref=e230]: Select...
+                      - combobox "Will you now or in the future require employer sponsorship or support for work authorization (for example, an H-1B, O-1, TN, or employment-based Green Card)?" [ref=e232]
+                    - button "Toggle flyout" [ref=e234] [cursor=pointer]:
+                      - img [ref=e235]
+                  - textbox
+              - paragraph [ref=e239]:
+                - emphasis [ref=e240]: "Note: EverDriven is not able to provide visa sponsorship or other employment-based work authorization support. This includes individuals on F-1 visas currently working under CPT, OPT, or STEM OPT authorization, as these require employer sponsorship to continue employment in the future."
+            - generic [ref=e243]:
+              - generic [ref=e244]: Our hybrid schedule requires being onsite at the Greenwood Village, CO office 4 days each week. Can you commit to this schedule?*
+              - generic [ref=e245]:
+                - log [ref=e247]
+                - generic [ref=e249]:
+                  - generic [ref=e250]:
+                    - generic [ref=e251]: Select...
+                    - combobox "Our hybrid schedule requires being onsite at the Greenwood Village, CO office 4 days each week. Can you commit to this schedule?" [ref=e253]
+                  - button "Toggle flyout" [ref=e255] [cursor=pointer]:
+                    - img [ref=e256]
+                - textbox
+            - generic [ref=e260]:
+              - generic [ref=e261]: Are you currently located in Denver metro region or are you willing to relocate on your own?*
+              - generic [ref=e262]:
+                - log [ref=e264]
+                - generic [ref=e266]:
+                  - generic [ref=e267]:
+                    - generic [ref=e268]: Select...
+                    - combobox "Are you currently located in Denver metro region or are you willing to relocate on your own?" [ref=e270]
+                  - button "Toggle flyout" [ref=e272] [cursor=pointer]:
+                    - img [ref=e273]
+                - textbox
+          - generic [ref=e275]:
+            - separator [ref=e276]
+            - generic [ref=e277]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e278]
+              - paragraph [ref=e279]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e280]: As set forth in EverDriven’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e283]:
+              - generic [ref=e284]: Gender
+              - generic [ref=e285]:
+                - log [ref=e287]
+                - generic [ref=e289]:
+                  - generic [ref=e290]:
+                    - generic [ref=e291]: Select...
+                    - combobox "Gender" [ref=e293]
+                  - button "Toggle flyout" [ref=e295] [cursor=pointer]:
+                    - img [ref=e296]
+            - generic [ref=e298]:
+              - generic [ref=e300]:
+                - generic [ref=e301]: Are you Hispanic/Latino?
+                - generic [ref=e302]:
+                  - log [ref=e304]
+                  - generic [ref=e306]:
+                    - generic [ref=e307]:
+                      - generic [ref=e308]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e310]
+                    - button "Toggle flyout" [ref=e312] [cursor=pointer]:
+                      - img [ref=e313]
+              - link "Race & Ethnicity Definitions" [ref=e315] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e316]:
+              - paragraph [ref=e317]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e318]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e319]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e320]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e321]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e324]:
+              - generic [ref=e325]: Veteran Status
+              - generic [ref=e326]:
+                - log [ref=e328]
+                - generic [ref=e330]:
+                  - generic [ref=e331]:
+                    - generic [ref=e332]: Select...
+                    - combobox "Veteran Status" [ref=e334]
+                  - button "Toggle flyout" [ref=e336] [cursor=pointer]:
+                    - img [ref=e337]
+            - separator [ref=e339]
+            - generic [ref=e340]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e341]
+              - generic [ref=e342]:
+                - generic [ref=e343]:
+                  - generic [ref=e344]: Form CC-305
+                  - generic [ref=e345]: Page 1 of 1
+                - generic [ref=e346]:
+                  - generic [ref=e347]: OMB Control Number 1250-0005
+                  - generic [ref=e348]: Expires 04/30/2026
+              - strong [ref=e349]: Why are you being asked to complete this form?
+              - paragraph [ref=e350]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e351]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e352] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e353]: How do you know if you have a disability?
+              - paragraph [ref=e354]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e355]: "Disabilities include, but are not limited to:"
+              - list [ref=e356]:
+                - listitem [ref=e357]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e358]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e359]: Blind or low vision
+                - listitem [ref=e360]: Cancer (past or present)
+                - listitem [ref=e361]: Cardiovascular or heart disease
+                - listitem [ref=e362]: Celiac disease
+                - listitem [ref=e363]: Cerebral palsy
+                - listitem [ref=e364]: Deaf or serious difficulty hearing
+                - listitem [ref=e365]: Diabetes
+                - listitem [ref=e366]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e367]: Epilepsy or other seizure disorder
+                - listitem [ref=e368]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e369]: Intellectual or developmental disability
+                - listitem [ref=e370]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e371]: Missing limbs or partially missing limbs
+                - listitem [ref=e372]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e373]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e374]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e375]: Partial or complete paralysis (any cause)
+                - listitem [ref=e376]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e377]: Short stature (dwarfism)
+                - listitem [ref=e378]: Traumatic brain injury
+            - generic [ref=e381]:
+              - generic [ref=e382]: Disability Status
+              - generic [ref=e383]:
+                - log [ref=e385]
+                - generic [ref=e387]:
+                  - generic [ref=e388]:
+                    - generic [ref=e389]: Select...
+                    - combobox "Disability Status" [ref=e391]
+                  - button "Toggle flyout" [ref=e393] [cursor=pointer]:
+                    - img [ref=e394]
+            - paragraph [ref=e397]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e399] [cursor=pointer]
+  - contentinfo [ref=e400]:
+    - generic [ref=e401]:
+      - paragraph [ref=e402]: Powered by
+      - link "Greenhouse logo" [ref=e403] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e404]

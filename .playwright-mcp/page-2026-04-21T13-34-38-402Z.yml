@@ -1,0 +1,225 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e8]:
+    - generic [ref=e10]:
+      - link "careers home" [ref=e13] [cursor=pointer]:
+        - /url: http://careers.adobe.com
+        - img "careers home" [ref=e14]
+      - generic [ref=e15]:
+        - heading [level=1]
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - button "English" [ref=e20] [cursor=pointer]:
+            - generic [ref=e24]: English
+          - button "Sign In" [ref=e26] [cursor=pointer]:
+            - generic [ref=e31]: Sign In
+        - navigation [ref=e32]:
+          - button "Search for Jobs" [ref=e33] [cursor=pointer]
+  - main [ref=e91]:
+    - generic [ref=e92]:
+      - generic [ref=e93]:
+        - link "Back to Job Posting" [ref=e95] [cursor=pointer]:
+          - generic [ref=e99]: Back to Job Posting
+        - heading "2026 University Graduate - Software Development Engineer" [level=2] [ref=e100]
+      - generic "Application Progress" [ref=e101]:
+        - list [ref=e102]:
+          - listitem [ref=e103]:
+            - generic: current step 1 of 6
+            - generic [ref=e109]: My Information
+          - listitem [ref=e110]:
+            - generic: step 2 of 6
+            - generic [ref=e116]: My Experience
+          - listitem [ref=e117]:
+            - generic: step 3 of 6
+            - generic [ref=e123]: Application Questions
+          - listitem [ref=e124]:
+            - generic: step 4 of 6
+            - generic [ref=e130]: Voluntary Disclosures
+          - listitem [ref=e131]:
+            - generic: step 5 of 6
+            - generic [ref=e137]: Self Identify
+          - listitem [ref=e138]:
+            - generic: step 6 of 6
+            - generic [ref=e144]: Review
+      - generic [ref=e145]:
+        - generic [ref=e146]:
+          - heading "My Information" [level=3] [ref=e147]
+          - generic [ref=e148]: "* Indicates a required field"
+          - generic [ref=e297]:
+            - heading "Errors Found" [level=3] [ref=e298]:
+              - button "Errors Found" [expanded] [active] [ref=e299] [cursor=pointer]:
+                - generic [ref=e300]: Errors Found
+            - list [ref=e311]:
+              - listitem [ref=e312]:
+                - generic [ref=e313]:
+                  - button "Error How Did You Hear About Us?" [ref=e314] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e315]: "-"
+                    - text: How Did You Hear About Us?
+                  - generic [ref=e316]: The field How Did You Hear About Us? is required and must have a value.
+              - listitem [ref=e317]:
+                - generic [ref=e318]:
+                  - button "Error Have you been employed by Adobe in the past?" [ref=e319] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e320]: "-"
+                    - text: Have you been employed by Adobe in the past?
+                  - generic [ref=e321]: The field Have you been employed by Adobe in the past? is required and must have a value.
+              - listitem [ref=e322]:
+                - generic [ref=e323]:
+                  - button "Error First Name" [ref=e324] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e325]: "-"
+                    - text: First Name
+                  - generic [ref=e326]: The field First Name is required and must have a value.
+              - listitem [ref=e327]:
+                - generic [ref=e328]:
+                  - button "Error Last Name" [ref=e329] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e330]: "-"
+                    - text: Last Name
+                  - generic [ref=e331]: The field Last Name is required and must have a value.
+              - listitem [ref=e332]:
+                - generic [ref=e333]:
+                  - button "Error Email" [ref=e334] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e335]: "-"
+                    - text: Email
+                  - generic [ref=e336]: The field Email is required and must have a value.
+              - listitem [ref=e337]:
+                - generic [ref=e338]:
+                  - button "Error Phone Device Type" [ref=e339] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e340]: "-"
+                    - text: Phone Device Type
+                  - generic [ref=e341]: The field Phone Device Type is required and must have a value.
+              - listitem [ref=e342]:
+                - generic [ref=e343]:
+                  - button "Error Phone Number" [ref=e344] [cursor=pointer]:
+                    - text: Error
+                    - generic [ref=e345]: "-"
+                    - text: Phone Number
+                  - generic [ref=e346]: The field Phone Number is required and must have a value.
+          - generic [ref=e149]:
+            - group [ref=e150]:
+              - generic [ref=e152]:
+                - generic [ref=e154]: How Did You Hear About Us?*
+                - generic [ref=e155]:
+                  - generic [ref=e160] [cursor=pointer]:
+                    - textbox "How Did You Hear About Us?" [ref=e161]:
+                      - /placeholder: Search
+                    - generic [ref=e162]: 0 items selected
+                  - paragraph [ref=e348]:
+                    - generic [ref=e349]: "Error:"
+                    - text: The field How Did You Hear About Us? is required and must have a value.
+            - group [ref=e166]:
+              - group "Have you been employed by Adobe in the past?" [ref=e169]:
+                - generic [ref=e172]: Have you been employed by Adobe in the past?*
+                - generic [ref=e173]:
+                  - generic "Have you been employed by Adobe in the past?" [ref=e175]:
+                    - generic [ref=e176]:
+                      - radio "Yes" [ref=e178] [cursor=pointer]
+                      - generic [ref=e179]: "Yes"
+                    - generic [ref=e180]:
+                      - radio "No" [ref=e182] [cursor=pointer]
+                      - generic [ref=e183]: "No"
+                  - paragraph [ref=e351]:
+                    - generic [ref=e352]: "Error:"
+                    - text: The field Have you been employed by Adobe in the past? is required and must have a value.
+            - group [ref=e184]:
+              - generic [ref=e186]:
+                - generic [ref=e188]: Country*
+                - button "Country United States of America Required" [ref=e192]: United States of America
+            - group "Name" [ref=e194]:
+              - heading "Name" [level=4] [ref=e195]
+              - generic [ref=e196]:
+                - generic [ref=e197]:
+                  - generic [ref=e199]: First Name*
+                  - generic [ref=e200]:
+                    - textbox "First Name" [ref=e202]
+                    - paragraph [ref=e354]:
+                      - generic [ref=e355]: "Error:"
+                      - text: The field First Name is required and must have a value.
+                - generic [ref=e203]:
+                  - generic [ref=e205]: Last Name*
+                  - generic [ref=e206]:
+                    - textbox "Last Name" [ref=e208]
+                    - paragraph [ref=e357]:
+                      - generic [ref=e358]: "Error:"
+                      - text: The field Last Name is required and must have a value.
+            - group "Address" [ref=e210]:
+              - heading "Address" [level=4] [ref=e211]
+              - generic [ref=e212]:
+                - generic [ref=e213]:
+                  - generic [ref=e214]: Address Line 1
+                  - textbox "Address Line 1" [ref=e217]
+                - generic [ref=e218]:
+                  - generic [ref=e219]: Address Line 2
+                  - textbox "Address Line 2" [ref=e222]
+                - generic [ref=e223]:
+                  - generic [ref=e224]: City
+                  - textbox "City" [ref=e227]
+                - generic [ref=e228]:
+                  - generic [ref=e229]: State
+                  - button "State Select One" [ref=e233]: Select One
+                - generic [ref=e234]:
+                  - generic [ref=e235]: Postal Code
+                  - textbox "Postal Code" [ref=e238]
+            - group "Email Address" [ref=e240]:
+              - heading "Email Address" [level=4] [ref=e241]
+              - generic [ref=e243]:
+                - generic [ref=e245]: Email*
+                - generic [ref=e246]:
+                  - textbox "Email" [ref=e248]
+                  - paragraph [ref=e360]:
+                    - generic [ref=e361]: "Error:"
+                    - text: The field Email is required and must have a value.
+            - group "Phone" [ref=e250]:
+              - heading "Phone" [level=4] [ref=e251]
+              - generic [ref=e252]:
+                - generic [ref=e253]:
+                  - generic [ref=e255]: Phone Device Type*
+                  - generic [ref=e256]:
+                    - button "Phone Device Type Select One Required" [ref=e259]: Select One
+                    - paragraph [ref=e363]:
+                      - generic [ref=e364]: "Error:"
+                      - text: The field Phone Device Type is required and must have a value.
+                - generic [ref=e260]:
+                  - generic [ref=e262]: Country Phone Code*
+                  - generic [ref=e267] [cursor=pointer]:
+                    - generic:
+                      - textbox "Country Phone Code" [ref=e268]:
+                        - /placeholder: Search
+                      - generic [ref=e269]: 1 item selected, United States of America (+1)
+                    - listbox "items selected" [ref=e271]:
+                      - option "United States of America (+1), press delete to clear value." [ref=e272]:
+                        - paragraph [ref=e277]: United States of America (+1)
+                - generic [ref=e281]:
+                  - generic [ref=e283]: Phone Number*
+                  - generic [ref=e284]:
+                    - textbox "Phone Number" [ref=e286]
+                    - paragraph [ref=e366]:
+                      - generic [ref=e367]: "Error:"
+                      - text: The field Phone Number is required and must have a value.
+                - generic [ref=e287]:
+                  - generic [ref=e288]: Phone Extension
+                  - textbox "Phone Extension" [ref=e291]
+        - button "Next" [ref=e295] [cursor=pointer]
+  - generic [ref=e40]:
+    - generic [ref=e41]: Follow Us
+    - list [ref=e42]:
+      - listitem [ref=e43] [cursor=pointer]:
+        - link "YouTube" [ref=e44]:
+          - /url: http://www.youtube.com/adobecareers
+      - listitem [ref=e50] [cursor=pointer]:
+        - link "X" [ref=e51]:
+          - /url: https://twitter.com/AdobeCareers
+      - listitem [ref=e55] [cursor=pointer]:
+        - link "Glassdoor" [ref=e56]:
+          - /url: https://www.glassdoor.com/Overview/Working-at-Adobe-EI_IE1090.11,16.htm
+      - listitem [ref=e61] [cursor=pointer]:
+        - link "LinkedIn" [ref=e62]:
+          - /url: https://www.linkedin.com/company/adobe
+    - generic [ref=e66]:
+      - img [ref=e70]
+      - generic [ref=e90]: © 2026 Workday, Inc. All rights reserved.

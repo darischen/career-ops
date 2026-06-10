@@ -1,0 +1,96 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Eventual" [ref=e6] [cursor=pointer]:
+        - /url: https://www.eventualcomputing.com/
+        - img "Eventual" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Eventual’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /eventualcomputing
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer, New Grad" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Department" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Engineering
+        - generic [ref=e26]:
+          - heading "Compensation" [level=2] [ref=e27]
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - generic [ref=e30]: San Francisco Bay Area
+              - generic [ref=e31]: $120K – $150K • Offers Equity
+      - generic [ref=e32]:
+        - tablist [ref=e33]:
+          - tab "Overview" [selected] [ref=e34] [cursor=pointer]
+          - tab "Application" [ref=e35] [cursor=pointer]
+        - tabpanel "Overview" [ref=e37]:
+          - generic [ref=e38]:
+            - heading "Software Engineering, New Grad – Eventual (San Francisco, CA)" [level=2] [ref=e39]:
+              - strong [ref=e40]: Software Engineering, New Grad – Eventual (San Francisco, CA)
+            - heading "About Eventual" [level=3] [ref=e41]:
+              - strong [ref=e42]: About Eventual
+            - paragraph [ref=e43]: Eventual enables developers to build the AI systems of the future by making multi-modal data and models work together seamlessly. Every breakthrough AI application—from foundation models to autonomous vehicles relies on processing massive volumes of images, video, and complex data. But today’s data platforms (like Databricks and Snowflake) were built for spreadsheet-like analytics, not the petabytes of multimodal data that power AI.
+            - paragraph [ref=e44]:
+              - text: Eventual was founded in 2022 to change that. Our mission is to make working with any kind of data—images, video, audio, text—as intuitive as working with tables, and powerful enough to scale to production workloads. Our open-source engine,
+              - strong [ref=e45]: Daft
+              - text: ", is purpose-built for real-world AI systems: coordinating with external APIs, managing GPU clusters, and handling failures that traditional engines can’t."
+            - paragraph [ref=e46]: Daft already powers critical workloads at companies like Amazon, Mobileye, Together AI, and CloudKitchens. Backed by Y Combinator, Caffeinated Capital, Array.vc, and top angels from the co-founders of Databricks and Perplexity, we’re just getting started—and we’d love for you to be part of it.
+            - paragraph [ref=e47]:
+              - text: "Please note: This is a full time job is"
+              - strong [ref=e48]: based in our San Francisco office (Mission District)
+              - text: . We value in-person collaboration and ask our engineers to be in the office at least 4 days a week.
+            - paragraph [ref=e49]:
+              - strong [ref=e50]: Your Role
+            - paragraph [ref=e51]: As a Software Engineering New Grad, you’ll work alongside our engineers to contribute to Eventual’s core products and open-source engine. You’ll gain hands-on experience building distributed data systems and products, while learning how to design, implement, and test features that support real-world AI and ML workloads.
+            - paragraph [ref=e52]: You’ll get mentorship from our team (ex-Databricks, AWS, Nvidia, Tesla, GitHub Copilot, Pinecone) and the opportunity to make meaningful contributions that reach production.
+            - heading "Key Responsibilities" [level=3] [ref=e53]:
+              - strong [ref=e54]: Key Responsibilities
+            - list [ref=e55]:
+              - listitem [ref=e56]:
+                - paragraph [ref=e57]: Contribute to building features in Eventual’s distributed query engine.
+              - listitem [ref=e58]:
+                - paragraph [ref=e59]: Work on developing Eventual’s cloud service.
+              - listitem [ref=e60]:
+                - paragraph [ref=e61]: Write clean, maintainable code with guidance from senior engineers.
+              - listitem [ref=e62]:
+                - paragraph [ref=e63]: Collaborate with the team to design and implement solutions for real-world data challenges.
+              - listitem [ref=e64]:
+                - paragraph [ref=e65]: Assist with testing, debugging, and documenting core system components.
+            - heading "What We Look For" [level=3] [ref=e66]:
+              - strong [ref=e67]: What We Look For
+            - list [ref=e68]:
+              - listitem [ref=e69]:
+                - paragraph [ref=e70]: Within 1 year of graduating from University
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]: Strong programming skills in Python and/or Rust.
+              - listitem [ref=e73]:
+                - paragraph [ref=e74]: Interest in distributed systems, databases, or data infrastructure.
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: Familiarity with cloud technologies (AWS, GCP, or Azure) is a plus.
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: Excitement to learn from a fast-paced startup environment and contribute to real-world systems.
+            - paragraph [ref=e79]
+          - link "Apply for this Job" [ref=e80] [cursor=pointer]:
+            - /url: /eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application
+            - button "Apply for this Job" [ref=e81]
+  - contentinfo [ref=e82]:
+    - link "Learn more about Ashby" [ref=e83] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e84]: Powered by
+      - img "Ashby" [ref=e85]
+    - paragraph [ref=e91]:
+      - link "Privacy Policy" [ref=e92] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e93] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e94] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

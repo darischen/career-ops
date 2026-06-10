@@ -1,0 +1,311 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "Cerebras Systems Logo" [ref=e5]
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/cerebrassystems
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - heading "Applied Machine Learning Research Scientist" [level=1] [ref=e13]
+            - generic [ref=e14]:
+              - img [ref=e15]
+              - generic [ref=e17]: Sunnyvale CA or Toronto Canada
+          - button "Apply" [ref=e18] [cursor=pointer]
+        - generic [ref=e19]:
+          - generic [ref=e20]:
+            - paragraph [ref=e21]: Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. Our novel wafer-scale architecture provides the AI compute power of dozens of GPUs on a single chip, with the programming simplicity of a single device. This approach allows Cerebras to deliver industry-leading training and inference speeds and empowers machine learning users to effortlessly run large-scale ML applications, without the hassle of managing hundreds of GPUs or TPUs.
+            - paragraph [ref=e22]:
+              - text: Cerebras' current customers include top model labs, global enterprises, and cutting-edge AI-native startups.
+              - link "OpenAI recently announced a multi-year partnership with Cerebras" [ref=e23] [cursor=pointer]:
+                - /url: https://openai.com/index/cerebras-partnership/
+              - text: ", to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference."
+            - paragraph [ref=e24]: Thanks to the groundbreaking wafer-scale architecture, Cerebras Inference offers the fastest Generative AI inference solution in the world, over 10 times faster than GPU-based hyperscale cloud inference services. This order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.
+          - generic [ref=e25]:
+            - heading "About The Role" [level=4] [ref=e26]
+            - paragraph [ref=e27]: As an Applied Machine Learning Research Scientist at Cerebras, you will play a key role in turning modern machine learning techniques into scalable, high-performance systems. This role sits at the intersection of modeling and systems focused not on publishing new algorithms, but on understanding how they work and making them run effectively at scale. Your work will directly impact how large language models (LLMs) are trained, optimized, and deployed on one of the most advanced AI platforms in the world.
+            - paragraph [ref=e28]: You will work closely with researchers and senior engineers to implement and improve workflows for LLM pretraining, fine-tuning, and reinforcement learning-based post-training. This includes building training pipelines, debugging complex system behaviors, improving model quality, and iterating on data and evaluation strategies. Your contributions will help translate cutting-edge ML ideas into reliable, production-ready systems that solve real-world problems.
+            - paragraph [ref=e29]: This role is ideal for candidates who enjoy hands-on engineering, want to build deep intuition for ML systems, and are excited about working on LLMs and reinforcement learning in practice, not just in theory.
+            - paragraph [ref=e30]:
+              - strong [ref=e31]:
+                - generic [ref=e32]: Responsibilities
+            - list [ref=e33]:
+              - listitem [ref=e34]: Apply post-training techniques (e.g. RLVR, RLHF, GRPO etc.) techniques to improve model performance.
+              - listitem [ref=e35]: Build and maintain evaluation pipelines to measure model performance across tasks and domains.
+              - listitem [ref=e36]: Debug issues across the ML stack, including data pipelines, training jobs, model outputs and mixed or lower precision computation.
+              - listitem [ref=e37]: Collaborate with researchers to translate ML ideas into efficient, scalable implementation.
+              - listitem [ref=e38]: Design, implement, and scale ML pipelines across all stages of LLM development (pretraining, fine-tuning, alignment).
+              - listitem [ref=e39]: Work with large datasets, including dataset generation, filtering, and synthetic data approaches.
+              - listitem [ref=e40]: Optimize training and inference workflows for performance, efficiency, and reliability.
+              - listitem [ref=e41]: Contribute high-quality, maintainable code to shared ML infrastructure.
+            - paragraph [ref=e42]:
+              - strong [ref=e43]:
+                - generic [ref=e44]: Skills & Qualifications
+            - list [ref=e45]:
+              - listitem [ref=e46]: Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.
+              - listitem [ref=e47]: 0 - 5 years of experience (including internships, research, or industry experience) working with machine learning systems; we are hiring multiple positions for various levels.
+              - listitem [ref=e48]: Strong programming skills in Python.
+              - listitem [ref=e49]: Experience with ML frameworks such as PyTorch.
+              - listitem [ref=e50]: Solid understanding of machine learning fundamentals.
+              - listitem [ref=e51]: Familiarity with deep learning architectures, particularly transformers.
+              - listitem [ref=e52]: Ability to read and understand modern ML papers and implement key ideas.
+            - paragraph [ref=e53]:
+              - strong [ref=e54]: Preferred Skills & Qualifications
+            - list [ref=e55]:
+              - listitem [ref=e56]: Experience working with large language models (training, fine-tuning, and evaluation).
+              - listitem [ref=e57]: Familiarity with reinforcement learning concepts.
+              - listitem [ref=e58]: Experience with distributed training frameworks (e.g., FSDP, Megatron).
+              - listitem [ref=e59]: Experience working with large-scale datasets and data pipelines.
+              - listitem [ref=e60]:
+                - text: Experience debugging or optimizing ML systems for performance.
+                - text: • Contributions to meaningful codebases, projects, or open-source systems
+          - generic [ref=e61]:
+            - heading "Why Join Cerebras" [level=4] [ref=e62]:
+              - strong [ref=e63]: Why Join Cerebras
+            - paragraph [ref=e64]: "People who are serious about software make their own hardware. At Cerebras we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we’ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:"
+            - list [ref=e65]:
+              - listitem [ref=e66]: Build a breakthrough AI platform beyond the constraints of the GPU.
+              - listitem [ref=e67]: Publish and open source their cutting-edge AI research.
+              - listitem [ref=e68]: Work on one of the fastest AI supercomputers in the world.
+              - listitem [ref=e69]: Enjoy job stability with startup vitality.
+              - listitem [ref=e70]: Our simple, non-corporate work culture that respects individual beliefs.
+            - paragraph [ref=e71]:
+              - text: "Read our blog:"
+              - link "Five Reasons to Join Cerebras in 2026." [ref=e72] [cursor=pointer]:
+                - /url: https://www.cerebras.net/blog/5-reasons-to-join-cerebras
+            - heading "Apply today and become part of the forefront of groundbreaking advancements in AI!" [level=4] [ref=e73]
+            - separator [ref=e74]
+            - paragraph [ref=e75]:
+              - emphasis [ref=e76]: Cerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer.
+              - emphasis [ref=e77]: We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies.
+              - emphasis [ref=e78]: We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.
+            - separator [ref=e79]
+            - paragraph [ref=e80]:
+              - emphasis [ref=e81]:
+                - text: This website or its third-party tools process personal data. For more details, click
+                - link "here" [ref=e82] [cursor=pointer]:
+                  - /url: https://www.cerebras.net/privacy/
+                - text: to review our CCPA disclosure notice.
+        - generic [ref=e83]:
+          - img [ref=e84]
+          - generic [ref=e86]:
+            - paragraph [ref=e87]: Create a Job Alert
+            - paragraph [ref=e88]: Interested in building your career at Cerebras Systems? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e89] [cursor=pointer]
+      - separator [ref=e90]
+      - generic [ref=e91]:
+        - generic [ref=e92]:
+          - generic [ref=e93]:
+            - heading "Apply for this job" [level=2] [ref=e95]
+            - generic [ref=e96]:
+              - paragraph [ref=e98]: "*"
+              - paragraph [ref=e99]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e102] [cursor=pointer]
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - generic [ref=e107]:
+              - generic [ref=e108]: First Name*
+              - textbox "First Name" [ref=e109]
+            - generic [ref=e112]:
+              - generic [ref=e113]: Last Name*
+              - textbox "Last Name" [ref=e114]
+            - generic [ref=e117]:
+              - generic [ref=e118]: Email*
+              - textbox "Email" [ref=e119]
+            - group "Phone" [ref=e121]:
+              - generic [ref=e122]: Phone
+              - generic [ref=e125]:
+                - generic [ref=e126]: Country*
+                - generic [ref=e127]:
+                  - log [ref=e129]
+                  - generic [ref=e131]:
+                    - combobox "Country" [ref=e134]
+                    - button "Toggle flyout" [ref=e136] [cursor=pointer]:
+                      - img [ref=e137]
+                  - textbox
+              - generic [ref=e141]:
+                - generic [ref=e142]: Phone*
+                - textbox "Phone" [ref=e143]
+            - group "Resume/CV*" [ref=e145]:
+              - generic [ref=e146]: Resume/CV*
+              - generic [ref=e148]:
+                - generic [ref=e150]:
+                  - button "Attach" [ref=e151] [cursor=pointer]
+                  - generic [ref=e152]: Attach
+                  - button "Attach" [ref=e153]
+                - button "Dropbox" [ref=e155] [cursor=pointer]
+                - button "Google Drive" [ref=e157] [cursor=pointer]
+                - generic [ref=e159]:
+                  - button "Enter manually" [ref=e160] [cursor=pointer]
+                  - generic [ref=e161]: Enter manually
+                - paragraph [ref=e162]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e163]:
+            - generic [ref=e164]:
+              - separator [ref=e165]
+              - paragraph [ref=e167]: Education
+              - generic [ref=e169]:
+                - generic [ref=e170]: School*
+                - generic [ref=e171]:
+                  - log [ref=e173]
+                  - generic [ref=e175]:
+                    - generic [ref=e176]:
+                      - generic [ref=e177]: Select...
+                      - combobox "School" [ref=e179]
+                    - button "Toggle flyout" [ref=e181] [cursor=pointer]:
+                      - img [ref=e182]
+                  - textbox
+              - generic [ref=e185]:
+                - generic [ref=e186]: Degree*
+                - generic [ref=e187]:
+                  - log [ref=e189]
+                  - generic [ref=e191]:
+                    - generic [ref=e192]:
+                      - generic [ref=e193]: Select...
+                      - combobox "Degree" [ref=e195]
+                    - button "Toggle flyout" [ref=e197] [cursor=pointer]:
+                      - img [ref=e198]
+                  - textbox
+              - generic [ref=e201]:
+                - generic [ref=e202]: Discipline*
+                - generic [ref=e203]:
+                  - log [ref=e205]
+                  - generic [ref=e207]:
+                    - generic [ref=e208]:
+                      - generic [ref=e209]: Select...
+                      - combobox "Discipline" [ref=e211]
+                    - button "Toggle flyout" [ref=e213] [cursor=pointer]:
+                      - img [ref=e214]
+                  - textbox
+              - generic [ref=e216]:
+                - generic [ref=e219]:
+                  - generic [ref=e220]: Start date year*
+                  - spinbutton "Start date year" [ref=e221]
+                - generic [ref=e224]:
+                  - generic [ref=e225]: End date year*
+                  - spinbutton "End date year" [ref=e226]
+            - button "Add another" [ref=e227] [cursor=pointer]
+          - generic [ref=e228]:
+            - separator [ref=e229]
+            - generic [ref=e232]:
+              - generic [ref=e233]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e234]
+            - generic [ref=e237]:
+              - generic [ref=e238]: Cerebras products, software, source code, technology, and/or services are subject to the U.S. Export Administration Regulations (EAR). Access to controlled source code and technology by our employees may require prior authorization. Cerebras can be required to perform an export compliance assessment to review if an individual is a U.S. person, or may require a license from the U.S. Government in order to release source code and technology to employees who are not U.S. persons. In order to comply with these regulations (and for no other reason), we are asking you to confirm citizenship and permanent residency as defined below. Please check the field that applies to you:*
+              - generic [ref=e239]:
+                - log [ref=e241]
+                - generic [ref=e243]:
+                  - generic [ref=e244]:
+                    - generic [ref=e245]: Select...
+                    - combobox "Cerebras products, software, source code, technology, and/or services are subject to the U.S. Export Administration Regulations (EAR). Access to controlled source code and technology by our employees may require prior authorization. Cerebras can be required to perform an export compliance assessment to review if an individual is a U.S. person, or may require a license from the U.S. Government in order to release source code and technology to employees who are not U.S. persons. In order to comply with these regulations (and for no other reason), we are asking you to confirm citizenship and permanent residency as defined below. Please check the field that applies to you:" [ref=e247]
+                  - button "Toggle flyout" [ref=e249] [cursor=pointer]:
+                    - img [ref=e250]
+                - textbox
+          - generic [ref=e252]:
+            - separator [ref=e253]
+            - generic [ref=e254]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e255]
+              - paragraph [ref=e256]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e257]: As set forth in Cerebras Systems’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e260]:
+              - generic [ref=e261]: Gender
+              - generic [ref=e262]:
+                - log [ref=e264]
+                - generic [ref=e266]:
+                  - generic [ref=e267]:
+                    - generic [ref=e268]: Select...
+                    - combobox "Gender" [ref=e270]
+                  - button "Toggle flyout" [ref=e272] [cursor=pointer]:
+                    - img [ref=e273]
+            - generic [ref=e275]:
+              - generic [ref=e277]:
+                - generic [ref=e278]: Are you Hispanic/Latino?
+                - generic [ref=e279]:
+                  - log [ref=e281]
+                  - generic [ref=e283]:
+                    - generic [ref=e284]:
+                      - generic [ref=e285]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e287]
+                    - button "Toggle flyout" [ref=e289] [cursor=pointer]:
+                      - img [ref=e290]
+              - link "Race & Ethnicity Definitions" [ref=e292] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e293]:
+              - paragraph [ref=e294]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e295]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e296]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e297]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e298]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e301]:
+              - generic [ref=e302]: Veteran Status
+              - generic [ref=e303]:
+                - log [ref=e305]
+                - generic [ref=e307]:
+                  - generic [ref=e308]:
+                    - generic [ref=e309]: Select...
+                    - combobox "Veteran Status" [ref=e311]
+                  - button "Toggle flyout" [ref=e313] [cursor=pointer]:
+                    - img [ref=e314]
+            - separator [ref=e316]
+            - generic [ref=e317]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e318]
+              - generic [ref=e319]:
+                - generic [ref=e320]:
+                  - generic [ref=e321]: Form CC-305
+                  - generic [ref=e322]: Page 1 of 1
+                - generic [ref=e323]:
+                  - generic [ref=e324]: OMB Control Number 1250-0005
+                  - generic [ref=e325]: Expires 04/30/2026
+              - strong [ref=e326]: Why are you being asked to complete this form?
+              - paragraph [ref=e327]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e328]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e329] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e330]: How do you know if you have a disability?
+              - paragraph [ref=e331]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e332]: "Disabilities include, but are not limited to:"
+              - list [ref=e333]:
+                - listitem [ref=e334]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e335]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e336]: Blind or low vision
+                - listitem [ref=e337]: Cancer (past or present)
+                - listitem [ref=e338]: Cardiovascular or heart disease
+                - listitem [ref=e339]: Celiac disease
+                - listitem [ref=e340]: Cerebral palsy
+                - listitem [ref=e341]: Deaf or serious difficulty hearing
+                - listitem [ref=e342]: Diabetes
+                - listitem [ref=e343]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e344]: Epilepsy or other seizure disorder
+                - listitem [ref=e345]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e346]: Intellectual or developmental disability
+                - listitem [ref=e347]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e348]: Missing limbs or partially missing limbs
+                - listitem [ref=e349]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e350]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e351]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e352]: Partial or complete paralysis (any cause)
+                - listitem [ref=e353]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e354]: Short stature (dwarfism)
+                - listitem [ref=e355]: Traumatic brain injury
+            - generic [ref=e358]:
+              - generic [ref=e359]: Disability Status
+              - generic [ref=e360]:
+                - log [ref=e362]
+                - generic [ref=e364]:
+                  - generic [ref=e365]:
+                    - generic [ref=e366]: Select...
+                    - combobox "Disability Status" [ref=e368]
+                  - button "Toggle flyout" [ref=e370] [cursor=pointer]:
+                    - img [ref=e371]
+            - paragraph [ref=e374]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e376] [cursor=pointer]
+  - contentinfo [ref=e377]:
+    - generic [ref=e378]:
+      - paragraph [ref=e379]: Powered by
+      - link "Greenhouse logo" [ref=e380] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e381]

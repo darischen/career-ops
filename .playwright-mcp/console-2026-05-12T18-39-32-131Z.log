@@ -1,0 +1,12 @@
+[      24ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://sjobs.brassring.com/favicon.ico:0
+[     568ms] [WARNING] Failed to load widget after multiple retries @ https://sjobs.brassring.com/TGNewUI/Scripts/app/v-639128732230370829/Similarjobs.js:7
+[    1221ms] TypeError: Cannot read properties of null (reading 'click')
+    at https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25539&siteid=5313&PageType=JobDetails&jobid=5218520:9006:43
+[    1469ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://kit.fontawesome.com/c59ab216c6.js:0
+[    1495ms] [LOG] #ffffff @ https://sjobs.brassring.com/TGNewUI/Scripts/app/v-639128732230840804/shared.js:5712
+[    1495ms] [LOG] #666666 @ https://sjobs.brassring.com/TGNewUI/Scripts/app/v-639128732230840804/shared.js:5713
+[    1495ms] [LOG] #095197 @ https://sjobs.brassring.com/TGNewUI/Scripts/app/v-639128732230840804/shared.js:5714
+[    1495ms] [LOG] 8.270912887946528 @ https://sjobs.brassring.com/TGNewUI/Scripts/app/v-639128732230840804/shared.js:5720
+[    1495ms] [LOG] 15.968719422671311 @ https://sjobs.brassring.com/TGNewUI/Scripts/app/v-639128732230840804/shared.js:5721
+[    1495ms] [LOG] 10.099504938362077 @ https://sjobs.brassring.com/TGNewUI/Scripts/app/v-639128732230840804/shared.js:5722
+[    2295ms] [WARNING] Failed to load widget after multiple retries @ https://sjobs.brassring.com/TGNewUI/Scripts/app/v-639128732230370829/Similarjobs.js:7

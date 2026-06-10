@@ -1,0 +1,304 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "Back to jobs" [ref=e5] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/scaleai
+          - img [ref=e6]
+          - text: Back to jobs
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - heading "Software Engineer, Gen AI" [level=1] [ref=e11]
+            - generic [ref=e12]:
+              - img [ref=e13]
+              - generic [ref=e15]: San Francisco, CA; New York, NY
+          - button "Apply" [ref=e16] [cursor=pointer]
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - paragraph [ref=e19]:
+              - strong [ref=e20]: About Scale
+            - paragraph [ref=e21]: "At Scale AI, our mission is to accelerate the development of AI applications. For 8 years, Scale has been the leading AI data foundry, helping fuel the most exciting advancements in AI, including: generative AI, defense applications, and autonomous vehicles. With our recent Series F round, we’re accelerating the abundance of frontier data to pave the road to Artificial General Intelligence (AGI), and building upon our prior model evaluation work with enterprise customers and governments, to deepen our capabilities and offerings for both public and private evaluations."
+            - paragraph [ref=e22]:
+              - strong [ref=e23]: About Data Engine
+            - paragraph [ref=e24]: Our Generative AI Data Engine powers the world’s most advanced LLMs and generative models through world-class RLHF (Reinforcement Learning with Human Feedback), human data generation, model evaluation, safety, and alignment. The data we are producing is some of the most important work for how humanity will interact with AI.
+            - paragraph [ref=e25]:
+              - strong [ref=e26]: Our Approach
+            - paragraph [ref=e27]: As part of the interview process, you’ll be considered for opportunities across several teams within the GenAI Engineering organization, based on your interests, expertise, and business needs. Potential team placements include Allocation, Growth, Frontier Data, Trust & Safety, Pay, Operator, or Tasking Experience. Together, these teams power Scale’s AI data operations - from building high-impact datasets that push the boundaries of LLM capabilities, to optimizing contributor onboarding and incentives, to safeguarding data integrity through advanced trust, safety, and security measures. They work at the intersection of ML, operations, and analytics to ensure we deliver the highest-quality data at scale.
+            - heading "Responsibilities:" [level=3] [ref=e28]:
+              - strong [ref=e29]: "Responsibilities:"
+            - list [ref=e30]:
+              - listitem [ref=e31]: Design and implement features end-to-end across front-end, back-end, and infrastructure
+              - listitem [ref=e32]: Build features end-to-end using technologies like TypeScript, MongoDB, and Elasticsearch, and contribute to our compute orchestration layer powered by Temporal
+              - listitem [ref=e33]: Own high-impact technical systems that are critical to Scale’s revenue delivery
+              - listitem [ref=e34]: Build and iterate on complex systems that scale to millions of tasks per week
+              - listitem [ref=e35]: Collaborate with model teams, Forward Deployed Engineers, and cross-functional stakeholders
+              - listitem [ref=e36]: Help shape the engineering culture, values, and best practices of a fast-growing team
+            - heading "Requirements:" [level=3] [ref=e37]:
+              - strong [ref=e38]: "Requirements:"
+            - list [ref=e39]:
+              - listitem [ref=e40]: 3+ years of relevant software engineering experience
+              - listitem [ref=e41]: Track record of building and shipping products at scale
+              - listitem [ref=e42]: Ability to thrive in a fast-paced, high-ownership environment
+              - listitem [ref=e43]: Strong product intuition and problem-solving skills
+              - listitem [ref=e44]: "Experience across the stack: React, Typescript, Node, Python, etc."
+              - listitem [ref=e45]: Excited to join a hybrid team based in San Francisco or New York City
+            - paragraph [ref=e46]
+          - generic [ref=e48]:
+            - paragraph [ref=e52]:
+              - emphasis [ref=e53]: "Compensation packages at Scale for eligible roles include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training. Scale employees in eligible roles are also granted equity based compensation, subject to Board of Director approval. Your recruiter can share more about the specific salary range for your preferred location during the hiring process, and confirm whether the hired role will be eligible for equity grant. You’ll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend."
+            - paragraph [ref=e54]: "Please reference the job posting's subtitle for where this position will be located. For pay transparency purposes, the base salary range for this full-time position in the locations of San Francisco, New York, Seattle is:"
+            - paragraph [ref=e55]: $180,000 - $225,000 USD
+          - generic [ref=e56]:
+            - paragraph [ref=e57]:
+              - strong [ref=e58]:
+                - emphasis [ref=e59]: "PLEASE NOTE:"
+              - emphasis [ref=e60]: Our policy requires a 90-day waiting period before reconsidering candidates for the same role. This allows us to ensure a fair and thorough evaluation of all applicants.
+            - paragraph [ref=e61]:
+              - strong [ref=e62]: "About Us:"
+            - paragraph [ref=e63]:
+              - emphasis [ref=e64]: At Scale, our mission is to develop reliable AI systems for the world's most important decisions. Our products provide the high-quality data and full-stack technologies that power the world's leading models, and help enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Cisco, DLA Piper, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. We are expanding our team to accelerate the development of AI applications.
+            - paragraph [ref=e65]:
+              - emphasis [ref=e66]: We believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status.
+            - paragraph [ref=e67]:
+              - emphasis [ref=e68]: We are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodations@scale.com. Please see the United States Department of Labor's
+              - link "Know Your Rights poster" [ref=e69] [cursor=pointer]:
+                - /url: https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf
+                - emphasis [ref=e70]: Know Your Rights poster
+              - emphasis [ref=e71]: for additional information.
+            - paragraph [ref=e72]:
+              - emphasis [ref=e73]: We comply with the United States Department of Labor's
+              - emphasis [ref=e74]: Pay Transparency provision
+              - emphasis [ref=e75]: .
+            - paragraph [ref=e76]:
+              - emphasis [ref=e77]:
+                - strong [ref=e78]: "PLEASE NOTE:"
+                - text: We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants’ needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data. Please see our
+                - link "privacy policy" [ref=e79] [cursor=pointer]:
+                  - /url: https://scale.com/legal/privacy
+                - text: for additional information.
+        - generic [ref=e80]:
+          - img [ref=e81]
+          - generic [ref=e83]:
+            - paragraph [ref=e84]: Create a Job Alert
+            - paragraph [ref=e85]: Interested in building your career at Scale AI? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e86] [cursor=pointer]
+      - separator [ref=e87]
+      - generic [ref=e88]:
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - heading "Apply for this job" [level=2] [ref=e92]
+            - generic [ref=e93]:
+              - paragraph [ref=e95]: "*"
+              - paragraph [ref=e96]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e99] [cursor=pointer]
+        - generic [ref=e100]:
+          - generic [ref=e101]:
+            - generic [ref=e104]:
+              - generic [ref=e105]: First Name*
+              - textbox "First Name" [ref=e106]
+            - generic [ref=e109]:
+              - generic [ref=e110]: Last Name*
+              - textbox "Last Name" [ref=e111]
+            - generic [ref=e114]:
+              - generic [ref=e115]: Email*
+              - textbox "Email" [ref=e116]
+            - group "Phone" [ref=e118]:
+              - generic [ref=e119]: Phone
+              - generic [ref=e122]:
+                - generic [ref=e123]: Country
+                - generic [ref=e124]:
+                  - log [ref=e126]
+                  - generic [ref=e128]:
+                    - combobox "Country" [ref=e131]
+                    - button "Toggle flyout" [ref=e133] [cursor=pointer]:
+                      - img [ref=e134]
+              - generic [ref=e138]:
+                - generic [ref=e139]: Phone
+                - textbox "Phone" [ref=e140]
+            - group "Resume/CV*" [ref=e142]:
+              - generic [ref=e143]: Resume/CV*
+              - generic [ref=e145]:
+                - generic [ref=e147]:
+                  - button "Attach" [ref=e148] [cursor=pointer]
+                  - generic [ref=e149]: Attach
+                  - button "Attach" [ref=e150]
+                - button "Dropbox" [ref=e152] [cursor=pointer]
+                - button "Google Drive" [ref=e154] [cursor=pointer]
+                - generic [ref=e156]:
+                  - button "Enter manually" [ref=e157] [cursor=pointer]
+                  - generic [ref=e158]: Enter manually
+                - paragraph [ref=e159]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e161]:
+              - generic [ref=e162]: Cover Letter
+              - generic [ref=e164]:
+                - generic [ref=e166]:
+                  - button "Attach" [ref=e167] [cursor=pointer]
+                  - generic [ref=e168]: Attach
+                  - button "Attach" [ref=e169]
+                - button "Dropbox" [ref=e171] [cursor=pointer]
+                - button "Google Drive" [ref=e173] [cursor=pointer]
+                - generic [ref=e175]:
+                  - button "Enter manually" [ref=e176] [cursor=pointer]
+                  - generic [ref=e177]: Enter manually
+                - paragraph [ref=e178]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e179]:
+            - separator [ref=e180]
+            - generic [ref=e183]:
+              - generic [ref=e184]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e185]
+            - generic [ref=e188]:
+              - generic [ref=e189]: Website
+              - textbox "Website" [ref=e190]
+            - generic [ref=e193]:
+              - generic [ref=e194]: Are you open to working in person in our San Francisco or New York office 3 times a week?
+              - generic [ref=e195]:
+                - log [ref=e197]
+                - generic [ref=e199]:
+                  - generic [ref=e200]:
+                    - generic [ref=e201]: Select...
+                    - combobox "Are you open to working in person in our San Francisco or New York office 3 times a week?" [ref=e203]
+                  - button "Toggle flyout" [ref=e205] [cursor=pointer]:
+                    - img [ref=e206]
+            - generic [ref=e210]:
+              - generic [ref=e211]: Are you currently bound by any agreements with a current or former employer that may restrict your ability to work for Scale AI or perform the duties of the position for which you are applying? This includes, but is not limited to, non-compete agreements, non-solicitation agreements, confidentiality or non-disclosure agreements, or any other contractual obligations that could limit your employment activities.*
+              - generic [ref=e212]:
+                - log [ref=e214]
+                - generic [ref=e216]:
+                  - generic [ref=e217]:
+                    - generic [ref=e218]: Select...
+                    - combobox "Are you currently bound by any agreements with a current or former employer that may restrict your ability to work for Scale AI or perform the duties of the position for which you are applying? This includes, but is not limited to, non-compete agreements, non-solicitation agreements, confidentiality or non-disclosure agreements, or any other contractual obligations that could limit your employment activities." [ref=e220]
+                  - button "Toggle flyout" [ref=e222] [cursor=pointer]:
+                    - img [ref=e223]
+                - textbox
+            - generic [ref=e227]:
+              - generic [ref=e228]: If yes, please provide further explanation below.
+              - textbox "If yes, please provide further explanation below." [ref=e229]
+            - generic [ref=e232]:
+              - generic [ref=e233]: Are you legally authorized to work in the country where the job is located?*
+              - generic [ref=e234]:
+                - log [ref=e236]
+                - generic [ref=e238]:
+                  - generic [ref=e239]:
+                    - generic [ref=e240]: Select...
+                    - combobox "Are you legally authorized to work in the country where the job is located?" [ref=e242]
+                  - button "Toggle flyout" [ref=e244] [cursor=pointer]:
+                    - img [ref=e245]
+                - textbox
+            - generic [ref=e249]:
+              - generic [ref=e250]: Will you now or in the future require company sponsorship to retain or extend your work authorization in the country where the job is located?*
+              - generic [ref=e251]:
+                - log [ref=e253]
+                - generic [ref=e255]:
+                  - generic [ref=e256]:
+                    - generic [ref=e257]: Select...
+                    - combobox "Will you now or in the future require company sponsorship to retain or extend your work authorization in the country where the job is located?" [ref=e259]
+                  - button "Toggle flyout" [ref=e261] [cursor=pointer]:
+                    - img [ref=e262]
+                - textbox
+          - generic [ref=e264]:
+            - separator [ref=e265]
+            - generic [ref=e266]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e267]
+              - paragraph [ref=e268]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e269]: As set forth in Scale AI’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e272]:
+              - generic [ref=e273]: Gender
+              - generic [ref=e274]:
+                - log [ref=e276]
+                - generic [ref=e278]:
+                  - generic [ref=e279]:
+                    - generic [ref=e280]: Select...
+                    - combobox "Gender" [ref=e282]
+                  - button "Toggle flyout" [ref=e284] [cursor=pointer]:
+                    - img [ref=e285]
+            - generic [ref=e287]:
+              - generic [ref=e289]:
+                - generic [ref=e290]: Are you Hispanic/Latino?
+                - generic [ref=e291]:
+                  - log [ref=e293]
+                  - generic [ref=e295]:
+                    - generic [ref=e296]:
+                      - generic [ref=e297]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e299]
+                    - button "Toggle flyout" [ref=e301] [cursor=pointer]:
+                      - img [ref=e302]
+              - link "Race & Ethnicity Definitions" [ref=e304] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e305]:
+              - paragraph [ref=e306]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e307]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e308]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e309]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e310]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e313]:
+              - generic [ref=e314]: Veteran Status
+              - generic [ref=e315]:
+                - log [ref=e317]
+                - generic [ref=e319]:
+                  - generic [ref=e320]:
+                    - generic [ref=e321]: Select...
+                    - combobox "Veteran Status" [ref=e323]
+                  - button "Toggle flyout" [ref=e325] [cursor=pointer]:
+                    - img [ref=e326]
+            - separator [ref=e328]
+            - generic [ref=e329]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e330]
+              - generic [ref=e331]:
+                - generic [ref=e332]:
+                  - generic [ref=e333]: Form CC-305
+                  - generic [ref=e334]: Page 1 of 1
+                - generic [ref=e335]:
+                  - generic [ref=e336]: OMB Control Number 1250-0005
+                  - generic [ref=e337]: Expires 04/30/2026
+              - strong [ref=e338]: Why are you being asked to complete this form?
+              - paragraph [ref=e339]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e340]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e341] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e342]: How do you know if you have a disability?
+              - paragraph [ref=e343]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e344]: "Disabilities include, but are not limited to:"
+              - list [ref=e345]:
+                - listitem [ref=e346]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e347]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e348]: Blind or low vision
+                - listitem [ref=e349]: Cancer (past or present)
+                - listitem [ref=e350]: Cardiovascular or heart disease
+                - listitem [ref=e351]: Celiac disease
+                - listitem [ref=e352]: Cerebral palsy
+                - listitem [ref=e353]: Deaf or serious difficulty hearing
+                - listitem [ref=e354]: Diabetes
+                - listitem [ref=e355]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e356]: Epilepsy or other seizure disorder
+                - listitem [ref=e357]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e358]: Intellectual or developmental disability
+                - listitem [ref=e359]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e360]: Missing limbs or partially missing limbs
+                - listitem [ref=e361]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e362]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e363]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e364]: Partial or complete paralysis (any cause)
+                - listitem [ref=e365]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e366]: Short stature (dwarfism)
+                - listitem [ref=e367]: Traumatic brain injury
+            - generic [ref=e370]:
+              - generic [ref=e371]: Disability Status
+              - generic [ref=e372]:
+                - log [ref=e374]
+                - generic [ref=e376]:
+                  - generic [ref=e377]:
+                    - generic [ref=e378]: Select...
+                    - combobox "Disability Status" [ref=e380]
+                  - button "Toggle flyout" [ref=e382] [cursor=pointer]:
+                    - img [ref=e383]
+            - paragraph [ref=e386]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e388] [cursor=pointer]
+  - contentinfo [ref=e389]:
+    - generic [ref=e390]:
+      - paragraph [ref=e391]: Powered by
+      - link "Greenhouse logo" [ref=e392] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e393]

@@ -1,0 +1,26 @@
+[     443ms] [ERROR] Connecting to 'wss://www.apple.com:58070/' violates the following Content Security Policy directive: "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com". Note that 'connect-src' was not explicitly set, so 'default-src' is used as a fallback. The action has been blocked. @ https://www.apple.com/careers/js/common/clientlibs/source/promos/promo-tile-cm.js:219
+[     466ms] [LOG] HeroPanelTile::initializeAnimation @ https://www.apple.com/careers/js/common/clientlibs/source/promos/HeroPanelTile.js:9223
+[     638ms] [WARNING] Poster image not found for viewport: medium @ https://www.apple.com/careers/js/common/clientlibs/source/fy24/HeroPanelCroppedVideoV2.js:147
+[     749ms] [LOG] %cCoreBundle lib prefersReducedMotion attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     751ms] [LOG] %cCoreBundle lib textZoom attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     752ms] [LOG] %cCoreBundle lib viewportEmitter attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     753ms] [LOG] %cCoreBundle lib anim attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     754ms] [LOG] %cCoreBundle lib modal attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     762ms] [LOG] %cCoreBundle lib acVideo attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     762ms] [LOG] %cCoreBundle lib mixinGallery attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     763ms] [WARNING] "setAttributes" is deprecated, please use "setAttributeForElements" instead. @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1218
+[     763ms] [LOG] %cCoreBundle lib accordion attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     764ms] [LOG] %cCoreBundle lib playPause attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     764ms] [LOG] %cCoreBundle lib focusManager attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     764ms] [LOG] %cCoreBundle lib trackVScroll attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     764ms] [LOG] %cCoreBundle lib trackClick attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     764ms] [LOG] %cCoreBundle lib trackEventOnce attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     764ms] [WARNING] AnalyticsStandalone:Error: AnalyticsStandalone: `configEl` not supplied @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1264
+[     798ms] [LOG] Video /careers/global/media/hero/fy21/ehsan-hardware-autoplay-2021_1280x720.mp4 starts playing @ https://www.apple.com/careers/js/common/clientlibs/source/analytics/analytics.js:41
+[     801ms] [LOG] Video /careers/global/media/hero/fy22/sujin_video_large_16x9.mp4 starts playing @ https://www.apple.com/careers/js/common/clientlibs/source/analytics/analytics.js:41
+[     805ms] [LOG] [External] @ https://www.apple.com/careers/js/common/clientlibs/source/analytics/analytics.js:54
+[     805ms] [LOG] /careers/us/ @ https://www.apple.com/careers/js/common/clientlibs/source/analytics/analytics.js:55
+[     805ms] [LOG] index @ https://www.apple.com/careers/js/common/clientlibs/source/analytics/analytics.js:56
+[     805ms] [LOG] analytics firing @ https://www.apple.com/careers/js/common/clientlibs/source/analytics/analytics.js:57
+[     861ms] [LOG] Video /careers/global/media/acvideo/2021/index/Apple_Loop_V01_500x500_H.264.mp4 starts playing @ https://www.apple.com/careers/js/common/clientlibs/source/analytics/analytics.js:41
+[   38747ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://www.apple.com/careers/global/media/acvideo/2021/index/Apple_Loop_V01_500x500_H.264.mp4:0

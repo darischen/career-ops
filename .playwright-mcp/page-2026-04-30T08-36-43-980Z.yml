@@ -1,0 +1,425 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "Anduril Industries Logo" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - heading "Systems Software Engineer" [level=1] [ref=e10]
+            - generic [ref=e11]:
+              - img [ref=e12]
+              - generic [ref=e14]: Costa Mesa, California, United States
+          - button "Apply" [ref=e15] [cursor=pointer]
+        - generic [ref=e16]:
+          - paragraph [ref=e18]: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
+          - generic [ref=e19]:
+            - paragraph [ref=e20]:
+              - strong [ref=e21]: "ABOUT THE TEAM:"
+              - text: Anduril’s Maritime Division has assembled a diverse team of experts in software, robotics, artificial intelligence, sensor fusion, and data analysis to create software and hardware solutions that radically evolve the capabilities of our customers. We are fielding the next generation of autonomous systems to tackle the extremely challenging industry demands of maritime operations. Anduril has brought to market a unique, ultra-long-range, full-ocean-depth underwater vessel platform and a completely refreshed maritime vehicle and flexible manufacturing architecture that scales from "small" to "extra-large" vehicle sizes. Today, Anduril is executing on billion-dollar contracts while simultaneously performing Robot-as-a-Service (RaaS) AUV operations.
+              - text: We are continuing to expand our product portfolio, now moving into the surface maritime domain. Products like Dive-XL, Dive-LD, Copperhead, Seabed Sentry, and surface products in the pipeline will create a system-of-systems that enable a multitude of autonomous missions across all maritime domains. If you are passionate about solving problems that have real impact and working on systems that directly contribute to achieving national strategic priorities, we want you to join Anduril’s Maritime Division and help us build the future of defense capability.
+              - strong [ref=e22]: "ABOUT THE JOB:"
+              - text: We are seeking a highly motivated and experienced Systems Software Engineer to join our team in Costa Mesa, California. You will work closely with the program leadership and a wide spectrum of cross-departments as part of a team focused on solving hard problems and changing the industry forever. In this role you will be responsible for designing, integrating, and managing complex, software-intensive mission autonomy systems based on the Lattice OS, with specific focus on integration into a coherent, consistent, and complete system for ASVs. You will bridge the gap between hardware and software, and between ship control and mission operations, handling the entire lifecycle across ConOps development, requirements development and analysis, design, testing, optimization, and maintenance. Join our dynamic team and help us build the next generation of autonomous maritime systems.
+              - strong [ref=e23]: "WHAT YOU'LL DO:"
+              - text: The ideal candidate should have strong experience building or supporting developer experience platforms, internal tools, and/or platform engineering solutions. They should have proficiency with networking and related cloud-native technologies, and have solid programming skills in languages such as Python, C++, Go, or Rust.
+            - list [ref=e24]:
+              - listitem [ref=e25]: Participate in development and maintenance of the mission system to vehicle autonomy / management system interface in accordance with software architecture principles.
+              - listitem [ref=e26]: Lead development and maintenance of the mission system to payload management system interface in accordance with software architecture principles.
+              - listitem [ref=e27]: Perform analysis of ConOps, DRMs, and mission flows, and develop mission behavior concepts with associated definition of inputs and outputs list, collaborating with a cross-functional team.
+              - listitem [ref=e28]: Own the build package and configuration of the mission autonomy software for the MCS, OCS, and PDK instantiations.
+              - listitem [ref=e29]: Build, checkout, and deliver the PDK to payload development teams.
+              - listitem [ref=e30]: Support integration, checkout, debug, and test of mission autonomy as installed on each type of ship.
+              - listitem [ref=e31]: Active contributor to HITL development, maintenance, and use.
+              - listitem [ref=e32]: Hands-on co-lead for integration of each payload with the mission system on each type of ship.
+              - listitem [ref=e33]: Support ship V&V planning for at-sea activity.
+              - listitem [ref=e34]: Own the software build and configuration of ASV MissionSim, and perform validation testing of mission autonomy; responsible for acquisition, curation, and maintenance of scenarios and data sets required to support simulations.
+              - listitem [ref=e35]: Work closely with other electrical, mechanical, software, firmware, and test engineers to deliver fully functional products
+              - listitem [ref=e36]: Work in a fast-paced environment balancing schedule against cost and performance parameters
+              - listitem [ref=e37]: Conduct peer-level and cross-discipline design reviews, perform requirements analysis, and plan system verification to ensure compliance with project goals and industry standards.
+              - listitem [ref=e38]: Ultimately responsible for ensuring the mission autonomy solution is effective and sufficiently reliable to operate ASVs in the intended real world environments, conditions, and scenarios.
+            - paragraph [ref=e39]:
+              - strong [ref=e40]: "REQUIRED QUALIFICATIONS:"
+            - list [ref=e41]:
+              - listitem [ref=e42]: Bachelor’s Degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent
+              - listitem [ref=e43]: At least 5+ years of experience designing, implementing, testing, and troubleshooting software-based systems
+              - listitem [ref=e44]: Experience in fieldable system design
+              - listitem [ref=e45]: Familiarity with developing and executing test plans for complex systems
+              - listitem [ref=e46]: High-ownership and a bias toward action – if you see a problem, you want to solve and fix it
+              - listitem [ref=e47]: Must be able to obtain and hold a U.S. security clearance
+              - listitem [ref=e48]: Ability to travel 25% with potential surges above 25%
+            - paragraph [ref=e49]:
+              - strong [ref=e50]: "PREFERRED QUALIFICATIONS:"
+            - list [ref=e51]:
+              - listitem [ref=e52]: Familiarity with software development processes and tools such as git, Github, JIRA, etc
+              - listitem [ref=e53]: Experience with the design, implementation and support of robotic and/or autonomous systems
+              - listitem [ref=e54]: Experience working within the defense, maritime and/or aerospace domains
+              - listitem [ref=e55]: Experience within the product delivery lifecycle including manufacturing, system acceptance, deployment, and sustainment
+              - listitem [ref=e56]: Familiarity with designing for rugged environments
+          - generic [ref=e58]:
+            - paragraph [ref=e59]: US Salary Range
+            - paragraph [ref=e60]: $166,000 - $220,000 USD
+          - generic [ref=e61]:
+            - paragraph [ref=e62]: "The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including:"
+            - paragraph [ref=e63]:
+              - strong [ref=e64]: Healthcare Benefits
+            - list [ref=e65]:
+              - listitem [ref=e66]:
+                - strong [ref=e67]: "US Roles:"
+                - text: Comprehensive medical, dental, and vision plans at little to no cost to you.
+              - listitem [ref=e68]:
+                - strong [ref=e69]: "UK & AUS Roles:"
+                - text: We cover full cost of medical insurance premiums for you and your dependents.
+              - listitem [ref=e70]:
+                - strong [ref=e71]: "IE Roles:"
+                - text: We offer an annual contribution toward your private health insurance for you and your dependents.
+            - paragraph [ref=e72]:
+              - strong [ref=e73]: Additional Benefits
+            - list [ref=e74]:
+              - listitem [ref=e75]:
+                - strong [ref=e76]: Income Protection
+                - text: ": Anduril covers life and disability insurance for all employees."
+              - listitem [ref=e77]:
+                - strong [ref=e78]: Generous time off
+                - text: ": Highly competitive PTO plans with a holiday hiatus in December. Caregiver & Wellness Leave is available to care for family members, bond with a new baby, or address your own medical needs."
+              - listitem [ref=e79]:
+                - strong [ref=e80]: "Family Planning & Parenting Support:"
+                - text: Coverage for fertility treatments (e.g., IVF, preservation), adoption, and gestational carriers, along with resources to support you and your partner from planning to parenting.
+              - listitem [ref=e81]:
+                - strong [ref=e82]: "Mental Health Resources:"
+                - text: Access free mental health resources 24/7, including therapy and life coaching. Additional work-life services, such as legal and financial support, are also available.
+              - listitem [ref=e83]:
+                - strong [ref=e84]: "Professional Development:"
+                - text: Annual reimbursement for professional development
+              - listitem [ref=e85]:
+                - strong [ref=e86]: "Commuter Benefits:"
+                - text: Company-funded commuter benefits based on your region.
+              - listitem [ref=e87]:
+                - strong [ref=e88]: "Relocation Assistance:"
+                - text: Available depending on role eligibility.
+            - paragraph [ref=e89]:
+              - strong [ref=e90]: Retirement Savings Plan
+            - list [ref=e91]:
+              - listitem [ref=e92]:
+                - strong [ref=e93]: "US Roles:"
+                - text: Traditional 401(k), Roth, and after-tax (mega backdoor Roth) options.
+              - listitem [ref=e94]:
+                - strong [ref=e95]: "UK & IE Roles:"
+                - text: Pension plan with employer match.
+              - listitem [ref=e96]:
+                - strong [ref=e97]: "AUS Roles:"
+                - text: Superannuation plan.
+            - paragraph [ref=e98]: The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process.
+            - paragraph [ref=e99]
+            - generic [ref=e100]:
+              - heading "Protecting Yourself from Recruitment Scams" [level=3] [ref=e101]:
+                - strong [ref=e102]: Protecting Yourself from Recruitment Scams
+              - paragraph [ref=e103]: Anduril is committed to maintaining the integrity of our Talent acquisition process and the security of our candidates. We've observed a rise in sophisticated phishing and fraudulent schemes where individuals impersonate Anduril representatives, luring job seekers with false interviews or job offers. These scammers often attempt to extract payment or sensitive personal information.
+            - generic [ref=e104]:
+              - paragraph [ref=e105]: "To ensure your safety and help you navigate your job search with confidence, please keep the following critical points in mind:"
+              - list [ref=e106]:
+                - listitem [ref=e107]:
+                  - paragraph [ref=e108]:
+                    - strong [ref=e109]: "No Financial Requests:"
+                    - text: Anduril will never solicit payment or demand personal financial details (such as banking information, credit card numbers, or social security numbers) at any stage of our hiring process. Our legitimate recruitment is entirely free for candidates.
+                - listitem [ref=e110]:
+                  - strong [ref=e111]: "Please always verify communications:"
+                  - list [ref=e112]:
+                    - listitem [ref=e113]:
+                      - text: "Direct from Anduril: If you receive an email from one of our recruiters, it will"
+                      - emphasis [ref=e114]: only
+                      - text: come from an
+                      - code [ref=e115]: "@anduril.com"
+                      - text: address.
+                    - listitem [ref=e116]:
+                      - text: "Via Agency Partner: If contacted by a recruiting agency for an Anduril role, their email will clearly identify their agency. If you suspect any suspicious activity, please verify the agency's authenticity by reaching out to"
+                      - link "contact@anduril.com" [ref=e117] [cursor=pointer]:
+                        - /url: mailto:contact@anduril.com
+                      - text: .
+                - listitem [ref=e118]:
+                  - paragraph [ref=e119]:
+                    - strong [ref=e120]: "Exercise Caution with Unsolicited Outreach:"
+                    - text: If you receive any communication that appears suspicious, contains grammatical errors, or makes unusual requests, do not engage. Always confirm the sender's email domain is @anduril.com before providing any personal information or clicking on links.
+                - listitem [ref=e121]:
+                  - paragraph [ref=e122]:
+                    - strong [ref=e123]: "What to Do If You Suspect Fraud:"
+                    - text: Should you encounter any questionable or fraudulent outreach claiming to be from Anduril, please report it immediately to
+                    - link "contact@anduril.com" [ref=e124] [cursor=pointer]:
+                      - /url: mailto:contact@anduril.com
+                    - text: . Your proactive caution is invaluable in protecting your personal information and upholding the security and trustworthiness of our recruitment efforts.
+            - heading "Data Privacy" [level=3] [ref=e125]:
+              - strong [ref=e126]: Data Privacy
+            - paragraph [ref=e127]:
+              - text: To view Anduril's candidate data privacy policy, please visit
+              - link "https://anduril.com/applicant-privacy-notice/" [ref=e130] [cursor=pointer]:
+                - /url: https://anduril.com/applicant-privacy-notice/
+              - text: .
+            - paragraph [ref=e131]
+            - paragraph [ref=e132]: By submitting your application, you consent to Anduril Industries using a third-party service provider to conduct pre-employment risk, integrity, and due diligence screening and assessing potential risks as part of your application process. This third-party service provider provides risk-intelligence services that may include analysis of sanctions and watchlists, adverse media, public-record information, and other lawful open-source or commercial data sources. This third-party service provider does not act as a consumer reporting agency. Use of this provider helps to ensure compliance with applicable laws and protect technology, intellectual property, and organizational security.
+        - generic [ref=e133]:
+          - img [ref=e134]
+          - generic [ref=e136]:
+            - paragraph [ref=e137]: Create a Job Alert
+            - paragraph [ref=e138]: Interested in building your career at Anduril Industries? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e139] [cursor=pointer]
+      - separator [ref=e140]
+      - generic [ref=e141]:
+        - generic [ref=e142]:
+          - generic [ref=e143]:
+            - heading "Apply for this job" [level=2] [ref=e145]
+            - generic [ref=e146]:
+              - paragraph [ref=e148]: "*"
+              - paragraph [ref=e149]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e152] [cursor=pointer]
+        - generic [ref=e153]:
+          - generic [ref=e154]:
+            - generic [ref=e157]:
+              - generic [ref=e158]: First Name*
+              - textbox "First Name" [ref=e159]
+            - generic [ref=e162]:
+              - generic [ref=e163]: Last Name*
+              - textbox "Last Name" [ref=e164]
+            - generic [ref=e167]:
+              - generic [ref=e168]: Email*
+              - textbox "Email" [ref=e169]
+            - group "Phone" [ref=e171]:
+              - generic [ref=e172]: Phone
+              - generic [ref=e175]:
+                - generic [ref=e176]: Country*
+                - generic [ref=e177]:
+                  - log [ref=e179]
+                  - generic [ref=e181]:
+                    - combobox "Country" [ref=e184]
+                    - button "Toggle flyout" [ref=e186] [cursor=pointer]:
+                      - img [ref=e187]
+                  - textbox
+              - generic [ref=e191]:
+                - generic [ref=e192]: Phone*
+                - textbox "Phone" [ref=e193]
+            - group "Resume/CV*" [ref=e195]:
+              - generic [ref=e196]: Resume/CV*
+              - generic [ref=e198]:
+                - generic [ref=e200]:
+                  - button "Attach" [ref=e201] [cursor=pointer]
+                  - generic [ref=e202]: Attach
+                  - button "Attach" [ref=e203]
+                - button "Dropbox" [ref=e205] [cursor=pointer]
+                - button "Google Drive" [ref=e207] [cursor=pointer]
+                - generic [ref=e209]:
+                  - button "Enter manually" [ref=e210] [cursor=pointer]
+                  - generic [ref=e211]: Enter manually
+                - paragraph [ref=e212]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e214]:
+              - generic [ref=e215]: Cover Letter
+              - generic [ref=e217]:
+                - generic [ref=e219]:
+                  - button "Attach" [ref=e220] [cursor=pointer]
+                  - generic [ref=e221]: Attach
+                  - button "Attach" [ref=e222]
+                - button "Dropbox" [ref=e224] [cursor=pointer]
+                - button "Google Drive" [ref=e226] [cursor=pointer]
+                - generic [ref=e228]:
+                  - button "Enter manually" [ref=e229] [cursor=pointer]
+                  - generic [ref=e230]: Enter manually
+                - paragraph [ref=e231]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e232]:
+            - separator [ref=e233]
+            - generic [ref=e236]:
+              - generic [ref=e237]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e238]
+            - generic [ref=e241]:
+              - generic [ref=e242]: Website
+              - textbox "Website" [ref=e243]
+            - generic [ref=e244]:
+              - generic [ref=e246]:
+                - generic [ref=e247]: EXPORT CONTROLS - This position requires access to information and technology that is subject to U.S. export controls. Your responses to the questions below will be used solely to determine your eligibility under U.S. law to receive information and materials subject to U.S. export controls.*
+                - generic [ref=e248]:
+                  - log [ref=e250]
+                  - generic [ref=e252]:
+                    - generic [ref=e253]:
+                      - generic [ref=e254]: Select...
+                      - combobox "EXPORT CONTROLS - This position requires access to information and technology that is subject to U.S. export controls. Your responses to the questions below will be used solely to determine your eligibility under U.S. law to receive information and materials subject to U.S. export controls." [ref=e256]
+                    - button "Toggle flyout" [ref=e258] [cursor=pointer]:
+                      - img [ref=e259]
+                  - textbox
+              - paragraph [ref=e263]: "Are you any of the following “protected individual(s)” as defined in the Immigration and Naturalization Act, 8 U.S.C. 1324b(a)(3)?:"
+            - generic [ref=e264]:
+              - generic [ref=e266]:
+                - generic [ref=e267]: U.S. WORK AUTHORIZATION*
+                - generic [ref=e268]:
+                  - log [ref=e270]
+                  - generic [ref=e272]:
+                    - generic [ref=e273]:
+                      - generic [ref=e274]: Select...
+                      - combobox "U.S. WORK AUTHORIZATION" [ref=e276]
+                    - button "Toggle flyout" [ref=e278] [cursor=pointer]:
+                      - img [ref=e279]
+                  - textbox
+              - paragraph [ref=e283]: Are you authorized to work in the United States?
+            - generic [ref=e286]:
+              - generic [ref=e287]: Will you require sponsorship from Anduril for employment now or in the future (e.g, H1B visa)?*
+              - generic [ref=e288]:
+                - log [ref=e290]
+                - generic [ref=e292]:
+                  - generic [ref=e293]:
+                    - generic [ref=e294]: Select...
+                    - combobox "Will you require sponsorship from Anduril for employment now or in the future (e.g, H1B visa)?" [ref=e296]
+                  - button "Toggle flyout" [ref=e298] [cursor=pointer]:
+                    - img [ref=e299]
+                - textbox
+            - generic [ref=e301]:
+              - generic [ref=e303]:
+                - generic [ref=e304]: HISTORY WITH ANDURIL*
+                - generic [ref=e305]:
+                  - log [ref=e307]
+                  - generic [ref=e309]:
+                    - generic [ref=e310]:
+                      - generic [ref=e311]: Select...
+                      - combobox "HISTORY WITH ANDURIL" [ref=e313]
+                    - button "Toggle flyout" [ref=e315] [cursor=pointer]:
+                      - img [ref=e316]
+                  - textbox
+              - paragraph [ref=e320]: Have you previously applied to a position at Anduril?
+            - generic [ref=e323]:
+              - generic [ref=e324]: Have you ever been employed by Anduril or any company that Anduril has acquired?*
+              - generic [ref=e325]:
+                - log [ref=e327]
+                - generic [ref=e329]:
+                  - generic [ref=e330]:
+                    - generic [ref=e331]: Select...
+                    - combobox "Have you ever been employed by Anduril or any company that Anduril has acquired?" [ref=e333]
+                  - button "Toggle flyout" [ref=e335] [cursor=pointer]:
+                    - img [ref=e336]
+                - textbox
+            - generic [ref=e338]:
+              - generic [ref=e340]:
+                - generic [ref=e341]: CONFLICT OF INTEREST*
+                - generic [ref=e342]:
+                  - log [ref=e344]
+                  - generic [ref=e346]:
+                    - generic [ref=e347]:
+                      - generic [ref=e348]: Select...
+                      - combobox "CONFLICT OF INTEREST" [ref=e350]
+                    - button "Toggle flyout" [ref=e352] [cursor=pointer]:
+                      - img [ref=e353]
+                  - textbox
+              - paragraph [ref=e357]: Do you currently, or have you in the last 5 years, worked for the US government (e.g., Congressional staffer, member of the military, state, or federal agencies) and had oversight or similar responsibility over Anduril’s business or other interests?
+            - generic [ref=e360]:
+              - generic [ref=e361]: How did you hear about Anduril?*
+              - generic [ref=e362]:
+                - log [ref=e364]
+                - generic [ref=e366]:
+                  - generic [ref=e367]:
+                    - generic [ref=e368]: Select...
+                    - combobox "How did you hear about Anduril?" [ref=e370]
+                  - button "Toggle flyout" [ref=e372] [cursor=pointer]:
+                    - img [ref=e373]
+                - textbox
+            - generic [ref=e377]:
+              - generic [ref=e378]: If other, please specify
+              - textbox "If other, please specify" [ref=e379]
+          - generic [ref=e380]:
+            - separator [ref=e381]
+            - generic [ref=e382]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e383]
+              - paragraph [ref=e384]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e385]: As set forth in Anduril Industries’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e388]:
+              - generic [ref=e389]: Gender
+              - generic [ref=e390]:
+                - log [ref=e392]
+                - generic [ref=e394]:
+                  - generic [ref=e395]:
+                    - generic [ref=e396]: Select...
+                    - combobox "Gender" [ref=e398]
+                  - button "Toggle flyout" [ref=e400] [cursor=pointer]:
+                    - img [ref=e401]
+            - generic [ref=e403]:
+              - generic [ref=e405]:
+                - generic [ref=e406]: Are you Hispanic/Latino?
+                - generic [ref=e407]:
+                  - log [ref=e409]
+                  - generic [ref=e411]:
+                    - generic [ref=e412]:
+                      - generic [ref=e413]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e415]
+                    - button "Toggle flyout" [ref=e417] [cursor=pointer]:
+                      - img [ref=e418]
+              - link "Race & Ethnicity Definitions" [ref=e420] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e421]:
+              - paragraph [ref=e422]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e423]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e424]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e425]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e426]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e429]:
+              - generic [ref=e430]: Veteran Status
+              - generic [ref=e431]:
+                - log [ref=e433]
+                - generic [ref=e435]:
+                  - generic [ref=e436]:
+                    - generic [ref=e437]: Select...
+                    - combobox "Veteran Status" [ref=e439]
+                  - button "Toggle flyout" [ref=e441] [cursor=pointer]:
+                    - img [ref=e442]
+            - separator [ref=e444]
+            - generic [ref=e445]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e446]
+              - generic [ref=e447]:
+                - generic [ref=e448]:
+                  - generic [ref=e449]: Form CC-305
+                  - generic [ref=e450]: Page 1 of 1
+                - generic [ref=e451]:
+                  - generic [ref=e452]: OMB Control Number 1250-0005
+                  - generic [ref=e453]: Expires 04/30/2026
+              - strong [ref=e454]: Why are you being asked to complete this form?
+              - paragraph [ref=e455]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e456]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e457] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e458]: How do you know if you have a disability?
+              - paragraph [ref=e459]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e460]: "Disabilities include, but are not limited to:"
+              - list [ref=e461]:
+                - listitem [ref=e462]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e463]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e464]: Blind or low vision
+                - listitem [ref=e465]: Cancer (past or present)
+                - listitem [ref=e466]: Cardiovascular or heart disease
+                - listitem [ref=e467]: Celiac disease
+                - listitem [ref=e468]: Cerebral palsy
+                - listitem [ref=e469]: Deaf or serious difficulty hearing
+                - listitem [ref=e470]: Diabetes
+                - listitem [ref=e471]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e472]: Epilepsy or other seizure disorder
+                - listitem [ref=e473]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e474]: Intellectual or developmental disability
+                - listitem [ref=e475]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e476]: Missing limbs or partially missing limbs
+                - listitem [ref=e477]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e478]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e479]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e480]: Partial or complete paralysis (any cause)
+                - listitem [ref=e481]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e482]: Short stature (dwarfism)
+                - listitem [ref=e483]: Traumatic brain injury
+            - generic [ref=e486]:
+              - generic [ref=e487]: Disability Status
+              - generic [ref=e488]:
+                - log [ref=e490]
+                - generic [ref=e492]:
+                  - generic [ref=e493]:
+                    - generic [ref=e494]: Select...
+                    - combobox "Disability Status" [ref=e496]
+                  - button "Toggle flyout" [ref=e498] [cursor=pointer]:
+                    - img [ref=e499]
+            - paragraph [ref=e502]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e504] [cursor=pointer]
+  - contentinfo [ref=e505]:
+    - generic [ref=e506]:
+      - paragraph [ref=e507]: Powered by
+      - link "Greenhouse logo" [ref=e508] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e509]

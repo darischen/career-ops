@@ -1,0 +1,39 @@
+- generic [ref=e7]:
+  - link [ref=e8] [cursor=pointer]:
+    - /url: "#mdc-main-content"
+    - generic [ref=e11]: Skip to main content
+  - navigation [ref=e13]:
+    - generic [ref=e17]:
+      - generic [ref=e19]:
+        - button [ref=e21] [cursor=pointer]:
+          - img [ref=e23]
+        - link [ref=e25] [cursor=pointer]:
+          - /url: /
+          - img [ref=e26]
+      - button [ref=e30] [cursor=pointer]:
+        - img [ref=e33]
+  - generic [ref=e38]:
+    - main [ref=e41]:
+      - generic [ref=e48]:
+        - heading [level=1] [ref=e50]: The Perfect Job Exists, But This Page Doesn't
+        - generic [ref=e52]: Please contact your recruiter for assistance
+        - button [ref=e54] [cursor=pointer]:
+          - generic [ref=e58]: Go to Home Page
+    - generic [ref=e61]:
+      - button [ref=e68] [cursor=pointer]:
+        - img [ref=e71]
+      - generic [ref=e73]:
+        - generic [ref=e78]:
+          - text: Recruiters can view your conversations with AI. Using AI is optional and does not impact the outcome of your application process.
+          - button [ref=e79] [cursor=pointer]: Learn more
+          - text: about AI usage and settings.
+        - generic [ref=e83]:
+          - button [ref=e85] [cursor=pointer]:
+            - button [ref=e88]:
+              - img [ref=e91]
+          - generic [ref=e94]:
+            - button [ref=e95] [cursor=pointer]:
+              - generic [ref=e96]:
+                - img [ref=e97]
+                - generic [ref=e99]: Sign up
+            - generic [ref=e100]: to ask follow-up questions

@@ -1,0 +1,215 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - link "Skip to main content" [ref=e6] [cursor=pointer]:
+      - /url: "#main"
+    - main [ref=e7]:
+      - navigation [ref=e11]:
+        - generic [ref=e12]:
+          - link "Go to Uber Careers home page" [ref=e13] [cursor=pointer]:
+            - /url: https://jobs.uber.com/en/
+            - text: Uber Careers
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - link "Search jobs at Uber" [ref=e16] [cursor=pointer]:
+                - /url: https://www.uber.com/careers/list/
+                - text: Job search
+            - listitem [ref=e17]:
+              - button "Click to view more menu options" [ref=e18] [cursor=pointer]:
+                - img [ref=e19]: ","
+      - search [ref=e26]:
+        - textbox "Search" [ref=e27]:
+          - /placeholder: Search Jobs
+        - link [ref=e29] [cursor=pointer]:
+          - /url: /careers/list?query=
+          - img [ref=e30]
+      - generic [ref=e36]:
+        - heading "Software Engineer I" [level=1] [ref=e37]
+        - generic [ref=e38]:
+          - text: Engineering
+          - generic [ref=e39]: in San Francisco, California
+          - generic [ref=e40]: "- Full Time"
+        - link "Apply Now" [ref=e42] [cursor=pointer]:
+          - /url: /careers/apply/interstitial/157476
+        - generic [ref=e43]:
+          - paragraph [ref=e44]:
+            - strong [ref=e45]: "Employer:"
+            - text: Uber Technologies, Inc.
+          - paragraph [ref=e46]:
+            - strong [ref=e47]: "Job Title:"
+            - text: Software Engineer I
+          - paragraph [ref=e48]:
+            - strong [ref=e49]: "Job Location:"
+            - text: San Francisco, California
+          - paragraph [ref=e50]:
+            - strong [ref=e51]: "Job Type:"
+            - text: Full Time
+          - paragraph [ref=e52]:
+            - strong [ref=e53]: "Rate of Pay:"
+            - text: $150,000 to $166,000 per year
+          - paragraph [ref=e54]:
+            - text: You will be eligible to participate in Uber's bonus program, and may be offered other types of comp. You will also be eligible for various benefits. More details can be found at the following link
+            - link "https://www.uber.com/careers/benefits" [ref=e55] [cursor=pointer]:
+              - /url: https://www.uber.com/careers/benefits
+            - text: .
+          - paragraph [ref=e56]:
+            - strong [ref=e57]: "Duties:"
+            - text: Build customer-facing features and deliver scalable platform capabilities that power rich, performant user experiences. Collaborate across design, product, and platform teams to drive innovation across both front-end and back-end stack. Solve complex problems in business-critical feature flows. Own business-critical core feature flows. Own projects end-to-end and be responsible for working with Product and other stakeholders to refine requirements, create technical designs and specs, implement changes, and see projects through launch and maintenance. May telecommute.
+          - paragraph [ref=e58]: Employer will accept a Bachelor's degree in Computer Science, Computer Systems Engineering, Engineering (Any), Information Technology, Mathematics, Physics, or related field.
+          - paragraph [ref=e59]: "Position requires:"
+          - list [ref=e60]:
+            - listitem [ref=e61]: Creating, designing, and maintaining user interfaces;
+            - listitem [ref=e62]: Web technologies such as HTML, CSS, and JavaScript;
+            - listitem [ref=e63]: Experience with traditional server-side rendering patterns;
+            - listitem [ref=e64]: Full stack including Go backend systems;
+            - listitem [ref=e65]: Running A/B tests and using results to inform product decisions;
+            - listitem [ref=e66]: Interpreting customer behavior and iterating on product flows based on data;
+            - listitem [ref=e67]: Building large-scale software;
+            - listitem [ref=e68]: Building data-driven experiments.
+          - paragraph [ref=e69]: Uber's mission is to reimagine the way the world moves for the better. Here, bold ideas create real-world impact, challenges drive growth, and speed fuels progress. What moves us, moves the world - let's move it forward, together.
+          - paragraph [ref=e70]:
+            - text: Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing
+            - link "this form" [ref=e71] [cursor=pointer]:
+              - /url: https://forms.gle/aDWTk9k6xtMU25Y5A
+            - text: .
+          - paragraph [ref=e72]: Offices continue to be central to collaboration and Uber’s cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role.
+        - link "Apply Now" [ref=e74] [cursor=pointer]:
+          - /url: /careers/apply/interstitial/157476
+      - generic [ref=e86]:
+        - separator [ref=e208]
+        - paragraph [ref=e209]:
+          - link "See our Candidate Privacy Statement" [ref=e210] [cursor=pointer]:
+            - /url: /legal/document/?name=candidate-privacy-notice
+        - paragraph [ref=e211]: Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, Veteran Status, or any other characteristic protected by law.
+      - generic [ref=e98]:
+        - generic [ref=e100]:
+          - generic [ref=e101]:
+            - link "Go to uber.com home" [ref=e103] [cursor=pointer]:
+              - /url: https://www.uber.com/
+              - text: Uber
+            - link "Visit Help Center" [ref=e105] [cursor=pointer]:
+              - /url: https://help.uber.com/
+              - paragraph [ref=e106]: Visit Help Center
+          - generic [ref=e212]:
+            - link "Do not sell or share my personal information" [ref=e213] [cursor=pointer]:
+              - /url: https://privacy.uber.com/privacy/us
+              - paragraph [ref=e214]: Do not sell or share my personal information
+            - link "Google Data Policy" [ref=e215] [cursor=pointer]:
+              - /url: https://www.uber.com/google-disclosure/
+              - paragraph [ref=e216]: Google Data Policy
+        - generic [ref=e108]:
+          - generic [ref=e109]:
+            - generic [ref=e111]: Company
+            - list [ref=e112]:
+              - listitem [ref=e113]:
+                - link "About us" [ref=e114] [cursor=pointer]:
+                  - /url: https://www.uber.com/about/
+                  - paragraph [ref=e115]: About us
+              - listitem [ref=e116]:
+                - link "Newsroom" [ref=e117] [cursor=pointer]:
+                  - /url: https://www.uber.com/newsroom/
+                  - paragraph [ref=e118]: Newsroom
+              - listitem [ref=e119]:
+                - link "Investors" [ref=e120] [cursor=pointer]:
+                  - /url: https://investor.uber.com/
+                  - paragraph [ref=e121]: Investors
+              - listitem [ref=e122]:
+                - link "Start job search" [ref=e123] [cursor=pointer]:
+                  - /url: https://www.uber.com/careers/list/
+                  - paragraph [ref=e124]: Start job search
+          - generic [ref=e125]:
+            - generic [ref=e127]: Products
+            - list [ref=e128]:
+              - listitem [ref=e129]:
+                - link "Ride with Uber" [ref=e130] [cursor=pointer]:
+                  - /url: https://www.uber.com/ride
+                  - paragraph [ref=e131]: Ride
+              - listitem [ref=e132]:
+                - link "Drive with Uber" [ref=e133] [cursor=pointer]:
+                  - /url: https://www.uber.com/drive
+                  - paragraph [ref=e134]: Drive
+              - listitem [ref=e135]:
+                - link "Deliver with Uber" [ref=e136] [cursor=pointer]:
+                  - /url: https://www.uber.com/deliver/
+                  - paragraph [ref=e137]: Deliver
+              - listitem [ref=e138]:
+                - link "Visit the Uber Eats website" [ref=e139] [cursor=pointer]:
+                  - /url: https://www.ubereats.com/
+                  - paragraph [ref=e140]: Eat
+              - listitem [ref=e141]:
+                - link "Visit the Uber for Business website" [ref=e142] [cursor=pointer]:
+                  - /url: https://www.uber.com/business
+                  - paragraph [ref=e143]: Uber for Business
+              - listitem [ref=e144]:
+                - link "Visit the Uber Freight website" [ref=e145] [cursor=pointer]:
+                  - /url: https://www.uberfreight.com/
+                  - paragraph [ref=e146]: Uber Freight
+          - generic [ref=e147]:
+            - generic [ref=e149]: Global citizenship
+            - list [ref=e150]:
+              - listitem [ref=e151]:
+                - link "Learn more about safety" [ref=e152] [cursor=pointer]:
+                  - /url: https://www.uber.com/safety/
+                  - paragraph [ref=e153]: Safety
+              - listitem [ref=e154]:
+                - link "Learn about Uber's commitment to sustainability" [ref=e155] [cursor=pointer]:
+                  - /url: https://www.uber.com/about/sustainability/
+                  - paragraph [ref=e156]: Sustainability
+        - generic [ref=e158]:
+          - list [ref=e159]:
+            - listitem [ref=e160]:
+              - link "linkedin" [ref=e162] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/1815218
+                - img "linkedin" [ref=e163]
+            - listitem [ref=e165]:
+              - link "youtube" [ref=e167] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCgnxoUwDmmyzeigmmcf0hZA
+                - img "youtube" [ref=e168]
+            - listitem [ref=e170]:
+              - link "instagram" [ref=e172] [cursor=pointer]:
+                - /url: https://instagram.com/uber/
+                - img "instagram" [ref=e173]
+            - listitem [ref=e177]:
+              - link "twitter" [ref=e179] [cursor=pointer]:
+                - /url: https://twitter.com/uber
+                - img "twitter" [ref=e180]
+          - list [ref=e182]:
+            - listitem [ref=e183]:
+              - 'button "Current language: English" [ref=e184] [cursor=pointer]':
+                - img [ref=e186]
+                - text: English
+            - listitem [ref=e217]:
+              - 'button "Seeing information for this city: San Diego" [ref=e218] [cursor=pointer]':
+                - img [ref=e220]
+                - generic [ref=e222]: San Diego
+          - generic [ref=e189]:
+            - link "Visit Google Play" [ref=e190] [cursor=pointer]:
+              - /url: https://rides.sng.link/Bw5zn/vz1k?_dl=uber%3A%2F%2F&pcn=careers-footer&mvid=[marketing-visitor-id]
+            - link "Visit the App Store" [ref=e191] [cursor=pointer]:
+              - /url: https://rides.sng.link/Cw5zn/564k?_dl=uber%3A%2F%2F&_smtype=3&pcn=careers-footer&mvid=[marketing-visitor-id]
+        - generic [ref=e193]:
+          - paragraph [ref=e195]:
+            - generic [ref=e196]: © 2026
+            - text: Uber Technologies Inc.
+          - list [ref=e198]:
+            - listitem [ref=e199]:
+              - link "Learn more about Uber's privacy policy" [ref=e200] [cursor=pointer]:
+                - /url: https://www.uber.com/legal/document/?name=privacy-notice
+                - paragraph [ref=e201]: Privacy
+            - listitem [ref=e202]:
+              - link "Learn more about accessibility" [ref=e203] [cursor=pointer]:
+                - /url: https://www.uber.com/about/accessibility/
+                - paragraph [ref=e204]: Accessibility
+            - listitem [ref=e205]:
+              - link "Learn more about Uber's terms" [ref=e206] [cursor=pointer]:
+                - /url: https://www.uber.com/legal/document/?name=general-terms-of-use
+                - paragraph [ref=e207]: Terms
+  - dialog [ref=e223]:
+    - generic [ref=e225]:
+      - paragraph [ref=e226]:
+        - text: This website uses third party cookies to serve you relevant ads and provide personalization by remembering your location. You may opt out from these cookies by selecting the "Opt out" button below. If you have an Uber account, you may opt out of the "sale" or "sharing" of your data
+        - link "here" [ref=e227] [cursor=pointer]:
+          - /url: https://privacy.uber.com/us
+        - text: .
+      - generic [ref=e228]:
+        - button "Opt out" [ref=e229] [cursor=pointer]
+        - button "Got it" [ref=e230] [cursor=pointer]

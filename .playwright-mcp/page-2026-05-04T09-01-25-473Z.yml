@@ -1,0 +1,68 @@
+- generic [ref=e1]:
+  - dialog "Terms and Conditions" [ref=e503]:
+    - generic [active] [ref=e508]:
+      - button "Close" [ref=e510] [cursor=pointer]: 
+      - heading "Terms and Conditions" [level=1] [ref=e512]
+      - generic [ref=e514]:
+        - generic [ref=e515]:
+          - text: "United States:"
+          - link "https://careers.gmfinancial.com/content/dam/gmf-careers-static/documents/privacy/GMF%20US%20Disclaimer.pdf" [ref=e516] [cursor=pointer]:
+            - /url: https://careers.gmfinancial.com/content/dam/gmf-careers-static/documents/privacy/GMF%20US%20Disclaimer.pdf
+        - generic [ref=e518]:
+          - text: "Latin America:"
+          - link "https://careers.gmfinancial.com/content/dam/gmf-careers-static/documents/privacy/GMF%20IO%20Privacy%20Notices%20and%20Disclaimers%2021.03.25%20Clean.pdf" [ref=e519] [cursor=pointer]:
+            - /url: https://careers.gmfinancial.com/content/dam/gmf-careers-static/documents/privacy/GMF%20IO%20Privacy%20Notices%20and%20Disclaimers%2021.03.25%20Clean.pdf
+        - generic [ref=e521]:
+          - text: "Canada:"
+          - link "https://careers.gmfinancial.com/content/dam/gmf-careers-static/documents/privacy/GMF%20Canada%20Disclaimer.pdf" [ref=e522] [cursor=pointer]:
+            - /url: https://careers.gmfinancial.com/content/dam/gmf-careers-static/documents/privacy/GMF%20Canada%20Disclaimer.pdf
+      - button "Agree" [ref=e525] [cursor=pointer]:
+        - generic [ref=e526]: Agree
+  - generic [ref=e2]:
+    - generic [ref=e3]: .
+    - generic [ref=e4]: ..
+    - generic [ref=e5]: .
+  - generic [ref=e7]:
+    - link [ref=e528] [cursor=pointer]:
+      - /url: "#main"
+      - text: Skip to main content.
+    - alert
+    - generic [ref=e451]:
+      - banner [ref=e453]:
+        - generic [ref=e455]:
+          - button [ref=e529] [cursor=pointer]:
+            - generic [ref=e457]: 
+          - generic [ref=e459]:
+            - generic [ref=e460]: Software Development Engineer I
+            - generic [ref=e461]: ...
+      - main [ref=e530]:
+        - heading [level=1] [ref=e531]: Job application form
+        - generic [ref=e466]:
+          - heading [level=1] [ref=e532]: You don't need to have an account
+          - generic [ref=e469]:
+            - paragraph [ref=e470]: Get started right away by using your email or phone number. Your profile will be created and kept up to date automatically as you enter details for each of your job applications.
+            - generic [ref=e472]:
+              - generic [ref=e473]:
+                - generic [ref=e533]:
+                  - generic [ref=e476]: Email Address
+                  - generic [ref=e477]: "*"
+                - textbox [ref=e534]: daris.chen@gmail.com
+              - generic [ref=e481]: honeypot
+              - textbox [ref=e483]
+              - generic [ref=e484]:
+                - text: This is how we'll communicate with you.
+                - button [ref=e535] [cursor=pointer]: Do you want to communicate by phone instead?
+              - generic [ref=e487]:
+                - generic [ref=e490] [cursor=pointer]:
+                  - generic [ref=e492]:
+                    - text: I agree with the
+                    - link [ref=e536]:
+                      - /url: "#"
+                      - text: terms and conditions
+                  - generic [ref=e494]: "*"
+                - alert [ref=e502]: You need to agree to the terms and conditions.
+          - generic [ref=e495]:
+            - button [ref=e537] [cursor=pointer]:
+              - generic [ref=e498]: Cancel
+            - button [ref=e538] [cursor=pointer]:
+              - generic [ref=e500]: Next

@@ -1,0 +1,240 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "Newton Research Logo" [ref=e5]
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/newtonresearch
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - heading "Junior Software Engineer (Backend + AI)" [level=1] [ref=e13]
+            - generic [ref=e14]:
+              - img [ref=e15]
+              - generic [ref=e17]: Greater Boston Area
+          - button "Apply" [ref=e18] [cursor=pointer]
+        - generic [ref=e20]:
+          - paragraph [ref=e21]: Junior Software Engineer (Backend + AI)
+          - paragraph [ref=e22]:
+            - text: About Newton Research
+            - text: Newton Research builds an AI-powered research and analysis platform used by enterprises to unlock insights from their data. Our platform connects to major data warehouses (BigQuery, Snowflake, Databricks, Redshift), runs autonomous AI agents that reason over structured and unstructured data, and presents findings through a rich interactive frontend. We're a small, high-output team where interns work on production code from week one.
+          - paragraph [ref=e23]: "Our stack is real, and we want you to know what you're getting into:"
+          - list [ref=e24]:
+            - listitem [ref=e25]: "Backend: Python 3.13, Django 5.2, Django REST Framework, PostgreSQL, Redis"
+            - listitem [ref=e26]: "AI/ML: OpenAI, Anthropic, and Google LLM APIs; LangChain + LangGraph agent orchestration; sentence-transformers for vector embeddings; RAGAS for evaluation"
+            - listitem [ref=e27]: "Data Science: NumPy, Pandas, Polars, scikit-learn, XGBoost, PyMC (Bayesian), Prophet, Plotly"
+            - listitem [ref=e28]: "Frontend: React 19, TypeScript, Vite, Ant Design, TanStack Query, SCSS Modules"
+            - listitem [ref=e29]: "Infra: Docker, GitHub Actions CI/CD, AWS (S3, ECR), MinIO, Sentry, RQ (Redis Queue) for async workers"
+            - listitem [ref=e30]: "Testing: pytest with 4,700+ tests, Vitest, Playwright E2E, parallel execution via xdist"
+          - paragraph [ref=e31]:
+            - text: What You'll Actually Do
+            - text: This isn't a "shadow an engineer and take notes" internship. You'll touch production code in a codebase with 7,700+ lines of Django models, complex multi-table relationships, and AI agent pipelines that call LLMs, execute tools, and reason over enterprise data.
+            - text: "Typical intern-level work here looks like:"
+            - text: Build API endpoints — Write DRF serializers and viewsets that serve data to our React frontend. Our models have real complexity (JSONFields, custom managers, mixin patterns) so you'll learn to think about data modeling.
+            - text: Extend AI agent capabilities — Add new tools to our LangGraph-based agents. Understand how retrieval-augmented generation works by working on our memory system (vector embeddings + semantic search).
+            - text: Write async task workers — Our RQ workers process everything from document parsing (PDF/Excel/PowerPoint) to LLM inference pipelines. You'll write and debug distributed task logic.
+          - list [ref=e32]:
+            - listitem [ref=e33]: Improve test coverage — We take testing seriously. You'll write pytest tests with real database fixtures, mock external APIs with responses and moto, and learn to catch N+1 queries with nplusone.
+            - listitem [ref=e34]: Ship frontend features — Build React components with TypeScript, wire them to TanStack Query for data fetching, and style them with SCSS Modules. Our frontend includes rich text editing (Milkdown), interactive charts (Nivo, Plotly, Highcharts), and virtualized data tables.
+            - listitem [ref=e35]: Debug AI output — When an agent hallucinates or a retrieval pipeline returns irrelevant results, you'll help diagnose and fix it. This is the skill that separates AI-era developers from everyone else.
+          - paragraph [ref=e36]:
+            - text: Who We're Looking For
+            - text: "We're realistic: true full-stack engineers are rare at the intern level. We're looking for someone who's strong on backend fundamentals, curious about AI, and willing to learn frontend. Here's what matters:"
+            - text: "Required:"
+          - list [ref=e37]:
+            - listitem [ref=e38]: Solid Python fundamentals — you can write a class, debug a traceback, and reason about data structures without AI autocomplete
+            - listitem [ref=e39]: Familiarity with web APIs (you understand HTTP methods, JSON serialization, request/response cycles)
+            - listitem [ref=e40]: Comfort with Git (branching, rebasing, resolving merge conflicts)
+            - listitem [ref=e41]: Experience with at least one database (SQL queries, basic schema design)
+            - listitem [ref=e42]: Genuine curiosity about AI/ML — you've used LLM APIs, built a RAG pipeline, fine-tuned a model, or at least experimented seriously beyond just chatting with ChatGPT
+            - listitem [ref=e43]: Ability to debug AI-generated code — we use AI tools extensively, but shipping broken AI output is worse than writing it yourself
+          - paragraph [ref=e44]: "Nice to Have:"
+          - list [ref=e45]:
+            - listitem [ref=e46]: Django or Flask experience
+            - listitem [ref=e47]: React/TypeScript exposure (even a personal project)
+            - listitem [ref=e48]: Familiarity with Docker and containerized development
+            - listitem [ref=e49]: Experience with vector databases, embeddings, or LLM orchestration frameworks (LangChain, etc.)
+            - listitem [ref=e50]: Contributions to open-source projects
+            - listitem [ref=e51]: A deployed project you can demo (we value this more than your GPA)
+          - paragraph [ref=e52]: "What We Value (Read: What Our Code Says About Us)"
+          - list [ref=e53]:
+            - listitem [ref=e54]: Testing is non-negotiable. 4,700+ tests, parallel CI execution, time-mocking with freezegun, AWS mocking with moto. If you write a feature, you write the test.
+            - listitem [ref=e55]: Automation over manual process. We have 40+ CI/CD deployment pipelines, automated versioning with semantic-release, pre-commit hooks with husky + lint-staged. We invest in tooling.
+            - listitem [ref=e56]: Clean architecture matters. Mixins, custom model managers, structured serializer patterns, typed frontend components. The codebase is organized, and we expect contributions to match.
+            - listitem [ref=e57]: AI is a tool, not magic. We build AI products and we use AI to build them. We expect you to be fluent with AI coding tools, but also to understand what they produce and when they're wrong.
+          - paragraph [ref=e58]: What You'll Learn
+          - list [ref=e59]:
+            - listitem [ref=e60]: How a production AI platform works end-to-end — from data ingestion to LLM inference to user-facing results
+            - listitem [ref=e61]: Django at scale — complex querysets, database optimization, async task processing
+            - listitem [ref=e62]: Modern AI engineering — not just calling APIs, but building retrieval systems, managing embeddings, evaluating output quality with RAGAS
+            - listitem [ref=e63]: Real software engineering practices — code review, CI/CD, testing, observability (Sentry, LangSmith)
+            - listitem [ref=e64]: How to work with enterprise data connectors (BigQuery, Snowflake, Databricks) in a production system
+          - paragraph [ref=e65]: Logistics
+          - list [ref=e66]:
+            - listitem [ref=e67]: Permanent, Full-time
+            - listitem [ref=e68]: "Format: Hybrid — we value in-person collaboration but offer flexibility"
+            - listitem [ref=e69]: "Compensation: $90,000-$110,000"
+          - paragraph [ref=e70]:
+            - text: How to Apply
+            - text: "Send us:"
+            - text: Your GitHub (or equivalent portfolio) — a deployed project, an open-source contribution, or even a well-documented experiment beats a resume
+          - list [ref=e71]:
+            - listitem [ref=e72]:
+              - text: A short note on what you've built with AI tools (not what you've
+              - emphasis [ref=e73]: used
+              - text: — what you've
+              - emphasis [ref=e74]: built
+              - text: )
+            - listitem [ref=e75]: "Your resume (we'll read it, but #1 and #2 matter more)"
+          - paragraph [ref=e76]:
+            - text: We review applications on a rolling basis. The best candidates move fast — don't wait.
+            - emphasis [ref=e77]: Newton Research Inc is an equal opportunity employer. We hire based on skill, curiosity, and demonstrated ability — not pedigree.
+            - text: (edited)
+          - paragraph [ref=e78]
+        - generic [ref=e79]:
+          - img [ref=e80]
+          - generic [ref=e82]:
+            - paragraph [ref=e83]: Create a Job Alert
+            - paragraph [ref=e84]: Interested in building your career at Newton Research? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e85] [cursor=pointer]
+      - separator [ref=e86]
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - generic [ref=e89]:
+            - heading "Apply for this job" [level=2] [ref=e91]
+            - generic [ref=e92]:
+              - paragraph [ref=e94]: "*"
+              - paragraph [ref=e95]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e98] [cursor=pointer]
+        - generic [ref=e99]:
+          - generic [ref=e100]:
+            - generic [ref=e103]:
+              - generic [ref=e104]: First Name*
+              - textbox "First Name" [ref=e105]
+            - generic [ref=e108]:
+              - generic [ref=e109]: Last Name*
+              - textbox "Last Name" [ref=e110]
+            - generic [ref=e113]:
+              - generic [ref=e114]: Email*
+              - textbox "Email" [ref=e115]
+            - group "Phone" [ref=e117]:
+              - generic [ref=e118]: Phone
+              - generic [ref=e121]:
+                - generic [ref=e122]: Country*
+                - generic [ref=e123]:
+                  - log [ref=e125]
+                  - generic [ref=e127]:
+                    - combobox "Country" [ref=e130]
+                    - button "Toggle flyout" [ref=e132] [cursor=pointer]:
+                      - img [ref=e133]
+                  - textbox
+              - generic [ref=e137]:
+                - generic [ref=e138]: Phone*
+                - textbox "Phone" [ref=e139]
+            - group "Resume/CV*" [ref=e141]:
+              - generic [ref=e142]: Resume/CV*
+              - generic [ref=e144]:
+                - generic [ref=e146]:
+                  - button "Attach" [ref=e147] [cursor=pointer]
+                  - generic [ref=e148]: Attach
+                  - button "Attach" [ref=e149]
+                - button "Dropbox" [ref=e151] [cursor=pointer]
+                - button "Google Drive" [ref=e153] [cursor=pointer]
+                - generic [ref=e155]:
+                  - button "Enter manually" [ref=e156] [cursor=pointer]
+                  - generic [ref=e157]: Enter manually
+                - paragraph [ref=e158]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e160]:
+              - generic [ref=e161]: Cover Letter
+              - generic [ref=e163]:
+                - generic [ref=e165]:
+                  - button "Attach" [ref=e166] [cursor=pointer]
+                  - generic [ref=e167]: Attach
+                  - button "Attach" [ref=e168]
+                - button "Dropbox" [ref=e170] [cursor=pointer]
+                - button "Google Drive" [ref=e172] [cursor=pointer]
+                - generic [ref=e174]:
+                  - button "Enter manually" [ref=e175] [cursor=pointer]
+                  - generic [ref=e176]: Enter manually
+                - paragraph [ref=e177]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e178]:
+            - generic [ref=e179]:
+              - separator [ref=e180]
+              - paragraph [ref=e182]: Education
+              - generic [ref=e184]:
+                - generic [ref=e185]: School*
+                - generic [ref=e186]:
+                  - log [ref=e188]
+                  - generic [ref=e190]:
+                    - generic [ref=e191]:
+                      - generic [ref=e192]: Select...
+                      - combobox "School" [ref=e194]
+                    - button "Toggle flyout" [ref=e196] [cursor=pointer]:
+                      - img [ref=e197]
+                  - textbox
+              - generic [ref=e200]:
+                - generic [ref=e201]: Degree*
+                - generic [ref=e202]:
+                  - log [ref=e204]
+                  - generic [ref=e206]:
+                    - generic [ref=e207]:
+                      - generic [ref=e208]: Select...
+                      - combobox "Degree" [ref=e210]
+                    - button "Toggle flyout" [ref=e212] [cursor=pointer]:
+                      - img [ref=e213]
+                  - textbox
+              - generic [ref=e216]:
+                - generic [ref=e217]: Discipline
+                - generic [ref=e218]:
+                  - log [ref=e220]
+                  - generic [ref=e222]:
+                    - generic [ref=e223]:
+                      - generic [ref=e224]: Select...
+                      - combobox "Discipline" [ref=e226]
+                    - button "Toggle flyout" [ref=e228] [cursor=pointer]:
+                      - img [ref=e229]
+              - generic [ref=e234]:
+                - generic [ref=e235]: End date year*
+                - spinbutton "End date year" [ref=e236]
+            - button "Add another" [ref=e237] [cursor=pointer]
+          - generic [ref=e238]:
+            - separator [ref=e239]
+            - generic [ref=e242]:
+              - generic [ref=e243]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e244]
+            - generic [ref=e247]:
+              - generic [ref=e248]: Will you now or in the future require visa sponsorship?*
+              - generic [ref=e249]:
+                - log [ref=e251]
+                - generic [ref=e253]:
+                  - generic [ref=e254]:
+                    - generic [ref=e255]: Select...
+                    - combobox "Will you now or in the future require visa sponsorship?" [ref=e257]
+                  - button "Toggle flyout" [ref=e259] [cursor=pointer]:
+                    - img [ref=e260]
+                - textbox
+            - generic [ref=e264]:
+              - generic [ref=e265]: What is your highest level of education?*
+              - generic [ref=e266]:
+                - log [ref=e268]
+                - generic [ref=e270]:
+                  - generic [ref=e271]:
+                    - generic [ref=e272]: Select...
+                    - combobox "What is your highest level of education?" [ref=e274]
+                  - button "Toggle flyout" [ref=e276] [cursor=pointer]:
+                    - img [ref=e277]
+                - textbox
+            - generic [ref=e281]:
+              - generic [ref=e282]: Please include your GitHub (or equivalent portfolio) — a deployed project, an open-source contribution, or a well-documented experiment. *
+              - textbox "Please include your GitHub (or equivalent portfolio) — a deployed project, an open-source contribution, or a well-documented experiment." [ref=e283]
+            - generic [ref=e286]:
+              - generic [ref=e287]: A short note on what you've built with AI tools (not what you've used — what you've built)
+              - textbox "A short note on what you've built with AI tools (not what you've used — what you've built)" [ref=e288]
+          - button "Submit application" [ref=e290] [cursor=pointer]
+  - contentinfo [ref=e291]:
+    - generic [ref=e292]:
+      - paragraph [ref=e293]: Powered by
+      - link "Greenhouse logo" [ref=e294] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e295]

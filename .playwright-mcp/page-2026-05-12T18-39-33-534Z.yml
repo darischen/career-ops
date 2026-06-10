@@ -1,0 +1,202 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5]: O
+    - generic [ref=e6]: p
+    - generic [ref=e7]: p
+    - generic [ref=e8]: o
+    - generic [ref=e9]: r
+    - generic [ref=e10]: t
+    - generic [ref=e11]: u
+    - generic [ref=e12]: "n"
+    - generic [ref=e13]: i
+    - generic [ref=e14]: t
+    - generic [ref=e15]: "y"
+    - generic [ref=e16]: a
+    - generic [ref=e17]: w
+    - generic [ref=e18]: a
+    - generic [ref=e19]: i
+    - generic [ref=e20]: t
+    - generic [ref=e21]: s
+    - generic [ref=e22]: .
+    - generic [ref=e23]: .
+    - generic [ref=e24]: .
+  - generic [ref=e25]:
+    - alert [ref=e26]
+    - region "PageURL" [ref=e27]: https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25539&siteid=5313&PageType=JobDetails&jobid=5218520
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - navigation "Skip to main content" [ref=e30]:
+          - link "Skip to main content" [ref=e31] [cursor=pointer]:
+            - /url: "#0"
+        - alertdialog "Dialogs"
+        - banner "Page Header" [ref=e33]:
+          - generic [ref=e34]:
+            - img "General Atomics and Affiliated Companies Logo" [ref=e36] [cursor=pointer]
+            - generic: 
+          - navigation "Header Links" [ref=e37]:
+            - navigation "Header Links" [ref=e38]:
+              - text: 
+              - link "Job search" [ref=e39] [cursor=pointer]:
+                - /url: "#0"
+                - generic [ref=e40]: Job search
+              - link "Working at General Atomics" [ref=e41] [cursor=pointer]:
+                - /url: https://www.ga.com/careers/
+                - generic [ref=e42]: Working at General Atomics
+              - link "Sign In" [ref=e43] [cursor=pointer]:
+                - /url: "#0"
+                - generic [ref=e44]: Sign In
+              - text:  
+        - main "Main Content" [ref=e45]:
+          - alert "Alert Messages."
+          - region "Search Details"
+          - region "application" [ref=e46]:
+            - region "Back" [ref=e47]
+            - region "Job Details" [ref=e48]:
+              - generic [ref=e49]:
+                - text: 
+                - generic [ref=e50]:
+                  - paragraph [ref=e52]: 54077BR
+                  - heading "Embedded Software Engineer" [level=1] [ref=e55]
+                  - paragraph [ref=e57]: General Atomics
+                  - paragraph [ref=e59]: San Diego
+                  - paragraph [ref=e61]: California
+                  - generic [ref=e62]:
+                    - paragraph [ref=e63]: Job Summary
+                    - paragraph [ref=e64]:
+                      - text: General Atomics (GA), and its affiliated companies, is one of the world’s leading resources for high-technology systems development ranging from the nuclear fuel cycle to remotely piloted aircraft, airborne sensors, and advanced electric, electronic, wireless and laser technologies.
+                      - text: General Atomics Electromagnetic Systems (GA-EMS) designs and manufactures first-of-a-kind electromagnetic and electric power generation systems. GA-EMS' expanding portfolio of specialized products and integrated system solutions support critical fleet, space systems and satellites, missile defense, power and energy, and process and monitoring applications for defense, industrial, and commercial customers worldwide.
+                      - text: This software engineering position is for the development of user interface software for control systems. This position requires applying innovative approaches to resolving unusual or complex engineering problems. The role includes the analysis, investigation, and resolution of software and control system problems under general direction with limited review. Responsible for the completion of assigned engineering tasks which involve the exercise of independent judgment and discretion about matters of significance. Assignments are normally outlined in terms of overall objectives and reviewed largely at completion. Documents findings, communicates results to engineering staff, makes technical presentations, and may represent the organization as the prime technical contact with customers. Provides direction to design or technical staff and may lead a team of moderately experienced software engineering staff.
+                      - strong [ref=e65]: "DUTIES & RESPONSIBILITIES:"
+                      - list [ref=e66]:
+                        - listitem [ref=e67]: Leads a software team to ensure timely completion of development activities, along with direct supervision of support staff and technicians.
+                        - listitem [ref=e68]: Initiates the planning of engineering projects and develops innovative designs or modifications to meet project goals.
+                        - listitem [ref=e69]: Independently performs difficult/complex engineering work with instructions as to the general expected results.
+                        - listitem [ref=e70]: Performs functional testing of software and control systems by utilizing standard engineering and scientific principles.
+                        - listitem [ref=e71]: Applies technical knowledge to train others in how to analyze, investigate and resolve engineering problems.
+                        - listitem [ref=e72]: Supports operation of engineering systems, develops appropriate documentation of findings, implements solutions, and communicates results to project leadership which may include technical presentations to a wider audience.
+                        - listitem [ref=e73]: Responsible for observing all laws, regulations, and other applicable obligations wherever and whenever business is conducted on behalf of the company.
+                        - listitem [ref=e74]: Expected to work in a safe manner in accordance with established operating procedures and practices.
+                      - text: We recognize and appreciate the value and contributions of individuals with diverse backgrounds and experiences and welcome all qualified individuals to apply
+                  - generic [ref=e75]:
+                    - paragraph [ref=e76]: Job Qualifications
+                    - paragraph [ref=e77]:
+                      - list [ref=e78]:
+                        - listitem [ref=e79]: Typically requires a bachelor’s degree, master’s degree, or PhD in engineering or a related technical discipline from an accredited institution and progressive engineering experience as follows; six or more years of experience with a bachelor’s degree, four or more years of experience with a master’s degree, or two or more years with a PhD. May substitute equivalent engineering experience in lieu of education.
+                        - listitem [ref=e80]: Must have a thorough understanding of software engineering concepts, principles, coding languages, and theory with technical experience demonstrating the application of those concepts. And general knowledge of related technical specialties such as electrical engineering, mechanical engineering, and systems engineering.
+                        - listitem [ref=e81]: Demonstrates the ability to follow and apply engineering knowledge, adapt standard techniques, and utilize the required diagnostics, tools, and equipment, while ensuring safety and regulatory compliance.
+                        - listitem [ref=e82]: Must be able to understand new concepts quickly to apply them throughout an evolving environment and organize, schedule, and coordinate work assignments to meet established timetables.
+                        - listitem [ref=e83]: Good communication, computer, and interpersonal skills are required to enable an effective interface with other professionals, to produce appropriate documentation, and to present results to a wider audience.
+                        - listitem [ref=e84]: Must be able to work both independently and on a team. Able to work extended hours as required.
+                        - listitem [ref=e85]: Solid understanding of user interface design practices. E.g. object oriented design, design patterns, and principles.
+                        - listitem [ref=e86]: Must have strong knowledge of and experience with the C# language and the .NET Framework.
+                        - listitem [ref=e87]: Must have experience with WPF/XAML.
+                        - listitem [ref=e88]: Should have knowledge of the MVVM design pattern.
+                        - listitem [ref=e89]: Experience with GUI design for a tactical user is a plus.
+                        - listitem [ref=e90]: The ability to obtain and maintain a DoD Security Clearance is required.
+                  - generic:
+                    - paragraph [ref=e91]: Job Category
+                    - paragraph [ref=e92]: Engineering
+                  - generic [ref=e93]:
+                    - paragraph [ref=e94]: Experience Level
+                    - paragraph [ref=e95]: Mid-Level (3-7 years)
+                  - generic:
+                    - paragraph [ref=e96]: Workstyle
+                    - paragraph [ref=e97]: Onsite
+                  - generic [ref=e98]:
+                    - paragraph [ref=e99]: Full-Time/Part-Time
+                    - paragraph [ref=e100]: Full-Time Salary
+                  - generic:
+                    - paragraph [ref=e101]: Pay Range Low
+                    - paragraph [ref=e102]: 98,100
+                  - generic [ref=e103]:
+                    - paragraph [ref=e104]: Pay Range High
+                    - paragraph [ref=e105]: 171,398
+                  - generic:
+                    - paragraph [ref=e106]: Travel Percentage Required
+                    - paragraph [ref=e107]: 0% - 25%
+                  - generic [ref=e108]:
+                    - paragraph [ref=e109]: Relocation Assistance Provided?
+                    - paragraph [ref=e110]: "Yes"
+                  - generic:
+                    - paragraph [ref=e111]: US Citizenship Required?
+                    - paragraph [ref=e112]: "Yes"
+                  - generic [ref=e113]:
+                    - paragraph [ref=e114]: Clearance Required?
+                    - paragraph [ref=e115]: Desired
+                  - generic:
+                    - paragraph [ref=e116]: Clearance Level
+                    - paragraph [ref=e117]: Secret
+                - navigation "Actions" [ref=e118]:
+                  - generic [ref=e122]:
+                    - button "Apply to job" [ref=e123] [cursor=pointer]: Apply to job
+                    - button "Save" [ref=e124] [cursor=pointer]: Save
+          - dialog "Overlay dialog"
+          - navigation "Scroll to top" [ref=e125] [cursor=pointer]
+      - generic [ref=e127]:
+        - contentinfo [ref=e128]:
+          - contentinfo [ref=e130]:
+            - generic [ref=e131]:
+              - paragraph [ref=e132]:
+                - text: General Atomics is committed to hiring and retaining a diverse workforce. We are an Equal Opportunity Employer and will consider all qualified applicants for employment without regard to race, color, religion, religious creed, ancestry, gender, pregnancy, sex, sexual orientation, transitioning status, gender identity, gender expression, national origin, age, genetic information, military and veteran status, marital status, medical condition, mental disability, physical disability, or any other basis protected by local, state, or federal law. In accordance with applicable federal law, General Atomics takes affirmative action to employ and advance the employment of qualified protected veterans and individuals with disabilities. We also prohibit compensation discrimination under all applicable laws. U.S. Citizenship is required for certain positions. To learn more, please review the EEOC’s
+                - 'link "\"Know Your Rights: Workplace Discrimination is Illegal\" poster." [ref=e133] [cursor=pointer]':
+                  - /url: https://www.eeoc.gov/poster
+              - paragraph [ref=e134]:
+                - text: We endeavor to make the online job application process accessible to any and all users. If you have a disability that impacts your ability to complete the job application process and would like to request assistance or a reasonable accommodation, please contact (858) 455-4545, or
+                - link "click here" [ref=e135] [cursor=pointer]:
+                  - /url: http://www.ga.com/career-center-assistance-and-accommodation-request-form
+                - text: . This contact information is for accommodation requests only, not to inquire about the status of applications.
+              - paragraph [ref=e136]:
+                - text: For information regarding General Atomics’ collection and use of personal information, please
+                - link "click here" [ref=e137] [cursor=pointer]:
+                  - /url: https://www.ga.com/legal/privacy-notice
+            - list [ref=e139]:
+              - listitem [ref=e140]:
+                - link "Follow us on facebook – Link will open in new tab" [ref=e141] [cursor=pointer]:
+                  - /url: https://www.facebook.com/GeneralAtomics
+                  - generic [ref=e142]: 
+              - listitem [ref=e143]:
+                - link "Follow us on twitter – Link will open in new tab" [ref=e144] [cursor=pointer]:
+                  - /url: https://twitter.com/GaCareers
+                  - generic [ref=e145]: 
+              - listitem [ref=e146]:
+                - link "Follow us on linkedin – Link will open in new tab" [ref=e147] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/general-atomics
+                  - generic [ref=e148]: 
+              - listitem [ref=e149]:
+                - link "Follow us on Glassdoor – Link will open in new tab" [ref=e150] [cursor=pointer]:
+                  - /url: https://www.glassdoor.com/Reviews/General-Atomics-Reviews-E5606.htm
+                  - img "Glassdoor Icon" [ref=e151]
+              - listitem [ref=e152]:
+                - link "Follow us on instagram – Link will open in new tab" [ref=e153] [cursor=pointer]:
+                  - /url: https://www.instagram.com/generalatomics/?hl=en
+                  - generic [ref=e154]: 
+            - generic [ref=e155]:
+              - generic [ref=e156]:
+                - paragraph [ref=e157]: Copyright © 2025 General Atomics. All rights reserved.
+                - list [ref=e158]:
+                  - listitem [ref=e159]:
+                    - link "Do Not Sell or Share My Personal Information" [ref=e160] [cursor=pointer]:
+                      - /url: https://www.ga.com/legal/cpra-request
+                    - text: "|"
+                  - listitem [ref=e161]:
+                    - link "Terms and Conditions" [ref=e162] [cursor=pointer]:
+                      - /url: https://www.ga.com/legal/website-terms-and-conditions
+                    - text: "|"
+                  - listitem [ref=e163]:
+                    - link "Privacy Notice" [ref=e164] [cursor=pointer]:
+                      - /url: https://www.ga.com/legal/privacy-notice
+                    - text: "|"
+                  - listitem [ref=e165]:
+                    - link "Cookie Notice" [ref=e166] [cursor=pointer]:
+                      - /url: https://www.ga.com/legal/cookie-notice
+                    - text: "|"
+                  - listitem [ref=e167]:
+                    - link "Privacy Policy" [ref=e168] [cursor=pointer]:
+                      - /url: https://www.ga.com/legal/privacy-policy
+                    - text: "|"
+                  - listitem [ref=e169]:
+                    - link "Corporate Site" [ref=e170] [cursor=pointer]:
+                      - /url: http://www.ga.com/
+              - paragraph
+        - alert
+        - alert

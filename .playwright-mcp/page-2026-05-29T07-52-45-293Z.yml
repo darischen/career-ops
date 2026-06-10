@@ -1,0 +1,212 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e135]:
+    - generic [ref=e136]:
+      - generic [ref=e137]:
+        - 'heading "Application: Jr. Full Stack Developer" [level=6] [ref=e138]'
+        - button "Exit to job board" [ref=e140] [cursor=pointer]:
+          - generic [ref=e141]:
+            - generic [ref=e142]: 
+            - generic [ref=e143]: Exit to job board
+      - progressbar "Progress bar" [ref=e144]
+    - generic [ref=e148]:
+      - generic [ref=e149]:
+        - 'heading "Application: Jr. Full Stack Developer" [level=4] [ref=e150]'
+        - generic [ref=e151]:
+          - generic [ref=e152]: Résumé*
+          - generic [ref=e153]:
+            - generic [ref=e154]: Total 0 file selected
+            - generic "Total 0 file selected Résumé" [ref=e155] [cursor=pointer]:
+              - button "Drop or select (.doc / .docx / .pdf)" [ref=e156]:
+                - generic [ref=e160]: Drop or select (.doc / .docx / .pdf)
+            - generic [ref=e162]: The résumé will be parsed to fill in the application details
+        - generic [ref=e163]:
+          - generic [ref=e164]: First name*
+          - textbox "First name" [ref=e167]
+        - generic [ref=e169]:
+          - generic [ref=e170]: Last name*
+          - textbox "Last name" [ref=e173]
+        - generic [ref=e175]:
+          - generic [ref=e176]: Email*
+          - textbox "Email" [ref=e179]
+        - generic [ref=e181]:
+          - generic [ref=e182]: Pronouns
+          - generic [ref=e183]:
+            - generic [ref=e186] [cursor=pointer]:
+              - combobox "Pronouns" [ref=e190]
+              - generic [ref=e192]: 
+            - generic [ref=e194]: Add pronouns to your application so interviewers know how to refer to you when talking to or about you.
+        - generic [ref=e195]:
+          - generic [ref=e196]: Current company
+          - textbox "Current company" [ref=e199]
+        - generic [ref=e201]:
+          - generic [ref=e202]: Phone number*
+          - generic [ref=e204]:
+            - generic [ref=e210] [cursor=pointer]:
+              - combobox "Search" [ref=e214]: +1 US
+              - generic [ref=e216]: 
+            - textbox "Phone number" [ref=e219]
+        - generic [ref=e221]:
+          - generic [ref=e222]: Location*
+          - generic [ref=e226]:
+            - generic [ref=e228]: 
+            - textbox "Location" [ref=e229]
+        - generic [ref=e231]:
+          - generic [ref=e232]: Cover letter
+          - generic [ref=e233]:
+            - generic [ref=e234]: Total 0 file selected
+            - generic "Total 0 file selected Cover letter" [ref=e235] [cursor=pointer]:
+              - button "Drop or select (.doc / .docx / .pdf)" [ref=e236]:
+                - generic [ref=e240]: Drop or select (.doc / .docx / .pdf)
+        - generic [ref=e244]:
+          - paragraph [ref=e247]:
+            - text: Are you currently subject to any restrictive covenant, non-compete agreement, non-solicitation, confidentiality, or other contractual restriction with a current or previous employer that could limit, restrict, or prohibit your ability to perform the duties of the position for which you are applying?
+            - generic [ref=e248]: "*"
+          - generic [ref=e253] [cursor=pointer]:
+            - combobox "Select" [ref=e255]: "No"
+            - generic [ref=e258]: 
+          - button "Add comment" [ref=e263] [cursor=pointer]:
+            - generic [ref=e264]:
+              - generic [ref=e265]: 
+              - generic [ref=e266]: Add comment
+        - generic [ref=e269]:
+          - paragraph [ref=e272]:
+            - text: Are you a current or former federal employee?
+            - generic [ref=e273]: "*"
+          - generic [ref=e278] [cursor=pointer]:
+            - combobox "Select" [ref=e280]:
+              - paragraph [ref=e281]: Select
+            - generic [ref=e283]: 
+        - generic [ref=e285]:
+          - paragraph [ref=e288]: What agency did you work for?
+          - textbox [ref=e292]
+        - generic [ref=e294]:
+          - paragraph [ref=e297]: What were the dates of your federal service?
+          - textbox [ref=e301]
+        - generic [ref=e305]:
+          - paragraph [ref=e308]:
+            - text: "Current US Residency Status: please select your current residency status in the United States:"
+            - generic [ref=e309]: "*"
+          - generic [ref=e314] [cursor=pointer]:
+            - combobox "Select" [ref=e316]:
+              - paragraph [ref=e317]: Select
+            - generic [ref=e319]: 
+        - generic [ref=e323]:
+          - generic [ref=e324]:
+            - paragraph [ref=e326]:
+              - text: "Minimum Salary:"
+              - generic [ref=e327]: "*"
+            - generic [ref=e328]: Please enter your minimum salary expectation (in USD per year)
+          - textbox [ref=e332]
+          - paragraph [ref=e335]: 0/7
+        - generic [ref=e338]:
+          - generic [ref=e340]:
+            - generic [ref=e341]:
+              - paragraph [ref=e343]: U.S. Equal Opportunity Employment Information (Completion is voluntary)
+              - paragraph [ref=e345]:
+                - text: Individuals seeking employment at our company are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.
+                - text: Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+            - generic [ref=e347]:
+              - generic [ref=e348]: Gender
+              - generic [ref=e352] [cursor=pointer]:
+                - combobox "Gender" [ref=e354]:
+                  - paragraph [ref=e355]: Select...
+                - generic [ref=e357]: 
+            - generic [ref=e359]:
+              - generic [ref=e360]: Please identify your race
+              - generic [ref=e364] [cursor=pointer]:
+                - combobox "Please identify your race" [ref=e368]
+                - generic [ref=e370]: 
+            - generic [ref=e372]:
+              - generic [ref=e373]: Are you Hispanic/Latino?
+              - generic [ref=e377] [cursor=pointer]:
+                - combobox "Are you Hispanic/Latino?" [ref=e379]:
+                  - paragraph [ref=e380]: Select...
+                - generic [ref=e382]: 
+          - generic [ref=e385]:
+            - paragraph [ref=e388]:
+              - text: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - text: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - text: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - text: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - text: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e393]:
+              - generic [ref=e394]: Veteran Status
+              - generic [ref=e398] [cursor=pointer]:
+                - combobox "Veteran Status" [ref=e400]:
+                  - paragraph [ref=e401]: Select...
+                - generic [ref=e403]: 
+          - generic [ref=e406]:
+            - generic [ref=e407]:
+              - paragraph [ref=e409]:
+                - text: Form CC-305
+                - text: OMB Control Number 1250-0005
+              - paragraph [ref=e411]: Voluntary Self-Identification of Disability
+              - paragraph [ref=e413]: Why are you being asked to complete this form?
+              - paragraph [ref=e414]: Because we do business with the government, we must reach out to, hire, and provide equal opportunity to qualified people with disabilities. To help us measure how well we are doing, we are asking you to tell us if you have a disability or if you ever had a disability.
+              - paragraph [ref=e416]: Completing this form is voluntary, but we hope that you will choose to fill it out. If you are applying for a job, any answer you give will be kept private and will not be used against you in any way. If you already work for us, your answer will not be used against you in any way.
+              - paragraph [ref=e418]: Because a person may become disabled at any time, we are required to ask all of our employees to update their information every five years. You may voluntarily self-identify as having a disability on this form without fear of any punishment because you did not identify as having a disability earlier.
+              - paragraph [ref=e421]: How do you know if you have a disability?
+              - paragraph [ref=e422]: You are considered to have a disability if you have a physical or mental impairment or medical condition that substantially limits a major life activity, or if you have a history or record of such an impairment or medical condition.
+              - paragraph [ref=e424]: "Disabilities include, but are not limited to:"
+              - list [ref=e426]:
+                - listitem [ref=e427]: Blindness
+                - listitem [ref=e428]: Deafness
+                - listitem [ref=e429]: Autism
+                - listitem [ref=e430]: Cancer
+                - listitem [ref=e431]: Diabetes
+                - listitem [ref=e432]: Epilepsy
+                - listitem [ref=e433]: HIV/AIDS
+                - listitem [ref=e434]: Schizophrenia
+                - listitem [ref=e435]: Muscular dystrophy
+                - listitem [ref=e436]: Cerebral palsy
+                - listitem [ref=e437]: Multiple sclerosis (MS)
+                - listitem [ref=e438]: Major depression
+                - listitem [ref=e439]: Bipolar disorder
+                - listitem [ref=e440]: Post-traumatic stress disorder (PTSD)
+                - listitem [ref=e441]: Obsessive compulsive disorder
+                - listitem [ref=e442]: Intellectual disability (previously called mental retardation)
+                - listitem [ref=e443]: Missing limbs or partially missing limbs
+                - listitem [ref=e444]: Impairments requiring the use of a wheelchair
+            - generic [ref=e445]:
+              - generic [ref=e446]: Disability Status
+              - generic [ref=e450] [cursor=pointer]:
+                - combobox "Disability Status" [ref=e452]:
+                  - paragraph [ref=e453]: Select...
+                - generic [ref=e455]: 
+            - paragraph [ref=e458]:
+              - text: Section 503 of the Rehabilitation Act of 1973, as amended. For more information about this form or the equal employment obligations of Federal contractors, visit the U.S. Department of Labor's Office of Federal Contract Compliance Programs (OFCCP) website at
+              - link "www.dol.gov/ofccp" [ref=e459] [cursor=pointer]:
+                - /url: https://www.dol.gov/ofccp
+              - text: .
+              - text: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+        - generic [ref=e461]:
+          - paragraph [ref=e462]:
+            - text: Check
+            - strong [ref=e463]: "Yes"
+            - text: or
+            - strong [ref=e464]: "No"
+            - text: to indicate your agreement to receive text message updates from Concept Plus regarding your job application. Frequency may vary. Message and data rates may apply. Reply HELP for assistance. Reply STOP to opt out of future messaging.
+          - radiogroup [ref=e467]:
+            - radio "Yes - I consent to receiving text messages" [ref=e468] [cursor=pointer]:
+              - paragraph [ref=e474]: Yes - I consent to receiving text messages
+            - radio "No - I do not consent to receiving text messages" [ref=e475] [cursor=pointer]:
+              - paragraph [ref=e481]: No - I do not consent to receiving text messages
+      - generic [ref=e484]:
+        - paragraph [ref=e485]:
+          - text: By clicking "Apply" you agree to Rippling's
+          - link "Terms of Service" [ref=e486] [cursor=pointer]:
+            - /url: https://app.rippling.com/legal/user
+          - text: and
+          - link "User Privacy Notice." [ref=e487] [cursor=pointer]:
+            - /url: https://app.rippling.com/legal/privacy
+            - text: User Privacy Notice
+            - link "." [ref=e488]:
+              - /url: https://app.rippling.com/legal/privacy
+        - paragraph [ref=e490]:
+          - text: Concept Plus uses AI to analyze applications. To learn more or opt out
+          - link "click here" [ref=e491] [cursor=pointer]:
+            - /url: "#"
+          - text: .
+      - button "Apply" [disabled] [ref=e501]:
+        - generic [ref=e503]: Apply
+  - alert [ref=e134]: Apply - Jr. Full Stack Developer

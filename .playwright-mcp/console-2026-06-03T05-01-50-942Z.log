@@ -1,0 +1,3 @@
+[     394ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://landingpoint.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[     545ms] [LOG] init @ https://landingpoint.com/wp-content/themes/nightowls/assets/js/main.js?ver=8768768767:6
+[     869ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://landingpoint.com/job/26052-software-engineer/[object%20Object]:0

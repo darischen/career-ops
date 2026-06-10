@@ -1,0 +1,252 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Compa" [ref=e6] [cursor=pointer]:
+        - /url: http://compa.ai/
+        - img "Compa" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Compa’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /compa?utm_source=Simplify&ref=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer, New Grad" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: Denver Office
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Technology
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: Estimated Base Range $90K – $120K
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [ref=e36] [cursor=pointer]
+          - tab "Application" [selected] [ref=e37] [cursor=pointer]
+        - tabpanel "Application" [ref=e39]:
+          - generic [ref=e40]:
+            - button "Choose File" [ref=e41]
+            - generic [ref=e43]:
+              - generic [ref=e44]:
+                - img [ref=e46]
+                - heading "Autofill from resume" [level=3] [ref=e48]
+              - paragraph [ref=e49]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e51] [cursor=pointer]
+          - generic [ref=e53]:
+            - generic [ref=e54]:
+              - generic [ref=e55]: Name*
+              - textbox "Name*" [ref=e57] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e58]:
+              - generic [ref=e59]: Email*
+              - textbox "Email*" [ref=e61] [cursor=pointer]:
+                - /placeholder: hello@example.com...
+            - generic [ref=e62]:
+              - generic [ref=e63]: Phone Number*
+              - textbox "Phone Number*" [ref=e64] [cursor=pointer]:
+                - /placeholder: 1-415-555-1234...
+            - generic [ref=e65]:
+              - generic [ref=e66]: Location*
+              - generic [ref=e67]:
+                - combobox "Start typing..." [ref=e68] [cursor=pointer]
+                - button [ref=e69] [cursor=pointer]:
+                  - img [ref=e70]
+            - group [ref=e73]:
+              - generic [ref=e74]: In office/hybrid/remote preference*
+              - paragraph [ref=e76]: Compa headquarters are located in Irvine, California, with growing sites in Denver, Colorado and San Francisco, California. We’re a collaborative, curious, and driven team that values transparency, ownership, and continuous learning and prioritizing in person work where possible.
+              - generic [ref=e77]:
+                - generic [ref=e78] [cursor=pointer]:
+                  - img [ref=e79]
+                  - checkbox "Willing to relocate to an office location" [ref=e81]
+                - generic [ref=e82]: Willing to relocate to an office location
+              - generic [ref=e83]:
+                - generic [ref=e84] [cursor=pointer]:
+                  - img [ref=e85]
+                  - checkbox "Remote" [ref=e87]
+                - generic [ref=e88]: Remote
+              - generic [ref=e89]:
+                - generic [ref=e90] [cursor=pointer]:
+                  - img [ref=e91]
+                  - checkbox "Hybrid- Irvine, CA" [ref=e93]
+                - generic [ref=e94]: Hybrid- Irvine, CA
+              - generic [ref=e95]:
+                - generic [ref=e96] [cursor=pointer]:
+                  - img [ref=e97]
+                  - checkbox "Hybrid- Denver, CO" [ref=e99]
+                - generic [ref=e100]: Hybrid- Denver, CO
+              - generic [ref=e101]:
+                - generic [ref=e102] [cursor=pointer]:
+                  - img [ref=e103]
+                  - checkbox "Hybrid- San Francisco, CA" [ref=e105]
+                - generic [ref=e106]: Hybrid- San Francisco, CA
+            - generic [ref=e107]:
+              - generic [ref=e108]: Resume*
+              - button "Resume*" [ref=e109]
+              - generic [ref=e110]:
+                - button "Upload File" [ref=e111] [cursor=pointer]:
+                  - img [ref=e112]
+                  - generic [ref=e114]: Upload File
+                - paragraph [ref=e115]: or drag and drop here
+            - generic [ref=e116]:
+              - generic [ref=e117]: Cover Letter (Optional)
+              - button "Cover Letter (Optional)" [ref=e118]
+              - generic [ref=e119]:
+                - button "Upload File" [ref=e120] [cursor=pointer]:
+                  - img [ref=e121]
+                  - generic [ref=e123]: Upload File
+                - paragraph [ref=e124]: or drag and drop here
+            - generic [ref=e125]:
+              - generic [ref=e126]: LinkedIn Profile URL
+              - textbox "LinkedIn Profile URL" [ref=e128] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e129]:
+              - generic [ref=e130]: What Excites You About This Role?*
+              - textbox "What Excites You About This Role?*" [ref=e131] [cursor=pointer]:
+                - /placeholder: Type here...
+            - group [ref=e133]:
+              - generic [ref=e134]: Do you now, or will you at any point in the future, require visa sponsorship to work in the United States?*
+              - generic [ref=e135]:
+                - radio "Yes" [ref=e138] [cursor=pointer]
+                - generic [ref=e139]: "Yes"
+              - generic [ref=e140]:
+                - radio "No" [ref=e143] [cursor=pointer]
+                - generic [ref=e144]: "No"
+          - generic [ref=e146]:
+            - generic [ref=e147]:
+              - generic [ref=e149]:
+                - paragraph [ref=e150]:
+                  - strong [ref=e151]: U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION
+                  - text: (Completion is voluntary and will not subject you to adverse treatment)
+                - paragraph [ref=e152]
+                - paragraph [ref=e153]: Compa provides equal employment and affirmative action opportunities to applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability.
+                - paragraph [ref=e154]
+                - paragraph [ref=e155]: We invite all applicants to voluntarily self-identify their race, ethnicity, and gender. Submission of the information on this form is strictly voluntary and refusal to provide it will not subject you to any adverse treatment. Information obtained will be retained in a confidential file and separate from personnel records. This information may only be used in accordance with the provision of applicable federal laws, executive orders, and regulations. If you want more information about any of the sections, please check with a company representative.
+              - group [ref=e157]:
+                - generic [ref=e158]: Gender
+                - paragraph [ref=e160]: Input gender
+                - generic [ref=e161]:
+                  - radio "Male" [ref=e164] [cursor=pointer]
+                  - generic [ref=e165]: Male
+                - generic [ref=e166]:
+                  - radio "Female" [ref=e169] [cursor=pointer]
+                  - generic [ref=e170]: Female
+                - generic [ref=e171]:
+                  - radio "Decline to self-identify" [ref=e174] [cursor=pointer]
+                  - generic [ref=e175]: Decline to self-identify
+              - group [ref=e177]:
+                - generic [ref=e178]: Race
+                - generic [ref=e179]:
+                  - list [ref=e180]:
+                    - listitem [ref=e181]:
+                      - paragraph [ref=e182]:
+                        - strong [ref=e183]: Hispanic or Latino
+                        - text: "- A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race."
+                  - list [ref=e184]:
+                    - listitem [ref=e185]:
+                      - paragraph [ref=e186]:
+                        - strong [ref=e187]: White
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+                    - listitem [ref=e188]:
+                      - paragraph [ref=e189]:
+                        - strong [ref=e190]: Black or African American
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the black racial groups of Africa.
+                    - listitem [ref=e191]:
+                      - paragraph [ref=e192]:
+                        - strong [ref=e193]: Native Hawaiian or Other Pacific Islander
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+                    - listitem [ref=e194]:
+                      - paragraph [ref=e195]:
+                        - strong [ref=e196]: Asian
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+                    - listitem [ref=e197]:
+                      - paragraph [ref=e198]:
+                        - strong [ref=e199]: American Indian or Alaska Native
+                        - text: (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.
+                    - listitem [ref=e200]:
+                      - paragraph [ref=e201]:
+                        - strong [ref=e202]: Two or More Races
+                        - text: (Not Hispanic or Latino) - All persons who identify with more than one of the above five races.
+                - generic [ref=e203]:
+                  - radio "Hispanic or Latino" [ref=e206] [cursor=pointer]
+                  - generic [ref=e207]: Hispanic or Latino
+                - generic [ref=e208]:
+                  - radio "White (Not Hispanic or Latino)" [ref=e211] [cursor=pointer]
+                  - generic [ref=e212]: White (Not Hispanic or Latino)
+                - generic [ref=e213]:
+                  - radio "Black or African American (Not Hispanic or Latino)" [ref=e216] [cursor=pointer]
+                  - generic [ref=e217]: Black or African American (Not Hispanic or Latino)
+                - generic [ref=e218]:
+                  - radio "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)" [ref=e221] [cursor=pointer]
+                  - generic [ref=e222]: Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)
+                - generic [ref=e223]:
+                  - radio "Asian (Not Hispanic or Latino)" [ref=e226] [cursor=pointer]
+                  - generic [ref=e227]: Asian (Not Hispanic or Latino)
+                - generic [ref=e228]:
+                  - radio "American Indian or Alaska Native (Not Hispanic or Latino)" [ref=e231] [cursor=pointer]
+                  - generic [ref=e232]: American Indian or Alaska Native (Not Hispanic or Latino)
+                - generic [ref=e233]:
+                  - radio "Two or More Races (Not Hispanic or Latino)" [ref=e236] [cursor=pointer]
+                  - generic [ref=e237]: Two or More Races (Not Hispanic or Latino)
+                - generic [ref=e238]:
+                  - radio "Decline to self-identify" [ref=e241] [cursor=pointer]
+                  - generic [ref=e242]: Decline to self-identify
+            - generic [ref=e243]:
+              - generic [ref=e245]:
+                - paragraph [ref=e246]:
+                  - strong [ref=e247]: SELF-IDENTIFICATION OF VETERAN STATUS
+                  - text: (Completion is voluntary and will not subject you to adverse treatment)
+                - paragraph [ref=e248]: If you believe that you belong to any of the following categories of protected veterans, please indicate by making the appropriate selection
+                - list [ref=e249]:
+                  - listitem [ref=e250]:
+                    - paragraph [ref=e251]:
+                      - strong [ref=e252]: Disabled veteran
+                      - text: – A veteran who served on active duty in the U.S. military and is entitled to disability compensation (or who but for the receipt of military retired pay would be entitled to disability compensation) under laws administered by the Secretary of Veterans Affairs, or was discharged or released from active duty because of a service-connected disability
+                  - listitem [ref=e253]:
+                    - paragraph [ref=e254]:
+                      - strong [ref=e255]: Recently separated veteran
+                      - text: – A veteran separated during the three-year period beginning on the date of the veteran's discharge or release from active duty in the U.S military, ground, naval, or air service
+                  - listitem [ref=e256]:
+                    - paragraph [ref=e257]:
+                      - strong [ref=e258]: Active duty wartime or campaign badge veteran
+                      - text: – A veteran who served on active duty in the U.S. military during a war, or in a campaign or expedition for which a campaign badge was authorized under the laws administered by the Department of Defense
+                  - listitem [ref=e259]:
+                    - paragraph [ref=e260]:
+                      - strong [ref=e261]: Armed forces service medal veteran
+                      - text: "- Armed forces service medal veteran – A veteran who, while serving on active duty in the U.S. military ground, naval, or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985 (61 Fed. Reg. 1209)."
+              - group [ref=e263]:
+                - generic [ref=e264]: Veteran Status
+                - generic [ref=e265]:
+                  - radio "I identify as one or more of the classifications of protected veteran listed above" [ref=e268] [cursor=pointer]
+                  - generic [ref=e269]: I identify as one or more of the classifications of protected veteran listed above
+                - generic [ref=e270]:
+                  - radio "I am not a protected veteran" [ref=e273] [cursor=pointer]
+                  - generic [ref=e274]: I am not a protected veteran
+                - generic [ref=e275]:
+                  - radio "I decline to self-identify for protected veteran status" [ref=e278] [cursor=pointer]
+                  - generic [ref=e279]: I decline to self-identify for protected veteran status
+          - button "Submit Application" [ref=e280] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e281]
+  - contentinfo [ref=e283]:
+    - link "Learn more about Ashby" [ref=e284] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e285]: Powered by
+      - img "Ashby" [ref=e286]
+    - paragraph [ref=e292]:
+      - link "Privacy Policy" [ref=e293] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e294] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e295] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

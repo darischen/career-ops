@@ -1,0 +1,178 @@
+- generic [active] [ref=e1]:
+  - link "Aircall logo" [ref=e4] [cursor=pointer]:
+    - /url: https://jobs.lever.co/aircall
+    - img "Aircall logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "Forward Deployed Engineer" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: Seattle Office
+          - generic [ref=e14]: Sales & Partnerships – 12010 - Solution Engineering /
+          - generic [ref=e15]: Permanent Full Time Employee /
+          - generic [ref=e16]: Hybrid
+      - link "apply for this job" [ref=e18] [cursor=pointer]:
+        - /url: https://jobs.lever.co/aircall/70f40231-0f65-4620-89d6-bbd49fc6fb45/apply
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e21]: Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI together into one seamless workspace.
+        - generic [ref=e23]: "Our momentum comes from a simple idea: help teams work smarter, not harder. Aircall’s AI Voice Agent automates routine calls, AI Assist streamlines post-call work, and AI Assist Pro delivers real-time guidance so people can do their best work. The result is higher revenue, faster resolutions, and teams that scale with confidence."
+        - generic [ref=e25]: Aircall is headquartered in Paris, our European HQ, with a strong North American presence anchored in Seattle, our North American HQ, and teams across Madrid, London, Berlin, San Francisco, New York City, Sydney, and Mexico City. We’ve built a product customers love and a business that’s scaling quickly, backed by world-class investors and driven by rapid AI innovation across multiple product lines.
+        - generic [ref=e26]: At Aircall, you’ll join a company in motion. We’re ambitious, product-driven, and execution-focused, with visible impact, fast decisions, and real growth.
+        - generic [ref=e28]:
+          - strong [ref=e29]: "How we work at Aircall:"
+          - text: We’re customer-obsessed, data-driven, and focused on delivering meaningful outcomes. We value ownership, continuous learning, and thoughtful speed. If you thrive in a collaborative, fast-moving environment where trust and impact matter, you’ll feel at home here.
+        - strong [ref=e32]: About the Team
+        - generic [ref=e34]:
+          - text: Aircall’s Forward Deployed Engineering team connects our innovative AI Agents technology to real-world SMB workflows. We turn possibility into production — delivering automation that improves customer experience, boosts productivity, and unlocks new business value. Working cross-functionally with Product, Engineering, Sales, Solutions, and Customer Success, the team ensures every deployment delivers measurable impact. This is a dynamic, hands-on role at the intersection of
+          - strong [ref=e35]: technical consulting
+          - text: ","
+          - strong [ref=e36]: project leadership
+          - text: ", and"
+          - strong [ref=e37]: AI adoption strategy
+          - text: . You don’t need to be a full-time software engineer, but you should be fluent in APIs, very confident managing technical projects, and eager to continuously learn, build, and scale new models that empower both customers and teammates.
+        - strong [ref=e40]: About the Role
+        - generic [ref=e42]:
+          - text: As a Forward-Deployed Engineer, you’ll own the
+          - strong [ref=e43]: end-to-end delivery
+          - text: of technically sound, low-code AI solutions for Aircall customers. You’ll design, implement, and operationalize workflows that connect the AI Agent with CRMs, help desks, and communication tools. You’ll also play a key role in driving
+          - strong [ref=e44]: team upskilling
+          - text: ","
+          - strong [ref=e45]: building reusable frameworks
+          - text: ", and"
+          - strong [ref=e46]: leading cross-functional initiatives
+          - text: that improve how Aircall deploys AI at scale. This is a hands-on role where you’ll translate customer challenges into scalable technical solutions, working directly with Product and Engineering to refine Aircall’s platform and accelerate adoption.
+        - generic [ref=e48]: Please note, this is not a software engineering role. This is a hybrid, revenue driving role across Solutions Engineering, Software Engineering, Consulting, Professional Services, and Product Ownership
+      - generic [ref=e50]:
+        - heading "What you'll do:" [level=3] [ref=e51]
+        - list [ref=e54]:
+          - listitem [ref=e55]:
+            - strong [ref=e56]: Lead customer discovery and design sessions
+            - text: to map business processes, identify automation opportunities, and define solution architecture.
+          - listitem [ref=e57]:
+            - strong [ref=e58]: Design, build, and deploy integrations
+            - text: using low/no-code platforms (Zapier, Make, n8n, Workato) and CRM automation tools (HubSpot Workflows, Salesforce Flow) with API connectors.
+          - listitem [ref=e59]:
+            - strong [ref=e60]: Collaborate with Engineering
+            - text: to validate technical feasibility, resolve blockers, and share field learnings that inform product improvements.
+          - listitem [ref=e61]:
+            - strong [ref=e62]: Configure and optimize the AI Agent
+            - text: — defining intents, prompts, actions, guardrails, and performance metrics.
+          - listitem [ref=e63]:
+            - strong [ref=e64]: Manage complex, cross-functional deployments
+            - text: — defining timelines, aligning stakeholders, ensuring accountability, and delivering on time and within scope.
+          - listitem [ref=e65]:
+            - strong [ref=e66]: Create scalable models and reusable frameworks
+            - text: (templates, playbooks, reference architectures) that make future projects faster and more consistent.
+          - listitem [ref=e67]:
+            - strong [ref=e68]: Champion continuous learning and enablement
+            - text: — train peers, run internal workshops, and document best practices to raise the technical bar across the team.
+          - listitem [ref=e69]:
+            - strong [ref=e70]: Run global, targeted outbound campaigns
+            - text: within the existing customer base to generate pipeline and accelerate adoption, working closely with the customer marketing team.
+          - listitem [ref=e71]:
+            - strong [ref=e72]: Collaborate with GTM leadership
+            - text: to embed routines and cadences that drive accountability for new product pipeline, forecast accuracy, and performance tracking.
+          - listitem [ref=e73]:
+            - strong [ref=e74]: Own regional top-line targets
+            - text: for assigned products (e.g., AI Voice Agent MRR generated per area) by collaborating with AEs and AMs who hold add-on quotas.
+          - listitem [ref=e75]:
+            - strong [ref=e76]: Act as an internal product owner
+            - text: within the GTM function—defining product-specific MRR strategies, coordinating cross-functional support, and ensuring Aircall delivers the leading AI-enabled communication platform.
+          - listitem [ref=e77]:
+            - strong [ref=e78]: Collaborate with Product and PMM
+            - text: to shape the AI Voice Agent roadmap based on customer needs, integration insights, and field learnings.
+          - listitem [ref=e79]:
+            - strong [ref=e80]: Drive internal and external product education
+            - text: ", including enablement for System Integrators (SIs) and channel partners."
+          - listitem [ref=e81]:
+            - strong [ref=e82]: Maintain deep awareness of AI and CX industry trends
+            - text: ", ensuring Aircall’s positioning remains competitive and insights continuously feed back into product and GTM strategies."
+      - generic [ref=e84]:
+        - heading "What you'll bring:" [level=3] [ref=e85]
+        - generic [ref=e87]:
+          - list [ref=e88]:
+            - listitem [ref=e89]:
+              - strong [ref=e90]: 2–8 years or more
+              - text: in technical consulting, solutions engineering, or integration-focused project management.
+            - listitem [ref=e91]:
+              - text: Strong command of
+              - strong [ref=e92]: APIs, webhooks, and data structures (JSON, REST, GraphQL)
+              - text: — able to design and troubleshoot integrations confidently. Even better if you have experience with MCP Servers.
+            - listitem [ref=e93]:
+              - text: Hands-on experience with
+              - strong [ref=e94]: low-code orchestration tools
+              - text: (Zapier, Make, n8n, Workato) and
+              - strong [ref=e95]: CRM automation
+              - text: (HubSpot, Salesforce).
+            - listitem [ref=e96]:
+              - text: Practical understanding of
+              - strong [ref=e97]: AI workflow configuration
+              - text: ", including prompt engineering, evaluation, and monitoring."
+            - listitem [ref=e98]:
+              - text: Proven ability to
+              - strong [ref=e99]: lead cross-functional projects
+              - text: ", working with Engineering, Product, and Customer Success to deliver scalable outcomes."
+            - listitem [ref=e100]: Excellent communication and stakeholder management skills, translating between technical and business audiences.
+            - listitem [ref=e101]: A growth mindset — constantly learning new tools, frameworks, and ways to improve the customer experience and team capability.
+          - list [ref=e103]:
+            - listitem [ref=e104]:
+              - strong [ref=e105]: "Nice-to-haves:"
+            - listitem [ref=e106]: Experience in telephony, voice, or contact center systems (SIP/WebRTC, call routing, containment, AHT).
+            - listitem [ref=e107]: Familiarity with BI and analytics tools (Looker, BigQuery, Snowflake).
+            - listitem [ref=e108]: Exposure to scripting (JavaScript/Python) for light customization and debugging.
+      - generic [ref=e110]:
+        - heading "What Success Looks Like:" [level=3] [ref=e111]
+        - list [ref=e114]:
+          - listitem [ref=e115]:
+            - text: Consistent delivery of
+            - strong [ref=e116]: high-quality, scalable AI Agent deployments
+            - text: with clear business outcomes.
+          - listitem [ref=e117]:
+            - text: Shortened
+            - strong [ref=e118]: time-to-first-value
+            - text: and increased automation adoption across SMB customers.
+          - listitem [ref=e119]: Reusable frameworks, models, and templates actively used by peers and partners.
+          - listitem [ref=e120]: Strong collaboration with Engineering and Product to enhance platform capabilities.
+          - listitem [ref=e121]:
+            - text: Demonstrated leadership in
+            - strong [ref=e122]: team enablement and upskilling
+            - text: ", with measurable impact on technical excellence."
+          - listitem [ref=e123]: Sustained improvements in customer metrics (containment, AHT, CSAT) and revenue impact (ARR, NRR) driven by your solutions
+      - generic [ref=e124]:
+        - generic [ref=e125]: $84,000 - $96,000 a year
+        - generic [ref=e127]: This base range is not including a quarterly bonus, equity, and other benefits. The maximum OTE for this role is 160K, including a 64K bonus. The actual salary offered will carefully consider a wide range of factors, including your skills, location, qualifications, and experience.
+      - generic [ref=e128]:
+        - strong [ref=e130]: Why This Role is Unique
+        - generic [ref=e132]: This is a role for builders, connectors, and enablers. You’ll be at the intersection of AI innovation, customer experience, and scalable delivery — combining technical curiosity with a consulting mindset. Every project you lead not only delivers value for customers but also strengthens Aircall’s internal capability to deploy AI faster and smarter.
+        - generic [ref=e134]: If you’re motivated by making cutting-edge technology accessible and impactful — while continuously learning and helping others do the same — this is the perfect next step in your career.
+        - generic [ref=e136]: Why join us?
+        - generic [ref=e138]: 🚀 Key moment to join Aircall in terms of growth and opportunities
+        - generic [ref=e139]: 💆‍♀️ Our people matter, work-life balance is important at Aircall
+        - generic [ref=e140]: 📚 Fast-learning environment, entrepreneurial and strong team spirit
+        - generic [ref=e141]: "🌍 45+ Nationalities: cosmopolite & multi-cultural mindset"
+        - generic [ref=e142]: 💵 Competitive salary package & benefits
+        - generic [ref=e143]: 🏨 Medical, dental, and vision insurance is 100% covered
+        - generic [ref=e144]: 📈 401k plan with company matching!
+        - generic [ref=e145]: ✈️ Unlimited PTO — take the time you need to come to work feeling great!
+        - generic [ref=e146]: ⭐️ Wellness, internet, and childcare reimbursements
+        - generic [ref=e147]: 💚 Generous parental leave policy
+        - generic [ref=e149]: "DE&I Statement:"
+        - generic [ref=e150]: At Aircall, we believe diversity, equity and inclusion – irrespective of origins, identity, background and orientations – are core to our journey.
+        - generic [ref=e152]: We pride ourselves on promoting active inclusion within our business to foster a strong sense of belonging for all. We’re working to create a place filled with diverse people who can enrich and learn from one another. We’re committed to ensuring that everyone not only has a seat at the table but is valued and respected at it by providing equal opportunities to develop and thrive.
+        - generic [ref=e154]: We will constantly challenge ourselves to make sure that we live up to our ambitions around diversity, equity and inclusion, and keep this conversation open. Above all else, we understand and acknowledge that we have work to do and much to learn.
+        - generic [ref=e156]:
+          - text: Want to know more about candidate privacy? Find our
+          - link "Candidate Privacy Notice here." [ref=e157] [cursor=pointer]:
+            - /url: https://aircall.io/candidate-privacy-notice/
+      - generic [ref=e159]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e161] [cursor=pointer]:
+        - /url: https://jobs.lever.co/aircall/70f40231-0f65-4620-89d6-bbd49fc6fb45/apply
+  - generic [ref=e163]:
+    - paragraph [ref=e164]:
+      - link "Aircall Home Page" [ref=e165] [cursor=pointer]:
+        - /url: http://aircall.io
+    - link "Jobs powered by Lever logo" [ref=e166] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e167]: Jobs powered by
+      - img "Lever logo" [ref=e168]

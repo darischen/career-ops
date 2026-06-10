@@ -1,0 +1,337 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "CHAOS Industries Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://chaosinc.com?gh_src=be7dbdf57us
+        - img "CHAOS Industries Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/chaosindustries?gh_src=be7dbdf57us
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e12]:
+          - generic [ref=e13]:
+            - heading "Software Engineer - Data Engineering" [level=1] [ref=e14]
+            - generic [ref=e15]:
+              - img [ref=e16]
+              - generic [ref=e18]: Hawthorne, California, United States
+          - button "Apply" [ref=e19] [cursor=pointer]
+        - generic [ref=e21]:
+          - paragraph [ref=e22]: CHAOS builds distributed sensor networks that detect threats to warfighters, borders, and critical infrastructure faster than any system in the world. Our Coherent Distributed Networks (CDN™) technology fuses data from radars, EO/IR sensors, and electronic warfare systems across land, sea, and air-operating as one unified sensing platform.
+          - paragraph [ref=e23]:
+            - strong [ref=e24]: Role Overview
+            - text: We're looking for a
+            - strong [ref=e25]: Software Engineer
+            - text: to build the data systems that make this possible. You'll design pipelines that move sensor data from the edge to decision-makers in real time, integrate feeds from dozens of heterogeneous sources, and create the data infrastructure that powers products like Vanquish™. This isn't abstract data work - every pipeline you build directly enables faster threat detection and better outcomes for defenders in the field.
+            - text: You'll work across teams with hardware engineers, systems engineers, and operators to understand what data matters and how to get it where it needs to go. As we scale, you'll help shape the architecture of the CHAOS Operating System - a unified data backbone connecting engineering, operations, and manufacturing.
+          - paragraph [ref=e26]:
+            - strong [ref=e27]: Responsibilities
+            - text: • Design and build data pipelines that ingest, transform, and deliver sensor and operational data in real time
+            - text: • Integrate data from diverse sources - radars, sensors, enterprise systems - into unified, queryable formats
+            - text: • Build and maintain data infrastructure including real-time streaming, batch processing, and storage systems
+            - text: • Collaborate with hardware, systems, and software engineers to ensure data flows support mission-critical workflows
+            - text: • Monitor, troubleshoot, and optimize pipeline performance for reliability and low latency
+            - text: • Contribute to architectural decisions as the data platform evolves
+            - text: • Work 3+ days per week from our San Francisco or Los Angeles office
+          - paragraph [ref=e28]:
+            - strong [ref=e29]: Minimum Requirements
+            - text: • 1-2 years of experience in software development, data engineering, or a related field
+            - text: • Proficiency in Python and SQL
+            - text: • Experience building or maintaining data pipelines, ETL workflows, or backend data services
+            - text: • Familiarity with data modeling concepts and working with structured/unstructured data
+            - text: • Strong problem-solving skills and ability to debug complex data issues
+          - paragraph [ref=e30]:
+            - strong [ref=e31]: Preferred Requirements
+            - text: • Experience with real-time data processing or streaming technologies (Kafka, Spark Streaming, Flink)
+            - text: • Familiarity with Palantir Foundry or similar enterprise data platforms
+            - text: • Experience with cloud platforms (Azure, AWS, GCP)
+            - text: • Background in defense, aerospace, or sensor systems (radar, EO/IR, EW)
+            - text: • Experience with containerization (Docker) and orchestration (Kubernetes)
+            - text: • Familiarity with data warehousing solutions and NoSQL databases
+          - paragraph [ref=e32]:
+            - strong [ref=e33]: Why CHAOS?
+          - list [ref=e34]:
+            - listitem [ref=e35]:
+              - strong [ref=e36]: "Health Benefits:"
+              - text: Medical, dental, and vision benefits 100% paid for by the company
+            - listitem [ref=e37]:
+              - strong [ref=e38]: Additional benefits
+              - text: ": 401k (+ 50% company match up to 6% of pay), FSA, HSA, life insurance, and more"
+            - listitem [ref=e39]:
+              - strong [ref=e40]: "Our Perks:"
+              - text: Free daily lunch, ‘No meeting Fridays’, unlimited PTO, casual dress code
+            - listitem [ref=e41]:
+              - strong [ref=e42]: "Compensation Components:"
+              - text: Competitive base salaries, generous pre-IPO stock option grants, relocation assistance, and (coming soon!) annual bonuses
+            - listitem [ref=e43]:
+              - strong [ref=e44]: "Team Growth:"
+              - text: 200 employees and counting across 5 global offices
+          - emphasis [ref=e46]:
+            - strong [ref=e47]: $140k-220k
+          - paragraph [ref=e48]:
+            - emphasis [ref=e49]: The stated compensation range reflects only the targeted base compensation range and excludes additional earnings such as bonus, equity, and benefits. If your compensation requirements fall outside of the range, we still encourage you to apply. The salary range for this role is an estimate based on a range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations.
+          - paragraph [ref=e50]:
+            - emphasis [ref=e51]: "#LI-onsite"
+        - generic [ref=e52]:
+          - img [ref=e53]
+          - generic [ref=e55]:
+            - paragraph [ref=e56]: Create a Job Alert
+            - paragraph [ref=e57]: Interested in building your career at CHAOS Industries? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e58] [cursor=pointer]
+      - separator [ref=e59]
+      - generic [ref=e60]:
+        - generic [ref=e61]:
+          - generic [ref=e62]:
+            - heading "Apply for this job" [level=2] [ref=e64]
+            - generic [ref=e65]:
+              - paragraph [ref=e67]: "*"
+              - paragraph [ref=e68]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e71] [cursor=pointer]
+        - generic [ref=e72]:
+          - generic [ref=e73]:
+            - generic [ref=e76]:
+              - generic [ref=e77]: First Name*
+              - textbox "First Name" [ref=e78]
+            - generic [ref=e81]:
+              - generic [ref=e82]: Last Name*
+              - textbox "Last Name" [ref=e83]
+            - generic [ref=e86]:
+              - generic [ref=e87]: Email*
+              - textbox "Email" [ref=e88]
+            - group "Phone" [ref=e90]:
+              - generic [ref=e91]: Phone
+              - generic [ref=e94]:
+                - generic [ref=e95]: Country*
+                - generic [ref=e96]:
+                  - log [ref=e98]
+                  - generic [ref=e100]:
+                    - combobox "Country" [ref=e103]
+                    - button "Toggle flyout" [ref=e105] [cursor=pointer]:
+                      - img [ref=e106]
+                  - textbox
+              - generic [ref=e110]:
+                - generic [ref=e111]: Phone*
+                - textbox "Phone" [ref=e112]
+            - generic [ref=e113]:
+              - generic [ref=e115]:
+                - generic [ref=e116]: Location (City)*
+                - generic [ref=e117]:
+                  - log [ref=e119]
+                  - combobox "Location (City)" [ref=e124]
+                  - textbox
+              - button "Locate me" [ref=e125] [cursor=pointer]
+            - group "Resume/CV*" [ref=e127]:
+              - generic [ref=e128]: Resume/CV*
+              - generic [ref=e130]:
+                - generic [ref=e132]:
+                  - button "Attach" [ref=e133] [cursor=pointer]
+                  - generic [ref=e134]: Attach
+                  - button "Attach" [ref=e135]
+                - button "Dropbox" [ref=e137] [cursor=pointer]
+                - button "Google Drive" [ref=e139] [cursor=pointer]
+                - generic [ref=e141]:
+                  - button "Enter manually" [ref=e142] [cursor=pointer]
+                  - generic [ref=e143]: Enter manually
+                - paragraph [ref=e144]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e146]:
+              - generic [ref=e147]: Cover Letter
+              - generic [ref=e149]:
+                - generic [ref=e151]:
+                  - button "Attach" [ref=e152] [cursor=pointer]
+                  - generic [ref=e153]: Attach
+                  - button "Attach" [ref=e154]
+                - button "Dropbox" [ref=e156] [cursor=pointer]
+                - button "Google Drive" [ref=e158] [cursor=pointer]
+                - generic [ref=e160]:
+                  - button "Enter manually" [ref=e161] [cursor=pointer]
+                  - generic [ref=e162]: Enter manually
+                - paragraph [ref=e163]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e164]:
+            - separator [ref=e165]
+            - generic [ref=e168]:
+              - generic [ref=e169]: Website
+              - textbox "Website" [ref=e170]
+            - generic [ref=e173]:
+              - generic [ref=e174]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e175]
+            - generic [ref=e178]:
+              - generic [ref=e179]: I live within commutable distance of or am willing to relocate to the location where this position is based.*
+              - generic [ref=e180]:
+                - log [ref=e182]
+                - generic [ref=e184]:
+                  - generic [ref=e185]:
+                    - generic [ref=e186]: Select...
+                    - combobox "I live within commutable distance of or am willing to relocate to the location where this position is based." [ref=e188]
+                  - button "Toggle flyout" [ref=e190] [cursor=pointer]:
+                    - img [ref=e191]
+                - textbox
+            - generic [ref=e195]:
+              - generic [ref=e196]: Are you authorized to work for any employer in the United States?*
+              - generic [ref=e197]:
+                - log [ref=e199]
+                - generic [ref=e201]:
+                  - generic [ref=e202]:
+                    - generic [ref=e203]: Select...
+                    - combobox "Are you authorized to work for any employer in the United States?" [ref=e205]
+                  - button "Toggle flyout" [ref=e207] [cursor=pointer]:
+                    - img [ref=e208]
+                - textbox
+            - generic [ref=e212]:
+              - generic [ref=e213]: Are you a U.S. Person (i.e. a U.S. Citizen, a lawful permanent resident of the U.S., or a protected individual as defined by 8 U.S.C. 1324b(a)(3)) who can obtain and maintain a Security Clearance?*
+              - generic [ref=e214]:
+                - log [ref=e216]
+                - generic [ref=e218]:
+                  - generic [ref=e219]:
+                    - generic [ref=e220]: Select...
+                    - combobox "Are you a U.S. Person (i.e. a U.S. Citizen, a lawful permanent resident of the U.S., or a protected individual as defined by 8 U.S.C. 1324b(a)(3)) who can obtain and maintain a Security Clearance?" [ref=e222]
+                  - button "Toggle flyout" [ref=e224] [cursor=pointer]:
+                    - img [ref=e225]
+                - textbox
+            - generic [ref=e227]:
+              - generic [ref=e229]:
+                - generic [ref=e230]: Do you presently hold an active U.S. security clearance, or are you eligible to obtain and maintain a U.S. security clearance?*
+                - generic [ref=e231]:
+                  - log [ref=e233]
+                  - generic [ref=e235]:
+                    - generic [ref=e236]:
+                      - generic [ref=e237]: Select...
+                      - combobox "Do you presently hold an active U.S. security clearance, or are you eligible to obtain and maintain a U.S. security clearance?" [ref=e239]
+                    - button "Toggle flyout" [ref=e241] [cursor=pointer]:
+                      - img [ref=e242]
+                  - textbox
+              - generic [ref=e245]:
+                - paragraph
+                - paragraph
+                - paragraph [ref=e246]:
+                  - text: Please note this position
+                  - strong [ref=e247]: does not
+                  - text: necessarily require eligibility to obtain and maintain a U.S. security clearance.
+                - paragraph
+                - paragraph
+            - generic [ref=e248]:
+              - generic [ref=e250]:
+                - generic [ref=e251]: Are you any of the following “protected individual(s)” as defined in the Immigration and Naturalization Act, 8 U.S.C. 1324b(a)(3)?*
+                - generic [ref=e252]:
+                  - log [ref=e254]
+                  - generic [ref=e256]:
+                    - generic [ref=e257]:
+                      - generic [ref=e258]: Select...
+                      - combobox "Are you any of the following “protected individual(s)” as defined in the Immigration and Naturalization Act, 8 U.S.C. 1324b(a)(3)?" [ref=e260]
+                    - button "Toggle flyout" [ref=e262] [cursor=pointer]:
+                      - img [ref=e263]
+                  - textbox
+              - generic [ref=e266]:
+                - paragraph
+                - paragraph [ref=e267]:
+                  - text: EXPORT CONTROLS - This position
+                  - emphasis [ref=e268]:
+                    - strong [ref=e269]: may
+                  - text: require access to information and technology that is subject to U.S. export controls. Your responses to the questions below will be used solely to determine your eligibility under U.S. law to receive information and materials subject to U.S. export controls.
+                - paragraph
+          - generic [ref=e270]:
+            - separator [ref=e271]
+            - generic [ref=e272]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e273]
+              - paragraph [ref=e274]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e275]: As set forth in CHAOS Industries’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e278]:
+              - generic [ref=e279]: Gender
+              - generic [ref=e280]:
+                - log [ref=e282]
+                - generic [ref=e284]:
+                  - generic [ref=e285]:
+                    - generic [ref=e286]: Select...
+                    - combobox "Gender" [ref=e288]
+                  - button "Toggle flyout" [ref=e290] [cursor=pointer]:
+                    - img [ref=e291]
+            - generic [ref=e293]:
+              - generic [ref=e295]:
+                - generic [ref=e296]: Are you Hispanic/Latino?
+                - generic [ref=e297]:
+                  - log [ref=e299]
+                  - generic [ref=e301]:
+                    - generic [ref=e302]:
+                      - generic [ref=e303]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e305]
+                    - button "Toggle flyout" [ref=e307] [cursor=pointer]:
+                      - img [ref=e308]
+              - link "Race & Ethnicity Definitions" [ref=e310] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e311]:
+              - paragraph [ref=e312]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e313]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e314]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e315]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e316]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e319]:
+              - generic [ref=e320]: Veteran Status
+              - generic [ref=e321]:
+                - log [ref=e323]
+                - generic [ref=e325]:
+                  - generic [ref=e326]:
+                    - generic [ref=e327]: Select...
+                    - combobox "Veteran Status" [ref=e329]
+                  - button "Toggle flyout" [ref=e331] [cursor=pointer]:
+                    - img [ref=e332]
+            - separator [ref=e334]
+            - generic [ref=e335]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e336]
+              - generic [ref=e337]:
+                - generic [ref=e338]:
+                  - generic [ref=e339]: Form CC-305
+                  - generic [ref=e340]: Page 1 of 1
+                - generic [ref=e341]:
+                  - generic [ref=e342]: OMB Control Number 1250-0005
+                  - generic [ref=e343]: Expires 04/30/2026
+              - strong [ref=e344]: Why are you being asked to complete this form?
+              - paragraph [ref=e345]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e346]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e347] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e348]: How do you know if you have a disability?
+              - paragraph [ref=e349]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e350]: "Disabilities include, but are not limited to:"
+              - list [ref=e351]:
+                - listitem [ref=e352]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e353]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e354]: Blind or low vision
+                - listitem [ref=e355]: Cancer (past or present)
+                - listitem [ref=e356]: Cardiovascular or heart disease
+                - listitem [ref=e357]: Celiac disease
+                - listitem [ref=e358]: Cerebral palsy
+                - listitem [ref=e359]: Deaf or serious difficulty hearing
+                - listitem [ref=e360]: Diabetes
+                - listitem [ref=e361]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e362]: Epilepsy or other seizure disorder
+                - listitem [ref=e363]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e364]: Intellectual or developmental disability
+                - listitem [ref=e365]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e366]: Missing limbs or partially missing limbs
+                - listitem [ref=e367]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e368]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e369]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e370]: Partial or complete paralysis (any cause)
+                - listitem [ref=e371]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e372]: Short stature (dwarfism)
+                - listitem [ref=e373]: Traumatic brain injury
+            - generic [ref=e376]:
+              - generic [ref=e377]: Disability Status
+              - generic [ref=e378]:
+                - log [ref=e380]
+                - generic [ref=e382]:
+                  - generic [ref=e383]:
+                    - generic [ref=e384]: Select...
+                    - combobox "Disability Status" [ref=e386]
+                  - button "Toggle flyout" [ref=e388] [cursor=pointer]:
+                    - img [ref=e389]
+            - paragraph [ref=e392]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e394] [cursor=pointer]
+  - contentinfo [ref=e395]:
+    - generic [ref=e396]:
+      - paragraph [ref=e397]: Powered by
+      - link "Greenhouse logo" [ref=e398] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e399]

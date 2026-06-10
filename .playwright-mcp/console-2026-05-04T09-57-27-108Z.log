@@ -1,0 +1,9 @@
+[    3963ms] [INFO] Media player loading... @ https://wd3.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    4226ms] [INFO] Media player loading... @ https://wd3.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    5405ms] [INFO] Media player initializing... @ https://wd3.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    5406ms] [INFO] Media player initializing... @ https://wd3.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    6009ms] [INFO] Media player initialized... @ https://wd3.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    6009ms] [ERROR] TypeError: Cannot read properties of null (reading 'appendChild')
+    at new MuseApi (https://wd3.myworkday.com/wday/backpack-hub/muse-web-client/2026.18.1809/214378204ba1dac13b79.muse-api-standalone.js:1:53367)
+    at https://wd3.myworkdaycdn.com/wday/backpack-hub/muse/wday/js/muse-viewer-standalone.js:2:368172 @ https://wd3.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    6752ms] [INFO] Media player ready @ https://wd3.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243

@@ -1,0 +1,136 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e8]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - heading [level=1]
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - button "English" [ref=e16] [cursor=pointer]:
+            - generic [ref=e20]: English
+          - button "Settings" [ref=e206] [cursor=pointer]:
+            - generic [ref=e211]: Settings
+          - button "daris.chen@gmail.com" [ref=e214] [cursor=pointer]:
+            - generic [ref=e219]: daris.chen@gmail.com
+        - navigation [ref=e28]:
+          - button "Careers Home" [ref=e29] [cursor=pointer]
+          - button "Search for Jobs" [ref=e30] [cursor=pointer]
+          - button "Candidate Home" [ref=e220] [cursor=pointer]
+          - button "Job Alerts" [ref=e221] [cursor=pointer]
+  - main [ref=e93]:
+    - generic [ref=e94]:
+      - generic [ref=e95]:
+        - link "Back to Job Posting" [ref=e97] [cursor=pointer]:
+          - generic [ref=e101]: Back to Job Posting
+        - heading "Software Engineer 1" [level=2] [ref=e102]
+      - generic "Application Progress" [ref=e103]:
+        - list [ref=e104]:
+          - listitem [ref=e105]:
+            - generic: current step 1 of 6
+            - generic [ref=e111]: My Information
+          - listitem [ref=e112]:
+            - generic: step 2 of 6
+            - generic [ref=e118]: My Experience
+          - listitem [ref=e119]:
+            - generic: step 3 of 6
+            - generic [ref=e125]: Application Questions 1 of 2
+          - listitem [ref=e126]:
+            - generic: step 4 of 6
+            - generic [ref=e132]: Application Questions 2 of 2
+          - listitem [ref=e133]:
+            - generic: step 5 of 6
+            - generic [ref=e139]: Voluntary Disclosures
+          - listitem [ref=e140]:
+            - generic: step 6 of 6
+            - generic [ref=e146]: Review
+      - generic [ref=e154]:
+        - generic [ref=e155]:
+          - heading "My Information" [active] [level=3] [ref=e222]
+          - generic [ref=e223]: "* Indicates a required field"
+          - generic [ref=e224]:
+            - group [ref=e225]:
+              - generic [ref=e227]:
+                - generic [ref=e229]: How Did You Hear About Us?*
+                - generic [ref=e235] [cursor=pointer]:
+                  - textbox "How Did You Hear About Us?" [ref=e236]:
+                    - /placeholder: Search
+                  - generic [ref=e237]: 0 items selected
+            - group [ref=e241]:
+              - generic [ref=e243]:
+                - generic [ref=e245]: Country*
+                - button "Country United States of America Required" [ref=e249]: United States of America
+            - group "Legal Name" [ref=e251]:
+              - heading "Legal Name" [level=4] [ref=e252]
+              - generic [ref=e253]:
+                - generic [ref=e254]:
+                  - generic [ref=e256]: First Name*
+                  - textbox "First Name" [ref=e259]
+                - generic [ref=e260]:
+                  - generic [ref=e262]: Last Name*
+                  - textbox "Last Name" [ref=e265]
+                - generic [ref=e266]:
+                  - generic [ref=e267]: I have a preferred name
+                  - checkbox "I have a preferred name" [ref=e272] [cursor=pointer]
+            - group "Address" [ref=e274]:
+              - heading "Address" [level=4] [ref=e275]
+              - generic [ref=e276]:
+                - generic [ref=e277]:
+                  - generic [ref=e279]: Address Line 1*
+                  - textbox "Address Line 1" [ref=e282]
+                - generic [ref=e283]:
+                  - generic [ref=e285]: City*
+                  - textbox "City" [ref=e288]
+                - generic [ref=e289]:
+                  - generic [ref=e291]: State*
+                  - button "State Select One Required" [ref=e295]: Select One
+                - generic [ref=e296]:
+                  - generic [ref=e298]: Postal Code*
+                  - textbox "Postal Code" [ref=e301]
+            - group "Email Address" [ref=e303]:
+              - heading "Email Address" [level=4] [ref=e304]
+              - generic [ref=e307]: daris.chen@gmail.com
+            - group "Phone" [ref=e309]:
+              - heading "Phone" [level=4] [ref=e310]
+              - generic [ref=e311]:
+                - generic [ref=e312]:
+                  - generic [ref=e314]: Phone Device Type*
+                  - button "Phone Device Type Select One Required" [ref=e318]: Select One
+                - generic [ref=e319]:
+                  - generic [ref=e321]: Country Phone Code*
+                  - generic [ref=e326] [cursor=pointer]:
+                    - generic:
+                      - textbox "Country Phone Code" [ref=e327]:
+                        - /placeholder: Search
+                      - generic [ref=e328]: 1 item selected, United States of America (+1)
+                    - listbox "items selected" [ref=e330]:
+                      - option "United States of America (+1), press delete to clear value." [ref=e331]:
+                        - paragraph [ref=e336]: United States of America (+1)
+                - generic [ref=e340]:
+                  - generic [ref=e342]: Phone Number*
+                  - textbox "Phone Number" [ref=e345]
+                - generic [ref=e346]:
+                  - generic [ref=e347]: Phone Extension
+                  - textbox "Phone Extension" [ref=e350]
+        - button "Save and Continue" [ref=e354] [cursor=pointer]
+  - generic [ref=e37]:
+    - generic [ref=e38]: Follow Us
+    - list [ref=e39]:
+      - listitem [ref=e40] [cursor=pointer]:
+        - link "X" [ref=e41]:
+          - /url: https://twitter.com/illumina
+      - listitem [ref=e45] [cursor=pointer]:
+        - link "YouTube" [ref=e46]:
+          - /url: https://www.youtube.com/playlist?list=PLKRu7cmBQlai7YdNq6jrP1jxDueGBtteZ
+      - listitem [ref=e52] [cursor=pointer]:
+        - link "Glassdoor" [ref=e53]:
+          - /url: https://www.glassdoor.com/Overview/Working-at-Illumina-EI_IE11671.11,19.htm
+      - listitem [ref=e58] [cursor=pointer]:
+        - link "LinkedIn" [ref=e59]:
+          - /url: https://www.linkedin.com/company/illumina/
+      - listitem [ref=e63] [cursor=pointer]:
+        - link "Facebook" [ref=e64]:
+          - /url: https://www.facebook.com/illuminainc
+    - generic [ref=e68]:
+      - img [ref=e72]
+      - generic [ref=e92]: © 2026 Workday, Inc. All rights reserved.

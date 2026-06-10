@@ -1,0 +1,120 @@
+- generic [active] [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - heading "Current openings at Aquatic Capital Management" [level=1] [ref=e6]
+      - generic [ref=e10]:
+        - paragraph [ref=e11]: Questions regarding your application or interview process?
+        - list [ref=e12]:
+          - listitem [ref=e13]:
+            - text: "Experienced Professionals:"
+            - link "recruiting@aquatic.com" [ref=e14] [cursor=pointer]:
+              - /url: mailto:recruiting@aquatic.com
+          - listitem [ref=e15]:
+            - text: "Students:"
+            - link "campusrecruiting@aquatic.com" [ref=e16] [cursor=pointer]:
+              - /url: mailto:campusrecruiting@aquatic.com
+      - generic [ref=e17]:
+        - img [ref=e18]
+        - generic [ref=e20]:
+          - paragraph [ref=e21]: Create a Job Alert
+          - paragraph [ref=e22]: Level-up your career by having opportunities at Aquatic Capital Management sent directly to your inbox.
+          - button "Create alert" [ref=e23] [cursor=pointer]
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - generic [ref=e27]:
+            - generic [ref=e28]: Search
+            - textbox "Search" [ref=e29]
+          - generic [ref=e31]:
+            - generic [ref=e32]: Office
+            - generic [ref=e33]:
+              - log [ref=e35]
+              - generic [ref=e37]:
+                - generic [ref=e38]:
+                  - generic [ref=e39]: Select...
+                  - combobox "Office" [ref=e41]
+                - button "Toggle flyout" [ref=e43] [cursor=pointer]:
+                  - img [ref=e44]
+          - generic [ref=e47]:
+            - generic [ref=e48]: Experience Level
+            - generic [ref=e49]:
+              - log [ref=e51]
+              - generic [ref=e53]:
+                - generic [ref=e54]:
+                  - generic [ref=e55]: Select...
+                  - combobox "Experience Level" [ref=e57]
+                - button "Toggle flyout" [ref=e59] [cursor=pointer]:
+                  - img [ref=e60]
+        - generic [ref=e62]:
+          - heading "8 jobs" [level=2] [ref=e63]
+          - generic [ref=e64]:
+            - generic [ref=e65]:
+              - heading "Research" [level=3] [ref=e66]
+              - table [ref=e68]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e69]:
+                      - paragraph [ref=e70]: Job
+                - rowgroup [ref=e71]:
+                  - row "Quantitative Researcher Chicago, New York, London" [ref=e72]:
+                    - cell "Quantitative Researcher Chicago, New York, London" [ref=e73]:
+                      - link "Quantitative Researcher Chicago, New York, London" [ref=e74] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7529282002
+                        - paragraph [ref=e75]: Quantitative Researcher
+                        - paragraph [ref=e76]: Chicago, New York, London
+                  - row "Quantitative Researcher Chicago" [ref=e77]:
+                    - cell "Quantitative Researcher Chicago" [ref=e78]:
+                      - link "Quantitative Researcher Chicago" [ref=e79] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8495682002
+                        - paragraph [ref=e80]: Quantitative Researcher
+                        - paragraph [ref=e81]: Chicago
+                  - row "Quantitative Researcher, Early Career Chicago, New York" [ref=e82]:
+                    - cell "Quantitative Researcher, Early Career Chicago, New York" [ref=e83]:
+                      - link "Quantitative Researcher, Early Career Chicago, New York" [ref=e84] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002
+                        - paragraph [ref=e85]: Quantitative Researcher, Early Career
+                        - paragraph [ref=e86]: Chicago, New York
+                  - row "Quantitative Researcher, Intern (Summer 2027) Chicago, London" [ref=e87]:
+                    - cell "Quantitative Researcher, Intern (Summer 2027) Chicago, London" [ref=e88]:
+                      - link "Quantitative Researcher, Intern (Summer 2027) Chicago, London" [ref=e89] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002
+                        - paragraph [ref=e90]: Quantitative Researcher, Intern (Summer 2027)
+                        - paragraph [ref=e91]: Chicago, London
+                  - row "Quantitative Researcher, PhD Chicago, New York" [ref=e92]:
+                    - cell "Quantitative Researcher, PhD Chicago, New York" [ref=e93]:
+                      - link "Quantitative Researcher, PhD Chicago, New York" [ref=e94] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8387685002
+                        - paragraph [ref=e95]: Quantitative Researcher, PhD
+                        - paragraph [ref=e96]: Chicago, New York
+            - generic [ref=e97]:
+              - heading "Technology" [level=3] [ref=e98]
+              - table [ref=e100]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e101]:
+                      - paragraph [ref=e102]: Job
+                - rowgroup [ref=e103]:
+                  - row "Software Engineer, C++ Chicago, New York, London" [ref=e104]:
+                    - cell "Software Engineer, C++ Chicago, New York, London" [ref=e105]:
+                      - link "Software Engineer, C++ Chicago, New York, London" [ref=e106] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7994855002
+                        - paragraph [ref=e107]: Software Engineer, C++
+                        - paragraph [ref=e108]: Chicago, New York, London
+                  - row "Software Engineer, Early Career Chicago, New York" [ref=e109]:
+                    - cell "Software Engineer, Early Career Chicago, New York" [ref=e110]:
+                      - link "Software Engineer, Early Career Chicago, New York" [ref=e111] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002
+                        - paragraph [ref=e112]: Software Engineer, Early Career
+                        - paragraph [ref=e113]: Chicago, New York
+                  - row "Software Engineer, Intern (Summer 2027) Chicago" [ref=e114]:
+                    - cell "Software Engineer, Intern (Summer 2027) Chicago" [ref=e115]:
+                      - link "Software Engineer, Intern (Summer 2027) Chicago" [ref=e116] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002
+                        - paragraph [ref=e117]: Software Engineer, Intern (Summer 2027)
+                        - paragraph [ref=e118]: Chicago
+  - contentinfo [ref=e119]:
+    - generic [ref=e120]:
+      - paragraph [ref=e121]: Powered by
+      - link "Greenhouse logo" [ref=e122] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e123]

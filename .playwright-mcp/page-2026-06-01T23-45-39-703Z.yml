@@ -1,0 +1,164 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e8]:
+    - generic [ref=e10]:
+      - link "careers home" [ref=e13] [cursor=pointer]:
+        - /url: https://www.tel.com/careers/
+        - img "careers home" [ref=e14]
+      - heading "TEL Career" [level=1] [ref=e16]
+      - generic [ref=e18]:
+        - button "Sign In" [ref=e20] [cursor=pointer]:
+          - generic [ref=e25]: Sign In
+        - navigation [ref=e26]:
+          - button "Home" [ref=e27] [cursor=pointer]
+          - button "Search for Jobs" [ref=e28] [cursor=pointer]
+          - button "Join our Talent Network" [ref=e29] [cursor=pointer]
+  - generic [ref=e33]:
+    - alert [ref=e98]: Entry-Level Software Engineer — AI Research page is loaded
+    - generic [ref=e99]:
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - heading "Entry-Level Software Engineer — AI Research" [level=2] [ref=e102]
+          - button "Apply" [ref=e107] [cursor=pointer]
+        - img "TEL" [ref=e108]
+      - generic [ref=e109]:
+        - generic [ref=e110]:
+          - generic [ref=e118]:
+            - term [ref=e119]: locations
+            - definition [ref=e120]: San Jose
+          - generic [ref=e121]:
+            - generic [ref=e130]:
+              - term [ref=e131]: time type
+              - definition [ref=e132]: Full time
+            - generic [ref=e141]:
+              - term [ref=e142]: posted on
+              - definition [ref=e143]: Posted Today
+            - generic [ref=e152]:
+              - term [ref=e153]: job requisition id
+              - definition [ref=e154]: R26-00785
+        - generic [ref=e156]:
+          - paragraph [ref=e157]:
+            - generic [ref=e159]: Let’s search for your next career at TEL. Use the form below to search our current opportunities and then apply. Please consider joining our Talent Community so that we may continue to engage with you.
+          - paragraph [ref=e160]
+          - paragraph [ref=e161]
+          - heading "Job Description" [level=1] [ref=e162]:
+            - generic [ref=e165]: Job Description
+          - paragraph [ref=e166]
+          - paragraph [ref=e167]: Entry-Level Software Engineer — AI Research
+          - paragraph [ref=e168]: "Location: San Jose"
+          - paragraph [ref=e169]: Hybrid 3/2
+          - paragraph [ref=e170]
+          - paragraph [ref=e171]: Tokyo Electron (TEL) is a leader in semiconductor manufacturing equipment. We provide key parts of the manufacturing process for the world’s largest foundries. TEL Technology AI and Design Inc is our Silicon Valley AI lab, where we do groundbreaking, long-term research and technology development in AI/ML for semiconductor equipment.
+          - paragraph [ref=e172]
+          - paragraph [ref=e173]: We are looking for a new team member who can contribute to our AI research roadmap.
+          - paragraph [ref=e174]
+          - paragraph [ref=e175]: TTAD fosters a creative culture where ideas are freely exchanged inside our lab and with our colleagues around the world.
+          - paragraph [ref=e176]
+          - paragraph [ref=e177]
+          - paragraph [ref=e178]: TTAD Requirements
+          - list [ref=e179]:
+            - listitem [ref=e180]: Creative, out-of-the-box thinker
+            - listitem [ref=e181]: Good communicator who works well in a team and across cultural barriers
+            - listitem [ref=e182]: "Low prestige problem solver: willing to be wrong and accept a better solution"
+            - listitem [ref=e183]: Productive in translating ideas to code
+            - listitem [ref=e184]: Present to support colleagues – gives freely of own time
+            - listitem [ref=e185]: Interested in learning, e.g. a complex application domain, new programming languages
+            - listitem [ref=e186]: Willing and able to travel overseas (east Asia) 1-3 times per year
+            - listitem [ref=e187]: Willing and able to collaborate with colleagues in east Asia some evenings
+          - paragraph [ref=e188]
+          - paragraph [ref=e189]: Role Requirements
+          - list [ref=e190]:
+            - listitem [ref=e191]: Proficiency in Python and/or C/C++; ability to read and modify existing codebases.
+            - listitem [ref=e192]: High proficiency in algorithmic thinking and software development
+            - listitem [ref=e193]: High familiarity with current AI approaches and research
+            - listitem [ref=e194]: Clear written and verbal communication for producing technical deliverables.
+            - listitem [ref=e195]: Bachelor or Master’s degree in Computer Science, Mathematics, Statistics, or equivalent subjects.
+          - paragraph [ref=e196]
+          - paragraph [ref=e197]: Role Responsibilities
+          - list [ref=e198]:
+            - listitem [ref=e199]: Drive development of assigned research tasks
+            - listitem [ref=e200]: Research and propose solutions to assigned research topics
+            - listitem [ref=e201]: Convert ideas to code in a productive and flexible manner, in existing and new code bases
+            - listitem [ref=e202]: Actively contribute to TTAD knowledge accumulation by sharing research topics and insights with team
+            - listitem [ref=e203]: Participate in system testing, field trials, and live demonstrations; collect and document performance data.
+            - listitem [ref=e204]: Debug integrated hardware/software issues and iterate prototypes based on test results.
+          - paragraph [ref=e205]
+          - paragraph [ref=e206]:
+            - text: Physical Demands and Work Conditions
+            - text: The physical demands described herein are representative of those that must be met by an employee to successfully perform the essential functions of this job. This job operates in an office setting. This role routinely uses standard office equipment such as computers, phones, photocopiers, and filing cabinets. This is a largely sedentary role; however, some filing is required, which would require the ability to lift files, open filing cabinets and bend or stand as necessary. This position requires the ability to occasionally lift office products and supplies, up to 35 pounds. This position also requires 4 to 6 hours per day at a computer screen/keyboard.
+          - paragraph [ref=e207]
+          - paragraph [ref=e208]
+          - paragraph [ref=e209]:
+            - generic [ref=e211]: Diversity creates an innovative culture. TEL US is an Equal Employment Opportunity / Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+          - paragraph [ref=e212]
+          - paragraph [ref=e213]
+          - paragraph [ref=e214]
+          - paragraph [ref=e215]
+          - heading "Subsidiary" [level=1] [ref=e216]:
+            - generic [ref=e219]: Subsidiary
+          - text: TEL Technology & AI Design, Inc.
+    - generic [ref=e227]:
+      - generic [ref=e228]:
+        - heading "TEL Careers" [level=3] [ref=e229]
+        - img "TEL" [ref=e230]
+        - generic [ref=e232]:
+          - generic [ref=e234]:
+            - paragraph [ref=e235]: We make innovation possible.
+            - paragraph [ref=e236]: At TEL, we’re committed to advancing future technologies and success starts with a community of talented individuals. Our global workforce of over 20,000 employees is embracing the challenge of a rapidly evolving tech landscape. Your growth fuels our progress.
+            - paragraph [ref=e237]: Our 360-degree learning approach ensures there’s something for every style from interactive classes and on the job training to formal programs led by certified technical experts and organizational development professionals. You’ll continue building your skills and nurturing your curiosity. To support your journey, TEL offers educational reimbursement to help you reach your learning goals.
+            - paragraph [ref=e238]
+            - paragraph [ref=e239]:
+              - link [ref=e243] [cursor=pointer]:
+                - /url: https://apply.talemetry.com/init-apply/4896b081-7fdd-4dbc-a40f-ecc2fe35c8a3/tn
+                - text: Join our Talent Network
+          - button "Read More" [ref=e246] [cursor=pointer]:
+            - generic [ref=e247]: Read More
+      - generic [ref=e252]:
+        - heading "Our Technology" [level=3] [ref=e253]
+        - img "Our Technology" [ref=e254]
+        - generic [ref=e256]:
+          - generic [ref=e258]:
+            - paragraph [ref=e259]:
+              - generic [ref=e261]: Established in 1963, Tokyo Electron (TEL) is a leading global supplier of innovative semiconductor and flat panel display production equipment.
+            - paragraph [ref=e262]
+            - paragraph [ref=e263]:
+              - generic [ref=e265]: TEL continues to grow by incorporating new technologies and innovation to meet the demands of an ever-changing world, committed to empowering the newest advancements in technology to improve life.
+            - paragraph [ref=e266]
+            - paragraph [ref=e267]:
+              - generic [ref=e269]: "Our equipment and technology support the manufacturing and testing of semiconductors, with product lines including:"
+            - list [ref=e270]:
+              - listitem [ref=e271]:
+                - generic [ref=e273]: Coater/Developers
+              - listitem [ref=e274]:
+                - generic [ref=e276]: Thermal Processing Systems
+              - listitem [ref=e277]:
+                - generic [ref=e279]: Plasma Etchers
+              - listitem [ref=e280]:
+                - generic [ref=e282]: Single Wafer Deposition Systems
+              - listitem [ref=e283]:
+                - generic [ref=e285]: Surface Preparation Systems
+          - button "Read More" [ref=e288] [cursor=pointer]:
+            - generic [ref=e289]: Read More
+      - generic [ref=e294]:
+        - heading "Culture" [level=3] [ref=e295]
+        - img "Culture" [ref=e296]
+        - paragraph [ref=e301]: Tokyo Electron has more than 12,000 employees located in 12 countries around the world. Our innovation is rooted in our diversity. As a global technology leader, we actively seek out and value differences in people across the globe who collectively contribute, create, and innovate.
+  - generic [ref=e47]:
+    - heading "Follow Us" [level=4] [ref=e48]
+    - list [ref=e49]:
+      - listitem [ref=e50] [cursor=pointer]:
+        - link "YouTube" [ref=e51]:
+          - /url: https://www.youtube.com/channel/UC1KPfiylA8OevAaPc2GHaYw
+      - listitem [ref=e57] [cursor=pointer]:
+        - link "LinkedIn" [ref=e58]:
+          - /url: https://www.linkedin.com/company/tokyo-electron/mycompany/
+      - listitem [ref=e62] [cursor=pointer]:
+        - link "Facebook" [ref=e63]:
+          - /url: https://www.facebook.com/TokyoElectronUS/
+      - listitem [ref=e67] [cursor=pointer]:
+        - link "X" [ref=e68]:
+          - /url: https://twitter.com/TokyoElectronUS
+    - generic [ref=e72]:
+      - img [ref=e76]
+      - generic [ref=e96]: © 2026 Workday, Inc. All rights reserved.

@@ -1,0 +1,109 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Authorium" [ref=e6] [cursor=pointer]:
+        - /url: https://authorium.com
+        - img "Authorium" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Authorium’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /Authorium?utm_source=Simplify&ref=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Enginner, New Grad" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $102K – $138K • Offers Equity
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [ref=e36] [cursor=pointer]
+          - tab "Application" [selected] [ref=e37] [cursor=pointer]
+        - tabpanel "Application" [ref=e39]:
+          - generic [ref=e40]:
+            - button "Choose File" [ref=e41]
+            - generic [ref=e43]:
+              - generic [ref=e44]:
+                - img [ref=e46]
+                - heading "Autofill from resume" [level=3] [ref=e48]
+              - paragraph [ref=e49]: Upload your resume here to autofill key application fields.
+              - button "Upload file" [ref=e51] [cursor=pointer]
+          - generic [ref=e53]:
+            - generic [ref=e54]:
+              - generic [ref=e55]: Name*
+              - textbox "Name*" [ref=e57] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e58]:
+              - generic [ref=e59]: Email*
+              - textbox "Email*" [ref=e61] [cursor=pointer]:
+                - /placeholder: hello@example.com...
+            - generic [ref=e62]:
+              - generic [ref=e63]: Phone Number*
+              - textbox "Phone Number*" [ref=e64] [cursor=pointer]:
+                - /placeholder: 1-415-555-1234...
+            - generic [ref=e65]:
+              - generic [ref=e66]: Location*
+              - generic [ref=e67]:
+                - combobox "Start typing..." [ref=e68] [cursor=pointer]
+                - button [ref=e69] [cursor=pointer]:
+                  - img [ref=e70]
+            - generic [ref=e72]:
+              - generic [ref=e73]: Resume*
+              - button "Resume*" [ref=e74]
+              - generic [ref=e75]:
+                - button "Upload File" [ref=e76] [cursor=pointer]:
+                  - img [ref=e77]
+                  - generic [ref=e79]: Upload File
+                - paragraph [ref=e80]: or drag and drop here
+            - generic [ref=e81]:
+              - generic [ref=e82]: LinkedIn*
+              - textbox "LinkedIn*" [ref=e84] [cursor=pointer]:
+                - /placeholder: https://example.com...
+            - generic [ref=e85]:
+              - generic [ref=e86]: Have you completed 3+ co-ops or internships where you shipped production code (not just internal tooling or coursework)?*
+              - generic [ref=e87]:
+                - button "Yes" [ref=e88] [cursor=pointer]
+                - button "No" [ref=e89] [cursor=pointer]
+            - generic [ref=e90]:
+              - generic [ref=e91]: Are you excited to be in office for a hybrid role (Monday-Thursday)?*
+              - generic [ref=e92]:
+                - button "Yes" [ref=e93] [cursor=pointer]
+                - button "No" [ref=e94] [cursor=pointer]
+            - generic [ref=e95]:
+              - generic [ref=e96]: Describe a meaningful piece of work you owned during a co-op or internship — what was the technical challenge and how did you approach it?*
+              - textbox "Describe a meaningful piece of work you owned during a co-op or internship — what was the technical challenge and how did you approach it?*" [ref=e97] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=e98]:
+              - generic [ref=e99]: Describe a bug you root-caused and fixed — in a co-op, internship, or personal project.*
+              - textbox "Describe a bug you root-caused and fixed — in a co-op, internship, or personal project.*" [ref=e100] [cursor=pointer]:
+                - /placeholder: Type here...
+          - button "Submit Application" [ref=e101] [cursor=pointer]:
+            - text: Submit Application
+            - img [ref=e102]
+  - contentinfo [ref=e104]:
+    - link "Learn more about Ashby" [ref=e105] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e106]: Powered by
+      - img "Ashby" [ref=e107]
+    - paragraph [ref=e113]:
+      - link "Privacy Policy" [ref=e114] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e115] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e116] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

@@ -1,0 +1,870 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e6]:
+      - heading "Stripe logo Jobs" [level=1] [ref=e7]:
+        - link "Stripe logo" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img "Stripe logo" [ref=e9]
+        - link "Jobs" [ref=e11] [cursor=pointer]:
+          - /url: /jobs
+      - navigation [ref=e12]:
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - link "Our opportunity" [ref=e15] [cursor=pointer]:
+              - /url: /jobs
+          - listitem [ref=e16]:
+            - link "Life at Stripe" [ref=e17] [cursor=pointer]:
+              - /url: /jobs/life-at-stripe
+          - listitem [ref=e18]:
+            - link "Benefits" [ref=e19] [cursor=pointer]:
+              - /url: /jobs/benefits
+          - listitem [ref=e20]:
+            - link "University" [ref=e21] [cursor=pointer]:
+              - /url: /jobs/university
+      - navigation [ref=e22]:
+        - link "See open roles" [ref=e23] [cursor=pointer]:
+          - /url: /jobs/search
+          - text: See open roles
+          - img [ref=e24]
+  - navigation "Breadcrumb" [ref=e27]:
+    - list [ref=e31]:
+      - listitem [ref=e32]:
+        - link "Roles at Stripe" [ref=e33] [cursor=pointer]:
+          - /url: /jobs/search
+      - listitem [ref=e34]: / Role details
+  - heading "Backend / API Engineer, Billing" [level=1] [ref=e44]
+  - generic [ref=e52]:
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - heading "Who we are" [level=2] [ref=e55]
+        - heading "About Stripe" [level=3] [ref=e56]
+        - paragraph [ref=e57]: Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+        - heading "About the team" [level=3] [ref=e58]
+        - paragraph [ref=e59]: The Revenue and Financial Automation (RFA) team at Stripe is building a modern, revenue-focused, financial management platform for fast growing, digital native companies.
+        - list [ref=e60]:
+          - listitem [ref=e61]: "Billing: Hundreds of thousands of businesses of all sizes and types use Stripe Billing to collect revenue for recurring and one-time payments across a variety of different pricing models—from selling SaaS subscriptions, to orchestrating multi-stage contracts, delivering Usage-Based Billing, and providing recovery and retention tools to prevent customer churn."
+        - paragraph [ref=e62]:
+          - text: "Note: exact team matching for one of the pods will begin during final stages. Please note we may also consider you for different orgs based on your experience, location, etc. More information on our team matching process can be found"
+          - link "here" [ref=e63] [cursor=pointer]:
+            - /url: https://docs.google.com/document/d/1zvJkO2c7GzukHG-_oqc5wbOLajpuh5FjbmZPcZPU1o0/edit?tab=t.0#heading=h.ahb3b6nrktv1
+          - text: .
+        - heading "What you’ll do" [level=2] [ref=e64]
+        - paragraph [ref=e65]: As an engineer on the team, you’ll be responsible for shaping and building a suite of products that let our users model and operate their business more efficiently. You will work on projects that span technologies, systems, and processes where you will design, build, test, and ship great code every day. In this cross functional role, you will collaborate with experts in infrastructure, security, design, and operations to build mission critical internal and external features that power Stripe users around the world.
+        - heading "Responsibilities" [level=3] [ref=e66]
+        - list [ref=e67]:
+          - listitem [ref=e68]: Design the next generation of Stripe products, to meet the high growth needs of our company and customers for years to come.
+          - listitem [ref=e69]: Deliver value through a strong collaborative and users-first approach with stakeholders and customers.
+          - listitem [ref=e70]: Mentor engineers to help them grow
+          - listitem [ref=e71]: Debug and solve critical production issues across services and multiple levels of the stack
+        - heading "Who you are" [level=2] [ref=e72]
+        - paragraph [ref=e73]: We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+        - heading "Minimum requirements" [level=3] [ref=e74]
+        - list [ref=e75]:
+          - listitem [ref=e76]: 2-12+ years of experience in backend software development
+          - listitem [ref=e77]: Ability to write high quality code (in programming languages like Go, Java, C/C++, etc.)
+          - listitem [ref=e78]: Hands-on experience contributing to or building large scale distributed systems
+          - listitem [ref=e79]: Strong collaboration skills, can work across workstreams within your team and contribute to your peers’ success
+          - listitem [ref=e80]: Have the ability to thrive on a high level of autonomy, responsibility, and think of yourself as entrepreneurial
+        - heading "Preferred Qualifications" [level=3] [ref=e81]
+        - list [ref=e82]:
+          - listitem [ref=e83]: Familiarity with event-driven architectures
+          - listitem [ref=e84]: Experience with subscription management, usage-based billing, or financial reporting systems
+          - listitem [ref=e85]: Interest in financial infrastructure and how businesses manage their revenue operations
+          - listitem [ref=e86]: Direct leadership and mentorship experience
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - heading "Hybrid work at Stripe" [level=1] [ref=e90]
+          - paragraph [ref=e92]: This role is available either in an office or a remote location (35+ miles or 56+ km from a Stripe office).
+        - generic [ref=e93]:
+          - heading "In-office expectations" [level=1] [ref=e95]
+          - generic [ref=e96]: Office-assigned Stripes spend at least 50% of the time in a given month in their local office or with users. This hits a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility about how to do this in a way that makes sense for individuals and their teams.
+        - generic [ref=e97]:
+          - heading "Working remotely at Stripe" [level=1] [ref=e99]
+          - generic [ref=e100]: A remote location is defined as being 35 miles (56 kilometers) or more from one of our offices. While you would be welcome to come into the office for team/business meetings, on-sites, meet-ups, and events, our expectation is you would regularly work from home rather than a Stripe office. Stripe does not cover the cost of relocating to a remote location. We encourage you to apply for roles that match the location where you currently live or plan to live.
+      - generic [ref=e101]:
+        - heading "Pay and benefits" [level=1] [ref=e103]
+        - generic [ref=e104]:
+          - paragraph [ref=e105]: The annual US base salary range for this role is $156,800 - $285,600. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location. Applicants interested in this role and who are not located in the US may request the annual salary range for their location during the interview process.
+          - paragraph [ref=e106]: "Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends."
+    - generic [ref=e107]:
+      - generic [ref=e108]:
+        - img [ref=e109]
+        - generic [ref=e111]:
+          - paragraph [ref=e112]: Office locations
+          - paragraph [ref=e113]: South San Francisco HQ, New York, or Seattle
+      - generic [ref=e114]:
+        - img [ref=e115]
+        - generic [ref=e118]:
+          - paragraph [ref=e119]: Remote locations
+          - paragraph [ref=e120]: Remote in United States
+      - generic [ref=e121]:
+        - img [ref=e122]
+        - generic [ref=e127]:
+          - paragraph [ref=e128]: Team
+          - paragraph [ref=e129]: Metronome
+      - generic [ref=e130]:
+        - img [ref=e131]
+        - generic [ref=e133]:
+          - paragraph [ref=e134]: Job type
+          - paragraph [ref=e135]: Full time
+      - link "Apply for this role" [ref=e137] [cursor=pointer]:
+        - /url: /jobs/listing/backend-api-engineer-billing/7737241/apply
+        - text: Apply for this role
+        - img [ref=e138]
+  - heading "Please find our California applicant personal information notice here." [level=1] [ref=e151]:
+    - text: Please find our California applicant personal information notice
+    - link "here" [ref=e152] [cursor=pointer]:
+      - /url: /legal/california-applicant-notice
+    - text: .
+  - heading "The application window will remain open for 100 days after the Job Post is published. However, this opportunity will remain open based on the needs of the business, which may cause the application window to close before or after the 100-day mark." [level=1] [ref=e163]
+  - generic [ref=e173]:
+    - heading "We look forward to hearing from you" [level=1] [ref=e175]
+    - generic [ref=e176]: At Stripe, we're looking for people with passion, grit, and integrity. You're encouraged to apply even if your experience doesn't precisely match the job description. Your skills and passion will stand out—and set you apart—especially if your career has taken some extraordinary twists and turns. At Stripe, we welcome diverse perspectives and people who think rigorously and aren't afraid to challenge assumptions. Join us.
+    - link "Apply Now" [ref=e179] [cursor=pointer]:
+      - /url: /jobs/listing/backend-api-engineer-billing/7737241/apply
+      - text: Apply Now
+      - img [ref=e180]
+  - contentinfo [ref=e183]:
+    - navigation [ref=e190]:
+      - generic [ref=e192]:
+        - link "Go to the Stripe homepage" [ref=e194] [cursor=pointer]:
+          - /url: /
+          - img "Stripe logo" [ref=e195]
+        - generic [ref=e198]:
+          - button "United States. Choose your country" [ref=e199] [cursor=pointer]:
+            - img [ref=e200]
+            - generic [ref=e202]: United States (English)
+          - generic:
+            - generic:
+              - generic:
+                - list:
+                  - listitem:
+                    - img
+                    - generic: Australia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/au/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Austria
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/at/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-at/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Belgium
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/nl-be/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Nederlands
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr-be/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Français
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de-be/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-be/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Brazil
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/br/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Português
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-br/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Bulgaria
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-bg/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Canada
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-ca/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr-ca/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Français
+                  - listitem:
+                    - img
+                    - generic: Croatia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-hr/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/it-hr/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Italiano
+                  - listitem:
+                    - img
+                    - generic: Cyprus
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-cy/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Czech Republic
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-cz/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Denmark
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-dk/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Estonia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-ee/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Finland
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-fi/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/sv-fi/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Svenska
+                - list:
+                  - listitem:
+                    - img
+                    - generic: France
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Français
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-fr/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Germany
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-de/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Gibraltar
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-gi/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Greece
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-gr/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Hong Kong
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-hk/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/zh-hk/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: 简体中文
+                  - listitem:
+                    - img
+                    - generic: Hungary
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-hu/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: India
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/in/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Ireland
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/ie/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Italy
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/it/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Italiano
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-it/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Japan
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/jp/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: 日本語
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-jp/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Latvia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-lv/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Liechtenstein
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de-li/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-li/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                - list:
+                  - listitem:
+                    - img
+                    - generic: Lithuania
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-lt/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Luxembourg
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr-lu/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Français
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de-lu/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-lu/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Malaysia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-my/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/zh-my/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: 简体中文
+                  - listitem:
+                    - img
+                    - generic: Malta
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-mt/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Mexico
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/mx/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Español
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-mx/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Netherlands
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/nl/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Nederlands
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-nl/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: New Zealand
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/nz/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Norway
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-no/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Poland
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-pl/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Portugal
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/pt-pt/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Português
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-pt/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Romania
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-ro/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Singapore
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-sg/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/zh-sg/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: 简体中文
+                - list:
+                  - listitem:
+                    - img
+                    - generic: Slovakia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-sk/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Slovenia
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-si/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/it-si/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Italiano
+                  - listitem:
+                    - img
+                    - generic: Spain
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/es/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Español
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-es/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Sweden
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/se/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Svenska
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-se/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Switzerland
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/de-ch/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Deutsch
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/fr-ch/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Français
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/it-ch/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Italiano
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-ch/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: Thailand
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/th/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: ไทย
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/en-th/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: United Arab Emirates
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/ae/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: United Kingdom
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/gb/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                  - listitem:
+                    - img
+                    - generic: United States
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/us/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: English
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/es-us/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: Español
+                      - listitem:
+                        - link:
+                          - /url: https://stripe.com/zh-us/jobs/listing/backend-api-engineer-billing/7737241
+                          - text: 简体中文
+      - generic [ref=e204]:
+        - heading "Products & pricing" [level=1] [ref=e205]
+        - list [ref=e206]:
+          - listitem [ref=e207]:
+            - link "Pricing" [ref=e208] [cursor=pointer]:
+              - /url: https://stripe.com/pricing
+          - listitem [ref=e209]:
+            - link "Atlas" [ref=e210] [cursor=pointer]:
+              - /url: /atlas
+          - listitem [ref=e211]:
+            - link "Authorization Boost" [ref=e212] [cursor=pointer]:
+              - /url: /authorization-boost
+          - listitem [ref=e213]:
+            - link "Billing" [ref=e214] [cursor=pointer]:
+              - /url: /billing
+          - listitem [ref=e215]:
+            - link "Capital" [ref=e216] [cursor=pointer]:
+              - /url: /capital/platforms
+          - listitem [ref=e217]:
+            - link "Checkout" [ref=e218] [cursor=pointer]:
+              - /url: /payments/checkout
+          - listitem [ref=e219]:
+            - link "Crypto" [ref=e220] [cursor=pointer]:
+              - /url: /use-cases/crypto
+          - listitem [ref=e221]:
+            - link "Climate" [ref=e222] [cursor=pointer]:
+              - /url: /climate
+          - listitem [ref=e223]:
+            - link "Connect" [ref=e224] [cursor=pointer]:
+              - /url: /connect
+          - listitem [ref=e225]:
+            - link "Data Pipeline" [ref=e226] [cursor=pointer]:
+              - /url: /data-pipeline
+          - listitem [ref=e227]:
+            - link "Elements" [ref=e228] [cursor=pointer]:
+              - /url: /payments/elements
+          - listitem [ref=e229]:
+            - link "Financial Accounts" [ref=e230] [cursor=pointer]:
+              - /url: /financial-accounts
+          - listitem [ref=e231]:
+            - link "Financial Connections" [ref=e232] [cursor=pointer]:
+              - /url: /financial-connections
+          - listitem [ref=e233]:
+            - link "Identity" [ref=e234] [cursor=pointer]:
+              - /url: /identity
+          - listitem [ref=e235]:
+            - link "Invoicing" [ref=e236] [cursor=pointer]:
+              - /url: /invoicing
+          - listitem [ref=e237]:
+            - link "Issuing" [ref=e238] [cursor=pointer]:
+              - /url: https://stripe.com/issuing
+          - listitem [ref=e239]:
+            - link "Link" [ref=e240] [cursor=pointer]:
+              - /url: /payments/link
+          - listitem [ref=e241]:
+            - link "Managed Payments" [ref=e242] [cursor=pointer]:
+              - /url: /managed-payments
+          - listitem [ref=e243]:
+            - link "Payments" [ref=e244] [cursor=pointer]:
+              - /url: /payments
+          - listitem [ref=e245]:
+            - link "Payment Links" [ref=e246] [cursor=pointer]:
+              - /url: /payments/payment-links
+          - listitem [ref=e247]:
+            - link "Payouts" [ref=e248] [cursor=pointer]:
+              - /url: /connect/payouts
+          - listitem [ref=e249]:
+            - link "Radar" [ref=e250] [cursor=pointer]:
+              - /url: https://stripe.com/radar
+          - listitem [ref=e251]:
+            - link "Revenue Recognition" [ref=e252] [cursor=pointer]:
+              - /url: /revenue-recognition
+          - listitem [ref=e253]:
+            - link "Stripe Sigma" [ref=e254] [cursor=pointer]:
+              - /url: https://stripe.com/sigma
+          - listitem [ref=e255]:
+            - link "Tax" [ref=e256] [cursor=pointer]:
+              - /url: /tax
+          - listitem [ref=e257]:
+            - link "Terminal" [ref=e258] [cursor=pointer]:
+              - /url: /terminal
+      - generic [ref=e259]:
+        - generic [ref=e260]:
+          - heading "Solutions" [level=1] [ref=e261]
+          - list [ref=e262]:
+            - listitem [ref=e263]:
+              - link "Enterprises" [ref=e264] [cursor=pointer]:
+                - /url: /enterprise
+            - listitem [ref=e265]:
+              - link "Startups" [ref=e266] [cursor=pointer]:
+                - /url: /startups
+            - listitem [ref=e267]:
+              - link "Agentic commerce" [ref=e268] [cursor=pointer]:
+                - /url: /use-cases/agentic-commerce
+            - listitem [ref=e269]:
+              - link "Crypto" [ref=e270] [cursor=pointer]:
+                - /url: /use-cases/crypto
+            - listitem [ref=e271]:
+              - link "Ecommerce" [ref=e272] [cursor=pointer]:
+                - /url: /use-cases/ecommerce
+            - listitem [ref=e273]:
+              - link "Embedded finance" [ref=e274] [cursor=pointer]:
+                - /url: /use-cases/embedded-finance
+            - listitem [ref=e275]:
+              - link "Finance automation" [ref=e276] [cursor=pointer]:
+                - /url: /use-cases/finance-automation
+            - listitem [ref=e277]:
+              - link "Global businesses" [ref=e278] [cursor=pointer]:
+                - /url: /use-cases/global-businesses
+            - listitem [ref=e279]:
+              - link "In-app payments" [ref=e280] [cursor=pointer]:
+                - /url: /use-cases/in-app-payments
+            - listitem [ref=e281]:
+              - link "Marketplaces" [ref=e282] [cursor=pointer]:
+                - /url: /use-cases/marketplaces
+            - listitem [ref=e283]:
+              - link "Platforms" [ref=e284] [cursor=pointer]:
+                - /url: /use-cases/platforms
+            - listitem [ref=e285]:
+              - link "SaaS" [ref=e286] [cursor=pointer]:
+                - /url: /use-cases/saas
+            - listitem [ref=e287]:
+              - link "AI companies" [ref=e288] [cursor=pointer]:
+                - /url: /use-cases/ai
+            - listitem [ref=e289]:
+              - link "Creator economy" [ref=e290] [cursor=pointer]:
+                - /url: /use-cases/creator-economy
+            - listitem [ref=e291]:
+              - link "Hospitality, travel, and leisure" [ref=e292] [cursor=pointer]:
+                - /url: /industries/travel
+            - listitem [ref=e293]:
+              - link "Insurance" [ref=e294] [cursor=pointer]:
+                - /url: /industries/insurance
+            - listitem [ref=e295]:
+              - link "Media and entertainment" [ref=e296] [cursor=pointer]:
+                - /url: /industries/media-entertainment
+            - listitem [ref=e297]:
+              - link "Nonprofits" [ref=e298] [cursor=pointer]:
+                - /url: /industries/nonprofits
+            - listitem [ref=e299]:
+              - link "Retail" [ref=e300] [cursor=pointer]:
+                - /url: /industries/retail
+        - generic [ref=e301]:
+          - heading "Integrations & custom solutions" [level=1] [ref=e302]
+          - list [ref=e303]:
+            - listitem [ref=e304]:
+              - link "Stripe App Marketplace" [ref=e305] [cursor=pointer]:
+                - /url: https://marketplace.stripe.com/
+            - listitem [ref=e306]:
+              - link "Stripe Partner ecosystem" [ref=e307] [cursor=pointer]:
+                - /url: /partners
+            - listitem [ref=e308]:
+              - link "Professional services" [ref=e309] [cursor=pointer]:
+                - /url: /professional-services
+        - generic [ref=e310]:
+          - heading "Developers" [level=1] [ref=e311]
+          - list [ref=e312]:
+            - listitem [ref=e313]:
+              - link "Documentation" [ref=e314] [cursor=pointer]:
+                - /url: https://docs.stripe.com/
+            - listitem [ref=e315]:
+              - link "API reference" [ref=e316] [cursor=pointer]:
+                - /url: https://docs.stripe.com/api
+            - listitem [ref=e317]:
+              - link "API status" [ref=e318] [cursor=pointer]:
+                - /url: https://status.stripe.com/
+            - listitem [ref=e319]:
+              - link "API changelog" [ref=e320] [cursor=pointer]:
+                - /url: https://docs.stripe.com/changelog
+            - listitem [ref=e321]:
+              - link "Libraries and SDKs" [ref=e322] [cursor=pointer]:
+                - /url: https://docs.stripe.com/development
+            - listitem [ref=e323]:
+              - link "Developer blog" [ref=e324] [cursor=pointer]:
+                - /url: https://stripe.dev/
+      - generic [ref=e325]:
+        - generic [ref=e326]:
+          - heading "Resources" [level=1] [ref=e327]
+          - list [ref=e328]:
+            - listitem [ref=e329]:
+              - link "Guides" [ref=e330] [cursor=pointer]:
+                - /url: https://stripe.com/guides
+            - listitem [ref=e331]:
+              - link "Customer stories" [ref=e332] [cursor=pointer]:
+                - /url: /customers
+            - listitem [ref=e333]:
+              - link "Blog" [ref=e334] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e335]:
+              - link "Sessions annual conference" [ref=e336] [cursor=pointer]:
+                - /url: /sessions
+            - listitem [ref=e337]:
+              - link "Privacy & terms" [ref=e338] [cursor=pointer]:
+                - /url: https://stripe.com/privacy
+            - listitem [ref=e339]:
+              - link "Prohibited & restricted businesses" [ref=e340] [cursor=pointer]:
+                - /url: /legal/restricted-businesses
+            - listitem [ref=e341]:
+              - link "Licenses" [ref=e342] [cursor=pointer]:
+                - /url: https://stripe.com/spc/licenses
+            - listitem [ref=e343]:
+              - link "Sitemap" [ref=e344] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e345]:
+              - link "Cookie settings" [ref=e346] [cursor=pointer]:
+                - /url: /cookie-settings
+            - listitem [ref=e347]:
+              - link "Your privacy choices" [ref=e348] [cursor=pointer]:
+                - /url: https://privacy.stripe.com/
+            - listitem [ref=e349]:
+              - link "Coverage transparency" [ref=e350] [cursor=pointer]:
+                - /url: /lp/transparencyincoverage
+            - listitem [ref=e351]:
+              - link "More resources" [ref=e352] [cursor=pointer]:
+                - /url: https://stripe.com/resources/more
+        - generic [ref=e353]:
+          - heading "Company" [level=1] [ref=e354]
+          - list [ref=e355]:
+            - listitem [ref=e356]:
+              - link "Jobs" [ref=e357] [cursor=pointer]:
+                - /url: /jobs
+            - listitem [ref=e358]:
+              - link "Newsroom" [ref=e359] [cursor=pointer]:
+                - /url: /newsroom
+            - listitem [ref=e360]:
+              - link "Stripe Press" [ref=e361] [cursor=pointer]:
+                - /url: https://press.stripe.com/
+            - listitem [ref=e362]:
+              - link "Contact sales" [ref=e363] [cursor=pointer]:
+                - /url: /contact/sales
+        - generic [ref=e364]:
+          - heading "Support" [level=1] [ref=e365]
+          - list [ref=e366]:
+            - listitem [ref=e367]:
+              - link "Get support" [ref=e368] [cursor=pointer]:
+                - /url: https://support.stripe.com/?referrerLocale=en-us
+            - listitem [ref=e369]:
+              - link "Managed support plans" [ref=e370] [cursor=pointer]:
+                - /url: /support-plans
+            - listitem [ref=e371]: "CA residents: +1 888 926 2289"
+        - list [ref=e373]:
+          - link "Sign in" [ref=e374] [cursor=pointer]:
+            - /url: https://dashboard.stripe.com/login
+            - text: Sign in
+            - img [ref=e375]
+      - list [ref=e379]:
+        - listitem [ref=e380]: © 2026 Stripe, LLC

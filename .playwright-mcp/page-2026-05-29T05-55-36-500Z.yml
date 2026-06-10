@@ -1,0 +1,344 @@
+- generic [active] [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - link "Silvus Technologies Logo" [ref=e7] [cursor=pointer]:
+        - /url: https://silvustechnologies.com?gh_src=Simplify
+        - img "Silvus Technologies Logo" [ref=e8]
+      - generic [ref=e9]:
+        - link "Back to jobs" [ref=e10] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/silvus?gh_src=Simplify
+          - img [ref=e11]
+          - text: Back to jobs
+        - generic [ref=e15]: New
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - heading "Machine Learning Engineer" [level=1] [ref=e18]
+            - generic [ref=e19]:
+              - img [ref=e20]
+              - generic [ref=e22]: Los Angeles CA
+          - button "Apply" [ref=e23] [cursor=pointer]
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - paragraph [ref=e26]: THE COMPANY
+            - paragraph [ref=e27]:
+              - strong [ref=e28]: Silvus Technologies
+              - text: ", a leading provider of advanced MANET and MIMO communications systems, is reshaping mesh network technology for mission-critical applications – on the ground, in the air and at sea. Its battle-proven StreamCaster family of MANET radios and proprietary MN-MIMO waveform provides the vital communications link for defense, law enforcement and public safety agencies around the world, and in the toughest operational environments."
+            - paragraph [ref=e29]: With deep roots in DARPA research, Silvus Technologies develops world-class advanced communications technologies that are reshaping the tactical communications landscape. From pure line-of-sight to extreme non-line-of-sight, Silvus radios form a self-healing, self-forming mesh network, enabling secure and reliable connectivity, including video and high-bandwidth data.
+            - paragraph [ref=e30]: Silvus Technologies is a wholly owned subsidiary of Motorola Solutions, Inc.
+            - paragraph [ref=e31]:
+              - emphasis [ref=e32]: Would you like to join an incredibly talented group of people, doing very challenging work, with the prime directive of “
+              - strong [ref=e33]:
+                - link "Keeping Our Heroes Connected" [ref=e35] [cursor=pointer]:
+                  - /url: https://www.youtube.com/watch?v=VCJ-amP0GLc
+                  - emphasis [ref=e36]: Keeping Our Heroes Connected
+              - emphasis [ref=e37]: ”?
+          - generic [ref=e38]:
+            - paragraph [ref=e39]: THE OPPORTUNITY
+            - paragraph [ref=e40]:
+              - text: Silvus is seeking a
+              - strong [ref=e41]:
+                - emphasis [ref=e42]: Machine Learning Engineer
+              - strong [ref=e43]:
+                - emphasis [ref=e44]
+              - text: who will report to the
+              - emphasis [ref=e45]: R&D Director, Machine Learning
+              - text: on the R&D team. The successful individual in this role will focus on applying machine learning and data-driven techniques to improve the performance, efficiency, and adaptability of Silvus’ advanced MIMO radios and wireless networking systems. This individual will work closely with experts in wireless communications, DSP, networking, and embedded systems to develop ML-driven features that solve real-world problems in dynamic and challenging RF environments.
+            - paragraph [ref=e46]:
+              - text: This
+              - emphasis [ref=e47]
+              - text: position is based at Silvus Technologies’ headquarters in the heart of vibrant
+              - strong [ref=e48]: West Los Angeles, CA,
+              - text: and is on a hybrid schedule. A minimum of 3 days onsite per week is expected. On-site days are Mondays, Wednesdays, and Thursdays.
+            - paragraph [ref=e49]: The following is a list of at least some of the current essential job functions of the position. Management may assign or reassign duties and responsibilities at any time at its discretion.
+            - paragraph [ref=e50]:
+              - emphasis [ref=e51]
+              - text: ROLE AND RESPONSIBILITIES
+            - list [ref=e52]:
+              - listitem [ref=e53]: Research, design, and implement machine learning algorithms to enhance performance in wireless communication systems (e.g., link adaptation, interference mitigation, anomaly detection, spectrum sensing).
+              - listitem [ref=e54]: Analyze real-world RF datasets to extract insights and develop predictive models.
+              - listitem [ref=e55]: Develop software prototypes and integrate ML algorithms with Silvus’ radio firmware and networking stack.
+              - listitem [ref=e56]: Collaborate with cross-functional teams to define ML use cases and evaluate the impact of deployed models.
+              - listitem [ref=e57]: Contribute to the design of data pipelines and infrastructure for training, testing, and validating models.
+              - listitem [ref=e58]: Participate in performance benchmarking and iterative improvement cycles.
+              - listitem [ref=e59]: Stay current with the latest Machine Learning research for wireless and embedded systems.
+              - listitem [ref=e60]: Perform other related duties of which the above are representative.
+            - paragraph [ref=e61]: REQUIRED QUALIFICATIONS
+            - list [ref=e62]:
+              - listitem [ref=e63]: Bachelor of Science degree in Electrical Engineering, Computer Science, Computer Engineering, or related field plus a minimum of 2 years of experience in machine learning, with demonstrated application to real-world problems; no experience required with an advance degree (MS or PhD)
+              - listitem [ref=e64]: Strong foundation in supervised and unsupervised learning and statistical modeling.
+              - listitem [ref=e65]: Experience with Python ML frameworks (e.g., TensorFlow, PyTorch, scikit-learn, etc.).
+              - listitem [ref=e66]: Exposure to MATLAB or C/C++ for signal processing algorithm development.
+              - listitem [ref=e67]:
+                - strong [ref=e68]: Must be a U.S. Citizen
+                - text: due to clients under U.S. government contracts.
+              - listitem [ref=e69]:
+                - strong [ref=e70]: All employment is contingent upon the successful clearance of a background check and drug test.
+            - paragraph [ref=e71]:
+              - strong [ref=e72]
+              - text: PREFERRED KNOWLEDGE, SKILLS, AND ABILITIES
+            - list [ref=e73]:
+              - listitem [ref=e74]: MS. or Ph.D. in Electrical Engineering, Computer Science, or a related field.
+              - listitem [ref=e75]: Demonstrated experience with RF signal classification, anomaly detection, or spectrum monitoring.
+              - listitem [ref=e76]: Proficiency in MATLAB or C/C++ for signal processing algorithm development.
+              - listitem [ref=e77]: Familiarity with wireless communication concepts (e.g., PHY/MAC layers, MIMO, OFDM, spectrum access).
+              - listitem [ref=e78]: Familiarity with embedded ML, real-time systems, or deploying ML on edge devices.
+              - listitem [ref=e79]: Background in adaptive modulation, beamforming, or cognitive radio techniques.
+              - listitem [ref=e80]: Experience working with wireless standards such as 3GPP, IEEE 802.11/15, or military waveforms.
+              - listitem [ref=e81]: Experience with GPU acceleration or model optimization for constrained environments.
+              - listitem [ref=e82]: Excellent communication and collaboration skills.
+            - paragraph [ref=e83]: WORKING CONDITIONS AND PHYSICAL REQUIREMENTS
+            - list [ref=e84]:
+              - listitem [ref=e85]: Office environment.
+              - listitem [ref=e86]: Outdoor environment for demos.
+              - listitem [ref=e87]: Occasional exposure to heat, cold, and allergens while performing tests or demonstrations in the field.
+              - listitem [ref=e88]:
+                - text: "While performing the duties of this job, the employee is required to do the following:"
+                - list [ref=e89]:
+                  - listitem [ref=e90]: Lift equipment up to 20 lbs. for the set-up of demonstrations and testing.
+                  - listitem [ref=e91]: Perform bending and reaching movements to place items on lower and higher shelves.
+            - paragraph [ref=e92]: "#silvuscareers"
+          - generic [ref=e94]:
+            - generic [ref=e97]:
+              - paragraph [ref=e98]:
+                - strong [ref=e99]: COMPENSATION
+              - paragraph [ref=e100]:
+                - emphasis [ref=e101]: The pay range is NOT a guarantee. It is based on market research and peer data, and will vary depending on the candidate’s experience and qualifications.
+            - paragraph [ref=e102]: CA Pay Range
+            - paragraph [ref=e103]: $100,000 - $140,000 USD
+          - generic [ref=e104]:
+            - paragraph [ref=e105]: Consistent with Motorola Solutions values and applicable law, we provide the following information to promote pay transparency and equity. Pay within this range varies and depends on job-related knowledge, skills, and experience. The actual offer will be based on the individual candidate.
+            - paragraph [ref=e106]:
+              - strong [ref=e107]: NOTE - As a US Federal Contractor, Silvus Technologies requires that ALL candidates being considered for employment for any position (regardless of level) MUST be a U.S. Person (permanent resident or citizen). Stricter U.S. Citizen ONLY requirements (needed for some Engineering or R&D roles) will be included in the Required Qualifications section of the posted position. This does NOT apply to international positions; only job postings for positions located in the US.
+            - paragraph [ref=e108]: Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.
+            - paragraph [ref=e109]: We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.
+            - paragraph [ref=e110]:
+              - text: We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please complete this
+              - link "Reasonable Accommodations Form" [ref=e111] [cursor=pointer]:
+                - /url: https://docs.google.com/forms/d/e/1FAIpQLSdtFsy5jUxYcf7d7VZGiX_Ennsz162ZUEP6uxLgsdslTV5xgg/viewform
+              - text: so we can assist you.
+        - generic [ref=e112]:
+          - img [ref=e113]
+          - generic [ref=e115]:
+            - paragraph [ref=e116]: Create a Job Alert
+            - paragraph [ref=e117]: Interested in building your career at Silvus Technologies? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e118] [cursor=pointer]
+      - separator [ref=e119]
+      - generic [ref=e120]:
+        - generic [ref=e121]:
+          - generic [ref=e122]:
+            - heading "Apply for this job" [level=2] [ref=e124]
+            - generic [ref=e125]:
+              - paragraph [ref=e127]: "*"
+              - paragraph [ref=e128]: indicates a required field
+          - button "Quick Apply with MyGreenhouse" [ref=e131] [cursor=pointer]
+        - generic [ref=e132]:
+          - generic [ref=e133]:
+            - generic [ref=e136]:
+              - generic [ref=e137]: First Name*
+              - textbox "First Name" [ref=e138]
+            - generic [ref=e141]:
+              - generic [ref=e142]: Last Name*
+              - textbox "Last Name" [ref=e143]
+            - generic [ref=e146]:
+              - generic [ref=e147]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e148]
+            - generic [ref=e151]:
+              - generic [ref=e152]: Email*
+              - textbox "Email" [ref=e153]
+            - group "Phone" [ref=e155]:
+              - generic [ref=e156]: Phone
+              - generic [ref=e159]:
+                - generic [ref=e160]: Country
+                - generic [ref=e161]:
+                  - log [ref=e163]
+                  - generic [ref=e165]:
+                    - combobox "Country" [ref=e168]
+                    - button "Toggle flyout" [ref=e170] [cursor=pointer]:
+                      - img [ref=e171]
+              - generic [ref=e175]:
+                - generic [ref=e176]: Phone
+                - textbox "Phone" [ref=e177]
+            - group "Resume/CV" [ref=e179]:
+              - generic [ref=e180]: Resume/CV
+              - generic [ref=e182]:
+                - generic [ref=e184]:
+                  - button "Attach" [ref=e185] [cursor=pointer]
+                  - generic [ref=e186]: Attach
+                  - button "Attach" [ref=e187]
+                - button "Dropbox" [ref=e189] [cursor=pointer]
+                - button "Google Drive" [ref=e191] [cursor=pointer]
+                - generic [ref=e193]:
+                  - button "Enter manually" [ref=e194] [cursor=pointer]
+                  - generic [ref=e195]: Enter manually
+                - paragraph [ref=e196]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e198]:
+              - generic [ref=e199]: Cover Letter
+              - generic [ref=e201]:
+                - generic [ref=e203]:
+                  - button "Attach" [ref=e204] [cursor=pointer]
+                  - generic [ref=e205]: Attach
+                  - button "Attach" [ref=e206]
+                - button "Dropbox" [ref=e208] [cursor=pointer]
+                - button "Google Drive" [ref=e210] [cursor=pointer]
+                - generic [ref=e212]:
+                  - button "Enter manually" [ref=e213] [cursor=pointer]
+                  - generic [ref=e214]: Enter manually
+                - paragraph [ref=e215]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e216]:
+            - separator [ref=e217]
+            - generic [ref=e220]:
+              - generic [ref=e221]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e222]
+            - generic [ref=e225]:
+              - generic [ref=e226]: Website
+              - textbox "Website" [ref=e227]
+            - generic [ref=e230]:
+              - generic [ref=e231]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e232]
+            - generic [ref=e235]:
+              - generic [ref=e236]: Website
+              - textbox "Website" [ref=e237]
+            - generic [ref=e240]:
+              - generic [ref=e241]: Current Company
+              - textbox "Current Company" [ref=e242]
+            - generic [ref=e245]:
+              - generic [ref=e246]: I acknowledge that I meet the minimum education requirements for this role.*
+              - generic [ref=e247]:
+                - log [ref=e249]
+                - generic [ref=e251]:
+                  - generic [ref=e252]:
+                    - generic [ref=e253]: Select...
+                    - combobox "I acknowledge that I meet the minimum education requirements for this role." [ref=e255]
+                  - button "Toggle flyout" [ref=e257] [cursor=pointer]:
+                    - img [ref=e258]
+                - textbox
+            - generic [ref=e262]:
+              - generic [ref=e263]: I acknowledge that I meet the minimum experience requirements for this role.*
+              - generic [ref=e264]:
+                - log [ref=e266]
+                - generic [ref=e268]:
+                  - generic [ref=e269]:
+                    - generic [ref=e270]: Select...
+                    - combobox "I acknowledge that I meet the minimum experience requirements for this role." [ref=e272]
+                  - button "Toggle flyout" [ref=e274] [cursor=pointer]:
+                    - img [ref=e275]
+                - textbox
+            - generic [ref=e279]:
+              - generic [ref=e280]: I acknowledge that I am a US Citizen.*
+              - generic [ref=e281]:
+                - log [ref=e283]
+                - generic [ref=e285]:
+                  - generic [ref=e286]:
+                    - generic [ref=e287]: Select...
+                    - combobox "I acknowledge that I am a US Citizen." [ref=e289]
+                  - button "Toggle flyout" [ref=e291] [cursor=pointer]:
+                    - img [ref=e292]
+                - textbox
+          - generic [ref=e294]:
+            - separator [ref=e295]
+            - generic [ref=e296]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e297]
+              - paragraph [ref=e298]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e299]: As set forth in Silvus Technologies’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e302]:
+              - generic [ref=e303]: Gender
+              - generic [ref=e304]:
+                - log [ref=e306]
+                - generic [ref=e308]:
+                  - generic [ref=e309]:
+                    - generic [ref=e310]: Select...
+                    - combobox "Gender" [ref=e312]
+                  - button "Toggle flyout" [ref=e314] [cursor=pointer]:
+                    - img [ref=e315]
+            - generic [ref=e317]:
+              - generic [ref=e319]:
+                - generic [ref=e320]: Are you Hispanic/Latino?
+                - generic [ref=e321]:
+                  - log [ref=e323]
+                  - generic [ref=e325]:
+                    - generic [ref=e326]:
+                      - generic [ref=e327]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e329]
+                    - button "Toggle flyout" [ref=e331] [cursor=pointer]:
+                      - img [ref=e332]
+              - link "Race & Ethnicity Definitions" [ref=e334] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e335]:
+              - paragraph [ref=e336]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e337]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e338]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e339]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e340]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e343]:
+              - generic [ref=e344]: Veteran Status
+              - generic [ref=e345]:
+                - log [ref=e347]
+                - generic [ref=e349]:
+                  - generic [ref=e350]:
+                    - generic [ref=e351]: Select...
+                    - combobox "Veteran Status" [ref=e353]
+                  - button "Toggle flyout" [ref=e355] [cursor=pointer]:
+                    - img [ref=e356]
+            - separator [ref=e358]
+            - generic [ref=e359]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e360]
+              - generic [ref=e361]:
+                - generic [ref=e362]:
+                  - generic [ref=e363]: Form CC-305
+                  - generic [ref=e364]: Page 1 of 1
+                - generic [ref=e365]:
+                  - generic [ref=e366]: OMB Control Number 1250-0005
+                  - generic [ref=e367]: Expires 04/30/2026
+              - strong [ref=e368]: Why are you being asked to complete this form?
+              - paragraph [ref=e369]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e370]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e371] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e372]: How do you know if you have a disability?
+              - paragraph [ref=e373]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e374]: "Disabilities include, but are not limited to:"
+              - list [ref=e375]:
+                - listitem [ref=e376]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e377]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e378]: Blind or low vision
+                - listitem [ref=e379]: Cancer (past or present)
+                - listitem [ref=e380]: Cardiovascular or heart disease
+                - listitem [ref=e381]: Celiac disease
+                - listitem [ref=e382]: Cerebral palsy
+                - listitem [ref=e383]: Deaf or serious difficulty hearing
+                - listitem [ref=e384]: Diabetes
+                - listitem [ref=e385]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e386]: Epilepsy or other seizure disorder
+                - listitem [ref=e387]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e388]: Intellectual or developmental disability
+                - listitem [ref=e389]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e390]: Missing limbs or partially missing limbs
+                - listitem [ref=e391]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e392]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e393]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e394]: Partial or complete paralysis (any cause)
+                - listitem [ref=e395]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e396]: Short stature (dwarfism)
+                - listitem [ref=e397]: Traumatic brain injury
+            - generic [ref=e400]:
+              - generic [ref=e401]: Disability Status
+              - generic [ref=e402]:
+                - log [ref=e404]
+                - generic [ref=e406]:
+                  - generic [ref=e407]:
+                    - generic [ref=e408]: Select...
+                    - combobox "Disability Status" [ref=e410]
+                  - button "Toggle flyout" [ref=e412] [cursor=pointer]:
+                    - img [ref=e413]
+            - paragraph [ref=e416]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e418] [cursor=pointer]
+  - contentinfo [ref=e419]:
+    - generic [ref=e420]:
+      - paragraph [ref=e421]: Powered by
+      - link "Greenhouse logo" [ref=e422] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e423]

@@ -1,0 +1,49 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Unlimited" [ref=e6] [cursor=pointer]:
+        - /url: https://www.unlimitedindustries.com/
+        - img "Unlimited" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Unlimited’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /unlimitedindustries
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer - Junior" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]:
+            - generic [ref=e29]: Engineering
+      - generic [ref=e30]:
+        - tablist [ref=e31]:
+          - tab "Overview" [selected] [ref=e32] [cursor=pointer]
+          - tab "Application" [ref=e33] [cursor=pointer]
+        - tabpanel "Overview" [ref=e35]:
+          - paragraph [ref=e37]: AI obsessed software engineer building the product to build all real world physical infrastructure.
+          - link "Apply for this Job" [ref=e38] [cursor=pointer]:
+            - /url: /unlimitedindustries/5c5706fe-26ae-46d6-8423-e4721a5a98fc/application
+            - button "Apply for this Job" [ref=e39]
+  - contentinfo [ref=e40]:
+    - link "Learn more about Ashby" [ref=e41] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e42]: Powered by
+      - img "Ashby" [ref=e43]
+    - paragraph [ref=e49]:
+      - link "Privacy Policy" [ref=e50] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e51] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e52] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

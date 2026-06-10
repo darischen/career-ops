@@ -1,0 +1,171 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "BCC-NIH Logo" [ref=e5]
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/bcc?gh_src=Simplify
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - heading "Software Developer" [level=1] [ref=e13]
+            - generic [ref=e14]:
+              - img [ref=e15]
+              - generic [ref=e17]: Bethesda, MD
+          - button "Apply" [ref=e18] [cursor=pointer]
+        - generic [ref=e20]:
+          - paragraph [ref=e21]:
+            - text: Black Canyon Consulting
+            - strong [ref=e22]: (BCC)
+            - text: is searching for a
+            - strong [ref=e23]: Software Developer
+            - text: to support at the National Institutes of Health (NIH). This opportunity is full time in Bethesda, MD and/or remote work.
+          - paragraph [ref=e24]: As a Software Developer, you will contribute to development efforts that support the goals and initiatives of the product team and organization while learning Software Development practices from an experienced team. This work is performed under the guidance of the Technical Program Manager and the Technical Lead.
+          - paragraph [ref=e25]: We attract the best people in the business with our competitive benefits package that includes medical, dental and vision coverage, 401k plan with employer contribution, paid holidays, vacation, and tuition reimbursement. If you enjoy being a part of a high performing, professional service and technology focused organization, please apply today!
+          - paragraph [ref=e26]:
+            - strong [ref=e27]: "Responsibilities include:"
+          - list [ref=e28]:
+            - listitem [ref=e29]: Work with the Software Development team on front-end and back-end software development tasks
+            - listitem [ref=e30]: Contribute to design discussions for new software development efforts
+            - listitem [ref=e31]: Learn Software Development practices from an experienced team
+            - listitem [ref=e32]: Participate in software documentation activities with the team
+            - listitem [ref=e33]: Work as an integral part of an agile product team to deliver an unbelievably great user experience
+          - paragraph [ref=e34]:
+            - strong [ref=e35]: "Qualifications:"
+          - paragraph [ref=e36]: The ideal candidate may or may not be a United States citizen and must have at least a Bachelor or Master of Science degree in Computer Science, Information Technology or Engineering or equivalent work experience.
+          - paragraph [ref=e37]: "We are looking for an individual with:"
+          - list [ref=e38]:
+            - listitem [ref=e39]: Experience developing software applications in Python
+            - listitem [ref=e40]: Experience developing software with GoLang, C++, and/or Java a plus
+            - listitem [ref=e41]: Understanding of front-end technologies, such as JavaScript, HTML5, and CSS3
+            - listitem [ref=e42]: Experience working with SQL databases
+            - listitem [ref=e43]: Ability to work with common structured documents (XML, JSON, CSV)
+            - listitem [ref=e44]: Understanding of ASN.1 a plus
+            - listitem [ref=e45]: Experience with version control systems like Git or SVN
+            - listitem [ref=e46]: Excellent verbal and written communication skills and team player
+          - paragraph [ref=e47]
+        - generic [ref=e48]:
+          - img [ref=e49]
+          - generic [ref=e51]:
+            - paragraph [ref=e52]: Create a Job Alert
+            - paragraph [ref=e53]: Interested in building your career at BCC-NIH? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e54] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=bcc&source=job_alert_post
+      - separator [ref=e55]
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - heading "Apply for this job" [level=2] [ref=e60]
+            - generic [ref=e61]:
+              - paragraph [ref=e63]: "*"
+              - paragraph [ref=e64]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e67] [cursor=pointer]
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - generic [ref=e72]:
+              - generic [ref=e73]: First Name*
+              - textbox "First Name" [ref=e74]
+            - generic [ref=e77]:
+              - generic [ref=e78]: Last Name*
+              - textbox "Last Name" [ref=e79]
+            - generic [ref=e82]:
+              - generic [ref=e83]: Email*
+              - textbox "Email" [ref=e84]
+            - group "Phone" [ref=e86]:
+              - generic [ref=e87]: Phone
+              - generic [ref=e90]:
+                - generic [ref=e91]: Country*
+                - generic [ref=e92]:
+                  - log [ref=e94]
+                  - generic [ref=e96]:
+                    - combobox "Country" [ref=e99]
+                    - button "Toggle flyout" [ref=e101] [cursor=pointer]:
+                      - img [ref=e102]
+                  - textbox
+              - generic [ref=e106]:
+                - generic [ref=e107]: Phone*
+                - textbox "Phone" [ref=e109]
+            - group "Resume/CV*" [ref=e111]:
+              - generic [ref=e112]: Resume/CV*
+              - generic [ref=e114]:
+                - generic [ref=e116]:
+                  - button "Attach" [ref=e117] [cursor=pointer]
+                  - generic [ref=e118]: Attach
+                  - button "Attach" [ref=e119]
+                - button "Dropbox" [ref=e121] [cursor=pointer]
+                - button "Google Drive" [ref=e123] [cursor=pointer]
+                - generic [ref=e125]:
+                  - button "Enter manually" [ref=e126] [cursor=pointer]
+                  - generic [ref=e127]: Enter manually
+                - paragraph [ref=e128]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e130]:
+              - generic [ref=e131]: Cover Letter
+              - generic [ref=e133]:
+                - generic [ref=e135]:
+                  - button "Attach" [ref=e136] [cursor=pointer]
+                  - generic [ref=e137]: Attach
+                  - button "Attach" [ref=e138]
+                - button "Dropbox" [ref=e140] [cursor=pointer]
+                - button "Google Drive" [ref=e142] [cursor=pointer]
+                - generic [ref=e144]:
+                  - button "Enter manually" [ref=e145] [cursor=pointer]
+                  - generic [ref=e146]: Enter manually
+                - paragraph [ref=e147]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - separator [ref=e150]
+              - paragraph [ref=e152]: Education
+              - generic [ref=e154]:
+                - generic [ref=e155]: School
+                - generic [ref=e156]:
+                  - log [ref=e158]
+                  - generic [ref=e160]:
+                    - generic [ref=e161]:
+                      - generic [ref=e162]: Select...
+                      - combobox "School" [ref=e164]
+                    - button "Toggle flyout" [ref=e166] [cursor=pointer]:
+                      - img [ref=e167]
+              - generic [ref=e170]:
+                - generic [ref=e171]: Degree
+                - generic [ref=e172]:
+                  - log [ref=e174]
+                  - generic [ref=e176]:
+                    - generic [ref=e177]:
+                      - generic [ref=e178]: Select...
+                      - combobox "Degree" [ref=e180]
+                    - button "Toggle flyout" [ref=e182] [cursor=pointer]:
+                      - img [ref=e183]
+              - generic [ref=e185]:
+                - generic [ref=e188]:
+                  - generic [ref=e189]: Start date year
+                  - spinbutton "Start date year" [ref=e190]
+                - generic [ref=e193]:
+                  - generic [ref=e194]: End date year
+                  - spinbutton "End date year" [ref=e195]
+            - button "Add another" [ref=e196] [cursor=pointer]
+          - generic [ref=e197]:
+            - separator [ref=e198]
+            - generic [ref=e201]:
+              - generic [ref=e202]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e203]
+            - generic [ref=e206]:
+              - generic [ref=e207]: GitLab
+              - textbox "GitLab" [ref=e208]
+            - generic [ref=e211]:
+              - generic [ref=e212]: GitHub
+              - textbox "GitHub" [ref=e213]
+            - generic [ref=e216]:
+              - generic [ref=e217]: Website
+              - textbox "Website" [ref=e218]
+          - button "Submit application" [ref=e220] [cursor=pointer]
+  - contentinfo [ref=e221]:
+    - generic [ref=e222]:
+      - paragraph [ref=e223]: Powered by
+      - link "Greenhouse logo" [ref=e224] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e225]
+  - iframe [ref=e239]:
+    - generic [ref=f7e6]:
+      - text: protected by
+      - strong [ref=f7e7]: reCAPTCHA

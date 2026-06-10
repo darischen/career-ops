@@ -1,0 +1,187 @@
+- generic [ref=e9]:
+  - link "Skip to main content" [ref=e10] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e13]:
+    - generic [ref=e15]:
+      - link "search for jobs" [ref=e18] [cursor=pointer]:
+        - /url: /en-US/FRS
+        - img "search for jobs" [ref=e19]
+      - heading "Federal Reserve System Careers" [level=1] [ref=e21]
+      - generic [ref=e23]:
+        - button "Sign In" [ref=e25] [cursor=pointer]:
+          - generic [ref=e30]: Sign In
+        - navigation [ref=e31]:
+          - button "Search for Jobs" [ref=e32] [cursor=pointer]
+  - generic [ref=e37]:
+    - alert [ref=e38]: Federal Reserve Financial Services Software Engineer I page is loaded
+    - generic [ref=e39]:
+      - generic [ref=e41]:
+        - heading "Federal Reserve Financial Services Software Engineer I" [level=2] [ref=e42]
+        - button "Apply" [ref=e47] [cursor=pointer]
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - generic [ref=e57]:
+            - term [ref=e58]: locations
+            - definition [ref=e59]: Atlanta, GA
+            - definition [ref=e60]: New York, NY
+            - definition [ref=e61]: Minneapolis, MN
+          - generic [ref=e62]:
+            - generic [ref=e71]:
+              - term [ref=e72]: time type
+              - definition [ref=e73]: Full time
+            - generic [ref=e82]:
+              - term [ref=e83]: posted on
+              - definition [ref=e84]: Posted 2 Days Ago
+            - generic [ref=e93]:
+              - term [ref=e94]: job requisition id
+              - definition [ref=e95]: R-0000032219
+        - generic [ref=e97]:
+          - heading "Company" [level=2] [ref=e98]:
+            - generic [ref=e99]: Company
+          - text: Federal Reserve Bank of Atlanta
+          - paragraph [ref=e100]
+          - paragraph [ref=e101]
+          - text: Federal Reserve Financial Services (FRFS) delivers a suite of payments services to financial institutions via FedLine® Solutions, Fedwire® Funds and Securities, the National Settlement Service (NSS), FedCash®1, FedACH®, Check Services, and the FedNow® Service. FRFS operates as a fully integrated organization with groups dedicated to customer experience, operations, technology, product and customer/industry management, enterprise services, payments system improvement, and one focused on the ongoing growth and development of the FedNow instant payment service. Our strategy defines our future direction, seeking to offer a fully integrated product suite that provides speed, resilience, and choice in meeting the payments needs of FRFS customers across the United States. Through our Enterprise structure, we strive to meet the needs of the marketplace for new products and services with speed and agility, seek to provide a robust and unified customer experience, and work to create career growth opportunities for FRFS staff.
+          - text: The FRFS Enterprise operates with a customer-first mindset, comprised of team members seeking to do the best work of their careers in pursuit of our important central bank mission.
+          - text: "Onsite Work Expectations: The Bank believes in flexibility to balance the demands of work and life while also recognizing the necessity of connecting and collaborating with our colleagues in person. Onsite work is an essential function of this position, and you are required to be onsite according to the schedule set by your management."
+          - paragraph [ref=e102]
+          - paragraph [ref=e103]
+          - paragraph [ref=e104]: This position is located in Minneapolis, MN or New York City, NY and has an, on-site requirement that must be fulfilled in one of the Federal Reserve System banks.
+          - paragraph [ref=e105]
+          - paragraph [ref=e106]: "Key Activities:"
+          - paragraph [ref=e107]: "We are looking for an entry-level developer to join our automation team to automate operational processes. Responsibilities for this position include:"
+          - list [ref=e108]:
+            - listitem [ref=e109]:
+              - paragraph [ref=e110]: Working with subject matter experts to gather requirements for automation
+            - listitem [ref=e111]:
+              - paragraph [ref=e112]: Working with automation team to develop scripts using Ansible, Splunk, and Dynatrace
+            - listitem [ref=e113]:
+              - paragraph [ref=e114]: Maintaining automation documentation on standards, templates, and operational needs
+            - listitem [ref=e115]:
+              - paragraph [ref=e116]: Scheduling automated using Ansible Tower or similar software
+            - listitem [ref=e117]:
+              - paragraph [ref=e118]: Working with automation team to continually improve process, drive cost reduction activities and build domain knowledge
+          - paragraph [ref=e119]: "Requirements:"
+          - list [ref=e120]:
+            - listitem [ref=e121]:
+              - paragraph [ref=e122]: 0-2 years' experience for junior role | 3+ years for Software Engineer II level.
+            - listitem [ref=e123]:
+              - paragraph [ref=e124]: Typically requires 0-3 years web development experience
+            - listitem [ref=e125]:
+              - paragraph [ref=e126]: "1-3 years automation development using any automation software: Git, Scrum, and SDLC"
+            - listitem [ref=e127]:
+              - paragraph [ref=e128]: Prefer Python, Ansible, Splunk, and/or Dynatrace experience
+            - listitem [ref=e129]:
+              - paragraph [ref=e130]: AWS experience a plus
+            - listitem [ref=e131]:
+              - paragraph [ref=e132]: Typically requires an Associate's Degree in Information Technology or a related field
+            - listitem [ref=e133]:
+              - paragraph [ref=e134]: Collaborate with IT and business contacts for successful execution
+            - listitem [ref=e135]:
+              - paragraph [ref=e136]: Work as a team player
+            - listitem [ref=e137]:
+              - paragraph [ref=e138]: Willingness and passion to learn
+            - listitem [ref=e139]:
+              - paragraph [ref=e140]: Good written and verbal communications skills
+            - listitem [ref=e141]:
+              - paragraph [ref=e142]: Self-starter, organized, detail-oriented person
+            - listitem [ref=e143]:
+              - paragraph [ref=e144]: Ability to adapt to and succeed in a fast paced, changing environment
+            - listitem [ref=e145]:
+              - paragraph [ref=e146]: Ability to multi-task
+            - listitem [ref=e147]:
+              - paragraph [ref=e148]: Must be able to work a hybrid schedule on-site in Atlanta, GA, Minneapolis, MN, or Kansas City, MO.
+            - listitem [ref=e149]:
+              - paragraph [ref=e150]: Applicants must be currently authorized to work in the United States without the need for visa sponsorship now or in the future.
+          - paragraph [ref=e151]: "Education:"
+          - list [ref=e152]:
+            - listitem [ref=e153]:
+              - paragraph [ref=e154]: Bachelor’s degree specializing in STEM (Science, Technology, Engineering, Mathematics), or a closely related field, from an accredited college or university, or equivalent combination of directly related education and/or experience.
+          - paragraph [ref=e155]
+          - heading [level=2]
+          - paragraph [ref=e156]
+          - heading [level=2]
+          - heading "Full Time / Part Time" [level=2] [ref=e157]:
+            - generic [ref=e158]: Full Time / Part Time
+          - text: Full time
+          - heading [level=2]
+          - paragraph [ref=e159]
+          - heading [level=2]
+          - heading "Regular / Temporary" [level=2] [ref=e160]:
+            - generic [ref=e161]: Regular / Temporary
+          - text: Regular
+          - heading [level=2]
+          - paragraph [ref=e162]
+          - heading [level=2]
+          - heading "Job Exempt (Yes / No)" [level=2] [ref=e163]:
+            - generic [ref=e164]: Job Exempt (Yes / No)
+          - text: "Yes"
+          - heading [level=2]
+          - paragraph [ref=e165]
+          - heading [level=2]
+          - heading "Job Category" [level=2] [ref=e166]:
+            - generic [ref=e167]: Job Category
+          - text: Information Technology Family Group
+          - heading [level=2]
+          - paragraph [ref=e168]
+          - heading [level=2]
+          - heading "Work Shift" [level=2] [ref=e169]:
+            - generic [ref=e170]: Work Shift
+          - text: First (United States of America)
+          - paragraph [ref=e171]
+          - paragraph [ref=e172]: The Federal Reserve Banks are committed to equal employment opportunity for employees and job applicants in compliance with applicable law and to an environment where employees are valued for their differences.
+          - paragraph [ref=e173]
+          - paragraph [ref=e174]:
+            - generic [ref=e175]: Always verify and apply to jobs on Federal Reserve System Careers (
+            - link "https://rb.wd5.myworkdayjobs.com/FRS" [ref=e178] [cursor=pointer]:
+              - /url: https://rb.wd5.myworkdayjobs.com/FRS
+              - generic [ref=e180]: https://rb.wd5.myworkdayjobs.com/FRS
+            - text: )
+            - generic [ref=e181]: or through verified Federal Reserve Bank social media channels.
+          - paragraph [ref=e182]
+          - paragraph [ref=e183]:
+            - link "Privacy Notice" [ref=e184] [cursor=pointer]:
+              - /url: https://www.kansascityfed.org/documents/7797/Workday_Privacy_Notice.pdf
+    - generic [ref=e186]:
+      - heading "Similar Jobs (1)" [level=3] [ref=e187]
+      - generic [ref=e189]:
+        - link "Principal Software Engineer" [ref=e193] [cursor=pointer]:
+          - /url: /en-US/FRS/job/Boston-MA/Principal-Software-Engineer_R-0000031654?utm_source=Simplify&ref=Simplify
+          - heading "Principal Software Engineer" [level=4] [ref=e194]
+        - generic [ref=e202]:
+          - term [ref=e203]: locations
+          - definition [ref=e204]: 12 Locations
+        - generic [ref=e213]:
+          - term [ref=e214]: time type
+          - definition [ref=e215]: Full time
+        - generic [ref=e224]:
+          - term [ref=e225]: posted on
+          - definition [ref=e226]: Posted 30+ Days Ago
+    - generic [ref=e228]:
+      - generic [ref=e229]:
+        - heading "About Us" [level=3] [ref=e230]
+        - img "Logo" [ref=e231]
+        - generic [ref=e233]:
+          - generic [ref=e235]:
+            - paragraph [ref=e236]: OUR BANK has one of the most recognizable brands around the world. The Federal Reserve is the central bank of the United States—one of the world's most influential, trusted and prestigious financial organizations. The Federal Reserve is charged with the important mission of promoting a strong economy and a stable financial system and fulfills this responsibility by formulating national monetary policy, supervising and regulating banks and bank holding companies, and providing financial services for banks and the U.S. government.
+            - paragraph [ref=e237]
+            - paragraph [ref=e238]: OUR PEOPLE are diverse in background and ideas, which allows for ongoing creativity and innovation. Ultimately, they are the ones who push our high-performance, exchange-driven culture forward.
+            - paragraph [ref=e239]
+            - paragraph [ref=e240]: "Why Our People Choose Us:"
+            - paragraph [ref=e241]
+            - paragraph [ref=e242]: Our reputation precedes us There will always be room for personal growth Our people are first You’ll find the right balance Your responsibilities will be meaningful
+            - paragraph [ref=e243]
+            - paragraph [ref=e244]: We hope that you will be our future colleague.
+            - paragraph [ref=e245]
+            - paragraph [ref=e246]:
+              - text: Always verify and apply to jobs on
+              - link [ref=e247] [cursor=pointer]:
+                - /url: https://rb.wd5.myworkdayjobs.com/FRS
+                - text: Federal Reserve System Careers
+              - text: or through verified Federal Reserve Bank social media channels.
+          - button "Read More" [ref=e250] [cursor=pointer]:
+            - generic [ref=e251]: Read More
+      - paragraph [ref=e261]: Please check back later for more information on available job opportunities.
+  - generic [ref=e263]:
+    - img [ref=e267]
+    - generic [ref=e287]: © 2026 Workday, Inc. All rights reserved.

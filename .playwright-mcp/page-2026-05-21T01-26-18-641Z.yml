@@ -1,0 +1,135 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "OpenAI" [ref=e6] [cursor=pointer]:
+        - /url: https://openai.com/
+        - img "OpenAI" [ref=e7]
+    - link "Back to OpenAI’s Job Listings" [ref=e8] [cursor=pointer]:
+      - /url: https://openai.com/careers/search/
+      - img [ref=e9]
+    - listitem
+  - generic [ref=e11]:
+    - heading "Full Stack Software Engineer, ChatGPT Engineering" [level=1] [ref=e13]
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - heading "Location" [level=2] [ref=e17]
+          - paragraph [ref=e18]: San Francisco
+        - generic [ref=e19]:
+          - heading "Employment Type" [level=2] [ref=e20]
+          - paragraph [ref=e21]: Full time
+        - generic [ref=e22]:
+          - heading "Department" [level=2] [ref=e23]
+          - paragraph [ref=e24]: Applied AI
+        - generic [ref=e25]:
+          - heading "Compensation" [level=2] [ref=e26]
+          - list [ref=e27]:
+            - listitem [ref=e28]:
+              - generic [ref=e29]: $185K – $385K • Offers Equity
+          - generic [ref=e30]:
+            - paragraph [ref=e31]: The base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. If the role is non-exempt, overtime pay will be provided consistent with applicable laws. In addition to the salary range listed above, total compensation also includes generous equity, performance-related bonus(es) for eligible employees, and the following benefits.
+            - list [ref=e32]:
+              - listitem [ref=e33]:
+                - paragraph [ref=e34]: Medical, dental, and vision insurance for you and your family, with employer contributions to Health Savings Accounts
+              - listitem [ref=e35]:
+                - paragraph [ref=e36]: Pre-tax accounts for Health FSA, Dependent Care FSA, and commuter expenses (parking and transit)
+              - listitem [ref=e37]:
+                - paragraph [ref=e38]: 401(k) retirement plan with employer match
+              - listitem [ref=e39]:
+                - paragraph [ref=e40]: Paid parental leave (up to 24 weeks for birth parents and 20 weeks for non-birthing parents), plus paid medical and caregiver leave (up to 8 weeks)
+              - listitem [ref=e41]:
+                - paragraph [ref=e42]: "Paid time off: flexible PTO for exempt employees and up to 15 days annually for non-exempt employees"
+              - listitem [ref=e43]:
+                - paragraph [ref=e44]: 13+ paid company holidays, and multiple paid coordinated company office closures throughout the year for focus and recharge, plus paid sick or safe time (1 hour per 30 hours worked, or more, as required by applicable state or local law)
+              - listitem [ref=e45]:
+                - paragraph [ref=e46]: Mental health and wellness support
+              - listitem [ref=e47]:
+                - paragraph [ref=e48]: Employer-paid basic life and disability coverage
+              - listitem [ref=e49]:
+                - paragraph [ref=e50]: Annual learning and development stipend to fuel your professional growth
+              - listitem [ref=e51]:
+                - paragraph [ref=e52]: Daily meals in our offices, and meal delivery credits as eligible
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: Relocation support for eligible employees
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]: Additional taxable fringe benefits, such as charitable donation matching and wellness stipends, may also be provided.
+            - paragraph [ref=e57]: More details about our benefits are available to candidates during the hiring process.
+            - paragraph [ref=e58]: This role is at-will and OpenAI reserves the right to modify base pay and other compensation components at any time based on individual performance, team or company results, or market conditions.
+      - generic [ref=e59]:
+        - tablist [ref=e60]:
+          - tab "Overview" [selected] [ref=e61] [cursor=pointer]
+          - tab "Application" [ref=e62] [cursor=pointer]
+        - tabpanel "Overview" [ref=e64]:
+          - generic [ref=e65]:
+            - paragraph [ref=e66]:
+              - strong [ref=e67]: About the Team
+              - text: At OpenAI, our Full Stack engineers help power core capabilities that tie front-end experiences with scalable backend systems. We’re hiring across teams including Growth, Ecosystems, Personalization, Search Infrastructure, and Platform Engineering to develop both user-facing features and foundational services that bring them to life.
+            - paragraph [ref=e68]
+            - paragraph [ref=e69]:
+              - strong [ref=e70]: About the Role
+              - text: "We’re looking for Full Stack Software Engineers who enjoy blending front-end and back-end work to deliver impactful features. In this role, you will:"
+            - paragraph [ref=e71]
+            - paragraph [ref=e72]:
+              - strong [ref=e73]: What You’ll Do
+            - list [ref=e74]:
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: Build end-to-end web applications and platform features that enhance ChatGPT experiences.
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: Collaborate with designers, product managers, and infrastructure teams.
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Design robust APIs, scalable services, and engaging UI components.
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: Ensure the integrity, security, and performance of systems you build.
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: Contribute to team best practices in testing, architecture, and SDLC.
+            - paragraph [ref=e85]
+            - paragraph [ref=e86]:
+              - strong [ref=e87]: You Might Thrive Here If You
+            - list [ref=e88]:
+              - listitem [ref=e89]:
+                - paragraph [ref=e90]: Have experience with both front-end (React, TypeScript) and back-end technologies (Node.js, Python, Go, etc.).
+              - listitem [ref=e91]:
+                - paragraph [ref=e92]: Are comfortable owning features from design to deployment.
+              - listitem [ref=e93]:
+                - paragraph [ref=e94]: Value high-quality code and polished user experiences.
+            - paragraph [ref=e95]: We are open to hiring in San Fransisco, New York and Seattle
+            - paragraph [ref=e96]
+            - paragraph [ref=e97]:
+              - strong [ref=e98]: About OpenAI
+            - paragraph [ref=e99]: OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
+            - paragraph [ref=e100]: We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
+            - paragraph [ref=e101]:
+              - text: For additional information, please see
+              - link "OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement" [ref=e102] [cursor=pointer]:
+                - /url: https://cdn.openai.com/policies/eeo-policy-statement.pdf
+              - text: .
+            - paragraph [ref=e103]: "Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations."
+            - paragraph [ref=e104]:
+              - text: To notify OpenAI that you believe this job posting is non-compliant, please submit a report through
+              - link "this form" [ref=e105] [cursor=pointer]:
+                - /url: https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA
+              - text: . No response will be provided to inquiries unrelated to job posting compliance.
+            - paragraph [ref=e106]:
+              - text: We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this
+              - link "link" [ref=e107] [cursor=pointer]:
+                - /url: https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241
+              - text: .
+            - paragraph [ref=e108]:
+              - link "OpenAI Global Applicant Privacy Policy" [ref=e109] [cursor=pointer]:
+                - /url: https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf
+            - paragraph [ref=e110]: At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+          - link "Apply for this Job" [ref=e111] [cursor=pointer]:
+            - /url: /openai/1b7c5f3f-9fa6-4492-bc47-2cf5aeaade21/application
+            - button "Apply for this Job" [ref=e112]
+  - contentinfo [ref=e113]:
+    - link "Learn more about Ashby" [ref=e114] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e115]: Powered by
+      - img "Ashby" [ref=e116]
+    - paragraph [ref=e122]:
+      - link "Privacy Policy" [ref=e123] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e124] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e125] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

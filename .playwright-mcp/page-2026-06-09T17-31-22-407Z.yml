@@ -1,0 +1,343 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "DoorDash USA Logo" [ref=e5]
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/doordashusa
+          - img [ref=e8]
+          - text: Back to jobs
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - heading "Autonomy Technical Support Associate" [level=1] [ref=e13]
+            - generic [ref=e14]:
+              - img [ref=e15]
+              - generic [ref=e17]: San Francisco, CA; Oakland, CA
+          - button "Apply" [ref=e18] [cursor=pointer]
+        - generic [ref=e19]:
+          - generic [ref=e20]:
+            - paragraph
+          - generic [ref=e21]:
+            - heading "About the Team" [level=2] [ref=e22]:
+              - strong [ref=e23]: About the Team
+            - paragraph [ref=e24]: DoorDash Labs is a team within DoorDash building autonomous delivery robots and other autonomy solutions from the ground up for DoorDash's core delivery platform. If you have a passion for applying robotics solutions to a service loved by millions of people, then we want to talk to you!
+            - heading "About the Role" [level=2] [ref=e25]:
+              - strong [ref=e26]: About the Role
+            - paragraph [ref=e27]: As Autonomy Technical Support Associate at DoodDash Labs, you will ensure the successful daily operations of the robot fleet and act as a conduit between Operations and Engineering teams to report, track and resolve field operations issues.
+            - heading "You’re excited about this opportunity because you will…" [level=2] [ref=e28]:
+              - strong [ref=e29]: You’re excited about this opportunity because you will…
+            - list [ref=e30]:
+              - listitem [ref=e31]: Act as a primary point of contact for software and hardware issues encountered during autonomy operations and testing, supporting the reliability of a live robotic fleet
+              - listitem [ref=e32]: Perform initial debugging and troubleshooting to identify issues, implement mitigation steps, and ensure timely resolution of operational disruptions
+              - listitem [ref=e33]: Partner closely with Robot Operations and Engineering teams to report anomalies, bugs, and faults with clear, actionable context to support efficient investigation and resolution
+              - listitem [ref=e34]: Contribute to maintaining and improving troubleshooting documentation, helping build a consistent and scalable knowledge base for issue resolution
+              - listitem [ref=e35]: Support ongoing improvements to triage quality and workflows, helping the team operate more efficiently as fleet complexity and scale increase
+              - listitem [ref=e36]: Identify recurring issues and patterns, contributing insights that help improve system performance and reduce future incidents
+              - listitem [ref=e37]: Own and maintain the Failure Mode repository, a critical system of record powering triage, self-service, and automation workflows
+              - listitem [ref=e38]: Continuously refine and evolve Failure Modes based on live issues, partnering with Operations and Engineering to improve triage quality, enable self-service, and support downstream automation and AI-driven workflows (e.g., issue categorization, resolution guidance)
+            - heading "We’re excited about you because…" [level=2] [ref=e39]:
+              - strong [ref=e40]: We’re excited about you because…
+            - list [ref=e41]:
+              - listitem [ref=e42]: You have experience troubleshooting and debugging complex technical issues in fast-paced, operational environments
+              - listitem [ref=e43]: You are comfortable working with tools such as Linux command line, Jira, and GitHub (or similar systems) to investigate and track issues
+              - listitem [ref=e44]: You communicate clearly and effectively, with strong attention to detail when documenting issues and sharing context with cross-functional partners
+              - listitem [ref=e45]: You are able to navigate ambiguity and make sound decisions under pressure, balancing speed with accuracy in real-time situations
+              - listitem [ref=e46]: You are naturally curious and motivated to understand how systems work, with a desire to continuously learn and improve
+              - listitem [ref=e47]: You take ownership of your work and proactively look for ways to improve processes, workflows, and overall team efficiency
+              - listitem [ref=e48]: You are flexible and willing to support operations across different shifts, including evenings or weekends as needed
+            - paragraph [ref=e49]
+          - generic [ref=e51]:
+            - generic [ref=e54]:
+              - paragraph [ref=e55]:
+                - strong [ref=e57]: Compensation
+              - paragraph [ref=e58]: Actual compensation within the pay range listed below will be decided based on factors including, but not limited to, skills, prior relevant experience, and specific work location. Base salary is localized according to employee work location.
+              - paragraph [ref=e59]: DoorDash cares about you and your overall well-being. That’s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family-forming assistance, and a mental health program, among others.
+              - paragraph [ref=e60]:
+                - text: To learn more about our benefits, visit our careers page
+                - link "here" [ref=e61] [cursor=pointer]:
+                  - /url: https://careers.doordash.com/
+                - text: .
+              - paragraph [ref=e62]: "See below for paid time off details:"
+              - list [ref=e63]:
+                - listitem [ref=e64]:
+                  - strong [ref=e65]: "For salaried roles:"
+                  - text: flexible paid time off/vacation, plus 80 hours of paid sick time per year.
+                - listitem [ref=e66]:
+                  - strong [ref=e67]: "For hourly roles:"
+                  - text: vacation accrued at about 1 hour for every 25.97 hours worked (e.g. about 6.7 hours/month if working 40 hours/week; about 3.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5.8 hours/month if working 40 hours/week; about 2.9 hours/month if working 20 hours/week).
+            - paragraph [ref=e68]: The national base pay range for this position within the United States, including Illinois and Colorado.
+            - paragraph [ref=e69]: $76,900 - $113,000 USD
+          - generic [ref=e70]:
+            - heading "About DoorDash" [level=2] [ref=e71]
+            - paragraph [ref=e72]:
+              - text: At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods.
+              - text: DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees’ happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+            - heading "Our Commitment to Diversity and Inclusion" [level=2] [ref=e73]
+            - paragraph [ref=e74]: We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+            - paragraph [ref=e75]: "Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on “protected categories,” we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce – people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination."
+            - paragraph [ref=e76]: Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
+            - paragraph [ref=e77]:
+              - strong [ref=e78]: If you need any accommodations, please inform your recruiting contact upon initial connection.
+            - paragraph [ref=e79]: Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only
+            - paragraph [ref=e80]: We used Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provided Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023. We resumed using Covey Scout for Inbound again on June 29, 2024, and ceased using Covey Scout for Inbound on April 30, 2026.
+            - paragraph [ref=e81]:
+              - text: "The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here:"
+              - strong [ref=e82]:
+                - link "https://getcovey.com/nyc-local-law-144" [ref=e83] [cursor=pointer]:
+                  - /url: https://getcovey.com/nyc-local-law-144
+                - text: .
+      - separator [ref=e84]
+      - generic [ref=e85]:
+        - generic [ref=e87]:
+          - heading "Apply for this job" [level=2] [ref=e89]
+          - generic [ref=e90]:
+            - paragraph [ref=e92]: "*"
+            - paragraph [ref=e93]: indicates a required field
+        - generic [ref=e94]:
+          - generic [ref=e95]:
+            - generic [ref=e98]:
+              - generic [ref=e99]: First Name*
+              - textbox "First Name" [ref=e100]
+            - generic [ref=e103]:
+              - generic [ref=e104]: Last Name*
+              - textbox "Last Name" [ref=e105]
+            - generic [ref=e108]:
+              - generic [ref=e109]: Email*
+              - textbox "Email" [ref=e110]
+            - group "Phone" [ref=e112]:
+              - generic [ref=e113]: Phone
+              - generic [ref=e116]:
+                - generic [ref=e117]: Country*
+                - generic [ref=e118]:
+                  - log [ref=e120]
+                  - generic [ref=e122]:
+                    - combobox "Country" [ref=e125]
+                    - button "Toggle flyout" [ref=e127] [cursor=pointer]:
+                      - img [ref=e128]
+                  - textbox
+              - generic [ref=e132]:
+                - generic [ref=e133]: Phone*
+                - textbox "Phone" [ref=e135]
+            - generic [ref=e136]:
+              - generic [ref=e138]:
+                - generic [ref=e139]: Location (City)*
+                - generic [ref=e140]:
+                  - log [ref=e142]
+                  - combobox "Location (City)" [ref=e147]
+                  - textbox
+              - button "Locate me" [ref=e148] [cursor=pointer]
+            - group "Resume/CV*" [ref=e150]:
+              - generic [ref=e151]: Resume/CV*
+              - generic [ref=e153]:
+                - generic [ref=e155]:
+                  - button "Attach" [ref=e156] [cursor=pointer]
+                  - generic [ref=e157]: Attach
+                  - button "Attach" [ref=e158]
+                - button "Dropbox" [ref=e160] [cursor=pointer]
+                - button "Google Drive" [ref=e162] [cursor=pointer]
+                - generic [ref=e164]:
+                  - button "Enter manually" [ref=e165] [cursor=pointer]
+                  - generic [ref=e166]: Enter manually
+                - paragraph [ref=e167]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e169]:
+              - generic [ref=e170]: Cover Letter
+              - generic [ref=e172]:
+                - generic [ref=e174]:
+                  - button "Attach" [ref=e175] [cursor=pointer]
+                  - generic [ref=e176]: Attach
+                  - button "Attach" [ref=e177]
+                - button "Dropbox" [ref=e179] [cursor=pointer]
+                - button "Google Drive" [ref=e181] [cursor=pointer]
+                - generic [ref=e183]:
+                  - button "Enter manually" [ref=e184] [cursor=pointer]
+                  - generic [ref=e185]: Enter manually
+                - paragraph [ref=e186]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e187]:
+            - generic [ref=e188]:
+              - separator [ref=e189]
+              - paragraph [ref=e191]: Education
+              - generic [ref=e193]:
+                - generic [ref=e194]: School
+                - generic [ref=e195]:
+                  - log [ref=e197]
+                  - generic [ref=e199]:
+                    - generic [ref=e200]:
+                      - generic [ref=e201]: Select...
+                      - combobox "School" [ref=e203]
+                    - button "Toggle flyout" [ref=e205] [cursor=pointer]:
+                      - img [ref=e206]
+              - generic [ref=e209]:
+                - generic [ref=e210]: Degree
+                - generic [ref=e211]:
+                  - log [ref=e213]
+                  - generic [ref=e215]:
+                    - generic [ref=e216]:
+                      - generic [ref=e217]: Select...
+                      - combobox "Degree" [ref=e219]
+                    - button "Toggle flyout" [ref=e221] [cursor=pointer]:
+                      - img [ref=e222]
+            - button "Add another" [ref=e224] [cursor=pointer]
+          - generic [ref=e225]:
+            - separator [ref=e226]
+            - generic [ref=e229]:
+              - generic [ref=e230]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e231]
+            - generic [ref=e234]:
+              - generic [ref=e235]: Are you legally authorized to work in the United States?*
+              - generic [ref=e236]:
+                - log [ref=e238]
+                - generic [ref=e240]:
+                  - generic [ref=e241]:
+                    - generic [ref=e242]: Select...
+                    - combobox "Are you legally authorized to work in the United States?" [ref=e244]
+                  - button "Toggle flyout" [ref=e246] [cursor=pointer]:
+                    - img [ref=e247]
+                - textbox
+            - generic [ref=e251]:
+              - generic [ref=e252]: Will you now require immigration sponsorship by our company to attain or maintain your employment eligibility (e.g., H-1B, E-3, TN, O-1, STEM OPT, or any immigration work authorization requiring a written submission from the company to a government agency)?*
+              - generic [ref=e253]:
+                - log [ref=e255]
+                - generic [ref=e257]:
+                  - generic [ref=e258]:
+                    - generic [ref=e259]: Select...
+                    - combobox "Will you now require immigration sponsorship by our company to attain or maintain your employment eligibility (e.g., H-1B, E-3, TN, O-1, STEM OPT, or any immigration work authorization requiring a written submission from the company to a government agency)?" [ref=e261]
+                  - button "Toggle flyout" [ref=e263] [cursor=pointer]:
+                    - img [ref=e264]
+                - textbox
+            - generic [ref=e268]:
+              - generic [ref=e269]: Will you in the future require immigration sponsorship by our company to attain or maintain your employment eligibility (e.g., H-1B, E-3, TN, O-1, STEM OPT, or any immigration work authorization requiring a written submission from the company to a government agency)? *
+              - generic [ref=e270]:
+                - log [ref=e272]
+                - generic [ref=e274]:
+                  - generic [ref=e275]:
+                    - generic [ref=e276]: Select...
+                    - combobox "Will you in the future require immigration sponsorship by our company to attain or maintain your employment eligibility (e.g., H-1B, E-3, TN, O-1, STEM OPT, or any immigration work authorization requiring a written submission from the company to a government agency)?" [ref=e278]
+                  - button "Toggle flyout" [ref=e280] [cursor=pointer]:
+                    - img [ref=e281]
+                - textbox
+            - generic [ref=e283]:
+              - generic [ref=e285]:
+                - generic [ref=e286]: Have you worked at DoorDash?*
+                - generic [ref=e287]:
+                  - log [ref=e289]
+                  - generic [ref=e291]:
+                    - generic [ref=e292]:
+                      - generic [ref=e293]: Select...
+                      - combobox "Have you worked at DoorDash?" [ref=e295]
+                    - button "Toggle flyout" [ref=e297] [cursor=pointer]:
+                      - img [ref=e298]
+                  - textbox
+              - paragraph [ref=e302]: "Please Note: Previous corporate employees should select \"I am a previous employee\" and previous DoorDash Dashers should select \"I am a previous DoorDash Dasher\"."
+            - generic [ref=e303]:
+              - generic [ref=e305]:
+                - generic [ref=e306]: Applicant Privacy Acknowledgement *
+                - generic [ref=e307]:
+                  - log [ref=e309]
+                  - generic [ref=e311]:
+                    - generic [ref=e312]:
+                      - generic [ref=e313]: Select...
+                      - combobox "Applicant Privacy Acknowledgement" [ref=e315]
+                    - button "Toggle flyout" [ref=e317] [cursor=pointer]:
+                      - img [ref=e318]
+                  - textbox
+              - paragraph [ref=e322]:
+                - text: We would like to provide you with an overview of how we process your personal information. Please take the time to read the
+                - link "Applicant Privacy Notice" [ref=e323] [cursor=pointer]:
+                  - /url: https://help.doordash.com/legal/document?type=ax-privacy-notice&region=US&locale=en-US
+                - text: and confirm that you have read and understand the content.
+            - generic [ref=e326]:
+              - generic [ref=e327]: Would you like to receive communications via SMS and/or WhatsApp to the number provided [above or during the application process] about your application process? Message & data rates may apply and message frequency may vary. If you select no, we will only communicate with you via email and/or telephone calls. If you select yes and change your mind, you can always reply STOP to opt out.*
+              - generic [ref=e328]:
+                - log [ref=e330]
+                - generic [ref=e332]:
+                  - generic [ref=e333]:
+                    - generic [ref=e334]: Select...
+                    - combobox "Would you like to receive communications via SMS and/or WhatsApp to the number provided [above or during the application process] about your application process? Message & data rates may apply and message frequency may vary. If you select no, we will only communicate with you via email and/or telephone calls. If you select yes and change your mind, you can always reply STOP to opt out." [ref=e336]
+                  - button "Toggle flyout" [ref=e338] [cursor=pointer]:
+                    - img [ref=e339]
+                - textbox
+          - separator [ref=e341]
+          - generic [ref=e342]:
+            - heading "USA - Self-Identification Survey" [level=3] [ref=e343]
+            - generic [ref=e345]:
+              - heading "Voluntary Self-Identification" [level=3] [ref=e346]:
+                - strong [ref=e347]: Voluntary Self-Identification
+              - paragraph [ref=e348]: As described in our Applicant Privacy Notice, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e349]: As set forth in DoorDash’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e351]:
+              - generic [ref=e352]: Gender*
+              - generic [ref=e353]:
+                - log [ref=e355]
+                - generic [ref=e357]:
+                  - generic [ref=e358]:
+                    - generic [ref=e359]: Select...
+                    - combobox "Gender" [ref=e361]
+                  - button "Toggle flyout" [ref=e363] [cursor=pointer]:
+                    - img [ref=e364]
+                - textbox
+            - generic [ref=e367]:
+              - generic [ref=e368]: Do you identify as transgender?*
+              - generic [ref=e369]:
+                - log [ref=e371]
+                - generic [ref=e373]:
+                  - generic [ref=e374]:
+                    - generic [ref=e375]: Select...
+                    - combobox "Do you identify as transgender?" [ref=e377]
+                  - button "Toggle flyout" [ref=e379] [cursor=pointer]:
+                    - img [ref=e380]
+                - textbox
+            - generic [ref=e383]:
+              - generic [ref=e384]: Are you Hispanic or Latinx?*
+              - generic [ref=e385]:
+                - log [ref=e387]
+                - generic [ref=e389]:
+                  - generic [ref=e390]:
+                    - generic [ref=e391]: Select...
+                    - combobox "Are you Hispanic or Latinx?" [ref=e393]
+                  - button "Toggle flyout" [ref=e395] [cursor=pointer]:
+                    - img [ref=e396]
+                - textbox
+            - generic [ref=e399]:
+              - generic [ref=e400]: Race (*Please select one option that best describes how you identify*)*
+              - generic [ref=e401]:
+                - log [ref=e403]
+                - generic [ref=e405]:
+                  - generic [ref=e406]:
+                    - generic [ref=e407]: Select...
+                    - combobox "Race (*Please select one option that best describes how you identify*)" [ref=e409]
+                  - button "Toggle flyout" [ref=e411] [cursor=pointer]:
+                    - img [ref=e412]
+                - textbox
+            - generic [ref=e415]:
+              - generic [ref=e416]: Protected Veteran Status*
+              - generic [ref=e417]:
+                - log [ref=e419]
+                - generic [ref=e421]:
+                  - generic [ref=e422]:
+                    - generic [ref=e423]: Select...
+                    - combobox "Protected Veteran Status" [ref=e425]
+                  - button "Toggle flyout" [ref=e427] [cursor=pointer]:
+                    - img [ref=e428]
+                - textbox
+            - generic [ref=e431]:
+              - generic [ref=e432]: Disability Status*
+              - generic [ref=e433]:
+                - log [ref=e435]
+                - generic [ref=e437]:
+                  - generic [ref=e438]:
+                    - generic [ref=e439]: Select...
+                    - combobox "Disability Status" [ref=e441]
+                  - button "Toggle flyout" [ref=e443] [cursor=pointer]:
+                    - img [ref=e444]
+                - textbox
+          - button "Submit application" [ref=e447] [cursor=pointer]
+  - contentinfo [ref=e448]:
+    - generic [ref=e449]:
+      - paragraph [ref=e450]: Powered by
+      - link "Greenhouse logo" [ref=e451] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e452]
+  - iframe [ref=e466]:
+    - generic [ref=f1e6]:
+      - text: protected by
+      - strong [ref=f1e7]: reCAPTCHA

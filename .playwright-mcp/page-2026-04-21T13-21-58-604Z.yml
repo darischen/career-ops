@@ -1,0 +1,61 @@
+- generic [ref=e10]:
+  - generic [ref=e11]:
+    - link "Skip to main content" [ref=e12] [cursor=pointer]:
+      - /url: ""
+    - banner [ref=e15]:
+      - generic [ref=e17]:
+        - button "search for jobs" [ref=e20] [cursor=pointer]:
+          - img "search for jobs" [ref=e21]
+        - generic [ref=e22]:
+          - heading [level=1]
+        - navigation [ref=e25]:
+          - button "Search for Jobs" [ref=e26] [cursor=pointer]
+  - generic:
+    - img
+  - generic [ref=e29]:
+    - main [ref=e30]:
+      - generic [ref=e37]:
+        - generic [ref=e40]:
+          - generic [ref=e43]:
+            - heading "Sign In" [level=3] [ref=e44]
+            - alert [ref=e118]:
+              - img "Error" [ref=e119]
+              - paragraph [ref=e124]: You may have entered the wrong email address or password or your account might be locked.
+            - generic [ref=e45]:
+              - generic [ref=e46]:
+                - generic [ref=e48]: Email Address*
+                - textbox "Email Address" [ref=e51]: daris.chen@gmail.com
+              - generic [ref=e53]:
+                - generic [ref=e55]: Password*
+                - textbox "Password" [ref=e58]: TestPass123!
+              - generic [ref=e63]:
+                - button "Sign In" [active] [ref=e64] [cursor=pointer]
+                - button [ref=e65] [cursor=pointer]: Sign In
+            - generic [ref=e66]:
+              - text: Don't have an account yet?
+              - button "Create Account" [ref=e67] [cursor=pointer]
+            - button "Forgot your password?" [ref=e69] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic [ref=e70]: Enter website. This input is for robots only, do not enter if you're human.
+              - textbox "Enter website. This input is for robots only, do not enter if you're human." [ref=e71]
+        - generic [ref=e73]:
+          - generic [ref=e74]: Follow Us
+          - list [ref=e76]:
+            - listitem [ref=e77]:
+              - button "Google+" [ref=e78] [cursor=pointer]
+            - listitem [ref=e82]:
+              - button "YouTube" [ref=e83] [cursor=pointer]
+            - listitem [ref=e89]:
+              - button "LinkedIn" [ref=e90] [cursor=pointer]
+            - listitem [ref=e94]:
+              - button "X" [ref=e95] [cursor=pointer]
+            - listitem [ref=e99]:
+              - button "Facebook" [ref=e100] [cursor=pointer]
+          - 'list "{0} items are selected" [ref=e106]':
+            - option "Privacy" [ref=e107]:
+              - generic [ref=e109]:
+                - link "Privacy opens new window" [ref=e110] [cursor=pointer]: Privacy
+                - link "Privacy opens new window" [ref=e111] [cursor=pointer]
+    - contentinfo [ref=e115]:
+      - generic "© 2026 Workday, Inc. All rights reserved." [ref=e117]

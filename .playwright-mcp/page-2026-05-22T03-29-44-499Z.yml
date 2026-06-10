@@ -1,0 +1,116 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Junior AI" [ref=e6] [cursor=pointer]:
+        - /url: https://junior.ai/
+        - img "Junior AI" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Junior AI’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /junior
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineering Intern — Summer 2026" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York City
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+      - generic [ref=e29]:
+        - tablist [ref=e30]:
+          - tab "Overview" [selected] [ref=e31] [cursor=pointer]
+          - tab "Application" [ref=e32] [cursor=pointer]
+        - tabpanel "Overview" [ref=e34]:
+          - generic [ref=e35]:
+            - heading "👶 About Junior" [level=2] [ref=e36]:
+              - strong [ref=e37]: 👶 About Junior
+            - paragraph [ref=e38]: "We're building cutting-edge LLM-powered tools that supercharge investment research for the world's most demanding deal teams. Our clients include several of the top 10 global private equity firms, Big 4 professional services firms, and leading consulting practices: organisations responsible for deploying billions of dollars annually."
+            - paragraph [ref=e39]: We're a profitable, bootstrapped company with a growing team of ~28 people based in London and New York. We 10x'd our revenue in 2025 and are on track to grow 2-3x again this year. Junior saves clients an average of 10 hours per week, and we're expanding fast into new verticals including investment banking, hedge funds, and research firms.
+            - paragraph [ref=e40]
+            - heading "💡 Role Description" [level=2] [ref=e41]:
+              - strong [ref=e42]: 💡 Role Description
+            - paragraph [ref=e43]:
+              - text: As a
+              - strong [ref=e44]: Summer Engineering Intern
+              - text: ", you'll be embedded directly in our engineering team and own a meaningful project end-to-end. You'll ship real code, collaborate with full-time engineers, and present your work to the team at the end of the summer. This is not a passive learning experience — we expect you to contribute from day one."
+            - paragraph [ref=e45]
+            - heading "🔧 What You'll Work On" [level=2] [ref=e46]:
+              - strong [ref=e47]: 🔧 What You'll Work On
+            - list [ref=e48]:
+              - listitem [ref=e49]:
+                - paragraph [ref=e50]: Building AI-powered features using LLMs to process and structure unstructured research data
+              - listitem [ref=e51]:
+                - paragraph [ref=e52]: Contributing to our Next.js / TypeScript frontend for client-facing products
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: Working on data pipelines that turn raw investment research into structured knowledge
+            - paragraph [ref=e55]
+            - heading "🔥 What We're Looking For" [level=2] [ref=e56]:
+              - strong [ref=e57]: 🔥 What We're Looking For
+            - list [ref=e58]:
+              - listitem [ref=e59]:
+                - paragraph [ref=e60]: Currently pursuing a degree in Computer Science, Software Engineering, or a related field
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: Comfortable working in TypeScript / JavaScript — Next.js experience is a plus
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: Curious about AI and LLM-powered products
+              - listitem [ref=e65]:
+                - paragraph [ref=e66]: Strong communicator who can work closely with a small, fast-moving team
+              - listitem [ref=e67]:
+                - paragraph [ref=e68]: Previous internship or co-op experience is a bonus, not a requirement
+            - paragraph [ref=e69]
+            - heading "🌵 What You'll Get" [level=2] [ref=e70]:
+              - strong [ref=e71]: 🌵 What You'll Get
+            - list [ref=e72]:
+              - listitem [ref=e73]:
+                - paragraph [ref=e74]: $40/hr compensation
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: Free daily breakfast/lunch — we have an in-office cook
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: MacBook for the duration of the internship
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Dedicated engineering mentor
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: Real ownership — your code ships to production
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: Final project presentation to the full team
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: Consideration for a return offer based on performance
+            - paragraph [ref=e87]
+            - heading "🌍 Visa & Work Authorization" [level=2] [ref=e88]:
+              - strong [ref=e89]: 🌍 Visa & Work Authorization
+            - paragraph [ref=e90]: "We welcome applicants who are authorized to work in the US, including:"
+            - list [ref=e91]:
+              - listitem [ref=e92]:
+                - paragraph [ref=e93]: US citizens and permanent residents
+              - listitem [ref=e94]:
+                - paragraph [ref=e95]: F-1 students on CPT or OPT
+              - listitem [ref=e96]:
+                - paragraph [ref=e97]: Canadian citizens (TN visa)
+              - listitem [ref=e98]:
+                - paragraph [ref=e99]: Irish citizens (J-1 intern visa)
+            - paragraph [ref=e100]: If you're excited about the opportunity to drive innovation at Junior, we'd love to hear from you! We can't wait to meet you! 🙌
+            - paragraph [ref=e101]
+          - link "Apply for this Job" [ref=e102] [cursor=pointer]:
+            - /url: /junior/23ee686b-d305-4ac9-860d-16c99ddb4891/application
+            - button "Apply for this Job" [ref=e103]
+  - contentinfo [ref=e104]:
+    - link "Learn more about Ashby" [ref=e105] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e106]: Powered by
+      - img "Ashby" [ref=e107]
+    - paragraph [ref=e113]:
+      - link "Privacy Policy" [ref=e114] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e115] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e116] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

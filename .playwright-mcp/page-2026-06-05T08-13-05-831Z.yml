@@ -1,0 +1,274 @@
+- main [ref=e2]:
+  - generic [ref=e3]:
+    - img "Unity Technologies Logo" [ref=e5]
+    - generic [ref=e7]:
+      - img [ref=e8]
+      - generic [ref=e10]:
+        - paragraph [ref=e11]: Create a Job Alert
+        - paragraph [ref=e12]: Interested in building your career at Unity Technologies? Get future opportunities sent straight to your email.
+        - button "Create alert" [ref=e13] [cursor=pointer]
+    - separator [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Apply for this job" [level=2] [ref=e19]
+          - generic [ref=e20]:
+            - paragraph [ref=e22]: "*"
+            - paragraph [ref=e23]: indicates a required field
+        - button "Quick Apply with MyGreenhouse" [ref=e26] [cursor=pointer]
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e31]:
+            - generic [ref=e32]: First Name*
+            - textbox "First Name" [ref=e33]
+          - generic [ref=e36]:
+            - generic [ref=e37]: Last Name*
+            - textbox "Last Name" [ref=e38]
+          - generic [ref=e41]:
+            - generic [ref=e42]: Email*
+            - textbox "Email" [ref=e43]
+          - group "Phone" [ref=e45]:
+            - generic [ref=e46]: Phone
+            - generic [ref=e49]:
+              - generic [ref=e50]: Country*
+              - generic [ref=e51]:
+                - log [ref=e53]
+                - generic [ref=e55]:
+                  - combobox "Country" [ref=e58]
+                  - button "Toggle flyout" [ref=e60] [cursor=pointer]:
+                    - img [ref=e61]
+                - textbox
+            - generic [ref=e65]:
+              - generic [ref=e66]: Phone*
+              - textbox "Phone" [ref=e67]
+          - generic [ref=e68]:
+            - generic [ref=e70]:
+              - generic [ref=e71]: Location (City)*
+              - generic [ref=e72]:
+                - log [ref=e74]
+                - combobox "Location (City)" [ref=e79]
+                - textbox
+            - button "Locate me" [ref=e80] [cursor=pointer]
+          - group "Resume/CV*" [ref=e82]:
+            - generic [ref=e83]: Resume/CV*
+            - generic [ref=e85]:
+              - generic [ref=e87]:
+                - button "Attach" [ref=e88] [cursor=pointer]
+                - generic [ref=e89]: Attach
+                - button "Attach" [ref=e90]
+              - button "Dropbox" [ref=e92] [cursor=pointer]
+              - generic [ref=e94]:
+                - button "Enter manually" [ref=e95] [cursor=pointer]
+                - generic [ref=e96]: Enter manually
+              - paragraph [ref=e97]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - group "Cover Letter" [ref=e99]:
+            - generic [ref=e100]: Cover Letter
+            - generic [ref=e102]:
+              - generic [ref=e104]:
+                - button "Attach" [ref=e105] [cursor=pointer]
+                - generic [ref=e106]: Attach
+                - button "Attach" [ref=e107]
+              - button "Dropbox" [ref=e109] [cursor=pointer]
+              - generic [ref=e111]:
+                - button "Enter manually" [ref=e112] [cursor=pointer]
+                - generic [ref=e113]: Enter manually
+              - paragraph [ref=e114]: "Accepted file types: pdf, doc, docx, txt, rtf"
+        - generic [ref=e115]:
+          - separator [ref=e116]
+          - generic [ref=e117]:
+            - generic [ref=e119]:
+              - generic [ref=e120]: Preferred First Name*
+              - textbox "Preferred First Name" [ref=e121]
+            - paragraph [ref=e124]: Please provide the name you would like us to use when addressing you daily. If you prefer to use your legal first name, simply enter your legal first name here.
+          - generic [ref=e127]:
+            - generic [ref=e128]: LinkedIn Profile
+            - textbox "LinkedIn Profile" [ref=e129]
+          - generic [ref=e132]:
+            - generic [ref=e133]: How did you hear about this job?*
+            - generic [ref=e134]:
+              - log [ref=e136]
+              - generic [ref=e138]:
+                - generic [ref=e139]:
+                  - generic [ref=e140]: Select...
+                  - combobox "How did you hear about this job?" [ref=e142]
+                - button "Toggle flyout" [ref=e144] [cursor=pointer]:
+                  - img [ref=e145]
+              - textbox
+          - generic [ref=e149]:
+            - generic [ref=e150]: Are you legally eligible to work in the country in which this position is located?*
+            - generic [ref=e151]:
+              - log [ref=e153]
+              - generic [ref=e155]:
+                - generic [ref=e156]:
+                  - generic [ref=e157]: Select...
+                  - combobox "Are you legally eligible to work in the country in which this position is located?" [ref=e159]
+                - button "Toggle flyout" [ref=e161] [cursor=pointer]:
+                  - img [ref=e162]
+              - textbox
+          - generic [ref=e166]:
+            - generic [ref=e167]: Will you now or in the future require Work Visa Sponsorship to work for Unity in the country where this position is located?*
+            - generic [ref=e168]:
+              - log [ref=e170]
+              - generic [ref=e172]:
+                - generic [ref=e173]:
+                  - generic [ref=e174]: Select...
+                  - combobox "Will you now or in the future require Work Visa Sponsorship to work for Unity in the country where this position is located?" [ref=e176]
+                - button "Toggle flyout" [ref=e178] [cursor=pointer]:
+                  - img [ref=e179]
+              - textbox
+          - generic [ref=e183]:
+            - generic [ref=e184]: For the purpose of determining if an export control license may be required, are you currently a citizen or permanent resident of any of the following countries/regions? If you are not, please select 'Not Applicable.'*
+            - generic [ref=e185]:
+              - log [ref=e187]
+              - generic [ref=e189]:
+                - generic [ref=e190]:
+                  - generic [ref=e191]: Select...
+                  - combobox "For the purpose of determining if an export control license may be required, are you currently a citizen or permanent resident of any of the following countries/regions? If you are not, please select 'Not Applicable.'" [ref=e193]
+                - button "Toggle flyout" [ref=e195] [cursor=pointer]:
+                  - img [ref=e196]
+              - textbox
+          - generic [ref=e200]:
+            - generic [ref=e201]: Have you previously worked at Unity, and if so, in what capacity?*
+            - generic [ref=e202]:
+              - log [ref=e204]
+              - generic [ref=e206]:
+                - generic [ref=e207]:
+                  - generic [ref=e208]: Select...
+                  - combobox "Have you previously worked at Unity, and if so, in what capacity?" [ref=e210]
+                - button "Toggle flyout" [ref=e212] [cursor=pointer]:
+                  - img [ref=e213]
+              - textbox
+          - generic [ref=e215]:
+            - generic [ref=e217]:
+              - generic [ref=e218]: Global Data Privacy Notice to Applicants*
+              - generic [ref=e219]:
+                - log [ref=e221]
+                - generic [ref=e223]:
+                  - generic [ref=e224]:
+                    - generic [ref=e225]: Select...
+                    - combobox "Global Data Privacy Notice to Applicants" [ref=e227]
+                  - button "Toggle flyout" [ref=e229] [cursor=pointer]:
+                    - img [ref=e230]
+                - textbox
+            - paragraph [ref=e234]:
+              - text: For more information on how Unity handles the personal data of job applicants, please read our
+              - link "Global Data Privacy Notice to Applicants" [ref=e235] [cursor=pointer]:
+                - /url: https://unity3d.com/global-data-privacy-notice-to-applicants
+              - text: .
+          - generic [ref=e236]:
+            - generic [ref=e238]:
+              - generic [ref=e239]: Do you consent to the use of AI to create written transcripts and summaries of your interviews?*
+              - generic [ref=e240]:
+                - log [ref=e242]
+                - generic [ref=e244]:
+                  - generic [ref=e245]:
+                    - generic [ref=e246]: Select...
+                    - combobox "Do you consent to the use of AI to create written transcripts and summaries of your interviews?" [ref=e248]
+                  - button "Toggle flyout" [ref=e250] [cursor=pointer]:
+                    - img [ref=e251]
+                - textbox
+            - generic [ref=e254]:
+              - paragraph
+              - paragraph [ref=e255]: By selecting “Yes,” you consent to the use of AI to generate written transcripts and summaries of your interviews. These transcripts and summaries help our interviewers complete scorecards more efficiently, supporting fairer evaluations and faster, more accurate feedback. Consent is entirely optional and does not affect your application or employment prospects. You can withdraw your consent at any time by informing your interviewer at any stage of the process.
+              - paragraph
+        - generic [ref=e256]:
+          - separator [ref=e257]
+          - generic [ref=e258]:
+            - heading "Voluntary Self-Identification" [level=2] [ref=e259]
+            - paragraph [ref=e260]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+            - paragraph [ref=e261]: As set forth in Unity Technologies’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+          - generic [ref=e264]:
+            - generic [ref=e265]: Gender
+            - generic [ref=e266]:
+              - log [ref=e268]
+              - generic [ref=e270]:
+                - generic [ref=e271]:
+                  - generic [ref=e272]: Select...
+                  - combobox "Gender" [ref=e274]
+                - button "Toggle flyout" [ref=e276] [cursor=pointer]:
+                  - img [ref=e277]
+          - generic [ref=e279]:
+            - generic [ref=e281]:
+              - generic [ref=e282]: Are you Hispanic/Latino?
+              - generic [ref=e283]:
+                - log [ref=e285]
+                - generic [ref=e287]:
+                  - generic [ref=e288]:
+                    - generic [ref=e289]: Select...
+                    - combobox "Are you Hispanic/Latino?" [ref=e291]
+                  - button "Toggle flyout" [ref=e293] [cursor=pointer]:
+                    - img [ref=e294]
+            - link "Race & Ethnicity Definitions" [ref=e296] [cursor=pointer]:
+              - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+          - generic [ref=e297]:
+            - paragraph [ref=e298]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+            - paragraph [ref=e299]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+            - paragraph [ref=e300]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+            - paragraph [ref=e301]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+            - paragraph [ref=e302]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+          - generic [ref=e305]:
+            - generic [ref=e306]: Veteran Status
+            - generic [ref=e307]:
+              - log [ref=e309]
+              - generic [ref=e311]:
+                - generic [ref=e312]:
+                  - generic [ref=e313]: Select...
+                  - combobox "Veteran Status" [ref=e315]
+                - button "Toggle flyout" [ref=e317] [cursor=pointer]:
+                  - img [ref=e318]
+          - separator [ref=e320]
+          - generic [ref=e321]:
+            - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e322]
+            - generic [ref=e323]:
+              - generic [ref=e324]:
+                - generic [ref=e325]: Form CC-305
+                - generic [ref=e326]: Page 1 of 1
+              - generic [ref=e327]:
+                - generic [ref=e328]: OMB Control Number 1250-0005
+                - generic [ref=e329]: Expires 04/30/2026
+            - strong [ref=e330]: Why are you being asked to complete this form?
+            - paragraph [ref=e331]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+            - paragraph [ref=e332]:
+              - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+              - link "www.dol.gov/ofccp" [ref=e333] [cursor=pointer]:
+                - /url: https://www.dol.gov/ofccp
+              - text: .
+            - strong [ref=e334]: How do you know if you have a disability?
+            - paragraph [ref=e335]:
+              - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+              - strong [ref=e336]: "Disabilities include, but are not limited to:"
+            - list [ref=e337]:
+              - listitem [ref=e338]: Alcohol or other substance use disorder (not currently using drugs illegally)
+              - listitem [ref=e339]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+              - listitem [ref=e340]: Blind or low vision
+              - listitem [ref=e341]: Cancer (past or present)
+              - listitem [ref=e342]: Cardiovascular or heart disease
+              - listitem [ref=e343]: Celiac disease
+              - listitem [ref=e344]: Cerebral palsy
+              - listitem [ref=e345]: Deaf or serious difficulty hearing
+              - listitem [ref=e346]: Diabetes
+              - listitem [ref=e347]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+              - listitem [ref=e348]: Epilepsy or other seizure disorder
+              - listitem [ref=e349]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+              - listitem [ref=e350]: Intellectual or developmental disability
+              - listitem [ref=e351]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+              - listitem [ref=e352]: Missing limbs or partially missing limbs
+              - listitem [ref=e353]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+              - listitem [ref=e354]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+              - listitem [ref=e355]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+              - listitem [ref=e356]: Partial or complete paralysis (any cause)
+              - listitem [ref=e357]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+              - listitem [ref=e358]: Short stature (dwarfism)
+              - listitem [ref=e359]: Traumatic brain injury
+          - generic [ref=e362]:
+            - generic [ref=e363]: Disability Status
+            - generic [ref=e364]:
+              - log [ref=e366]
+              - generic [ref=e368]:
+                - generic [ref=e369]:
+                  - generic [ref=e370]: Select...
+                  - combobox "Disability Status" [ref=e372]
+                - button "Toggle flyout" [ref=e374] [cursor=pointer]:
+                  - img [ref=e375]
+          - paragraph [ref=e378]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+        - button "Submit application" [ref=e380] [cursor=pointer]

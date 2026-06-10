@@ -1,0 +1,156 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e55]:
+    - generic [ref=e57]:
+      - link "careers home" [ref=e60] [cursor=pointer]:
+        - /url: https://ciena.wd5.myworkdayjobs.com/Careers/login
+        - img "careers home" [ref=e61]
+      - heading "Careers at Ciena" [level=1] [ref=e63]
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - button "English" [ref=e68] [cursor=pointer]:
+            - generic [ref=e72]: English
+          - button "Sign In" [ref=e74] [cursor=pointer]:
+            - generic [ref=e79]: Sign In
+        - navigation [ref=e80]:
+          - button "Create an Account" [ref=e81] [cursor=pointer]
+          - button "Search for Jobs" [ref=e82] [cursor=pointer]
+  - generic [ref=e87]:
+    - alert [ref=e88]: Platform Software Developer - 2026 New Grads page is loaded
+    - generic [ref=e89]:
+      - generic [ref=e91]:
+        - heading "Platform Software Developer - 2026 New Grads" [level=2] [ref=e92]
+        - button "Apply" [ref=e97] [cursor=pointer]
+      - generic [ref=e98]:
+        - generic [ref=e99]:
+          - generic [ref=e107]:
+            - term [ref=e108]: locations
+            - definition [ref=e109]: Atlanta
+          - generic [ref=e110]:
+            - generic [ref=e119]:
+              - term [ref=e120]: time type
+              - definition [ref=e121]: Full time
+            - generic [ref=e130]:
+              - term [ref=e131]: posted on
+              - definition [ref=e132]: Posted 4 Days Ago
+            - generic [ref=e141]:
+              - term [ref=e142]: job requisition id
+              - definition [ref=e143]: R031084
+        - generic [ref=e145]:
+          - paragraph [ref=e146]: As the global leader in high-speed connectivity, Ciena is committed to a people-first approach. Our teams enjoy a culture focused on prioritizing a flexible work environment that empowers individual growth, well-being, and belonging. We’re a technology company that leads with our humanity—driving our business priorities alongside meaningful social, community, and societal impact.
+          - paragraph [ref=e147]
+          - generic [ref=e148]:
+            - generic [ref=e149]: Ciena is seeking highly motivated new graduates to contribute to the platform software that powers its optical networking systems. This role plays a key part in building reliable, high-performance embedded software that enables scalable and secure global communications. The position offers exposure to complex systems development within a collaborative engineering environment.
+            - heading "How you will make an impact:" [level=3] [ref=e150]
+            - list [ref=e151]:
+              - listitem [ref=e152]: Design, implement, and debug high-performance software for real-time embedded systems used in optical networking platforms.
+              - listitem [ref=e153]: Collaborate with hardware, quality assurance, and system engineering teams to define software requirements and interfaces.
+              - listitem [ref=e154]: Develop and maintain software components spanning operating systems, drivers, control plane, and data plane functionality.
+              - listitem [ref=e155]: Troubleshoot and resolve complex software issues in multi-threaded and distributed environments.
+              - listitem [ref=e156]: Apply industry trends and emerging technologies to embedded systems and networking challenges.
+            - paragraph [ref=e157]
+            - heading "The must haves:" [level=3] [ref=e158]
+            - list [ref=e159]:
+              - listitem [ref=e160]: "Education: Master’s degree in Computer Science, Computer Engineering, Electrical Engineering OR Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering, or a related field, graduating in 2026."
+              - listitem [ref=e161]: "Experience: Application of C and C++ programming in academic or project-based software development."
+              - listitem [ref=e162]: Background in embedded systems development, including interaction with real-time operating systems and multi-threaded execution models.
+              - listitem [ref=e163]: Application of data structures, algorithms, and object-oriented design principles in software implementations.
+              - listitem [ref=e164]: Utilization of Linux-based development environments, including scripting with languages such as Python or Bash.
+              - listitem [ref=e165]: Use of software development tools including debuggers, version control systems, and automated build tools.
+              - listitem [ref=e166]: Demonstrated analytical, debugging, and problem-solving capabilities in a team-oriented development setting.
+            - paragraph [ref=e167]
+            - heading "Nice to haves:" [level=3] [ref=e168]
+            - list [ref=e169]:
+              - listitem [ref=e170]: Exposure to networking protocols and concepts such as TCP/IP and Ethernet.
+              - listitem [ref=e171]: Background working with control plane or data plane software components.
+              - listitem [ref=e172]: Familiarity with distributed system behaviors in embedded or networking contexts.
+            - paragraph [ref=e173]
+            - heading "Pay Range:" [level=3] [ref=e174]
+            - generic [ref=e175]: The annual pay range for this position is $69,900 to $111,700.
+          - paragraph [ref=e176]
+          - paragraph [ref=e177]: Pay ranges at Ciena are designed to accommodate variations in knowledge, skills, experience, market conditions, and locations, reflecting our diverse products, industries, and lines of business. Please note that the pay range information provided in this posting pertains specifically to the primary location, which is the top location listed in case multiple locations are available.
+          - paragraph [ref=e178]
+          - paragraph [ref=e179]:
+            - text: Non-Sales employees may be eligible for a discretionary incentive bonus, while Sales employees may be eligible for a sales commission. In addition to competitive compensation, Ciena offers a comprehensive benefits package, including medical, dental, and vision plans, participation in 401(K) (USA) & DCPP (Canada) with company matching, Employee Stock Purchase Program (ESPP), Employee Assistance Program (EAP), company-paid holidays, paid sick leave, and vacation time. We also comply with all applicable laws regarding Paid Family Leave and other leaves of absence.
+            - text: At Ciena, we are committed to building and fostering an environment in which our employees feel respected, valued, and heard. Ciena values the diversity of its workforce and respects its employees as individuals. We do not tolerate any form of discrimination.
+          - paragraph [ref=e180]
+          - paragraph [ref=e181]: Ciena is an Equal Opportunity Employer, including disability and protected veteran status.
+          - paragraph [ref=e182]
+          - paragraph [ref=e183]: If contacted in relation to a job opportunity, please advise Ciena of any accommodation measures you may require.
+    - generic [ref=e185]:
+      - heading "Similar Jobs (2)" [level=3] [ref=e186]
+      - generic [ref=e187]:
+        - generic [ref=e188]:
+          - link "Senior Software Engineer" [ref=e192] [cursor=pointer]:
+            - /url: /en-US/Careers/en-US/Careers/job/Atlanta/Senior-Software-Engineer_R030779
+            - heading "Senior Software Engineer" [level=4] [ref=e193]
+          - generic [ref=e201]:
+            - term [ref=e202]: locations
+            - definition [ref=e203]: Atlanta
+          - generic [ref=e212]:
+            - term [ref=e213]: time type
+            - definition [ref=e214]: Full time
+          - generic [ref=e223]:
+            - term [ref=e224]: posted on
+            - definition [ref=e225]: Posted 24 Days Ago
+        - generic [ref=e226]:
+          - link "Senior Software Engineer – Embedded Software (Optical Networking)" [ref=e230] [cursor=pointer]:
+            - /url: /en-US/Careers/en-US/Careers/job/Atlanta/Software-Lead-Engineer_R028592
+            - heading "Senior Software Engineer – Embedded Software (Optical Networking)" [level=4] [ref=e231]
+          - generic [ref=e239]:
+            - term [ref=e240]: locations
+            - definition [ref=e241]: Atlanta
+          - generic [ref=e250]:
+            - term [ref=e251]: time type
+            - definition [ref=e252]: Full time
+          - generic [ref=e261]:
+            - term [ref=e262]: posted on
+            - definition [ref=e263]: Posted 30+ Days Ago
+    - generic [ref=e265]:
+      - generic [ref=e266]:
+        - heading "Our workplace experience" [level=3] [ref=e267]
+        - img "Workplace experience" [ref=e268]
+        - paragraph [ref=e273]:
+          - text: We prioritize growth, wellbeing, and recognition for our teams.
+          - link "Learn more" [ref=e274] [cursor=pointer]:
+            - /url: https://www.ciena.com/careers/working-at-ciena
+            - generic [ref=e275]: Learn more
+          - text: about how we work together, support one another, and reward our people.
+      - generic [ref=e277]:
+        - heading "Students and new graduates" [level=3] [ref=e278]
+        - img "Students and new grads" [ref=e279]
+        - paragraph [ref=e284]:
+          - link "Find out how" [ref=e285] [cursor=pointer]:
+            - /url: https://www.ciena.com/careers/students-new-graduates
+            - generic [ref=e286]: Find out how
+          - text: students and new grads are launching their careers in tech with us.
+      - generic [ref=e288]:
+        - heading "Get the full picture" [level=3] [ref=e289]
+        - img "Our functions" [ref=e290]
+        - paragraph [ref=e295]:
+          - link "Learn more" [ref=e296] [cursor=pointer]:
+            - /url: https://www.ciena.com/careers/functions
+            - generic [ref=e297]: Learn more
+          - text: about what we do at Ciena. Across engineering, sales, corporate services, and more, we’re building the future of global communication.
+  - generic [ref=e298]:
+    - heading "Follow Us" [level=4] [ref=e299]
+    - list [ref=e300]:
+      - listitem [ref=e301] [cursor=pointer]:
+        - link "Glassdoor" [ref=e302]:
+          - /url: https://www.glassdoor.co.uk/Reviews/Ciena-Reviews-E6612.htm
+      - listitem [ref=e307] [cursor=pointer]:
+        - link "LinkedIn" [ref=e308]:
+          - /url: https://www.linkedin.com/company-beta/3960/
+      - listitem [ref=e312] [cursor=pointer]:
+        - link "X" [ref=e313]:
+          - /url: https://twitter.com/Ciena?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+      - listitem [ref=e317] [cursor=pointer]:
+        - link "Facebook" [ref=e318]:
+          - /url: https://www.facebook.com/CienaCorp
+      - listitem [ref=e322] [cursor=pointer]:
+        - link "YouTube" [ref=e323]:
+          - /url: https://www.youtube.com/user/CienaCorp
+    - generic [ref=e329]:
+      - img [ref=e333]
+      - generic [ref=e353]: © 2026 Workday, Inc. All rights reserved.

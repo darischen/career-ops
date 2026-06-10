@@ -1,0 +1,33 @@
+[    1024ms] [INFO] Media player loading... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1024ms] [INFO] Media player loading... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1025ms] [INFO] Media player loading... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1161ms] [INFO] Media player loading... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1161ms] [INFO] Media player loading... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1161ms] [INFO] Media player loading... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1219ms] [INFO] Media player initializing... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1220ms] [INFO] Media player initializing... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1220ms] [INFO] Media player initializing... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1220ms] [INFO] Media player initializing... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1220ms] [INFO] Media player initializing... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1220ms] [INFO] Media player initializing... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1267ms] [INFO] Media player initialized... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1267ms] [INFO] Media player initialized... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1267ms] [INFO] Media player initialized... @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1267ms] [ERROR] TypeError: Cannot read properties of null (reading 'appendChild')
+    at new MuseApi (https://wd5.myworkday.com/wday/backpack-hub/muse-web-client/2026.19.143/bc25a7d209cebf244592.muse-api-standalone.js:1:53366)
+    at https://wd5.myworkdaycdn.com/wday/backpack-hub/muse/wday/js/muse-viewer-standalone.js:2:368172 @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1268ms] [ERROR] TypeError: Cannot read properties of null (reading 'appendChild')
+    at new MuseApi (https://wd5.myworkday.com/wday/backpack-hub/muse-web-client/2026.19.143/bc25a7d209cebf244592.muse-api-standalone.js:1:53366)
+    at https://wd5.myworkdaycdn.com/wday/backpack-hub/muse/wday/js/muse-viewer-standalone.js:2:368172 @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1268ms] [ERROR] TypeError: Cannot read properties of null (reading 'appendChild')
+    at new MuseApi (https://wd5.myworkday.com/wday/backpack-hub/muse-web-client/2026.19.143/bc25a7d209cebf244592.muse-api-standalone.js:1:53366)
+    at https://wd5.myworkdaycdn.com/wday/backpack-hub/muse/wday/js/muse-viewer-standalone.js:2:368172 @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1393ms] [INFO] Media player ready @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1394ms] [INFO] Media player ready @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1394ms] [INFO] Media player ready @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1399ms] [INFO] Media player ready @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1399ms] [INFO] Media player ready @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1399ms] [INFO] Media player ready @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1414ms] [INFO] Media player ready @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1414ms] [INFO] Media player ready @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243
+[    1414ms] [INFO] Media player ready @ https://wd5.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js:243

@@ -1,0 +1,320 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - generic "We use necessary and audience measurement cookies to make this site work and produce anonymous statistics. We'd also like to set cookies and similar technologies to improve the functionality of the site, further analyze visitors' activity, and show personalized ads. These will be set only if you accept them. You can change your mind at any time by clicking on the \"Cookie\" icon at the bottom left of each page. To learn more on the cookies, we use and the third parties that are setting cookies on our site, click \"Cookie preferences.\" Cookie policy" [ref=e9]:
+    - generic [ref=e10]:
+      - generic [ref=e11]: We use necessary and audience measurement cookies to make this site work and produce anonymous statistics. We'd also like to set cookies and similar technologies to improve the functionality of the site, further analyze visitors' activity, and show personalized ads. These will be set only if you accept them. You can change your mind at any time by clicking on the "Cookie" icon at the bottom left of each page. To learn more on the cookies, we use and the third parties that are setting cookies on our site, click "Cookie preferences."
+      - link "Cookie policy" [ref=e13] [cursor=pointer]:
+        - /url: https://europe.medtronic.com/xd-en/privacy-statement/cookie-policy.html
+    - button "Read Full Privacy Message" [ref=e14]:
+      - generic [ref=e18]: Read Full Privacy Message
+    - generic [ref=e19]:
+      - button "Decline" [ref=e22] [cursor=pointer]
+      - button "Accept Cookies" [ref=e26] [cursor=pointer]
+  - banner [ref=e29]:
+    - generic [ref=e31]:
+      - link "careers home" [ref=e34] [cursor=pointer]:
+        - /url: https://www.medtronic.com/us-en/our-company/careers.html
+        - img "careers home" [ref=e35]
+      - generic [ref=e36]:
+        - heading [level=1]
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - button "English" [ref=e41] [cursor=pointer]:
+            - generic [ref=e45]: English
+          - button "Sign In" [ref=e47] [cursor=pointer]:
+            - generic [ref=e52]: Sign In
+        - navigation [ref=e53]:
+          - button "Careers Home" [ref=e54] [cursor=pointer]
+          - button "Search for Jobs" [ref=e55] [cursor=pointer]
+  - generic [ref=e59]:
+    - alert [ref=e60]: Cloud Software Engineer I - Neuro - Rice Creek/Fridley, MN page is loaded
+    - generic [ref=e61]:
+      - generic [ref=e63]:
+        - heading "Cloud Software Engineer I - Neuro - Rice Creek/Fridley, MN" [level=2] [ref=e64]
+        - button "Apply" [ref=e69] [cursor=pointer]
+      - generic [ref=e70]:
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - generic [ref=e79]:
+              - term [ref=e80]: remote type
+              - definition [ref=e81]: Onsite
+            - generic [ref=e88]:
+              - term [ref=e89]: locations
+              - definition [ref=e90]: Fridley, Minnesota, United States of America
+          - generic [ref=e91]:
+            - generic [ref=e100]:
+              - term [ref=e101]: time type
+              - definition [ref=e102]: Full time
+            - generic [ref=e111]:
+              - term [ref=e112]: posted on
+              - definition [ref=e113]: Posted Yesterday
+            - generic [ref=e121]:
+              - term [ref=e122]: time left to apply
+              - definition [ref=e123]: "End Date: June 4, 2026 (6 days left to apply)"
+            - generic [ref=e132]:
+              - term [ref=e133]: job requisition id
+              - definition [ref=e134]: R66348
+        - generic [ref=e136]:
+          - text: We anticipate the application window for this opening will close on - 4 Jun 2026
+          - paragraph [ref=e137]
+          - paragraph [ref=e138]: At Medtronic you can begin a life-long career of exploration and innovation, while helping champion healthcare access and equity for all. You’ll lead with purpose, breaking down barriers to innovation in a more connected, compassionate world.
+          - paragraph [ref=e139]
+          - paragraph [ref=e140]
+          - heading "A Day in the Life" [level=1] [ref=e141]
+          - text: Across our global Neuroscience organization, we advance care for some of medicine’s most complex neurological and spinal conditions. By combining innovative technology, data-driven insights, and deep clinical expertise, we partner with physicians and health systems to improve how patients are treated and supported throughout their care journey.
+          - paragraph [ref=e142]
+          - paragraph [ref=e143]
+          - generic [ref=e144]:
+            - paragraph [ref=e146]:
+              - generic [ref=e147]:
+                - generic [ref=e148]: As a Cloud Software
+                - text: Engineer I
+                - generic [ref=e149]: ","
+                - generic [ref=e150]: you will be working with motivated, diverse, and knowledgeable development teams to deliver world-class products. You will
+                - text: be responsible for
+                - generic [ref=e151]: designing, implementing, testing, and documenting software for the next generation of Neuromodulation software products. This role requires the ability to work as part of a team to realize complex, innovative, high reliability systems that improve the quality of life of people around the world. This is a highly trusted position that requires an individual to thoughtfully develop software with
+                - text: good
+                - generic [ref=e152]: state of the
+                - text: art
+                - generic [ref=e153]: software practices, energy, and a passion to win.
+            - paragraph [ref=e155]
+            - paragraph [ref=e157]:
+              - generic [ref=e158]: A Day in the Life
+            - list [ref=e160]:
+              - listitem [ref=e161]:
+                - paragraph [ref=e162]:
+                  - generic [ref=e163]: Design, build, and test web applications in global cloud infrastructure as a service environment
+            - list [ref=e165]:
+              - listitem [ref=e166]:
+                - paragraph [ref=e167]:
+                  - generic [ref=e168]:
+                    - text: D
+                    - generic [ref=e169]: esign,
+                    - text: develop
+                    - generic [ref=e170]: ", and"
+                    - generic [ref=e171]: verify
+                    - text: software products, in an agile environment
+            - list [ref=e173]:
+              - listitem [ref=e174]:
+                - paragraph [ref=e175]:
+                  - generic [ref=e176]: Work with agile teams in multiple sites
+            - list [ref=e178]:
+              - listitem [ref=e179]:
+                - paragraph [ref=e180]:
+                  - generic [ref=e181]: Create and document all aspects of the software engineering processes for products under development, incorporating the highest quality standards, cost effectiveness, and measurable efficiency
+            - list [ref=e183]:
+              - listitem [ref=e184]:
+                - paragraph [ref=e185]:
+                  - generic [ref=e186]: Support the test automation strategy and implementation
+            - list [ref=e188]:
+              - listitem [ref=e189]:
+                - paragraph [ref=e190]:
+                  - generic [ref=e191]: Meet all project milestones and deliverables, as required by the project leadership
+          - generic [ref=e192]:
+            - list [ref=e194]:
+              - listitem [ref=e195]:
+                - paragraph [ref=e196]:
+                  - generic [ref=e197]:
+                    - generic [ref=e198]: Coordinate the software test activities with all other engineering disciplines, including
+                    - text: P
+                    - generic [ref=e199]: roject
+                    - text: M
+                    - generic [ref=e200]: anagement and
+                    - text: Software Quality
+            - list [ref=e202]:
+              - listitem [ref=e203]:
+                - paragraph [ref=e204]:
+                  - generic [ref=e205]:
+                    - generic [ref=e206]: Provide concise,
+                    - text: timely
+                    - generic [ref=e207]: ", and"
+                    - text: accurate
+                    - generic [ref=e208]: reports and status of all
+                    - generic [ref=e209]: development and
+                    - text: test activities
+            - list [ref=e211]:
+              - listitem [ref=e212]:
+                - paragraph [ref=e213]:
+                  - generic [ref=e214]: Participate in continuous process improvement activities
+            - generic [ref=e215]:
+              - list [ref=e216]:
+                - listitem [ref=e217]:
+                  - paragraph [ref=e218]:
+                    - generic [ref=e219]: Keep abreast of technical and industry trends related to software design and development
+              - paragraph [ref=e220]
+              - paragraph [ref=e221]:
+                - generic [ref=e222]: "Location: Rice Creek/Fridley, MN"
+              - paragraph [ref=e223]
+              - paragraph [ref=e224]:
+                - generic [ref=e225]: "Onsite:"
+                - text: At Medtronic, we bring bold ideas forward with speed and decisiveness to put patients first in everything we do. We’re working onsite 4 days a week to drive performance, foster an environment of belonging, and collaborate to inspire as we engineer the extraordinary. This role will require <10% of travel to enhance collaboration and ensure successful completion of projects.
+            - paragraph [ref=e227]
+            - paragraph [ref=e229]:
+              - generic [ref=e230]:
+                - generic [ref=e231]: "Must Have:"
+                - text: Minimum
+                - generic [ref=e232]: Requirements
+            - list [ref=e236]:
+              - listitem [ref=e237]:
+                - paragraph [ref=e238]: Requires a Baccalaureate degree and 0 years relevant experience
+            - paragraph [ref=e240]
+            - paragraph [ref=e242]:
+              - generic [ref=e243]: Nice to Have
+            - list [ref=e245]:
+              - listitem [ref=e246]:
+                - paragraph [ref=e247]:
+                  - generic [ref=e248]:
+                    - text: Good
+                    - generic [ref=e250]: working knowledge of
+                    - text: Java
+                    - generic [ref=e251]: and
+                    - text: JavaScript, Kotlin
+            - list [ref=e253]:
+              - listitem [ref=e254]:
+                - paragraph [ref=e255]:
+                  - generic [ref=e256]:
+                    - generic [ref=e257]: Coding experience through school projects,
+                    - text: internship
+                    - generic [ref=e258]: or work experience
+            - list [ref=e260]:
+              - listitem [ref=e261]:
+                - paragraph [ref=e262]:
+                  - generic [ref=e263]: Experience in Object Oriented Design, layered architecture, MVC, Design Patterns
+            - list [ref=e265]:
+              - listitem [ref=e266]:
+                - paragraph [ref=e267]:
+                  - generic [ref=e268]:
+                    - text: Knowledgeable in web frameworks
+                    - generic [ref=e269]: – Spring, JPA, Hibernate, Angular,
+                    - text: RxJS
+            - list [ref=e271]:
+              - listitem [ref=e272]:
+                - paragraph [ref=e273]:
+                  - generic [ref=e274]:
+                    - text: Database –
+                    - text: experience with relational databases (MySQL, PostgreSQL) and data modeling
+            - list [ref=e277]:
+              - listitem [ref=e278]:
+                - paragraph [ref=e279]:
+                  - generic [ref=e280]: Understanding of Systems Engineering
+            - list [ref=e282]:
+              - listitem [ref=e283]:
+                - paragraph [ref=e284]:
+                  - generic [ref=e285]: Strong leadership and team commitment
+            - list [ref=e287]:
+              - listitem [ref=e288]:
+                - paragraph [ref=e289]:
+                  - generic [ref=e290]: Effective communication and presentation skills
+          - paragraph [ref=e291]: For Baccalaureate degrees earned outside of the United States, a degree that satisfies the requirements of 8 C.F.R. § 214.2(h)(4)(iii)(A) is required.
+          - paragraph [ref=e292]
+          - paragraph [ref=e293]
+          - paragraph [ref=e294]: Physical Job Requirements
+          - paragraph [ref=e295]
+          - paragraph [ref=e296]: The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position.
+          - paragraph [ref=e297]
+          - paragraph [ref=e298]: "The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. For Office Roles: While performing the duties of this job, the employee is regularly required to be independently mobile. The employee is also required to interact with a computer, and communicate with peers and co-workers. Contact your manager or local HR to understand the Work Conditions and Physical requirements that may be specific to each role."
+          - paragraph [ref=e299]
+          - paragraph [ref=e300]: U.S. Work Authorization & Sponsorship
+          - paragraph [ref=e301]: At Medtronic, we are committed to fostering an environment where employees can thrive and make a meaningful impact. In alignment with our enterprise-wide workforce planning approach, U.S. work authorization sponsorship (H-1B, TN, J, etc.) is offered exclusively for Principal-level roles and above, where specialized expertise aligns with long-term business needs. Roles below the Principal level require candidates to possess unrestricted U.S. work authorization at the time of hire and for the duration of employment.
+          - paragraph [ref=e302]: Join us in our mission to alleviate pain, restore health, and extend life—where your unique background and perspective are valued.
+          - heading "Benefits & Compensation" [level=1] [ref=e303]: Benefits & Compensation
+          - paragraph [ref=e304]:
+            - text: Medtronic offers a competitive Salary and flexible Benefits Package
+            - text: A commitment to our employees lives at the core of our values. We recognize their contributions. They share in the success they help to create. We offer a wide range of benefits, resources, and competitive compensation plans designed to support you at every career and life stage.
+          - paragraph [ref=e305]
+          - text: Salary ranges for U.S (excl. PR) locations (USD):$74,400.00 - $111,600.00
+          - paragraph [ref=e306]
+          - paragraph [ref=e307]
+          - paragraph [ref=e308]
+          - text: This position is eligible for a short-term incentive called the Medtronic Incentive Plan (MIP).
+          - heading [level=2]
+          - paragraph [ref=e309]
+          - heading [level=2]
+          - paragraph [ref=e310]
+          - paragraph [ref=e311]
+          - paragraph [ref=e312]
+          - text: The base salary range is applicable across the United States, excluding Puerto Rico and specific locations in California. The offered rate complies with federal and local regulations and may vary based on factors such as experience, certification/education, market conditions, and location. Compensation and benefits information pertains solely to candidates hired within the United States (local market compensation and benefits will apply for others).
+          - paragraph [ref=e313]
+          - paragraph [ref=e314]
+          - paragraph [ref=e315]:
+            - text: "The following benefits and additional compensation are available to those regular employees who work 20+ hours per week: Health, Dental and vision insurance"
+            - generic [ref=e316]: ","
+            - text: Health Savings Account
+            - generic [ref=e317]: ","
+            - text: Healthcare Flexible Spending Account
+            - generic [ref=e318]: ","
+            - text: Life insurance, Long-term disability leave
+            - generic [ref=e319]: ","
+            - text: Dependent daycare spending account
+            - generic [ref=e320]: ","
+            - generic [ref=e321]:
+              - text: Tuition
+              - generic [ref=e325]: assistance/reimbursement
+            - generic [ref=e326]: ", and"
+            - text: Simple Steps (global well-being program).
+          - paragraph [ref=e327]
+          - paragraph [ref=e328]:
+            - text: "The following benefits and additional compensation are available to all regular employees:"
+            - text: Incentive plans, 401(k) plan plus employer contribution and match
+            - generic [ref=e330]: ","
+            - text: Short-term disability
+            - generic [ref=e331]: ","
+            - text: Paid time off
+            - generic [ref=e332]: ","
+            - text: Paid holidays
+            - generic [ref=e333]: ","
+            - text: Employee Stock Purchase Plan
+            - generic [ref=e334]: ","
+            - text: Employee Assistance Program
+            - generic [ref=e335]: ","
+            - text: Non-qualified Retirement Plan Supplement (subject to IRS earning minimums)
+            - generic [ref=e336]: ", and"
+            - text: Capital Accumulation Plan (available to Vice Presidents and above, or subject to IRS earning minimums).
+          - paragraph [ref=e337]
+          - paragraph [ref=e338]: Regular employees are those who are not temporary, such as interns. Temporary employees are eligible for paid sick time, as required under applicable state law, and the Employee Stock Purchase Plan. Please note some of the above benefits may not apply to workers in Puerto Rico.
+          - paragraph [ref=e339]
+          - paragraph [ref=e340]: "Further details are available at the link below:"
+          - paragraph [ref=e341]:
+            - link "Medtronic benefits and compensation plans" [ref=e342] [cursor=pointer]:
+              - /url: https://www3.benefitsolver.com/benefits/BenefitSolverView?page_name=signon&co_num=30601&co_affid=medtronic
+          - paragraph [ref=e343]
+          - heading "About Medtronic" [level=1] [ref=e344]
+          - heading [level=1]
+          - paragraph [ref=e345]:
+            - text: We lead global healthcare technology and boldly attack the most challenging health problems facing humanity by searching out and finding solutions.
+            - text: Our Mission — to alleviate pain, restore health, and extend life — unites a global team of 95,000+ passionate people.
+            - text: We are engineers at heart— putting ambitious ideas to work to generate real solutions for real people. From the R&D lab, to the factory floor, to the conference room, every one of us experiments, creates, builds, improves and solves. We have the talent, diverse perspectives, and guts to engineer the extraordinary.
+          - paragraph [ref=e346]
+          - paragraph [ref=e347]:
+            - text: Learn more about our business, mission, and our commitment to diversity
+            - link "here" [ref=e348] [cursor=pointer]:
+              - /url: http://www.medtronic.com
+            - text: .
+          - paragraph [ref=e349]
+          - paragraph [ref=e350]: It is the policy of Medtronic to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, Medtronic will provide reasonable accommodations for qualified individuals with disabilities.
+          - paragraph [ref=e351]
+          - paragraph [ref=e359]:
+            - generic [ref=e360]:
+              - text: If you are applying to perform work for Medtronic, Inc. (“Medtronic”) in any position which will involve performing at least two (2) hours of work on average each week within the unincorporated areas of Los Angeles County, you can find
+              - link "here" [ref=e362] [cursor=pointer]:
+                - /url: https://www.medtronic.com/content/dam/medtronic-wide/public/united-states/employee-support-services/careers/la-county-legal-notice.pdf
+            - text: a list of all material job duties of the specific job position which Medtronic reasonably believes that criminal history may have a direct, adverse and negative relationship potentially resulting in the withdrawal of a conditional offer of employment. Medtronic will consider for employment qualified job applicants with arrest or conviction records in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.
+    - generic [ref=e366]: Loading
+  - generic [ref=e374]:
+    - heading "Follow Us" [level=4] [ref=e375]
+    - list [ref=e376]:
+      - listitem [ref=e377] [cursor=pointer]:
+        - link "Facebook" [ref=e378]:
+          - /url: https://www.facebook.com/Medtronic
+      - listitem [ref=e382] [cursor=pointer]:
+        - link "LinkedIn" [ref=e383]:
+          - /url: https://www.linkedin.com/company/medtronic
+      - listitem [ref=e387] [cursor=pointer]:
+        - link "YouTube" [ref=e388]:
+          - /url: https://www.youtube.com/user/MedtronicCorp
+    - link "Applicant Privacy Notice" [ref=e395] [cursor=pointer]:
+      - /url: https://www.medtronic.com/content/dam/medtronic-wide/public/united-states/employee-support-services/careers/medtronic-job-applicant-privacy-notice.pdf
+    - generic [ref=e396]:
+      - img [ref=e400]
+      - generic [ref=e420]: © 2026 Workday, Inc. All rights reserved.

@@ -1,0 +1,121 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "PermitFlow" [ref=e6] [cursor=pointer]:
+        - /url: https://www.permitflow.com
+        - img "PermitFlow" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to PermitFlow’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /permitflow?utm_source=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Fullstack Software Engineer, New Grad" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: New York City, NY
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $100K – $130K • Offers Equity
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [active] [selected] [ref=e36] [cursor=pointer]
+          - tab "Application" [ref=e37] [cursor=pointer]
+        - tabpanel "Overview" [ref=e412]:
+          - generic [ref=e413]:
+            - paragraph [ref=e414]:
+              - text: "PermitFlow is redefining how America builds. We’re an applied AI company serving the nation’s builders, tackling one of the largest information challenges in the economy: understanding"
+              - emphasis [ref=e415]: what can be built, where, and how
+              - text: . Our AI agent workforce helps the fastest-growing construction companies navigate everything from permitting and licensing to inspections and project closeouts – accelerating housing, clean-energy, and infrastructure development across the country.
+            - paragraph [ref=e416]: Despite being a $1.6T industry, construction still suffers from massive delays, wasted capital, and lost opportunity. PermitFlow has already delivered unprecedented speed, accuracy, and visibility to over $20B in development, helping contractors reduce compliance time, de-risk projects, and scale with confidence.
+            - paragraph [ref=e417]: As the U.S. enters a new capex supercycle across data centers, factories, housing, and renewables, joining PermitFlow means building the AI infrastructure at the core of every construction project driving the next wave of reindustrialization.
+            - paragraph [ref=e418]:
+              - text: We’ve raised over $90M, most recently completing our
+              - link "Series B," [ref=e419] [cursor=pointer]:
+                - /url: https://www.permitflow.com/blog/permitflow-series-b
+              - text: from top-tier investors including Accel,
+              - link "Kleiner Perkins" [ref=e420] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/update/urn:li:activity:7401703305569275904/
+              - text: ", Initialized, Y Combinator, Felicis, and Altos Ventures, with backing from leaders at OpenAI, Google, Procore, ServiceTitan, Zillow, PlanGrid, and Uber."
+            - paragraph [ref=e421]
+            - paragraph [ref=e422]:
+              - strong [ref=e423]: Our HQ is in New York City with a hybrid schedule (3 in-office days per week). Preference for NYC-based candidates or those open to relocation.
+            - paragraph [ref=e424]
+            - heading "What You’ll Do" [level=1] [ref=e425]
+            - list [ref=e426]:
+              - listitem [ref=e427]:
+                - paragraph [ref=e428]: Transform complex, manual permitting workflows into seamless, AI-enabled software experiences
+              - listitem [ref=e429]:
+                - paragraph [ref=e430]: Design and implement backend and frontend services, APIs, and data pipelines to support AI-driven workflows
+              - listitem [ref=e431]:
+                - paragraph [ref=e432]: Partner cross-functionally with Operations, Customer Success, and Sales to deliver intelligent, user-facing features
+              - listitem [ref=e433]:
+                - paragraph [ref=e434]: Work directly with users to shape product direction and rapidly ship features that drive impact
+              - listitem [ref=e435]:
+                - paragraph [ref=e436]: Own features end-to-end, from architecture and implementation to testing and production deployment
+              - listitem [ref=e437]:
+                - paragraph [ref=e438]: Help establish engineering best practices and contribute to a culture of technical excellence
+            - paragraph [ref=e439]
+            - heading "What We’re Looking For" [level=1] [ref=e440]
+            - list [ref=e441]:
+              - listitem [ref=e442]:
+                - paragraph [ref=e443]: Must have a graduation date within 12 months of applying, or have already graduated
+              - listitem [ref=e444]:
+                - paragraph [ref=e445]: Strong experience in fullstack development, ideally including time at a startup or fast-moving team
+              - listitem [ref=e446]:
+                - paragraph [ref=e447]: Comfortable owning features across frontend, backend, and data layers
+              - listitem [ref=e448]:
+                - paragraph [ref=e449]: Experience with React, TypeScript, Node.js, and Postgres, or ability to learn quickly
+              - listitem [ref=e450]:
+                - paragraph [ref=e451]: Track record of shipping production systems and making thoughtful trade-offs for speed, reliability, and scalability
+              - listitem [ref=e452]:
+                - paragraph [ref=e453]: Excitement for AI-powered tools that solve real-world construction challenges and a customer-first mindset
+            - paragraph [ref=e454]
+            - heading "What We Offer" [level=1] [ref=e455]
+            - list [ref=e456]:
+              - listitem [ref=e457]:
+                - paragraph [ref=e458]: Competitive salary and meaningful equity in a high-growth company
+              - listitem [ref=e459]:
+                - paragraph [ref=e460]: 100% company-paid base medical, dental, and vision coverage for employees + healthcare FSA
+              - listitem [ref=e461]:
+                - paragraph [ref=e462]: 401(k) savings plan
+              - listitem [ref=e463]:
+                - paragraph [ref=e464]: Unlimited PTO and paid family leave
+              - listitem [ref=e465]:
+                - paragraph [ref=e466]: Home office & equipment stipend
+              - listitem [ref=e467]:
+                - paragraph [ref=e468]: Daily in-office lunch and dinner provided
+              - listitem [ref=e469]:
+                - paragraph [ref=e470]: Commuter benefits (pre-tax transit and parking)
+            - paragraph [ref=e471]:
+              - emphasis [ref=e472]: PermitFlow provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, gender expression, or family status, as protected by applicable law.
+            - paragraph [ref=e473]:
+              - emphasis [ref=e474]: We are committed to a diverse and inclusive workforce and welcome people from all backgrounds, experiences, perspectives, and abilities. All employment decisions are based on merit, qualifications, and business needs.
+          - link "Apply for this Job" [ref=e475] [cursor=pointer]:
+            - /url: /permitflow/78b1fccf-2ed9-4485-bd40-4a5aea3907d4/application?utm_source=Simplify
+            - button "Apply for this Job" [ref=e476]
+  - contentinfo [ref=e268]:
+    - link "Learn more about Ashby" [ref=e269] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e270]: Powered by
+      - img "Ashby" [ref=e271]
+    - paragraph [ref=e277]:
+      - link "Privacy Policy" [ref=e278] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e279] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e280] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

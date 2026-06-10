@@ -1,0 +1,124 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Notion" [ref=e6] [cursor=pointer]:
+        - /url: https://www.notion.com/
+        - img "Notion" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Notion’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /notion?utm_source=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer, New Grad" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco, California
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: University
+      - generic [ref=e29]:
+        - tablist [ref=e30]:
+          - tab "Overview" [selected] [ref=e31] [cursor=pointer]
+          - tab "Application" [ref=e32] [cursor=pointer]
+        - tabpanel "Overview" [ref=e34]:
+          - generic [ref=e35]:
+            - heading "About Us:" [level=1] [ref=e36]
+            - paragraph [ref=e37]: Notion helps you build beautiful tools for your life’s work. In today's world of endless apps and tabs, Notion provides one place for teams to get everything done, seamlessly connecting docs, notes, projects, calendar, and email—with AI built in to find answers and automate work. Millions of users, from individuals to large organizations like Toyota, Figma, and OpenAI, love Notion for its flexibility and choose it because it helps them save time and money.
+            - paragraph [ref=e38]
+            - paragraph [ref=e39]: In-person collaboration is essential to Notion's culture. We require all team members to work from our offices on Mondays, Tuesdays, and Thursdays, our designated Anchor Days. Certain teams or positions may require additional in-office workdays.
+            - paragraph [ref=e40]
+            - heading "About The Role:" [level=1] [ref=e41]
+            - paragraph [ref=e42]: As an engineer at Notion, you’ll help shape core user experiences and accelerate how people discover value in Notion. You'll tackle meaningful challenges with increasing autonomy, crafting code that millions of users will experience. You'll take ownership of projects that matter, make critical technical decisions, and contribute your unique perspective to our product vision. Working alongside passionate experts across design, product, and data, you'll help shape the future of how people work.
+            - paragraph [ref=e43]
+            - paragraph [ref=e44]: We’re hiring new grad engineers to join us across several teams at Notion. Your recruiter will partner with you to find the team that best aligns with your interests and where you can make the highest impact.
+            - paragraph [ref=e45]
+            - heading "What You'll Achieve:" [level=1] [ref=e46]
+            - list [ref=e47]:
+              - listitem [ref=e48]:
+                - paragraph [ref=e49]: "You'll work with others to plan, shape, and build new product features from start to finish: through conception, research, implementation, and maintenance. For example, you might work on driving adoption, by instrumenting key onboarding moments and iterating on activation flows."
+              - listitem [ref=e50]:
+                - paragraph [ref=e51]: You'll help improve performance and reliability, or polish existing features. For example, you might update our spell checker to sync dictionaries across browsers or improve search to index file attachments.
+              - listitem [ref=e52]:
+                - paragraph [ref=e53]: You'll build internal tools to support simplicity and productivity for the whole team. This might include writing a script to import user feedback into Notion.
+                - paragraph [ref=e54]
+            - heading "Qualifications:" [level=1] [ref=e55]
+            - list [ref=e56]:
+              - listitem [ref=e57]:
+                - paragraph [ref=e58]: Pursuing a bachelor's or master’s degree in computer science, engineering, or another related field. Must be able to start full-time prior to July 27, 2026.
+              - listitem [ref=e59]:
+                - paragraph [ref=e60]: Previous internship experience.
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: Working towards a proficiency of one or more programming languages such as TypeScript, Node.js, or Python.
+                - paragraph [ref=e63]
+            - heading "Skills You'll Need to Bring:" [level=1] [ref=e64]
+            - list [ref=e65]:
+              - listitem [ref=e66]:
+                - paragraph [ref=e67]:
+                  - strong [ref=e68]: "Impact-driven approach to technology:"
+                  - text: You see technologies as tools to achieve user impact rather than ends in themselves. You care more about building successful systems that solve real problems than about using specific tech stacks or following trends.
+                - list [ref=e69]:
+                  - listitem [ref=e70]:
+                    - paragraph [ref=e71]: You stay current with the latest tools like Codex, Claude Code, and other AI-assisted development environments. You're pragmatic about choosing the right tool for the job, focusing on what delivers the most value to users.
+              - listitem [ref=e72]:
+                - paragraph [ref=e73]:
+                  - strong [ref=e74]: "Thoughtful problem-solving:"
+                  - text: For you, problem-solving starts with a clear and accurate understanding of the context. You can decompose tricky problems and work towards a clean solution, by yourself or with teammates. You're comfortable asking for help when you get stuck. You think about the implications of what you're building and how it will impact real people's lives.
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]:
+                  - strong [ref=e77]: "Own the outcome:"
+                  - text: You own your work, communicating clearly about progress and blockers. You don't wait for instructions for every step but rather show initiative in identifying what needs to be done and driving projects forward. You ask questions when needed while independently finding solutions to problems.
+              - listitem [ref=e78]:
+                - paragraph [ref=e79]:
+                  - strong [ref=e80]: "Team player:"
+                  - text: For you, work isn't a solo endeavor. You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same.
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]:
+                  - strong [ref=e83]: "Passion for web applications:"
+                  - text: You can work with others to build and maintain quality user interfaces for a big audience, using Web technologies like HTML, CSS, JavaScript, and a modern UI framework like React.
+              - listitem [ref=e84]:
+                - paragraph [ref=e85]:
+                  - strong [ref=e86]: "Familiarity with backend systems:"
+                  - text: You understand how parts of a system fit together—from the user interface to the data model. Familiarity with database systems like Postgres, MySQL or MongoDB is a plus.
+                - paragraph [ref=e87]
+            - heading "Nice to Haves:" [level=1] [ref=e88]
+            - list [ref=e89]:
+              - listitem [ref=e90]:
+                - paragraph [ref=e91]: "You have experience with any part of our technology stack: React, TypeScript, Node.js, Postgres, and Elasticsearch."
+              - listitem [ref=e92]:
+                - paragraph [ref=e93]: You’re a builder who finds joy in building software solutions for yourself or others.
+              - listitem [ref=e94]:
+                - paragraph [ref=e95]: You care about the interaction between technology and society, the ways in which they inform each other, and our responsibility as technologists to be conscious of that relationship.
+              - listitem [ref=e96]:
+                - paragraph [ref=e97]: You've heard of computing pioneers like Ada Lovelace, Douglas Engelbart, Alan Kay, and others—and understand why we're big fans of their work.
+                - paragraph [ref=e98]
+            - paragraph [ref=e99]: Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because it's the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Notion.
+            - paragraph [ref=e100]
+            - paragraph [ref=e101]: Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.
+            - paragraph [ref=e102]
+            - paragraph [ref=e103]: Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco or New York City, the estimated salary range for this role is $126,000 - $146,000
+            - paragraph [ref=e104]
+            - paragraph [ref=e105]: "#LI-Onsite"
+          - link "Apply for this Job" [ref=e106] [cursor=pointer]:
+            - /url: /notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555/application?utm_source=Simplify
+            - button "Apply for this Job" [ref=e107]
+  - contentinfo [ref=e108]:
+    - link "Learn more about Ashby" [ref=e109] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e110]: Powered by
+      - img "Ashby" [ref=e111]
+    - paragraph [ref=e117]:
+      - link "Privacy Policy" [ref=e118] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e119] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e120] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

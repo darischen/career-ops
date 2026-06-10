@@ -1,0 +1,519 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Flex Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://getflex.com/
+        - img "Flex Logo" [ref=e6]
+      - heading "Explore open roles" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - img [ref=e10]
+        - generic [ref=e12]:
+          - paragraph [ref=e13]: Create a Job Alert
+          - paragraph [ref=e14]: Level-up your career by having opportunities at Flex sent directly to your inbox.
+          - button "Create alert" [ref=e15] [cursor=pointer]
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - generic [ref=e19]:
+            - generic [ref=e20]: Search
+            - textbox "Search" [ref=e21]
+          - generic [ref=e23]:
+            - generic [ref=e24]: Department
+            - generic [ref=e25]:
+              - log [ref=e27]
+              - generic [ref=e29]:
+                - generic [ref=e30]:
+                  - generic [ref=e31]: Select...
+                  - combobox "Department" [ref=e33]
+                - button "Toggle flyout" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+          - generic [ref=e39]:
+            - generic [ref=e40]: Office
+            - generic [ref=e41]:
+              - log [ref=e43]
+              - generic [ref=e45]:
+                - generic [ref=e46]:
+                  - generic [ref=e47]: Select...
+                  - combobox "Office" [ref=e49]
+                - button "Toggle flyout" [ref=e51] [cursor=pointer]:
+                  - img [ref=e52]
+        - generic [ref=e54]:
+          - heading "71 jobs" [level=2] [ref=e55]
+          - generic [ref=e56]:
+            - generic [ref=e57]:
+              - heading "Business Development" [level=3] [ref=e58]
+              - table [ref=e60]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e61]:
+                      - paragraph [ref=e62]: Job
+                - rowgroup [ref=e63]:
+                  - row "Director, Strategic Partnerships (New Verticals) New York, NY; San Francisco, CA" [ref=e64]:
+                    - cell "Director, Strategic Partnerships (New Verticals) New York, NY; San Francisco, CA" [ref=e65]:
+                      - link "Director, Strategic Partnerships (New Verticals) New York, NY; San Francisco, CA" [ref=e66] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4685871005
+                        - paragraph [ref=e67]: Director, Strategic Partnerships (New Verticals)
+                        - paragraph [ref=e68]: New York, NY; San Francisco, CA
+                  - row "Senior Director, Business Development (New Verticals) New York, NY; San Francisco, CA" [ref=e69]:
+                    - cell "Senior Director, Business Development (New Verticals) New York, NY; San Francisco, CA" [ref=e70]:
+                      - link "Senior Director, Business Development (New Verticals) New York, NY; San Francisco, CA" [ref=e71] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4627497005
+                        - paragraph [ref=e72]: Senior Director, Business Development (New Verticals)
+                        - paragraph [ref=e73]: New York, NY; San Francisco, CA
+                  - row "Senior Director, Strategic Partnerships New York, NY; Salt Lake City, UT; San Francisco, CA" [ref=e74]:
+                    - cell "Senior Director, Strategic Partnerships New York, NY; Salt Lake City, UT; San Francisco, CA" [ref=e75]:
+                      - link "Senior Director, Strategic Partnerships New York, NY; Salt Lake City, UT; San Francisco, CA" [ref=e76] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4692932005
+                        - paragraph [ref=e77]: Senior Director, Strategic Partnerships
+                        - paragraph [ref=e78]: New York, NY; Salt Lake City, UT; San Francisco, CA
+                  - row "Senior Manager, Partnerships Strategy & Operations New York, NY; San Francisco, CA" [ref=e79]:
+                    - cell "Senior Manager, Partnerships Strategy & Operations New York, NY; San Francisco, CA" [ref=e80]:
+                      - link "Senior Manager, Partnerships Strategy & Operations New York, NY; San Francisco, CA" [ref=e81] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4647044005
+                        - paragraph [ref=e82]: Senior Manager, Partnerships Strategy & Operations
+                        - paragraph [ref=e83]: New York, NY; San Francisco, CA
+                  - row "Senior Manager, Strategic Partnerships New New York, NY; San Francisco, CA" [ref=e84]:
+                    - cell "Senior Manager, Strategic Partnerships New New York, NY; San Francisco, CA" [ref=e85]:
+                      - link "Senior Manager, Strategic Partnerships New New York, NY; San Francisco, CA" [ref=e86] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4698985005
+                        - paragraph [ref=e87]:
+                          - text: Senior Manager, Strategic Partnerships
+                          - generic [ref=e89]: New
+                        - paragraph [ref=e90]: New York, NY; San Francisco, CA
+                  - row "Vice President, Business Development & Strategic Partnerships New York, NY; San Francisco, CA" [ref=e91]:
+                    - cell "Vice President, Business Development & Strategic Partnerships New York, NY; San Francisco, CA" [ref=e92]:
+                      - link "Vice President, Business Development & Strategic Partnerships New York, NY; San Francisco, CA" [ref=e93] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4681915005
+                        - paragraph [ref=e94]: Vice President, Business Development & Strategic Partnerships
+                        - paragraph [ref=e95]: New York, NY; San Francisco, CA
+            - generic [ref=e96]:
+              - heading "Customer Success" [level=3] [ref=e97]
+              - table [ref=e99]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e100]:
+                      - paragraph [ref=e101]: Job
+                - rowgroup [ref=e102]:
+                  - row "Program Manager, CS Tools & Technology New York, NY" [ref=e103]:
+                    - cell "Program Manager, CS Tools & Technology New York, NY" [ref=e104]:
+                      - link "Program Manager, CS Tools & Technology New York, NY" [ref=e105] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4687990005
+                        - paragraph [ref=e106]: Program Manager, CS Tools & Technology
+                        - paragraph [ref=e107]: New York, NY
+            - generic [ref=e108]:
+              - paragraph [ref=e110]: Data
+              - heading "Analytics" [level=3] [ref=e111]
+              - table [ref=e113]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e114]:
+                      - paragraph [ref=e115]: Job
+                - rowgroup [ref=e116]:
+                  - row "Director, Analytics Engineer New York, NY; Salt Lake City, UT; San Francisco, CA" [ref=e117]:
+                    - cell "Director, Analytics Engineer New York, NY; Salt Lake City, UT; San Francisco, CA" [ref=e118]:
+                      - link "Director, Analytics Engineer New York, NY; Salt Lake City, UT; San Francisco, CA" [ref=e119] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4685259005
+                        - paragraph [ref=e120]: Director, Analytics Engineer
+                        - paragraph [ref=e121]: New York, NY; Salt Lake City, UT; San Francisco, CA
+                  - row "Senior Data Scientist & Analytics, Product New York, NY" [ref=e122]:
+                    - cell "Senior Data Scientist & Analytics, Product New York, NY" [ref=e123]:
+                      - link "Senior Data Scientist & Analytics, Product New York, NY" [ref=e124] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4677028005
+                        - paragraph [ref=e125]: Senior Data Scientist & Analytics, Product
+                        - paragraph [ref=e126]: New York, NY
+                  - row "Staff Data Scientist & Analytics New York, NY" [ref=e127]:
+                    - cell "Staff Data Scientist & Analytics New York, NY" [ref=e128]:
+                      - link "Staff Data Scientist & Analytics New York, NY" [ref=e129] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4658283005
+                        - paragraph [ref=e130]: Staff Data Scientist & Analytics
+                        - paragraph [ref=e131]: New York, NY
+                  - row "Staff Data Scientist, Product New York, NY" [ref=e132]:
+                    - cell "Staff Data Scientist, Product New York, NY" [ref=e133]:
+                      - link "Staff Data Scientist, Product New York, NY" [ref=e134] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4679382005
+                        - paragraph [ref=e135]: Staff Data Scientist, Product
+                        - paragraph [ref=e136]: New York, NY
+            - generic [ref=e137]:
+              - heading "Engineering" [level=3] [ref=e138]
+              - table [ref=e140]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e141]:
+                      - paragraph [ref=e142]: Job
+                - rowgroup [ref=e143]:
+                  - row "Senior Software Engineer, Backend New York, NY; USA" [ref=e144]:
+                    - cell "Senior Software Engineer, Backend New York, NY; USA" [ref=e145]:
+                      - link "Senior Software Engineer, Backend New York, NY; USA" [ref=e146] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4681666005
+                        - paragraph [ref=e147]: Senior Software Engineer, Backend
+                        - paragraph [ref=e148]: New York, NY; USA
+                  - row "Senior Software Engineer, Fullstack (Risk Engineering) New York, NY; San Francisco, CA; USA" [ref=e149]:
+                    - cell "Senior Software Engineer, Fullstack (Risk Engineering) New York, NY; San Francisco, CA; USA" [ref=e150]:
+                      - link "Senior Software Engineer, Fullstack (Risk Engineering) New York, NY; San Francisco, CA; USA" [ref=e151] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4689406005
+                        - paragraph [ref=e152]: Senior Software Engineer, Fullstack (Risk Engineering)
+                        - paragraph [ref=e153]: New York, NY; San Francisco, CA; USA
+                  - row "Staff Software Engineer, AI Platform USA" [ref=e154]:
+                    - cell "Staff Software Engineer, AI Platform USA" [ref=e155]:
+                      - link "Staff Software Engineer, AI Platform USA" [ref=e156] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4696189005
+                        - paragraph [ref=e157]: Staff Software Engineer, AI Platform
+                        - paragraph [ref=e158]: USA
+                  - row "Staff Software Engineer, FinPlatform Backend USA" [ref=e159]:
+                    - cell "Staff Software Engineer, FinPlatform Backend USA" [ref=e160]:
+                      - link "Staff Software Engineer, FinPlatform Backend USA" [ref=e161] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4661298005
+                        - paragraph [ref=e162]: Staff Software Engineer, FinPlatform Backend
+                        - paragraph [ref=e163]: USA
+                  - row "Staff Software Engineer, Fullstack (Marketing) New York, NY; San Francisco, CA; USA" [ref=e164]:
+                    - cell "Staff Software Engineer, Fullstack (Marketing) New York, NY; San Francisco, CA; USA" [ref=e165]:
+                      - link "Staff Software Engineer, Fullstack (Marketing) New York, NY; San Francisco, CA; USA" [ref=e166] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4673462005
+                        - paragraph [ref=e167]: Staff Software Engineer, Fullstack (Marketing)
+                        - paragraph [ref=e168]: New York, NY; San Francisco, CA; USA
+            - generic [ref=e169]:
+              - paragraph [ref=e171]: Engineering
+              - heading "Core Platform" [level=3] [ref=e172]
+              - table [ref=e174]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e175]:
+                      - paragraph [ref=e176]: Job
+                - rowgroup [ref=e177]:
+                  - row "Senior Software Engineer, Risk Engineering USA" [ref=e178]:
+                    - cell "Senior Software Engineer, Risk Engineering USA" [ref=e179]:
+                      - link "Senior Software Engineer, Risk Engineering USA" [ref=e180] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4668753005
+                        - paragraph [ref=e181]: Senior Software Engineer, Risk Engineering
+                        - paragraph [ref=e182]: USA
+                  - row "Software Engineer II, Core Platform USA" [ref=e183]:
+                    - cell "Software Engineer II, Core Platform USA" [ref=e184]:
+                      - link "Software Engineer II, Core Platform USA" [ref=e185] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4694429005
+                        - paragraph [ref=e186]: Software Engineer II, Core Platform
+                        - paragraph [ref=e187]: USA
+            - generic [ref=e188]:
+              - paragraph [ref=e190]: Engineering
+              - heading "Infrastructure Engineering" [level=3] [ref=e191]
+              - table [ref=e193]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e194]:
+                      - paragraph [ref=e195]: Job
+                - rowgroup [ref=e196]:
+                  - row "Senior Infrastructure Engineer USA" [ref=e197]:
+                    - cell "Senior Infrastructure Engineer USA" [ref=e198]:
+                      - link "Senior Infrastructure Engineer USA" [ref=e199] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4666310005
+                        - paragraph [ref=e200]: Senior Infrastructure Engineer
+                        - paragraph [ref=e201]: USA
+            - generic [ref=e202]:
+              - paragraph [ref=e204]: Engineering
+              - heading "Product Engineering" [level=3] [ref=e205]
+              - table [ref=e207]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e208]:
+                      - paragraph [ref=e209]: Job
+                - rowgroup [ref=e210]:
+                  - row "Senior Backend Engineer, Consumer Product New USA" [ref=e211]:
+                    - cell "Senior Backend Engineer, Consumer Product New USA" [ref=e212]:
+                      - link "Senior Backend Engineer, Consumer Product New USA" [ref=e213] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4694752005
+                        - paragraph [ref=e214]:
+                          - text: Senior Backend Engineer, Consumer Product
+                          - generic [ref=e216]: New
+                        - paragraph [ref=e217]: USA
+            - generic [ref=e218]:
+              - heading "Executive" [level=3] [ref=e219]
+              - table [ref=e221]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e222]:
+                      - paragraph [ref=e223]: Job
+                - rowgroup [ref=e224]:
+                  - row "Director, Strategy & Operations (Housing) New York, NY" [ref=e225]:
+                    - cell "Director, Strategy & Operations (Housing) New York, NY" [ref=e226]:
+                      - link "Director, Strategy & Operations (Housing) New York, NY" [ref=e227] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4658323005
+                        - paragraph [ref=e228]: Director, Strategy & Operations (Housing)
+                        - paragraph [ref=e229]: New York, NY
+                  - row "Senior Manager, Strategy & Operations (Consumer Protection Team) New New York, NY" [ref=e230]:
+                    - cell "Senior Manager, Strategy & Operations (Consumer Protection Team) New New York, NY" [ref=e231]:
+                      - link "Senior Manager, Strategy & Operations (Consumer Protection Team) New New York, NY" [ref=e232] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4697168005
+                        - paragraph [ref=e233]:
+                          - text: Senior Manager, Strategy & Operations (Consumer Protection Team)
+                          - generic [ref=e235]: New
+                        - paragraph [ref=e236]: New York, NY
+            - generic [ref=e237]:
+              - paragraph [ref=e239]: Executive
+              - heading "Strategy" [level=3] [ref=e240]
+              - table [ref=e242]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e243]:
+                      - paragraph [ref=e244]: Job
+                - rowgroup [ref=e245]:
+                  - row "Chief of Staff (Executive Office) and VP of Strategy & Operations New New York, NY" [ref=e246]:
+                    - cell "Chief of Staff (Executive Office) and VP of Strategy & Operations New New York, NY" [ref=e247]:
+                      - link "Chief of Staff (Executive Office) and VP of Strategy & Operations New New York, NY" [ref=e248] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4697930005
+                        - paragraph [ref=e249]:
+                          - text: Chief of Staff (Executive Office) and VP of Strategy & Operations
+                          - generic [ref=e251]: New
+                        - paragraph [ref=e252]: New York, NY
+            - generic [ref=e253]:
+              - paragraph [ref=e255]: Finance
+              - heading "Accounting" [level=3] [ref=e256]
+              - table [ref=e258]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e259]:
+                      - paragraph [ref=e260]: Job
+                - rowgroup [ref=e261]:
+                  - row "Director, Corporate Accounting New York, NY" [ref=e262]:
+                    - cell "Director, Corporate Accounting New York, NY" [ref=e263]:
+                      - link "Director, Corporate Accounting New York, NY" [ref=e264] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4620484005
+                        - paragraph [ref=e265]: Director, Corporate Accounting
+                        - paragraph [ref=e266]: New York, NY
+                  - row "Manager, Corporate Accounting New York, NY" [ref=e267]:
+                    - cell "Manager, Corporate Accounting New York, NY" [ref=e268]:
+                      - link "Manager, Corporate Accounting New York, NY" [ref=e269] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4691750005
+                        - paragraph [ref=e270]: Manager, Corporate Accounting
+                        - paragraph [ref=e271]: New York, NY
+                  - row "Senior Manager, Payroll New York, NY" [ref=e272]:
+                    - cell "Senior Manager, Payroll New York, NY" [ref=e273]:
+                      - link "Senior Manager, Payroll New York, NY" [ref=e274] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4691757005
+                        - paragraph [ref=e275]: Senior Manager, Payroll
+                        - paragraph [ref=e276]: New York, NY
+            - generic [ref=e277]:
+              - paragraph [ref=e279]: Finance
+              - heading "Strategic Finance" [level=3] [ref=e280]
+              - table [ref=e282]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e283]:
+                      - paragraph [ref=e284]: Job
+                - rowgroup [ref=e285]:
+                  - row "Director, Corporate FP&A New York, NY; San Francisco, CA" [ref=e286]:
+                    - cell "Director, Corporate FP&A New York, NY; San Francisco, CA" [ref=e287]:
+                      - link "Director, Corporate FP&A New York, NY; San Francisco, CA" [ref=e288] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4696159005
+                        - paragraph [ref=e289]: Director, Corporate FP&A
+                        - paragraph [ref=e290]: New York, NY; San Francisco, CA
+                  - row "Senior Manager, Strategic Finance New York, NY" [ref=e291]:
+                    - cell "Senior Manager, Strategic Finance New York, NY" [ref=e292]:
+                      - link "Senior Manager, Strategic Finance New York, NY" [ref=e293] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4692907005
+                        - paragraph [ref=e294]: Senior Manager, Strategic Finance
+                        - paragraph [ref=e295]: New York, NY
+                  - row "Senior Manager, Strategic Finance San Francisco, CA" [ref=e296]:
+                    - cell "Senior Manager, Strategic Finance San Francisco, CA" [ref=e297]:
+                      - link "Senior Manager, Strategic Finance San Francisco, CA" [ref=e298] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4692908005
+                        - paragraph [ref=e299]: Senior Manager, Strategic Finance
+                        - paragraph [ref=e300]: San Francisco, CA
+            - generic [ref=e301]:
+              - heading "Legal" [level=3] [ref=e302]
+              - table [ref=e304]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e305]:
+                      - paragraph [ref=e306]: Job
+                - rowgroup [ref=e307]:
+                  - row "Associate General Counsel, Product & Regulatory New York, NY; Salt Lake City, UT; San Francisco, CA" [ref=e308]:
+                    - cell "Associate General Counsel, Product & Regulatory New York, NY; Salt Lake City, UT; San Francisco, CA" [ref=e309]:
+                      - link "Associate General Counsel, Product & Regulatory New York, NY; Salt Lake City, UT; San Francisco, CA" [ref=e310] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4692206005
+                        - paragraph [ref=e311]: Associate General Counsel, Product & Regulatory
+                        - paragraph [ref=e312]: New York, NY; Salt Lake City, UT; San Francisco, CA
+                  - row "Commercial Counsel New York, NY" [ref=e313]:
+                    - cell "Commercial Counsel New York, NY" [ref=e314]:
+                      - link "Commercial Counsel New York, NY" [ref=e315] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4686554005
+                        - paragraph [ref=e316]: Commercial Counsel
+                        - paragraph [ref=e317]: New York, NY
+                  - row "Commercial Counsel San Francisco, CA" [ref=e318]:
+                    - cell "Commercial Counsel San Francisco, CA" [ref=e319]:
+                      - link "Commercial Counsel San Francisco, CA" [ref=e320] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4693228005
+                        - paragraph [ref=e321]: Commercial Counsel
+                        - paragraph [ref=e322]: San Francisco, CA
+                  - row "Commercial Counsel Salt Lake City, UT" [ref=e323]:
+                    - cell "Commercial Counsel Salt Lake City, UT" [ref=e324]:
+                      - link "Commercial Counsel Salt Lake City, UT" [ref=e325] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4693229005
+                        - paragraph [ref=e326]: Commercial Counsel
+                        - paragraph [ref=e327]: Salt Lake City, UT
+            - generic [ref=e328]:
+              - paragraph [ref=e330]: Legal
+              - heading "Compliance" [level=3] [ref=e331]
+              - table [ref=e333]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e334]:
+                      - paragraph [ref=e335]: Job
+                - rowgroup [ref=e336]:
+                  - row "Associate Director, Risk Management New York, NY; Salt Lake City, UT; San Francisco, CA" [ref=e337]:
+                    - cell "Associate Director, Risk Management New York, NY; Salt Lake City, UT; San Francisco, CA" [ref=e338]:
+                      - link "Associate Director, Risk Management New York, NY; Salt Lake City, UT; San Francisco, CA" [ref=e339] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4686427005
+                        - paragraph [ref=e340]: Associate Director, Risk Management
+                        - paragraph [ref=e341]: New York, NY; Salt Lake City, UT; San Francisco, CA
+                  - row "Senior Director, Product Compliance New York, NY" [ref=e342]:
+                    - cell "Senior Director, Product Compliance New York, NY" [ref=e343]:
+                      - link "Senior Director, Product Compliance New York, NY" [ref=e344] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4676449005
+                        - paragraph [ref=e345]: Senior Director, Product Compliance
+                        - paragraph [ref=e346]: New York, NY
+                  - row "Senior Director, Product Compliance San Francisco, CA" [ref=e347]:
+                    - cell "Senior Director, Product Compliance San Francisco, CA" [ref=e348]:
+                      - link "Senior Director, Product Compliance San Francisco, CA" [ref=e349] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4676460005
+                        - paragraph [ref=e350]: Senior Director, Product Compliance
+                        - paragraph [ref=e351]: San Francisco, CA
+                  - row "Senior Director, Product Compliance Salt Lake City, UT" [ref=e352]:
+                    - cell "Senior Director, Product Compliance Salt Lake City, UT" [ref=e353]:
+                      - link "Senior Director, Product Compliance Salt Lake City, UT" [ref=e354] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4676461005
+                        - paragraph [ref=e355]: Senior Director, Product Compliance
+                        - paragraph [ref=e356]: Salt Lake City, UT
+            - generic [ref=e357]:
+              - heading "Marketing" [level=3] [ref=e358]
+              - table [ref=e360]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e361]:
+                      - paragraph [ref=e362]: Job
+                - rowgroup [ref=e363]:
+                  - row "Head of Communications New York, NY; San Francisco, CA" [ref=e364]:
+                    - cell "Head of Communications New York, NY; San Francisco, CA" [ref=e365]:
+                      - link "Head of Communications New York, NY; San Francisco, CA" [ref=e366] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4691396005
+                        - paragraph [ref=e367]: Head of Communications
+                        - paragraph [ref=e368]: New York, NY; San Francisco, CA
+                  - row "Head of Performance Marketing New York, NY; San Francisco, CA" [ref=e369]:
+                    - cell "Head of Performance Marketing New York, NY; San Francisco, CA" [ref=e370]:
+                      - link "Head of Performance Marketing New York, NY; San Francisco, CA" [ref=e371] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4632721005
+                        - paragraph [ref=e372]: Head of Performance Marketing
+                        - paragraph [ref=e373]: New York, NY; San Francisco, CA
+                  - row "Integrated Marketing Manager New York, NY; San Francisco, CA" [ref=e374]:
+                    - cell "Integrated Marketing Manager New York, NY; San Francisco, CA" [ref=e375]:
+                      - link "Integrated Marketing Manager New York, NY; San Francisco, CA" [ref=e376] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4670809005
+                        - paragraph [ref=e377]: Integrated Marketing Manager
+                        - paragraph [ref=e378]: New York, NY; San Francisco, CA
+                  - row "Senior Product Marketing Manager New York, NY; San Francisco, CA" [ref=e379]:
+                    - cell "Senior Product Marketing Manager New York, NY; San Francisco, CA" [ref=e380]:
+                      - link "Senior Product Marketing Manager New York, NY; San Francisco, CA" [ref=e381] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4683658005
+                        - paragraph [ref=e382]: Senior Product Marketing Manager
+                        - paragraph [ref=e383]: New York, NY; San Francisco, CA
+                  - row "Staff Brand Designer New York, NY; San Francisco, CA" [ref=e384]:
+                    - cell "Staff Brand Designer New York, NY; San Francisco, CA" [ref=e385]:
+                      - link "Staff Brand Designer New York, NY; San Francisco, CA" [ref=e386] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4670799005
+                        - paragraph [ref=e387]: Staff Brand Designer
+                        - paragraph [ref=e388]: New York, NY; San Francisco, CA
+            - generic [ref=e389]:
+              - paragraph [ref=e391]: Marketing
+              - heading "Partner Marketing (B2B)" [level=3] [ref=e392]
+              - table [ref=e394]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e395]:
+                      - paragraph [ref=e396]: Job
+                - rowgroup [ref=e397]:
+                  - row "Events Marketing Manager, New Verticals New York, NY; San Francisco, CA" [ref=e398]:
+                    - cell "Events Marketing Manager, New Verticals New York, NY; San Francisco, CA" [ref=e399]:
+                      - link "Events Marketing Manager, New Verticals New York, NY; San Francisco, CA" [ref=e400] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4689871005
+                        - paragraph [ref=e401]: Events Marketing Manager, New Verticals
+                        - paragraph [ref=e402]: New York, NY; San Francisco, CA
+                  - row "Partner Marketing Manager New York, NY; San Francisco, CA" [ref=e403]:
+                    - cell "Partner Marketing Manager New York, NY; San Francisco, CA" [ref=e404]:
+                      - link "Partner Marketing Manager New York, NY; San Francisco, CA" [ref=e405] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4689862005
+                        - paragraph [ref=e406]: Partner Marketing Manager
+                        - paragraph [ref=e407]: New York, NY; San Francisco, CA
+            - generic [ref=e408]:
+              - heading "People" [level=3] [ref=e409]
+              - table [ref=e411]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e412]:
+                      - paragraph [ref=e413]: Job
+                - rowgroup [ref=e414]:
+                  - row "Executive Assistant New York, NY" [ref=e415]:
+                    - cell "Executive Assistant New York, NY" [ref=e416]:
+                      - link "Executive Assistant New York, NY" [ref=e417] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4691743005
+                        - paragraph [ref=e418]: Executive Assistant
+                        - paragraph [ref=e419]: New York, NY
+            - generic [ref=e420]:
+              - paragraph [ref=e422]: People
+              - heading "People Ops" [level=3] [ref=e423]
+              - table [ref=e425]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e426]:
+                      - paragraph [ref=e427]: Job
+                - rowgroup [ref=e428]:
+                  - row "Director of Talent Development and Performance New York, NY" [ref=e429]:
+                    - cell "Director of Talent Development and Performance New York, NY" [ref=e430]:
+                      - link "Director of Talent Development and Performance New York, NY" [ref=e431] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4654930005
+                        - paragraph [ref=e432]: Director of Talent Development and Performance
+                        - paragraph [ref=e433]: New York, NY
+                  - row "Director of Talent Development and Performance San Francisco, CA" [ref=e434]:
+                    - cell "Director of Talent Development and Performance San Francisco, CA" [ref=e435]:
+                      - link "Director of Talent Development and Performance San Francisco, CA" [ref=e436] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4678455005
+                        - paragraph [ref=e437]: Director of Talent Development and Performance
+                        - paragraph [ref=e438]: San Francisco, CA
+            - generic [ref=e439]:
+              - heading "Product" [level=3] [ref=e440]
+              - table [ref=e442]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e443]:
+                      - paragraph [ref=e444]: Job
+                - rowgroup [ref=e445]:
+                  - row "Director of Product, Martech New York, NY; San Francisco, CA" [ref=e446]:
+                    - cell "Director of Product, Martech New York, NY; San Francisco, CA" [ref=e447]:
+                      - link "Director of Product, Martech New York, NY; San Francisco, CA" [ref=e448] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4649069005
+                        - paragraph [ref=e449]: Director of Product, Martech
+                        - paragraph [ref=e450]: New York, NY; San Francisco, CA
+                  - row "Director of Product, Payments Platform New York, NY; San Francisco, CA" [ref=e451]:
+                    - cell "Director of Product, Payments Platform New York, NY; San Francisco, CA" [ref=e452]:
+                      - link "Director of Product, Payments Platform New York, NY; San Francisco, CA" [ref=e453] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4694576005
+                        - paragraph [ref=e454]: Director of Product, Payments Platform
+                        - paragraph [ref=e455]: New York, NY; San Francisco, CA
+                  - row "Lead Product Manager, Platform New York, NY" [ref=e456]:
+                    - cell "Lead Product Manager, Platform New York, NY" [ref=e457]:
+                      - link "Lead Product Manager, Platform New York, NY" [ref=e458] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/flex/jobs/4678155005
+                        - paragraph [ref=e459]: Lead Product Manager, Platform
+                        - paragraph [ref=e460]: New York, NY
+          - navigation "Pagination" [ref=e462]:
+            - button "Previous page" [disabled] [ref=e463]:
+              - img [ref=e464]
+            - list [ref=e466]:
+              - listitem [ref=e467]:
+                - button "Go to page 1": "1"
+              - listitem [ref=e468]:
+                - button "Go to page 2" [ref=e469] [cursor=pointer]: "2"
+            - button "Next page" [ref=e470] [cursor=pointer]:
+              - img [ref=e471]
+  - contentinfo [ref=e473]:
+    - generic [ref=e474]:
+      - paragraph [ref=e475]: Powered by
+      - link "Greenhouse logo" [ref=e476] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e477]

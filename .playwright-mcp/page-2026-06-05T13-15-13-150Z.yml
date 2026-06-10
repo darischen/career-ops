@@ -1,0 +1,424 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - heading "Current openings at Together AI" [level=1] [ref=e4]
+      - generic [ref=e6]:
+        - img [ref=e7]
+        - generic [ref=e9]:
+          - paragraph [ref=e10]: Create a Job Alert
+          - paragraph [ref=e11]: Level-up your career by having opportunities at Together AI sent directly to your inbox.
+          - button "Create alert" [ref=e12] [cursor=pointer]
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - generic [ref=e16]:
+            - generic [ref=e17]: Search
+            - textbox "Search" [ref=e18]
+          - generic [ref=e20]:
+            - generic [ref=e21]: Department
+            - generic [ref=e22]:
+              - log [ref=e24]
+              - generic [ref=e26]:
+                - generic [ref=e27]:
+                  - generic [ref=e28]: Select...
+                  - combobox "Department" [ref=e30]
+                - button "Toggle flyout" [ref=e32] [cursor=pointer]:
+                  - img [ref=e33]
+          - generic [ref=e36]:
+            - generic [ref=e37]: Office
+            - generic [ref=e38]:
+              - log [ref=e40]
+              - generic [ref=e42]:
+                - generic [ref=e43]:
+                  - generic [ref=e44]: Select...
+                  - combobox "Office" [ref=e46]
+                - button "Toggle flyout" [ref=e48] [cursor=pointer]:
+                  - img [ref=e49]
+        - generic [ref=e51]:
+          - heading "56 jobs" [level=2] [ref=e52]
+          - generic [ref=e53]:
+            - generic [ref=e54]:
+              - heading "Business Operations" [level=3] [ref=e55]
+              - table [ref=e57]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e58]:
+                      - paragraph [ref=e59]: Job
+                - rowgroup [ref=e60]:
+                  - row "Director, Data Center Strategy and Site Selection Remote" [ref=e61]:
+                    - cell "Director, Data Center Strategy and Site Selection Remote" [ref=e62]:
+                      - link "Director, Data Center Strategy and Site Selection Remote" [ref=e63] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4949454007
+                        - paragraph [ref=e64]: Director, Data Center Strategy and Site Selection
+                        - paragraph [ref=e65]: Remote
+                  - row "Infrastructure Design Engineer San Francisco" [ref=e66]:
+                    - cell "Infrastructure Design Engineer San Francisco" [ref=e67]:
+                      - link "Infrastructure Design Engineer San Francisco" [ref=e68] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5135876007
+                        - paragraph [ref=e69]: Infrastructure Design Engineer
+                        - paragraph [ref=e70]: San Francisco
+                  - row "Manager, Infrastructure Strategy & Operations New San Francisco" [ref=e71]:
+                    - cell "Manager, Infrastructure Strategy & Operations New San Francisco" [ref=e72]:
+                      - link "Manager, Infrastructure Strategy & Operations New San Francisco" [ref=e73] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5152193007
+                        - paragraph [ref=e74]:
+                          - text: Manager, Infrastructure Strategy & Operations
+                          - generic [ref=e76]: New
+                        - paragraph [ref=e77]: San Francisco
+                  - row "Senior Program Manager, Data Center Build Remote" [ref=e78]:
+                    - cell "Senior Program Manager, Data Center Build Remote" [ref=e79]:
+                      - link "Senior Program Manager, Data Center Build Remote" [ref=e80] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5070981007
+                        - paragraph [ref=e81]: Senior Program Manager, Data Center Build
+                        - paragraph [ref=e82]: Remote
+            - generic [ref=e83]:
+              - heading "Customer Success" [level=3] [ref=e84]
+              - table [ref=e86]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e87]:
+                      - paragraph [ref=e88]: Job
+                - rowgroup [ref=e89]:
+                  - row "Customer Support Engineer (GPU Cluster) San Francisco" [ref=e90]:
+                    - cell "Customer Support Engineer (GPU Cluster) San Francisco" [ref=e91]:
+                      - link "Customer Support Engineer (GPU Cluster) San Francisco" [ref=e92] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5093510007
+                        - paragraph [ref=e93]: Customer Support Engineer (GPU Cluster)
+                        - paragraph [ref=e94]: San Francisco
+                  - row "Customer Support Engineer (GPU Cluster), India India" [ref=e95]:
+                    - cell "Customer Support Engineer (GPU Cluster), India India" [ref=e96]:
+                      - link "Customer Support Engineer (GPU Cluster), India India" [ref=e97] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4840844007
+                        - paragraph [ref=e98]: Customer Support Engineer (GPU Cluster), India
+                        - paragraph [ref=e99]: India
+                  - row "Customer Support Engineer (Inference) San Francisco, CA" [ref=e100]:
+                    - cell "Customer Support Engineer (Inference) San Francisco, CA" [ref=e101]:
+                      - link "Customer Support Engineer (Inference) San Francisco, CA" [ref=e102] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5147747007
+                        - paragraph [ref=e103]: Customer Support Engineer (Inference)
+                        - paragraph [ref=e104]: San Francisco, CA
+                  - row "Customer Support Engineer (Inference), India India" [ref=e105]:
+                    - cell "Customer Support Engineer (Inference), India India" [ref=e106]:
+                      - link "Customer Support Engineer (Inference), India India" [ref=e107] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5069532007
+                        - paragraph [ref=e108]: Customer Support Engineer (Inference), India
+                        - paragraph [ref=e109]: India
+                  - row "Forward Deployed Engineer (GPU Clusters) San Francisco" [ref=e110]:
+                    - cell "Forward Deployed Engineer (GPU Clusters) San Francisco" [ref=e111]:
+                      - link "Forward Deployed Engineer (GPU Clusters) San Francisco" [ref=e112] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5121371007
+                        - paragraph [ref=e113]: Forward Deployed Engineer (GPU Clusters)
+                        - paragraph [ref=e114]: San Francisco
+                  - row "Forward Deployed Engineer (Inference & Post-Training) San Francisco" [ref=e115]:
+                    - cell "Forward Deployed Engineer (Inference & Post-Training) San Francisco" [ref=e116]:
+                      - link "Forward Deployed Engineer (Inference & Post-Training) San Francisco" [ref=e117] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5131941007
+                        - paragraph [ref=e118]: Forward Deployed Engineer (Inference & Post-Training)
+                        - paragraph [ref=e119]: San Francisco
+                  - row "Solutions Architect San Francisco" [ref=e120]:
+                    - cell "Solutions Architect San Francisco" [ref=e121]:
+                      - link "Solutions Architect San Francisco" [ref=e122] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4627491007
+                        - paragraph [ref=e123]: Solutions Architect
+                        - paragraph [ref=e124]: San Francisco
+                  - row "Technical Account Manager (TAM), AI Factory San Francisco" [ref=e125]:
+                    - cell "Technical Account Manager (TAM), AI Factory San Francisco" [ref=e126]:
+                      - link "Technical Account Manager (TAM), AI Factory San Francisco" [ref=e127] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5123203007
+                        - paragraph [ref=e128]: Technical Account Manager (TAM), AI Factory
+                        - paragraph [ref=e129]: San Francisco
+            - generic [ref=e130]:
+              - heading "Engineering" [level=3] [ref=e131]
+              - table [ref=e133]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e134]:
+                      - paragraph [ref=e135]: Job
+                - rowgroup [ref=e136]:
+                  - row "AI Infrastructure Engineer San Francisco" [ref=e137]:
+                    - cell "AI Infrastructure Engineer San Francisco" [ref=e138]:
+                      - link "AI Infrastructure Engineer San Francisco" [ref=e139] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5138540007
+                        - paragraph [ref=e140]: AI Infrastructure Engineer
+                        - paragraph [ref=e141]: San Francisco
+                  - row "AI infrastructure Engineer (SRE) Amsterdam Amsterdam" [ref=e142]:
+                    - cell "AI infrastructure Engineer (SRE) Amsterdam Amsterdam" [ref=e143]:
+                      - link "AI infrastructure Engineer (SRE) Amsterdam Amsterdam" [ref=e144] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4555544007
+                        - paragraph [ref=e145]: AI infrastructure Engineer (SRE) Amsterdam
+                        - paragraph [ref=e146]: Amsterdam
+                  - row "Analytics Engineer — Data Warehouse San Francisco" [ref=e147]:
+                    - cell "Analytics Engineer — Data Warehouse San Francisco" [ref=e148]:
+                      - link "Analytics Engineer — Data Warehouse San Francisco" [ref=e149] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5101651007
+                        - paragraph [ref=e150]: Analytics Engineer — Data Warehouse
+                        - paragraph [ref=e151]: San Francisco
+                  - row "Backend Software Engineer — Data Platform & AI Data Products San Francisco" [ref=e152]:
+                    - cell "Backend Software Engineer — Data Platform & AI Data Products San Francisco" [ref=e153]:
+                      - link "Backend Software Engineer — Data Platform & AI Data Products San Francisco" [ref=e154] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5064263007
+                        - paragraph [ref=e155]: Backend Software Engineer — Data Platform & AI Data Products
+                        - paragraph [ref=e156]: San Francisco
+                  - row "Data Warehouse Engineer San Francisco" [ref=e157]:
+                    - cell "Data Warehouse Engineer San Francisco" [ref=e158]:
+                      - link "Data Warehouse Engineer San Francisco" [ref=e159] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5074064007
+                        - paragraph [ref=e160]: Data Warehouse Engineer
+                        - paragraph [ref=e161]: San Francisco
+                  - row "Director, Data Center Operations San Francisco" [ref=e162]:
+                    - cell "Director, Data Center Operations San Francisco" [ref=e163]:
+                      - link "Director, Data Center Operations San Francisco" [ref=e164] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5101202007
+                        - paragraph [ref=e165]: Director, Data Center Operations
+                        - paragraph [ref=e166]: San Francisco
+                  - row "Engineering Manager / Tech Lead Amsterdam" [ref=e167]:
+                    - cell "Engineering Manager / Tech Lead Amsterdam" [ref=e168]:
+                      - link "Engineering Manager / Tech Lead Amsterdam" [ref=e169] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5062462007
+                        - paragraph [ref=e170]: Engineering Manager / Tech Lead
+                        - paragraph [ref=e171]: Amsterdam
+                  - row "Lead/Manager Together Cloud Infrastructure New Amsterdam" [ref=e172]:
+                    - cell "Lead/Manager Together Cloud Infrastructure New Amsterdam" [ref=e173]:
+                      - link "Lead/Manager Together Cloud Infrastructure New Amsterdam" [ref=e174] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5145183007
+                        - paragraph [ref=e175]:
+                          - text: Lead/Manager Together Cloud Infrastructure
+                          - generic [ref=e177]: New
+                        - paragraph [ref=e178]: Amsterdam
+                  - row "Machine Learning Engineer San Francisco" [ref=e179]:
+                    - cell "Machine Learning Engineer San Francisco" [ref=e180]:
+                      - link "Machine Learning Engineer San Francisco" [ref=e181] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4626694007
+                        - paragraph [ref=e182]: Machine Learning Engineer
+                        - paragraph [ref=e183]: San Francisco
+                  - row "Machine Learning, Platform Engineer San Francisco" [ref=e184]:
+                    - cell "Machine Learning, Platform Engineer San Francisco" [ref=e185]:
+                      - link "Machine Learning, Platform Engineer San Francisco" [ref=e186] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4835988007
+                        - paragraph [ref=e187]: Machine Learning, Platform Engineer
+                        - paragraph [ref=e188]: San Francisco
+                  - row "Senior Backend Engineer, Inference Platform San Francisco" [ref=e189]:
+                    - cell "Senior Backend Engineer, Inference Platform San Francisco" [ref=e190]:
+                      - link "Senior Backend Engineer, Inference Platform San Francisco" [ref=e191] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4835763007
+                        - paragraph [ref=e192]: Senior Backend Engineer, Inference Platform
+                        - paragraph [ref=e193]: San Francisco
+                  - row "Senior Data Engineer San Francisco" [ref=e194]:
+                    - cell "Senior Data Engineer San Francisco" [ref=e195]:
+                      - link "Senior Data Engineer San Francisco" [ref=e196] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4737079007
+                        - paragraph [ref=e197]: Senior Data Engineer
+                        - paragraph [ref=e198]: San Francisco
+                  - row "Senior Developer Productivity Engineer San Francisco" [ref=e199]:
+                    - cell "Senior Developer Productivity Engineer San Francisco" [ref=e200]:
+                      - link "Senior Developer Productivity Engineer San Francisco" [ref=e201] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4774159007
+                        - paragraph [ref=e202]: Senior Developer Productivity Engineer
+                        - paragraph [ref=e203]: San Francisco
+                  - row "Senior Machine Learning Engineer, Voice AI San Francisco" [ref=e204]:
+                    - cell "Senior Machine Learning Engineer, Voice AI San Francisco" [ref=e205]:
+                      - link "Senior Machine Learning Engineer, Voice AI San Francisco" [ref=e206] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5088817007
+                        - paragraph [ref=e207]: Senior Machine Learning Engineer, Voice AI
+                        - paragraph [ref=e208]: San Francisco
+                  - row "Senior Network Engineer San Francisco" [ref=e209]:
+                    - cell "Senior Network Engineer San Francisco" [ref=e210]:
+                      - link "Senior Network Engineer San Francisco" [ref=e211] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4626654007
+                        - paragraph [ref=e212]: Senior Network Engineer
+                        - paragraph [ref=e213]: San Francisco
+                  - row "Senior Platform Engineer, Voice AI San Francisco" [ref=e214]:
+                    - cell "Senior Platform Engineer, Voice AI San Francisco" [ref=e215]:
+                      - link "Senior Platform Engineer, Voice AI San Francisco" [ref=e216] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5093344007
+                        - paragraph [ref=e217]: Senior Platform Engineer, Voice AI
+                        - paragraph [ref=e218]: San Francisco
+                  - row "Senior Software Engineer - Together Cloud Infrastructure San Francisco" [ref=e219]:
+                    - cell "Senior Software Engineer - Together Cloud Infrastructure San Francisco" [ref=e220]:
+                      - link "Senior Software Engineer - Together Cloud Infrastructure San Francisco" [ref=e221] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4749787007
+                        - paragraph [ref=e222]: Senior Software Engineer - Together Cloud Infrastructure
+                        - paragraph [ref=e223]: San Francisco
+                  - row "Senior Software Engineer Together Cloud Infrastructure Amsterdam" [ref=e224]:
+                    - cell "Senior Software Engineer Together Cloud Infrastructure Amsterdam" [ref=e225]:
+                      - link "Senior Software Engineer Together Cloud Infrastructure Amsterdam" [ref=e226] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5028862007
+                        - paragraph [ref=e227]: Senior Software Engineer Together Cloud Infrastructure
+                        - paragraph [ref=e228]: Amsterdam
+                  - row "Senior Software Engineer - Together Cloud Platform San Francisco" [ref=e229]:
+                    - cell "Senior Software Engineer - Together Cloud Platform San Francisco" [ref=e230]:
+                      - link "Senior Software Engineer - Together Cloud Platform San Francisco" [ref=e231] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4753072007
+                        - paragraph [ref=e232]: Senior Software Engineer - Together Cloud Platform
+                        - paragraph [ref=e233]: San Francisco
+                  - row "Staff Backend Engineer - Commerce San Francisco" [ref=e234]:
+                    - cell "Staff Backend Engineer - Commerce San Francisco" [ref=e235]:
+                      - link "Staff Backend Engineer - Commerce San Francisco" [ref=e236] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5102399007
+                        - paragraph [ref=e237]: Staff Backend Engineer - Commerce
+                        - paragraph [ref=e238]: San Francisco
+                  - row "Staff Engineer, API Core Platform San Francisco" [ref=e239]:
+                    - cell "Staff Engineer, API Core Platform San Francisco" [ref=e240]:
+                      - link "Staff Engineer, API Core Platform San Francisco" [ref=e241] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5056185007
+                        - paragraph [ref=e242]: Staff Engineer, API Core Platform
+                        - paragraph [ref=e243]: San Francisco
+                  - row "Staff Engineer, Customer Insights San Francisco" [ref=e244]:
+                    - cell "Staff Engineer, Customer Insights San Francisco" [ref=e245]:
+                      - link "Staff Engineer, Customer Insights San Francisco" [ref=e246] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5127080007
+                        - paragraph [ref=e247]: Staff Engineer, Customer Insights
+                        - paragraph [ref=e248]: San Francisco
+                  - row "Staff Engineer, Distributed Storage and HPC & AI Infrastructure New San Francisco" [ref=e249]:
+                    - cell "Staff Engineer, Distributed Storage and HPC & AI Infrastructure New San Francisco" [ref=e250]:
+                      - link "Staff Engineer, Distributed Storage and HPC & AI Infrastructure New San Francisco" [ref=e251] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5155722007
+                        - paragraph [ref=e252]:
+                          - text: Staff Engineer, Distributed Storage and HPC & AI Infrastructure
+                          - generic [ref=e254]: New
+                        - paragraph [ref=e255]: San Francisco
+                  - row "Staff Engineer, Product UI Platform San Francisco" [ref=e256]:
+                    - cell "Staff Engineer, Product UI Platform San Francisco" [ref=e257]:
+                      - link "Staff Engineer, Product UI Platform San Francisco" [ref=e258] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5074088007
+                        - paragraph [ref=e259]: Staff Engineer, Product UI Platform
+                        - paragraph [ref=e260]: San Francisco
+                  - row "Staff Machine Learning Engineer, Voice AI San Francisco" [ref=e261]:
+                    - cell "Staff Machine Learning Engineer, Voice AI San Francisco" [ref=e262]:
+                      - link "Staff Machine Learning Engineer, Voice AI San Francisco" [ref=e263] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5140763007
+                        - paragraph [ref=e264]: Staff Machine Learning Engineer, Voice AI
+                        - paragraph [ref=e265]: San Francisco
+                  - row "Staff Platform Engineer, Voice AI San Francisco" [ref=e266]:
+                    - cell "Staff Platform Engineer, Voice AI San Francisco" [ref=e267]:
+                      - link "Staff Platform Engineer, Voice AI San Francisco" [ref=e268] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5142176007
+                        - paragraph [ref=e269]: Staff Platform Engineer, Voice AI
+                        - paragraph [ref=e270]: San Francisco
+            - generic [ref=e271]:
+              - heading "Finance" [level=3] [ref=e272]
+              - table [ref=e274]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e275]:
+                      - paragraph [ref=e276]: Job
+                - rowgroup [ref=e277]:
+                  - row "Director of Tax San Francisco" [ref=e278]:
+                    - cell "Director of Tax San Francisco" [ref=e279]:
+                      - link "Director of Tax San Francisco" [ref=e280] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5098697007
+                        - paragraph [ref=e281]: Director of Tax
+                        - paragraph [ref=e282]: San Francisco
+                  - row "Finance Analytics Engineer San Francisco" [ref=e283]:
+                    - cell "Finance Analytics Engineer San Francisco" [ref=e284]:
+                      - link "Finance Analytics Engineer San Francisco" [ref=e285] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5108385007
+                        - paragraph [ref=e286]: Finance Analytics Engineer
+                        - paragraph [ref=e287]: San Francisco
+                  - row "Infrastructure Accounting Manager San Francisco" [ref=e288]:
+                    - cell "Infrastructure Accounting Manager San Francisco" [ref=e289]:
+                      - link "Infrastructure Accounting Manager San Francisco" [ref=e290] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5134279007
+                        - paragraph [ref=e291]: Infrastructure Accounting Manager
+                        - paragraph [ref=e292]: San Francisco
+                  - row "Sr. Revenue Accountant San Francisco" [ref=e293]:
+                    - cell "Sr. Revenue Accountant San Francisco" [ref=e294]:
+                      - link "Sr. Revenue Accountant San Francisco" [ref=e295] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5135637007
+                        - paragraph [ref=e296]: Sr. Revenue Accountant
+                        - paragraph [ref=e297]: San Francisco
+            - generic [ref=e298]:
+              - heading "Human Resources" [level=3] [ref=e299]
+              - table [ref=e301]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e302]:
+                      - paragraph [ref=e303]: Job
+                - rowgroup [ref=e304]:
+                  - row "Senior Technical Recruiter San Francisco" [ref=e305]:
+                    - cell "Senior Technical Recruiter San Francisco" [ref=e306]:
+                      - link "Senior Technical Recruiter San Francisco" [ref=e307] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4961121007
+                        - paragraph [ref=e308]: Senior Technical Recruiter
+                        - paragraph [ref=e309]: San Francisco
+                  - row "Senior Technical Recruiter, AI/ML Research San Francisco" [ref=e310]:
+                    - cell "Senior Technical Recruiter, AI/ML Research San Francisco" [ref=e311]:
+                      - link "Senior Technical Recruiter, AI/ML Research San Francisco" [ref=e312] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5135941007
+                        - paragraph [ref=e313]: Senior Technical Recruiter, AI/ML Research
+                        - paragraph [ref=e314]: San Francisco
+            - generic [ref=e315]:
+              - heading "Marketing" [level=3] [ref=e316]
+              - table [ref=e318]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e319]:
+                      - paragraph [ref=e320]: Job
+                - rowgroup [ref=e321]:
+                  - row "Product Marketing Director San Francisco" [ref=e322]:
+                    - cell "Product Marketing Director San Francisco" [ref=e323]:
+                      - link "Product Marketing Director San Francisco" [ref=e324] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4970113007
+                        - paragraph [ref=e325]: Product Marketing Director
+                        - paragraph [ref=e326]: San Francisco
+            - generic [ref=e327]:
+              - heading "Product" [level=3] [ref=e328]
+              - table [ref=e330]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e331]:
+                      - paragraph [ref=e332]: Job
+                - rowgroup [ref=e333]:
+                  - row "Junior Technical Program Manager — Infrastructure Operations San Francisco" [ref=e334]:
+                    - cell "Junior Technical Program Manager — Infrastructure Operations San Francisco" [ref=e335]:
+                      - link "Junior Technical Program Manager — Infrastructure Operations San Francisco" [ref=e336] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5139762007
+                        - paragraph [ref=e337]: Junior Technical Program Manager — Infrastructure Operations
+                        - paragraph [ref=e338]: San Francisco
+                  - row "Lead Product Designer San Francisco" [ref=e339]:
+                    - cell "Lead Product Designer San Francisco" [ref=e340]:
+                      - link "Lead Product Designer San Francisco" [ref=e341] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/5062829007
+                        - paragraph [ref=e342]: Lead Product Designer
+                        - paragraph [ref=e343]: San Francisco
+                  - row "Sr. Technical Program Manager (TPM) San Francisco" [ref=e344]:
+                    - cell "Sr. Technical Program Manager (TPM) San Francisco" [ref=e345]:
+                      - link "Sr. Technical Program Manager (TPM) San Francisco" [ref=e346] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4661776007
+                        - paragraph [ref=e347]: Sr. Technical Program Manager (TPM)
+                        - paragraph [ref=e348]: San Francisco
+            - generic [ref=e349]:
+              - heading "Research" [level=3] [ref=e350]
+              - table [ref=e352]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e353]:
+                      - paragraph [ref=e354]: Job
+                - rowgroup [ref=e355]:
+                  - row "AI Researcher, Core ML (Turbo) San Francisco" [ref=e356]:
+                    - cell "AI Researcher, Core ML (Turbo) San Francisco" [ref=e357]:
+                      - link "AI Researcher, Core ML (Turbo) San Francisco" [ref=e358] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4187681007
+                        - paragraph [ref=e359]: AI Researcher, Core ML (Turbo)
+                        - paragraph [ref=e360]: San Francisco
+                  - row "LLM Inference Frameworks and Optimization Engineer San Francisco, Singapore, Amsterdam" [ref=e361]:
+                    - cell "LLM Inference Frameworks and Optimization Engineer San Francisco, Singapore, Amsterdam" [ref=e362]:
+                      - link "LLM Inference Frameworks and Optimization Engineer San Francisco, Singapore, Amsterdam" [ref=e363] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/togetherai/jobs/4687884007
+                        - paragraph [ref=e364]: LLM Inference Frameworks and Optimization Engineer
+                        - paragraph [ref=e365]: San Francisco, Singapore, Amsterdam
+          - navigation "Pagination" [ref=e367]:
+            - button "Previous page" [disabled] [ref=e368]:
+              - img [ref=e369]
+            - list [ref=e371]:
+              - listitem [ref=e372]:
+                - button "Go to page 1": "1"
+              - listitem [ref=e373]:
+                - button "Go to page 2" [ref=e374] [cursor=pointer]: "2"
+            - button "Next page" [ref=e375] [cursor=pointer]:
+              - img [ref=e376]
+  - contentinfo [ref=e378]:
+    - generic [ref=e379]:
+      - paragraph [ref=e380]: Powered by
+      - link "Greenhouse logo" [ref=e381] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e382]

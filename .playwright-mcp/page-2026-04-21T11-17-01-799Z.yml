@@ -1,0 +1,200 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Blissway Inc." [ref=e6] [cursor=pointer]:
+        - /url: https://www.blissway.com/
+        - img "Blissway Inc." [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Blissway Inc.’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /blissway?utm_source=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer, Recent Graduate" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: Denver, Colorado
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+      - generic [ref=e29]:
+        - tablist [ref=e30]:
+          - tab "Overview" [selected] [ref=e31] [cursor=pointer]
+          - tab "Application" [ref=e32] [cursor=pointer]
+        - tabpanel "Overview" [ref=e34]:
+          - generic [ref=e35]:
+            - paragraph [ref=e36]:
+              - strong [ref=e37]: "Work at Blissway: Opportunity for Impact Every Day 🚀✨"
+            - paragraph [ref=e38]:
+              - text: "Blissway is a startup that simplifies toll collection and dramatically improves highway safety. We are multiple startups in one:"
+              - strong [ref=e39]: Deep Tech, AI/ML, Hardware, SaaS, and IoT.
+              - text: For the past five years, we have built a nearly insurmountable technological lead in tolling—an under-the-radar industry that is bigger than American football. While our competitors have thousands of employees, we operate with a lean but growing team of less than 30. We’ve stayed under the radar, but our impact is visible on the massive Interstate Highway System connecting every major US metro (except Juneau, AK—sorry, Juneau).
+            - heading "You are a good fit if..." [level=3] [ref=e40]:
+              - strong [ref=e41]: You are a good fit if...
+            - list [ref=e42]:
+              - listitem [ref=e43]:
+                - paragraph [ref=e44]:
+                  - strong [ref=e45]: "You love the grind:"
+                  - text: You take ownership and put in the time to meet deadlines. We are excited when we have a late night install because it means we have a new project launching.
+              - listitem [ref=e46]:
+                - paragraph [ref=e47]:
+                  - strong [ref=e48]: "You are detail obsessed:"
+                  - text: You have experience writing code that stands up to the unpredictability of the physical world, where the small details are the difference between success and failure.
+              - listitem [ref=e49]:
+                - paragraph [ref=e50]:
+                  - strong [ref=e51]: "You are \"Fluid\":"
+                  - text: We are a lean team and we flex across functional areas as needed. You will be challenged to learn quickly and figure out what you need to do to be productive.
+            - list [ref=e52]:
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]:
+                  - strong [ref=e55]: "You code really well:"
+                  - text: We mostly use Python and TypeScript, but we don’t care what you’re most proficient in today—as long as you learn fast.
+            - paragraph [ref=e56]
+            - 'heading "The Role: Software Engineer (Recent Graduate)" [level=2] [ref=e57]'
+            - paragraph [ref=e58]:
+              - strong [ref=e59]: The Mission
+              - text: ": Forget the \"shadowing\" and the \"simulated projects.\" At Blissway, you will be given real ownership from Week 1. You will work across our different \"startups\" to solve 1-to-100 scaling problems:"
+            - list [ref=e60]:
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]:
+                  - strong [ref=e63]: "Ship Production Code:"
+                  - text: Contribute to the "Secret Sauce" that identifies millions of cars daily.
+              - listitem [ref=e64]:
+                - paragraph [ref=e65]:
+                  - strong [ref=e66]: "Full-Stack Exposure:"
+                  - text: Help build intuitive tools for government agencies and front-end interfaces for human reviewers.
+              - listitem [ref=e67]:
+                - paragraph [ref=e68]:
+                  - strong [ref=e69]: "Edge-to-Cloud Logic:"
+                  - text: Write software that lives on roadside hardware and the servers that process its data.
+              - listitem [ref=e70]:
+                - paragraph [ref=e71]:
+                  - strong [ref=e72]: "Rapid Prototyping:"
+                  - text: Work alongside senior mentors to integrate ML models that improve highway safety in real-time.
+            - heading "Requirements:" [level=2] [ref=e73]
+            - list [ref=e74]:
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]:
+                  - strong [ref=e77]: "Education:"
+                  - text: Degree in Computer Science, Computer Engineering, or a related technical field (Class of 2025 or 2026).
+              - listitem [ref=e78]:
+                - paragraph [ref=e79]:
+                  - strong [ref=e80]: "Portfolio:"
+                  - text: A track record of building things—be it side projects, open-source contributions, or high-impact internships.
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]:
+                  - strong [ref=e83]: "Mindset:"
+                  - text: You are a
+                  - strong [ref=e84]: "\"fully formed adult.\""
+                  - text: You don't wait for a manual; you figure out what you need to get stuff done and you do it in a professional manner. You understand that feedback is critical to growth and you welcome it.
+            - paragraph [ref=e85]
+            - paragraph [ref=e86]:
+              - strong [ref=e87]: "Our Technical Ecosystem (SEO for the curious):"
+              - text: "While we value problem-solving over specific syntax, skills that transfer well are:"
+            - list [ref=e88]:
+              - listitem [ref=e89]:
+                - paragraph [ref=e90]:
+                  - strong [ref=e91]: "Languages:"
+                  - text: Typescript, Python, C++, SQL, Bash.
+              - listitem [ref=e92]:
+                - paragraph [ref=e93]:
+                  - strong [ref=e94]: "Frameworks and Tools:"
+                  - link "Node.js" [ref=e95] [cursor=pointer]:
+                    - /url: http://node.js
+                  - text: ", Express, NestJS, Next.js, React, Tailwind CSS."
+              - listitem [ref=e96]:
+                - paragraph [ref=e97]:
+                  - strong [ref=e98]: "Infrastructure:"
+                  - text: AWS, Docker, Linux, IoT Edge Devices.
+              - listitem [ref=e99]:
+                - paragraph [ref=e100]:
+                  - strong [ref=e101]: "Specialties:"
+                  - text: Computer Vision (OpenCV), ML Integration, Payment Processing.
+            - paragraph [ref=e102]:
+              - strong [ref=e103]: The Essentials (Health & Wealth)
+            - list [ref=e104]:
+              - listitem [ref=e105]:
+                - paragraph [ref=e106]:
+                  - strong [ref=e107]: "Relocation Support:"
+                  - text: We are excited for you to join the team at our engineering office in Denver. We value in-person collaboration and daily team lunches and we provide a relocation bonus to help you get here.
+              - listitem [ref=e108]:
+                - paragraph [ref=e109]:
+                  - strong [ref=e110]: "Personalized Health Coverage (ICHRA):"
+                  - text: We don’t believe in one-size-fits-all healthcare. We provide a monthly allowance for you and dependents so you can choose the individual plan that actually fits
+                  - emphasis [ref=e111]: your
+                  - text: life.
+              - listitem [ref=e112]:
+                - paragraph [ref=e113]:
+                  - strong [ref=e114]: "Investing in Your Future:"
+                  - text: 401(k) matching up to 4%.
+              - listitem [ref=e115]:
+                - paragraph [ref=e116]:
+                  - strong [ref=e117]: "Peace of Mind:"
+                  - text: Transparent compensation. Company-sponsored life & disability insurance.
+              - listitem [ref=e118]:
+                - paragraph [ref=e119]:
+                  - strong [ref=e120]: "Early Stage Equity:"
+                  - text: Competitive equity package with 24-month exercise window. Every year, we facilitate a tender process that gives you the opportunity to sell your vested shares at the same valuation as our investors.
+            - paragraph [ref=e121]:
+              - strong [ref=e122]: Rest & Recharge 🌴
+            - list [ref=e123]:
+              - listitem [ref=e124]:
+                - paragraph [ref=e125]:
+                  - strong [ref=e126]: "High-Trust Time Off:"
+                  - text: 4 weeks of untracked PTO. We don't micromanage your calendar; we focus on your impact. Take the time you need to stay sharp and inspired.
+              - listitem [ref=e127]:
+                - paragraph [ref=e128]:
+                  - strong [ref=e129]: "Family First:"
+                  - text: 12 weeks of paid parental leave for birth and adoptive parents. We want you present for the moments that matter most.
+              - listitem [ref=e130]:
+                - paragraph [ref=e131]:
+                  - strong [ref=e132]: "The Deep Breath (Sabbatical):"
+                  - text: Every 5 years, take 12 weeks of fully paid leave
+                  - strong [ref=e133]: .
+                  - text: Go travel, write a book, or master a new hobby—then come back and tell us all about it.
+            - paragraph [ref=e134]:
+              - strong [ref=e135]: Fuel & Community 😀
+            - list [ref=e136]:
+              - listitem [ref=e137]:
+                - paragraph [ref=e138]:
+                  - strong [ref=e139]: "The Blissway Kitchen:"
+                  - text: Whether it’s breakfast to start your day or our daily group lunches, we keep the team fueled.
+              - listitem [ref=e140]:
+                - paragraph [ref=e141]:
+                  - strong [ref=e142]: "Snacks Autonomy:"
+                  - text: Our kitchen is fully stocked and we mean it—if we’re missing your favorite fuel, just add it to the request list.
+              - listitem [ref=e143]:
+                - paragraph [ref=e144]:
+                  - strong [ref=e145]: "The \"BlissTrip\":"
+                  - text: An annual 3–4 day getaway for the team and significant others.
+              - listitem [ref=e146]:
+                - paragraph [ref=e147]:
+                  - strong [ref=e148]: "Monthly Beats:"
+                  - text: Game nights, escape rooms, and dinners to celebrate the grit we put in.
+              - listitem [ref=e149]:
+                - paragraph [ref=e150]:
+                  - strong [ref=e151]: "Continuous Learning:"
+                  - text: Tuition reimbursement for courses, programs, and conferences that sharpen your craft.
+          - link "Apply for this Job" [ref=e152] [cursor=pointer]:
+            - /url: /blissway/349b4318-a2bd-44c8-832b-f159701ab7e0/application?utm_source=Simplify
+            - button "Apply for this Job" [ref=e153]
+  - contentinfo [ref=e154]:
+    - link "Learn more about Ashby" [ref=e155] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e156]: Powered by
+      - img "Ashby" [ref=e157]
+    - paragraph [ref=e163]:
+      - link "Privacy Policy" [ref=e164] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e165] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e166] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

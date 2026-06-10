@@ -1,0 +1,589 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - paragraph [ref=e6]:
+        - text: Asana acquires StackAI — now every human-agent workflow runs in one place.
+        - link "Learn more" [ref=e8] [cursor=pointer]:
+          - /url: https://asana.com/press/releases/pr/asana-acquires-stackai-adding-cross-system-execution-for-human-agent-teams/e7c73b97-ae8c-4e51-b927-189ccb184146
+          - text: Learn more
+          - img [ref=e9]
+      - button "x icon" [ref=e11] [cursor=pointer]:
+        - img "x icon" [ref=e12]
+    - banner [ref=e14]:
+      - navigation [ref=e15]:
+        - generic [ref=e16]:
+          - link "Asana Home" [ref=e17] [cursor=pointer]:
+            - /url: /
+            - img "Asana Home" [ref=e18]
+          - link "Get started" [ref=e23] [cursor=pointer]:
+            - /url: /create-account
+          - button "Open menu" [ref=e24] [cursor=pointer]
+      - generic [ref=e28]:
+        - list [ref=e29]:
+          - listitem [ref=e30]:
+            - button [ref=e31] [cursor=pointer]:
+              - text: Products
+              - img [ref=e32]
+          - listitem [ref=e34]:
+            - button [ref=e35] [cursor=pointer]:
+              - text: Solutions
+              - img [ref=e36]
+          - listitem [ref=e38]:
+            - button [ref=e39] [cursor=pointer]:
+              - text: Learning & support
+              - img [ref=e40]
+          - listitem [ref=e42]:
+            - link [ref=e43] [cursor=pointer]:
+              - /url: /pricing
+              - text: Pricing
+        - list [ref=e44]:
+          - listitem [ref=e45]:
+            - link [ref=e46] [cursor=pointer]:
+              - /url: /sales
+              - img [ref=e47]
+              - text: Contact sales
+          - listitem [ref=e49]:
+            - link [ref=e50] [cursor=pointer]:
+              - /url: /demo/main
+              - img [ref=e51]
+              - text: View demo
+          - listitem [ref=e53]:
+            - link [ref=e54] [cursor=pointer]:
+              - /url: /download
+              - img [ref=e55]
+              - text: Download app
+        - generic [ref=e57]:
+          - link [ref=e58] [cursor=pointer]:
+            - /url: /sales
+            - text: Contact sales
+          - link [ref=e59] [cursor=pointer]:
+            - /url: https://app.asana.com/-/login
+            - text: Log in
+    - navigation [ref=e60]:
+      - generic [ref=e63]:
+        - generic [ref=e64] [cursor=pointer]:
+          - generic [ref=e65]: Careers
+          - img "chevron-down icon" [ref=e66]
+        - link "All open positions arrow-right-circle icon" [ref=e68] [cursor=pointer]:
+          - /url: /jobs/all
+          - text: All open positions
+          - img "arrow-right-circle icon" [ref=e69]
+    - generic [ref=e76]:
+      - list [ref=e78]:
+        - listitem [ref=e79]:
+          - link "Careers" [ref=e80] [cursor=pointer]:
+            - /url: /jobs
+          - img "chevron-right icon" [ref=e82]
+        - listitem [ref=e84]:
+          - link "All" [ref=e85] [cursor=pointer]:
+            - /url: /jobs/all
+          - img "chevron-right icon" [ref=e87]
+        - listitem [ref=e89]:
+          - link "Software Engineer, Product (Early Career)":
+            - /url: /jobs/apply/[...slug]
+      - main [ref=e90]:
+        - heading "Software Engineer, Product (Early Career)" [level=1] [ref=e91]
+        - heading "Vancouver, BC" [level=4] [ref=e92]
+        - link "Apply" [ref=e94] [cursor=pointer]:
+          - /url: "#grnhse_app"
+        - generic [ref=e95]:
+          - paragraph [ref=e96]:
+            - strong [ref=e97]: Applications for this role will close on Wednesday, June 17th at 12:00 AM Pacific Daylight Time.
+          - paragraph [ref=e98]: We are looking for a Software Engineer to join our Product team in Vancouver, where we build features end-to-end, from designing our data models to implementing the subtle interaction behaviors that differentiate good software from great software. In this role, you won’t just code—you will be an integral part of the entire product development process from conception to post-launch reflection, manifesting continuous improvements to help us achieve our mission of enabling all teams to work together effortlessly. Partnering closely with UI designers and supported by our infrastructure team, you will aim to delight users with both large new features and daily product enhancements through our continuous deployment architecture. If you care deeply about building products that improve how millions of teams work together, we would love to hear from you.
+          - heading "What You’ll Achieve" [level=2] [ref=e99]:
+            - strong [ref=e100]: What You’ll Achieve
+          - list [ref=e101]:
+            - listitem [ref=e102]: Build end-to-end features by delivering technical designs and clean code.
+            - listitem [ref=e103]: Lead initiatives across the organization, maintaining a balance between technical excellence and alignment with key stakeholders.
+            - listitem [ref=e104]: Leverage a strong sense of ownership and collaborative spirit to drive product outcomes efficiently.
+            - listitem [ref=e105]: Champion robust engineering standards and operational health through code reviews and peer mentorship.
+            - listitem [ref=e106]: Guide design discussions by articulating technical limitations and helping colleagues navigate trade-offs.
+            - listitem [ref=e107]: Help shape the long-term roadmap and technical strategy for our evolving product suite.
+          - heading "About You" [level=2] [ref=e108]:
+            - strong [ref=e109]: About You
+          - list [ref=e110]:
+            - listitem [ref=e111]: Recently graduated (or are about to graduate in summer 2026) with a degree in Computer Science, Software Engineering, or a related technical field.
+            - listitem [ref=e112]: Holds foundational experience, ideally 1+ year of working in software engineering environments, such as technical internships, co-ops, or early career roles
+            - listitem [ref=e113]: Demonstrates a solid understanding of computer science fundamentals, data structures, and programming concepts
+            - listitem [ref=e114]: Possesses a growth mindset, looking for an environment to empower teammates and move collaboratively toward shared goals.
+            - listitem [ref=e115]: Exhibits empathetic collaboration with the ability to partner effectively across different roles and engineering functions.
+            - listitem [ref=e116]: Shows a track record of being a fast learner who is excited to contribute to product development and grow technical skills from day one.
+            - listitem [ref=e117]: Demonstrates curiosity about AI tools and emerging technologies, with a willingness to learn and leverage them to enhance productivity, collaboration, or decision-making.
+          - paragraph [ref=e118]: At Asana, we're committed to building teams that include a variety of backgrounds, perspectives, and skills, as this is critical to helping us achieve our mission. If you're interested in this role and don't meet every listed requirement, we still encourage you to apply.
+          - paragraph [ref=e119]:
+            - strong [ref=e120]: What we’ll offer
+          - paragraph [ref=e121]: Our comprehensive compensation package plays a big part in how we recognize you for the impact you have on our path to achieving our mission. We believe that compensation should be reflective of the value you create relative to the market value of your role. To ensure pay is fair and not impacted by biases, we're committed to looking at market value which is why we check ourselves and conduct a yearly pay equity audit.
+          - paragraph [ref=e122]: For this role, the estimated base salary range is between $117,000 - $130,000 CAD. The actual base salary will vary based on various factors, including market and individual qualifications objectively assessed during the interview process. The listed range above is a guideline, and the base salary range for this role may be modified.
+          - paragraph [ref=e123]: In addition to base salary, your compensation package may include additional components such as equity, sales incentive pay (for most sales roles), and benefits. If you're interviewing for this role, speak with your recruiter to learn more about the total compensation and benefits for this role.
+          - paragraph [ref=e124]: "We strive to provide equitable and competitive benefits packages that support our employees worldwide and include:"
+          - list [ref=e125]:
+            - listitem [ref=e126]: Mental health, wellness & fitness benefits
+            - listitem [ref=e127]: Career coaching & support (including mentorship tailored for early-career engineers)
+            - listitem [ref=e128]: Inclusive family building benefits
+            - listitem [ref=e129]: Long-term savings or retirement plans
+            - listitem [ref=e130]: In-office culinary options to cater to your dietary preferences
+          - paragraph [ref=e131]: These are just some of the benefits we offer, and benefits may vary based on role, country, and local regulations. If you're interviewing for this role, speak with your recruiter to learn more about the total compensation and benefits for this role.
+          - paragraph [ref=e132]: "#LI-Hybrid"
+          - paragraph [ref=e133]
+          - generic [ref=e134]:
+            - paragraph [ref=e135]:
+              - strong [ref=e136]: About us
+            - paragraph [ref=e137]: Asana is a leading platform for human + AI collaboration. Millions of teams around the world rely on Asana to achieve their most important goals, faster. Asana has been named to Fortune's Best Workplaces for 7+ years and recognized by Fast Company, Forbes, and Gartner for excellence in workplace culture and innovation. We offer an exceptional office-centric culture while adopting the best elements of hybrid models to ensure that every one of our global team members can work together effortlessly. With 13+ offices all over the world, we are always looking for individuals who care about building technology that drives positive change in the world and a culture where everyone feels that they belong.
+            - paragraph [ref=e138]:
+              - strong [ref=e139]:
+                - link "Join Asana’s Talent Network" [ref=e140] [cursor=pointer]:
+                  - /url: https://www.gem.com/form?formID=fbcdec8c-3442-43b9-9b45-d2b5f4ea25db
+              - text: to stay up to date on job opportunities and life at Asana.
+        - iframe [ref=e142]:
+          - generic [active] [ref=f3e1]:
+            - main [ref=f3e2]:
+              - generic [ref=f3e3]:
+                - separator [ref=f3e4]
+                - generic [ref=f3e5]:
+                  - generic [ref=f3e7]:
+                    - heading "Apply for this job" [level=2] [ref=f3e9]
+                    - generic [ref=f3e10]:
+                      - paragraph [ref=f3e12]: "*"
+                      - paragraph [ref=f3e13]: indicates a required field
+                  - generic [ref=f3e14]:
+                    - generic [ref=f3e15]:
+                      - generic [ref=f3e18]:
+                        - generic [ref=f3e19]: First Name*
+                        - textbox "First Name" [ref=f3e20]
+                      - generic [ref=f3e23]:
+                        - generic [ref=f3e24]: Last Name*
+                        - textbox "Last Name" [ref=f3e25]
+                      - generic [ref=f3e28]:
+                        - generic [ref=f3e29]: Email*
+                        - textbox "Email" [ref=f3e30]
+                      - group "Phone" [ref=f3e32]:
+                        - generic [ref=f3e33]: Phone
+                        - generic [ref=f3e36]:
+                          - generic [ref=f3e37]: Country*
+                          - generic [ref=f3e38]:
+                            - log [ref=f3e40]
+                            - generic [ref=f3e42]:
+                              - combobox "Country" [ref=f3e45]
+                              - button "Toggle flyout" [ref=f3e47] [cursor=pointer]:
+                                - img [ref=f3e48]
+                            - textbox
+                        - generic [ref=f3e52]:
+                          - generic [ref=f3e53]: Phone*
+                          - textbox "Phone" [ref=f3e55]
+                      - generic [ref=f3e56]:
+                        - generic [ref=f3e58]:
+                          - generic [ref=f3e59]: Location (City)*
+                          - generic [ref=f3e60]:
+                            - log [ref=f3e62]
+                            - combobox "Location (City)" [ref=f3e67]
+                            - textbox
+                        - button "Locate me" [ref=f3e68] [cursor=pointer]
+                      - group "Resume/CV*" [ref=f3e70]:
+                        - generic [ref=f3e71]: Resume/CV*
+                        - generic [ref=f3e73]:
+                          - generic [ref=f3e75]:
+                            - button "Attach" [ref=f3e76] [cursor=pointer]
+                            - generic [ref=f3e77]: Attach
+                            - button "Attach" [ref=f3e78]
+                          - button "Dropbox" [ref=f3e80] [cursor=pointer]
+                          - generic [ref=f3e82]:
+                            - button "Enter manually" [ref=f3e83] [cursor=pointer]
+                            - generic [ref=f3e84]: Enter manually
+                          - paragraph [ref=f3e85]: "Accepted file types: pdf, doc, docx, txt, rtf"
+                      - group "Cover Letter" [ref=f3e87]:
+                        - generic [ref=f3e88]: Cover Letter
+                        - generic [ref=f3e90]:
+                          - generic [ref=f3e92]:
+                            - button "Attach" [ref=f3e93] [cursor=pointer]
+                            - generic [ref=f3e94]: Attach
+                            - button "Attach" [ref=f3e95]
+                          - button "Dropbox" [ref=f3e97] [cursor=pointer]
+                          - generic [ref=f3e99]:
+                            - button "Enter manually" [ref=f3e100] [cursor=pointer]
+                            - generic [ref=f3e101]: Enter manually
+                          - paragraph [ref=f3e102]: "Accepted file types: pdf, doc, docx, txt, rtf"
+                    - generic [ref=f3e103]:
+                      - separator [ref=f3e104]
+                      - generic [ref=f3e107]:
+                        - generic [ref=f3e108]: LinkedIn Profile
+                        - textbox "LinkedIn Profile" [ref=f3e109]
+                      - generic [ref=f3e112]:
+                        - generic [ref=f3e113]: Github Profile
+                        - textbox "Github Profile" [ref=f3e114]
+                      - generic [ref=f3e117]:
+                        - generic [ref=f3e118]: "[Optional] Pronouns - how should we refer to you in the third person?"
+                        - generic [ref=f3e119]:
+                          - log [ref=f3e121]
+                          - generic [ref=f3e123]:
+                            - generic [ref=f3e124]:
+                              - generic [ref=f3e125]: Select...
+                              - combobox "[Optional] Pronouns - how should we refer to you in the third person?" [ref=f3e127]
+                            - button "Toggle flyout" [ref=f3e129] [cursor=pointer]:
+                              - img [ref=f3e130]
+                      - generic [ref=f3e134]:
+                        - generic [ref=f3e135]: "[Optional, if \"other\" is selected above] My pronouns are"
+                        - textbox "[Optional, if \"other\" is selected above] My pronouns are" [ref=f3e136]
+                      - generic [ref=f3e139]:
+                        - generic [ref=f3e140]: Do you now, or will you in the future, require immigration sponsorship for work authorization to work in this location?*
+                        - generic [ref=f3e141]:
+                          - log [ref=f3e143]
+                          - generic [ref=f3e145]:
+                            - generic [ref=f3e146]:
+                              - generic [ref=f3e147]: Select...
+                              - combobox "Do you now, or will you in the future, require immigration sponsorship for work authorization to work in this location?" [ref=f3e149]
+                            - button "Toggle flyout" [ref=f3e151] [cursor=pointer]:
+                              - img [ref=f3e152]
+                          - textbox
+                      - generic [ref=f3e156]:
+                        - generic [ref=f3e157]: Current Company *
+                        - textbox "Current Company" [ref=f3e158]
+                      - generic [ref=f3e161]:
+                        - generic [ref=f3e162]: Current Title *
+                        - textbox "Current Title" [ref=f3e163]
+                      - generic [ref=f3e166]:
+                        - generic [ref=f3e167]: Asana is seeking the below information for the exclusive and limited purpose of complying with U.S. export control laws given that the position for which you are applying may require access to technology subject to those laws. We will not use the information that you provide for any other purpose. Are you a citizen or legal permanent resident of Cuba, Iran, North Korea, Syria or Ukraine (Crimea region)?*
+                        - generic [ref=f3e168]:
+                          - log [ref=f3e170]
+                          - generic [ref=f3e172]:
+                            - generic [ref=f3e173]:
+                              - generic [ref=f3e174]: Select...
+                              - combobox "Asana is seeking the below information for the exclusive and limited purpose of complying with U.S. export control laws given that the position for which you are applying may require access to technology subject to those laws. We will not use the information that you provide for any other purpose. Are you a citizen or legal permanent resident of Cuba, Iran, North Korea, Syria or Ukraine (Crimea region)?" [ref=f3e176]
+                            - button "Toggle flyout" [ref=f3e178] [cursor=pointer]:
+                              - img [ref=f3e179]
+                          - textbox
+                      - generic [ref=f3e183]:
+                        - generic [ref=f3e184]: "[Optional] Preferred Full Name (The name that you would like to be referred to as. Please input your legal name in the first and last name fields above.)"
+                        - textbox "[Optional] Preferred Full Name (The name that you would like to be referred to as. Please input your legal name in the first and last name fields above.)" [ref=f3e185]
+                      - generic [ref=f3e188]:
+                        - generic [ref=f3e189]: Have you been employed, or otherwise engaged, by an Asana entity in the past? (Previous independent contractors, select "Yes.")*
+                        - generic [ref=f3e190]:
+                          - log [ref=f3e192]
+                          - generic [ref=f3e194]:
+                            - generic [ref=f3e195]:
+                              - generic [ref=f3e196]: Select...
+                              - combobox "Have you been employed, or otherwise engaged, by an Asana entity in the past? (Previous independent contractors, select \"Yes.\")" [ref=f3e198]
+                            - button "Toggle flyout" [ref=f3e200] [cursor=pointer]:
+                              - img [ref=f3e201]
+                          - textbox
+                      - generic [ref=f3e205]:
+                        - generic [ref=f3e206]: Do you currently work for or have you ever worked for a U.S. government entity, either as a contractor or employee?*
+                        - generic [ref=f3e207]:
+                          - log [ref=f3e209]
+                          - generic [ref=f3e211]:
+                            - generic [ref=f3e212]:
+                              - generic [ref=f3e213]: Select...
+                              - combobox "Do you currently work for or have you ever worked for a U.S. government entity, either as a contractor or employee?" [ref=f3e215]
+                            - button "Toggle flyout" [ref=f3e217] [cursor=pointer]:
+                              - img [ref=f3e218]
+                          - textbox
+                      - generic [ref=f3e222]:
+                        - generic [ref=f3e223]: If you answered “Yes,” please list the U.S. government entity you worked for. If not applicable, type 'N/A.' *
+                        - textbox "If you answered “Yes,” please list the U.S. government entity you worked for. If not applicable, type 'N/A.'" [ref=f3e224]
+                      - generic [ref=f3e227]:
+                        - generic [ref=f3e228]: Personal Website
+                        - textbox "Personal Website" [ref=f3e229]
+                    - separator [ref=f3e230]
+                    - generic [ref=f3e231]:
+                      - heading "Voluntary Demographics Form" [level=3] [ref=f3e232]
+                      - generic [ref=f3e234]:
+                        - paragraph [ref=f3e235]: Asana endeavors to provide a hiring and working experience in which all people feel they are respected and valued.
+                        - paragraph [ref=f3e236]: We invite candidates to self-identify and use this information to review our processes to ensure that they are fair, transparent, and do not have an adverse impact on any particular group.
+                        - paragraph [ref=f3e237]:
+                          - text: Completing this form is completely voluntary and optional. If you choose to self-identify, it will not be considered in the hiring process or thereafter. All information provided will be treated as strictly confidential and processed in accordance with our
+                          - link "Candidate Privacy Notice" [ref=f3e238] [cursor=pointer]:
+                            - /url: https://assets.asana.biz/m/7b98ac66e485a481/original/Asana-Global-Candidate-Privacy-Notice-December-18-2023-English-docx.pdf
+                          - text: .
+                        - paragraph [ref=f3e239]: The information will be anonymised and aggregated for statistical purposes only, with access restricted to a limited group of staff involved in processing and monitoring the data. It will not be seen by persons involved in any selection processes. No information will be published or used in any way that allows individuals to be identified.
+                        - paragraph [ref=f3e240]:
+                          - text: We recognise that some people may not wish to share this information and have therefore included the option of ‘I do not wish to disclose’. You may also withdraw your consent at any time and exercise your applicable rights at
+                          - link "this link" [ref=f3e241] [cursor=pointer]:
+                            - /url: https://form.asana.com/?k=jNqCk3ReLrrjJ5XTaKx1EA&d=15793206719
+                          - text: (please select “Exercise a different right”).
+                        - paragraph [ref=f3e242]: You do not have to complete the form but it will help us improve our mission of fostering a work environment where everyone can thrive.
+                      - generic [ref=f3e244]:
+                        - generic [ref=f3e245]: Gender Identity Options*
+                        - generic [ref=f3e246]:
+                          - log [ref=f3e248]
+                          - generic [ref=f3e250]:
+                            - generic [ref=f3e251]:
+                              - generic [ref=f3e252]: Select...
+                              - combobox "Gender Identity Options" [ref=f3e254]
+                            - button "Toggle flyout" [ref=f3e256] [cursor=pointer]:
+                              - img [ref=f3e257]
+                          - textbox
+                    - separator [ref=f3e259]
+                    - generic [ref=f3e261]:
+                      - checkbox "By checking this box, I consent to Asana collecting, storing, and processing my responses to the demographic data surveys above.*" [ref=f3e263]
+                      - generic [ref=f3e264]: By checking this box, I consent to Asana collecting, storing, and processing my responses to the demographic data surveys above.*
+                    - button "Submit application" [ref=f3e266] [cursor=pointer]
+            - iframe [ref=f3e269]:
+              - generic [ref=f7e6]:
+                - text: protected by
+                - strong [ref=f7e7]: reCAPTCHA
+        - paragraph [ref=e144]:
+          - text: By clicking "Submit Application," you acknowledge and agree to
+          - link "Asana's Global Job Applicant Privacy Notice" [ref=e145] [cursor=pointer]:
+            - /url: https://assets.asana.biz/m/7b98ac66e485a481/original/Asana-Global-Candidate-Privacy-Notice-December-18-2023-English-docx.pdf
+          - text: .
+      - generic [ref=e146]:
+        - img "Fortune Best Workplaces in Technology 2024" [ref=e148]
+        - heading "Why Asana?" [level=5] [ref=e149]
+        - generic [ref=e150]:
+          - paragraph [ref=e151]: Asana is a leading work management platform for human + AI collaboration. Over 170,000 customers like Accenture, Amazon, Anthropic, and Suzuki rely on Asana to align teams and accelerate organizational impact. Whether it’s managing strategic initiatives, cross-functional programs, or company-wide goals, Asana helps organizations bring clarity to complexity—turning plans into action with AI working alongside teams every step of the way. We believe investing in our culture and our employees is what fuels our individual and collective growth, allowing us to achieve our mission. Asana is an equal opportunity employer, and building a diverse, equitable, and inclusive company is core to our mission. Join us to make a big impact—on our mission, our customers’ missions, and your career.
+          - paragraph [ref=e152]:
+            - text: Can’t find the right role at Asana today?
+            - link "Join Asana’s Talent Network" [ref=e153] [cursor=pointer]:
+              - /url: https://www.gem.com/form?formID=fbcdec8c-3442-43b9-9b45-d2b5f4ea25db
+            - text: to stay up to date on job openings.
+    - contentinfo [ref=e155]:
+      - generic [ref=e158]:
+        - link "Asana Home" [ref=e160] [cursor=pointer]:
+          - /url: /?noredirect
+          - generic [ref=e161]: Asana Home
+          - img [ref=e162]
+        - list [ref=e164]:
+          - listitem [ref=e165]: New to Asana?
+          - listitem [ref=e166]:
+            - link "Product overview" [ref=e167] [cursor=pointer]:
+              - /url: /product
+          - listitem [ref=e168]:
+            - link "All features" [ref=e169] [cursor=pointer]:
+              - /url: /features
+          - listitem [ref=e170]:
+            - link "Latest feature release" [ref=e171] [cursor=pointer]:
+              - /url: /whats-new
+          - listitem [ref=e172]:
+            - link "Pricing" [ref=e173] [cursor=pointer]:
+              - /url: /pricing
+          - listitem [ref=e174]:
+            - link "Starter plan" [ref=e175] [cursor=pointer]:
+              - /url: /plan/starter
+          - listitem [ref=e176]:
+            - link "Advanced plan" [ref=e177] [cursor=pointer]:
+              - /url: /plan/advanced
+          - listitem [ref=e178]:
+            - link "Enterprise" [ref=e179] [cursor=pointer]:
+              - /url: /enterprise
+          - listitem [ref=e180]:
+            - link "App integrations" [ref=e181] [cursor=pointer]:
+              - /url: /apps
+          - listitem [ref=e182]:
+            - link "AI work management" [ref=e183] [cursor=pointer]:
+              - /url: /product/ai
+          - listitem [ref=e184]:
+            - link "Project management" [ref=e185] [cursor=pointer]:
+              - /url: /resources/benefits-project-management
+          - listitem [ref=e186]:
+            - link "Resource management" [ref=e187] [cursor=pointer]:
+              - /url: /resources/resource-management-plan
+        - list [ref=e188]:
+          - listitem [ref=e189]: Use cases
+          - listitem [ref=e190]:
+            - link "Campaign management" [ref=e191] [cursor=pointer]:
+              - /url: /uses/campaign-management
+          - listitem [ref=e192]:
+            - link "Content calendar" [ref=e193] [cursor=pointer]:
+              - /url: /uses/content-calendar
+          - listitem [ref=e194]:
+            - link "Creative production" [ref=e195] [cursor=pointer]:
+              - /url: /uses/creative-production
+          - listitem [ref=e196]:
+            - link "Goal management" [ref=e197] [cursor=pointer]:
+              - /url: /uses/goal-management
+          - listitem [ref=e198]:
+            - link "New hire onboarding" [ref=e199] [cursor=pointer]:
+              - /url: /uses/employee-onboarding
+          - listitem [ref=e200]:
+            - link "Organizational planning" [ref=e201] [cursor=pointer]:
+              - /url: /uses/organizational-planning
+          - listitem [ref=e202]:
+            - link "Product launches" [ref=e203] [cursor=pointer]:
+              - /url: /uses/product-launch
+          - listitem [ref=e204]:
+            - link "Resource planning" [ref=e205] [cursor=pointer]:
+              - /url: /uses/resource-planning
+          - listitem [ref=e206]:
+            - link "Strategic planning" [ref=e207] [cursor=pointer]:
+              - /url: /uses/marketing-strategic-planning
+          - listitem [ref=e208]:
+            - link "Project intake" [ref=e209] [cursor=pointer]:
+              - /url: /uses/project-intake
+          - listitem [ref=e210]:
+            - link "Task Management" [ref=e211] [cursor=pointer]:
+              - /url: /uses/task-management
+          - listitem [ref=e212]:
+            - link "All use cases" [ref=e213] [cursor=pointer]:
+              - /url: /uses
+        - list [ref=e214]:
+          - listitem [ref=e215]: Solutions
+          - listitem [ref=e216]:
+            - link "Small business" [ref=e217] [cursor=pointer]:
+              - /url: /small-business
+          - listitem [ref=e218]:
+            - link "Marketing" [ref=e219] [cursor=pointer]:
+              - /url: /teams/marketing
+          - listitem [ref=e220]:
+            - link "Operations" [ref=e221] [cursor=pointer]:
+              - /url: /teams/operations
+          - listitem [ref=e222]:
+            - link "IT" [ref=e223] [cursor=pointer]:
+              - /url: /teams/it
+          - listitem [ref=e224]:
+            - link "Product" [ref=e225] [cursor=pointer]:
+              - /url: /teams/product-managers
+          - listitem [ref=e226]:
+            - link "Sales" [ref=e227] [cursor=pointer]:
+              - /url: /teams/sales
+          - listitem [ref=e228]:
+            - link "Healthcare" [ref=e229] [cursor=pointer]:
+              - /url: /industry/healthcare
+          - listitem [ref=e230]:
+            - link "Retail" [ref=e231] [cursor=pointer]:
+              - /url: /industry/retail
+          - listitem [ref=e232]:
+            - link "Government" [ref=e233] [cursor=pointer]:
+              - /url: /industry/government-solutions
+          - listitem [ref=e234]:
+            - link "Education" [ref=e235] [cursor=pointer]:
+              - /url: /education
+          - listitem [ref=e236]:
+            - link "Manufacturing" [ref=e237] [cursor=pointer]:
+              - /url: /industry/manufacturing
+          - listitem [ref=e238]:
+            - link "Nonprofits" [ref=e239] [cursor=pointer]:
+              - /url: /industry/nonprofit
+          - listitem [ref=e240]:
+            - link "Startups" [ref=e241] [cursor=pointer]:
+              - /url: /startups
+          - listitem [ref=e242]:
+            - link "Agencies" [ref=e243] [cursor=pointer]:
+              - /url: /agencies
+          - listitem [ref=e244]:
+            - link "All teams" [ref=e245] [cursor=pointer]:
+              - /url: /teams
+        - list [ref=e246]:
+          - listitem [ref=e247]: Resources
+          - listitem [ref=e248]:
+            - link "Help Center" [ref=e249] [cursor=pointer]:
+              - /url: https://help.asana.com/s/
+          - listitem [ref=e250]:
+            - link "Get support" [ref=e251] [cursor=pointer]:
+              - /url: https://help.asana.com/s/#chat
+          - listitem [ref=e252]:
+            - link "Asana Academy" [ref=e253] [cursor=pointer]:
+              - /url: https://academy.asana.com/
+          - listitem [ref=e254]:
+            - link "Certifications" [ref=e255] [cursor=pointer]:
+              - /url: http://asana.com/certifications
+          - listitem [ref=e256]:
+            - link "Forum" [ref=e257] [cursor=pointer]:
+              - /url: https://forum.asana.com/
+          - listitem [ref=e258]:
+            - link "Resource center" [ref=e259] [cursor=pointer]:
+              - /url: /resources/category/all
+          - listitem [ref=e260]:
+            - link "Events and webinars" [ref=e261] [cursor=pointer]:
+              - /url: https://asana.com/events
+          - listitem [ref=e262]:
+            - link "Project templates" [ref=e263] [cursor=pointer]:
+              - /url: /templates
+          - listitem [ref=e264]:
+            - link "Customer Success" [ref=e265] [cursor=pointer]:
+              - /url: /customer-success
+          - listitem [ref=e266]:
+            - link "Developers and API" [ref=e267] [cursor=pointer]:
+              - /url: https://developers.asana.com/docs/
+          - listitem [ref=e268]:
+            - link "Partners" [ref=e269] [cursor=pointer]:
+              - /url: /partners
+          - listitem [ref=e270]:
+            - link "Sitemap" [ref=e271] [cursor=pointer]:
+              - /url: /site-map
+        - list [ref=e272]:
+          - listitem [ref=e273]: Company
+          - listitem [ref=e274]:
+            - link "About us" [ref=e275] [cursor=pointer]:
+              - /url: /company
+          - listitem [ref=e276]:
+            - link "Leadership" [ref=e277] [cursor=pointer]:
+              - /url: /leadership
+          - listitem [ref=e278]:
+            - link "Customers" [ref=e279] [cursor=pointer]:
+              - /url: /customers
+          - listitem [ref=e280]:
+            - link "Careers" [ref=e281] [cursor=pointer]:
+              - /url: /jobs
+          - listitem [ref=e282]:
+            - link "Inside Asana" [ref=e283] [cursor=pointer]:
+              - /url: /inside-asana
+          - listitem [ref=e284]:
+            - link "Culture" [ref=e285] [cursor=pointer]:
+              - /url: /culture-and-belonging
+          - listitem [ref=e286]:
+            - link "Press" [ref=e287] [cursor=pointer]:
+              - /url: /press
+          - listitem [ref=e288]:
+            - link "Investor relations" [ref=e289] [cursor=pointer]:
+              - /url: https://investors.asana.com/
+          - listitem [ref=e290]:
+            - link "Trust and security" [ref=e291] [cursor=pointer]:
+              - /url: /trust
+          - listitem [ref=e292]:
+            - link "Privacy" [ref=e293] [cursor=pointer]:
+              - /url: /privacy
+          - listitem [ref=e294]:
+            - link "Supplier responsibility" [ref=e295] [cursor=pointer]:
+              - /url: /terms/modern-slavery-statement
+          - listitem [ref=e296]:
+            - link "Sustainability and ESG" [ref=e297] [cursor=pointer]:
+              - /url: /esg/
+      - generic [ref=e301]:
+        - generic [ref=e302]: © 2026 Asana, Inc.
+        - generic [ref=e304]:
+          - img [ref=e306]:
+            - img [ref=e307]
+          - link "English" [ref=e310] [cursor=pointer]:
+            - /url: "#i18n"
+        - generic [ref=e311]:
+          - link "X" [ref=e312] [cursor=pointer]:
+            - /url: https://x.com/intent/follow?screen_name=asana
+            - img "X" [ref=e313]
+          - link "Linkedin" [ref=e315] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/asana
+            - img "Linkedin" [ref=e316]
+          - link "Instagram" [ref=e318] [cursor=pointer]:
+            - /url: https://www.instagram.com/asana/
+            - img "Instagram" [ref=e319]
+          - link "Facebook" [ref=e321] [cursor=pointer]:
+            - /url: https://www.facebook.com/asana
+            - img "Facebook" [ref=e322]
+          - link "Youtube" [ref=e324] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UC2BoogM0AqwOJyoSp1S4ClQ
+            - img "Youtube" [ref=e325]
+        - generic [ref=e328]:
+          - generic [ref=e329]:
+            - link "Terms" [ref=e330] [cursor=pointer]:
+              - /url: /terms
+            - generic: Terms
+          - generic [ref=e331]: "&"
+          - generic [ref=e332]:
+            - link "Privacy" [ref=e333] [cursor=pointer]:
+              - /url: /terms/privacy-statement
+            - generic: Privacy
+        - button "Your CA Privacy Choices" [ref=e335] [cursor=pointer]
+        - generic [ref=e336]:
+          - generic [ref=e337]:
+            - link "Download the Asana iOS app" [ref=e338] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/asana-mobile/id489969512?mt=8
+              - generic [ref=e339]:
+                - img [ref=e341]
+                - img "Download the Asana iOS app" [ref=e342]
+            - generic: Download the Asana iOS app
+          - generic [ref=e343]:
+            - link "Download the Asana Android app" [ref=e344] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.asana.app&referrer=gh_jid=7979625&utm_source=Simplify&ref=Simplify
+              - generic [ref=e345]:
+                - img [ref=e347]
+                - img "Download app from Google Play" [ref=e348]
+            - generic: Download the Asana Android app
+  - alert [ref=e349]

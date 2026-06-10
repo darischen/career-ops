@@ -1,0 +1,102 @@
+- generic [active] [ref=e1]:
+  - dialog "cookieconsent" [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: 🍪
+      - heading "Privacy Notice" [level=4] [ref=e6]
+      - paragraph [ref=e7]: This website uses cookies to improve your web experience. By using the site, you agree to the use of cookies.
+      - button "Dismiss" [ref=e9] [cursor=pointer]
+  - link "Kitware logo" [ref=e12] [cursor=pointer]:
+    - /url: https://jobs.lever.co/kitware
+    - img "Kitware logo" [ref=e13]
+  - generic [ref=e15]:
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - heading "Software Engineer" [level=2] [ref=e19]
+        - generic [ref=e20]:
+          - generic [ref=e21]: Clifton Park, New York
+          - generic [ref=e22]: Technical – Software and Data Solutions /
+          - generic [ref=e23]: Full Time /
+          - generic [ref=e24]: On-site
+      - link "apply for this job" [ref=e26] [cursor=pointer]:
+        - /url: https://jobs.lever.co/kitware/3bf971c6-93d9-4ba3-8946-54fc7741c2b0/apply
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - strong [ref=e30]: "Team Description:"
+        - generic [ref=e31]:
+          - link "Kitware" [ref=e32] [cursor=pointer]:
+            - /url: http://kitware.com
+          - text: is seeking a Software Engineer to join the
+          - link "Software and Data Solutions team" [ref=e33] [cursor=pointer]:
+            - /url: https://www.kitware.com/teams/software-data-solutions/
+          - text: . This position offers an opportunity to help Kitware’s customers build meaningful software that will stand the test of time. Through this position, you will work alongside our talented software developers, algorithm experts, external collaborators, and customers.
+        - strong [ref=e35]: "About the Projects:"
+        - generic [ref=e36]: We are looking for talented individuals who will support the software application needs of our customers and internal teams.
+      - generic [ref=e38]:
+        - heading "In This Position You Will:" [level=3] [ref=e39]
+        - list [ref=e42]:
+          - listitem [ref=e43]: Develop and support a broad range of build tools and infrastructure for large-scale C++/Python product life cycles
+      - generic [ref=e45]:
+        - heading "Required Qualifications:" [level=3] [ref=e46]
+        - list [ref=e50]:
+          - listitem [ref=e51]:
+            - paragraph [ref=e52]: Bachelor's degree in Computer Science, Electrical and Computer Engineering, or related field
+          - listitem [ref=e53]:
+            - paragraph [ref=e54]: Experience in the Linux command line interface (CLI) environment
+          - listitem [ref=e55]:
+            - paragraph [ref=e56]: Experience supporting CMake-based Software Development Life Cycle (SDLC) systems
+          - listitem [ref=e57]:
+            - paragraph [ref=e58]: Proficiency in developing Python and C++ code and applications
+          - listitem [ref=e59]:
+            - paragraph [ref=e60]: Ability to thrive in an agile work environment with minimal supervision
+          - listitem [ref=e61]:
+            - paragraph [ref=e62]: Ability to develop software for Unix, Linux, MacOS, and/or Windows operating systems
+          - listitem [ref=e63]:
+            - paragraph [ref=e64]: Strong communication skills
+          - listitem [ref=e65]:
+            - paragraph [ref=e66]: Due to contractual requirements, this position requires U.S. citizenship
+          - listitem [ref=e67]:
+            - paragraph [ref=e68]: Full-time on-site work at Kitware’s office in Clifton Park, NY
+      - generic [ref=e70]:
+        - heading "Preferred Qualifications:" [level=3] [ref=e71]
+        - list [ref=e74]:
+          - listitem [ref=e75]:
+            - paragraph [ref=e76]: Familiarity with one or more AI code-assistant tools (e.g., Github Copilot, Cursor, Claude Code)
+          - listitem [ref=e77]:
+            - paragraph [ref=e78]: Familiarity with one or more Continuous Integration/Continuous Delivery (CI/CD) platforms (e.g., Jenkins, Github Actions, Azure DevOps)
+          - listitem [ref=e79]:
+            - paragraph [ref=e80]: Experience using Github or Gitlab for code reviews, documentation, and release management
+          - listitem [ref=e81]:
+            - paragraph [ref=e82]: Interest and experience in open source software development
+      - generic [ref=e84]: $75,000 - $95,000 a year
+      - generic [ref=e85]:
+        - strong [ref=e87]: "Company Description:"
+        - generic [ref=e88]:
+          - link "Kitware" [ref=e89] [cursor=pointer]:
+            - /url: https://www.kitware.com/
+          - text: is a research and development software solutions provider with a mission to advance science, make a positive impact, and share our results all within a collaborative, employee-focused work environment that is friendly, fair, and flexible. Our work is improving healthcare outcomes, increasing national security, and advancing our national computing infrastructure. Our customers and collaborators include top universities from around the world, government organizations, national research labs, medical device manufacturers, car manufacturers, financial institutions, and many others.
+        - generic [ref=e91]: Kitware is proud to be 100% employee-owned, and Great Place to Work-Certified™.
+        - strong [ref=e94]: "Additional Information:"
+        - generic [ref=e95]: Our team members enjoy a small company environment, flexibility in work assignments, and high levels of independence and responsibility. Besides a great work environment, our comprehensive benefits package includes a competitive compensation plan, tuition reimbursement program, flexible working hours, six weeks paid time off, 401(k), health insurance, life insurance, short- and long-term disability insurance, bonus plan, and free coffee, drinks, and snacks.
+        - generic [ref=e97]:
+          - text: "For more information on our benefit offerings please visit:"
+          - link "https://www.kitware.com/careers/" [ref=e98] [cursor=pointer]:
+            - /url: https://www.kitware.com/careers/
+          - text: .
+        - generic [ref=e100]: Kitware actively subscribes to a policy of equal employment opportunity. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, age, protected veteran status, uniformed service member status, or any other characteristics protected by applicable law.
+        - generic [ref=e102]: Any unsolicited resume sent to Kitware, including to Kitware's mailing addresses, fax machines or email addresses, whether directly to Kitware employees or to Kitware's applicant tracking system, will be considered Kitware property. Kitware will not pay a fee for any placement resulting from the receipt of an unsolicited resume, and will consider any candidate submitted by a recruitment agency without a fully executed contract with Kitware to have been referred free of any charges or fees.
+        - generic [ref=e104]:
+          - text: If you need assistance with applying or interviewing for a role due to a disability or special need, please reach out directly to our HR team at
+          - link "hr@kitware.com" [ref=e105] [cursor=pointer]:
+            - /url: mailto:hr@kitware.com
+          - text: at any time during the hiring process.
+      - generic [ref=e107]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e109] [cursor=pointer]:
+        - /url: https://jobs.lever.co/kitware/3bf971c6-93d9-4ba3-8946-54fc7741c2b0/apply
+  - generic [ref=e111]:
+    - paragraph [ref=e112]:
+      - link "Kitware Home Page" [ref=e113] [cursor=pointer]:
+        - /url: https://www.kitware.com/careers/
+    - link "Jobs powered by Lever logo" [ref=e114] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e115]: Jobs powered by
+      - img "Lever logo" [ref=e116]

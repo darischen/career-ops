@@ -1,0 +1,401 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - heading "Current openings at Vercel" [level=1] [ref=e4]
+      - generic [ref=e6]:
+        - img [ref=e7]
+        - generic [ref=e9]:
+          - paragraph [ref=e10]: Create a Job Alert
+          - paragraph [ref=e11]: Level-up your career by having opportunities at Vercel sent directly to your inbox.
+          - button "Create alert" [ref=e12] [cursor=pointer]
+      - generic [ref=e13]:
+        - generic [ref=e16]:
+          - generic [ref=e17]: Search
+          - textbox "Search" [ref=e18]
+        - generic [ref=e19]:
+          - heading "79 jobs" [level=2] [ref=e20]
+          - generic [ref=e21]:
+            - generic [ref=e22]:
+              - heading "Account Executive" [level=3] [ref=e23]
+              - table [ref=e25]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e26]:
+                      - paragraph [ref=e27]: Job
+                - rowgroup [ref=e28]:
+                  - row "Account Executive, Majors New Remote - United States" [ref=e29]:
+                    - cell "Account Executive, Majors New Remote - United States" [ref=e30]:
+                      - link "Account Executive, Majors New Remote - United States" [ref=e31] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5999792004
+                        - paragraph [ref=e32]:
+                          - text: Account Executive, Majors
+                          - generic [ref=e34]: New
+                        - paragraph [ref=e35]: Remote - United States
+                  - row "Account Executive- Startups, Greenfield Hybrid - San Francisco, New York City, Austin" [ref=e36]:
+                    - cell "Account Executive- Startups, Greenfield Hybrid - San Francisco, New York City, Austin" [ref=e37]:
+                      - link "Account Executive- Startups, Greenfield Hybrid - San Francisco, New York City, Austin" [ref=e38] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5624231004
+                        - paragraph [ref=e39]: Account Executive- Startups, Greenfield
+                        - paragraph [ref=e40]: Hybrid - San Francisco, New York City, Austin
+                  - row "Account Executive-Startups, Greenfield (EMEA) Hybrid - London" [ref=e41]:
+                    - cell "Account Executive-Startups, Greenfield (EMEA) Hybrid - London" [ref=e42]:
+                      - link "Account Executive-Startups, Greenfield (EMEA) Hybrid - London" [ref=e43] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5752956004
+                        - paragraph [ref=e44]: Account Executive-Startups, Greenfield (EMEA)
+                        - paragraph [ref=e45]: Hybrid - London
+                  - row "Account Executive- Startups, Install Base Hybrid - San Francisco, New York City, Austin" [ref=e46]:
+                    - cell "Account Executive- Startups, Install Base Hybrid - San Francisco, New York City, Austin" [ref=e47]:
+                      - link "Account Executive- Startups, Install Base Hybrid - San Francisco, New York City, Austin" [ref=e48] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5789770004
+                        - paragraph [ref=e49]: Account Executive- Startups, Install Base
+                        - paragraph [ref=e50]: Hybrid - San Francisco, New York City, Austin
+                  - row "Enterprise Account Executive Hybrid - San Francisco, New York City, Austin" [ref=e51]:
+                    - cell "Enterprise Account Executive Hybrid - San Francisco, New York City, Austin" [ref=e52]:
+                      - link "Enterprise Account Executive Hybrid - San Francisco, New York City, Austin" [ref=e53] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5042174004
+                        - paragraph [ref=e54]: Enterprise Account Executive
+                        - paragraph [ref=e55]: Hybrid - San Francisco, New York City, Austin
+                  - row "Majors Account Executive, Berlin Hybrid - Berlin" [ref=e56]:
+                    - cell "Majors Account Executive, Berlin Hybrid - Berlin" [ref=e57]:
+                      - link "Majors Account Executive, Berlin Hybrid - Berlin" [ref=e58] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5848322004
+                        - paragraph [ref=e59]: Majors Account Executive, Berlin
+                        - paragraph [ref=e60]: Hybrid - Berlin
+                  - row "Strategic Account Executive Hybrid - San Francisco, New York City, Austin" [ref=e61]:
+                    - cell "Strategic Account Executive Hybrid - San Francisco, New York City, Austin" [ref=e62]:
+                      - link "Strategic Account Executive Hybrid - San Francisco, New York City, Austin" [ref=e63] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5800328004
+                        - paragraph [ref=e64]: Strategic Account Executive
+                        - paragraph [ref=e65]: Hybrid - San Francisco, New York City, Austin
+            - generic [ref=e66]:
+              - heading "Customer Success Engineering" [level=3] [ref=e67]
+              - table [ref=e69]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e70]:
+                      - paragraph [ref=e71]: Job
+                - rowgroup [ref=e72]:
+                  - row "Senior Customer Support Engineer Remote - United Kingdom, Germany" [ref=e73]:
+                    - cell "Senior Customer Support Engineer Remote - United Kingdom, Germany" [ref=e74]:
+                      - link "Senior Customer Support Engineer Remote - United Kingdom, Germany" [ref=e75] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5818258004
+                        - paragraph [ref=e76]: Senior Customer Support Engineer
+                        - paragraph [ref=e77]: Remote - United Kingdom, Germany
+                  - row "Senior Customer Support Engineer Remote - Australia" [ref=e78]:
+                    - cell "Senior Customer Support Engineer Remote - Australia" [ref=e79]:
+                      - link "Senior Customer Support Engineer Remote - Australia" [ref=e80] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5817808004
+                        - paragraph [ref=e81]: Senior Customer Support Engineer
+                        - paragraph [ref=e82]: Remote - Australia
+                  - row "Senior Customer Support Engineer Remote - Japan" [ref=e83]:
+                    - cell "Senior Customer Support Engineer Remote - Japan" [ref=e84]:
+                      - link "Senior Customer Support Engineer Remote - Japan" [ref=e85] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5858553004
+                        - paragraph [ref=e86]: Senior Customer Support Engineer
+                        - paragraph [ref=e87]: Remote - Japan
+            - generic [ref=e88]:
+              - heading "Customer Success Managers" [level=3] [ref=e89]
+              - table [ref=e91]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e92]:
+                      - paragraph [ref=e93]: Job
+                - rowgroup [ref=e94]:
+                  - row "Customer Success Manager Hybrid - San Francisco, New York City, Austin" [ref=e95]:
+                    - cell "Customer Success Manager Hybrid - San Francisco, New York City, Austin" [ref=e96]:
+                      - link "Customer Success Manager Hybrid - San Francisco, New York City, Austin" [ref=e97] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5968713004
+                        - paragraph [ref=e98]: Customer Success Manager
+                        - paragraph [ref=e99]: Hybrid - San Francisco, New York City, Austin
+                  - row "Customer Success Manager, EMEA Hybrid - London" [ref=e100]:
+                    - cell "Customer Success Manager, EMEA Hybrid - London" [ref=e101]:
+                      - link "Customer Success Manager, EMEA Hybrid - London" [ref=e102] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5968725004
+                        - paragraph [ref=e103]: Customer Success Manager, EMEA
+                        - paragraph [ref=e104]: Hybrid - London
+            - generic [ref=e105]:
+              - heading "Design" [level=3] [ref=e106]
+              - table [ref=e108]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e109]:
+                      - paragraph [ref=e110]: Job
+                - rowgroup [ref=e111]:
+                  - row "Design Engineer Remote - United States" [ref=e112]:
+                    - cell "Design Engineer Remote - United States" [ref=e113]:
+                      - link "Design Engineer Remote - United States" [ref=e114] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5709080004
+                        - paragraph [ref=e115]: Design Engineer
+                        - paragraph [ref=e116]: Remote - United States
+                  - row "Senior Product Designer Remote - United States" [ref=e117]:
+                    - cell "Senior Product Designer Remote - United States" [ref=e118]:
+                      - link "Senior Product Designer Remote - United States" [ref=e119] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5735407004
+                        - paragraph [ref=e120]: Senior Product Designer
+                        - paragraph [ref=e121]: Remote - United States
+                  - row "Site Engineer Remote - United States" [ref=e122]:
+                    - cell "Site Engineer Remote - United States" [ref=e123]:
+                      - link "Site Engineer Remote - United States" [ref=e124] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5732855004
+                        - paragraph [ref=e125]: Site Engineer
+                        - paragraph [ref=e126]: Remote - United States
+            - generic [ref=e127]:
+              - heading "Engineering" [level=3] [ref=e128]
+              - table [ref=e130]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e131]:
+                      - paragraph [ref=e132]: Job
+                - rowgroup [ref=e133]:
+                  - row "Engineering Manager, CDN Hybrid - San Francisco" [ref=e134]:
+                    - cell "Engineering Manager, CDN Hybrid - San Francisco" [ref=e135]:
+                      - link "Engineering Manager, CDN Hybrid - San Francisco" [ref=e136] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5701765004
+                        - paragraph [ref=e137]: Engineering Manager, CDN
+                        - paragraph [ref=e138]: Hybrid - San Francisco
+                  - row "Forward Deployed Engineer, v0 Remote - United States" [ref=e139]:
+                    - cell "Forward Deployed Engineer, v0 Remote - United States" [ref=e140]:
+                      - link "Forward Deployed Engineer, v0 Remote - United States" [ref=e141] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5872425004
+                        - paragraph [ref=e142]: Forward Deployed Engineer, v0
+                        - paragraph [ref=e143]: Remote - United States
+                  - row "Mobile Engineer Hybrid - New York City" [ref=e144]:
+                    - cell "Mobile Engineer Hybrid - New York City" [ref=e145]:
+                      - link "Mobile Engineer Hybrid - New York City" [ref=e146] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5719796004
+                        - paragraph [ref=e147]: Mobile Engineer
+                        - paragraph [ref=e148]: Hybrid - New York City
+                  - row "Senior Software Engineer, Trust & Safety Remote - United States" [ref=e149]:
+                    - cell "Senior Software Engineer, Trust & Safety Remote - United States" [ref=e150]:
+                      - link "Senior Software Engineer, Trust & Safety Remote - United States" [ref=e151] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5788954004
+                        - paragraph [ref=e152]: Senior Software Engineer, Trust & Safety
+                        - paragraph [ref=e153]: Remote - United States
+                  - row "Software Engineer, Agent Hybrid - San Francisco" [ref=e154]:
+                    - cell "Software Engineer, Agent Hybrid - San Francisco" [ref=e155]:
+                      - link "Software Engineer, Agent Hybrid - San Francisco" [ref=e156] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5704320004
+                        - paragraph [ref=e157]: Software Engineer, Agent
+                        - paragraph [ref=e158]: Hybrid - San Francisco
+                  - row "Software Engineer, AI Gateway Hybrid - San Francisco, New York City" [ref=e159]:
+                    - cell "Software Engineer, AI Gateway Hybrid - San Francisco, New York City" [ref=e160]:
+                      - link "Software Engineer, AI Gateway Hybrid - San Francisco, New York City" [ref=e161] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5798406004
+                        - paragraph [ref=e162]: Software Engineer, AI Gateway
+                        - paragraph [ref=e163]: Hybrid - San Francisco, New York City
+                  - row "Software Engineer, AI SDK Hybrid - San Francisco, New York City" [ref=e164]:
+                    - cell "Software Engineer, AI SDK Hybrid - San Francisco, New York City" [ref=e165]:
+                      - link "Software Engineer, AI SDK Hybrid - San Francisco, New York City" [ref=e166] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5474915004
+                        - paragraph [ref=e167]: Software Engineer, AI SDK
+                        - paragraph [ref=e168]: Hybrid - San Francisco, New York City
+                  - row "Software Engineer, Backend Remote - United States" [ref=e169]:
+                    - cell "Software Engineer, Backend Remote - United States" [ref=e170]:
+                      - link "Software Engineer, Backend Remote - United States" [ref=e171] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5430088004
+                        - paragraph [ref=e172]: Software Engineer, Backend
+                        - paragraph [ref=e173]: Remote - United States
+                  - row "Software Engineer, CDN Hybrid - San Francisco, New York City" [ref=e174]:
+                    - cell "Software Engineer, CDN Hybrid - San Francisco, New York City" [ref=e175]:
+                      - link "Software Engineer, CDN Hybrid - San Francisco, New York City" [ref=e176] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5179639004
+                        - paragraph [ref=e177]: Software Engineer, CDN
+                        - paragraph [ref=e178]: Hybrid - San Francisco, New York City
+                  - row "Software Engineer, CDN Security Remote - United States" [ref=e179]:
+                    - cell "Software Engineer, CDN Security Remote - United States" [ref=e180]:
+                      - link "Software Engineer, CDN Security Remote - United States" [ref=e181] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5473266004
+                        - paragraph [ref=e182]: Software Engineer, CDN Security
+                        - paragraph [ref=e183]: Remote - United States
+                  - row "Software Engineer, Compute Remote - United States" [ref=e184]:
+                    - cell "Software Engineer, Compute Remote - United States" [ref=e185]:
+                      - link "Software Engineer, Compute Remote - United States" [ref=e186] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5551619004
+                        - paragraph [ref=e187]: Software Engineer, Compute
+                        - paragraph [ref=e188]: Remote - United States
+                  - row "Software Engineer, Dashboard Hybrid - San Francisco, New York City" [ref=e189]:
+                    - cell "Software Engineer, Dashboard Hybrid - San Francisco, New York City" [ref=e190]:
+                      - link "Software Engineer, Dashboard Hybrid - San Francisco, New York City" [ref=e191] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5808568004
+                        - paragraph [ref=e192]: Software Engineer, Dashboard
+                        - paragraph [ref=e193]: Hybrid - San Francisco, New York City
+                  - row "Software Engineer, Deployment Infrastructure Hybrid - San Francisco, New York City" [ref=e194]:
+                    - cell "Software Engineer, Deployment Infrastructure Hybrid - San Francisco, New York City" [ref=e195]:
+                      - link "Software Engineer, Deployment Infrastructure Hybrid - San Francisco, New York City" [ref=e196] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5633880004
+                        - paragraph [ref=e197]: Software Engineer, Deployment Infrastructure
+                        - paragraph [ref=e198]: Hybrid - San Francisco, New York City
+                  - row "Software Engineer, Growth Hybrid - San Francisco, New York City" [ref=e199]:
+                    - cell "Software Engineer, Growth Hybrid - San Francisco, New York City" [ref=e200]:
+                      - link "Software Engineer, Growth Hybrid - San Francisco, New York City" [ref=e201] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5613601004
+                        - paragraph [ref=e202]: Software Engineer, Growth
+                        - paragraph [ref=e203]: Hybrid - San Francisco, New York City
+                  - row "Software Engineer, Lua Remote - United States" [ref=e204]:
+                    - cell "Software Engineer, Lua Remote - United States" [ref=e205]:
+                      - link "Software Engineer, Lua Remote - United States" [ref=e206] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5661583004
+                        - paragraph [ref=e207]: Software Engineer, Lua
+                        - paragraph [ref=e208]: Remote - United States
+                  - row "Software Engineer, Next.js Hybrid - San Francisco" [ref=e209]:
+                    - cell "Software Engineer, Next.js Hybrid - San Francisco" [ref=e210]:
+                      - link "Software Engineer, Next.js Hybrid - San Francisco" [ref=e211] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5993753004
+                        - paragraph [ref=e212]: Software Engineer, Next.js
+                        - paragraph [ref=e213]: Hybrid - San Francisco
+                  - row "Software Engineer, Workflows Hybrid - San Francisco, New York City" [ref=e214]:
+                    - cell "Software Engineer, Workflows Hybrid - San Francisco, New York City" [ref=e215]:
+                      - link "Software Engineer, Workflows Hybrid - San Francisco, New York City" [ref=e216] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5798416004
+                        - paragraph [ref=e217]: Software Engineer, Workflows
+                        - paragraph [ref=e218]: Hybrid - San Francisco, New York City
+                  - row "Sr. Engineering Manager, Platform Hybrid - San Francisco, New York City" [ref=e219]:
+                    - cell "Sr. Engineering Manager, Platform Hybrid - San Francisco, New York City" [ref=e220]:
+                      - link "Sr. Engineering Manager, Platform Hybrid - San Francisco, New York City" [ref=e221] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5461002004
+                        - paragraph [ref=e222]: Sr. Engineering Manager, Platform
+                        - paragraph [ref=e223]: Hybrid - San Francisco, New York City
+            - generic [ref=e224]:
+              - heading "Field Engineering" [level=3] [ref=e225]
+              - table [ref=e227]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e228]:
+                      - paragraph [ref=e229]: Job
+                - rowgroup [ref=e230]:
+                  - row "Developer Success Engineer Hybrid - San Francisco" [ref=e231]:
+                    - cell "Developer Success Engineer Hybrid - San Francisco" [ref=e232]:
+                      - link "Developer Success Engineer Hybrid - San Francisco" [ref=e233] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5989803004
+                        - paragraph [ref=e234]: Developer Success Engineer
+                        - paragraph [ref=e235]: Hybrid - San Francisco
+                  - row "Developer Success Engineer Remote - United Kingdom, Germany" [ref=e236]:
+                    - cell "Developer Success Engineer Remote - United Kingdom, Germany" [ref=e237]:
+                      - link "Developer Success Engineer Remote - United Kingdom, Germany" [ref=e238] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5530586004
+                        - paragraph [ref=e239]: Developer Success Engineer
+                        - paragraph [ref=e240]: Remote - United Kingdom, Germany
+                  - row "GTM Engineer Hybrid - San Francisco, New York City, Austin" [ref=e241]:
+                    - cell "GTM Engineer Hybrid - San Francisco, New York City, Austin" [ref=e242]:
+                      - link "GTM Engineer Hybrid - San Francisco, New York City, Austin" [ref=e243] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5777645004
+                        - paragraph [ref=e244]: GTM Engineer
+                        - paragraph [ref=e245]: Hybrid - San Francisco, New York City, Austin
+                  - row "Manager, Solutions Architecture Hybrid - San Francisco, New York City, Austin" [ref=e246]:
+                    - cell "Manager, Solutions Architecture Hybrid - San Francisco, New York City, Austin" [ref=e247]:
+                      - link "Manager, Solutions Architecture Hybrid - San Francisco, New York City, Austin" [ref=e248] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5806456004
+                        - paragraph [ref=e249]: Manager, Solutions Architecture
+                        - paragraph [ref=e250]: Hybrid - San Francisco, New York City, Austin
+                  - row "Solutions Architect Remote - United Kingdom, Germany" [ref=e251]:
+                    - cell "Solutions Architect Remote - United Kingdom, Germany" [ref=e252]:
+                      - link "Solutions Architect Remote - United Kingdom, Germany" [ref=e253] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5796302004
+                        - paragraph [ref=e254]: Solutions Architect
+                        - paragraph [ref=e255]: Remote - United Kingdom, Germany
+                  - row "Solutions Architect Remote - Australia" [ref=e256]:
+                    - cell "Solutions Architect Remote - Australia" [ref=e257]:
+                      - link "Solutions Architect Remote - Australia" [ref=e258] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5804110004
+                        - paragraph [ref=e259]: Solutions Architect
+                        - paragraph [ref=e260]: Remote - Australia
+                  - row "Solutions Architect Hybrid - San Francisco, New York City, Austin" [ref=e261]:
+                    - cell "Solutions Architect Hybrid - San Francisco, New York City, Austin" [ref=e262]:
+                      - link "Solutions Architect Hybrid - San Francisco, New York City, Austin" [ref=e263] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5806749004
+                        - paragraph [ref=e264]: Solutions Architect
+                        - paragraph [ref=e265]: Hybrid - San Francisco, New York City, Austin
+            - generic [ref=e266]:
+              - heading "Finance" [level=3] [ref=e267]
+              - table [ref=e269]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e270]:
+                      - paragraph [ref=e271]: Job
+                - rowgroup [ref=e272]:
+                  - row "Commercial Counsel, EMEA Hybrid - London" [ref=e273]:
+                    - cell "Commercial Counsel, EMEA Hybrid - London" [ref=e274]:
+                      - link "Commercial Counsel, EMEA Hybrid - London" [ref=e275] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5846178004
+                        - paragraph [ref=e276]: Commercial Counsel, EMEA
+                        - paragraph [ref=e277]: Hybrid - London
+                  - row "FP&A Manager, R&D & G&A Hybrid - San Francisco" [ref=e278]:
+                    - cell "FP&A Manager, R&D & G&A Hybrid - San Francisco" [ref=e279]:
+                      - link "FP&A Manager, R&D & G&A Hybrid - San Francisco" [ref=e280] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5833515004
+                        - paragraph [ref=e281]: FP&A Manager, R&D & G&A
+                        - paragraph [ref=e282]: Hybrid - San Francisco
+                  - row "Revenue Manager New Hybrid - San Francisco" [ref=e283]:
+                    - cell "Revenue Manager New Hybrid - San Francisco" [ref=e284]:
+                      - link "Revenue Manager New Hybrid - San Francisco" [ref=e285] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/6004679004
+                        - paragraph [ref=e286]:
+                          - text: Revenue Manager
+                          - generic [ref=e288]: New
+                        - paragraph [ref=e289]: Hybrid - San Francisco
+                  - row "Senior Legal Counsel, Corporate Hybrid - San Francisco, New York City" [ref=e290]:
+                    - cell "Senior Legal Counsel, Corporate Hybrid - San Francisco, New York City" [ref=e291]:
+                      - link "Senior Legal Counsel, Corporate Hybrid - San Francisco, New York City" [ref=e292] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5843910004
+                        - paragraph [ref=e293]: Senior Legal Counsel, Corporate
+                        - paragraph [ref=e294]: Hybrid - San Francisco, New York City
+                  - row "Senior Legal Counsel, Product Hybrid - San Francisco" [ref=e295]:
+                    - cell "Senior Legal Counsel, Product Hybrid - San Francisco" [ref=e296]:
+                      - link "Senior Legal Counsel, Product Hybrid - San Francisco" [ref=e297] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5691965004
+                        - paragraph [ref=e298]: Senior Legal Counsel, Product
+                        - paragraph [ref=e299]: Hybrid - San Francisco
+                  - row "Senior Manager, Corporate Accounting Hybrid - San Francisco" [ref=e300]:
+                    - cell "Senior Manager, Corporate Accounting Hybrid - San Francisco" [ref=e301]:
+                      - link "Senior Manager, Corporate Accounting Hybrid - San Francisco" [ref=e302] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5810285004
+                        - paragraph [ref=e303]: Senior Manager, Corporate Accounting
+                        - paragraph [ref=e304]: Hybrid - San Francisco
+                  - row "Staff Accountant Hybrid - San Francisco" [ref=e305]:
+                    - cell "Staff Accountant Hybrid - San Francisco" [ref=e306]:
+                      - link "Staff Accountant Hybrid - San Francisco" [ref=e307] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5972966004
+                        - paragraph [ref=e308]: Staff Accountant
+                        - paragraph [ref=e309]: Hybrid - San Francisco
+            - generic [ref=e310]:
+              - heading "Marketing" [level=3] [ref=e311]
+              - table [ref=e313]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e314]:
+                      - paragraph [ref=e315]: Job
+                - rowgroup [ref=e316]:
+                  - row "Corporate Events Manager Hybrid - San Francisco, New York City" [ref=e317]:
+                    - cell "Corporate Events Manager Hybrid - San Francisco, New York City" [ref=e318]:
+                      - link "Corporate Events Manager Hybrid - San Francisco, New York City" [ref=e319] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5980496004
+                        - paragraph [ref=e320]: Corporate Events Manager
+                        - paragraph [ref=e321]: Hybrid - San Francisco, New York City
+                  - row "FMM, Startups (EMEA) Hybrid - London" [ref=e322]:
+                    - cell "FMM, Startups (EMEA) Hybrid - London" [ref=e323]:
+                      - link "FMM, Startups (EMEA) Hybrid - London" [ref=e324] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5980244004
+                        - paragraph [ref=e325]: FMM, Startups (EMEA)
+                        - paragraph [ref=e326]: Hybrid - London
+                  - row "Head of Developer Community Hybrid - San Francisco, New York City, Austin" [ref=e327]:
+                    - cell "Head of Developer Community Hybrid - San Francisco, New York City, Austin" [ref=e328]:
+                      - link "Head of Developer Community Hybrid - San Francisco, New York City, Austin" [ref=e329] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/vercel/jobs/5832366004
+                        - paragraph [ref=e330]: Head of Developer Community
+                        - paragraph [ref=e331]: Hybrid - San Francisco, New York City, Austin
+          - navigation "Pagination" [ref=e333]:
+            - button "Previous page" [disabled] [ref=e334]:
+              - img [ref=e335]
+            - list [ref=e337]:
+              - listitem [ref=e338]:
+                - button "Go to page 1": "1"
+              - listitem [ref=e339]:
+                - button "Go to page 2" [ref=e340] [cursor=pointer]: "2"
+            - button "Next page" [ref=e341] [cursor=pointer]:
+              - img [ref=e342]
+  - contentinfo [ref=e344]:
+    - generic [ref=e345]:
+      - paragraph [ref=e346]: Powered by
+      - link "Greenhouse logo" [ref=e347] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e348]

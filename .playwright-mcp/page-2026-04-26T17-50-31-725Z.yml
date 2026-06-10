@@ -1,0 +1,162 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Replit" [ref=e6] [cursor=pointer]:
+        - /url: http://replit.com
+        - img "Replit" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Replit’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /replit
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer - New Grad (Summer 2026)" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: Foster City, CA (Hybrid) In office M,W,F
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]:
+            - generic [ref=e29]: Engineering ›
+            - generic [ref=e30]: Early Career
+        - generic [ref=e31]:
+          - heading "Compensation" [level=2] [ref=e32]
+          - list [ref=e33]:
+            - listitem [ref=e34]:
+              - generic [ref=e35]: Compensation is determined based on career level, with the base salary for this role ranging from $140K – $180K • Offers Equity • Offers Bonus • Performance Based Bonus
+      - generic [ref=e36]:
+        - tablist [ref=e37]:
+          - tab "Overview" [selected] [ref=e38] [cursor=pointer]
+          - tab "Application" [ref=e39] [cursor=pointer]
+        - tabpanel "Overview" [ref=e41]:
+          - generic [ref=e42]:
+            - paragraph [ref=e43]: Replit is the agentic software creation platform that enables anyone to build applications using natural language. With millions of users worldwide, Replit is democratizing software development by removing traditional barriers to application creation.
+            - paragraph [ref=e44]
+            - paragraph [ref=e45]:
+              - strong [ref=e46]: "About the role:"
+            - paragraph [ref=e47]: As a New Grad Software Engineer, you'll join a team of exceptional builders working on products that are reshaping how the world creates software. You'll have the opportunity to work on everything from our AI-powered development platform to the distributed systems that enable real-time collaboration for millions of developers.
+            - paragraph [ref=e48]
+            - paragraph [ref=e49]: This is a chance to define your career while defining the future of software development. You'll work on problems that matter, with the autonomy to drive solutions and the support to grow into a technical leader.
+            - paragraph [ref=e50]
+            - paragraph [ref=e51]:
+              - strong [ref=e52]: "What you will build:"
+            - list [ref=e53]:
+              - listitem [ref=e54]:
+                - paragraph [ref=e55]:
+                  - strong [ref=e56]: Product features
+                  - text: that delight users and make it possible for anybody to create software
+              - listitem [ref=e57]:
+                - paragraph [ref=e58]:
+                  - strong [ref=e59]: AI coding agent
+                  - text: that understands intent and generates production-ready applications
+              - listitem [ref=e60]:
+                - paragraph [ref=e61]:
+                  - strong [ref=e62]: Cloud infrastructure
+                  - text: that provides instant, powerful development environments at global scale
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]:
+                  - strong [ref=e65]: Platform features
+                  - text: that enable one click deployments and scale to millions of users
+            - paragraph [ref=e66]
+            - paragraph [ref=e67]:
+              - strong [ref=e68]: "Required skills and experience:"
+            - list [ref=e69]:
+              - listitem [ref=e70]:
+                - paragraph [ref=e71]: Recent graduate (2024-2026) with a degree in Computer Science, Computer Engineering, or related field
+              - listitem [ref=e72]:
+                - paragraph [ref=e73]: Strong programming skills in a modern language (JavaScript/TypeScript, Python, Go, Rust)
+              - listitem [ref=e74]:
+                - paragraph [ref=e75]: Full-stack capabilities with experience in React, Node.js, and database technologies
+              - listitem [ref=e76]:
+                - paragraph [ref=e77]: Growth orientation - eager to learn new technologies and take on increasing responsibility
+              - listitem [ref=e78]:
+                - paragraph [ref=e79]: Collaborative spirit - you work well in cross-functional teams and value diverse perspectives
+            - paragraph [ref=e80]
+            - paragraph [ref=e81]:
+              - strong [ref=e82]: What we value
+              - text: ":"
+            - list [ref=e83]:
+              - listitem [ref=e84]:
+                - paragraph [ref=e85]: "Problem-solving mindset: Ability to approach complex operational challenges systematically and devise effective solutions"
+              - listitem [ref=e86]:
+                - paragraph [ref=e87]: "Self-directed and autonomous: Capable of working independently while collaborating effectively with cross-functional teams"
+              - listitem [ref=e88]:
+                - paragraph [ref=e89]: "Strong communication skills: Ability to explain complex technical concepts to both technical and non-technical audiences"
+              - listitem [ref=e90]:
+                - paragraph [ref=e91]: "Continuous learning: Passion for staying current with industry best practices and new technologies"
+              - listitem [ref=e92]:
+                - paragraph [ref=e93]: "Focus on automation: Strong belief in automating repetitive tasks and building self-healing systems"
+            - paragraph [ref=e94]
+            - paragraph [ref=e95]:
+              - emphasis [ref=e96]: This is a full-time role that can be held from our Foster City, CA office. The hybrid role has an in-office requirement of Monday, Wednesday, and Friday
+            - paragraph [ref=e97]
+            - paragraph [ref=e98]:
+              - strong [ref=e99]: "Full-Time Employee Benefits Include:"
+            - paragraph [ref=e100]: 💰 Competitive Salary & Equity
+            - paragraph [ref=e101]: 💹 401(k) Program with a 4% match
+            - paragraph [ref=e102]: ⚕️ Health, Dental, Vision and Life Insurance
+            - paragraph [ref=e103]: 🩼 Short Term and Long Term Disability
+            - paragraph [ref=e104]: 🚼 Paid Parental, Medical, Caregiver Leave
+            - paragraph [ref=e105]: 🚗 Commuter Benefits
+            - paragraph [ref=e106]: 📱 Monthly Wellness Stipend
+            - paragraph [ref=e107]: 🧑‍💻 Autonomous Work Environment
+            - paragraph [ref=e108]: 🖥 In Office Set-Up Reimbursement
+            - paragraph [ref=e109]: 🏝 Flexible Time Off (FTO) + Holidays
+            - paragraph [ref=e110]: 🚀 Quarterly Team Gatherings
+            - paragraph [ref=e111]: ☕ In Office Amenities
+            - paragraph [ref=e112]
+            - paragraph [ref=e113]:
+              - strong [ref=e114]: Want to learn more about what we are up to?
+            - list [ref=e115]:
+              - listitem [ref=e116]:
+                - paragraph [ref=e117]:
+                  - link "Meet the Replit Agent" [ref=e118] [cursor=pointer]:
+                    - /url: https://www.youtube.com/watch?v=IYiVPrxY8-Y
+              - listitem [ref=e119]:
+                - paragraph [ref=e120]:
+                  - 'link "Replit: Make an app for that" [ref=e121] [cursor=pointer]':
+                    - /url: https://www.youtube.com/watch?v=4zd9hzngFwY
+              - listitem [ref=e122]:
+                - paragraph [ref=e123]:
+                  - link "Replit Blog" [ref=e124] [cursor=pointer]:
+                    - /url: https://blog.replit.com/
+              - listitem [ref=e125]:
+                - paragraph [ref=e126]:
+                  - link "Amjad TED Talk" [ref=e127] [cursor=pointer]:
+                    - /url: https://youtu.be/kCudFI4tcpg?si=l4ViCejV_f2RZkDi
+            - paragraph [ref=e128]:
+              - strong [ref=e129]: Interviewing + Culture at Replit
+            - list [ref=e130]:
+              - listitem [ref=e131]:
+                - paragraph [ref=e132]:
+                  - link "Operating Principles" [ref=e133] [cursor=pointer]:
+                    - /url: https://blog.replit.com/operating-principles
+              - listitem [ref=e134]:
+                - paragraph [ref=e135]:
+                  - link "Reasons not to work at Replit" [ref=e136] [cursor=pointer]:
+                    - /url: https://blog.replit.com/reasons-not-to-join-replit
+            - paragraph [ref=e137]
+            - paragraph [ref=e138]: To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non-traditional backgrounds.
+          - link "Apply for this Job" [ref=e139] [cursor=pointer]:
+            - /url: /replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application
+            - button "Apply for this Job" [ref=e140]
+  - contentinfo [ref=e141]:
+    - link "Learn more about Ashby" [ref=e142] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e143]: Powered by
+      - img "Ashby" [ref=e144]
+    - paragraph [ref=e150]:
+      - link "Privacy Policy" [ref=e151] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e152] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e153] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

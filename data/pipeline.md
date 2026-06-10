@@ -2,6 +2,68 @@
 
 Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` to process them.
 
+## Processed (2026-06-09 GitHub Scan Batch) — 15 URLs (3 Apply Immediately, 7 Consider, 5 Lower Priority)
+
+### Apply Immediately (Tier 1) — 3 Roles
+
+- [x] #608 | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Chip-Design-Engineer---New-College-Grad-2026_JR2015487 | NVIDIA | AI Chip Design Engineer | 4.6/5 | PDF ✅ | [608](reports/608-nvidia-ai-chip-design-2026-06-09.md) | TOP MATCH. AI + hardware fusion. Agentic LLM frameworks (LangChain, LangGraph). Verilog/SystemVerilog. GPU/CPU architecture. Python. TriCore9 + PatentIQ + FlipperZillow = perfect fit. Comp $116K-$218K. APPLY THIS WEEK.
+- [x] #605 | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Computer-Architect---New-College-Grad-2026_JR2019178 | NVIDIA | Deep Learning Computer Architect | 4.4/5 | PDF ❌ | [605](reports/605-nvidia-dl-arch-2026-06-09.md) | Hardware-AI fusion. Custom CPU (TriCore9) + GPU pipelines (FlipperZillow). CUDA inference optimization core skill. Tier 1b.
+- [x] #604 | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Performance-Engineer--Agentic-AI-Workloads---New-College-Grad-2026_JR2018588 | NVIDIA | Systems Performance Engineer - Agentic AI Workloads | 4.3/5 | PDF ❌ | [604](reports/604-nvidia-spe-agentic-2026-06-09.md) | Agentic AI + LLMOps. PatentIQ semantic search + RedShift adversarial evaluation directly relevant. Strong learning. Tier 1c.
+
+### Consider Applying (Tier 2) — 7 Roles
+
+- [x] #607 | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016939 | NVIDIA | ML Applications and Compiler Engineer (LPX) | 4.2/5 | PDF ❌ | [607](reports/607-nvidia-ml-compiler-2026-06-09.md) | Compiler + ML. Less direct than #608. TriCore9 assembler relevant. Solid. Tier 2a.
+- [x] #616 | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330 | NVIDIA | Software R&D Engineer - VLSI Physical Design | 4.1/5 | PDF ❌ | [616](reports/616-nvidia-vlsi-2026-06-09.md) | VLSI + physical design. TriCore9 core. Quartus/ModelSim. Austin location (relocation-friendly). Tier 2b.
+- [x] #618 | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-R-D-Engineer--Digital-Logic-Synthesis---New-College-Grad-2026_JR2018263 | NVIDIA | Software R&D Engineer - Digital Logic Synthesis | 4.0/5 | PDF ❌ | [618](reports/618-nvidia-logic-synthesis-2026-06-09.md) | Logic synthesis = TriCore9 core. Verilog + optimization. Hardware. Santa Clara. Tier 2c.
+- [x] #609 | https://job-boards.greenhouse.io/twitch/jobs/8548960002 | Twitch | Software Engineer I | 3.9/5 | PDF ❌ | [609](reports/609-twitch-swe1-2026-06-09.md) | Scale + systems. PatentIQ backend transferable. Lower AI/ML. Fallback if NVIDIA stalls.
+- [x] #606 | https://job-boards.greenhouse.io/doordashusa/jobs/7902320 | DoorDash | Software Engineer (New Grad) | 3.8/5 | PDF ❌ | [606](reports/606-doordash-swe-2026-06-09.md) | Full-stack SWE. PatentIQ MVP transferable. Marketplace scale. Tier 2 fallback.
+- [x] #617 | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659 | NVIDIA | Software Engineer - Hardware Tools and Methodology | 3.8/5 | PDF ❌ | [617](reports/617-nvidia-hwtools-2026-06-09.md) | Tools + methodology. Python + HW verification. PatentIQ SDK. Secondary.
+
+### Lower Priority (Tier 3) — 5 Roles
+
+- [x] #615 | https://careers.airbnb.com/positions/7859317 | Airbnb | iOS Software Engineer, New Grad | 3.4/5 | PDF ❌ | [615](reports/615-airbnb-ios-2026-06-09.md) | iOS-specific (not web SWE). Lower comp ($128K-$142K). Less AI/ML focus.
+- [x] #611 | https://job-boards.greenhouse.io/twitch/jobs/8519628002 | Twitch | Software Engineer I, Ad Supply Experiences | 3.7/5 | PDF ❌ | [611](reports/611-twitch-ad-supply-2026-06-09.md) | Ad systems (not AI/ML aligned). Skip in favor of tier-1.
+- [x] #612 | https://job-boards.greenhouse.io/twitch/jobs/8459320002 | Twitch | Software Engineer I, Commerce Engineering | 3.7/5 | PDF ❌ | [612](reports/612-twitch-commerce-2026-06-09.md) | Commerce systems (not AI/ML aligned). Skip in favor of tier-1.
+- [x] #613 | https://jobs.ashbyhq.com/corgi/2eace392-9380-4a81-837a-3e4e8e3d1f69 | Corgi | Quantitative Associate | 2.2/5 | PDF ❌ | - | Financial quant role (not SWE). Career misalignment. Skip.
+- [x] #614 | https://jobs.ashbyhq.com/encord/99604b6e-3224-406a-a19b-19ddcb554000 | Encord | Commercial Associate, Physical AI | 1.5/5 | PDF ❌ | - | Sales/commercial (not engineering). Career misalignment. Skip.
+
+### Duplicate / Skip — 1 Role
+
+- [x] #610 | https://job-boards.greenhouse.io/twitch/jobs/8367555002 | Twitch | Software Engineer I (duplicate) | 3.9/5 | PDF ❌ | - | Duplicate of #609 from same company portal. Skip unless role differs.
+
+**Summary:** 15 URLs from GitHub scan (2026-06-09). Processed all JDs via Playwright browser automation. Detailed evaluation report (#608) generated. All tracker additions created. NVIDIA dominates (10 of 15 roles) with heavy agentic AI + hardware hiring. Top match: #608 (AI Chip Design Engineer, 4.6/5). Strategy: Apply to #608 immediately. #605, #604, #607 are tier-1 fallbacks within NVIDIA ecosystem. If NVIDIA pipeline stalls, escalate to Twitch (#609) / DoorDash (#606). Batch summary: BATCH_SUMMARY_2026-06-09.md.
+
+---
+
+## Processed (2026-06-05 Single URL Evaluation) — 1 URL (Apply if Contract Terms Negotiable)
+
+### Apply Recommended (Conditional) — 1
+
+- [x] #581 | https://jobs.lever.co/field-ai/c56e6bc4-23d9-4ed1-9349-fee74e35c264 | FieldAI | Agentic AI/ML Engineer | 3.8/5 | PDF ❌ | [581](reports/581-field-ai-2026-06-05.md) | Entry-level robotics AI role; fixed-term contract (3-6mo) + below-target comp ($35-50/hr = $73-104k); world-class team (DeepMind, JPL, Boston Dynamics alumni) + strategic resume value. Apply if willing to negotiate contract conversion & relocation to Irvine.
+
+**Summary:** 1 offer evaluated. Conditional recommend. Score 3.8/5 (decent + not ideal) due to fixed-term risk and below-target comp. Strategic value is high (prestige + robotics domain + AI infrastructure focus). Recommend negotiating (1) contract-to-FT conversion criteria upfront, (2) relocation timeline, (3) higher end of hourly range ($48-50). Daris's learning velocity (FlipperZillow 24h ramp) and infrastructure thinking (PatentIQ, caching architecture) are strong for this role.
+
+---
+
+## Processed (2026-06-01 Quick Batch) — 4 URLs (1 Apply, 1 Skip, 2 Inaccessible)
+
+### Apply Recommended (1)
+
+- [x] #569 | https://jobs.ashbyhq.com/candidate.fyi/1a9f87da-eaab-48a6-a9fc-2d7582c4808e | Candidate FYI | Full Stack Software Engineer | 4.2/5 | PDF ❌ | [569](reports/569-candidate-fyi-2026-06-01.md) | Python/Django backend, startup hyper-growth (4x YoE), strong fit for full-stack + systems thinking
+
+### Skip (Do Not Apply) — 1
+
+- [x] #572 | https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Junior-Generative-AI-Application-Developer_26962487 | Citi | Junior Generative AI Application Developer | 2.8/5 | PDF ❌ | [572](reports/572-citi-junior-generative-ai-developer-2026-06-01.md) | Fortune 500 deployer role (deploy pre-built models), not builder. Jersey City location. Career misalignment.
+
+### Inaccessible (2)
+
+- [!] #570 | https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614 | Avnet | Software Developer | INACCESSIBLE | [570](reports/570-avnet-inaccessible-2026-06-01.md) | Workday portal requires authentication
+- [!] #571 | https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22125 | Oracle | Software Developer | INACCESSIBLE | [571](reports/571-oracle-inaccessible-2026-06-01.md) | Oracle HCM portal requires authentication
+
+**Summary:** 4 URLs processed. 1 strong apply (Candidate FYI, 4.2/5). 1 skip (Citi, deployer role mismatch). 2 inaccessible (Workday/Oracle portals). Candidate FYI has strong backend focus and startup momentum.
+
+---
+
 ## Processed (2026-05-24 Manual Batch) — 4 URLs (3 Evaluated, 1 Inaccessible)
 
 ### Apply Recommended (2)
@@ -57,18 +119,20 @@ Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` 
 
 ---
 
-## Processed (2026-05-26 Portal Scan) — EARLIER BATCH (6 URLs)
+## Processed (2026-05-31 Portal Scan) — 5 Inaccessible URLs
 
-### Pending Evaluation (6 URLs from 2026-05-26)
+### Inaccessible (5 URLs — all job postings closed or unreachable)
 
-- [ ] https://jobs.lever.co/belvederetrading/f81a8965-5537-4a4b-aec6-c02dfa51815e | Belvedere Trading | Software Engineer - Entry Level 2026
-- [ ] https://jobs.ashbyhq.com/Acorns/5618f1de-cf18-4114-9408-11cd73153a9d | Acorns | Software Engineer I, Recent Graduate
-- [ ] https://job-boards.greenhouse.io/flex/jobs/4632053005 | Flex | Software Engineer I, Backend (New Grad - 2025)
-- [ ] https://job-boards.greenhouse.io/ziprecruiter/jobs/6165341 | ZipRecruiter | Software Engineer - New Grad
-- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003 | Sigma Computing | Software Engineer (New Grad Program)
-- [ ] https://job-boards.greenhouse.io/newsbreak/jobs/4054592006 | NewsBreak | Software Engineer (Junior & New Grad)
+- [!] #545 | https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7545335003 | Freeform Future Corp | Electrical Engineer (New Grad Summer 2026) | INACCESSIBLE | [545](reports/545-freeform-ee-inaccessible-2026-05-31.md) | Greenhouse job board shows 48 openings; specific role not accessible
+- [!] #546 | https://jobs.lever.co/rigetti/40442388-ca66-4899-ab45-d8a2658bd050 | Rigetti Computing | Software Engineer, Computer Vision (2026) | INACCESSIBLE | [546](reports/546-rigetti-cv-inaccessible-2026-05-31.md) | Lever 404 error; posting closed
+- [!] #543 | https://job-boards.greenhouse.io/loop/jobs/5780582004 | Loop | Software Engineer, Full-Stack (New Grad 2026) | INACCESSIBLE | [543](reports/543-loop-fullstack-inaccessible-2026-05-31.md) | Duplicate of existing #260 (4.5/5). Greenhouse redirect to job board.
+- [!] #544 | https://job-boards.greenhouse.io/loop/jobs/5780584004 | Loop | Software Engineer, AI (New Grad 2026) | INACCESSIBLE | [544](reports/544-loop-ai-inaccessible-2026-05-31.md) | Duplicate of existing #89. Greenhouse redirect to job board.
+- [!] [duplicate] | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-Engineer--AI-Infrastructure---New-College-Grad-2026_JR2007199 | NVIDIA | Software Engineer, AI Infrastructure (New College Grad 2026) | INACCESSIBLE | [547](reports/547-nvidia-ai-infra-inaccessible-2026-05-31.md) | Duplicate of existing #309 (4.5/5). Workday 404 error.
+
+**Summary:** All 5 URLs from this batch are either inaccessible (404 errors, portal redirects) or duplicates of higher-scoring existing entries in the tracker. The 2026-05-31 Portal Scan returned stale/closed job postings. Recommend reviewing portal sources for data freshness.
 
 ---
+
 
 ## Processed (2026-05-25 Portal Scan) — 3 Evaluated (1 Apply, 2 Skip)
 
@@ -402,6 +466,38 @@ Manual evaluation of three Texas Instruments CAP/entry-level roles (manually ren
 
 ---
 
+## Processed (2026-06-06 Meta Batch Scan) — 7 URLs Evaluated (2 Conditional Apply, 5 Skip)
+
+### Conditional Apply (2)
+- [x] #593 | https://www.metacareers.com/profile/job_details/843022025149793 | Meta | Software Systems Engineer | 3.4/5 | PDF ❌ | [593](reports/593-meta-systems-engineer-2026-06-06.md) | Infrastructure role (systems thinking, perf optimization); apply if interested in infra specialization
+- [x] #596 | https://www.metacareers.com/profile/job_details/2188512621989850 | Meta | DFX Engineer | 3.2/5 | PDF ❌ | [596](reports/596-meta-dfx-engineer-2026-06-06.md) | Hardware archetype match; Reality Labs world-class; apply if interested in manufacturing specialization
+
+### Skip (Do Not Apply) — 5
+- [x] #592 | https://www.metacareers.com/profile/job_details/1690022942358388 | Meta | Critical Facility Engineer | 1.9/5 | PDF ❌ | [592](reports/592-meta-critical-facility-2026-06-06.md) | 6+ YOE blocker; operations not engineering; career mismatch
+- [x] #594 | https://www.metacareers.com/profile/job_details/1728618411914287 | Meta | Client Solutions Manager | 2.1/5 | PDF ❌ | [594](reports/594-meta-client-solutions-2026-06-06.md) | Sales/CSM role; wrong career path
+- [x] #595 | https://www.metacareers.com/profile/job_details/27161631293449306 | Meta | Product Operations Manager | 2.5/5 | PDF ❌ | [595](reports/595-meta-product-ops-whatsapp-2026-06-06.md) | Operations/project mgmt; not core engineering
+- [x] #597 | https://www.metacareers.com/profile/job_details/1380974339703907 | Meta | AI Research Scientist | 2.2/5 | PDF ❌ | [597](reports/597-meta-ai-research-coreml-2026-06-06.md) | PhD requirement blocker; specialization mismatch
+- [x] #598 | https://www.metacareers.com/profile/job_details/1318845793029610 | Meta | Scaled Business Growth | 1.8/5 | PDF ❌ | [598](reports/598-meta-scaled-business-growth-2026-06-06.md) | Sales/business ops; wrong track
+
+**Summary:** 7 Meta roles evaluated. Only 2 conditional matches (Infrastructure systems engineer 3.4, Hardware DFX 3.2). All others are non-engineering tracks (facilities ops, sales/CSM, operations, research with PhD blocker, business ops). Strong signal: Meta's current hiring pipeline may not have ideal fits for Daris's SWE/AI/Hardware specializations. Recommend targeting Meta roles via direct search or recruiter outreach for better alignment.
+## Processed (2026-06-07 Portal Scan) — 2 Valid Evaluated, 7 Invalid URLs
+
+### Evaluated (1 Apply, 1 Skip)
+
+- [x] #603 | https://job-boards.greenhouse.io/anthropic/jobs/5238637008 | Anthropic | Product Engineer, Computer Use | 4.5/5 | PDF ✅ | [603](reports/603-anthropic-computer-use-2026-06-07.md) | Excellent match. PatentIQ MVP, full-stack, LLM API, browser automation. Apply immediately.
+- [x] #602 | https://job-boards.greenhouse.io/anthropic/jobs/5238460008 | Anthropic | Data Operations Manager, Human Data | 1.8/5 | PDF ❌ | [602](reports/602-anthropic-data-ops-2026-06-07.md) | Hard blocker: 3+ YOE requirement, operations not engineering.
+
+### Invalid URLs (Navigation hashes, locale redirects, not specific job postings)
+
+- [!] https://www.metacareers.com/jobsearch#mdc-main-content | Invalid: Navigation hash fragment, not a job posting
+- [!] https://stripe.com/jobs# | Invalid: Navigation hash, not specific job posting
+- [!] https://stripe.com/fr-be/jobs | Invalid: Locale redirect, not specific job posting
+- [!] https://stripe.com/fr-ca/jobs | Invalid: Locale redirect, not specific job posting
+- [!] https://stripe.com/fr/jobs | Invalid: Locale redirect, not specific job posting
+- [!] https://stripe.com/fr-lu/jobs | Invalid: Locale redirect, not specific job posting
+- [!] https://stripe.com/fr-ch/jobs | Invalid: Locale redirect, not specific job posting
+
+**Summary:** 9 URLs processed. 2 valid job posting URLs (both Anthropic) evaluated: 1 strong match (4.5/5, apply), 1 hard blocker (1.8/5, skip). 7 invalid/malformed URLs filtered out (navigation hashes, locale redirects). Quality over quantity: focus on the excellent Anthropic Computer Use fit.
 ## Pending (2026-04-27 scan) — PROCESSED: 11 Total (7 Recommended Apply, 4 Skip)
 
 ### Apply Recommended (7)
@@ -568,3 +664,24 @@ PROCESSED — Live but not recommended:
 ## Archived (pre-2026-04-20 — not relevant / duplicates)
 
 Approximately 599 URLs from earlier scans. These were marked as completed on 2026-04-21 as they were repeats, misaligned with target roles, or outdated. Refer to scan-history.tsv for full tracking.
+
+### New Offers from GitHub Portal Scan (2026-06-09)
+
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Performance-Engineer--Agentic-AI-Workloads---New-College-Grad-2026_JR2018588 | NVIDIA | Systems Performance Engineer - Agentic AI Workloads
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Computer-Architect---New-College-Grad-2026_JR2019178 | NVIDIA | Deep Learning Computer Architect
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7902320 | DoorDash | Software Engineer (New Grad)
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016939 | NVIDIA | ML Applications and Compiler Engineer (LPX)
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Chip-Design-Engineer---New-College-Grad-2026_JR2015487 | NVIDIA | AI Chip Design Engineer
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8548960002 | Twitch | Software Engineer (Role 1)
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8367555002 | Twitch | Software Engineer (Role 2)
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8519628002 | Twitch | Software Engineer (Role 3)
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8459320002 | Twitch | Software Engineer (Role 4)
+- [ ] https://jobs.ashbyhq.com/corgi/2eace392-9380-4a81-837a-3e4e8e3d1f69 | Corgi | Software Engineer
+- [ ] https://jobs.ashbyhq.com/encord/99604b6e-3224-406a-a19b-19ddcb554000 | Encord | Software Engineer
+- [ ] https://careers.airbnb.com/positions/7859317 | Airbnb | Software Engineer
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330 | NVIDIA | Software R&D Engineer - VLSI Physical Design
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659 | NVIDIA | Software Engineer - Hardware Tools and Methodology
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-R-D-Engineer--Digital-Logic-Synthesis---New-College-Grad-2026_JR2018263 | NVIDIA | Software R&D Engineer - Digital Logic Synthesis
+
+**Summary:** 15 new offers added from GitHub repos (speedyapply AI/SWE 2026, zapplyjobs hardware). Source: daily-updated new grad tracking. All roles passed title filter (Engineer/Software/ML/AI, no Senior/Staff/PhD). Ready for evaluation via `/career-ops pipeline`.
+

@@ -1,0 +1,248 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e8]:
+    - generic [ref=e10]:
+      - link "careers home" [ref=e13] [cursor=pointer]:
+        - /url: https://www.amentumcareers.com/jobs/search
+        - img "careers home" [ref=e14]
+      - generic [ref=e15]:
+        - heading [level=1]
+      - generic [ref=e17]:
+        - button "Sign In" [ref=e19] [cursor=pointer]:
+          - generic [ref=e24]: Sign In
+        - navigation [ref=e25]:
+          - button "Search for Jobs" [ref=e26] [cursor=pointer]
+  - generic [ref=e30]:
+    - alert [ref=e31]: Entry Level Software Engineer/Software Tester page is loaded
+    - generic [ref=e32]:
+      - generic [ref=e34]:
+        - heading "Entry Level Software Engineer/Software Tester" [level=2] [ref=e35]
+        - button "Apply" [ref=e40] [cursor=pointer]
+      - generic [ref=e41]:
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - generic [ref=e50]:
+              - term [ref=e51]: remote type
+              - definition [ref=e52]: On-site
+            - generic [ref=e59]:
+              - term [ref=e60]: locations
+              - definition [ref=e61]: US-VA-Dahlgren
+          - generic [ref=e62]:
+            - generic [ref=e71]:
+              - term [ref=e72]: time type
+              - definition [ref=e73]: Full time
+            - generic [ref=e82]:
+              - term [ref=e83]: posted on
+              - definition [ref=e84]: Posted 2 Days Ago
+            - generic [ref=e93]:
+              - term [ref=e94]: job requisition id
+              - definition [ref=e95]: R0159211
+        - generic [ref=e97]:
+          - paragraph [ref=e98]: Amentum is looking for Software engineers to join our USN advance technology development team. Someone code, optimize and build software speed and efficiency in an R&D setting. Primary work location will be in Fredericksburg or Dahlgren, VA with occasional telecommuting or travel opportunities.
+          - paragraph [ref=e99]
+          - paragraph [ref=e100]: "Software engineer Responsibilities Include:"
+          - list [ref=e101]:
+            - listitem [ref=e102]:
+              - paragraph [ref=e103]: Developing graphical user interfaces for local tools with the team of users.
+            - listitem [ref=e104]:
+              - paragraph [ref=e105]: Developing software updates using C++, Rational Team Concert, GitLab and other DevOps tools.
+            - listitem [ref=e106]:
+              - paragraph [ref=e107]: Supporting test events through travel opportunities.
+          - paragraph [ref=e108]
+          - paragraph [ref=e109]: "Minimum Qualifications:"
+          - list [ref=e110]:
+            - listitem [ref=e111]:
+              - paragraph [ref=e112]: "Bachelor’s degree in one of the following disciplines: Engineering, Math, Computers Science, and/or Physics with entry level experience."
+            - listitem [ref=e113]:
+              - paragraph [ref=e114]: "Must have an Active Secret US Government Clearance. Note: US Citizenship is required to maintain a Secret."
+            - listitem [ref=e115]:
+              - paragraph [ref=e116]: Knowledge in definition and management of software requirements, design, code, benchmark testing, debugging, software development lifecycle, architecture, and documentation.
+            - listitem [ref=e117]:
+              - paragraph [ref=e118]: Plans, performs, and leads software design, coding, and testing.
+            - listitem [ref=e119]:
+              - paragraph [ref=e120]: Experience in an Agile software development environment and familiarity with Agile methodologies.
+            - listitem [ref=e121]:
+              - paragraph [ref=e122]: Atlassian tool suites, Jira (for issue tracking) and Confluence (decision tracking).
+            - listitem [ref=e123]:
+              - paragraph [ref=e124]: Source code tracking tools (i.e. Git, Bitbucket).
+            - listitem [ref=e125]:
+              - paragraph [ref=e126]: C++ or C# (Preferred).
+            - listitem [ref=e127]:
+              - paragraph [ref=e128]: "Ability to Commute: to Fredericksburg or Dahlgren, VA (1 hour south of Washington D.C.)."
+            - listitem [ref=e129]:
+              - paragraph [ref=e130]: Candidates must maintain a valid Real ID driver’s license required for access to customer site and have access to reliable transportation (rideshare options such as Uber, Lyft etc. are not permitted) as this position requires occasional travel between local worksites during the week.
+          - paragraph [ref=e131]
+          - paragraph [ref=e132]: Benefits and Perks
+          - list [ref=e133]:
+            - listitem [ref=e134]:
+              - paragraph [ref=e135]: Health, Vision, and Dental
+            - listitem [ref=e136]:
+              - paragraph [ref=e137]: 401K with match
+            - listitem [ref=e138]:
+              - paragraph [ref=e139]: Tuition Reimbursement
+            - listitem [ref=e140]:
+              - paragraph [ref=e141]: Wellness Program
+            - listitem [ref=e142]:
+              - paragraph [ref=e143]: Growth opportunities and career progression
+            - listitem [ref=e144]:
+              - paragraph [ref=e145]: Various company discounts
+            - listitem [ref=e146]:
+              - paragraph [ref=e147]: Basic life and AD&D insurance
+            - listitem [ref=e148]:
+              - paragraph [ref=e149]: Paid time off
+            - listitem [ref=e150]:
+              - paragraph [ref=e151]: Flexible Holidays
+            - listitem [ref=e152]:
+              - paragraph [ref=e153]: Parental Leave
+          - paragraph [ref=e154]
+          - paragraph [ref=e155]: "Compensation Details:"
+          - text: $75K to $105K
+          - paragraph [ref=e156]
+          - paragraph [ref=e157]: The compensation range or hourly rate listed for this position is provided as a good-faith estimate of what the company intends to offer for this role at the time this posting was issued. Actual compensation may vary based on factors such as job responsibilities, education, experience, skills, internal equity, market data, applicable collective bargaining agreements, and relevant laws.
+          - paragraph [ref=e158]
+          - paragraph [ref=e159]: "Benefits Overview:"
+          - paragraph [ref=e160]: "Our health and welfare benefits are designed to support you and your priorities. Offerings include:"
+          - list [ref=e161]:
+            - listitem [ref=e162]:
+              - paragraph [ref=e163]: Health, dental, and vision insurance
+            - listitem [ref=e164]:
+              - paragraph [ref=e165]: Paid time off and holidays
+            - listitem [ref=e166]:
+              - paragraph [ref=e167]: Retirement benefits (including 401(k) matching)
+            - listitem [ref=e168]:
+              - paragraph [ref=e169]: Educational reimbursement
+            - listitem [ref=e170]:
+              - paragraph [ref=e171]: Parental leave
+            - listitem [ref=e172]:
+              - paragraph [ref=e173]: Employee stock purchase plan
+            - listitem [ref=e174]:
+              - paragraph [ref=e175]: Tax-saving options
+            - listitem [ref=e176]:
+              - paragraph [ref=e177]: Disability and life insurance
+            - listitem [ref=e178]:
+              - paragraph [ref=e179]: Pet insurance
+          - paragraph [ref=e180]
+          - paragraph [ref=e181]: "Note: Benefits may vary based on employment type, location, and applicable agreements. Positions governed by a Collective Bargaining Agreement (CBA), the McNamara-O'Hara Service Contract Act (SCA), or other employment contracts may include different provisions/benefits."
+          - paragraph [ref=e182]
+          - paragraph [ref=e183]: "Original Posting:"
+          - text: 04/14/2026 - Until Filled
+          - paragraph [ref=e184]: Amentum anticipates this job requisition will remain open for at least three days, with a closing date no earlier than three days after the original posting. This timeline may change based on business needs.
+          - paragraph [ref=e185]
+          - paragraph [ref=e186]:
+            - text: Amentum is proud to be an Equal Opportunity Employer. Our hiring practices provide equal opportunity for employment without regard to race, sex, sexual orientation, pregnancy (including pregnancy, childbirth, breastfeeding, or medical conditions related to pregnancy, childbirth, or breastfeeding), age, ancestry, United States military or veteran status, color, religion, creed, marital or domestic partner status, medical condition, genetic information, national origin, citizenship status, low-income status, or mental or physical disability so long as the essential functions of the job can be performed with or without reasonable accommodation, or any other protected category under federal, state, or local law. Learn more about your rights under Federal laws and supplemental language at
+            - link "Labor Laws Posters" [ref=e187] [cursor=pointer]:
+              - /url: https://postings.govdocs.com/#/vxSkbztPuAwwxfs
+            - text: .
+    - generic [ref=e189]:
+      - heading "Similar Jobs (5)" [level=3] [ref=e190]
+      - generic [ref=e191]:
+        - generic [ref=e192]:
+          - link "Entry Level Software Engineer/Software Tester" [ref=e196] [cursor=pointer]:
+            - /url: /en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-Software-Tester_R0157214?utm_source=Simplify&ref=Simplify
+            - heading "Entry Level Software Engineer/Software Tester" [level=4] [ref=e197]
+          - generic [ref=e204]:
+            - term [ref=e205]: remote type
+            - definition [ref=e206]: On-site
+          - generic [ref=e214]:
+            - term [ref=e215]: locations
+            - definition [ref=e216]: US-VA-Dahlgren
+          - generic [ref=e225]:
+            - term [ref=e226]: time type
+            - definition [ref=e227]: Full time
+          - generic [ref=e236]:
+            - term [ref=e237]: posted on
+            - definition [ref=e238]: Posted 23 Days Ago
+        - generic [ref=e239]:
+          - link "Entry Level Software Engineer/Software Tester" [ref=e243] [cursor=pointer]:
+            - /url: /en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-Software-Tester_R0157213?utm_source=Simplify&ref=Simplify
+            - heading "Entry Level Software Engineer/Software Tester" [level=4] [ref=e244]
+          - generic [ref=e251]:
+            - term [ref=e252]: remote type
+            - definition [ref=e253]: On-site
+          - generic [ref=e261]:
+            - term [ref=e262]: locations
+            - definition [ref=e263]: US-VA-Dahlgren
+          - generic [ref=e272]:
+            - term [ref=e273]: time type
+            - definition [ref=e274]: Full time
+          - generic [ref=e283]:
+            - term [ref=e284]: posted on
+            - definition [ref=e285]: Posted 23 Days Ago
+        - generic [ref=e286]:
+          - link "Entry Level Software Engineer" [ref=e290] [cursor=pointer]:
+            - /url: /en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259?utm_source=Simplify&ref=Simplify
+            - heading "Entry Level Software Engineer" [level=4] [ref=e291]
+          - generic [ref=e298]:
+            - term [ref=e299]: remote type
+            - definition [ref=e300]: On-site
+          - generic [ref=e308]:
+            - term [ref=e309]: locations
+            - definition [ref=e310]: US-VA-Dahlgren
+          - generic [ref=e319]:
+            - term [ref=e320]: time type
+            - definition [ref=e321]: Full time
+          - generic [ref=e330]:
+            - term [ref=e331]: posted on
+            - definition [ref=e332]: Posted 30+ Days Ago
+      - button "View All 5 Jobs" [ref=e335] [cursor=pointer]:
+        - generic [ref=e339]: View All 5 Jobs
+    - generic [ref=e341]:
+      - generic [ref=e342]:
+        - heading "Welcome" [level=3] [ref=e343]
+        - paragraph [ref=e348]: Welcome back! We encourage you to check on the status of your current job applications with us. You can also search for a list of our current job openings and see if there are any new positions that might be a good fit for you. Thank you for continued interest in employment with Amentum.
+      - generic [ref=e350]:
+        - heading "About Us" [level=3] [ref=e351]
+        - generic [ref=e353]:
+          - generic [ref=e355]:
+            - paragraph [ref=e356]:
+              - text: For more than 100 years, Amentum has tackled the world’s toughest challenges to deliver agile and steadfast solutions to the U.S. government and its allies. With more than 50,000 employees on all seven continents and in more than 60 countries, Amentum delivers a broad range of operational support services to meet the critical needs of our clients. Our headquarters are in Chantilly, VA. Find us online at
+              - link [ref=e357] [cursor=pointer]:
+                - /url: https://www.amentum.com/
+                - generic [ref=e361]: https://www.amentum.com/
+            - paragraph [ref=e362]
+            - paragraph [ref=e363]:
+              - text: If you need a reasonable accommodation for any part of the employment process, please contact us by email at
+              - link [ref=e364] [cursor=pointer]:
+                - /url: mailto:TAOps@amentum.com
+                - text: TAOps@amentum.com
+              - text: and let us know the nature of your request and your contact information. Requests for accommodation will be considered on a case-by-case basis.
+          - button "Read More" [ref=e367] [cursor=pointer]:
+            - generic [ref=e368]: Read More
+      - generic [ref=e373]:
+        - heading "Amentum is an EEO Employer" [level=3] [ref=e374]
+        - generic [ref=e378]:
+          - paragraph [ref=e379]:
+            - link "EEO including Disability/Protected Veterans" [ref=e380] [cursor=pointer]:
+              - /url: https://www.dol.gov/agencies/ofccp/posters
+              - generic [ref=e383]: EEO including Disability/Protected Veterans
+          - paragraph [ref=e384]
+          - paragraph [ref=e385]:
+            - link "Labor Laws Posters" [ref=e386] [cursor=pointer]:
+              - /url: https://protect-us.mimecast.com/s/MI5TC2kqOqsOBPMVfnZ32U
+      - generic [ref=e388]:
+        - heading "Recruiting Scam Advisory" [level=3] [ref=e389]
+        - generic [ref=e391]:
+          - generic [ref=e393]:
+            - paragraph [ref=e394]: Amentum has become aware of unauthorized individuals who are falsely using the Amentum name and /or logo in an attempt to solicit fees from potential job seekers. These deceptive and unauthorized individuals are soliciting money, promising placement in a position with Amentum. Please note any communication requesting any amount of money in exchange for employment with Amentum is fraudulent. These communications do not originate from Amentum and are not associated with the recruitment process.
+            - paragraph [ref=e395]
+            - paragraph [ref=e396]
+            - paragraph [ref=e397]: Amentum and its affiliates never charge candidates fees or payments of any kind in order to secure employment. As a precaution, we recommend you do not disclose personal or financial details to anyone as a response to an unsolicited email, social media, or dating website request.
+            - paragraph [ref=e398]
+            - paragraph [ref=e399]
+            - paragraph [ref=e400]: Amentum will never as ask for a placement fee or any other fee to expedite the hiring process. If you are contacted by anyone offering employment with Amentum, you should never be asked to pay a fee for recruiting. Amentum personnel will always send email from an identifiable corporate account (ending in @amentum.com) and never from a public email account like Yahoo!, Google, Gmail, or Hotmail. If you are contacted regarding a fraudulent employment proposal, we encourage you to alert your local law enforcement agency/police authority.
+            - paragraph [ref=e401]:
+              - text: To read more about Amentum’s commitment to ethics,
+              - link [ref=e402] [cursor=pointer]:
+                - /url: https://www.amentum.com/ethics-compliance/
+                - text: please click here
+              - text: .
+            - paragraph [ref=e403]
+          - button "Read More" [ref=e406] [cursor=pointer]:
+            - generic [ref=e407]: Read More
+  - generic [ref=e411]:
+    - link "Privacy Policy" [ref=e413] [cursor=pointer]:
+      - /url: https://www.amentum.com/privacy-policy/
+    - generic [ref=e414]:
+      - img [ref=e418]
+      - generic [ref=e438]: © 2026 Workday, Inc. All rights reserved.

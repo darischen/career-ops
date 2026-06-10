@@ -1,0 +1,55 @@
+- generic [ref=e3]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - link "Logo Join US Treasury" [ref=e8] [cursor=pointer]:
+        - /url: https://earlycareers.catalyte.io/
+        - img "Logo" [ref=e10]
+        - generic [ref=e11]: Join US Treasury
+      - generic [ref=e12]:
+        - heading "Join US Treasury" [level=1] [ref=e13]
+        - paragraph [ref=e14]: Enter your details below to create your account
+    - img "US Treasury logo" [ref=e16]
+    - generic [ref=e17]: Become an Artificial Intelligence Engineer with the US Treasury. Fearless and Catalyte have partnered with the US Treasury to find and upskill Artificial Intelligence Engineers. Accepted candidates will enroll in a 15 week rigorous training program and upon successful completion will be eligible to apply for roles within the Department of the Treasury. Ideal candidates are curious, driven, and have a passion for learning and using technology to solve problems. To get started please register below and complete the screening process.
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e21]: Preferred Name
+          - textbox "Preferred Name" [active] [ref=e22]:
+            - /placeholder: Preferred name
+        - generic [ref=e23]:
+          - generic [ref=e24]: Email address
+          - textbox "Email address" [ref=e25]:
+            - /placeholder: email@example.com
+        - generic [ref=e26]:
+          - generic [ref=e27]: Password
+          - textbox "Password" [ref=e28]
+          - button "Toggle password visibility" [ref=e29]:
+            - img [ref=e30]
+        - generic [ref=e33]:
+          - generic [ref=e34]: Confirm password
+          - textbox "Confirm password" [ref=e35]
+          - button "Toggle password visibility" [ref=e36]:
+            - img [ref=e37]
+        - generic [ref=e41]:
+          - checkbox "I agree to the Apprentice Terms and Conditions" [ref=e42]
+          - generic [ref=e43]:
+            - text: I agree to the
+            - link "Apprentice Terms and Conditions" [ref=e44] [cursor=pointer]:
+              - /url: https://earlycareers.catalyte.io/terms
+        - button "Create account" [disabled]
+      - generic [ref=e45]:
+        - text: Already have an account?
+        - link "Log in" [ref=e46] [cursor=pointer]:
+          - /url: https://earlycareers.catalyte.io/login
+  - contentinfo [ref=e47]:
+    - generic [ref=e49]:
+      - generic [ref=e50]: © 2026 Catalyte. All Rights Reserved.
+      - generic [ref=e51]:
+        - link "Apprentice Terms and Conditions (opens in new tab)" [ref=e52] [cursor=pointer]:
+          - /url: https://earlycareers.catalyte.io/terms
+          - text: Apprentice Terms and Conditions
+        - link "FAQ" [ref=e53] [cursor=pointer]:
+          - /url: https://earlycareers.catalyte.io/faq
+        - link "Privacy Policy (opens in new tab)" [ref=e54] [cursor=pointer]:
+          - /url: https://www.catalyte.io/privacy/
+          - text: Privacy Policy

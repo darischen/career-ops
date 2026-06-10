@@ -1,0 +1,25 @@
+[     486ms] [ERROR] Connecting to 'wss://www.apple.com:58070/' violates the following Content Security Policy directive: "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com". Note that 'connect-src' was not explicitly set, so 'default-src' is used as a fallback. The action has been blocked. @ https://www.apple.com/careers/js/common/clientlibs/source/promos/promo-tile-cm.js:219
+[     510ms] [LOG] HeroPanelTile::initializeAnimation @ https://www.apple.com/careers/js/common/clientlibs/source/promos/HeroPanelTile.js:9223
+[     683ms] [WARNING] Poster image not found for viewport: medium @ https://www.apple.com/careers/js/common/clientlibs/source/fy24/HeroPanelCroppedVideoV2.js:147
+[     810ms] [LOG] %cCoreBundle lib prefersReducedMotion attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     812ms] [LOG] %cCoreBundle lib textZoom attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     813ms] [LOG] %cCoreBundle lib viewportEmitter attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     814ms] [LOG] %cCoreBundle lib anim attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     815ms] [LOG] %cCoreBundle lib modal attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     824ms] [LOG] %cCoreBundle lib acVideo attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     825ms] [LOG] %cCoreBundle lib mixinGallery attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     825ms] [WARNING] "setAttributes" is deprecated, please use "setAttributeForElements" instead. @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1218
+[     826ms] [LOG] %cCoreBundle lib accordion attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     826ms] [LOG] %cCoreBundle lib playPause attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     826ms] [LOG] %cCoreBundle lib focusManager attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     827ms] [LOG] %cCoreBundle lib trackVScroll attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     827ms] [LOG] %cCoreBundle lib trackClick attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     827ms] [LOG] %cCoreBundle lib trackEventOnce attached color:blue @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1
+[     827ms] [WARNING] AnalyticsStandalone:Error: AnalyticsStandalone: `configEl` not supplied @ https://www.apple.com/careers/js/common/clientlibs/source/redesign/libs.js:1264
+[     859ms] [LOG] Video /careers/global/media/hero/fy21/ehsan-hardware-autoplay-2021_1280x720.mp4 starts playing @ https://www.apple.com/careers/js/common/clientlibs/source/analytics/analytics.js:41
+[     862ms] [LOG] Video /careers/global/media/hero/fy22/sujin_video_large_16x9.mp4 starts playing @ https://www.apple.com/careers/js/common/clientlibs/source/analytics/analytics.js:41
+[     865ms] [LOG] [External] @ https://www.apple.com/careers/js/common/clientlibs/source/analytics/analytics.js:54
+[     865ms] [LOG] /careers/us/ @ https://www.apple.com/careers/js/common/clientlibs/source/analytics/analytics.js:55
+[     866ms] [LOG] index @ https://www.apple.com/careers/js/common/clientlibs/source/analytics/analytics.js:56
+[     866ms] [LOG] analytics firing @ https://www.apple.com/careers/js/common/clientlibs/source/analytics/analytics.js:57
+[     928ms] [LOG] Video /careers/global/media/acvideo/2021/index/Apple_Loop_V01_500x500_H.264.mp4 starts playing @ https://www.apple.com/careers/js/common/clientlibs/source/analytics/analytics.js:41

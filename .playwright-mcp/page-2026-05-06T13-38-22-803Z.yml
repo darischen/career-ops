@@ -1,0 +1,348 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - link [ref=e407] [cursor=pointer]:
+      - /url: ""
+      - text: Skip to main content
+    - generic [ref=e408]:
+      - paragraph [ref=e11]:
+        - text: We use cookies (or similar technologies) to personalize content and ads, to provide social media features and to analyse our traffic. By clicking "Accept ", you agree to this and the sharing of information
+        - link [ref=e409] [cursor=pointer]:
+          - /url: https://www.hp.com/us-en/privacy/privacy.html?#section=What-Data-We-Collect
+          - text: (What data we collect)
+        - text: about your use of our site with our affiliates & partners. Please find out more about
+        - link [ref=e410] [cursor=pointer]:
+          - /url: https://www.hp.com/us/en/privacy/use-of-cookies.html
+          - text: Use of cookies
+        - text: .
+      - generic [ref=e14]:
+        - button [ref=e411] [cursor=pointer]: Decline
+        - button [ref=e412] [cursor=pointer]: Accept Cookies
+    - banner [ref=e24]:
+      - generic [ref=e26]:
+        - link [ref=e413] [cursor=pointer]:
+          - /url: /en-US/EXTEU-AC-CareerSite
+          - img [ref=e414]
+        - heading [level=1] [ref=e415]: EU Agency Contractor and US Preferential Rehire Job Site
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - button [ref=e416] [cursor=pointer]:
+              - generic [ref=e41]: English
+            - button [ref=e417] [cursor=pointer]:
+              - generic [ref=e48]: Sign In
+          - navigation [ref=e49]:
+            - button [ref=e418] [cursor=pointer]: Search for Jobs
+    - generic [ref=e55]:
+      - alert [ref=e56]: Software Development Graduate Roles page is loaded
+      - generic [ref=e57]:
+        - generic [ref=e59]:
+          - heading [level=2] [ref=e419]: Software Development Graduate Roles
+          - button [ref=e420] [cursor=pointer]: Apply
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - generic [ref=e75]:
+              - term [ref=e76]: locations
+              - definition [ref=e77]: Spring, Texas, United States of America
+              - definition [ref=e78]: Corvallis, Oregon, United States of America
+              - definition [ref=e79]: Vancouver, Washington, United States of America
+            - generic [ref=e80]:
+              - generic [ref=e89]:
+                - term [ref=e90]: time type
+                - definition [ref=e91]: Full time
+              - generic [ref=e100]:
+                - term [ref=e101]: posted on
+                - definition [ref=e102]: Posted Yesterday
+              - generic [ref=e111]:
+                - term [ref=e112]: job requisition id
+                - definition [ref=e113]: "3163097"
+          - generic [ref=e115]:
+            - text: Software Development Graduate Roles
+            - paragraph [ref=e116]
+            - paragraph [ref=e117]: Description -
+            - paragraph [ref=e118]:
+              - text: T
+              - generic [ref=e119]: he
+              - generic [ref=e121]: following posting is a pipeline requisition, meant to accumulate candidates for 2026 graduate roles. Qualified applicants will be contacted in concert with the approval and publication of identical, approved positions within HP, Inc
+              - generic [ref=e123]: .
+            - paragraph [ref=e124]
+            - paragraph [ref=e125]:
+              - generic [ref=e127]:
+                - text: HP occasionally offers work authorization sponsorship for critical need roles. However,
+                - generic [ref=e128]: this opportunity currently does not offer work authorization sponsorship
+                - text: and HP will not provide any assistance or sign documentation in support of immigration sponsorship including Optional Practical Training (OPT).
+            - paragraph [ref=e129]
+            - paragraph [ref=e130]:
+              - generic [ref=e131]: Candidates who identify with a group that is historically underrepresented in the technology sector including by not limited to, African American, Latino, Native American, individuals with disabilities and Veterans are encouraged to apply.
+            - paragraph [ref=e132]
+            - paragraph [ref=e133]: About Us
+            - paragraph [ref=e134]: Innovation is in HP’s DNA. From our origins in a Palo Alto garage in 1939, to our current position as one of the world’s leading technology companies, HP has grown to become a leader in technology and corporate culture, inspiring innovators, and entrepreneurs around the globe.
+            - paragraph [ref=e135]
+            - paragraph [ref=e136]: "HP brings together a portfolio that spans printing, personal computing, software and services to serve more than 1 billion customers in over 170 countries. We are committed to fostering a diverse and inclusive workplace that attracts exceptional talent and to supporting our employees to succeed at all levels. We dream in over 35 languages and share one mission: to engineer experiences that amaze."
+            - paragraph [ref=e137]
+            - paragraph [ref=e138]: "The Program:"
+            - paragraph [ref=e139]: Our future success depends on the innovation and fresh ideas you bring to HP, Inc. We are hiring students and new graduates with a diverse set of skills and experiences to join us, across the different organizations that make us HP, Inc. Our new grad program is intended to help you learn and grow at HP, give you an opportunity to make an impact, and work with leading edge technology. At HP, you’ll use advanced tools and technology to tackle complex challenges that make a real impact on people’s lives.
+            - paragraph [ref=e140]
+            - paragraph [ref=e141]: "The Team:"
+            - paragraph [ref=e142]: At HP, we believe in the power of ideas. And we believe that ideas thrive best in a culture of teamwork. That is why everyone, in every function, is encouraged to develop, express and share their creativity to deliver better outcomes for our customers. HP’s printing technology is the foundation for products as diverse as Inkjet printers and custom orthotics. We continually innovate and evolve our technology to deliver better printing experiences for our customers. Our printing solutions are designed with award-winning reliability, globally renowned quality, constant innovation, and business recognized trust. We have our best portfolio ever and are eager to proactively get the word out to key audiences on our expanding services and solutions.
+            - paragraph [ref=e143]
+            - paragraph [ref=e144]: "Pillars of software specialization:"
+            - paragraph [ref=e145]
+            - paragraph [ref=e146]: "Software Developer:"
+            - list [ref=e147]:
+              - listitem [ref=e148]:
+                - text: "Coding /Tools/Knowledge Areas: Coding/ Tools: Java, Python, C++, React JS, Node JS,"
+                - generic [ref=e149]: RESTful and GraphQL APIs,
+                - generic [ref=e150]: Azure DevOps and AWS CodePipeline,
+                - generic [ref=e151]: RESTful and GraphQL APIs,
+                - generic [ref=e152]: Splunk observability tools, such as Real User Monitoring (RUM), Application Performance Monitoring (APM), and Log Observer.
+            - paragraph [ref=e153]
+            - paragraph [ref=e154]: "Backend Systems:"
+            - list [ref=e155]:
+              - listitem [ref=e156]: "Coding /Tools/Knowledge Areas: Python, C/C++/ Linux Development, GIT, Basic circuit design Cryptography, Test-Driven Design(TDD), Unit test frameworks."
+            - paragraph [ref=e157]
+            - paragraph [ref=e158]: "Data Science and Analytics:"
+            - list [ref=e159]:
+              - listitem [ref=e160]: "Coding /Tools/Knowledge Areas: Python, Splunk, SQL, Data Structures, Data Analysis, Automation and AI, Jira, Power BI, Excel and Data, forecasting, modeling, software development."
+            - paragraph [ref=e161]
+            - paragraph [ref=e162]: "Firmware Developer:"
+            - list [ref=e163]:
+              - listitem [ref=e164]: "Coding /Tools/Knowledge Areas: Firmware/Software development, C++, GHE, GitHub, Debugging, Quality Testing, Software Development Lifecycle"
+            - paragraph [ref=e165]
+            - paragraph [ref=e166]: "Software Applications Developer:"
+            - list [ref=e167]:
+              - listitem [ref=e168]: "Coding /Tools/Knowledge Areas:: Application related languages such as Swift, Objective C, Kotlin, Java, etc."
+            - paragraph [ref=e169]
+            - paragraph [ref=e170]: "System Validation Engineer:"
+            - list [ref=e171]:
+              - listitem [ref=e172]:
+                - text: "Coding /Tools/Knowledge Areas: Software Quality Assurance (SQA), Coding"
+                - generic [ref=e173]: Language(Understanding
+                - text: "of code architecture: C, Python, Java), Agile Development (Lean, Scrum, DevOps), Project Management, Data Analysis and Reporting, Computer Architecture, Office365"
+            - paragraph [ref=e174]
+            - paragraph [ref=e175]: "Systems Integration and Design:"
+            - list [ref=e176]:
+              - listitem [ref=e177]:
+                - text: "Coding /Tools/Knowledge Areas: Ruby-on-Rails, Java, Angular, AWS, GO, , Familiarity with"
+                - generic [ref=e178]: Test-Driven-Development,
+                - text: printing system architectures, embedded systems, client/server infrastructure, networking technologies, Windows, MAC, Linux operating systems
+            - paragraph [ref=e179]
+            - paragraph [ref=e180]
+            - paragraph [ref=e181]: "Education and Experience Required:"
+            - list [ref=e182]:
+              - listitem [ref=e183]: Have no more than 12 months of prior work experience professionally related to the Graduate Hire Requisition they are applying to, (not including internships, teaching assistance, research work, or military experience).
+              - listitem [ref=e184]: Will have completed at least your bachelor’s degree prior to your anticipated start date with HP.
+              - listitem [ref=e185]: Able to obtain work authorization in the United States without requiring sponsorship in the future.
+            - paragraph [ref=e186]
+            - paragraph [ref=e187]: "Preferred Majors/Programs:"
+            - list [ref=e188]:
+              - listitem [ref=e189]:
+                - paragraph [ref=e190]: Computer Science
+              - listitem [ref=e191]:
+                - paragraph [ref=e192]: Software Engineering
+              - listitem [ref=e193]:
+                - paragraph [ref=e194]: Computer Engineering
+            - paragraph [ref=e195]
+            - paragraph [ref=e196]: "Preferred Knowledge and Skills:"
+            - paragraph [ref=e197]
+            - paragraph [ref=e198]: "As a Software Engineer Intern, you will work with a team within Imaging and Print in the following types of roles:"
+            - list [ref=e199]:
+              - listitem [ref=e200]:
+                - paragraph [ref=e201]: Data analytics
+              - listitem [ref=e202]:
+                - paragraph [ref=e203]: Data science
+              - listitem [ref=e204]:
+                - paragraph [ref=e205]: Software applications engineering
+              - listitem [ref=e206]:
+                - paragraph [ref=e207]: Software development ops
+              - listitem [ref=e208]:
+                - paragraph [ref=e209]: Software product manager
+              - listitem [ref=e210]:
+                - paragraph [ref=e211]: Technical program management
+            - paragraph [ref=e212]
+            - paragraph [ref=e213]: We are looking for visionaries who are ready to make an impact on the way the world works. At HP, the future is yours to create. Thanks for taking the time to review our job, if you think it is a match to your knowledge and interests please apply today— we are eager to learn more about you.
+            - paragraph [ref=e214]
+            - paragraph [ref=e215]:
+              - text: "HP is an equal opportunity employer:"
+              - generic [ref=e219]: https://www8.hp.com/h20195/v2/GetDocument.aspx?docname=c08129225
+            - paragraph [ref=e220]
+            - paragraph [ref=e221]: The base pay range for this role is $75,900 to $113,850 annually with additional opportunities for pay in the form of bonus and/or equity (applies to US candidates only). Pay varies by work location, job-related knowledge, skills, and experience.
+            - paragraph [ref=e222]: "Benefits:"
+            - paragraph [ref=e223]: "HP offers a comprehensive benefits package for this position, including:"
+            - list [ref=e224]:
+              - listitem [ref=e225]: Health insurance
+              - listitem [ref=e226]: Dental insurance
+              - listitem [ref=e227]: Vision insurance
+              - listitem [ref=e228]: Long term/short term disability insurance
+              - listitem [ref=e229]: Employee assistance program
+              - listitem [ref=e230]: Flexible spending account
+              - listitem [ref=e231]: Life insurance
+              - listitem [ref=e232]:
+                - text: Generous time off policies, including;
+                - list [ref=e233]:
+                  - listitem [ref=e234]: 4-12 weeks fully paid parental leave based on tenure
+                  - listitem [ref=e235]: 11 paid holidays
+                  - listitem [ref=e236]:
+                    - text: Additional flexible paid vacation and sick leave (
+                    - link [ref=e421] [cursor=pointer]:
+                      - /url: https://hpbenefits.ce.alight.com/
+                      - text: US benefits overview
+                    - text: )
+            - paragraph [ref=e238]
+            - paragraph [ref=e239]: The compensation and benefits information is accurate as of the date of this posting. The Company reserves the right to modify this information at any time, with or without notice, subject to applicable law.
+            - paragraph [ref=e240]
+            - paragraph [ref=e241]
+            - paragraph [ref=e242]:
+              - link [ref=e422] [cursor=pointer]:
+                - /url: https://jobs.hp.com/
+                - text: Explore HP
+              - text: "#LI-POST"
+            - paragraph [ref=e244]
+            - paragraph [ref=e245]: Job -
+            - text: Software
+            - paragraph [ref=e246]
+            - paragraph [ref=e247]: Schedule -
+            - text: Full time
+            - paragraph [ref=e248]
+            - paragraph [ref=e249]: Shift -
+            - text: No shift premium (United States of America)
+            - paragraph [ref=e250]
+            - paragraph [ref=e251]: Travel -
+            - paragraph [ref=e252]
+            - paragraph [ref=e253]: Relocation -
+            - paragraph [ref=e254]:
+              - generic [ref=e255]:
+                - generic [ref=e259]: Equal Opportunity Employer (EEO)
+                - text: "-"
+            - paragraph [ref=e260]
+            - paragraph [ref=e261]: HP, Inc. provides equal employment opportunity to all employees and prospective employees, without regard to race, color, religion, sex, national origin, ancestry, citizenship, sexual orientation, age, disability, or status as a protected veteran, marital status, familial status, physical or mental disability, medical condition, pregnancy, genetic predisposition or carrier status, uniformed service status, political affiliation or any other characteristic protected by applicable national, federal, state, and local law(s).
+            - paragraph [ref=e262]
+            - paragraph [ref=e263]: Please be assured that you will not be subject to any adverse treatment if you choose to disclose the information requested. This information is provided voluntarily. The information obtained will be kept in strict confidence.
+            - paragraph [ref=e264]
+            - paragraph [ref=e265]:
+              - text: For more information, review HP’s
+              - link [ref=e423] [cursor=pointer]:
+                - /url: https://www8.hp.com/h20195/v2/GetDocument.aspx?docname=c08129225
+                - text: EEO Policy
+              - text: "or read about your rights as an applicant under the law here: “"
+              - link [ref=e424] [cursor=pointer]:
+                - /url: http://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf
+                - text: "Know Your Rights: Workplace Discrimination is Illegal"
+              - text: "\""
+            - paragraph [ref=e268]
+            - paragraph [ref=e269]
+      - generic [ref=e271]:
+        - generic [ref=e272]:
+          - heading [level=3] [ref=e425]: Welcome
+          - generic [ref=e275]:
+            - generic [ref=e277]:
+              - heading [level=1] [ref=e278]:
+                - generic [ref=e279]: You want to reshape the way the world works. So do we.
+              - paragraph [ref=e280]
+              - paragraph [ref=e281]: You’re looking for more than just a job; you’re looking to make a difference. That means creating something new. Something that matters. Something that changes how the world works for the better.
+              - paragraph [ref=e282]
+              - paragraph [ref=e283]: A career at HP can help you build the tomorrow you want.
+              - paragraph [ref=e284]
+              - paragraph [ref=e285]: Let’s grow together.
+              - paragraph [ref=e286]
+              - paragraph [ref=e287]:
+                - generic [ref=e291]:
+                  - link [ref=e292] [cursor=pointer]:
+                    - /url: http://www8.hp.com/us/en/privacy/privacy.html
+                    - text: Privacy
+                  - text: ","
+                  - link [ref=e293] [cursor=pointer]:
+                    - /url: http://www8.hp.com/us/en/terms-of-use.html
+                    - text: Terms of Use
+                  - text: and
+                  - link [ref=e294] [cursor=pointer]:
+                    - /url: http://www8.hp.com/us/en/hp-information/accessibility-aging/index.html
+                    - text: Accessibility
+              - paragraph [ref=e295]
+              - paragraph [ref=e296]: Our founders believed that business exists when people work together to ‘accomplish something collectively which they could not accomplish separately.’ We uphold a zero-tolerance policy towards discrimination and treat everyone with respect. By maintaining these principles, we empower the HP team to contribute to our collective success and the future of work.
+              - paragraph [ref=e297]
+            - button [ref=e426] [cursor=pointer]:
+              - generic [ref=e301]: Read More
+        - generic [ref=e306]:
+          - heading [level=3] [ref=e427]: About Us
+          - img [ref=e428]
+          - generic [ref=e310]:
+            - generic [ref=e312]:
+              - paragraph [ref=e313]:
+                - generic [ref=e315]: Learn more about HP personal data
+                - generic [ref=e318]:
+                  - text: practices at
+                  - link [ref=e319] [cursor=pointer]:
+                    - /url: http://www.hp.com/go/privacy
+                    - text: Privacy Statement
+                  - text: ","
+                - generic [ref=e322]:
+                  - link [ref=e323] [cursor=pointer]:
+                    - /url: http://www8.hp.com/uk/en/privacy/privacy_notice.html
+                    - text: Personal Data Rights Notice
+                  - text: (where
+                - generic [ref=e326]:
+                  - text: applicable),
+                  - link [ref=e327] [cursor=pointer]:
+                    - /url: http://www8.hp.com/us/en/hp-information/accessibility-aging/index.html
+                    - text: Accessibility at HP
+                  - text: ","
+                - generic [ref=e331]:
+                  - text: and
+                  - link [ref=e332] [cursor=pointer]:
+                    - /url: http://www8.hp.com/us/en/terms-of-use.html
+                    - text: Terms
+                  - text: .
+              - paragraph [ref=e333]
+              - paragraph [ref=e334]:
+                - text: You can be yourself at HP.
+                - link [ref=e336] [cursor=pointer]:
+                  - /url: http://hp.com/diversity
+                  - text: Learn more
+              - paragraph [ref=e337]
+              - paragraph [ref=e338]: Having trouble with this page or with applying to a role?
+              - paragraph [ref=e339]
+              - paragraph [ref=e340]:
+                - text: Click
+                - link [ref=e341] [cursor=pointer]:
+                  - /url: https://ssl.www8.hp.com/us/en/jobs/help-form.html
+                  - text: here
+                - text: to submit a request for support.
+              - paragraph [ref=e342]
+              - paragraph [ref=e343]
+            - button [ref=e429] [cursor=pointer]:
+              - generic [ref=e347]: Read More
+    - generic [ref=e351]:
+      - generic [ref=e352]: Follow Us
+      - list [ref=e353]:
+        - listitem [ref=e354] [cursor=pointer]:
+          - link [ref=e430]:
+            - /url: http://www.glassdoor.com/Overview/Working-at-HP-Inc-EI_IE1093161.11,17.htm
+        - listitem [ref=e359] [cursor=pointer]:
+          - link [ref=e431]:
+            - /url: http://www.youtube.com/playlist?list=PLlhQGpaGkhABbWXR7N0lw-QxCpGlOhRMz
+        - listitem [ref=e366] [cursor=pointer]:
+          - link [ref=e432]:
+            - /url: http://www.facebook.com/hpcareers
+        - listitem [ref=e371] [cursor=pointer]:
+          - link [ref=e433]:
+            - /url: https://twitter.com/hpcareers
+        - listitem [ref=e377] [cursor=pointer]:
+          - link [ref=e434]:
+            - /url: https://www.linkedin.com/company/hp
+      - generic [ref=e382]:
+        - img [ref=e386]
+        - generic [ref=e406]: © 2026 Workday, Inc. All rights reserved.
+  - dialog "Start Your Application" [ref=e438]:
+    - button "Close" [active] [ref=e440] [cursor=pointer]
+    - generic [ref=e446]:
+      - heading "Start Your Application" [level=2] [ref=e447]
+      - heading "Software Development Graduate Roles" [level=3] [ref=e448]
+      - paragraph [ref=e449]: If you need assistance with your application or an accommodation during the recruiting process, please email us at usaccommodation@hp.com.
+      - button "Autofill with Resume" [ref=e453] [cursor=pointer]
+      - button "Apply Manually" [ref=e457] [cursor=pointer]
+      - button "Use My Last Application" [ref=e462] [cursor=pointer]
+      - iframe [ref=e466]:
+        - iframe [ref=f31e4]:
+          - main [ref=f33e2]:
+            - button "Apply With LinkedIn" [ref=f33e3] [cursor=pointer]:
+              - img [ref=f33e5]
+              - generic [ref=f33e7]: Apply With LinkedIn

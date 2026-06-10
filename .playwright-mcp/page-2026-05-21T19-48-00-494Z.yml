@@ -1,0 +1,182 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e9]:
+        - link "Steampunk Logo" [ref=e11] [cursor=pointer]:
+          - /url: https://steampunk.com/
+          - img "Steampunk Logo" [ref=e12]
+        - navigation "Main Menu Mobile" [ref=e14]
+    - main [ref=e15]:
+      - generic [ref=e19]:
+        - heading "Open Positions" [level=1] [ref=e25]
+        - main "Career Portal" [ref=e30]:
+          - iframe [ref=e31]:
+            - generic [active] [ref=f6e1]:
+              - link "Skip to Main Content" [ref=f6e2] [cursor=pointer]:
+                - /url: "#iCIMS_Header"
+              - link "steampunk" [ref=f6e4] [cursor=pointer]:
+                - /url: https://careers-steampunk.icims.com/jobs?in_iframe=1&hashed=-435593565
+                - heading "steampunk" [level=1] [ref=f6e5]
+              - text: 
+              - generic [ref=f6e6]:
+                - generic [ref=f6e7]:
+                  - link "Welcome page" [ref=f6e11] [cursor=pointer]:
+                    - /url: https://careers-steampunk.icims.com/jobs/intro?in_iframe=1
+                    - generic [ref=f6e12]: 
+                    - text: Welcome page
+                  - generic [ref=f6e15]:
+                    - generic [ref=f6e16]: Returning Candidate?
+                    - link "Log back in!" [ref=f6e18] [cursor=pointer]:
+                      - /url: https://careers-steampunk.icims.com/jobs/6515/machine-learning-engineer/login?loginOnly=1&redirect=job&in_iframe=1&hashed=-435593565
+                - generic [ref=f6e20]:
+                  - generic [ref=f6e22]:
+                    - heading "Machine Learning Engineer" [level=1] [ref=f6e25]
+                    - generic [ref=f6e26]:
+                      - generic [ref=f6e27]: Job Location
+                      - text: US-VA-McLean
+                    - generic [ref=f6e28]:
+                      - generic [ref=f6e29]: Posted Date
+                      - generic "6/24/2025 12:45 PM" [ref=f6e30]:
+                        - text: 11 months ago
+                        - generic [ref=f6e31]: (6/24/2025 12:45 PM)
+                    - generic [ref=f6e33]:
+                      - generic [ref=f6e34]:
+                        - term [ref=f6e35]: Job ID
+                        - definition [ref=f6e36]: "6515"
+                      - generic [ref=f6e37]:
+                        - term [ref=f6e38]: Clearance Requirement
+                        - definition [ref=f6e39]: Public Trust
+                  - heading "Overview" [level=2] [ref=f6e40]
+                  - paragraph [ref=f6e44]:
+                    - generic [ref=f6e45]:
+                      - text: We are looking for seasoned
+                      - strong [ref=f6e47]: Machine Learning Engineer
+                      - text: to work with our existing team of Data Scientists and Engineers to use AI/ML technology in supporting Federal use cases. We are looking for a more than just a "Machine Learning Engineer", but a technologist with excellent communication and customer service skills and a passion for data and problem solving.
+                  - heading "Contributions" [level=2] [ref=f6e48]
+                  - generic [ref=f6e51]:
+                    - paragraph [ref=f6e52]
+                    - list [ref=f6e53]:
+                      - listitem [ref=f6e54]: Collaborate with cross-functional teams to design and develop machine learning models and algorithms to address business needs.
+                      - listitem [ref=f6e55]: Analyze and process large datasets to extract meaningful insights and patterns.
+                      - listitem [ref=f6e56]: Collaborate with cross-functional teams to integrate machine learning solutions into existing systems and workflows.
+                      - listitem [ref=f6e57]: Optimize and fine-tune machine learning models for performance, scalability, and accuracy.
+                      - listitem [ref=f6e58]: Implement and maintain data pipelines to support machine learning workflows.
+                      - listitem [ref=f6e59]: Evaluate the effectiveness of machine learning models using appropriate metrics and validation techniques.
+                      - listitem [ref=f6e60]: Document processes, experiments, and results to ensure reproducibility and knowledge sharing.
+                      - listitem [ref=f6e61]: Deploy machine learning models to production environments and monitor their performance.
+                      - listitem [ref=f6e62]: Stay updated with the latest research and trends in AI to implement cutting-edge solutions.
+                      - listitem [ref=f6e63]: Support an Agile software development lifecycle
+                      - listitem [ref=f6e64]: You will contribute to the growth of our AI & Data Exploitation Practice!
+                  - heading "Qualifications" [level=2] [ref=f6e65]
+                  - generic [ref=f6e68]:
+                    - paragraph [ref=f6e69]
+                    - list [ref=f6e70]:
+                      - listitem [ref=f6e71]: Ability to hold a position of public trust with the US government.
+                      - listitem [ref=f6e72]: Bachelor's degree in computer science, data science/statistics, information systems, engineering, business, or a scientific or technical discipline
+                      - listitem [ref=f6e73]: 2-4 years industry experience developing ML/AI solutions and a passion for solving complex problems.
+                      - listitem [ref=f6e74]: 2-4 years industry experience with machine learning frameworks and libraries such as TensorFlow, PyTorch, or scikit-learn.
+                      - listitem [ref=f6e75]: Strong programming skills in languages such as Python, R, or Java.
+                      - listitem [ref=f6e76]: Solid understanding of statistical methods, data structures, and algorithms.
+                      - listitem [ref=f6e77]: Experience with data preprocessing, feature engineering, and model evaluation techniques.
+                      - listitem [ref=f6e78]: Familiarity with big data technologies like Hadoop, Spark, or similar.
+                      - listitem [ref=f6e79]: Knowledge of cloud platforms such as AWS, Google Cloud, or Azure.
+                      - listitem [ref=f6e80]: Experience with version control systems, such as Git, and continuous integration/continuous deployment (CI/CD) practices.
+                      - listitem [ref=f6e81]: Excellent problem-solving skills and attention to detail.
+                      - listitem [ref=f6e82]: Strong communication skills and ability to work collaboratively in a team environment.
+                      - listitem [ref=f6e83]: Ability to manage multiple tasks and projects simultaneously while meeting deadlines.
+                    - paragraph [ref=f6e84]
+                  - heading "About steampunk" [level=2] [ref=f6e85]:
+                    - text: About
+                    - strong [ref=f6e87]: steampunk
+                  - generic [ref=f6e90]:
+                    - paragraph [ref=f6e91]: Steampunk relies on several factors to determine salary, including but not limited to geographic location, contractual requirements, education, knowledge, skills, competencies, and experience. The projected compensation range for this position is $115,000 to $150,000. The estimate displayed represents a typical annual salary range for this position. Annual salary is just one aspect of Steampunk’s total compensation package for employees. Learn more about additional Steampunk benefits here.
+                    - paragraph [ref=f6e92]
+                    - paragraph [ref=f6e93]:
+                      - strong [ref=f6e94]: Identity Statement
+                    - paragraph [ref=f6e95]: As part of the application process, you are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.
+                    - paragraph [ref=f6e96]
+                    - paragraph [ref=f6e97]:
+                      - generic [ref=f6e98]:
+                        - text: Steampunk is a
+                        - strong [ref=f6e99]: Change Agent
+                        - text: in the Federal contracting industry, bringing new thinking to clients in the Homeland, Federal Civilian, Health and DoD sectors. Through our
+                        - strong [ref=f6e100]: Human-Centered delivery methodology
+                        - text: ", we are fundamentally changing the expectations our Federal clients have for true shared accountability in solving their toughest mission challenges. As an"
+                        - strong [ref=f6e101]: employee-owned company
+                        - text: ", we focus on investing in our employees to enable them to do the greatest work of their careers – and rewarding them for outstanding contributions to our growth. If you want to learn more about our story, visit http://www.steampunk.com."
+                    - paragraph [ref=f6e102]
+                    - paragraph [ref=f6e103]:
+                      - emphasis [ref=f6e105]: We are an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law. Steampunk participates in the E-Verify program.
+                  - generic:
+                    - generic [ref=f6e106]:
+                      - link "Apply" [ref=f6e107] [cursor=pointer]:
+                        - /url: https://careers-steampunk.icims.com/jobs/6515/machine-learning-engineer/job?mode=apply&apply=yes&in_iframe=1&hashed=-336029103
+                        - generic [ref=f6e108]: Apply
+                      - link "Share" [ref=f6e109] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f6e110]: Share
+                      - link "Refer" [ref=f6e111] [cursor=pointer]:
+                        - /url: https://careers-steampunk.icims.com/jobs/6515/machine-learning-engineer/referral?in_iframe=1&hashed=-435593565
+                        - generic [ref=f6e112]: Refer
+                    - text: 
+                  - heading "Need help finding the right job?" [level=2] [ref=f6e113]
+                  - generic [ref=f6e116]:
+                    - text: We can recommend jobs specifically for you!
+                    - link "Click here to get started." [ref=f6e117] [cursor=pointer]:
+                      - /url: https://careers-steampunk.icims.com/connect?back=intro&findajob=1&in_iframe=1&hashed=-435593565
+                  - generic [ref=f6e118]:
+                    - link "Application FAQs" [ref=f6e119] [cursor=pointer]:
+                      - /url: https://icims.help/candidate-faq
+                    - paragraph [ref=f6e121]:
+                      - text: Software Powered by iCIMS
+                      - link "www.icims.com" [ref=f6e122] [cursor=pointer]:
+                        - /url: http://www.icims.com/platform_help?utm_source=platform&utm_medium=link&utm_content=page1&utm_campaign=platform%20help
+    - generic [ref=e33]:
+      - generic [ref=e35]:
+        - paragraph [ref=e39]:
+          - strong [ref=e41]: Tyson’s Corner Office – HQ
+          - text: 1753 Pinnacle Drive, Suite 900
+          - text: McLean, VA 22102
+          - link "contactus@steampunk.com" [ref=e42] [cursor=pointer]:
+            - /url: mailto:contactus@steampunk.com
+          - text: (571) 395-8000
+        - paragraph [ref=e46]:
+          - strong [ref=e48]:
+            - text: Design Intelligence
+            - superscript [ref=e49]: ®
+            - text: Studio
+          - text: 1753 Pinnacle Drive, Suite 215
+          - text: McLean, VA 22102
+        - paragraph [ref=e53]:
+          - strong [ref=e55]: Washington, DC Office
+          - text: 1627 I St NW, Suite 950
+          - text: Washington, DC 20006
+        - generic [ref=e61]:
+          - link "facebook" [ref=e62] [cursor=pointer]:
+            - /url: https://www.facebook.com/teampunks/
+            - text: 
+          - link "twitter" [ref=e63] [cursor=pointer]:
+            - /url: https://twitter.com/Steampunk_inc
+            - text: 
+          - link "instagram" [ref=e64] [cursor=pointer]:
+            - /url: https://www.instagram.com/steampunk_ddr/
+            - text: 
+          - link "linkedin" [ref=e65] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/steampunk-inc/
+            - text: 
+          - link "youtube" [ref=e66] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCshLsJObDln3mwMgdhKzB_w
+            - text: 
+          - link "mail" [ref=e67] [cursor=pointer]:
+            - /url: mailto:contactus@steampunk.com
+            - text: 
+      - heading "Design. Disrupt. Repeat. | Trademark ™ and Copyright © 2021 | All Rights Reserved" [level=2] [ref=e73]:
+        - strong [ref=e74]: Design. Disrupt. Repeat.
+        - text: "| Trademark ™ and Copyright © 2021 | All Rights Reserved"
+  - generic:
+    - link " Go to Top":
+      - /url: "#"
+      - text: 
+      - generic: Go to Top

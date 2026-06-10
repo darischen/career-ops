@@ -1,0 +1,6 @@
+[    1433ms] [INFO] haystack-build-marker: 2026-04-22-geo-warmup @ https://haystack.cv/assets/index-BDqG7-l9.js:2604
+[    1489ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://haystack.cv' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://haystack.cv/apply/a98cb5d3-fd07-4d25-a73e-7e92a8abb9cb?src=onboarded:0
+[    1490ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[    1492ms] [ERROR] Access to fetch at 'https://ipapi.co/country_code/' from origin 'https://haystack.cv' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://haystack.cv/apply/a98cb5d3-fd07-4d25-a73e-7e92a8abb9cb?src=onboarded:0
+[    1492ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/country_code/:0
+[    1936ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://haystack.cv/apply/a98cb5d3-fd07-4d25-a73e-7e92a8abb9cb?src=onboarded:0

@@ -1,0 +1,119 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic [ref=e2]:
+      - link "Netflix Jobs Logo" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img "Netflix Jobs Logo" [ref=e5]
+      - generic [ref=e7]:
+        - button "Only At Netflix" [ref=e8] [cursor=pointer]
+        - button "Careers" [ref=e9] [cursor=pointer]
+        - button "Locations" [ref=e10] [cursor=pointer]
+      - generic [ref=e11]:
+        - link "VIEW ROLES" [ref=e12] [cursor=pointer]:
+          - /url: https://explore.jobs.netflix.net/careers
+        - button "Netflix Map Pin" [ref=e13]:
+          - img "Netflix Map Pin" [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - img "Search Image" [ref=e17]
+        - button "X" [ref=e19] [cursor=pointer]
+        - generic [ref=e20]: Ready to Jump In the Spotlight?
+      - generic [ref=e21]:
+        - generic [ref=e22]:
+          - button "All Locations ▼" [ref=e24] [cursor=pointer]:
+            - text: All Locations
+            - generic [ref=e25]: ▼
+          - button "All Teams ▼" [ref=e27] [cursor=pointer]:
+            - text: All Teams
+            - generic [ref=e28]: ▼
+        - generic [ref=e29]:
+          - generic [ref=e30]: Search By Keywords
+          - textbox "Your Search" [ref=e32]
+        - button "Find the perfect role" [ref=e34]
+  - main [ref=e35]:
+    - generic [ref=e36]:
+      - generic [ref=e48]:
+        - generic [ref=e49]: Join a star studded ensemble
+        - generic [ref=e50]:
+          - generic [ref=e52]: Join
+          - generic [ref=e54]: a
+        - generic [ref=e55]:
+          - generic [ref=e58]: star
+          - generic [ref=e61]: studded
+        - generic [ref=e64]: ensemble
+      - generic [ref=e66]:
+        - generic [ref=e67]:
+          - img [ref=e71]
+          - img [ref=e74]
+          - img [ref=e77]
+          - img [ref=e80]
+          - img [ref=e83]
+          - img [ref=e86]
+          - img [ref=e89]
+          - img [ref=e92]
+          - img [ref=e95]
+          - img [ref=e98]
+        - generic [ref=e99]:
+          - heading "We call it the Dream team" [level=2] [ref=e100]:
+            - generic [ref=e101]: We call it the
+            - generic [ref=e102]: Dream team
+            - generic [ref=e103]: We call it the Dream team
+          - generic [ref=e104]: A group of people who love what they do — and strive to do it better every single day. Come and be part of it.
+      - generic [ref=e110]:
+        - img "Netflix image 3009" [ref=e115]
+        - img [ref=e117]
+      - generic [ref=e120]:
+        - img "welcome-to-hawkins" [ref=e125]
+        - generic [ref=e128]:
+          - generic [ref=e130]:
+            - generic [ref=e132]: We
+            - generic [ref=e134]: are
+            - generic [ref=e136]: making
+            - generic [ref=e138]: steady
+            - generic [ref=e140]: progress
+            - generic [ref=e142]: "on"
+            - generic [ref=e144]: our
+            - generic [ref=e146]: mission
+            - generic [ref=e148]: to
+            - generic [ref=e150]: entertain
+            - generic [ref=e152]: the
+            - generic [ref=e154]: world
+          - link "VIEW OPEN ROLES" [ref=e156] [cursor=pointer]:
+            - /url: https://explore.jobs.netflix.net/careers
+      - generic [ref=e169]:
+        - generic [ref=e170]: Join our dream team
+        - generic [ref=e171]:
+          - generic [ref=e173]: Join
+          - generic [ref=e175]: our
+        - generic [ref=e179]: dream
+        - generic [ref=e182]: team
+  - generic [ref=e183]: Scroll to explore
+  - generic [ref=e184]:
+    - img "netflix N logo" [ref=e187]
+    - img "netflix N logo blurred background" [ref=e190]
+    - paragraph [ref=e191]: loading
+  - generic [ref=e195]:
+    - generic [ref=e196]: Inclusion is a Netflix value and we strive to host a meaningful interview experience for all candidates. If you want an accommodation/adjustment for a disability or any other reason during the hiring process, please send a request to your recruiting partner.
+    - generic [ref=e197]:
+      - link "About Us" [ref=e198] [cursor=pointer]:
+        - /url: https://about.netflix.com/en
+      - link "Privacy" [ref=e199] [cursor=pointer]:
+        - /url: /candidate-privacy
+      - link "Cookie Preferences" [ref=e200] [cursor=pointer]:
+        - /url: "#"
+      - link "Netflix House Jobs" [ref=e201] [cursor=pointer]:
+        - /url: https://jobs.netflixhouse.com/
+      - link "Do Not Sell Or Share My Personal Information" [ref=e202] [cursor=pointer]:
+        - /url: /dnssi
+  - alert [ref=e203]
+  - dialog "Privacy" [ref=e205]:
+    - generic [ref=e207]:
+      - generic [ref=e210]:
+        - text: We use cookies to operate our services. We may also share information about your use of our site with partners who help us operate our business. Read more
+        - link "here" [ref=e211] [cursor=pointer]:
+          - /url: https://jobs.netflix.com/candidateprivacy#cookies
+        - text: or change your cookie preferences by selecting ‘Learn more’.
+      - generic [ref=e213]:
+        - button "Learn more, Opens the preference center dialog" [ref=e214] [cursor=pointer]: Learn more
+        - button "OK" [ref=e215] [cursor=pointer]
+    - button "Close" [ref=e217] [cursor=pointer]

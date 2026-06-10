@@ -1,0 +1,157 @@
+- generic [ref=e4]:
+  - navigation "Main Navigation" [ref=e5]:
+    - generic [ref=e6]:
+      - link "Header databricks logo" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - figure [ref=e8]
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - button "Switch language. Current Language - English" [ref=e13] [cursor=pointer]:
+            - img [ref=e14]
+          - button "Site search" [ref=e17] [cursor=pointer]:
+            - img [ref=e18]
+        - link "Login" [ref=e21] [cursor=pointer]:
+          - /url: https://login.databricks.com/?dbx_source=www&itm=main-cta-login&l=en-EN
+        - button "Open menu" [ref=e23] [cursor=pointer]
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - list [ref=e26]:
+          - listitem [ref=e27]:
+            - button "Why Databricks" [ref=e29] [cursor=pointer]:
+              - text: Why Databricks
+              - img [ref=e30]
+          - listitem [ref=e32]:
+            - button "Product" [ref=e34] [cursor=pointer]:
+              - text: Product
+              - img [ref=e35]
+          - listitem [ref=e37]:
+            - button "Solutions" [ref=e39] [cursor=pointer]:
+              - text: Solutions
+              - img [ref=e40]
+          - listitem [ref=e42]:
+            - button "Resources" [ref=e44] [cursor=pointer]:
+              - text: Resources
+              - img [ref=e45]
+          - listitem [ref=e47]:
+            - button "About" [ref=e49] [cursor=pointer]:
+              - text: About
+              - img [ref=e50]
+        - list [ref=e54]:
+          - listitem [ref=e55]:
+            - generic [ref=e56]: Ready to get started?
+          - listitem [ref=e57]:
+            - link "Get a Demo" [ref=e58] [cursor=pointer]:
+              - /url: /resources/demos
+        - generic [ref=e60]:
+          - link "JUNE 15–18|SAN FRANCISCO Last chance to save 50% — ends April 30. Register":
+            - /url: /dataaisummit?itm_source=www&itm_category=home&itm_page=home&itm_location=navigation&itm_component=navigation&itm_offer=dataaisummit
+            - generic:
+              - figure:
+                - generic:
+                  - img "Data+ai summit promo"
+            - generic:
+              - paragraph: JUNE 15–18|SAN FRANCISCO
+              - generic:
+                - paragraph: Last chance to save 50% — ends April 30.
+            - generic: Register
+      - list [ref=e61]:
+        - listitem [ref=e62]:
+          - link "Try Databricks in Main Navigation" [ref=e63] [cursor=pointer]:
+            - /url: https://www.databricks.com/signup?dbx_source=www&itm_data=dbx-web-nav&l=en-EN&itm_source=www&itm_category=home&itm_page=home&itm_offer=signup
+            - text: Try Databricks
+  - generic [ref=e64]:
+    - main [ref=e66]:
+      - generic [ref=e69]:
+        - generic [ref=e70]: "404"
+        - heading "Oops, we're missing data on this page" [level=1] [ref=e71]
+        - paragraph [ref=e72]: The page you're looking for has been removed, renamed, or is unavailable
+    - contentinfo [ref=e74]:
+      - generic [ref=e75]:
+        - generic [ref=e76]:
+          - link "databricks logo" [ref=e81] [cursor=pointer]:
+            - /url: https://www.databricks.com/
+            - figure [ref=e82]:
+              - img "databricks logo" [ref=e87]
+          - generic [ref=e88]:
+            - generic [ref=e92]:
+              - button "Why Databricks" [ref=e93] [cursor=pointer]
+              - button "Why Databricks"
+            - generic [ref=e97]:
+              - button "Product" [ref=e98] [cursor=pointer]
+              - button "Product"
+            - generic [ref=e102]:
+              - button "Solutions" [ref=e103] [cursor=pointer]
+              - button "Solutions"
+            - generic [ref=e107]:
+              - button "Resources" [ref=e108] [cursor=pointer]
+              - button "Resources"
+            - generic [ref=e112]:
+              - button "About" [ref=e113] [cursor=pointer]
+              - button "About"
+          - generic [ref=e114]:
+            - generic [ref=e115]:
+              - paragraph [ref=e117]:
+                - text: Databricks Inc.
+                - text: 160 Spear Street, 15th Floor
+                - text: San Francisco, CA 94105
+                - text: 1-866-330-0121
+              - generic [ref=e118]:
+                - figure [ref=e123]
+                - paragraph [ref=e132]:
+                  - link "See Careers" [ref=e133] [cursor=pointer]:
+                    - /url: https://www.databricks.com/company/careers
+                  - link "at Databricks" [ref=e134] [cursor=pointer]:
+                    - /url: https://www.databricks.com/company/careers
+            - generic:
+              - list:
+                - listitem:
+                  - link "Visit our LinkedIn page":
+                    - /url: https://www.linkedin.com/company/databricks
+                - listitem:
+                  - link "Visit our Facebook page":
+                    - /url: https://www.facebook.com/pages/Databricks/560203607379694
+                - listitem:
+                  - link "Visit our Twitter page":
+                    - /url: https://twitter.com/databricks
+                - listitem:
+                  - link "rss feed":
+                    - /url: https://www.databricks.com/feed
+                - listitem:
+                  - link "glassdoor":
+                    - /url: https://www.glassdoor.com/Overview/Working-at-Databricks-EI_IE954734.11,21.htm
+                - listitem:
+                  - link "Watch the Video on Youtube":
+                    - /url: https://www.youtube.com/@Databricks
+        - generic [ref=e135]:
+          - paragraph [ref=e142]:
+            - text: © Databricks 2026. All rights reserved. Apache, Apache Spark, Spark, the Spark Logo, Apache Iceberg, Iceberg, and the Apache Iceberg logo are trademarks of the
+            - link "The Apache Software Foundation" [ref=e143] [cursor=pointer]:
+              - /url: https://www.apache.org/
+              - text: Apache Software Foundation
+            - text: .
+          - list [ref=e144]:
+            - listitem [ref=e145]:
+              - link "Read Privacy Notice" [ref=e146] [cursor=pointer]:
+                - /url: https://www.databricks.com/legal/privacynotice
+                - text: Privacy Notice
+            - listitem [ref=e147]:
+              - text: "|"
+              - link "Read Terms of Use" [ref=e148] [cursor=pointer]:
+                - /url: https://www.databricks.com/legal/terms-of-use
+                - text: Terms of Use
+            - listitem [ref=e149]:
+              - text: "|"
+              - link "Read Modern Slavery Statement" [ref=e150] [cursor=pointer]:
+                - /url: https://www.databricks.com/legal/modern-slavery-policy-statement
+                - text: Modern Slavery Statement
+            - listitem [ref=e151]:
+              - text: "|"
+              - link "Read California Privacy" [ref=e152] [cursor=pointer]:
+                - /url: https://www.databricks.com/legal/supplemental-privacy-notice-california-residents
+                - text: California Privacy
+            - listitem [ref=e153]:
+              - text: "|"
+              - link "Read Your Privacy Choices" [ref=e154] [cursor=pointer]:
+                - /url: "#yourprivacychoices"
+                - text: Your Privacy Choices
+            - listitem [ref=e155]

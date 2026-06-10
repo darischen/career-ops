@@ -1,0 +1,2 @@
+[     878ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=200&d=404:0
+[    2449ms] [LOG] https://gtm3.shopify.com/logging?container=GTM-TZ26LP8&c=US&541=s-59&141=s-1157&110=s-50&490=s-1152&836=s-47&849=s-1151&850=s-1151&120=s-45&139=s-43&223=s-3&em= @ https://www.googletagmanager.com/gtm.js?id=GTM-TZ26LP8&dl=dataLayer:955

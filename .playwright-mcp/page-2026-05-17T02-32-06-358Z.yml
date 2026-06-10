@@ -1,0 +1,163 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Spellbook" [ref=e6] [cursor=pointer]:
+        - /url: https://spellbook.legal
+        - img "Spellbook" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Spellbook’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /spellbook.legal
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Forward Deployed Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: Remote - Canada
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Remote
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+      - generic [ref=e29]:
+        - tablist [ref=e30]:
+          - tab "Overview" [selected] [ref=e31] [cursor=pointer]
+          - tab "Application" [ref=e32] [cursor=pointer]
+        - tabpanel "Overview" [ref=e34]:
+          - generic [ref=e35]:
+            - paragraph [ref=e36]:
+              - emphasis [ref=e37]: Spellbook is the most comprehensive AI copilot for transactional lawyers. It works directly inside Microsoft Word to help legal teams draft, review, and negotiate contracts up to 10x faster and with greater precision. Today, more than 4,000 law firms, in-house teams, and solo practitioners rely on Spellbook to simplify their workflows and eliminate the drudgery of everyday contract work.
+            - paragraph [ref=e38]:
+              - emphasis [ref=e39]: We are backed by leading investors including Khosla Ventures, Thomson Reuters Ventures, Inovia Capital, The LegalTech Fund, Bling Capital, and Moxxie Ventures. The company recently raised $50 million in Series B funding, led by Keith Rabois at Khosla Ventures, bringing its total funding to more than $80 million.
+            - paragraph [ref=e40]
+            - paragraph [ref=e41]:
+              - emphasis [ref=e42]:
+                - strong [ref=e43]: "*This is an existing vacancy"
+            - paragraph [ref=e44]
+            - heading "ABOUT THE ROLE" [level=2] [ref=e45]:
+              - strong [ref=e46]: ABOUT THE ROLE
+            - paragraph [ref=e47]: Spellbook is seeking a Forward Deployed Engineer to join our team. In this role, you’ll work directly with large law firms and in-house legal teams to integrate Spellbook into real-world enterprise environments and workflows. You’ll be responsible for deploying and customizing AI-powered systems that integrate seamlessly with document management systems, internal tools, knowledge stores, identity systems, and other enterprise infrastructure.
+            - paragraph [ref=e48]: "As a Forward Deployed Engineer, you’ll be a critical member of our growing engineering team. You’ll operate at the intersection of engineering, product, and customer success, with a focus on three key areas:"
+            - list [ref=e49]:
+              - listitem [ref=e50]:
+                - paragraph [ref=e51]:
+                  - strong [ref=e52]: "Owning enterprise deployments:"
+                  - text: Partner closely with customers to understand legal workflows and technical environments. Lead end-to-end implementation of Spellbook in complex enterprise organizations and translate ambiguous requirements into production-ready systems.
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]:
+                  - strong [ref=e55]: "Building AI-native workflows:"
+                  - text: Design and implement workflow-heavy solutions that integrate cleanly into enterprise tools and processes, including approvals, permissions, routing, auditability, and review loops.
+              - listitem [ref=e56]:
+                - paragraph [ref=e57]:
+                  - strong [ref=e58]: "Driving customer impact:"
+                  - text: Work directly with end users to iterate quickly on feedback, improve adoption, and identify repeatable patterns that help shape the future direction of the platform.
+            - paragraph [ref=e59]
+            - heading "THE TECH STACK" [level=2] [ref=e60]:
+              - strong [ref=e61]: THE TECH STACK
+            - paragraph [ref=e62]: Node.js, TypeScript, Express, tRPC, MongoDB, Docker, AWS, CDK, LLM providers (OpenAI, Anthropic, and others)
+            - paragraph [ref=e63]
+            - heading "RESPONSIBILITIES" [level=2] [ref=e64]:
+              - strong [ref=e65]: RESPONSIBILITIES
+            - list [ref=e66]:
+              - listitem [ref=e67]:
+                - paragraph [ref=e68]: "Own enterprise deployments end-to-end: Partner with customers to understand legal workflows and technical environments; lead implementations in complex organizations; translate ambiguous requirements into production systems."
+              - listitem [ref=e69]:
+                - paragraph [ref=e70]: "Build integrations and AI-native workflows: Integrate Spellbook with document management systems (e.g. iManage, NetDocuments), identity systems, and internal APIs. Design and implement workflow-heavy solutions (approvals, routing, permissions, auditability) tailored to real enterprise constraints and tools."
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]: "Tailor and extend the product for customers: Tune model inference, augment context, and adapt the product experience to meet specific customer needs across deployments."
+              - listitem [ref=e73]:
+                - paragraph [ref=e74]: "Drive adoption and impact: Work closely with end users (lawyers and legal ops), iterate rapidly based on feedback, and ensure solutions are reliable, performant, and actively used."
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: "Feed insights back into the platform: Identify repeatable patterns across deployments and influence core roadmap and platform capabilities by turning custom work into scalable features."
+                - paragraph [ref=e77]
+            - heading "QUALIFICATIONS" [level=2] [ref=e78]:
+              - strong [ref=e79]: QUALIFICATIONS
+            - list [ref=e80]:
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: 3–7 years of experience building and shipping production software systems.
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: Strong backend or full-stack engineering experience.
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: Experience building APIs and integrating with external systems.
+              - listitem [ref=e87]:
+                - paragraph [ref=e88]: Experience working with cloud environments (AWS, GCP, or Azure).
+              - listitem [ref=e89]:
+                - paragraph [ref=e90]: Exposure to LLM systems (e.g. RAG, prompting, evaluations).
+              - listitem [ref=e91]:
+                - paragraph [ref=e92]: Comfortable working directly with enterprise customers.
+              - listitem [ref=e93]:
+                - paragraph [ref=e94]: Strong ownership, with the ability to take vague problems from definition to shipped solution.
+            - paragraph [ref=e95]
+            - heading "NICE TO HAVES" [level=2] [ref=e96]:
+              - strong [ref=e97]: NICE TO HAVES
+            - list [ref=e98]:
+              - listitem [ref=e99]:
+                - paragraph [ref=e100]: Experience with enterprise SaaS deployments.
+              - listitem [ref=e101]:
+                - paragraph [ref=e102]: Familiarity with legal technology or document-heavy workflows.
+              - listitem [ref=e103]:
+                - paragraph [ref=e104]: Experience with security, compliance, and data handling practices such as SOC2.
+              - listitem [ref=e105]:
+                - paragraph [ref=e106]: Experience designing and building infrastructure on AWS with CDK.
+              - listitem [ref=e107]:
+                - paragraph [ref=e108]: Experience in fast-paced startup environments.
+            - paragraph [ref=e109]
+            - heading "WHY THIS ROLE IS UNIQUE" [level=2] [ref=e110]:
+              - strong [ref=e111]: WHY THIS ROLE IS UNIQUE
+            - list [ref=e112]:
+              - listitem [ref=e113]:
+                - paragraph [ref=e114]: Youʼll work on high-impact enterprise deployments, not internal tooling
+              - listitem [ref=e115]:
+                - paragraph [ref=e116]: Youʼll solve real-world integration challenges that shape the product
+              - listitem [ref=e117]:
+                - paragraph [ref=e118]: Youʼll sit at the intersection of AI, systems engineering, and customer reality
+            - paragraph [ref=e119]
+            - heading "WHY JOIN SPELLBOOK?" [level=2] [ref=e120]
+            - list [ref=e121]:
+              - listitem [ref=e122]:
+                - paragraph [ref=e123]: Embrace autonomy and accountability in a flexible work environment; we focus on outcomes and empower you to determine how to get the job done
+              - listitem [ref=e124]:
+                - paragraph [ref=e125]: Access our company-paid group benefits for you and your family, with $1,000 towards mental health support
+              - listitem [ref=e126]:
+                - paragraph [ref=e127]: Disconnect during our holiday closure and take advantage of our generous time off policies throughout the year
+              - listitem [ref=e128]:
+                - paragraph [ref=e129]: Enjoy monthly paid meals, an annual wellness allowance to support your well-being and parental leave top-ups as your family grows
+              - listitem [ref=e130]:
+                - paragraph [ref=e131]: Secure your stake in our success; you’ll receive competitive stock option grants as a pivotal early employee
+            - paragraph [ref=e132]
+            - paragraph [ref=e133]
+            - heading "Inclusive Hiring at Spellbook" [level=2] [ref=e134]:
+              - strong [ref=e135]: Inclusive Hiring at Spellbook
+            - paragraph [ref=e136]:
+              - emphasis [ref=e137]: We are committed to creating an inclusive and supportive candidate experience. Should you require any accommodation whatsoever during the interview process, please inform us without any hesitation. Spellbook is dedicated to ensuring equal treatment and opportunity in all phases of recruitment, selection, and employment, in compliance with employment law. We do not discriminate based on gender, race, religion, national origin, ethnicity, disability, gender identity/expression, sexual orientation, veteran or military status, or any other protected category. Spellbook is proud to be an equal opportunity employer, fostering a culture of inclusivity and maintaining a work environment that is free from discrimination, harassment, and retaliation.
+            - paragraph [ref=e138]
+            - heading "Use of Artificial Intelligence in Recruitment" [level=2] [ref=e139]:
+              - strong [ref=e140]: Use of Artificial Intelligence in Recruitment
+            - paragraph [ref=e141]:
+              - emphasis [ref=e142]: Spellbook uses artificial intelligence (AI) responsibly to support administrative and efficiency-focused aspects of our recruitment process. This includes activities such as drafting job descriptions, generating interview questions, note-taking and recordings, and supporting sourcing and scheduling workflows. All candidate evaluations, interviews, and hiring decisions are made by members of the Spellbook team. While AI tools may assist with screening and assessment, they do not replace human judgment in selection decisions. Our use of AI is intended to streamline routine tasks, improve consistency, and enhance the overall candidate experience. We are committed to upholding principles of fairness, transparency, and accountability in all hiring activities. Spellbook regularly reviews its recruitment practices to mitigate bias and to ensure alignment with applicable laws and evolving best practices.
+            - paragraph [ref=e143]
+            - heading "Our Compensation Philosophy" [level=2] [ref=e144]:
+              - strong [ref=e145]: Our Compensation Philosophy
+            - paragraph [ref=e146]:
+              - emphasis [ref=e147]: Spellbook uses industry benchmark data to establish compensation bands for all roles. The salary range listed for a position reflects the expected total wage range for the role—including base salary and on-target commissions, where applicable—and may span multiple career levels. Final compensation is determined during the interview process based on factors such as experience, skills, scope, and role level. In addition to base salary and applicable commissions, total rewards may include equity, health and wellness benefits, and other company programs. Full details will be shared during the interview process.
+          - link "Apply for this Job" [ref=e148] [cursor=pointer]:
+            - /url: /spellbook.legal/d92285f3-73a5-4ad1-8b1a-df1d2ab034df/application
+            - button "Apply for this Job" [ref=e149]
+  - contentinfo [ref=e150]:
+    - link "Learn more about Ashby" [ref=e151] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e152]: Powered by
+      - img "Ashby" [ref=e153]
+    - paragraph [ref=e159]:
+      - link "Privacy Policy" [ref=e160] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e161] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e162] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

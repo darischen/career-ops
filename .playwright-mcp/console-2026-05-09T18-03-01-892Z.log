@@ -1,0 +1,5 @@
+[     239ms] [ERROR] Access to resource at 'https://community.workday.com/maintenance-page' (redirected from 'https://ptc.wd1.myworkdayjobs.com/ptc/job/Foster-City-CA-USA/undefined') from origin 'https://ptc.wd1.myworkdayjobs.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://ptc.wd1.myworkdayjobs.com/ptc/job/Foster-City-CA-USA/Junior-Software-Engineer_JR112167?utm_source=Simplify&ref=Simplify:0
+[     239ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://community.workday.com/maintenance-page:0
+[     896ms] [LOG] JQMIGRATE: Migrate is installed, version 3.5.2 @ https://cdn02.icims.com/a/images.icims.com/content/platform_182.0.0.260423-294032191a0-11-6/script/lib/jquery/jquery-migrate-3.5.2.min.js:1
+[    1695ms] Uncaught TypeError: Failed to execute 'observe' on 'MutationObserver': parameter 1 is not of type 'Node'.
+    at <anonymous> (https://cdn02.icims.com/a/images.icims.com/content/platform_182.0.0.260423-294032191a0-11-6/script/icims.application.js:28627:9)

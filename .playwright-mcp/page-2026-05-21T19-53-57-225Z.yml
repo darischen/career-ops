@@ -1,0 +1,145 @@
+- generic [active] [ref=e1]:
+  - link "Unify Consulting logo" [ref=e4] [cursor=pointer]:
+    - /url: https://jobs.lever.co/unifyconsulting
+    - img "Unify Consulting logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "AI Engineer" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: Seattle
+          - generic [ref=e14]: AI, Data & Technology Services – AI Architecture & Engineering /
+          - generic [ref=e15]: Full-Time /
+          - generic [ref=e16]: Hybrid
+      - link "apply for this job" [ref=e18] [cursor=pointer]:
+        - /url: https://jobs.lever.co/unifyconsulting/30ec497a-f8ea-421f-8a25-d5e279e51c39/apply
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e22]:
+          - text: Unify Consulting is a leading
+          - strong [ref=e23]: AI management consulting firm
+          - text: designed to help clients overcome challenges and achieve their goals through an agile, modular, and bespoke approach. We’re a collective of curious, seasoned consultants who build meaningful connections and deliver with purpose and authenticity.
+        - generic [ref=e25]:
+          - generic [ref=e26]:
+            - strong [ref=e27]: Why we’re hiring
+            - text: Demand for GenAI and Agentic AI solutions is accelerating across our client pipeline, and we’re proactively building a strong bench of AI Engineers who can help architect, build, and scale real production systems — not demos.
+          - generic [ref=e30]:
+            - heading "The Role" [level=3] [ref=e31]:
+              - strong [ref=e32]: The Role
+            - paragraph [ref=e33]:
+              - text: As an
+              - strong [ref=e34]: AI Engineer (GenAI / Agentic AI)
+              - text: ", you’ll design and build"
+              - strong [ref=e35]: LLM-powered applications and agentic systems
+              - text: that plan, reason, and take action — often by securely interacting with enterprise systems and APIs.
+            - paragraph [ref=e36]:
+              - text: You’ll work across discovery → rapid prototypes → pilot and scale, with a strong emphasis on
+              - strong [ref=e37]: quality, safety, latency, cost, and user feedback loops
+              - text: .
+            - paragraph [ref=e38]
+        - generic [ref=e39]:
+          - paragraph [ref=e40]:
+            - strong [ref=e41]: Location Requirement
+            - text: Candidates must currently reside in the Greater San Francisco, Greater Seattle, Greater Chicago, or DFW metro areas. Relocation (now or in the future) is not supported for this role.
+          - generic [ref=e42]:
+            - strong [ref=e43]:
+              - text: "Please note:"
+              - text: We are unable to sponsor or transfer visas for this position
+            - text: . You must be authorized to work in the United States for any employer without requiring sponsorship or visa transfer now or in the future.
+          - strong [ref=e45]: Please no resumes from third-party agencies or recruiters
+      - generic [ref=e47]:
+        - heading "What You'll Do" [level=3] [ref=e48]
+        - generic [ref=e52]:
+          - paragraph [ref=e53]: "You may work across several of these areas depending on level and project:"
+          - paragraph [ref=e54]:
+            - strong [ref=e55]: Build GenAI / LLM applications
+          - list [ref=e56]:
+            - listitem [ref=e57]: Design and develop LLM-powered applications using enterprise AI platforms (e.g., AWS Bedrock, Azure OpenAI / Azure AI platforms, Google Vertex AI).
+            - listitem [ref=e58]: Implement multi-step orchestration workflows that translate user intent into reliable actions and explainable outputs.
+            - listitem [ref=e59]:
+              - text: Build robust
+              - strong [ref=e60]: RAG pipelines
+              - text: (vector databases, embeddings, chunking strategies) and validate grounding quality.
+          - paragraph [ref=e61]:
+            - strong [ref=e62]: Engineer agentic solutions (Plan → Reason → Execute → Feedback)
+          - list [ref=e63]:
+            - listitem [ref=e64]: Design agent reasoning/control patterns (e.g., planning vs execution separation, tool calling, memory/context management).
+            - listitem [ref=e65]: Integrate agents with tools/APIs and enterprise workflows with appropriate governance and guardrails.
+          - paragraph [ref=e66]:
+            - strong [ref=e67]: Prompt engineering + evaluation
+          - list [ref=e68]:
+            - listitem [ref=e69]: Create reusable prompt templates/libraries; implement prompt testing frameworks; establish prompt versioning/governance.
+            - listitem [ref=e70]: Evaluate solutions for quality/safety/latency/cost and iterate quickly.
+          - paragraph [ref=e71]:
+            - strong [ref=e72]: Production readiness + operations
+          - list [ref=e73]:
+            - listitem [ref=e74]: Partner with platform/LLMOps teammates to deploy, monitor, and improve LLM systems in production.
+            - listitem [ref=e75]: Build observability and reliability mechanisms for agent-based workflows.
+          - paragraph [ref=e76]:
+            - strong [ref=e77]: Client-facing consulting
+          - list [ref=e78]:
+            - listitem [ref=e79]: Lead technical discovery, map workflows/pain points, and communicate solutions to technical and executive stakeholders.
+      - generic [ref=e81]:
+        - heading "What We're Looking For (Must-Have)" [level=3] [ref=e82]
+        - list [ref=e85]:
+          - listitem [ref=e86]:
+            - strong [ref=e87]: 1–2+ years hands-on GenAI / Agentic AI experience building LLM apps
+            - text: on enterprise platforms (AWS Bedrock / Vertex AI / Azure AI platforms) in a professional setting.
+          - listitem [ref=e88]:
+            - text: Strong
+            - strong [ref=e89]: backend engineering
+            - text: experience (Python preferred) delivering production-grade systems.
+          - listitem [ref=e90]:
+            - text: Hands on
+            - strong [ref=e91]: professional experience
+            - text: with
+            - strong [ref=e92]: RAG
+            - text: patterns and implementation.
+          - listitem [ref=e93]: Ability to communicate clearly and contribute in fast-moving, cross-functional teams.
+          - listitem [ref=e94]: Computer Science / strong CS fundamentals
+      - generic [ref=e96]:
+        - heading "Nice-to-Have/Differentiators" [level=3] [ref=e97]
+        - list [ref=e102]:
+          - listitem [ref=e103]: "Applied Scientist style skills: deep learning/NLP with PyTorch/TensorFlow + Hugging Face; ability to interpret research and implement emerging techniques."
+          - listitem [ref=e104]: Fine-tuning and optimization methods (LoRA/PEFT/QLoRA), distillation/quantization/pruning, GPU memory optimization.
+          - listitem [ref=e105]: Experience building secure tool integrations / agent middleware (tool schemas, SaaS integrations like Salesforce/SAP/ServiceNow, OAuth2, API security).
+          - listitem [ref=e106]: Evaluation harnesses and regression testing for prompts/agents; RAG quality testing.
+          - listitem [ref=e107]: Cloud-native experience in large enterprise environments.
+      - generic [ref=e109]:
+        - heading [level=3]
+        - generic [ref=e111]:
+          - heading "Levels" [level=3] [ref=e112]:
+            - strong [ref=e113]: Levels
+          - paragraph [ref=e114]:
+            - text: We’re hiring
+            - strong [ref=e115]: across multiple levels
+            - text: (entry/junior through senior/principal).
+          - heading "How You’ll Work" [level=3] [ref=e116]:
+            - strong [ref=e117]: How You’ll Work
+          - paragraph [ref=e118]:
+            - text: You’ll collaborate in agile delivery pods alongside product, architecture, engineering, and ops roles to build and scale agentic AI solutions.
+            - text: Projects may include discovery workshops, rapid prototyping, and production pilots with measurable outcomes.
+          - heading "Apply" [level=3] [ref=e119]:
+            - strong [ref=e120]: Apply
+          - paragraph [ref=e121]: "Send your application (or resume) and include:"
+          - list [ref=e122]:
+            - listitem [ref=e123]:
+              - text: 1–2 examples of
+              - strong [ref=e124]: LLM apps/agentic systems
+              - text: you built (even internal or side projects)
+            - listitem [ref=e125]:
+              - text: The platform(s) you used (e.g., Bedrock / Vertex / Azure) and how you handled
+              - strong [ref=e126]: RAG, evaluation, and production concerns
+      - generic [ref=e127]:
+        - generic [ref=e128]: $110,000 - $220,000 a year
+        - generic [ref=e131]: This is a broad range intended to accommodate varying levels of experience, with final compensation determined by demonstrated, hands‑on technical capability and real‑world impact.
+      - link "apply for this job" [ref=e133] [cursor=pointer]:
+        - /url: https://jobs.lever.co/unifyconsulting/30ec497a-f8ea-421f-8a25-d5e279e51c39/apply
+  - generic [ref=e135]:
+    - paragraph [ref=e136]:
+      - link "Unify Consulting Home Page" [ref=e137] [cursor=pointer]:
+        - /url: http://www.unifyconsulting.com
+    - link "Jobs powered by Lever logo" [ref=e138] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e139]: Jobs powered by
+      - img "Lever logo" [ref=e140]

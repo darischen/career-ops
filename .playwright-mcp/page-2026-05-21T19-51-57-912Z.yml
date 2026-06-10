@@ -1,0 +1,251 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - banner [ref=e8]:
+    - generic [ref=e10]:
+      - link "careers home" [ref=e13] [cursor=pointer]:
+        - /url: https://www.gdit.com/careers/
+        - img "careers home" [ref=e14]
+      - generic [ref=e15]:
+        - heading [level=1]
+      - generic [ref=e17]:
+        - button "Sign In" [ref=e19] [cursor=pointer]:
+          - generic [ref=e24]: Sign In
+        - navigation [ref=e25]:
+          - button "Search and Apply" [ref=e26] [cursor=pointer]
+          - button "Join our Talent Community!" [ref=e27] [cursor=pointer]
+  - generic [ref=e32]:
+    - alert [ref=e98]: AI Engineer page is loaded
+    - generic [ref=e99]:
+      - generic [ref=e101]:
+        - heading "AI Engineer" [level=2] [ref=e102]
+        - button "Apply" [ref=e107] [cursor=pointer]
+      - generic [ref=e108]:
+        - generic [ref=e109]:
+          - generic [ref=e117]:
+            - term [ref=e118]: locations
+            - definition [ref=e119]: Any Location / Remote
+          - generic [ref=e120]:
+            - generic [ref=e129]:
+              - term [ref=e130]: time type
+              - definition [ref=e131]: Full time
+            - generic [ref=e140]:
+              - term [ref=e141]: posted on
+              - definition [ref=e142]: Posted Yesterday
+            - generic [ref=e151]:
+              - term [ref=e152]: job requisition id
+              - definition [ref=e153]: RQ219864
+        - generic [ref=e155]:
+          - paragraph [ref=e156]:
+            - generic [ref=e157]: "Type of Requisition:"
+          - text: Pipeline
+          - paragraph [ref=e158]
+          - paragraph [ref=e159]
+          - paragraph [ref=e160]:
+            - generic [ref=e161]: "Clearance Level Must Currently Possess:"
+          - text: None
+          - paragraph [ref=e162]
+          - paragraph [ref=e163]
+          - paragraph [ref=e164]:
+            - generic [ref=e170]: "Clearance Level Must Be Able to Obtain:"
+          - text: None
+          - paragraph [ref=e171]
+          - paragraph [ref=e172]
+          - paragraph [ref=e173]:
+            - generic [ref=e174]: "Public Trust/Other Required:"
+          - text: MBI (T2)
+          - paragraph [ref=e175]
+          - paragraph [ref=e176]
+          - paragraph [ref=e177]:
+            - generic [ref=e178]: "Job Family:"
+          - text: Data Science and Data Engineering
+          - paragraph [ref=e179]
+          - paragraph [ref=e180]
+          - paragraph [ref=e181]:
+            - generic [ref=e182]: "Job Qualifications:"
+          - paragraph [ref=e183]: "Skills:"
+          - text: Agentic AI, Artificial Intelligence (AI), Data Science, Higher Mathematics, Machine Learning (ML)
+          - paragraph [ref=e184]: "Certifications:"
+          - text: None
+          - paragraph [ref=e185]: "Experience:"
+          - text: 2 + years of related experience
+          - paragraph [ref=e186]: "US Citizenship Required:"
+          - text: "No"
+          - paragraph [ref=e187]
+          - paragraph [ref=e188]
+          - paragraph [ref=e189]:
+            - generic [ref=e190]: "Job Description:"
+          - paragraph [ref=e191]:
+            - generic [ref=e192]: Own your opportunity to shape the future of AI at GDIT
+            - text: As an AI Engineer supporting the mission of the United States Postal Service (USPS), you will help design, develop, and deploy AI solutions that modernize and optimize essential nationwide operations. Your work will directly contribute to improved efficiency, automated processes, and data‑driven decision making across a high‑impact federal environment.
+          - paragraph [ref=e193]
+          - paragraph [ref=e194]:
+            - text: MEANINGFUL WORK AND PERSONAL IMPACT
+            - text: "As an AI Engineer, you will play a critical role in identifying where AI can streamline business processes and deliver measurable outcomes. You will:"
+          - list [ref=e195]:
+            - listitem [ref=e196]: Develop and advance AI capabilities across USPS business functions.
+            - listitem [ref=e197]: Build tools that automate requirements and test case generation using technologies such as Visual Studio Code, Python, Microsoft Copilot, CrewAI, and other USPS‑approved platforms.
+            - listitem [ref=e198]: Integrate AI solutions with existing automation frameworks to reduce manual effort and enhance quality.
+            - listitem [ref=e199]: Evaluate opportunities to embed AI across enterprise workflows and design solutions aligned with mission needs.
+            - listitem [ref=e200]: Collaborate with cross‑functional teams and communicate technical concepts to both technical and non‑technical stakeholders.
+            - listitem [ref=e201]: Ensure all AI solutions meet USPS security, compliance, and execution requirements.
+            - listitem [ref=e202]: Train designated team members to maintain and operate AI‑driven tools and scripts.
+          - paragraph [ref=e203]: WHAT YOU’LL NEED TO SUCCEED
+          - paragraph [ref=e204]: Education
+          - list [ref=e205]:
+            - listitem [ref=e206]: Bachelor’s degree in a related field with strong mathematics
+            - listitem [ref=e207]: OR an additional four years of relevant professional experience in lieu of a degree.
+          - paragraph [ref=e208]:
+            - text: Required Experience
+            - text: "Candidates will be evaluated for one of the following levels:"
+          - list [ref=e209]:
+            - listitem [ref=e210]: "Associate AI Engineer: 1–2 years of experience developing AI or automation solutions."
+            - listitem [ref=e211]: "Senior AI Engineer: 3–7 years of hands‑on AI development experience."
+            - listitem [ref=e212]: "Principal AI Engineer: 8+ years of experience leading or delivering AI, automation, or software development projects."
+          - paragraph [ref=e213]: "Additional expectations for all levels:"
+          - list [ref=e214]:
+            - listitem [ref=e215]: Proven experience contributing to or leading AI/automation initiatives.
+            - listitem [ref=e216]: Experience working in analytics, data‑driven environments, or team leadership roles is highly desirable.
+            - listitem [ref=e217]:
+              - generic [ref=e218]: Strong agentic AI experience, including familiarity with agent frameworks, orchestration tools, and automation workflows.
+            - listitem [ref=e219]:
+              - generic [ref=e220]: Experience working across the infrastructure plane to ensure AI systems operate reliably within enterprise environments.
+            - listitem [ref=e221]:
+              - generic [ref=e222]: Strong mathematical foundation in algebra, statistics, calculus, or related fields applied to AI/ML model development.
+            - listitem [ref=e223]:
+              - generic [ref=e224]: Hands‑on experience developing, training, and evaluating AI or ML models.
+            - listitem [ref=e225]:
+              - generic [ref=e226]: Experience performing optimization to improve model performance, scalability, or efficiency.
+            - listitem [ref=e227]: Practical experience applying machine learning methods to real‑world business or operational challenges.
+          - paragraph [ref=e228]: Required Technical Skills
+          - list [ref=e229]:
+            - listitem [ref=e230]: Proficiency in building AI solutions using Python, Visual Studio Code, and relevant programming or scripting languages.
+            - listitem [ref=e231]: Strong understanding of generative AI, LLM integration, and modern AI frameworks.
+            - listitem [ref=e232]: Ability to develop AI‑driven tools that convert business user stories into technical requirements.
+            - listitem [ref=e233]: Experience integrating AI capabilities into existing enterprise automation frameworks.
+            - listitem [ref=e234]: Ability to deliver AI scripts and programs that run reliably on USPS‑approved environments.
+            - listitem [ref=e235]: Capability to document, train, and transition AI tools to operational teams.
+          - paragraph [ref=e236]: Preferred Skills
+          - list [ref=e237]:
+            - listitem [ref=e238]: Strong analytical and problem‑solving skills with a creative approach to complex technical challenges.
+            - listitem [ref=e239]: Excellent communication skills with the ability to explain sophisticated AI concepts to non‑technical stakeholders.
+            - listitem [ref=e240]: Demonstrated ability to work in a collaborative, cross‑functional team environment.
+            - listitem [ref=e241]: Familiarity with Agile methodologies, cloud platforms, or enterprise‑scale AI deployments is a plus.
+          - paragraph [ref=e242]: "Security Clearance Level:"
+          - list [ref=e243]:
+            - listitem [ref=e244]: Ability to obtain and maintain a Public Trust clearance and successfully pass a thorough Government background screening process requiring the completion of detailed forms and fingerprinting
+            - listitem [ref=e245]:
+              - generic [ref=e247]: "This position has a U.S. residency requirement. The USPS security clearance process requires the selected candidate to have resided in the U.S. (including U.S. Territories) for the last five years as follows: U.S. Citizens cannot have left the U.S. (including U.S. Territories) for longer than 6 months consecutively in the last 3 years (unless they meet certain exceptions). Non-U.S. Citizens cannot have left the U.S. (including U.S. Territories) for longer than 90 days consecutively in the last 3 years."
+          - paragraph [ref=e248]: "Location:"
+          - list [ref=e249]:
+            - listitem [ref=e250]: Remote
+          - paragraph [ref=e251]: GDIT IS YOUR PLACE
+          - paragraph [ref=e252]: At GDIT, the mission is our purpose, and our people are at the center of everything we do.
+          - list [ref=e253]:
+            - listitem [ref=e254]: "Growth: AI-powered career tool that identifies career steps and learning opportunities"
+            - listitem [ref=e255]: "Support: An internal mobility team focused on helping you achieve your career goals"
+            - listitem [ref=e256]: "Rewards: Comprehensive benefits and wellness packages, 401K with company match, competitive pay and paid time off"
+            - listitem [ref=e257]: "Community: Award-winning culture of innovation and a military-friendly workplace"
+          - paragraph [ref=e258]:
+            - text: OWN YOUR OPPORTUNITY
+            - text: Explore a career in data science and engineering at GDIT and you’ll find endless opportunities to grow alongside colleagues who share your determination for solving complex data challenges.
+          - paragraph [ref=e259]
+          - paragraph [ref=e260]: "#zxc726 #AIEngineer"
+          - paragraph [ref=e261]
+          - paragraph [ref=e262]
+          - text: The likely salary range for this position is $111,155 - $150,385. This is not, however, a guarantee of compensation or salary. Rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range.
+          - paragraph [ref=e263]
+          - paragraph [ref=e264]
+          - paragraph [ref=e265]:
+            - generic [ref=e266]: "Scheduled Weekly Hours:"
+          - text: "40"
+          - paragraph [ref=e267]
+          - paragraph [ref=e268]
+          - paragraph [ref=e269]:
+            - generic [ref=e270]: "Travel Required:"
+          - text: Less than 10%
+          - paragraph [ref=e271]
+          - paragraph [ref=e272]
+          - paragraph [ref=e273]:
+            - generic [ref=e276]: "Telecommuting Options:"
+          - text: Remote
+          - paragraph [ref=e277]
+          - paragraph [ref=e278]
+          - paragraph [ref=e279]:
+            - generic [ref=e280]: "Work Location:"
+          - text: Any Location / Remote
+          - paragraph [ref=e281]
+          - paragraph [ref=e282]
+          - paragraph [ref=e283]:
+            - generic [ref=e284]: "Additional Work Locations:"
+          - paragraph [ref=e285]
+          - paragraph [ref=e286]
+          - paragraph [ref=e287]
+          - paragraph [ref=e288]
+          - paragraph [ref=e289]
+          - paragraph [ref=e290]:
+            - generic [ref=e291]: "Total Rewards at GDIT:"
+          - text: Our benefits package for all US-based employees includes a variety of medical plan options, some with Health Savings Accounts, dental plan options, a vision plan, and a 401(k) plan offering the ability to contribute both pre and post-tax dollars up to the IRS annual limits and receive a company match. To encourage work/life balance, GDIT offers employees full flex work weeks where possible and a variety of paid time off plans, including vacation, sick and personal time, holidays, paid parental, military, bereavement and jury duty leave. GDIT typically provides new employees with 15 days of paid leave per calendar year to be used for vacations, personal business, and illness and an additional 10 paid holidays per year. Paid leave and paid holidays are prorated based on the employee’s date of hire. The GDIT Paid Family Leave program provides a total of up to 160 hours of paid leave in a rolling 12 month period for eligible employees. To ensure our employees are able to protect their income, other offerings such as short and long-term disability benefits, life, accidental death and dismemberment, personal accident, critical illness and business travel and accident insurance are provided or available. We regularly review our Total Rewards package to ensure our offerings are competitive and reflect what our employees have told us they value most.
+          - paragraph [ref=e292]
+          - paragraph [ref=e293]
+          - text: We are GDIT. A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.S. government, defense and intelligence community. Our 26,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation. We operate across 50 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development. Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.
+          - paragraph [ref=e294]
+          - paragraph [ref=e295]
+          - text: Join our Talent Community to stay up to date on our career opportunities and events at
+          - paragraph [ref=e296]:
+            - link "gdit.com/tc" [ref=e297] [cursor=pointer]:
+              - /url: https://www.gdit.com/tc
+            - text: .
+          - paragraph [ref=e298]
+          - paragraph [ref=e299]
+          - text: Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans
+    - generic [ref=e302]:
+      - heading "About Us" [level=3] [ref=e303]
+      - generic [ref=e318]:
+        - region "Video Player" [ref=e320]:
+          - application [ref=e321]
+        - button "Start video" [ref=e322]
+        - group "Video control bar" [ref=e328]:
+          - generic [ref=e330]:
+            - generic [ref=e331]:
+              - button "Play" [ref=e332]
+              - generic [ref=e336]: 0:00 / 3:47
+            - generic [ref=e337]:
+              - button "Mute (m)" [ref=e338]
+              - button "Transcription (t)" [ref=e342]
+              - button "Caption (c)" [ref=e348]
+              - button "Settings" [ref=e354]
+              - button "Fullscreen (f)" [ref=e359]
+      - generic [ref=e365]:
+        - generic [ref=e367]:
+          - heading [level=2] [ref=e368]: Join our 26,000 everyday heroes.
+          - paragraph [ref=e369]
+          - paragraph [ref=e370]: We are GDIT. A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.S. government, defense and intelligence community. Our 26,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation. We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development. Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.
+          - paragraph [ref=e371]
+          - paragraph [ref=e372]:
+            - text: "For more information about GDIT's Privacy Policy, click here:"
+            - link [ref=e373] [cursor=pointer]:
+              - /url: https://www.gdit.com/privacy-policy/notices/
+              - text: https://www.gdit.com/privacy-policy/notices/
+        - button "Read More" [ref=e376] [cursor=pointer]:
+          - generic [ref=e377]: Read More
+  - generic [ref=e46]:
+    - heading "Follow Us" [level=4] [ref=e47]
+    - list [ref=e48]:
+      - listitem [ref=e49] [cursor=pointer]:
+        - link "YouTube" [ref=e50]:
+          - /url: https://www.youtube.com/channel/UCaB-uSlpjnUQzNzXajf2L_w
+      - listitem [ref=e56] [cursor=pointer]:
+        - link "X" [ref=e57]:
+          - /url: https://twitter.com/GDIT
+      - listitem [ref=e61] [cursor=pointer]:
+        - link "Facebook" [ref=e62]:
+          - /url: https://www.facebook.com/GeneralDynamicsIT/
+      - listitem [ref=e66] [cursor=pointer]:
+        - link "LinkedIn" [ref=e67]:
+          - /url: https://www.linkedin.com/company/general-dynamics-information-technology/
+    - link "GDIT Privacy Notice and California Privacy Notice" [ref=e72] [cursor=pointer]:
+      - /url: https://www.gdit.com/privacy-policy/notices/
+    - generic [ref=e73]:
+      - img [ref=e77]
+      - generic [ref=e97]: © 2026 Workday, Inc. All rights reserved.

@@ -1,0 +1,49 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]: .
+    - generic [ref=e4]: ..
+    - generic [ref=e5]: .
+  - generic [ref=e7]:
+    - link "Skip to main content." [ref=e151] [cursor=pointer]:
+      - /url: "#main"
+    - generic:
+      - alert
+    - generic [ref=e153]:
+      - banner [ref=e155]:
+        - generic [ref=e157]:
+          - link "Back to Job Details" [ref=e158] [cursor=pointer]:
+            - generic [ref=e159]: 
+          - generic [ref=e161]:
+            - generic [ref=e162]: Applied AI Engineer - AI Agent
+            - generic [ref=e163]: ...
+      - main "Job application form" [ref=e165]:
+        - heading "Job application form" [level=1] [ref=e166]
+        - generic [ref=e168]:
+          - heading "Authentication screen. You don't need to have an account" [level=1] [ref=e170]:
+            - generic: Authentication screen.
+            - text: You don't need to have an account
+          - generic [ref=e171]:
+            - paragraph [ref=e172]: Get started right away by simply using your email. Your profile will be created and kept up to date automatically as you enter details for each of your job applications.
+            - generic [ref=e174]:
+              - generic [ref=e175]:
+                - generic "Email Address" [ref=e177]:
+                  - generic [ref=e178]: Email Address
+                  - generic [ref=e179]: "*"
+                - textbox "Email Address" [ref=e181]
+              - generic:
+                - generic [ref=e183]: honeypot
+                - textbox [ref=e185]
+              - generic [ref=e186]: This is how we'll communicate with you.
+              - generic [ref=e188]:
+                - checkbox "I acknowledge that I have read and agree to the terms to the Privacy Statement and Acknowledgement"
+                - generic [ref=e191] [cursor=pointer]:
+                  - generic [ref=e193]:
+                    - text: I acknowledge that I have read and agree to the terms to the
+                    - link "Privacy Statement and Acknowledgement" [ref=e194]:
+                      - /url: "#"
+                  - generic [ref=e195]: "*"
+          - generic [ref=e196]:
+            - button "Cancel" [ref=e197] [cursor=pointer]:
+              - generic [ref=e199]: Cancel
+            - button "Next" [ref=e200] [cursor=pointer]:
+              - generic [ref=e201]: Next

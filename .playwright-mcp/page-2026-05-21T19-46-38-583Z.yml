@@ -1,0 +1,134 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Notion" [ref=e6] [cursor=pointer]:
+        - /url: https://www.notion.com/
+        - img "Notion" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Notion’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /notion?utm_source=Simplify
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer, New Grad (AI)" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco, California
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: University
+      - generic [ref=e29]:
+        - tablist [ref=e30]:
+          - tab "Overview" [active] [selected] [ref=e31] [cursor=pointer]
+          - tab "Application" [ref=e32] [cursor=pointer]
+        - tabpanel "Overview" [ref=e566]:
+          - generic [ref=e567]:
+            - heading "About Us:" [level=1] [ref=e568]
+            - paragraph [ref=e569]
+            - paragraph [ref=e570]: Notion helps you build beautiful tools for your life’s work. In today's world of endless apps and tabs, Notion provides one place for teams to get everything done, seamlessly connecting docs, notes, projects, calendar, and email—with AI built in to find answers and automate work. Millions of users, from individuals to large organizations like Toyota, Figma, and OpenAI, love Notion for its flexibility and choose it because it helps them save time and money.
+            - paragraph [ref=e571]
+            - paragraph [ref=e572]: In-person collaboration is essential to Notion's culture. We require all team members to work from our offices on Mondays, Tuesdays, and Thursdays, our designated Anchor Days. Certain teams or positions may require additional in-office workdays.
+            - paragraph [ref=e573]
+            - heading "About The Role:" [level=1] [ref=e574]
+            - paragraph [ref=e575]
+            - paragraph [ref=e576]: As an engineer at Notion, you’ll help shape core user experiences and accelerate how people discover value in Notion. You'll tackle meaningful challenges with increasing autonomy, crafting code that millions of users will experience. You'll take ownership of projects that matter, make critical technical decisions, and contribute your unique perspective to our product vision. Working alongside passionate experts across design, product, and data, you'll help shape the future of how people work.
+            - paragraph [ref=e577]
+            - paragraph [ref=e578]: We're looking for an New Grad AI Engineer to join as a strategic partner in shaping Notion's AI vision. You'll work on cutting-edge AI-powered features, leveraging LLMs, embeddings, and other AI technologies to make Notion more intelligent and capable.
+            - paragraph [ref=e579]
+            - paragraph [ref=e580]: "This role may be aligned to one of multiple AI-focused teams at Notion. Depending on team match and business needs, you could work on:"
+            - list [ref=e581]:
+              - listitem [ref=e582]:
+                - paragraph [ref=e583]:
+                  - strong [ref=e584]: "AI product engineering:"
+                  - text: building model-powered features end-to-end (UX, APIs, retrieval, orchestration, quality, and reliability)
+              - listitem [ref=e585]:
+                - paragraph [ref=e586]:
+                  - strong [ref=e587]: "Model & systems engineering:"
+                  - text: improving model integration and performance (latency, cost, safety, robustness) and building the infrastructure that supports model serving and experimentation
+              - listitem [ref=e588]:
+                - paragraph [ref=e589]:
+                  - strong [ref=e590]: "Evaluation & quality (evals):"
+                  - text: creating evaluation frameworks and automated/ human-in-the-loop testing to measure and improve model and product quality
+                - paragraph [ref=e591]
+            - heading "What you’ll achieve:" [level=1] [ref=e592]
+            - paragraph [ref=e593]
+            - list [ref=e594]:
+              - listitem [ref=e595]:
+                - paragraph [ref=e596]: Partner with your team to prototype and ship an AI-powered product improvement
+              - listitem [ref=e597]:
+                - paragraph [ref=e598]: "Own a scoped productionization project: integrate a new model/technique into an existing workflow, add monitoring + guardrails, or improve latency/cost/reliability."
+              - listitem [ref=e599]:
+                - paragraph [ref=e600]: "Contribute to evals and iteration loops: build or extend an evaluation set, run experiments, analyze results, and translate learnings into product or system changes."
+                - paragraph [ref=e601]
+            - heading "Qualifications:" [level=1] [ref=e602]
+            - paragraph [ref=e603]
+            - list [ref=e604]:
+              - listitem [ref=e605]:
+                - paragraph [ref=e606]: Pursuing a bachelor's or master’s degree in computer science, engineering, or another related field. Must be able to start full time prior to July 27, 2026.
+              - listitem [ref=e607]:
+                - paragraph [ref=e608]: Previous internship experience.
+              - listitem [ref=e609]:
+                - paragraph [ref=e610]: Working towards a proficiency of one or more programming languages such as Typescript, React, Python, etc.
+                - paragraph [ref=e611]
+            - heading "Skills you'll need to bring:" [level=1] [ref=e612]
+            - paragraph [ref=e613]
+            - list [ref=e614]:
+              - listitem [ref=e615]:
+                - paragraph [ref=e616]:
+                  - strong [ref=e617]: "Expertise building and prototyping:"
+                  - text: You’re excited to build and iterate quickly, and you’ve started exploring AI/ML through coursework, projects, internships, or hackathons. You’re comfortable learning how different parts of a product fit together (UI, APIs, data), have some familiarity with relational databases like Postgres or MySQL, and can take an idea from prototype to a working feature with guidance.
+              - listitem [ref=e618]:
+                - paragraph [ref=e619]:
+                  - strong [ref=e620]: "Problem-solving:"
+                  - text: You’re curious and methodical. You ask good questions, break down ambiguous problems into smaller pieces, and iterate with feedback from teammates. You think about how what you build will impact users and the business.
+              - listitem [ref=e621]:
+                - paragraph [ref=e622]:
+                  - strong [ref=e623]: "Communication and collaboration:"
+                  - text: You communicate clearly in writing and in meetings, and you’re comfortable learning in public—sharing early work, asking for help, and incorporating feedback. You enjoy partnering with engineers and cross-functional teammates (product, design, data).
+              - listitem [ref=e624]:
+                - paragraph [ref=e625]:
+                  - strong [ref=e626]: "Impact and user focus:"
+                  - text: You care about building the right thing, not just building it quickly. You prioritize work based on user needs and outcomes, and you’re mindful that features at Notion can reach millions of people.
+                - paragraph [ref=e627]
+            - heading "Nice to haves:" [level=1] [ref=e628]
+            - paragraph [ref=e629]
+            - list [ref=e630]:
+              - listitem [ref=e631]:
+                - paragraph [ref=e632]: "You have experience with any part of our technology stack: React, TypeScript, Node.js, Postgres, etc."
+              - listitem [ref=e633]:
+                - paragraph [ref=e634]: You’re a builder who finds joy in building software solutions for yourself or others
+              - listitem [ref=e635]:
+                - paragraph [ref=e636]: You care about the interaction between technology and society, the ways in which they inform each other, and our responsibility as technologists to be conscious of that relationship.
+              - listitem [ref=e637]:
+                - paragraph [ref=e638]: You've heard of computing pioneers like Ada Lovelace, Douglas Engelbart, Alan Kay, and others—and understand why we're big fans of their work.
+                - paragraph [ref=e639]
+            - paragraph [ref=e640]: We hire talented and passionate people from a variety of backgrounds because we want our global employee base to represent the wide diversity of our customers. If you’re excited about a role but your past experience doesn’t align perfectly with every bullet point listed in the job description, we still encourage you to apply. If you’re a builder at heart, share our company values, and enthusiastic about making software toolmaking ubiquitous, we want to hear from you.
+            - paragraph [ref=e641]
+            - paragraph [ref=e642]: Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.
+            - paragraph [ref=e643]
+            - paragraph [ref=e644]: Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco and New York, the estimated base salary range for this role is $126,000-$146,000.
+            - paragraph [ref=e645]
+            - paragraph [ref=e646]: "#LI-Onsite"
+          - link "Apply for this Job" [ref=e647] [cursor=pointer]:
+            - /url: /notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9/application?utm_source=Simplify
+            - button "Apply for this Job" [ref=e648]
+  - contentinfo [ref=e419]:
+    - link "Learn more about Ashby" [ref=e420] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e421]: Powered by
+      - img "Ashby" [ref=e422]
+    - paragraph [ref=e428]:
+      - link "Privacy Policy" [ref=e429] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e430] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e431] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

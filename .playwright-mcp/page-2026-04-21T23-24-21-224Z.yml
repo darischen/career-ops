@@ -1,0 +1,129 @@
+- generic [ref=e10]:
+  - generic [ref=e12]:
+    - banner [ref=e13]:
+      - generic [ref=e14]:
+        - link "Rokt" [ref=e16] [cursor=pointer]:
+          - /url: /rokt/
+          - img "Rokt" [ref=e17]
+        - heading "Junior Software Engineer" [level=1] [ref=e18]
+        - generic [ref=e19]:
+          - paragraph [ref=e20]:
+            - strong [ref=e22]: On-site
+            - text: ·Engineering·Full time·5
+          - generic [ref=e25]:
+            - generic [ref=e26]: New York,
+            - generic [ref=e27]: New York,
+            - text: United States
+    - generic [ref=e28]:
+      - navigation [ref=e30]:
+        - link "Overview" [ref=e32]:
+          - /url: /rokt/j/783A754DDB/
+        - link "Application" [ref=e33] [cursor=pointer]:
+          - /url: /rokt/j/783A754DDB/apply/
+      - main [ref=e34]:
+        - button "Share this job" [ref=e37] [cursor=pointer]:
+          - generic [ref=e38]:
+            - generic [ref=e39]: Share this job
+            - img [ref=e41]
+        - region "Description" [ref=e43]:
+          - heading "Description" [level=2] [ref=e44]
+          - generic [ref=e45]:
+            - paragraph [ref=e46]: Rokt is a global leader in ecommerce, unlocking real-time relevance in the moment that matters most. Rokt's AI Brain and ecommerce Network powers 10 billion+ transactions per year for hundreds of millions of customers, and is trusted to do this by the world's leading companies.
+            - paragraph
+            - paragraph [ref=e47]: We are a team of builders helping smart businesses find innovative ways to meet customer needs and generate incremental revenue. Leading companies drive 10-50% of additional revenue—and often all their profits—from the extra products or services they sell. This economic edge unleashes a world of possibilities for growth and innovation.
+            - heading "We are looking for Junior Software Engineers" [level=3] [ref=e48]
+            - paragraph [ref=e49]: At Rokt, we practice transparency in career paths and compensation. We have a well-defined career ladder with transparent compensation and clear career paths based on competency and ability.
+            - paragraph
+            - paragraph [ref=e50]: Target total compensation of $90,000 - $170,000, including a fixed annual salary of $85,000 - $150,000, an employee equity plan grant, and world-class benefits.
+            - paragraph
+            - paragraph [ref=e51]: Equity grants are issued in good faith, subject to company policies, board approval, and individual eligibility.
+            - paragraph
+            - paragraph [ref=e52]:
+              - strong [ref=e53]: "About the role:"
+            - paragraph [ref=e54]:
+              - text: This is an entry-level/early career role designed to help you grow as a Builder (engineer) while contributing to meaningful work. You will learn from experienced colleagues and gain hands-on experience building a diversity of services, from internal tools through to Rokt’s internet scale production systems.
+              - text: You will build broad knowledge and experience across systems, software, data, and data science, with regular opportunities to work across different domains and teams as you grow as a Builder at Rokt.
+        - region "Requirements" [ref=e55]:
+          - heading "Requirements" [level=2] [ref=e56]
+          - generic [ref=e57]:
+            - heading "What You’ll Do" [level=3] [ref=e58]
+            - list [ref=e59]:
+              - listitem [ref=e60]:
+                - strong [ref=e61]: "Design & Build Innovative Products:"
+                - text: Develop and iterate on next-generation ecommerce features and services, leveraging your computer science fundamentals and AI tooling to create & improve intelligent, personalized ecommerce experiences.
+              - listitem [ref=e62]:
+                - strong [ref=e63]: "Accelerate Development with AI:"
+                - text: Leverage AI tools and automation to speed up coding, testing, and deployment, so you and other builders can focus on creative problem-solving and quality.
+              - listitem [ref=e64]:
+                - strong [ref=e65]: "Full-Stack Product Ownership:"
+                - text: Work across the entire product lifecycle - from ideation and prototyping to implementation and continuous improvement - ensuring each feature delivers real value.
+              - listitem [ref=e66]:
+                - strong [ref=e67]: "Collaborate & Innovate:"
+                - text: Partner with product managers, designers, and other engineers to conceptualize and implement AI-driven solutions that enhance user experience and drive business outcomes.
+              - listitem [ref=e68]:
+                - strong [ref=e69]: "Optimize & Scale:"
+                - text: Identify performance bottlenecks and opportunities for improvement in our systems. Use data insights to refine user interfaces, optimize algorithms, and ensure our platform can scale to billions of transactions.
+              - listitem [ref=e70]:
+                - strong [ref=e71]: "Drive Revenue Growth:"
+                - text: Spearhead the development and deployment of innovative features and capabilities that directly drive growth of the business, with the potential to generate millions of dollars in additional revenue.
+            - paragraph
+            - heading "Who You Are" [level=3] [ref=e72]
+            - paragraph
+            - list [ref=e73]:
+              - listitem [ref=e74]:
+                - strong [ref=e75]: "AI-Enthusiast & Quick Learner:"
+                - text: You embrace new technologies on the forefront of AI development and learn rapidly, adapting to innovative tools and workflows to stay ahead of the curve.
+              - listitem [ref=e76]:
+                - strong [ref=e77]: "Problem Solver:"
+                - text: You excel at breaking down complex problems using first principles and creativity. Challenges are puzzles you’re excited to solve.
+              - listitem [ref=e78]:
+                - strong [ref=e79]: "Entrepreneurial Mindset:"
+                - text: You take ownership of outcomes, move fast with confidence, and aren’t afraid to navigate ambiguity—figuring things out independently when needed.
+              - listitem [ref=e80]:
+                - strong [ref=e81]: "Collaborative Team Player:"
+                - text: You communicate clearly and work well with cross-functional teams. You value feedback, share ideas openly, and help others succeed.
+              - listitem [ref=e82]:
+                - strong [ref=e83]: "Driven & Results-Oriented:"
+                - text: You set high standards for your work, take pride in delivering quality, and continually seek to improve. You care about the impact of your code on the business and customers.
+        - region "Benefits" [ref=e84]:
+          - heading "Benefits" [level=2] [ref=e85]
+          - generic [ref=e86]:
+            - paragraph [ref=e87]:
+              - strong [ref=e88]: "About The Benefits:"
+            - paragraph [ref=e89]: "We leverage best-in-class technology and market-leading innovation in AI and ML, with all of that being underlined by building and maintaining a fantastic and inclusive culture where people can be their authentic selves, and offering a great list of perks and benefits to go with it:"
+            - list [ref=e90]:
+              - listitem [ref=e91]: Become a shareholder. Every Rokt'star gets equity in the company
+              - listitem [ref=e92]: Enjoy catered lunch every day and healthy snacks in the office. Plus join the gym on us!
+              - listitem [ref=e93]: Extra leave (bonus annual leave, sabbatical leave etc.)
+              - listitem [ref=e94]: Work with the greatest talent in town
+              - listitem [ref=e95]: See the world! We have offices in New York, Seattle, Sydney, Tokyo and London.
+            - paragraph [ref=e96]: We believe we’re better together. We love spending time together and are in the office most days (teams are in the office minimum 4 days per week).
+            - paragraph
+            - paragraph [ref=e97]: We at Rokt choose to create a company that is as diverse and inclusive as the world we live in by attracting, growing & keeping the best talent. Equal employment opportunities are available to all applicants without regard to race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+            - paragraph
+            - paragraph [ref=e98]: If this sounds like a role you’d enjoy, apply here, and you’ll hear from our recruiting team.
+            - paragraph
+            - paragraph [ref=e99]: "Note on Recruitment Process: The first stage of the recruitment process for this role is to complete a 15-minute online aptitude test as well as an employee personality profile assessment, which will be sent out to your application email. Successful candidates will be contacted to discuss the next steps."
+        - button "Apply for this job" [ref=e102] [cursor=pointer]
+  - contentinfo [ref=e113]:
+    - generic [ref=e115]: Rokt does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.
+    - generic [ref=e116]:
+      - link "View website" [ref=e118] [cursor=pointer]:
+        - /url: http://rokt.com
+      - generic [ref=e119]:
+        - link "View all jobs" [ref=e120] [cursor=pointer]:
+          - /url: /rokt/
+        - link "Help" [ref=e121] [cursor=pointer]:
+          - /url: https://jobseekers.workable.com/hc/en
+          - text: Help
+          - img [ref=e122]
+    - generic [ref=e124]:
+      - link "Accessibility" [ref=e126] [cursor=pointer]:
+        - /url: https://workable.com/web-accessibility-statement
+        - text: Accessibility
+        - img [ref=e127]
+      - button "Cookie settings" [ref=e130] [cursor=pointer]
+      - generic [ref=e131]:
+        - text: Powered by
+        - link "Workable" [ref=e132] [cursor=pointer]:
+          - /url: https://jobs.workable.com/?utm_campaign=careers_page&utm_content=careers_page&utm_medium=feature&utm_source=careers_page

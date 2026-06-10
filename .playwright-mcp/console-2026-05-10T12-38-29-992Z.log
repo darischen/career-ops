@@ -1,0 +1,19 @@
+[     851ms] [LOG] Adobe Analytics interceptor active @ https://www.redventures.com/careers/positions/open?gh_jid=7843774&gh_src=Simplify&utm_source=Simplify:89
+[    1193ms] [WARNING] yui: NOT loaded: squarespace-visitor_site_error_reporter @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-b8d716935110c7b2-min.en-US.js:7
+[    1193ms] [WARNING] yui: NOT loaded: squarespace-cldr_resource_pack @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-b8d716935110c7b2-min.en-US.js:7
+[    1193ms] [WARNING] yui: NOT loaded: squarespace-common_vendors_stable @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-b8d716935110c7b2-min.en-US.js:7
+[    1193ms] [WARNING] yui: NOT loaded: squarespace-common_vendors @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-b8d716935110c7b2-min.en-US.js:7
+[    1196ms] [WARNING] yui: NOT loaded: squarespace-user_account_core @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-b8d716935110c7b2-min.en-US.js:7
+[    1196ms] [WARNING] yui: NOT loaded: squarespace-performance @ https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-b8d716935110c7b2-min.en-US.js:7
+[    1528ms] [LOG] Adobe Analytics data forwarded {timestamp: 2026-05-10T12:38:31.517Z, url: https://redventurestppdprvwebsite.112.2o7.net/b/ss…mcorgid=929D1E2F670029640A495E8D%40AdobeOrg&AQE=1, method: GET, type: image-beacon, body: undefined} @ https://assets.squarespace.com/universal/scripts-compressed/7041-ab5682cb407bceb3-min.en-US.js:484
+[    1550ms] [LOG] [Visitor Sentry] Initialized and sending events @ https://assets.squarespace.com/universal/scripts-compressed/7041-ab5682cb407bceb3-min.en-US.js:484
+[    1673ms] [LOG] Adobe Analytics data forwarded {timestamp: 2026-05-10T12:38:31.664Z, url: https://redventurestppdprvwebsite.112.2o7.net/b/ss…mcorgid=929D1E2F670029640A495E8D%40AdobeOrg&AQE=1, method: GET, type: image-beacon, body: undefined} @ https://assets.squarespace.com/universal/scripts-compressed/7041-ab5682cb407bceb3-min.en-US.js:484
+[    1870ms] [ERROR] Access to XMLHttpRequest at 'https://vkbxp3f1yj.execute-api.us-east-1.amazonaws.com/dev/events' from origin 'https://www.redventures.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.redventures.com/careers/positions/open?gh_jid=7843774&gh_src=Simplify&utm_source=Simplify:0
+[    1871ms] [ERROR] Failed to send data to endpoint @ https://assets.squarespace.com/universal/scripts-compressed/7041-ab5682cb407bceb3-min.en-US.js:484
+[    1871ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://vkbxp3f1yj.execute-api.us-east-1.amazonaws.com/dev/events:0
+[    1871ms] [ERROR] Access to XMLHttpRequest at 'https://vkbxp3f1yj.execute-api.us-east-1.amazonaws.com/dev/events' from origin 'https://www.redventures.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.redventures.com/careers/positions/open?gh_jid=7843774&gh_src=Simplify&utm_source=Simplify:0
+[    1871ms] [ERROR] Failed to send data to endpoint @ https://assets.squarespace.com/universal/scripts-compressed/7041-ab5682cb407bceb3-min.en-US.js:484
+[    1871ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://vkbxp3f1yj.execute-api.us-east-1.amazonaws.com/dev/events:0
+[    2548ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://my.greenhouse.io/users/self?job_post_id=7843774:0
+[    2548ms] UnauthorizedError: Unauthorized: User is not logged in.
+    at Gs.fetchProfile (https://job-boards.cdn.greenhouse.io/assets/entry.client-BxXrY58B.js:61:71218)

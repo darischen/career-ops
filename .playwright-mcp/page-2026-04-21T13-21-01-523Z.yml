@@ -1,0 +1,136 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - link [ref=e210] [cursor=pointer]:
+      - /url: ""
+      - text: Skip to main content
+    - banner [ref=e8]:
+      - generic [ref=e10]:
+        - link [ref=e211] [cursor=pointer]:
+          - /url: /en-US/External_Careers
+          - img [ref=e212]
+        - generic [ref=e17]:
+          - button [ref=e213] [cursor=pointer]:
+            - generic [ref=e24]: Sign In
+          - navigation [ref=e25]:
+            - button [ref=e214] [cursor=pointer]: Search for Jobs
+    - generic [ref=e31]:
+      - alert [ref=e32]: Software Engineer I page is loaded
+      - generic [ref=e33]:
+        - generic [ref=e35]:
+          - heading [level=2] [ref=e215]: Software Engineer I
+          - button [ref=e216] [cursor=pointer]: Apply
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - generic [ref=e51]:
+              - term [ref=e52]: locations
+              - definition [ref=e53]: SAN JOSE
+            - generic [ref=e54]:
+              - generic [ref=e63]:
+                - term [ref=e64]: time type
+                - definition [ref=e65]: Full time
+              - generic [ref=e74]:
+                - term [ref=e75]: posted on
+                - definition [ref=e76]: Posted Yesterday
+              - generic [ref=e85]:
+                - term [ref=e86]: job requisition id
+                - definition [ref=e87]: R50810
+          - generic [ref=e89]:
+            - heading [level=2] [ref=e217]:
+              - generic [ref=e91]: At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.
+            - paragraph [ref=e92]: Cadence Design Systems is looking for a highly motivated software engineer to work as a member of the R&D staff on Cadence’s Innovus product.
+            - paragraph [ref=e93]: Innovus is a complete digital implementation product that encompasses physical design and logic synthesis. The product breadth means we are looking for skilled and motivated candidates with backgrounds in placement, routing, optimization, logic synthesis, extraction, static timing and power analysis.
+            - paragraph [ref=e94]
+            - paragraph [ref=e95]: You will be part of a team responsible for creating the innovative technologies required for technology leadership in this space. Development responsibilities include designing, developing, troubleshooting, debugging and supporting the Innovus product.
+            - paragraph [ref=e96]
+            - paragraph [ref=e97]: This specific role will require physical design and synthesis domain knowledge on how each engine and what roles it plays in the digital implementation flows, together with strong data exploration and data analysis skills to then find out the most critical optimization needs in the flow and create plan and/or high-level algorithms to solve it to meet critical customer needs.
+            - paragraph [ref=e98]
+            - paragraph [ref=e99]: "The successful candidate will possess the following combination of education and experience:"
+            - paragraph [ref=e100]: • MS in Computer Science or Engineering, PhD is preferred
+            - paragraph [ref=e101]: • Strong analysis and problem solving skills
+            - paragraph [ref=e102]: • Strong ability to learn quickly
+            - paragraph [ref=e103]: • Excellent programming and software engineering skills, especially C/C++ and UNIX platforms
+            - paragraph [ref=e104]: • Proficient in Tcl
+            - paragraph [ref=e105]: • Prior experience with large software development projects is highly recommended
+            - paragraph [ref=e106]
+            - paragraph [ref=e107]: Most importantly, we are looking for hard working, innovative engineers who enjoy working with a great team in a high-performance culture.
+            - paragraph [ref=e108]: "The annual salary range for California is $88,900 to $165,100. You may also be eligible to receive incentive compensation: bonus, equity, and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the salary range is a guideline and compensation may vary based on factors such as qualifications, skill level, competencies and work location. Our benefits programs include: paid vacation and paid holidays, 401(k) plan with employer match, employee stock purchase plan, a variety of medical, dental and vision plan options, and more."
+            - heading [level=2] [ref=e218]:
+              - generic [ref=e110]: We’re doing work that matters. Help us solve what others can’t.
+      - generic [ref=e113]:
+        - heading [level=3] [ref=e219]: About Us
+        - img [ref=e220]
+        - generic [ref=e117]:
+          - generic [ref=e119]:
+            - paragraph [ref=e120]:
+              - link [ref=e121] [cursor=pointer]:
+                - /url: https://cadence.wd1.myworkdayjobs.com/addl_jobs
+                - text: Additional Jobs
+            - paragraph [ref=e122]
+            - paragraph [ref=e123]: "Equal Employment Opportunity Policy:"
+            - paragraph [ref=e124]: Cadence is committed to equal employment opportunity throughout all levels of the organization.
+            - list [ref=e125]:
+              - listitem [ref=e126]:
+                - link [ref=e127] [cursor=pointer]:
+                  - /url: https://www.cadence.com/content/dam/cadence-www/global/en_US/documents/company/careers/equal-employment-opportunity-policy.pdf
+                  - text: Read the policy(opens in a new tab)
+            - paragraph [ref=e128]:
+              - text: We welcome your interest in the company and want to make sure our job site is accessible to all. If you experience difficulty using this site or to request a reasonable accommodation, please contact
+              - link [ref=e129] [cursor=pointer]:
+                - /url: mailto:staffing@cadence.com
+                - text: staffing@cadence.com
+              - text: .
+            - paragraph [ref=e130]
+            - paragraph [ref=e131]: "Privacy Policy:"
+            - paragraph [ref=e132]:
+              - text: Job Applicant If you are a job seeker creating a profile using our careers website, please see the
+              - link [ref=e133] [cursor=pointer]:
+                - /url: https://www.cadence.com/en_US/home/privacy/privacy-policy.html
+                - text: privacy policy(opens in a new tab)
+              - text: .
+            - paragraph [ref=e134]:
+              - generic [ref=e138]: E-Verify Cadence
+              - text: participates in the
+            - paragraph [ref=e139]:
+              - text: E-Verify program in certain U.S. locations as required by law.
+              - link [ref=e140] [cursor=pointer]:
+                - /url: https://www.cadence.com/content/dam/cadence-www/global/en_US/documents/company/careers/e-verify-participation-poster.pdf
+                - text: Download More Information on E-Verify (64K)
+            - paragraph [ref=e141]
+            - paragraph [ref=e142]: Cadence plays a critical role in creating the technologies that modern life depends on. We are a global electronic design automation company, providing software, hardware, and intellectual property to design advanced semiconductor chips that enable our customers create revolutionary products and experiences.
+            - paragraph [ref=e143]
+            - paragraph [ref=e144]: Thanks to the outstanding caliber of the Cadence team and the empowering culture that we have cultivated for over 25 years, Cadence continues to be recognized by Fortune Magazine as one of the 100 Best Companies to Work For. Our shared passion for solving the world’s toughest technical challenges, our dedication to pushing the limits of the industry, and our drive to do meaningful work differentiates the people of Cadence.
+            - paragraph [ref=e145]: Cadence is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, basis of disability, or any other protected class.
+          - button [ref=e221] [cursor=pointer]:
+            - generic [ref=e149]: Read More
+    - generic [ref=e153]:
+      - generic [ref=e154]: Follow Us
+      - list [ref=e155]:
+        - listitem [ref=e156] [cursor=pointer]:
+          - link [ref=e222]:
+            - /url: https://plus.google.com/+cadencedesignsystems
+        - listitem [ref=e161] [cursor=pointer]:
+          - link [ref=e223]:
+            - /url: https://www.youtube.com/user/CadenceDesign
+        - listitem [ref=e168] [cursor=pointer]:
+          - link [ref=e224]:
+            - /url: https://www.linkedin.com/company/cadence-design-systems
+        - listitem [ref=e173] [cursor=pointer]:
+          - link [ref=e225]:
+            - /url: https://twitter.com/cadence
+        - listitem [ref=e178] [cursor=pointer]:
+          - link [ref=e226]:
+            - /url: https://www.facebook.com/CadenceDesign
+      - link [ref=e227] [cursor=pointer]:
+        - /url: https://www.cadence.com/en_US/home/privacy.html
+        - text: Privacy
+      - generic [ref=e185]:
+        - img [ref=e189]
+        - generic [ref=e209]: © 2026 Workday, Inc. All rights reserved.
+  - dialog "Start Your Application" [ref=e231]:
+    - button "Close" [active] [ref=e233] [cursor=pointer]
+    - generic [ref=e239]:
+      - heading "Start Your Application" [level=2] [ref=e240]
+      - heading "Software Engineer I" [level=3] [ref=e241]
+      - button "Autofill with Resume" [ref=e245] [cursor=pointer]
+      - button "Apply Manually" [ref=e249] [cursor=pointer]
+      - button "Use My Last Application" [ref=e254] [cursor=pointer]

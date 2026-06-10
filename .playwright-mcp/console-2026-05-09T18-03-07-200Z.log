@@ -1,0 +1,3 @@
+[     387ms] [LOG] JQMIGRATE: Migrate is installed, version 3.5.2 @ https://cdn02.icims.com/a/images.icims.com/content/platform_182.0.0.260423-294032191a0-11-6/script/lib/jquery/jquery-migrate-3.5.2.min.js:1
+[     429ms] Uncaught TypeError: Failed to execute 'observe' on 'MutationObserver': parameter 1 is not of type 'Node'.
+    at <anonymous> (https://cdn02.icims.com/a/images.icims.com/content/platform_182.0.0.260423-294032191a0-11-6/script/icims.application.js:28627:9)

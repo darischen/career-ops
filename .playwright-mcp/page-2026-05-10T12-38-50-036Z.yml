@@ -1,0 +1,408 @@
+- generic [ref=e1]:
+  - dialog "Important System Message" [ref=e374]:
+    - generic [ref=e376]:
+      - paragraph [ref=e377]: This site uses cookies.
+      - paragraph [ref=e378]:
+        - text: We use cookies to collect data while you use this website. The cookies we gather allow us to give you the very best experience. To learn more about how we use cookie data, visit our
+        - link "cookie notice" [ref=e379] [cursor=pointer]:
+          - /url: /cookie-notice
+        - text: .
+      - paragraph [ref=e380]:
+        - text: "Please Note: Essential cookies will continue to be used on our site, even if you select \"Reject Cookies\", as essential cookies are required for our site to perform its basic functions. Please select"
+        - link "Adjust Cookie Settings" [ref=e381] [cursor=pointer]:
+          - /url: /cookie-management
+        - text: for additional information on the types of cookies we use and/or to tailor your selections. You can edit your preferences at any time by selecting Cookie Preferences in the sites footer.
+    - generic [ref=e382]:
+      - button "Accept Cookies" [active] [ref=e383] [cursor=pointer]
+      - button "Reject Cookies" [ref=e384] [cursor=pointer]
+      - button "Manage Settings" [ref=e385] [cursor=pointer]
+  - generic [ref=e2]:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#content"
+    - banner [ref=e4]:
+      - generic [ref=e7]:
+        - link "Citi Careers (Home)" [ref=e9] [cursor=pointer]:
+          - /url: /
+          - img "Citi Careers (Home)" [ref=e11]
+          - generic [ref=e12]: Careers
+        - navigation "main" [ref=e13]:
+          - link "Saved Jobs" [ref=e17] [cursor=pointer]:
+            - /url: /saved-jobs
+            - generic [ref=e19]: Saved Jobs
+          - list [ref=e21]:
+            - listitem [ref=e22]:
+              - link "Search Jobs" [ref=e23] [cursor=pointer]:
+                - /url: /search-jobs
+            - listitem [ref=e24]:
+              - button "Why Citi" [ref=e25] [cursor=pointer]
+            - listitem [ref=e26]:
+              - button "Early Careers" [ref=e27] [cursor=pointer]
+            - listitem [ref=e28]:
+              - button "Talent Networks" [ref=e29] [cursor=pointer]
+              - text:  
+    - main [ref=e30]:
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - generic [ref=e38]:
+            - heading "Junior Generative AI Application Developer" [level=1] [ref=e39]
+            - link "Apply (opens in new window) " [ref=e41] [cursor=pointer]:
+              - /url: https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Junior-Generative-AI-Application-Developer_26962250/apply
+              - text: Apply
+              - generic [ref=e42]: (opens in new window)
+              - text: 
+          - generic [ref=e44]:
+            - generic [ref=e45]:
+              - term [ref=e46]: "Job Req Id:"
+              - definition [ref=e47]: "26962250"
+            - generic [ref=e48]:
+              - term [ref=e49]: "Location(s):"
+              - definition [ref=e50]: New York, New York, United States
+            - generic [ref=e51]:
+              - term [ref=e52]: "Job Type:"
+              - definition [ref=e53]: Hybrid
+            - generic [ref=e54]:
+              - term [ref=e55]: "Posted:"
+              - definition [ref=e56]: May. 08, 2026
+          - generic [ref=e57]:
+            - generic [ref=e58]:
+              - heading "Discover your future at Citi" [level=2] [ref=e59]
+              - paragraph [ref=e60]: Working at Citi is far more than just a job. A career with us means joining a team of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.
+              - heading "Job Overview" [level=2] [ref=e61]
+              - paragraph [ref=e62]: Engineer the future of global finance. At Citi, our Tech team doesn't just support finance—we are helping to redefine it. Every day, $5 trillion crosses through our network. We do business in 180+ countries operating at a scale few can match. From deploying advanced AI to helping shape global markets, we build systems that matter. Look to join a team where your work helps influence economies, your ideas can drive innovation and outcomes, and your growth is backed by mentorship, continuous learning, and flexibility with potential hybrid work opportunities. Help solve real-world challenges that touch millions and get the opportunity to build the future of finance with Citi Tech.
+              - paragraph [ref=e63]: We provide you with the knowledge and skills you need to succeed... We're committed to teaching you the ropes. For individuals starting their careers, we offer a supportive environment. Here at Citi, internal development paths are intended to help you build a broad skillset and accelerate your career growth by gaining exposure to more than one team in Software Development. Our supportive environment will help you discover the best fit for your skills and long-term career goals at Citi.
+              - paragraph [ref=e64]: Your time here will look like this... You will thrive in an agile software development environment, crafting high-quality, scalable software solutions leveraging cutting-edge technologies, including AI-powered coding tools. Translating business requirements into robust code, you'll ensure adherence to stringent quality standards and provide essential support through testing cycles and post-production deployment.
+              - paragraph [ref=e65]: "To deliver systems at the enterprise-level that are high quality, scalable, and resilient, you will skillfully utilize advanced tools for code testing and debugging, while learning from top technologists through design sessions and peer code reviews. Furthermore, you'll benefit from a comprehensive support system: you'll join a cohort of new hires, embarking on a shared journey to master our company culture, tools, processes, and the technical proficiencies vital to your success."
+              - paragraph [ref=e66]: "While technologies may vary across teams, and AI tooling is rapidly evolving, developers will gain exposure to a wide range of technologies and tools across all aspects of the SDLC:"
+              - paragraph [ref=e67]: "Back-End Microservices Development: Java, Spring Framework"
+              - paragraph [ref=e68]: "Mobile Development:"
+              - paragraph [ref=e69]: "iOS: Swift, Xcode, MVC Architecture"
+              - paragraph [ref=e70]: "Android: Android Studio, JavaScript, CSS, AJAX, Java Web Services"
+              - paragraph [ref=e71]: "Front-End Web Development: React or Angular, Apigee TypeScript, HTML5"
+              - paragraph [ref=e72]: "Generative AI & AI Agents: Prompt Engineering, Workflow Design, and GenAI Optimization"
+              - paragraph [ref=e73]: "Tools & Platforms: GitHub Copilot (multiple models), Citi Squad (automated code reviews), Devin.AI (agentic code generation), Stylus Workspaces (in‑house Gemini)"
+              - paragraph [ref=e74]: "Large Language Models (LLMs): Gemini, OpenAI, Claude, Llama, Local Models"
+              - paragraph [ref=e75]: "Frameworks: LangChain, LlamaIndex, Hugging Face"
+              - paragraph [ref=e76]: "Orchestration: LangGraph, Multi-Agent Systems"
+              - paragraph [ref=e77]: "Development Languages: Java, PythonFastAPI"
+              - paragraph [ref=e78]: "Retrieval-Augmented Generation (RAG): PostgreSQL, Vector DBs, Advanced Retrieval"
+              - paragraph [ref=e79]: "ML/DL Frameworks: PyTorch, TensorFlow, Fine-tuning"
+              - paragraph [ref=e80]: "Deployment: Enterprise DevOps Pipeline, Docker, Monitoring Tooling"
+              - paragraph [ref=e81]: "Data Analytics: Utilizing tools like Splunk, Tableau, and Adobe Analytics to track customer journey adoption and measure the business value of delivered products."
+              - paragraph [ref=e82]: "As an individual contributor, you can expect exposure to:"
+              - list [ref=e83]:
+                - listitem [ref=e84]:
+                  - paragraph [ref=e85]: "Gen AI Strategy & Cloud Deployment: Contributing to the adoption and deployment of cutting-edge Generative AI models and solutions on diverse cloud providers such as AWS, leveraging specialized AI/ML services for scalable and efficient inference. This includes advanced AI engineering practices to optimize model performance and reliability."
+                - listitem [ref=e86]:
+                  - paragraph [ref=e87]: "Engineering Excellence (AI/MLOps): Adhering to and implementing Citi's Minimum Development Standards and Minimum Operational Standards, with a strong focus on applying MLOps best practices, ethical AI guidelines, and responsible AI development principles, particularly for managing the lifecycle of Generative AI agents."
+                - listitem [ref=e88]:
+                  - paragraph [ref=e89]: "Architectural Patterns (Gen AI Focus): Exploring and applying the latest design and software architecture patterns and frameworks, including advanced Gen AI model architectures (e.g., Transformers, GANs), prompt engineering patterns, scalable inference solutions, Microservices, APIs, Spring Core/MVC/Boot/Cloud, and RESTful services. This includes designing and building agentic flows for complex business processes."
+                - listitem [ref=e90]:
+                  - paragraph [ref=e91]: "CI/CD & Gen AI Development Tools: Gaining exposure to various software development tools within Continuous Integration/Continuous Delivery pipelines, such as JIRA, Zephyr, GitHub, Harness, Artifactory, MLOps platforms, model versioning tools, AI-specific testing frameworks, and container orchestration platforms like OpenShift."
+                - listitem [ref=e92]:
+                  - paragraph [ref=e93]: "Event Streaming & Messaging (AI Data Pipelines): Working with event streaming and messaging systems, including Kafka, Flink, Solace, or similar technologies, specifically for real-time data ingestion for Gen AI model training, fine-tuning, and inference."
+                - listitem [ref=e94]:
+                  - paragraph [ref=e95]: "Containerization (AI Model Deployment): Hands-on experience with container technologies like Docker and Kubernetes for scalable and reproducible deployment of Gen AI models and related microservices."
+              - paragraph [ref=e96]: "No matter your team placement, you can expect:"
+              - list [ref=e97]:
+                - listitem [ref=e98]:
+                  - paragraph [ref=e99]: "Global Gen AI Exposure: Work on globally scoped Generative AI projects with cross-functional teams, gaining invaluable insights into how this transformative technology is reshaping the financial sector worldwide."
+                - listitem [ref=e100]:
+                  - paragraph [ref=e101]: "Continuous Learning & AI Advancement: Benefit from structured learning paths, extensive networking opportunities, mentorship, and development designed to sharpen your technical prowess in Generative AI, enhance your business acumen, and cultivate your leadership skills, staying abreast of the latest advancements in AI research and technologies. This includes gaining expertise in building agents on our proprietary ARC platform."
+                - listitem [ref=e102]:
+                  - paragraph [ref=e103]: "Real Impact with AI: Contribute to real-world projects that shape the future of banking, from developing cutting-edge Generative AI solutions and intelligent automation to strengthening cybersecurity defenses and driving data-powered innovations."
+              - paragraph [ref=e104]: We want to hear from you if... We are actively seeking individuals with a profound passion for technology, especially Generative AI, and an unwavering drive to make a significant difference.
+              - paragraph [ref=e105]: "To join Citi, you should meet the following criteria:"
+              - list [ref=e106]:
+                - listitem [ref=e107]:
+                  - paragraph [ref=e108]: "Educational Background: Bachelor's degree in a technology-related discipline (e.g., Computer Science, Computer Engineering, Information Technology, MIS) with a specialization or strong coursework in Artificial Intelligence, Machine Learning, Data Science, or equivalent hands-on experience."
+                - listitem [ref=e109]:
+                  - paragraph [ref=e110]: "Work Authorization: Authorized to work in the United States without the need for employer sponsorship, now OR in the future."
+                - listitem [ref=e111]:
+                  - paragraph [ref=e112]: "Problem-Solving Acumen (AI-driven): A proactive problem-solver who thrives on innovation and embraces challenges with enthusiasm, leveraging Generative AI to address complex business problems and create novel solutions."
+                - listitem [ref=e113]:
+                  - paragraph [ref=e114]: "Global Mindset: Possess a global outlook and a strong willingness to collaborate effectively across diverse cultures and time zones, understanding the global implications of AI development."
+                - listitem [ref=e115]:
+                  - paragraph [ref=e116]: "Communication & Leadership: Demonstrate excellent communication skills, project management capabilities, leadership potential, keen attention to detail, and the ability to excel within diverse teams, particularly in articulating complex AI concepts."
+                - listitem [ref=e117]:
+                  - paragraph [ref=e118]: "Technical Proficiency (Gen AI): Capable of successfully passing technical interviews, including basic algorithmic programming exercises, with demonstrated proficiency in Generative AI frameworks (e.g., TensorFlow, PyTorch, Hugging Face), model development, prompt engineering, and understanding of AI architecture. Strong experience in AI engineering, particularly in building agentic flows and building agents on our proprietary ARC platform, is highly valued."
+                - listitem [ref=e119]:
+                  - paragraph [ref=e120]: "Collaboration & Adaptability: Must be collaborative and adaptable, with prior experience working on agile teams being highly desirable, especially in a fast-paced environment delivering AI solutions."
+              - paragraph [ref=e121]: "Who we think will be a great fit... A steadfast dedication to continuous learning in Generative AI and a genuine passion for applying AI in business are paramount. As global industries continue to evolve, we are seeking professionals who bring a global perspective to the future of banking and are eager to make an impact at the corporate level using AI. We champion diversity, and we expect you to share that value. This role is ideally suited for individuals who:"
+              - paragraph [ref=e122]: Are ambitious, with a relentless drive to succeed in a fast-paced, dynamic environment.
+              - paragraph [ref=e123]: Are inherently curious about how Generative AI can revolutionize finance and are eager to be at the forefront of this transformation.
+              - paragraph [ref=e124]: Aspire to grow into a future Gen AI leader, combining a passion for AI with its strategic application within the global financial industry.
+              - paragraph [ref=e125]:
+                - generic [ref=e137]: "------------------------------------------------------"
+              - heading "Job Family Group:" [level=2] [ref=e138]
+              - text: Technology
+              - paragraph [ref=e139]:
+                - generic [ref=e151]: "------------------------------------------------------"
+              - heading "Job Family:" [level=2] [ref=e152]
+              - text: Applications Development
+              - paragraph [ref=e153]:
+                - generic [ref=e163]: "------------------------------------------------------"
+              - heading "Time Type:" [level=2] [ref=e164]
+              - text: Full time
+              - paragraph [ref=e165]:
+                - generic [ref=e175]: "------------------------------------------------------"
+              - heading "Primary Location:" [level=2] [ref=e176]
+              - text: New York New York United States
+              - paragraph [ref=e177]:
+                - generic [ref=e187]: "------------------------------------------------------"
+              - heading "Primary Location Full Time Salary Range:" [level=2] [ref=e188]
+              - text: $95,770.00 - $133,630.00
+              - paragraph [ref=e189]: "In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire."
+              - paragraph [ref=e190]: "------------------------------------------------------"
+              - heading "Most Relevant Skills" [level=2] [ref=e191]
+              - text: Please see the requirements listed above.
+              - paragraph [ref=e192]: "------------------------------------------------------"
+              - heading "Other Relevant Skills" [level=2] [ref=e193]
+              - text: For complementary skills, please see above and/or contact the recruiter.
+              - paragraph [ref=e194]: "------------------------------------------------------"
+              - heading "Anticipated Posting Close Date:" [level=2] [ref=e195]
+              - text: May 14, 2026
+              - paragraph [ref=e196]:
+                - generic [ref=e203]: "------------------------------------------------------"
+              - paragraph [ref=e204]:
+                - generic [ref=e205]: Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.
+              - paragraph
+              - paragraph [ref=e206]:
+                - generic [ref=e208]:
+                  - text: If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review
+                  - link "Accessibility at Citi (opens in new window) " [ref=e386] [cursor=pointer]:
+                    - /url: https://www.citigroup.com/citi/accessibility/application-accessibility.htm
+                    - text: Accessibility at Citi
+                    - generic [ref=e387]: (opens in new window)
+                    - text: 
+                  - text: .
+                  - text: View Citi’s
+                  - link "EEO Policy Statement (opens in new window) " [ref=e388] [cursor=pointer]:
+                    - /url: https://www.citigroup.com/global/eeo-aa-policy
+                    - text: EEO Policy Statement
+                    - generic [ref=e389]: (opens in new window)
+                    - text: 
+                  - text: and the
+                  - link "Know Your Rights (opens in new window) " [ref=e390] [cursor=pointer]:
+                    - /url: https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf
+                    - text: Know Your Rights
+                    - generic [ref=e391]: (opens in new window)
+                    - text: 
+                  - text: poster.
+            - link "Apply (opens in new window) " [ref=e213] [cursor=pointer]:
+              - /url: https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Junior-Generative-AI-Application-Developer_26962250/apply
+              - text: Apply
+              - generic [ref=e214]: (opens in new window)
+              - text: 
+        - generic [ref=e216]:
+          - heading "Share this job" [level=2] [ref=e217]
+          - list [ref=e218]:
+            - listitem [ref=e219]:
+              - link "X (opens in new window) " [ref=e392] [cursor=pointer]:
+                - /url: https://x.com/intent/post?text=Junior+Generative+AI+Application+Developer&url=https://jobs.citi.com/job/new-york/junior-generative-ai-application-developer/287/94846498960?utm_source=twitter.com%26utm_medium=social_post%26utm_campaign=CITI_social
+                - text: X
+                - generic [ref=e393]: (opens in new window)
+                - text: 
+            - listitem [ref=e221]:
+              - link "Facebook (opens in new window) " [ref=e394] [cursor=pointer]:
+                - /url: https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fjobs.citi.com%2fjob%2fnew-york%2fjunior-generative-ai-application-developer%2f287%2f94846498960%3futm_source%3dfacebook.com%26utm_medium%3dsocial_post%26utm_campaign%3dCITI_social
+                - text: Facebook
+                - generic [ref=e395]: (opens in new window)
+                - text: 
+            - listitem [ref=e223]:
+              - link "LinkedIn (opens in new window) " [ref=e396] [cursor=pointer]:
+                - /url: http://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fjobs.citi.com%2fjob%2fnew-york%2fjunior-generative-ai-application-developer%2f287%2f94846498960%3futm_source%3dlinkedin.com%26utm_medium%3dsocial_post%26utm_campaign%3dCITI_social&title=Junior+Generative+AI+Application+Developer
+                - text: LinkedIn
+                - generic [ref=e397]: (opens in new window)
+                - text: 
+      - generic [ref=e226]:
+        - img "A man walks his dog, enjoying a well-earned break from work." [ref=e230]
+        - generic [ref=e231]:
+          - generic [ref=e232]:
+            - heading "Global Benefits" [level=2] [ref=e233]
+            - paragraph [ref=e234]: Discover the top benefits offered to our global workforce, designed to support your well-being, growth and work-life balance. Explore a few of the highlights that make working with us rewarding.
+            - paragraph [ref=e235]:
+              - link "Learn About Global Benefits" [ref=e236] [cursor=pointer]:
+                - /url: /about-us#benefits
+          - generic:
+            - img "A woman enjoying work-life balance with her family"
+      - generic [ref=e239]:
+        - heading "Explore More Jobs" [level=2] [ref=e240]
+        - list [ref=e241]:
+          - listitem [ref=e242]:
+            - heading "Virtual Branch Support Centralized Review and Reporting Analyst" [level=3] [ref=e243]:
+              - link "Virtual Branch Support Centralized Review and Reporting Analyst" [ref=e244] [cursor=pointer]:
+                - /url: /job/charlotte/virtual-branch-support-centralized-review-and-reporting-analyst/287/94862970304
+            - list [ref=e245]:
+              - listitem [ref=e246]: Charlotte, North Carolina, O'Fallon, Missouri, Jacksonville, Florida
+          - listitem [ref=e247]:
+            - heading "Vice President, Underwriting – Industrials" [level=3] [ref=e248]:
+              - link "Vice President, Underwriting – Industrials" [ref=e249] [cursor=pointer]:
+                - /url: /job/irving/vice-president-underwriting-industrials/287/94862970240
+            - list [ref=e250]:
+              - listitem [ref=e251]: Irving, Texas
+          - listitem [ref=e252]:
+            - heading "Technology Third-Party Management, Senior Technical Business Analyst" [level=3] [ref=e253]:
+              - link "Technology Third-Party Management, Senior Technical Business Analyst" [ref=e254] [cursor=pointer]:
+                - /url: /job/tampa/technology-third-party-management-senior-technical-business-analyst/287/94862967712
+            - list [ref=e255]:
+              - listitem [ref=e256]: Tampa, Florida
+          - listitem [ref=e257]:
+            - heading "Talent Acquisition – Search Partner, Markets | Vice President | London" [level=3] [ref=e258]:
+              - link "Talent Acquisition – Search Partner, Markets | Vice President | London" [ref=e259] [cursor=pointer]:
+                - /url: /job/london/talent-acquisition-search-partner-markets-vice-president-london/287/94862966880
+            - list [ref=e260]:
+              - listitem [ref=e261]: London, England
+      - list [ref=e263]:
+        - listitem [ref=e264]:
+          - generic [ref=e268]:
+            - heading "Early Careers Talent Network" [level=2] [ref=e269]
+            - paragraph [ref=e270]: Sign up to receive personalized job matches based on your skills and interests. We'll help you discover opportunities that align with your goals.
+            - paragraph [ref=e271]:
+              - link "Join Early Careers Network (opens in new window) " [ref=e398] [cursor=pointer]:
+                - /url: https://citi.eightfold.ai/careers/join?jtn_form_id=jtn-early-career
+                - text: Join Early Careers Network
+                - generic [ref=e399]: (opens in new window)
+                - text: 
+        - listitem [ref=e273]:
+          - generic [ref=e277]:
+            - heading "Career Professionals Talent Network" [level=2] [ref=e278]
+            - paragraph [ref=e279]: Sign up to receive tailored job matches based on your skills and experience. Discover opportunities that align with your ambitions.
+            - paragraph [ref=e280]:
+              - link "Join Career Professionals Network" [ref=e281] [cursor=pointer]:
+                - /url: https://citi.eightfold.ai/careers/join?jtn_form_id=jtn-general
+    - contentinfo [ref=e282]:
+      - generic [ref=e283]:
+        - list [ref=e285]:
+          - listitem [ref=e286]:
+            - heading "Home" [level=3] [ref=e287]:
+              - generic: Home
+            - list [ref=e289]:
+              - listitem [ref=e290]:
+                - link "Search Jobs" [ref=e291] [cursor=pointer]:
+                  - /url: /search-jobs
+              - listitem [ref=e292]:
+                - link "Upload Resume (opens in new window) " [ref=e293] [cursor=pointer]:
+                  - /url: https://citi.eightfold.ai/careers
+                  - text: Upload Resume
+                  - generic [ref=e294]: (opens in new window)
+                  - text: 
+          - listitem [ref=e295]:
+            - heading "Why Citi" [level=3] [ref=e296]:
+              - generic: Why Citi
+            - list [ref=e298]:
+              - listitem [ref=e299]:
+                - link "About Us" [ref=e300] [cursor=pointer]:
+                  - /url: /about-us
+              - listitem [ref=e301]:
+                - link "People, Engagement and Inclusion" [ref=e302] [cursor=pointer]:
+                  - /url: /people-engagement-inclusion
+          - listitem [ref=e303]:
+            - heading "Early Careers" [level=3] [ref=e304]:
+              - generic: Early Careers
+            - list [ref=e306]:
+              - listitem [ref=e307]:
+                - link "Early Career Programs" [ref=e308] [cursor=pointer]:
+                  - /url: /early-careers
+              - listitem [ref=e309]:
+                - link "Job Simulations" [ref=e310] [cursor=pointer]:
+                  - /url: /job-simulations
+              - listitem [ref=e311]:
+                - link "Events & Pre-Internships" [ref=e312] [cursor=pointer]:
+                  - /url: /events-preinternships
+          - listitem [ref=e313]:
+            - heading "Early Careers" [level=3] [ref=e314]:
+              - generic: Networks
+            - list [ref=e316]:
+              - listitem [ref=e317]:
+                - link "Early Careers Talent Network (opens in new window) " [ref=e318] [cursor=pointer]:
+                  - /url: https://citi.eightfold.ai/careers/join?jtn_form_id=jtn-early-career
+                  - text: Early Careers Talent Network
+                  - generic [ref=e319]: (opens in new window)
+                  - text: 
+              - listitem [ref=e320]:
+                - link "Career Professionals Talent Network (opens in new window) " [ref=e321] [cursor=pointer]:
+                  - /url: https://citi.eightfold.ai/careers/join?jtn_form_id=jtn-general
+                  - text: Career Professionals Talent Network
+                  - generic [ref=e322]: (opens in new window)
+                  - text: 
+              - listitem [ref=e323]:
+                - link "Citi Alumni Network (opens in new window) " [ref=e324] [cursor=pointer]:
+                  - /url: https://www.citialumninetwork.com/
+                  - text: Citi Alumni Network
+                  - generic [ref=e325]: (opens in new window)
+                  - text: 
+        - list [ref=e327]:
+          - listitem [ref=e328]:
+            - link "X" [ref=e329] [cursor=pointer]:
+              - /url: //www.twitter.com/citicareers
+          - listitem [ref=e330]:
+            - link "Facebook" [ref=e331] [cursor=pointer]:
+              - /url: //www.facebook.com/CitiCareers/
+          - listitem [ref=e332]:
+            - link "YouTube" [ref=e333] [cursor=pointer]:
+              - /url: //www.youtube.com/playlist?list=PL7807xkyz4XRKIqtHnM67nx6rMm1ZUTnz
+          - listitem [ref=e334]:
+            - link "LinkedIn" [ref=e335] [cursor=pointer]:
+              - /url: //www.linkedin.com/company/citi/life
+          - listitem [ref=e336]:
+            - link "Instagram" [ref=e337] [cursor=pointer]:
+              - /url: //www.instagram.com/citicareers/
+          - listitem [ref=e338]:
+            - link "Glassdoor" [ref=e339] [cursor=pointer]:
+              - /url: //www.glassdoor.com/citi
+        - list [ref=e340]:
+          - listitem [ref=e341]:
+            - link "Privacy" [ref=e342] [cursor=pointer]:
+              - /url: /privacy
+          - listitem [ref=e343]:
+            - link "Notice at Collection (PDF)" [ref=e344] [cursor=pointer]:
+              - /url: https://tbcdn.talentbrew.com/company/287/cms/v3/docs/policies/HR-California-Candidate.pdf
+          - listitem [ref=e345]:
+            - link "Terms" [ref=e346] [cursor=pointer]:
+              - /url: /terms-of-use
+          - listitem [ref=e347]:
+            - link "Additional Terms" [ref=e348] [cursor=pointer]:
+              - /url: /additional-terms
+          - listitem [ref=e349]:
+            - link "Cookie Notice" [ref=e350] [cursor=pointer]:
+              - /url: /cookie-notice
+          - listitem [ref=e351]:
+            - link "Cookie Preferences" [ref=e352] [cursor=pointer]:
+              - /url: /cookie-management
+          - listitem [ref=e353]:
+            - link "Sitemap" [ref=e354] [cursor=pointer]:
+              - /url: /sitemap
+        - generic [ref=e355]:
+          - generic [ref=e356]:
+            - paragraph [ref=e357]: Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.
+            - paragraph [ref=e358]:
+              - text: If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review
+              - link "Accessibility at Citi (opens in new window) " [ref=e359] [cursor=pointer]:
+                - /url: https://www.citi.com/accessibility?section=employment-applicant-accessibility
+                - text: Accessibility at Citi
+                - generic [ref=e360]: (opens in new window)
+                - text: 
+              - text: .
+            - paragraph [ref=e361]:
+              - text: View Citi’s
+              - link "EEO Policy Statement (opens in new window) " [ref=e362] [cursor=pointer]:
+                - /url: https://www.citigroup.com/global/eeo-aa-policy
+                - text: EEO Policy Statement
+                - generic [ref=e363]: (opens in new window)
+                - text: 
+              - text: and the
+              - link "Know Your Rights (PDF) (opens in new window) " [ref=e364] [cursor=pointer]:
+                - /url: https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf
+                - text: Know Your Rights (PDF)
+                - generic [ref=e365]: (opens in new window)
+                - text: 
+              - text: poster.
+          - paragraph [ref=e367]:
+            - link "Citigroup.com" [ref=e368] [cursor=pointer]:
+              - /url: https://citigroup.com
+            - text: is the global source of information about and access point to financial services provided by the Citi family of companies.
+          - generic [ref=e369]:
+            - link "Citi Careers (Home)" [ref=e370] [cursor=pointer]:
+              - /url: /
+              - img "Citi Careers (Home)" [ref=e371]
+            - paragraph [ref=e372]: © 2026 Citigroup, Inc. All rights reserved. Citi, Citi and Arc Design and other marks used herein are service marks of Citigroup Inc. or its affiliates, used and registered throughout the world.

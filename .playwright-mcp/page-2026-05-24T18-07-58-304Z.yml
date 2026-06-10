@@ -1,0 +1,316 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - img [ref=e6]
+    - paragraph [ref=e8]: The job you are looking for is no longer open.
+  - main [ref=e9]:
+    - generic [ref=e10]:
+      - link "Airtable Logo" [ref=e12] [cursor=pointer]:
+        - /url: https://airtable.com
+        - img "Airtable Logo" [ref=e13]
+      - heading "Current openings at Airtable" [level=1] [ref=e14]
+      - generic [ref=e18]:
+        - paragraph [ref=e19]: Airtable is growing and looking for talented individuals to help us on our mission to give everyone the tools they need to organize their world.
+        - paragraph [ref=e20]
+        - paragraph [ref=e21]:
+          - strong [ref=e22]: Stay Safe from Job Scams
+          - text: All official Airtable communication will come from an
+          - strong [ref=e23]: "@airtable.com"
+          - text: email address. We will never ask you to share sensitive information or purchase equipment during the hiring process. If in doubt, contact us at
+          - link "hr@airtable.com" [ref=e24] [cursor=pointer]:
+            - /url: mailto:hr@airtable.com
+          - text: . Learn more about avoiding job scams
+          - link "here" [ref=e25] [cursor=pointer]:
+            - /url: https://consumer.ftc.gov/consumer-alerts/2022/05/want-work-home-spot-scams-first
+          - text: .
+        - paragraph
+      - generic [ref=e26]:
+        - img [ref=e27]
+        - generic [ref=e29]:
+          - paragraph [ref=e30]: Create a Job Alert
+          - paragraph [ref=e31]: Level-up your career by having opportunities at Airtable sent directly to your inbox.
+          - link "Create alert" [ref=e32] [cursor=pointer]:
+            - /url: https://my.greenhouse.io/users/sign_in?job_board=airtable&source=job_alert_board
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - generic [ref=e36]:
+            - generic [ref=e37]: Search
+            - textbox "Search" [ref=e38]
+          - generic [ref=e40]:
+            - generic [ref=e41]: Department
+            - generic [ref=e42]:
+              - log [ref=e44]
+              - generic [ref=e46]:
+                - generic [ref=e47]:
+                  - generic [ref=e48]: Select...
+                  - combobox "Department" [ref=e50]
+                - button "Toggle flyout" [ref=e52] [cursor=pointer]:
+                  - img [ref=e53]
+          - generic [ref=e56]:
+            - generic [ref=e57]: Office
+            - generic [ref=e58]:
+              - log [ref=e60]
+              - generic [ref=e62]:
+                - generic [ref=e63]:
+                  - generic [ref=e64]: Select...
+                  - combobox "Office" [ref=e66]
+                - button "Toggle flyout" [ref=e68] [cursor=pointer]:
+                  - img [ref=e69]
+        - generic [ref=e71]:
+          - heading "22 jobs" [level=2] [ref=e72]
+          - generic [ref=e73]:
+            - generic [ref=e74]:
+              - paragraph [ref=e76]: Customer Engagement
+              - heading "Customer Success & Services" [level=3] [ref=e77]
+              - table [ref=e79]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e80]:
+                      - paragraph [ref=e81]: Job
+                - rowgroup [ref=e82]:
+                  - row "Delivery Consultant San Francisco, CA; New York, NY; Remote - US" [ref=e83]:
+                    - cell "Delivery Consultant San Francisco, CA; New York, NY; Remote - US" [ref=e84]:
+                      - link "Delivery Consultant San Francisco, CA; New York, NY; Remote - US" [ref=e85] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8409166002
+                        - paragraph [ref=e86]: Delivery Consultant
+                        - paragraph [ref=e87]: San Francisco, CA; New York, NY; Remote - US
+                  - row "Senior Partner Solutions Architect London, England, United Kingdom" [ref=e88]:
+                    - cell "Senior Partner Solutions Architect London, England, United Kingdom" [ref=e89]:
+                      - link "Senior Partner Solutions Architect London, England, United Kingdom" [ref=e90] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8462421002
+                        - paragraph [ref=e91]: Senior Partner Solutions Architect
+                        - paragraph [ref=e92]: London, England, United Kingdom
+                  - row "Senior Partner Solutions Architect London; US-Remote" [ref=e93]:
+                    - cell "Senior Partner Solutions Architect London; US-Remote" [ref=e94]:
+                      - link "Senior Partner Solutions Architect London; US-Remote" [ref=e95] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8461582002
+                        - paragraph [ref=e96]: Senior Partner Solutions Architect
+                        - paragraph [ref=e97]: London; US-Remote
+                  - row "Senior Solutions Architect San Francisco, CA; New York, NY; Remote - US" [ref=e98]:
+                    - cell "Senior Solutions Architect San Francisco, CA; New York, NY; Remote - US" [ref=e99]:
+                      - link "Senior Solutions Architect San Francisco, CA; New York, NY; Remote - US" [ref=e100] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8487502002
+                        - paragraph [ref=e101]: Senior Solutions Architect
+                        - paragraph [ref=e102]: San Francisco, CA; New York, NY; Remote - US
+                  - row "Senior Solutions Architect London, United Kingdom" [ref=e103]:
+                    - cell "Senior Solutions Architect London, United Kingdom" [ref=e104]:
+                      - link "Senior Solutions Architect London, United Kingdom" [ref=e105] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8341413002
+                        - paragraph [ref=e106]: Senior Solutions Architect
+                        - paragraph [ref=e107]: London, United Kingdom
+            - generic [ref=e108]:
+              - paragraph [ref=e110]: Customer Engagement
+              - heading "Customer Support" [level=3] [ref=e111]
+              - table [ref=e113]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e114]:
+                      - paragraph [ref=e115]: Job
+                - rowgroup [ref=e116]:
+                  - row "AI Agent Architect, Customer Experience Remote - US" [ref=e117]:
+                    - cell "AI Agent Architect, Customer Experience Remote - US" [ref=e118]:
+                      - link "AI Agent Architect, Customer Experience Remote - US" [ref=e119] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8409168002
+                        - paragraph [ref=e120]: AI Agent Architect, Customer Experience
+                        - paragraph [ref=e121]: Remote - US
+                  - row "Director, Technical Account Management Remote - US; Remote - Canada" [ref=e122]:
+                    - cell "Director, Technical Account Management Remote - US; Remote - Canada" [ref=e123]:
+                      - link "Director, Technical Account Management Remote - US; Remote - Canada" [ref=e124] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8485839002
+                        - paragraph [ref=e125]: Director, Technical Account Management
+                        - paragraph [ref=e126]: Remote - US; Remote - Canada
+            - generic [ref=e127]:
+              - paragraph [ref=e129]: Customer Engagement
+              - heading "Revenue Operations" [level=3] [ref=e130]
+              - table [ref=e132]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e133]:
+                      - paragraph [ref=e134]: Job
+                - rowgroup [ref=e135]:
+                  - row "GTM Engineer San Francisco, CA; New York, NY" [ref=e136]:
+                    - cell "GTM Engineer San Francisco, CA; New York, NY" [ref=e137]:
+                      - link "GTM Engineer San Francisco, CA; New York, NY" [ref=e138] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8536588002
+                        - paragraph [ref=e139]: GTM Engineer
+                        - paragraph [ref=e140]: San Francisco, CA; New York, NY
+            - generic [ref=e141]:
+              - paragraph [ref=e143]: Customer Engagement
+              - heading "Sales" [level=3] [ref=e144]
+              - table [ref=e146]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e147]:
+                      - paragraph [ref=e148]: Job
+                - rowgroup [ref=e149]:
+                  - row "Account Executive, Strategic Accounts Remote - US" [ref=e150]:
+                    - cell "Account Executive, Strategic Accounts Remote - US" [ref=e151]:
+                      - link "Account Executive, Strategic Accounts Remote - US" [ref=e152] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8403127002
+                        - paragraph [ref=e153]: Account Executive, Strategic Accounts
+                        - paragraph [ref=e154]: Remote - US
+                  - row "Strategic Account Executive, AI Specialist New San Francisco, CA" [ref=e155]:
+                    - cell "Strategic Account Executive, AI Specialist New San Francisco, CA" [ref=e156]:
+                      - link "Strategic Account Executive, AI Specialist New San Francisco, CA" [ref=e157] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8551939002
+                        - paragraph [ref=e158]:
+                          - text: Strategic Account Executive, AI Specialist
+                          - generic [ref=e160]: New
+                        - paragraph [ref=e161]: San Francisco, CA
+            - generic [ref=e162]:
+              - paragraph [ref=e164]: Customer Engagement
+              - heading "Solutions Consulting" [level=3] [ref=e165]
+              - table [ref=e167]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e168]:
+                      - paragraph [ref=e169]: Job
+                - rowgroup [ref=e170]:
+                  - row "Lead Solutions Consultant New Sydney, Australia" [ref=e171]:
+                    - cell "Lead Solutions Consultant New Sydney, Australia" [ref=e172]:
+                      - link "Lead Solutions Consultant New Sydney, Australia" [ref=e173] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8563194002
+                        - paragraph [ref=e174]:
+                          - text: Lead Solutions Consultant
+                          - generic [ref=e176]: New
+                        - paragraph [ref=e177]: Sydney, Australia
+            - generic [ref=e178]:
+              - heading "Data" [level=3] [ref=e179]
+              - table [ref=e181]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e182]:
+                      - paragraph [ref=e183]: Job
+                - rowgroup [ref=e184]:
+                  - row "Software Engineer, Data San Francisco, CA; Austin, TX; New York, NY" [ref=e185]:
+                    - cell "Software Engineer, Data San Francisco, CA; Austin, TX; New York, NY" [ref=e186]:
+                      - link "Software Engineer, Data San Francisco, CA; Austin, TX; New York, NY" [ref=e187] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8124953002
+                        - paragraph [ref=e188]: Software Engineer, Data
+                        - paragraph [ref=e189]: San Francisco, CA; Austin, TX; New York, NY
+            - generic [ref=e190]:
+              - heading "Design" [level=3] [ref=e191]
+              - table [ref=e193]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e194]:
+                      - paragraph [ref=e195]: Job
+                - rowgroup [ref=e196]:
+                  - row "Design Technologist San Francisco, CA" [ref=e197]:
+                    - cell "Design Technologist San Francisco, CA" [ref=e198]:
+                      - link "Design Technologist San Francisco, CA" [ref=e199] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8455969002
+                        - paragraph [ref=e200]: Design Technologist
+                        - paragraph [ref=e201]: San Francisco, CA
+            - generic [ref=e202]:
+              - heading "Engineering" [level=3] [ref=e203]
+              - table [ref=e205]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e206]:
+                      - paragraph [ref=e207]: Job
+                - rowgroup [ref=e208]:
+                  - row "Product Security Engineer San Francisco, CA; New York, NY; Remote (Seattle, WA only)" [ref=e209]:
+                    - cell "Product Security Engineer San Francisco, CA; New York, NY; Remote (Seattle, WA only)" [ref=e210]:
+                      - link "Product Security Engineer San Francisco, CA; New York, NY; Remote (Seattle, WA only)" [ref=e211] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8533547002
+                        - paragraph [ref=e212]: Product Security Engineer
+                        - paragraph [ref=e213]: San Francisco, CA; New York, NY; Remote (Seattle, WA only)
+                  - row "Software Engineer, Compute (8+ YOE) San Francisco, CA; New York, NY; Remote - US" [ref=e214]:
+                    - cell "Software Engineer, Compute (8+ YOE) San Francisco, CA; New York, NY; Remote - US" [ref=e215]:
+                      - link "Software Engineer, Compute (8+ YOE) San Francisco, CA; New York, NY; Remote - US" [ref=e216] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8442397002
+                        - paragraph [ref=e217]: Software Engineer, Compute (8+ YOE)
+                        - paragraph [ref=e218]: San Francisco, CA; New York, NY; Remote - US
+                  - row "Software Engineer, Infrastructure (4-8 YOE) San Francisco, CA; New York, NY; Seattle, WA" [ref=e219]:
+                    - cell "Software Engineer, Infrastructure (4-8 YOE) San Francisco, CA; New York, NY; Seattle, WA" [ref=e220]:
+                      - link "Software Engineer, Infrastructure (4-8 YOE) San Francisco, CA; New York, NY; Seattle, WA" [ref=e221] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8400373002
+                        - paragraph [ref=e222]: Software Engineer, Infrastructure (4-8 YOE)
+                        - paragraph [ref=e223]: San Francisco, CA; New York, NY; Seattle, WA
+                  - row "Software Engineer, Product Backend (8+ YOE) San Francisco, CA; Remote - US (Seattle, WA only)" [ref=e224]:
+                    - cell "Software Engineer, Product Backend (8+ YOE) San Francisco, CA; Remote - US (Seattle, WA only)" [ref=e225]:
+                      - link "Software Engineer, Product Backend (8+ YOE) San Francisco, CA; Remote - US (Seattle, WA only)" [ref=e226] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8397618002
+                        - paragraph [ref=e227]: Software Engineer, Product Backend (8+ YOE)
+                        - paragraph [ref=e228]: San Francisco, CA; Remote - US (Seattle, WA only)
+            - generic [ref=e229]:
+              - paragraph [ref=e231]: Finance & Legal
+              - heading "Accounting" [level=3] [ref=e232]
+              - table [ref=e234]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e235]:
+                      - paragraph [ref=e236]: Job
+                - rowgroup [ref=e237]:
+                  - row "Global Payroll Manager San Francisco, CA" [ref=e238]:
+                    - cell "Global Payroll Manager San Francisco, CA" [ref=e239]:
+                      - link "Global Payroll Manager San Francisco, CA" [ref=e240] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8490611002
+                        - paragraph [ref=e241]: Global Payroll Manager
+                        - paragraph [ref=e242]: San Francisco, CA
+            - generic [ref=e243]:
+              - heading "Marketing" [level=3] [ref=e244]
+              - table [ref=e246]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e247]:
+                      - paragraph [ref=e248]: Job
+                - rowgroup [ref=e249]:
+                  - row "Regional Marketing Manager Sydney, Australia" [ref=e250]:
+                    - cell "Regional Marketing Manager Sydney, Australia" [ref=e251]:
+                      - link "Regional Marketing Manager Sydney, Australia" [ref=e252] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8485360002
+                        - paragraph [ref=e253]: Regional Marketing Manager
+                        - paragraph [ref=e254]: Sydney, Australia
+            - generic [ref=e255]:
+              - paragraph [ref=e257]: Marketing
+              - heading "Demand Generation" [level=3] [ref=e258]
+              - table [ref=e260]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e261]:
+                      - paragraph [ref=e262]: Job
+                - rowgroup [ref=e263]:
+                  - row "Business Development Representative Austin, TX" [ref=e264]:
+                    - cell "Business Development Representative Austin, TX" [ref=e265]:
+                      - link "Business Development Representative Austin, TX" [ref=e266] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8425211002
+                        - paragraph [ref=e267]: Business Development Representative
+                        - paragraph [ref=e268]: Austin, TX
+            - generic [ref=e269]:
+              - heading "People" [level=3] [ref=e270]
+              - table [ref=e272]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e273]:
+                      - paragraph [ref=e274]: Job
+                - rowgroup [ref=e275]:
+                  - row "Senior Analyst, People Technology New Remote - US" [ref=e276]:
+                    - cell "Senior Analyst, People Technology New Remote - US" [ref=e277]:
+                      - link "Senior Analyst, People Technology New Remote - US" [ref=e278] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8447535002
+                        - paragraph [ref=e279]:
+                          - text: Senior Analyst, People Technology
+                          - generic [ref=e281]: New
+                        - paragraph [ref=e282]: Remote - US
+            - generic [ref=e283]:
+              - paragraph [ref=e285]: Product
+              - heading "Product Management" [level=3] [ref=e286]
+              - table [ref=e288]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e289]:
+                      - paragraph [ref=e290]: Job
+                - rowgroup [ref=e291]:
+                  - row "Product Manager, Funnel & Activation San Francisco, CA" [ref=e292]:
+                    - cell "Product Manager, Funnel & Activation San Francisco, CA" [ref=e293]:
+                      - link "Product Manager, Funnel & Activation San Francisco, CA" [ref=e294] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/airtable/jobs/8475571002
+                        - paragraph [ref=e295]: Product Manager, Funnel & Activation
+                        - paragraph [ref=e296]: San Francisco, CA
+  - contentinfo [ref=e297]:
+    - generic [ref=e298]:
+      - paragraph [ref=e299]: Powered by
+      - link "Greenhouse logo" [ref=e300] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e301]

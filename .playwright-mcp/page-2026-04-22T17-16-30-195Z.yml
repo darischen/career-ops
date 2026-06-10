@@ -1,0 +1,75 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - heading "Software Engineer – New Graduate (Seattle)" [level=2] [ref=e8]
+      - generic [ref=e9]:
+        - generic [ref=e10]: Seattle, WA
+        - generic [ref=e11]: Product Development /
+        - generic [ref=e12]: Engineering /
+        - generic [ref=e13]: Hybrid
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - heading "Submit your application" [level=4] [ref=e17]
+        - list [ref=e18]:
+          - listitem [ref=e19]:
+            - generic [ref=e20]:
+              - generic [ref=e21]: Resume/CV
+              - link "ATTACH RESUME/CV Resume/CV" [ref=e23] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e24]
+                - generic [ref=e26]: ATTACH RESUME/CV
+                - button "Resume/CV ATTACH RESUME/CV" [ref=e27]
+          - listitem [ref=e28]:
+            - generic [ref=e29]:
+              - generic [ref=e30]:
+                - text: Full name
+                - generic [ref=e31]: ✱
+              - textbox "Full name ✱" [ref=e33]
+          - listitem [ref=e34]:
+            - generic [ref=e35]:
+              - generic [ref=e36]:
+                - text: Email
+                - generic [ref=e37]: ✱
+              - textbox "Email ✱" [ref=e39]
+          - listitem [ref=e40]:
+            - generic [ref=e41]:
+              - generic [ref=e42]: Phone
+              - textbox "Phone" [ref=e44]
+          - listitem [ref=e45]:
+            - generic [ref=e46]:
+              - generic [ref=e47]: Current location
+              - textbox "Current location" [ref=e49]
+          - listitem [ref=e50]:
+            - generic [ref=e51]:
+              - generic [ref=e52]: Current company
+              - textbox "Current company" [ref=e54]
+      - generic [ref=e55]:
+        - heading "Links" [level=4] [ref=e56]
+        - list [ref=e57]:
+          - listitem [ref=e58]:
+            - generic [ref=e59]:
+              - generic [ref=e60]: LinkedIn URL
+              - textbox "LinkedIn URL" [ref=e62]
+          - listitem [ref=e63]:
+            - generic [ref=e64]:
+              - generic [ref=e65]: Twitter URL
+              - textbox "Twitter URL" [ref=e67]
+          - listitem [ref=e68]:
+            - generic [ref=e69]:
+              - generic [ref=e70]: GitHub URL
+              - textbox "GitHub URL" [ref=e72]
+          - listitem [ref=e73]:
+            - generic [ref=e74]:
+              - generic [ref=e75]: Portfolio URL
+              - textbox "Portfolio URL" [ref=e77]
+          - listitem [ref=e78]:
+            - generic [ref=e79]:
+              - generic [ref=e80]: Revefi
+              - textbox "Revefi" [ref=e82]
+      - button "Submit application" [ref=e84] [cursor=pointer]
+  - generic [ref=e86]:
+    - paragraph [ref=e88]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+    - link "Jobs powered by Lever logo" [ref=e89] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e90]: Jobs powered by
+      - img "Lever logo" [ref=e91]

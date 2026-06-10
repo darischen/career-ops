@@ -1,0 +1,419 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "PlayStation Global Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://boards.greenhouse.io/sonyinteractiveentertainmentglobal
+        - img "PlayStation Global Logo" [ref=e6]
+      - generic [ref=e7]:
+        - generic [ref=e10]: New
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - heading "Software Engineer I" [level=1] [ref=e13]
+            - generic [ref=e14]:
+              - img [ref=e15]
+              - generic [ref=e17]: United States, San Mateo, CA
+          - button "Apply" [ref=e18] [cursor=pointer]
+        - generic [ref=e19]:
+          - generic [ref=e20]:
+            - paragraph [ref=e21]:
+              - strong [ref=e22]: Why Sony Interactive Entertainment?
+            - paragraph [ref=e23]: Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.
+          - generic [ref=e24]:
+            - heading "Software Engineer I – Trust & Safety Platform" [level=1] [ref=e25]:
+              - strong [ref=e26]: Software Engineer I – Trust & Safety Platform
+            - paragraph [ref=e27]
+            - paragraph [ref=e28]: PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR2, PlayStation®Plus, PlayStation™PC, acclaimed PlayStation software titles from PlayStation Studios, and more.
+            - paragraph [ref=e29]: PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.
+            - paragraph [ref=e30]: The PlayStation brand falls under Sony Interactive Entertainment, a wholly owned subsidiary of Sony Corporation.
+            - paragraph [ref=e31]
+            - heading "Location" [level=2] [ref=e32]:
+              - strong [ref=e33]: Location
+            - paragraph [ref=e34]: San Diego
+            - heading "About the Team" [level=2] [ref=e35]:
+              - strong [ref=e36]: About the Team
+            - paragraph [ref=e37]: We are building scalable Trust & Safety platforms and developer tools that help create safer online gaming experiences for players and creators worldwide. Our teams develop moderation systems, safety tooling, policy enforcement workflows, telemetry platforms, and operational infrastructure that support modern multiplayer and user-generated ecosystems.
+            - paragraph [ref=e38]: This role sits at the intersection of backend systems, cloud infrastructure, web applications, analytics, and operational tooling. You will partner closely with platform engineers, trust & safety teams, game studios, and product stakeholders to design and deliver reliable systems that improve player safety, operational efficiency, and developer productivity.
+            - heading "What You’ll Do" [level=2] [ref=e39]:
+              - strong [ref=e40]: What You’ll Do
+            - paragraph [ref=e41]: "As a Software Engineer I, you will:"
+            - list [ref=e42]:
+              - listitem [ref=e43]: Design and build scalable web applications and backend services that power Trust & Safety operations and player protection systems.
+              - listitem [ref=e44]: Develop modern frontend experiences using React/TypeScript and backend services using Node.js, Python, Go, or similar technologies.
+              - listitem [ref=e45]: Build internal moderation tools, policy enforcement systems, telemetry dashboards, analytics platforms, and operational workflows.
+              - listitem [ref=e46]: Design APIs and platform services that integrate with multiplayer and live-service gaming ecosystems.
+              - listitem [ref=e47]: Contribute to cloud-native infrastructure running on Kubernetes/GCP/AWS, including CI/CD pipelines, observability, and deployment automation.
+              - listitem [ref=e48]: Improve reliability, scalability, and operational visibility across safety and platform services.
+              - listitem [ref=e49]: Partner with cross-functional teams including product managers, data engineers, security teams, policy stakeholders, and game studios.
+              - listitem [ref=e50]: Help drive automation and developer productivity through tooling, operational frameworks, and platform improvements.
+              - listitem [ref=e51]: Contribute to technical discussions and collaborate with senior engineers on platform design and implementation.
+              - listitem [ref=e52]: Learn and grow within a collaborative engineering culture focused on quality, innovation, and continuous improvement.
+            - heading "Areas You May Work On" [level=2] [ref=e53]:
+              - strong [ref=e54]: Areas You May Work On
+            - paragraph [ref=e55]: "Depending on your background and interests, you may contribute to:"
+            - list [ref=e56]:
+              - listitem [ref=e57]: Trust & Safety platforms and moderation systems
+              - listitem [ref=e58]: Policy enforcement workflows and operational tooling
+              - listitem [ref=e59]: Telemetry, analytics, and observability platforms
+              - listitem [ref=e60]: AI-assisted moderation and safety workflows
+              - listitem [ref=e61]: Developer tools and internal operational dashboards
+              - listitem [ref=e62]: Game platform APIs and backend services
+              - listitem [ref=e63]: CI/CD and deployment automation systems
+              - listitem [ref=e64]: Cloud-native infrastructure and orchestration
+              - listitem [ref=e65]: Reliability engineering and operational excellence initiatives
+              - listitem [ref=e66]: Studio-facing integrations and safety enablement tooling
+            - heading "Qualifications" [level=2] [ref=e67]:
+              - strong [ref=e68]: Qualifications
+            - heading "Required Qualifications" [level=3] [ref=e69]:
+              - strong [ref=e70]: Required Qualifications
+            - list [ref=e71]:
+              - listitem [ref=e72]: Bachelor’s degree in Computer Science or related field, or equivalent practical experience.
+              - listitem [ref=e73]: 1-3 years of software engineering experience through internships, academic projects, or professional work.
+              - listitem [ref=e74]: Experience with modern frontend technologies such as React, TypeScript, JavaScript, or similar frameworks.
+              - listitem [ref=e75]: Experience developing backend services or APIs using Node.js, Python, Java, Go, or similar languages.
+              - listitem [ref=e76]: Experience building and consuming RESTful APIs and microservices.
+              - listitem [ref=e77]: Experience with cloud platforms such as GCP, AWS, or Azure.
+              - listitem [ref=e78]: Familiarity with containerization and orchestration technologies such as Docker and Kubernetes.
+              - listitem [ref=e79]: Strong understanding of software engineering fundamentals, data structures, and problem-solving skills.
+              - listitem [ref=e80]: Experience working in collaborative Agile development environments.
+              - listitem [ref=e81]: Good communication and collaboration skills with a willingness to learn from cross-functional teams.
+            - heading "Preferred Qualifications" [level=3] [ref=e82]:
+              - strong [ref=e83]: Preferred Qualifications
+            - list [ref=e84]:
+              - listitem [ref=e85]: Internship, academic, or project experience working on scalable applications, gaming platforms, or live-service systems is a plus.
+              - listitem [ref=e86]: Familiarity with telemetry, analytics, operational tooling, or cloud technologies is a plus.
+              - listitem [ref=e87]: Interest in building developer tools, operational platforms, or internal web applications.
+              - listitem [ref=e88]: Interest in Trust & Safety systems, moderation tooling, abuse prevention, or player safety technologies.
+              - listitem [ref=e89]: Familiarity with CI/CD workflows, Git-based development, or cloud infrastructure is a plus.
+              - listitem [ref=e90]: Interest in automation, AI-assisted workflows, or platform engineering is a plus.
+              - listitem [ref=e91]: Passion for player safety, developer experience, and platform innovation.
+            - heading "What We Value" [level=2] [ref=e92]:
+              - strong [ref=e93]: What We Value
+            - paragraph [ref=e94]: "We are looking for engineers who:"
+            - list [ref=e95]:
+              - listitem [ref=e96]: Demonstrate curiosity, initiative, and a willingness to learn.
+              - listitem [ref=e97]: Enjoy solving technical problems and collaborating with others.
+              - listitem [ref=e98]: Communicate effectively and work well within a team environment.
+              - listitem [ref=e99]: Care about engineering quality, reliability, and user experience.
+              - listitem [ref=e100]: Are excited about building scalable systems and tools.
+              - listitem [ref=e101]: Have an interest in gaming, Trust & Safety, and platform technology.
+              - listitem [ref=e102]: Bring a growth mindset and a collaborative attitude.
+            - heading "Why Join Us" [level=2] [ref=e103]:
+              - strong [ref=e104]: Why Join Us
+            - paragraph [ref=e105]: You’ll have the opportunity to help shape the future of Trust & Safety technology in gaming while working on large-scale distributed systems, operational tooling, and developer platforms used across live gaming ecosystems.
+            - paragraph [ref=e106]: You’ll tackle technically challenging problems involving scalability, reliability, moderation workflows, telemetry, and cloud infrastructure — all while collaborating with talented engineers and cross-functional partners focused on creating safer and more inclusive player experiences.
+            - paragraph [ref=e107]: If you are passionate about building scalable platforms, solving complex engineering challenges, and improving player safety through technology, we’d love to hear from you.
+          - generic [ref=e109]:
+            - generic [ref=e112]:
+              - paragraph [ref=e113]:
+                - strong [ref=e115]:
+                  - emphasis [ref=e116]:
+                    - text: Please refer to our
+                    - link "Candidate Privacy Notice" [ref=e117] [cursor=pointer]:
+                      - /url: https://www.playstation.com/en-us/legal/careers-privacy-notice/
+                    - text: for more information about how we process your personal information, and your data protection rights.
+              - paragraph [ref=e118]
+              - paragraph [ref=e119]:
+                - generic [ref=e120]: At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.
+                - generic [ref=e121]: Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.
+                - generic [ref=e122]: In addition, this role
+                - text: is eligible for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. This role also may be eligible for a bonus package. Click
+                - link "here" [ref=e123] [cursor=pointer]:
+                  - /url: https://careers.playstation.com/benefits
+                  - strong [ref=e124]: here
+                - text: to learn more.
+              - paragraph [ref=e125]
+            - paragraph [ref=e126]: The estimated base pay range for this role is listed below.
+            - paragraph [ref=e127]: $137,300 - $205,900 USD
+          - generic [ref=e128]:
+            - paragraph [ref=e129]: Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.
+            - paragraph [ref=e130]:
+              - text: Please refer to our
+              - link "Candidate Privacy Notice" [ref=e131] [cursor=pointer]:
+                - /url: https://www.playstation.com/legal/careers-privacy-notice/
+              - text: for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.
+            - paragraph [ref=e132]:
+              - strong [ref=e133]: "Equal Opportunity Statement:"
+            - paragraph [ref=e134]:
+              - emphasis [ref=e135]: Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.
+            - paragraph [ref=e136]:
+              - emphasis [ref=e137]: We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.
+            - paragraph [ref=e138]:
+              - emphasis [ref=e139]: Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.
+            - paragraph [ref=e140]
+      - separator [ref=e141]
+      - generic [ref=e142]:
+        - generic [ref=e144]:
+          - heading "Apply for this job" [level=2] [ref=e146]
+          - generic [ref=e147]:
+            - paragraph [ref=e149]: "*"
+            - paragraph [ref=e150]: indicates a required field
+        - generic [ref=e151]:
+          - generic [ref=e152]:
+            - generic [ref=e155]:
+              - generic [ref=e156]: First Name*
+              - textbox "First Name" [ref=e157]
+            - generic [ref=e160]:
+              - generic [ref=e161]: Last Name*
+              - textbox "Last Name" [ref=e162]
+            - generic [ref=e165]:
+              - generic [ref=e166]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e167]
+            - generic [ref=e170]:
+              - generic [ref=e171]: Email*
+              - textbox "Email" [ref=e172]
+            - group "Phone" [ref=e174]:
+              - generic [ref=e175]: Phone
+              - generic [ref=e178]:
+                - generic [ref=e179]: Country*
+                - generic [ref=e180]:
+                  - log [ref=e182]
+                  - generic [ref=e184]:
+                    - combobox "Country" [ref=e187]
+                    - button "Toggle flyout" [ref=e189] [cursor=pointer]:
+                      - img [ref=e190]
+                  - textbox
+              - generic [ref=e194]:
+                - generic [ref=e195]: Phone*
+                - textbox "Phone" [ref=e197]
+            - generic [ref=e198]:
+              - generic [ref=e200]:
+                - generic [ref=e201]: Location (City)*
+                - generic [ref=e202]:
+                  - log [ref=e204]
+                  - combobox "Location (City)" [ref=e209]
+                  - textbox
+              - button "Locate me" [ref=e210] [cursor=pointer]
+            - group "Resume/CV*" [ref=e212]:
+              - generic [ref=e213]: Resume/CV*
+              - generic [ref=e215]:
+                - generic [ref=e217]:
+                  - button "Attach" [ref=e218] [cursor=pointer]
+                  - generic [ref=e219]: Attach
+                  - button "Attach" [ref=e220]
+                - button "Dropbox" [ref=e222] [cursor=pointer]
+                - button "Google Drive" [ref=e224] [cursor=pointer]
+                - generic [ref=e226]:
+                  - button "Enter manually" [ref=e227] [cursor=pointer]
+                  - generic [ref=e228]: Enter manually
+                - paragraph [ref=e229]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e231]:
+              - generic [ref=e232]: Cover Letter
+              - generic [ref=e234]:
+                - generic [ref=e236]:
+                  - button "Attach" [ref=e237] [cursor=pointer]
+                  - generic [ref=e238]: Attach
+                  - button "Attach" [ref=e239]
+                - button "Dropbox" [ref=e241] [cursor=pointer]
+                - button "Google Drive" [ref=e243] [cursor=pointer]
+                - generic [ref=e245]:
+                  - button "Enter manually" [ref=e246] [cursor=pointer]
+                  - generic [ref=e247]: Enter manually
+                - paragraph [ref=e248]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e249]:
+            - separator [ref=e250]
+            - generic [ref=e253]:
+              - generic [ref=e254]: Have you ever worked for a Sony company previously?*
+              - generic [ref=e255]:
+                - log [ref=e257]
+                - generic [ref=e259]:
+                  - generic [ref=e260]:
+                    - generic [ref=e261]: Select...
+                    - combobox "Have you ever worked for a Sony company previously?" [ref=e263]
+                  - button "Toggle flyout" [ref=e265] [cursor=pointer]:
+                    - img [ref=e266]
+                - textbox
+            - generic [ref=e270]:
+              - generic [ref=e271]: Are you authorized to work in the United States?*
+              - generic [ref=e272]:
+                - log [ref=e274]
+                - generic [ref=e276]:
+                  - generic [ref=e277]:
+                    - generic [ref=e278]: Select...
+                    - combobox "Are you authorized to work in the United States?" [ref=e280]
+                  - button "Toggle flyout" [ref=e282] [cursor=pointer]:
+                    - img [ref=e283]
+                - textbox
+            - generic [ref=e287]:
+              - generic [ref=e288]: Will you now, or in the future, require sponsorship to work in the United States?*
+              - generic [ref=e289]:
+                - log [ref=e291]
+                - generic [ref=e293]:
+                  - generic [ref=e294]:
+                    - generic [ref=e295]: Select...
+                    - combobox "Will you now, or in the future, require sponsorship to work in the United States?" [ref=e297]
+                  - button "Toggle flyout" [ref=e299] [cursor=pointer]:
+                    - img [ref=e300]
+                - textbox
+            - generic [ref=e304]:
+              - generic [ref=e305]: Will you need relocation assistance to work at this role's specified location?*
+              - generic [ref=e306]:
+                - log [ref=e308]
+                - generic [ref=e310]:
+                  - generic [ref=e311]:
+                    - generic [ref=e312]: Select...
+                    - combobox "Will you need relocation assistance to work at this role's specified location?" [ref=e314]
+                  - button "Toggle flyout" [ref=e316] [cursor=pointer]:
+                    - img [ref=e317]
+                - textbox
+            - generic [ref=e321]:
+              - generic [ref=e322]: Are you related to, or in a close personal relationship with, anyone who currently works for SIE or any SIE-affiliated studios? (This includes spouses, domestic partners, and significant others.)*
+              - generic [ref=e323]:
+                - log [ref=e325]
+                - generic [ref=e327]:
+                  - generic [ref=e328]:
+                    - generic [ref=e329]: Select...
+                    - combobox "Are you related to, or in a close personal relationship with, anyone who currently works for SIE or any SIE-affiliated studios? (This includes spouses, domestic partners, and significant others.)" [ref=e331]
+                  - button "Toggle flyout" [ref=e333] [cursor=pointer]:
+                    - img [ref=e334]
+                - textbox
+            - generic [ref=e338]:
+              - generic [ref=e339]: If yes, please state their name, the department or studio they work for, and their job title (if you know it).
+              - textbox "If yes, please state their name, the department or studio they work for, and their job title (if you know it)." [ref=e340]
+            - generic [ref=e343]:
+              - generic [ref=e344]: By selecting "Yes", I am certifying that, to the best of my knowledge, the information I have provided in this employment application is true and correct.*
+              - generic [ref=e345]:
+                - log [ref=e347]
+                - generic [ref=e349]:
+                  - generic [ref=e350]:
+                    - generic [ref=e351]: Select...
+                    - combobox "By selecting \"Yes\", I am certifying that, to the best of my knowledge, the information I have provided in this employment application is true and correct." [ref=e353]
+                  - button "Toggle flyout" [ref=e355] [cursor=pointer]:
+                    - img [ref=e356]
+                - textbox
+            - generic [ref=e360]:
+              - generic [ref=e361]: LinkedIn Profile URL
+              - textbox "LinkedIn Profile URL" [ref=e362]
+            - generic [ref=e365]:
+              - generic [ref=e366]: Portfolio Website
+              - textbox "Portfolio Website" [ref=e367]
+          - separator [ref=e368]
+          - generic [ref=e369]:
+            - heading "US Voluntary Demographic Question" [level=3] [ref=e370]
+            - generic [ref=e372]:
+              - paragraph
+              - paragraph [ref=e373]
+              - paragraph [ref=e374]:
+                - strong [ref=e376]: Voluntary Self-Identification
+              - paragraph [ref=e377]:
+                - text: Our vision at PlayStation is to bring out the best in our global team members by creating a sense of belonging, being a place where they can grow, and ensuring everyone feels valued, heard, and supported so we can push the boundaries of play. That vision begins our candidates, and we are working to better understand the diversity of our candidate population.
+                - text: This data will also be aggregated and sent to the government for reporting purposes. Please know that the completion of this form is entirely voluntary. Your personally identifiable information (name, address, etc) will not be considered in the hiring process or thereafter. Any information that you choose to provide will be recorded and maintained in a confidential file for XX time.
+              - paragraph [ref=e378]
+              - paragraph [ref=e379]:
+                - strong [ref=e381]: Protected Veteran
+              - paragraph [ref=e382]: "You are a “protected veteran” under United States law if any of the following apply to you:"
+              - list [ref=e383]:
+                - listitem [ref=e384]: "Disabled Veteran: a veteran of the U.S. military who is entitled to compensation (or who would be entitled to compensation if not for the receipt of military retired pay) under the administration of the Secretary of Veterans Affairs and/or a person who was discharged or released from active duty because of a service-connected disability."
+                - listitem [ref=e385]: "Recently Separated Veteran: a veteran who has discharged or released from active duty in the U.S. military within the last three years."
+                - listitem [ref=e386]: "Armed Forces Service Medal Veteran: a veteran who, while serving on active duty in the U.S. military, participated in a U.S. military operation for which an Armed Forces Service Medal was awarded pursuant to Executive Order 12985."
+              - paragraph [ref=e387]
+              - paragraph [ref=e388]:
+                - strong [ref=e390]: Disability
+              - paragraph [ref=e391]: Under U.S. law, you are considered to have a disability if you have a physical or mental impairment or medical condition that substantially limits a major life activity, or if you have a history or record of such an impairment or medical condition.
+              - paragraph [ref=e392]: Identifying yourself as an individual with a disability is voluntary, and we hope that you will choose to do so. Your answer will be maintained confidentially and will not be seen by selecting officials or anyone else involved in making personnel decisions, nor will it be shared with our accommodations team . Completing the form will not negatively impact you in any way, regardless of whether you have self-identified in the past.
+              - paragraph
+            - generic [ref=e394]:
+              - generic [ref=e395]: Gender*
+              - generic [ref=e396]:
+                - log [ref=e398]
+                - generic [ref=e400]:
+                  - generic [ref=e401]:
+                    - generic [ref=e402]: Select...
+                    - combobox "Gender" [ref=e404]
+                  - button "Toggle flyout" [ref=e406] [cursor=pointer]:
+                    - img [ref=e407]
+                - textbox
+            - generic [ref=e410]:
+              - generic [ref=e411]: Gender Identity*
+              - generic [ref=e412]:
+                - log [ref=e414]
+                - generic [ref=e416]:
+                  - generic [ref=e417]:
+                    - generic [ref=e418]: Select...
+                    - combobox "Gender Identity" [ref=e420]
+                  - button "Toggle flyout" [ref=e422] [cursor=pointer]:
+                    - img [ref=e423]
+                - textbox
+            - generic [ref=e426]:
+              - generic [ref=e427]: What are your personal pronouns? *
+              - generic [ref=e428]:
+                - log [ref=e430]
+                - generic [ref=e432]:
+                  - generic [ref=e433]:
+                    - generic [ref=e434]: Select...
+                    - combobox "What are your personal pronouns?" [ref=e436]
+                  - button "Toggle flyout" [ref=e438] [cursor=pointer]:
+                    - img [ref=e439]
+                - textbox
+            - generic [ref=e442]:
+              - generic [ref=e443]: Sexual Orientation*
+              - generic [ref=e444]:
+                - log [ref=e446]
+                - generic [ref=e448]:
+                  - generic [ref=e449]:
+                    - generic [ref=e450]: Select...
+                    - combobox "Sexual Orientation" [ref=e452]
+                  - button "Toggle flyout" [ref=e454] [cursor=pointer]:
+                    - img [ref=e455]
+                - textbox
+            - generic [ref=e458]:
+              - generic [ref=e459]: Are you Hispanic/Latinx?*
+              - generic [ref=e460]:
+                - log [ref=e462]
+                - generic [ref=e464]:
+                  - generic [ref=e465]:
+                    - generic [ref=e466]: Select...
+                    - combobox "Are you Hispanic/Latinx?" [ref=e468]
+                  - button "Toggle flyout" [ref=e470] [cursor=pointer]:
+                    - img [ref=e471]
+                - textbox
+            - generic [ref=e474]:
+              - generic [ref=e475]: Please identify your race/ethnicity*
+              - generic [ref=e476]:
+                - log [ref=e478]
+                - generic [ref=e480]:
+                  - generic [ref=e481]:
+                    - generic [ref=e482]: Select...
+                    - combobox "Please identify your race/ethnicity" [ref=e484]
+                  - button "Toggle flyout" [ref=e486] [cursor=pointer]:
+                    - img [ref=e487]
+                - textbox
+            - generic [ref=e490]:
+              - generic [ref=e491]: Are you a protected veteran? *
+              - generic [ref=e492]:
+                - log [ref=e494]
+                - generic [ref=e496]:
+                  - generic [ref=e497]:
+                    - generic [ref=e498]: Select...
+                    - combobox "Are you a protected veteran?" [ref=e500]
+                  - button "Toggle flyout" [ref=e502] [cursor=pointer]:
+                    - img [ref=e503]
+                - textbox
+            - generic [ref=e506]:
+              - generic [ref=e507]: Do you have a disability? *
+              - generic [ref=e508]:
+                - log [ref=e510]
+                - generic [ref=e512]:
+                  - generic [ref=e513]:
+                    - generic [ref=e514]: Select...
+                    - combobox "Do you have a disability?" [ref=e516]
+                  - button "Toggle flyout" [ref=e518] [cursor=pointer]:
+                    - img [ref=e519]
+                - textbox
+          - separator [ref=e521]
+          - generic [ref=e523]:
+            - checkbox "By checking this box, I agree to allow PlayStation Global to retain my data for future opportunities for employment for up to 730 days after the conclusion of consideration of my current application for employment." [ref=e525]
+            - generic [ref=e526]: By checking this box, I agree to allow PlayStation Global to retain my data for future opportunities for employment for up to 730 days after the conclusion of consideration of my current application for employment.
+          - generic [ref=e528]:
+            - checkbox "By checking this box, I consent to PlayStation Global collecting, storing, and processing my responses to the demographic data surveys above.*" [ref=e530]
+            - generic [ref=e531]: By checking this box, I consent to PlayStation Global collecting, storing, and processing my responses to the demographic data surveys above.*
+          - button "Submit application" [ref=e533] [cursor=pointer]
+  - contentinfo [ref=e534]:
+    - generic [ref=e535]:
+      - paragraph [ref=e536]: Powered by
+      - link "Greenhouse logo" [ref=e537] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e538]
+  - iframe [ref=e552]:
+    - generic [ref=f12e6]:
+      - text: protected by
+      - strong [ref=f12e7]: reCAPTCHA

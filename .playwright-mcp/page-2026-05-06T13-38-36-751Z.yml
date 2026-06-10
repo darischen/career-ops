@@ -1,0 +1,594 @@
+- generic [ref=e4]:
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: ""
+  - generic "We use cookies (or similar technologies) to personalize content and ads, to provide social media features and to analyse our traffic. By clicking \"Accept \", you agree to this and the sharing of information (What data we collect) about your use of our site with our affiliates & partners. Please find out more about Use of cookies." [ref=e9]:
+    - paragraph [ref=e11]:
+      - text: We use cookies (or similar technologies) to personalize content and ads, to provide social media features and to analyse our traffic. By clicking "Accept ", you agree to this and the sharing of information
+      - link "(What data we collect)" [ref=e12] [cursor=pointer]:
+        - /url: https://www.hp.com/us-en/privacy/privacy.html?#section=What-Data-We-Collect
+      - text: about your use of our site with our affiliates & partners. Please find out more about
+      - link "Use of cookies" [ref=e13] [cursor=pointer]:
+        - /url: https://www.hp.com/us/en/privacy/use-of-cookies.html
+      - text: .
+    - generic [ref=e14]:
+      - button "Decline" [ref=e17] [cursor=pointer]
+      - button "Accept Cookies" [ref=e21] [cursor=pointer]
+  - banner [ref=e24]:
+    - generic [ref=e26]:
+      - link "search for jobs" [ref=e29] [cursor=pointer]:
+        - /url: /en-US/EXTEU-AC-CareerSite
+        - img "search for jobs" [ref=e30]
+      - heading "EU Agency Contractor and US Preferential Rehire Job Site" [level=1] [ref=e32]
+      - generic [ref=e34]:
+        - generic [ref=e35]:
+          - button "English" [ref=e37] [cursor=pointer]:
+            - generic [ref=e41]: English
+          - button "Sign In" [ref=e43] [cursor=pointer]:
+            - generic [ref=e48]: Sign In
+        - navigation [ref=e49]:
+          - button "Search for Jobs" [ref=e50] [cursor=pointer]
+  - main [ref=e111]:
+    - generic [ref=e112]:
+      - generic [ref=e113]:
+        - link "Back to Job Posting" [ref=e115] [cursor=pointer]:
+          - generic [ref=e119]: Back to Job Posting
+        - heading "Software Development Graduate Roles" [level=2] [ref=e120]
+      - generic "Application Progress" [ref=e121]:
+        - list [ref=e122]:
+          - listitem [ref=e123]:
+            - generic: current step 1 of 8
+          - listitem [ref=e129]:
+            - generic: step 2 of 8
+          - listitem [ref=e135]:
+            - generic: step 3 of 8
+          - listitem [ref=e141]:
+            - generic: step 4 of 8
+          - listitem [ref=e147]:
+            - generic: step 5 of 8
+          - listitem [ref=e153]:
+            - generic: step 6 of 8
+          - listitem [ref=e159]:
+            - generic: step 7 of 8
+          - listitem [ref=e165]:
+            - generic: step 8 of 8
+      - generic [ref=e173]:
+        - generic [ref=e176]:
+          - heading "Create Account" [active] [level=3] [ref=e177]
+          - generic [ref=e180]:
+            - paragraph [ref=e181]: "Password Requirements:"
+            - list [ref=e182]:
+              - listitem [ref=e183]: An uppercase character
+              - listitem [ref=e184]: A numeric character
+              - listitem [ref=e185]: A minimum of 8 characters
+              - listitem [ref=e186]: A lowercase character
+              - listitem [ref=e187]: An alphabetic character
+              - listitem [ref=e188]: A special character
+          - generic [ref=e189]:
+            - generic [ref=e190]:
+              - generic [ref=e192]: Email Address*
+              - textbox "Email Address" [ref=e195]
+            - generic [ref=e197]:
+              - generic [ref=e199]: Password*
+              - textbox "Password" [ref=e202]
+            - generic [ref=e203]:
+              - generic [ref=e205]: Verify New Password*
+              - textbox "Verify New Password" [ref=e208]
+            - generic [ref=e211]:
+              - generic [ref=e213]:
+                - paragraph [ref=e214]: HP JOB APPLICANT PRIVACY NOTICE
+                - paragraph [ref=e215]: HP recognizes that privacy is a fundamental human right and further recognizes the fundamental right of privacy, security and data protection to our job applicants and candidates worldwide. As a global organization, we strive to provide protections that exceed legal minimums, across all our operations, and to deploy consistent, rigorous policies and procedures. This notice outlines how we collect, use, disclose, retain, and otherwise process, the personal data of our job applicants and candidates. Please note that region- or country-specific privacy disclosure or notice may provide additional information.
+                - paragraph [ref=e216]
+                - paragraph [ref=e217]:
+                  - generic [ref=e218]: Throughout this document references to “local law” or “applicable law” refer to laws applicable to where you reside or where HP operates and processes personal data. HP may refer to “you” as “job applicant” or “candidate”, depending on the scenario.
+                - paragraph [ref=e219]
+                - paragraph [ref=e220]: What Does this Notice Cover?
+                - paragraph [ref=e221]: This notice provides information about how the HP company (herein "HP") to which you are applying, and any of our related affiliates and subsidiaries worldwide (collectively, "HP", "us" or "we"), protect your personal data in accordance with local law. It also describes what categories of personal data we collect about you, how we use the information we collect, where and from whom we obtain it, to whom we disclose your personal data, your respective rights regarding it, and how you can exercise your rights. More information about your rights, and how to exercise them, is set out in the Your Choices and Rights section.
+                - paragraph [ref=e222]
+                - paragraph [ref=e223]: What Data Do We Collect?
+                - paragraph [ref=e224]: If you apply for a job with us, we collect, use, disclose, and otherwise process, as defined by applicable law, personal data about you in order to take steps prior to potentially entering into a contract of employment with you.
+                - paragraph [ref=e225]
+                - paragraph [ref=e226]: "To the extent permitted by law and at the appropriate time during the application process or the pre-employment background check, screening or vetting process, this may include:"
+                - list [ref=e227]:
+                  - listitem [ref=e228]:
+                    - paragraph [ref=e229]: "Data you provide to us:"
+                    - list [ref=e230]:
+                      - listitem [ref=e231]:
+                        - paragraph [ref=e232]: contact details (name, address, phone numbers, email, etc.);
+                      - listitem [ref=e233]:
+                        - paragraph [ref=e234]: qualification details (such as resume, CV, cover letter, work experience, education, transcripts);
+                      - listitem [ref=e235]:
+                        - paragraph [ref=e236]: application information (such as expected income, type of job wanted, availability, references);
+                      - listitem [ref=e237]:
+                        - paragraph [ref=e238]: identification details (such as passport number, nationality and residence), government ID numbers (e.g. national insurance number/social security number/national identification number), immigration status; and
+                      - listitem [ref=e239]:
+                        - paragraph [ref=e240]: any other data you submit to us, including any correspondence between you and HP exchanged during the application process.
+                - paragraph [ref=e241]
+                - list [ref=e242]:
+                  - listitem [ref=e243]:
+                    - paragraph [ref=e244]: "Data from other sources:"
+                    - list [ref=e245]:
+                      - listitem [ref=e246]:
+                        - paragraph [ref=e247]: We may also obtain data about you from other sources, such as recruiters, market research companies, identity verification providers, and information you have made publicly available through third-party websites such as LinkedIn, where permitted by law.
+                - paragraph [ref=e248]
+                - list [ref=e249]:
+                  - listitem [ref=e250]:
+                    - paragraph [ref=e251]: "Data we collect automatically about you:"
+                    - list [ref=e252]:
+                      - listitem [ref=e253]:
+                        - paragraph [ref=e254]: Most browsers automatically accept cookies (including some of HP), but this is typically something you can adjust. Please reference your browser’s settings to adjust your privacy preferences.
+                - paragraph [ref=e255]
+                - paragraph [ref=e256]: Please note that some of the data listed above will only be required for successful candidates in the pre-employment screening process.
+                - paragraph [ref=e257]
+                - paragraph [ref=e258]: How do We Use Data, and what is the Legal Basis for this Use?
+                - paragraph [ref=e259]: "HP may collect, use, disclose, and otherwise process, as defined by applicable law, your personal data to:"
+                - list [ref=e260]:
+                  - listitem [ref=e261]:
+                    - paragraph [ref=e262]: "Assess your job application, and for other recruiting and hiring purposes, such as to:"
+                    - list [ref=e263]:
+                      - listitem [ref=e264]:
+                        - paragraph [ref=e265]: review your qualifications to determine your eligibility for a position;
+                      - listitem [ref=e266]:
+                        - paragraph [ref=e267]: contact you about your application, via electronic channels (e.g., email) and posts, reply to your inquiries, organize interviews, appointments and phone calls, and send updates to you about other recruitment opportunities;
+                      - listitem [ref=e268]:
+                        - paragraph [ref=e269]: process your application and verify your identity and eligibility for the role;
+                      - listitem [ref=e270]:
+                        - paragraph [ref=e271]: conduct assessments related to general and language skills, experiences, and job interviews;
+                      - listitem [ref=e272]:
+                        - paragraph [ref=e273]: assist with obtaining an immigration visa or work permit, if required;
+                      - listitem [ref=e274]:
+                        - paragraph [ref=e275]: complete enrolment in payroll and applicable employee benefit schemes, prepare the employment contract, and other administrative purposes necessary for a candidate to commence employment with HP;
+                      - listitem [ref=e276]:
+                        - paragraph [ref=e277]: performance of the employment contract between HP and candidates.
+                - paragraph [ref=e278]
+                - list [ref=e279]:
+                  - listitem [ref=e280]:
+                    - paragraph [ref=e281]: "Comply with applicable laws or regulations, including, but not limited to:"
+                    - list [ref=e282]:
+                      - listitem [ref=e283]:
+                        - paragraph [ref=e284]: use in connection with legal claims;
+                      - listitem [ref=e285]:
+                        - paragraph [ref=e286]: health and safety compliance;
+                      - listitem [ref=e287]:
+                        - paragraph [ref=e288]: regulatory, investigative, and disciplinary purposes (including disclosure of such information in connection with legal process or litigation); and
+                      - listitem [ref=e289]:
+                        - paragraph [ref=e290]: other ethics, anti-corruption, and compliance reporting tools.
+                - paragraph [ref=e291]
+                - list [ref=e292]:
+                  - listitem [ref=e293]:
+                    - paragraph [ref=e294]: "Protect HP's legitimate business interests including:"
+                    - list [ref=e295]:
+                      - listitem [ref=e296]:
+                        - paragraph [ref=e297]: the security of HP's premises, assets, systems, and intellectual property;
+                      - listitem [ref=e298]:
+                        - paragraph [ref=e299]: enforce company policies; and
+                      - listitem [ref=e300]:
+                        - paragraph [ref=e301]: permit the functionality of our online portal, including to authorize the creation of online accounts, provide customer service, and reset passwords.
+                - paragraph [ref=e302]
+                - list [ref=e303]:
+                  - listitem [ref=e304]:
+                    - paragraph [ref=e305]: "Improving hiring process: HP may use personal data to improve the recruitment and selection process. This may include demographic information."
+                - paragraph [ref=e306]
+                - list [ref=e307]:
+                  - listitem [ref=e308]:
+                    - paragraph [ref=e309]:
+                      - text: We may also process your personal data, for example, if you consented to receive information about future job opportunities; where you have consented to providing data such as gender, ethnicity, etc.(which will help HP promote
+                      - generic [ref=e310]: an inclusive workplace
+                      - text: ); or where we need to ask your permission to conduct a criminal background check (where permitted by law).
+                - paragraph [ref=e311]
+                - list [ref=e312]:
+                  - listitem [ref=e313]:
+                    - paragraph [ref=e314]:
+                      - generic [ref=e315]: If you agree to be part of the “Talent Network”,
+                      - text: we may also process your personal data for the purposes of finding matches with other compatible current or future job opportunities through the use of profiling. For more information on the use of profiling, please visit the Automated Decision-Making section.
+                - paragraph [ref=e316]
+                - list [ref=e317]:
+                  - listitem [ref=e318]:
+                    - paragraph [ref=e319]: HP may use third-party video or audio platforms for conducting job interviews and candidate assessments virtually. If we do so, please take the interview in a neutral space or employ background filters/blurring and remove personal objects that may reveal sensitive personal data from view of the camera.
+                - paragraph [ref=e320]
+                - paragraph [ref=e321]: How we Use Sensitive Data
+                - paragraph [ref=e322]: Some of the above information may also be considered sensitive personal data. Such information may include screening, background checks or vetting for certain positions, pre-employment health screens, and/or a disability status (when applicable) for eligibility for certain programs. In some geographies, a candidate may provide us with voluntary information related to their race or ethnicity in support of an inclusive workforce policy, or voluntary information about minors related to administration of benefits. In some cases, candidates will not be required to provide consent to processing of sensitive personal data and such processing will occur as required or permitted by applicable local law. HP implements robust measures to protect such information.
+                - paragraph [ref=e323]
+                - paragraph [ref=e324]: HP is committed to an equal employment opportunity. To that end, any sensitive data collected for the purposes mentioned above, will never be used for discrimination against any job applicant or candidate during the selection process.
+                - paragraph [ref=e325]
+                - paragraph [ref=e326]: Background Check
+                - paragraph [ref=e327]: After receiving an offer of employment with HP, where permitted by local law, the candidates may be subject to the completion of certain background checks which are permitted or required by applicable employment laws.
+                - paragraph [ref=e328]
+                - paragraph [ref=e329]: Personal data provided by the candidate following an offer of employment may be used to facilitate a background check. No background checks will be undertaken prior to a conditional offer of employment being made. Failure to pass a background check may result in the withdrawal of the employment offer, in line with the requirements of applicable law.
+                - paragraph [ref=e330]
+                - paragraph [ref=e331]: Candidates may be requested to provide information related to their family members who hold government positions in order for HP to assess potential conflicts of interest and in accordance with legal requirements. When providing this information, it is the responsibility of the candidate to obtain the family member’s permission to disclose such information to HP.
+                - paragraph [ref=e332]
+                - paragraph [ref=e333]: Conducting background checks may involve the collection of additional information about the candidate from educational institutions, government agencies, previous employers, credit reporting agencies (where permitted by local law), information in the public domain, and law enforcement agencies at the international, national, or local level so far as is permitted by applicable law. If a candidate's prior employers and/or other referees are contacted, the report may include information obtained through personal interviews. Please note that it is your responsibility to obtain consent from referees before providing their personal data to HP.
+                - paragraph [ref=e334]
+                - paragraph [ref=e335]: Automated Decision-Making
+                - paragraph [ref=e336]: HP uses automated matching and scoring (profiling) to aid in the identification of candidates during the selection processes. The profiling uses machine learning techniques. Data is used to produce a score corresponding to a predicted degree of match between a job and a candidate. The use of the match score can produce a list of candidates for a given job position in a rank-list manner. The model does not replace human decision making.
+                - paragraph [ref=e337]
+                - paragraph [ref=e338]: In the event that HP makes a decision based solely on automated processing, which produces legal effects or that similarly significantly affects you, HP will take the appropriate steps to ensure it takes place in accordance with applicable law. In these cases, HP will respect your ability to exercise your rights to obtain human intervention, to express your point of view and to contest the decision.
+                - paragraph [ref=e339]
+                - paragraph [ref=e340]:
+                  - generic [ref=e341]: If you would like more information about the use of automated decision making in the recruitment context, please contact
+                  - link [ref=e343] [cursor=pointer]:
+                    - /url: https://www.hp.com/us-en/privacy/ww-privacy-form.html?jumpid=in_R11928_%2Fus%2Fen%2Fcorp%2Fprivacy-central%2Fprivacy-statements
+                    - generic [ref=e344]: HP’s Privacy Office and Data Protection Officer
+                  - generic [ref=e345]: .
+                - paragraph [ref=e346]
+                - paragraph [ref=e347]: How We Share Data
+                - paragraph [ref=e348]: We may share your personal data with other HP entities for the purposes outlined in this Privacy Notice.
+                - paragraph [ref=e349]
+                - paragraph [ref=e350]: In some cases, personnel and authorized third-party service providers or processors, will process your personal data on behalf of HP for the purposes above. Such third parties include, but are not limited to, IT service providers, investigators, auditors, recruitment agencies, or online recruitment portals in which job applicants enter and submit their application, background check providers, etc. HP takes appropriate steps to ensure that such personnel and third-party suppliers are bound to duties of confidentiality. In addition, third parties that process personal data on behalf of HP are required by contract to implement safeguards that are no less protective than those implemented by HP in order to protect any personal data they receive from HP. Third party service providers are further prohibited from using the personal data for any purpose other than to perform the services as instructed by HP.
+                - paragraph [ref=e351]
+                - paragraph [ref=e352]: Corporate Transactions
+                - paragraph [ref=e353]: Circumstances may arise where, whether for strategic or other business reasons, HP decides to sell, buy, merge or otherwise reorganize businesses. In such transactions, we may disclose or transfer your personal data to prospective or actual purchasers or receive personal data from sellers. Our practice is to seek appropriate protection for your personal data in these types of transactions.
+                - paragraph [ref=e354]
+                - paragraph [ref=e355]: Compliance with law
+                - paragraph [ref=e356]: "We may also share your personal data when we believe, in good faith, that we have an obligation to: (i) respond to duly authorized information requests of law enforcement agencies, regulators, courts and other public authorities, including to meet national security or other law enforcement requirements; (ii) comply with any law, regulation, subpoena, or court order; (iii) investigate and help prevent security threats, fraud or other criminal or malicious activity; (iv) enforce/protect the rights and properties of HP or its subsidiaries; or (v) protect the rights or personal safety of HP, our employees, and third parties on or using HP property when allowed and in line with the requirements of applicable law."
+                - paragraph [ref=e357]
+                - paragraph [ref=e358]: International Data Transfers
+                - paragraph [ref=e359]: "Your personal data may be transferred to HP companies operating in countries inside or outside of your home country for the purposes above. In addition, HP’s service providers with whom information is shared for the purposes above may be based outside of your home country. HP will address any applicable requirement to ensure that any transferred personal data remains protected and secure. Depending on your country of residence to such transferred data, we rely on the corresponding mechanism (listed purely in alphabetical order) in accordance with applicable local law:"
+                - paragraph [ref=e360]
+                - list [ref=e361]:
+                  - listitem [ref=e362]:
+                    - paragraph [ref=e363]: Adequacy Decisions
+                - paragraph [ref=e364]:
+                  - text: HP relies on determinations from relevant authorities (for example the
+                  - link [ref=e365] [cursor=pointer]:
+                    - /url: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-transfers-a-guide/
+                    - text: UK Government
+                  - text: ", the"
+                  - link [ref=e366] [cursor=pointer]:
+                    - /url: https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en
+                    - text: European Commission
+                  - text: ", or the"
+                  - link [ref=e367] [cursor=pointer]:
+                    - /url: https://www.fedlex.admin.ch/eli/cc/2022/568/en#annex_1/lvl_u1
+                    - text: Swiss Federal Council
+                  - text: ), about whether other countries, territories, international organizations or sectors have adequate levels of data protection. Where this occurs, the personal data is transferred to such third countries in reliance of such adequacy decision.
+                - paragraph [ref=e368]
+                - list [ref=e369]:
+                  - listitem [ref=e370]:
+                    - paragraph [ref=e371]:
+                      - generic [ref=e373]: APE
+                      - generic [ref=e375]: C Cross-Border Privacy Rules
+                - paragraph [ref=e376]:
+                  - generic [ref=e377]: HP’s privacy practices, described in this Privacy Notice, comply with the APEC Cross Border Privacy Rules (CBPR) System. The APEC CBPR provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found
+                  - link [ref=e378] [cursor=pointer]:
+                    - /url: https://cbprs.org/
+                    - text: here.
+                - paragraph [ref=e379]
+                - paragraph [ref=e380]:
+                  - link [ref=e382] [cursor=pointer]:
+                    - /url: https://privacy.trustarc.com/privacy-seal/validation?rid=32343487-73d8-42f9-8818-48d58b293a07
+                    - text: View our APEC CBPR Certification
+                - paragraph [ref=e383]
+                - list [ref=e384]:
+                  - listitem [ref=e385]:
+                    - paragraph [ref=e386]: Global CBPR Forum Participation
+                - paragraph [ref=e387]:
+                  - generic [ref=e389]:
+                    - text: HP’s privacy practices described in this Notice comply with the Global Cross Border Privacy Rules System (“CBPR”), including transparency, accountability, and choice regarding the collection and use of your personal data. The CBPR certification do not cover information that may be collected through downloadable software on third-party platforms. The CBPR system provides a framework for organizations to ensure protection of personal data transferred among participating Global
+                    - text: CBPR members. More information about the Global framework can be found
+                  - link [ref=e392] [cursor=pointer]:
+                    - /url: http://www.globalcbpr.org/privacy-certifications/directory/
+                    - text: here
+                  - text: .
+                - paragraph [ref=e393]
+                - paragraph [ref=e394]:
+                  - text: If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at
+                  - link [ref=e395] [cursor=pointer]:
+                    - /url: https://feedback-form.trustarc.com/watchdog/request
+                    - text: https://feedback-form.trustarc.com/watchdog/request
+                  - text: .
+                - paragraph [ref=e396]
+                - paragraph [ref=e397]:
+                  - link [ref=e399] [cursor=pointer]:
+                    - /url: https://privacy.trustarc.com/privacy-seal/validation?rid=7197d163-cece-4136-84c1-e4eb60505b94
+                    - text: View our Global CBPR Certification
+                - paragraph [ref=e400]
+                - paragraph [ref=e401]:
+                  - generic [ref=e403]: The Global CBPR System Certification Mark and Global PRP System Certification Mark™ are trademarks of the International Trade Administration/Office of Global Data Policy and Privacy, used with permission.
+                - list [ref=e404]:
+                  - listitem [ref=e405]:
+                    - paragraph [ref=e406]: Binding Corporate Rules
+                - paragraph [ref=e407]:
+                  - generic [ref=e408]: International transfers of personal data to countries that don’t have an adequacy decision by the European Commission (or the UK Government or the Swiss Federal Council), are governed by our HP’s Binding Corporate Rules. Effective 2011, HP has established a set of Binding Corporate Rules (“EU BCR-C”), which have been approved by the data protection regulators in the European Economic Area (EEA) and Switzerland. Additionally, the UK HP Binding Corporate Rules for Controllers (“UK HP BCR-C”), were approved by the UK Information Commissioner (effective in 2024). HP’s BCRs allow us to legally transfer personal data of HP job applicants and candidates located in the EEA/UK/ Switzerland to HP entities located outside of those countries. To learn more about HP’s BCRs and the list of HP entities covered by them, please go
+                  - link [ref=e409] [cursor=pointer]:
+                    - /url: https://www.hp.com/gb-en/binding-corporate-rules.html
+                    - generic [ref=e410]: here
+                  - generic [ref=e411]: .
+                - paragraph [ref=e413]
+                - list [ref=e414]:
+                  - listitem [ref=e415]:
+                    - paragraph [ref=e416]: Data Privacy Framework Program
+                - paragraph [ref=e418]:
+                  - generic [ref=e419]: HP complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-
+                - generic [ref=e420]:
+                  - paragraph [ref=e421]:
+                    - generic [ref=e422]: U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), as set forth by the U.S. Department of Commerce. HP has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. HP has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit
+                    - link [ref=e423] [cursor=pointer]:
+                      - /url: https://www.dataprivacyframework.gov/
+                      - generic [ref=e425]: https://www.dataprivacyframework.gov/
+                    - generic [ref=e426]: .
+                  - paragraph [ref=e427]
+                - paragraph [ref=e428]:
+                  - generic [ref=e430]: HP is responsible for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on its behalf. HP complies with the DPF Principles for all onward transfers of personal data from the EU, UK, and Switzerland, including the onward transfer liability provisions.
+                - paragraph [ref=e431]
+                - paragraph [ref=e432]:
+                  - text: In compliance with the EU-US Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) HP commits to ensure the rights of EU, UK, and Swiss individuals and to resolve complaints about your privacy and our collection or use of your personal data transferred to the United States pursuant to the DPF Principles. EU and UK individuals and Swiss individuals with DPF inquiries or complaints should first contact HP through
+                  - link [ref=e433] [cursor=pointer]:
+                    - /url: https://www.hp.com/us-en/privacy/ww-privacy-form.html?jumpid=in_R11928_%2Fus%2Fen%2Fcorp%2Fprivacy-central%2Fprivacy-statements
+                    - text: HP’s Privacy Office and Data Protection Officer form
+                  - text: .
+                - paragraph [ref=e434]
+                - paragraph [ref=e435]: In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, HP commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of human resources data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF in the context of the employment relationship.
+                - paragraph [ref=e436]
+                - paragraph [ref=e437]:
+                  - text: If your DPF complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. Further information can be found on the official
+                  - link [ref=e438] [cursor=pointer]:
+                    - /url: https://www.dataprivacyframework.gov/s/article/G-Arbitration-Procedures-dpf?tabset-35584=2
+                    - text: DPF website
+                  - text: .
+                - paragraph [ref=e439]
+                - paragraph [ref=e440]: The Federal Trade Commission has jurisdiction over HP’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
+                - paragraph [ref=e441]
+                - paragraph [ref=e442]: "The specific US-based HP entities covered by the DPF include: Compaq Information Technologies, LLC; Hewlett-Packard Company Archives LLC; Hewlett-Packard Enterprises, LLC; HP Health Solutions Inc.; HP Jade Holding LLC; HP R&D Holding LLC; HP US Digital LLC; HPI Bermuda Holdings LLC; HPI Federal LLC; Indigo America, Inc.; HP Hewlett Packard Group LLC; Hewlett-Packard World Trade, LLC; HP Inc.; HP Licensing Holding LLC; HP Technology Holdings LLC; HP USA Manufacturing LLC; HPI Brazil Holdings LLC; HPI J1 Holdings LLC; HPQ Holdings, LLC; Tall Tree Insurance Company; Hewlett-Packard Development Company, L.P."
+                - paragraph [ref=e443]
+                - paragraph [ref=e444]: Choices under the Data Privacy Framework Program
+                - paragraph [ref=e445]: HP will offer job applicants and candidates the opportunity to choose (i.e., opt out) whether their personal data is (i) to be disclosed to a third party or (ii) to be used for a purpose that is materially different from the purpose(s) for which it was originally collected or subsequently authorized by the job applicant and candidate.
+                - paragraph [ref=e446]
+                - paragraph [ref=e447]:
+                  - generic [ref=e450]: For sensitive data (i.e., personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying the sex life of the individual), HP will obtain affirmative express consent (i.e., opt in) from job applicants and candidates if such information is to be (i) disclosed to a third party or (ii) used for a purpose other than those for which it was originally collected or subsequently authorized by the job applicant and candidate through the exercise of opt-in choice. In addition, HP will treat as sensitive any personal data received from a third party where the third party identifies and treats it as sensitive.
+                - paragraph [ref=e451]
+                - paragraph [ref=e452]:
+                  - generic [ref=e453]: Job applicants and candidates can exercise their choices by contacting us through
+                  - link [ref=e454] [cursor=pointer]:
+                    - /url: https://www.hp.com/us-en/privacy/ww-privacy-form.html?jumpid=in_R11928_%2Fus%2Fen%2Fcorp%2Fprivacy-central%2Fprivacy-statements
+                    - generic [ref=e455]: HP’s Privacy Office and Data Protection Officer form
+                  - generic [ref=e456]: .
+                - paragraph [ref=e458]
+                - paragraph [ref=e459]:
+                  - generic [ref=e473]: EXERCISING YOUR RIGHTS RELATED TO APPROVED INTERNATIONAL TRANSFER MECHANISMS
+                - paragraph [ref=e474]:
+                  - generic [ref=e487]: If you want to ask for more information related to our participation in the DPF, Global CBPR Forum, or use of HP’s BCR, please see our Exercising Your Rights & Contacting Us section.
+                - paragraph [ref=e488]
+                - paragraph [ref=e489]:
+                  - generic [ref=e503]: INTERNATIONAL TRANSFERS TO SERVICE PROVIDERS
+                - paragraph [ref=e504]:
+                  - generic [ref=e518]:
+                    - text: The transfer of personal data from the European Economic Area, the United Kingdom, and Switzerland to service providers is governed by adequacy decisions (for example, formal decisions made by the UK Government, the
+                    - link [ref=e519] [cursor=pointer]:
+                      - /url: https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en
+                      - text: European Commission
+                    - text: ", or the"
+                    - link [ref=e520] [cursor=pointer]:
+                      - /url: https://www.fedlex.admin.ch/eli/cc/2022/568/en#annex_1
+                      - text: Swiss Federal Council
+                    - text: ). When we engage in transfers to other countries not covered by adequacy decisions or by the above mechanisms, we use the appropriate safeguards, including contracts such as the
+                    - link [ref=e521] [cursor=pointer]:
+                      - /url: https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en
+                      - text: Standard Contractual Clauses
+                    - text: published by the European Commission under Commission Implementing Decision 2021. Depending on where you live, HP might use different transfer mechanism, such as contracts, according to the requirements of applicable law. If you have questions about our transfer mechanisms, please see our Exercising Your Rights & Contacting Us section.
+                - paragraph [ref=e522]
+                - paragraph [ref=e523]:
+                  - generic [ref=e537]: MAINLAND CHINA
+                - paragraph [ref=e538]:
+                  - generic [ref=e539]: Personal data relating to individuals in the People’s Republic of China may be processed by HP in countries outside of China. Where this occurs, it will be done in compliance with local laws, including the People’s Republic of China Personal Information Protection Law. A list of categories of foreign receiving parties is available
+                  - link [ref=e540] [cursor=pointer]:
+                    - /url: https://www.hp.com/cn-zh/privacy/china-receiving-parties.html
+                    - generic [ref=e541]: here
+                  - generic [ref=e542]: .
+                - paragraph [ref=e543]
+                - paragraph [ref=e544]:
+                  - generic [ref=e558]: How We Retain and Keep Your Data Secure
+                - paragraph [ref=e559]:
+                  - generic [ref=e572]: We maintain physical, electronic, and procedural safeguards to protect the confidentiality of your personal data, including security measures to protect against unlawful or unauthorized processing of personal data, and against the accidental loss of, or damage to, your personal data. In addition, we communicate our privacy and security policies to HP employees and strictly enforce privacy safeguards within HP.
+                - paragraph [ref=e573]
+                - paragraph [ref=e574]:
+                  - generic [ref=e587]: "If your application to an HP job is not successful, you decline the offer or you withdraw from the process; HP will retain your information for a period after the application. HP will retain your information for different reasons, including but not limited to: dealing with legal challenges related to the recruitment decision; or considering you for other current or future jobs at HP."
+                - paragraph [ref=e588]
+                - paragraph [ref=e589]:
+                  - generic [ref=e603]: We will retain your personal data in a form that identifies you for no longer than is necessary for the purposes needed for the application. This requirement is subject to other laws and obligations that require HP to retain information for certain periods.
+                - paragraph [ref=e604]
+                - paragraph [ref=e605]:
+                  - generic [ref=e618]: As permitted with your consent, and depending on local laws, we keep your personal data for contacting you for future job opportunities, potential use in legal proceedings, or compliance purposes. Job applicants and candidates may subsequently withdraw at any time by contacting us via the information in the “Exercising Your Rights & Contacting Us” section.
+                - paragraph [ref=e619]
+                - paragraph [ref=e620]:
+                  - generic [ref=e633]: When a candidate enters employment with HP, his or her personal data and relevant background check may be transferred to an employee personnel file and may be processed and retained in accordance with applicable law or our HP Global Employee Privacy Policy & Notice from time to time in force.
+                - paragraph [ref=e634]
+                - paragraph [ref=e635]:
+                  - generic [ref=e649]: Exercising Your Rights & Contacting Us
+                - paragraph [ref=e650]:
+                  - generic [ref=e663]: If you are a job applicant or a candidate, you are entitled to request access to personal data that you have provided to us or that we maintain about you and ask us for a copy of such information. This includes the right to request an explanation about our policies and practices relating to the handling of your personal data. We must also provide you with details about what personal data we have collected about you and how we collect, use, disclose, and otherwise process such information. In addition, you have the right to request update, correction, amendment, restriction, or deletion of your personal data; and to obtain the personal data you provide with your consent or in connection with a contract in a structured, machine-readable format and to ask us to transfer this data to another processing entity.
+                - paragraph [ref=e664]
+                - paragraph [ref=e665]:
+                  - generic [ref=e678]: You also have the rights to object and withdraw your consent at any time. The withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal.
+                - paragraph [ref=e679]
+                - paragraph [ref=e680]:
+                  - generic [ref=e693]: In certain cases, your rights may be limited, for example if fulfilling your request would reveal personal data about another person or if you ask us to delete information which we are required by law to keep it.
+                - paragraph [ref=e694]
+                - paragraph [ref=e695]:
+                  - generic [ref=e709]: How to Exercise Your Privacy Rights and Make Your Privacy Requests
+                - paragraph [ref=e710]:
+                  - generic [ref=e711]: You can submit a privacy request, either by yourself or by entrusting an authorized agent, by clicking on the
+                  - link [ref=e712] [cursor=pointer]:
+                    - /url: https://www.hp.com/us-en/privacy/ww-privacy-form.html
+                    - generic [ref=e713]: HP’s Privacy Office and Data Protection Officer form
+                  - generic [ref=e715]: and indicating you are a "Prospective HP employee". Your privacy request may be made to exercise your rights, or if you have any questions or concerns about this HP Job Applicant Privacy Notice, our privacy practices, our collection and use of your information or a possible data breach. Alternatively, if you have any questions or concerns about the hiring process, please contact your corresponding HP hiring entity. We will not discriminate against you for exercising your rights and choices.
+                - paragraph [ref=e716]
+                - paragraph [ref=e717]:
+                  - generic [ref=e731]: How We Manage Your Privacy Requests
+                - paragraph [ref=e732]:
+                  - generic [ref=e745]: Upon receipt of your communication, our representative will contact you within a reasonable time to respond to your questions or concerns. In some cases, we may request further information to verify your identity, complete your request, clarify the nature of your request, remedy any deficiencies with your request, or let you know if we need more time, as permitted in applicable law. Please refrain from sending us sensitive personal data.
+                - paragraph [ref=e746]
+                - paragraph [ref=e747]:
+                  - generic [ref=e759]: You can designate someone else to make a request on your behalf. To protect your data, we will ask for signed permission from you authorizing the other person to submit a request on your behalf. We will contact you to verify your identity before we respond to your authorized agent’s request, as permitted in applicable law.
+                - paragraph [ref=e760]
+                - paragraph [ref=e761]:
+                  - generic [ref=e774]: Timing
+                - paragraph [ref=e775]:
+                  - generic [ref=e787]: We aim to ensure that your concerns are resolved in a timely and appropriate manner. If we fail to take any action regarding your request our or are unable to resolve your concerns, you may bring a complaint or lawsuit before the corresponding authority in the country or territory in which you reside according to local law, or where you consider that the data protection rules have been breached or seek a remedy through the courts.
+                - paragraph [ref=e788]
+                - paragraph [ref=e789]:
+                  - generic [ref=e801]: For questions, concerns or complaints related to our participation in Global CBPR Forum or application of HP’s BCRs, please read the “International Data Transfers” section.
+                - paragraph [ref=e802]
+                - paragraph [ref=e803]:
+                  - generic [ref=e816]: Supplementary Privacy Notice for California Residents
+                - paragraph [ref=e817]:
+                  - generic [ref=e829]: While this Supplementary Privacy Notice is intended to provide California residents with additional transparency information in the first instance according to the California Consumer Privacy Act (“CCPA”), this applies equally to US residents under their respective state's privacy laws.
+                - paragraph [ref=e830]
+                - paragraph [ref=e831]:
+                  - generic [ref=e843]: This Privacy Notice supplements the transparency information in our HP Job Applicant Privacy Notice. The HP Job Applicant Privacy Notice includes what personal data is collected, the source of the personal data, and the business and commercial purposes (as that term is defined by local law) of use, as well as whether HP discloses, sells, or shares that personal data and if so, the categories of third parties to whom it is disclosed, sold and shared as that term is defined by local law).
+                - paragraph [ref=e844]
+                - paragraph [ref=e845]:
+                  - generic [ref=e858]: What Data We Collect About You
+                - paragraph [ref=e859]:
+                  - generic [ref=e872]: To learn more about the categories of personal data we collect, use, disclose, share, sell, or otherwise process, including categories of sensitive personal data, to be collected, please see the “What Data do We Collect?” section.
+                - paragraph [ref=e873]
+                - paragraph [ref=e874]:
+                  - generic [ref=e887]: How We Use Your Data
+                - paragraph [ref=e888]:
+                  - generic [ref=e901]: HP collects personal data for recruiting, job placement and hiring purposes, including categories of sensitive personal data. For information on how HP collects, and uses personal data, please visit the “How do we use this information, and what is the legal basis for this use?” section.
+                - paragraph [ref=e902]
+                - paragraph [ref=e903]:
+                  - generic [ref=e916]: Categories of Recipients or Third Parties with whom the Information was Disclosed, Sold or Shared
+                - paragraph [ref=e917]:
+                  - generic [ref=e930]: For information on the categories of personal data about you and the categories of recipients or third parties to whom the information was disclosed, sold, or shared, during but not limited to the twelve (12) months as required by local law, for the purposes described in the “How do we use this information, and what is the legal basis for this use?” section, please see the “How We Share Data” section.
+                - paragraph [ref=e931]
+                - paragraph [ref=e932]:
+                  - generic [ref=e945]: How We Protect Your Data
+                - paragraph [ref=e946]:
+                  - generic [ref=e959]: Personal Data will be retained only for so long as reasonably necessary for the purposes set out above, in accordance with applicable laws. Please see “How We Retain and Keep Your Data Secure” section for more information on retention of personal data.
+                - paragraph [ref=e960]
+                - paragraph [ref=e961]:
+                  - generic [ref=e974]: Your Privacy Rights
+                - paragraph [ref=e975]:
+                  - generic [ref=e988]: You have a right to know, access, and request correction, and deletion of your personal data under the California law by exercising your rights directly or through an authorized agent visiting the above “Exercising Your Rights & Contacting Us” section of this Privacy Notice.
+                - paragraph [ref=e989]
+                - paragraph [ref=e990]:
+                  - generic [ref=e1003]: Your right to Opt-Out
+                - paragraph [ref=e1004]:
+                  - generic [ref=e1016]: We do not, and will not, sell personal data to third parties as the term “sell” is traditionally understood. Nonetheless, in some jurisdictions sharing personal data in a commercial context may be defined as selling personal data. HP also does not use or disclose sensitive personal data for any purposes that would require a user to exercise a right to limit according to California law.
+                - paragraph [ref=e1017]
+                - paragraph [ref=e1018]:
+                  - generic [ref=e1031]:
+                    - text: More information about how you can exercise your right for opt-out purposes, including automated decision making, is available at all times by visiting the “
+                    - link [ref=e1032] [cursor=pointer]:
+                      - /url: https://www.hp.com/us-en/privacy/privacy-central.html
+                      - text: Your Privacy Choices
+                    - text: ” link on HP’s website footer.
+                - paragraph [ref=e1033]
+                - paragraph [ref=e1034]:
+                  - generic [ref=e1047]: Your Right to Appeal
+                - paragraph [ref=e1048]:
+                  - generic [ref=e1049]: We aim to ensure that your concerns are resolved in a timely and appropriate manner. If we fail to take any action regarding your request to exercise rights or decline to respond, you have the right to appeal, as permitted in local law. You can appeal directly or through an authorized agent using our using our
+                  - link [ref=e1050] [cursor=pointer]:
+                    - /url: https://www.hp.com/us-en/privacy/ww-privacy-form.html
+                    - generic [ref=e1051]: HP’s Privacy Office and Data Protection Officer form
+                  - generic [ref=e1052]: .
+                  - generic [ref=e1053]: The appeal must describe your request with a detailed summary that allows us to properly understand, evaluate, and respond to it and provide the former case ticket number. Similarly, in case an appeal is denied, you have the right to contact your local Attorney General if you have concerns about the result of the appeal, as prescribed by applicable law.
+                - paragraph [ref=e1054]
+                - generic [ref=e1055]:
+                  - paragraph [ref=e1056]:
+                    - generic [ref=e1057]: Supplementary Privacy Notice for Job Postings in New York City
+                  - paragraph [ref=e1058]:
+                    - generic [ref=e1059]:
+                      - generic [ref=e1060]: As mentioned in the Automated Decision-Making section, in March 2024, HP began using an automated matching and scoring tool to aid in the identification of candidates during the selection process. The tool does not replace human decision making and is used to
+                      - text: assist in evaluating candidate applications as part of the hiring and promotion process for certain positions and in the assessment of an applicant’s job qualifications by comparing that individual’s application to the requirements identified in a position posting. Eightfold, the tool used by HP, has been reviewed by an independent auditor, in accordance with New York City law. Results of the audit may be viewed
+                    - link [ref=e1061] [cursor=pointer]:
+                      - /url: https://eightfold.ai/nyc-eightfold-matching-model/
+                      - generic [ref=e1062]: here
+                    - generic [ref=e1063]: .
+                - paragraph [ref=e1064]
+                - paragraph [ref=e1066]:
+                  - generic [ref=e1067]: Any applicant for a New York City job posting who would like to request an alternate selection process in accordance with New York City law or other applicable law, should send their request to HP’s Global Recruitment & Onboarding team at
+                  - link [ref=e1068] [cursor=pointer]:
+                    - /url: mailto:AIRecruitingInquiries@hp.com
+                    - generic [ref=e1070]: AIRecruitingInquiries@hp.com
+                  - generic [ref=e1071]: .
+                - paragraph [ref=e1074]
+                - paragraph [ref=e1076]:
+                  - generic [ref=e1077]: For further details, please click this
+                  - link [ref=e1078] [cursor=pointer]:
+                    - /url: https://content.ext.hp.com/sites/ExternalContent/Supplementary_Notice_for_Job_Postings_ext.page
+                    - generic [ref=e1079]: link
+                  - generic [ref=e1080]: .
+                - paragraph [ref=e1082]
+                - paragraph [ref=e1083]:
+                  - generic [ref=e1096]: Updates to this Job Applicant Privacy Notice
+                - paragraph [ref=e1097]:
+                  - generic [ref=e1109]: This notice may be updated periodically to reflect changes in our data practices. If we modify this notice, we will post the revised notice here, with an updated revision date. We will post a notice on our applicable websites, applications, or materials to advise of any significant changes.
+                - paragraph [ref=e1110]
+                - generic [ref=e1111]:
+                  - paragraph [ref=e1112]:
+                    - generic [ref=e1113]: "Date Posted: October 2025"
+                  - paragraph [ref=e1114]
+                  - paragraph [ref=e1115]:
+                    - link [ref=e1117] [cursor=pointer]:
+                      - /url: https://www.hp.com/content/dam/sites/worldwide/privacy/pdf/job/2025/oct/en.pdf
+                      - text: Download HP Job Applicant Privacy Notice
+                  - paragraph [ref=e1118]
+                - paragraph [ref=e1120]:
+                  - link [ref=e1121] [cursor=pointer]:
+                    - /url: https://www.hp.com/us-en/privacy/job-applicant-archive-notice.html
+                    - generic [ref=e1122]: Archive of previous job applicant privacy notices
+                - paragraph [ref=e1124]
+                - paragraph [ref=e1125]:
+                  - generic [ref=e1138]: ACCEPTANCE TO PROCESSING
+                - paragraph [ref=e1139]:
+                  - generic [ref=e1151]: "By entering “Yes”, you declare the following:"
+                - list [ref=e1152]:
+                  - listitem [ref=e1153]:
+                    - paragraph [ref=e1154]:
+                      - generic [ref=e1166]: I have read, understand, and consent to how my personal data and background check data, as well as third parties, will be processed in accordance with the terms of this Privacy Notice and to take necessary steps prior to entering into a contract.
+                  - listitem [ref=e1167]:
+                    - paragraph [ref=e1168]:
+                      - generic [ref=e1180]: I declare that HP has informed me that in case of gathering sensitive or personal data of minors, I have the right to refuse to provide the requested information and that this is sensitive information which could impact the privacy of the holder or whose wrongful use could cause discrimination.
+                  - listitem [ref=e1181]:
+                    - paragraph [ref=e1182]:
+                      - generic [ref=e1195]: I am authorized to provide third party personal data, which has been provided to HP, with regards to the referenced recruiting process.
+                  - listitem [ref=e1196]:
+                    - paragraph [ref=e1197]:
+                      - generic [ref=e1209]: I am authorizing the keeping of personal data for the purposes of contacting me for future job vacancies at HP companies.
+                  - listitem [ref=e1210]:
+                    - paragraph [ref=e1211]:
+                      - generic [ref=e1223]: I am authorizing the sharing of personal data with HP companies or service providers, operating in countries inside or outside of my home country, in accordance with the terms of this Privacy Notice.
+                  - listitem [ref=e1224]:
+                    - paragraph [ref=e1225]:
+                      - generic [ref=e1237]: I hereby release and hold harmless the Company, and any person, firm, or entity that collects, processes, shares or discloses my candidate data and background check data in accordance with this Privacy Policy from any claim or action, suit, litigation, proceeding, arbitration, investigation as well as from liability that might otherwise result from the collection, processing, sharing, or disclosure of my candidate data and background check data in accordance with the terms of this Privacy Notice.
+                - paragraph [ref=e1238]
+                - paragraph [ref=e1239]
+              - button "Read More" [ref=e1242] [cursor=pointer]:
+                - generic [ref=e1243]: Read More
+            - generic [ref=e1251]:
+              - checkbox "Yes, I have read and consent to the terms and conditions" [ref=e1253] [cursor=pointer]
+              - generic [ref=e1254] [cursor=pointer]: Yes, I have read and consent to the terms and conditions
+            - generic [ref=e1259]:
+              - button "Create Account" [ref=e1260] [cursor=pointer]
+              - button [ref=e1261] [cursor=pointer]: Create Account
+          - generic [ref=e1262]:
+            - text: Already have an account?
+            - button "Sign In" [ref=e1263] [cursor=pointer]
+          - button "Forgot your password?" [ref=e1265] [cursor=pointer]
+        - generic:
+          - generic:
+            - generic [ref=e1266]: Enter website. This input is for robots only, do not enter if you're human.
+            - textbox "Enter website. This input is for robots only, do not enter if you're human." [ref=e1267]
+  - generic [ref=e55]:
+    - generic [ref=e56]: Follow Us
+    - list [ref=e57]:
+      - listitem [ref=e58] [cursor=pointer]:
+        - link "X" [ref=e59]:
+          - /url: http://www.glassdoor.com/Overview/Working-at-HP-Inc-EI_IE1093161.11,17.htm
+      - listitem [ref=e63] [cursor=pointer]:
+        - link "YouTube" [ref=e64]:
+          - /url: http://www.youtube.com/playlist?list=PLlhQGpaGkhABbWXR7N0lw-QxCpGlOhRMz
+      - listitem [ref=e70] [cursor=pointer]:
+        - link "Facebook" [ref=e71]:
+          - /url: http://www.facebook.com/hpcareers
+      - listitem [ref=e75] [cursor=pointer]:
+        - link "Glassdoor" [ref=e76]:
+          - /url: https://twitter.com/hpcareers
+      - listitem [ref=e81] [cursor=pointer]:
+        - link "LinkedIn" [ref=e82]:
+          - /url: https://www.linkedin.com/company/hp
+    - generic [ref=e86]:
+      - img [ref=e90]
+      - generic [ref=e110]: © 2026 Workday, Inc. All rights reserved.

@@ -1,0 +1,128 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Lightspark" [ref=e6] [cursor=pointer]:
+        - /url: https://www.lightspark.com/
+        - img "Lightspark" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Lightspark’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /lightspark?utm_source=6y7RXp4o7y
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: Los Angeles HQ
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: On-site
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $140K – $165K • Offers Equity • Offers Bonus
+          - generic [ref=e34]:
+            - paragraph [ref=e35]: We take into account an individual’s qualifications, skillset and experience when determining salary. The salary range listed in the job posting reflects the new hire salary range across levels that would be applicable to the position and Los Angeles location. This role is eligible for health insurance, life insurance, 401k contribution, paid time off including vacation and sick leave and any other tax-reportable benefits. The final salary will be commensurate with the candidates final level and represents the base salary only.
+            - list [ref=e36]:
+              - listitem [ref=e37]:
+                - paragraph [ref=e38]: Health insurance coverage including medical, dental, and vision
+              - listitem [ref=e39]:
+                - paragraph [ref=e40]: Competitive salary
+              - listitem [ref=e41]:
+                - paragraph [ref=e42]: Stock options
+              - listitem [ref=e43]:
+                - paragraph [ref=e44]: Company paid life insurance
+              - listitem [ref=e45]:
+                - paragraph [ref=e46]: 20 paid vacation days a year, as well as paid holidays
+              - listitem [ref=e47]:
+                - paragraph [ref=e48]: Flexible work schedule
+              - listitem [ref=e49]:
+                - paragraph [ref=e50]: Matching 401k
+              - listitem [ref=e51]:
+                - paragraph [ref=e52]: FSA/DCA accounts
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: Generous family leave policies
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]: Annual bonuses
+      - generic [ref=e57]:
+        - tablist [ref=e58]:
+          - tab "Overview" [selected] [ref=e59] [cursor=pointer]
+          - tab "Application" [ref=e60] [cursor=pointer]
+        - tabpanel "Overview" [ref=e62]:
+          - generic [ref=e63]:
+            - paragraph [ref=e64]: Lightspark is creating the Money Grid, modern, open financial infrastructure that makes payments accessible, affordable, and instant for businesses and users worldwide. We're challenging the status quo, updating the current system, and empowering our partners to build better solutions. Together, we're building the most advanced financial infrastructure, open, instant, and global, inspiring a future where anyone, anywhere can access the full potential of digital money.
+            - paragraph [ref=e65]: We're hiring new grads to help build the next generation of open payments infrastructure. You'll ship production code across our stack, work directly with senior engineers, and build APIs that large companies use to move real money around the world.
+            - paragraph [ref=e66]: We move fast and we expect a lot. You'll own real projects end-to-end early, with tight feedback loops from senior engineers, and the AI tooling (and unlimited token budget) to actually move at the pace we're hiring for. You’ll learn a ton incredibly quickly, and you’ll feel the thrill and pride of having a real impact on products that matter deeply to the company and our customers. If you want to be one of many cogs at a big company, this isn't it. If you want to ship something every day and see it matter, keep reading.
+            - paragraph [ref=e67]
+            - paragraph [ref=e68]:
+              - strong [ref=e69]: "WHAT YOU’LL BE DOING:"
+            - list [ref=e70]:
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]:
+                  - strong [ref=e73]: "Architecting the Future of Payments:"
+                  - text: Design and ship production services and APIs powering global payments, including some of our flagship products that move serious volume.
+              - listitem [ref=e74]:
+                - paragraph [ref=e75]:
+                  - strong [ref=e76]: "AI-Augmented Engineering:"
+                  - text: You will heavily use claude code, codex, and in-house agentic coding tools to multiply your impact, automate common workflows, answer your own questions, and more. We're not stingy with tokens, and we expect you to get real leverage from these tools, not just autocomplete.
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]:
+                  - strong [ref=e79]: "Polyglot Fullstack Execution:"
+                  - text: You’ll be shipping high-quality code across Python and TypeScript with the curiosity to chip in with other languages like Go and Rust.
+              - listitem [ref=e80]:
+                - paragraph [ref=e81]:
+                  - strong [ref=e82]: "High-Bandwidth Collaboration:"
+                  - text: Working in-office from our Culver City headquarters, you will collaborate daily with senior engineers to solve complex distributed systems challenges in real-time. Our people are the best part of working at Lightspark. They’re brilliant, fun, passionate, and bring out the best in each other.
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]:
+                  - strong [ref=e85]: "Fueling High-Velocity Growth:"
+                  - text: Build at the intersection of AI, fintech, and Bitcoin infrastructure (and eat well, lunch is on us)
+                - paragraph [ref=e86]
+            - paragraph [ref=e87]:
+              - strong [ref=e88]: "WHAT WE’RE LOOKING FOR:"
+            - paragraph [ref=e89]: We are seeking high-velocity builders who thrive in the "zero-to-one" phase of engineering and bring intensity to everything they create.
+            - list [ref=e90]:
+              - listitem [ref=e91]:
+                - paragraph [ref=e92]:
+                  - strong [ref=e93]: "High-Impact Collaborative Ownership:"
+                  - text: We are an in-office company located in Culver City, designed for those who thrive on daily, high-bandwidth collaboration. We need engineers with an appetite for ownership and a high bar for your own output. You should want feedback, want to be pushed, and want to be the person the team can hand a hard problem to. You should have at least 1 prior experience in an engineering internship.
+              - listitem [ref=e94]:
+                - paragraph [ref=e95]:
+                  - strong [ref=e96]: "AI-Native Rapid Prototyping:"
+                  - text: "You hardly ever manually write code these days. you leverage agentic tools (ex: Claude, Cursor) to multiply your output. You have the foundational CS knowledge from a completed Bachelor’s or Master’s degree in Computer Science to know when the model is wrong, but the agility to lead AI-assisted workflows that move at an elite pace."
+              - listitem [ref=e97]:
+                - paragraph [ref=e98]:
+                  - strong [ref=e99]: "Mission-Driven Technical Curiosity:"
+                  - text: You have a deep-seated interest in fintech, crypto, or related technologies. More importantly, you are energized by the challenge of bringing Bitcoin, stablecoins, and open payments to mass adoption through real-world applications.
+              - listitem [ref=e100]:
+                - paragraph [ref=e101]:
+                  - strong [ref=e102]: "Adaptive Technical Agility:"
+                  - text: You are a flexible builder with hands-on programming experience via personal projects, hackathons, or coursework. You’ve built and shipped real things because you’re self-driven and curious. You are comfortable across a modern stack and have the energy to pivot between infrastructure/stability and new features without losing momentum.
+            - paragraph [ref=e103]
+            - paragraph [ref=e104]: Lightspark is on a mission to build the future of open, instant, and global financial infrastructure making payments accessible and affordable for everyone, everywhere. We're committed to creating a more inclusive and diverse workplace to reflect the customers we serve. We welcome interest from individuals of all backgrounds and levels of experience who share our mission. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or other applicable legally protected characteristics.
+            - paragraph [ref=e105]:
+              - emphasis [ref=e106]: We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the State of California Fair Chance Initiative for Hiring.
+          - link "Apply for this Job" [ref=e107] [cursor=pointer]:
+            - /url: /lightspark/7c6c25a6-9674-4f8f-93c3-479b5926702c/application?utm_source=6y7RXp4o7y
+            - button "Apply for this Job" [ref=e108]
+  - contentinfo [ref=e109]:
+    - link "Learn more about Ashby" [ref=e110] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e111]: Powered by
+      - img "Ashby" [ref=e112]
+    - paragraph [ref=e118]:
+      - link "Privacy Policy" [ref=e119] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e120] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e121] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

@@ -1,0 +1,191 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - link [ref=e316] [cursor=pointer]:
+      - /url: ""
+      - text: Skip to main content
+    - generic [ref=e317]:
+      - paragraph [ref=e11]: This website uses cookies to enhance user experience and to analyze performance and traffic on our website. Some of these cookies will share information about your visit with our analytics partners to provide us with further insights, please accept or decline these cookies below.
+      - generic [ref=e12]:
+        - button [ref=e318] [cursor=pointer]: Decline
+        - button [ref=e319] [cursor=pointer]: Accept Cookies
+    - banner [ref=e22]:
+      - generic [ref=e24]:
+        - link [ref=e320] [cursor=pointer]:
+          - /url: https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions
+          - img [ref=e321]
+        - heading [level=1] [ref=e322]: Careers
+        - generic [ref=e32]:
+          - button [ref=e323] [cursor=pointer]:
+            - generic [ref=e39]: Sign In
+          - navigation [ref=e40]:
+            - button [ref=e324] [cursor=pointer]: Home
+            - button [ref=e325] [cursor=pointer]: Search for Jobs
+            - button [ref=e326] [cursor=pointer]: Introduce Yourself
+    - generic [ref=e48]:
+      - alert [ref=e49]: Software Engineer I page is loaded
+      - generic [ref=e50]:
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - heading [level=2] [ref=e327]: Software Engineer I
+            - button [ref=e328] [cursor=pointer]: Apply
+          - img [ref=e329]
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - generic [ref=e62]:
+              - generic [ref=e69]:
+                - term [ref=e70]: remote type
+                - definition [ref=e71]: Hybrid
+              - generic [ref=e78]:
+                - term [ref=e79]: locations
+                - definition [ref=e80]: Austin, TX
+            - generic [ref=e81]:
+              - generic [ref=e90]:
+                - term [ref=e91]: time type
+                - definition [ref=e92]: Full time
+              - generic [ref=e101]:
+                - term [ref=e102]: posted on
+                - definition [ref=e103]: Posted Yesterday
+              - generic [ref=e112]:
+                - term [ref=e113]: job requisition id
+                - definition [ref=e114]: JR104657
+          - generic [ref=e116]:
+            - paragraph [ref=e117]: WHO WE ARE
+            - paragraph [ref=e118]
+            - paragraph [ref=e119]:
+              - generic [ref=e121]: Apex Fintech Solutions (Apex) powers innovation and the future of digital wealth management by building tech-forward solutions that help simplify, automate, and facilitate access to financial markets for all. Our robust suite of fintech software enables us to support clients such as Stash, Betterment, SoFi, Webull, and eToro, amongst many others; collectively, Apex powers access to the stock market for over 22+ million end customers.
+            - paragraph [ref=e122]
+            - paragraph [ref=e125]:
+              - generic [ref=e126]: At Apex, we are changing how the securities industry operates by reinventing the status quo, which was manual, slow, and accessible only by the ultra-wealthy. We're digitizing and democratizing systems so that everyone has an opportunity to invest.
+            - paragraph [ref=e127]
+            - paragraph [ref=e130]:
+              - generic [ref=e131]: "When you're at Apex, you drive this change. You're part of a global team with a clear vision: to be the trusted technology that powers the digital economy. Our offices in Austin, Dallas, Chicago, New York, Portland, Belfast, and Manila are home to over 1,000 employees."
+            - paragraph [ref=e132]
+            - paragraph [ref=e135]:
+              - generic [ref=e136]: Together, we’re shaping the future of financial innovation. Embrace change. Solve big. Win together. And be G.R.E.A.T. — grit, results, empathy, accountability, and teamwork — with Apex.
+            - paragraph [ref=e137]
+            - paragraph [ref=e140]:
+              - generic [ref=e141]: "We’re proud to be recognized for the innovative work we do, the purpose-driven nature of our work, and the collaborative culture we’ve created. Here are just a few of the many awards we’ve recently received:"
+            - paragraph [ref=e142]
+            - paragraph [ref=e145]:
+              - generic [ref=e147]: Best Places to Work
+            - paragraph [ref=e148]:
+              - generic [ref=e149]: 2026, 2025, 2024, 2023 - Presented by BuiltIn
+            - paragraph [ref=e150]
+            - paragraph [ref=e153]:
+              - generic [ref=e155]: WealthTech of the Year
+            - paragraph [ref=e156]:
+              - generic [ref=e157]: 2025 - Presented by US FinTech Awards
+            - paragraph [ref=e158]
+            - paragraph [ref=e161]:
+              - generic [ref=e163]: The World’s Top 250 Fintech Companies
+            - paragraph [ref=e164]:
+              - generic [ref=e165]: 2024 - Presented by CNBC
+            - paragraph [ref=e166]
+            - paragraph [ref=e167]: ABOUT THIS ROLE
+            - paragraph [ref=e168]
+            - generic [ref=e179]:
+              - paragraph [ref=e180]: This is an incredible opportunity to join Apex's Account Transfer team in Austin, Texas. As a software engineer you will work closely with other engineers, tech leads, product managers, and architects to build the next generation version of Apex Account Transfer services. The Software Engineer will be an integral part of our team supporting the technology organization in a transformation toward a highly scalable and resilient system. This is a role for someone who flourishes in a fast-paced and collaborative environment. Duties/Responsibilities
+              - list [ref=e181]:
+                - listitem [ref=e182]:
+                  - paragraph [ref=e183]: Working with a variety of languages/frameworks, such as Java, Go, and technologies such as RDBMS, Kubernetes, and Docker, Google Cloud Platform
+                - listitem [ref=e184]:
+                  - paragraph [ref=e185]: Designing, developing, testing, deploying, maintaining and improving software
+                - listitem [ref=e186]:
+                  - paragraph [ref=e187]: Building resilient, self-scaling, self-healing services that allow you to sleep through the night
+                - listitem [ref=e188]:
+                  - paragraph [ref=e189]: Writing high-quality, well-tested code. Maintaining high code-quality standards across your team via code reviews
+                - listitem [ref=e190]:
+                  - paragraph [ref=e191]: Encouraging innovation by questioning business processes throughout the company
+              - paragraph [ref=e192]: Education And/or Experience
+              - list [ref=e193]:
+                - listitem [ref=e194]:
+                  - paragraph [ref=e195]: Bachelor’s degree in Computer Science, Software Engineering, Electrical or Computer Engineering, or a related field.
+                - listitem [ref=e196]:
+                  - paragraph [ref=e197]: 1+ years of prior work experience preferred
+              - paragraph [ref=e198]: Required Skills/Abilities
+              - list [ref=e199]:
+                - listitem [ref=e200]:
+                  - paragraph [ref=e201]: Experience of software development skills in a modern object-oriented programming language ideally in Golang is also considered a plus, an RDBMS or SQL, and the ability to learn new languages and technologies quickly
+                - listitem [ref=e202]:
+                  - paragraph [ref=e203]: Excellent problem-solving skills with high attention to detail
+                - listitem [ref=e204]:
+                  - paragraph [ref=e205]: Effective communication skills
+                - listitem [ref=e206]:
+                  - paragraph [ref=e207]: Previous knowledge in financial markets isn’t required, but interest is a plus
+                - listitem [ref=e208]:
+                  - paragraph [ref=e209]: "Adaptability: while you enjoy establishing process and standards, you understand the need to be flexible and enjoy trying new things"
+              - paragraph [ref=e210]: Work Environment
+              - list [ref=e211]:
+                - listitem [ref=e212]:
+                  - paragraph [ref=e213]: This job operates operates in hybrid, office environment 3 days per week.
+              - paragraph [ref=e214]: "#engineering #entry-level #full-time #APEX"
+            - paragraph [ref=e215]
+            - paragraph [ref=e216]: Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties, or responsibilities required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.
+            - paragraph [ref=e217]
+            - paragraph [ref=e218]
+            - paragraph [ref=e219]: Our Rewards
+            - paragraph [ref=e220]
+            - paragraph [ref=e221]: We offer a robust package of employee perks and benefits, including healthcare benefits (medical, dental and vision, EAP), competitive PTO, 401k match, parental leave, and HSA contribution match. We also provide our employees with a paid subscription to the Calm app and offer generous external learning and tuition reimbursement benefits. At AFS, we offer a hybrid work schedule for most roles that allows employees to have the flexibility of working from home and one of our primary offices.
+            - paragraph [ref=e222]
+            - paragraph [ref=e223]: EEO Statement
+            - paragraph [ref=e224]
+            - paragraph [ref=e225]: Apex Fintech Solutions is an equal opportunity employer that does not discriminate on the basis of race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability, veteran status, marital status, or any other protected characteristic. Our hiring practices ensure that all qualified applicants receive fair consideration without regard to these characteristics.
+            - paragraph [ref=e226]
+            - paragraph [ref=e227]: Disability Statement
+            - paragraph [ref=e228]
+            - paragraph [ref=e229]:
+              - text: Apex Fintech Solutions is committed to creating an inclusive and accessible workplace for all candidates, including those with disabilities. We are dedicated to ensuring equal employment opportunities and providing reasonable accommodations to qualified individuals with disabilities. If you require reasonable accommodations to participate in the application or interview process, please submit your request via the
+              - link [ref=e330] [cursor=pointer]:
+                - /url: https://forms.monday.com/forms/b649c248edd0e959d5dedf5614bb5793?r=use1
+                - text: Candidate Accommodation Requests Form
+              - text: . We will work with you to provide the necessary accommodations to ensure your full participation in our hiring process.
+            - paragraph [ref=e231]
+      - generic [ref=e233]:
+        - generic [ref=e234]:
+          - heading [level=3] [ref=e331]: Why work here?
+          - paragraph [ref=e240]: At Apex, we aim to enable frictionless investing for everyone. Help us in our mission to democratize finance, and apply to our open roles today.
+        - generic [ref=e242]:
+          - heading [level=3] [ref=e332]: Get In Touch
+          - paragraph [ref=e246]: Introduce yourself to our recruiters and we'll get in touch if there's a role that seems like a good match.
+          - button [ref=e333] [cursor=pointer]: Get Started
+        - generic [ref=e251]:
+          - heading [level=3] [ref=e334]: About Us
+          - paragraph [ref=e257]: At Apex, we stand for efficiency and transparency. In every office, you’ll find passionate, committed, dedicated teams driven to find smart solutions to solve our clients’ toughest challenges. We are passionate about our employees, providing the benefits and perks that elevate you, reward you, and help you give back. We provide great flexibility, a collaborative, open work space, and real potential to grow with the firm.
+    - generic [ref=e258]:
+      - generic [ref=e259]: Follow Us
+      - list [ref=e260]:
+        - listitem [ref=e261] [cursor=pointer]:
+          - link [ref=e335]:
+            - /url: https://twitter.com/apexfintech
+        - listitem [ref=e266] [cursor=pointer]:
+          - link [ref=e336]:
+            - /url: https://www.facebook.com/apexfintechsolutions/
+        - listitem [ref=e271] [cursor=pointer]:
+          - link [ref=e337]:
+            - /url: https://www.glassdoor.com/Overview/Working-at-Apex-Fintech-Solutions-EI_IE599382.11,33.htm
+        - listitem [ref=e277] [cursor=pointer]:
+          - link [ref=e338]:
+            - /url: https://www.youtube.com/channel/UC-EfblC9n-E-fw0k6serhSw
+        - listitem [ref=e284] [cursor=pointer]:
+          - link [ref=e339]:
+            - /url: https://www.linkedin.com/company/apex-fintech/
+      - link [ref=e340] [cursor=pointer]:
+        - /url: https://peak6.com/privacy-policy/
+        - text: PEAK6 Privacy Policy
+      - generic [ref=e291]:
+        - img [ref=e295]
+        - generic [ref=e315]: © 2026 Workday, Inc. All rights reserved.
+  - dialog "Start Your Application" [ref=e344]:
+    - button "Close" [active] [ref=e346] [cursor=pointer]
+    - generic [ref=e352]:
+      - heading "Start Your Application" [level=2] [ref=e353]
+      - heading "Software Engineer I" [level=3] [ref=e354]
+      - button "Autofill with Resume" [ref=e358] [cursor=pointer]
+      - button "Apply Manually" [ref=e362] [cursor=pointer]
+      - button "Use My Last Application" [ref=e367] [cursor=pointer]
+      - iframe [ref=e371]:
+        - iframe [ref=f5e4]:
+          - main [ref=f7e2]:
+            - button "Apply With LinkedIn" [ref=f7e3] [cursor=pointer]:
+              - img [ref=f7e5]
+              - generic [ref=f7e7]: Apply With LinkedIn

@@ -1,0 +1,184 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Handshake" [ref=e6] [cursor=pointer]:
+        - /url: https://joinhandshake.com/
+        - img "Handshake" [ref=e7]
+    - link "Back to Handshake’s Job Listings" [ref=e8] [cursor=pointer]:
+      - /url: https://www.joinhandshake.com/careers/#open-roles
+      - img [ref=e9]
+    - listitem
+  - generic [ref=e11]:
+    - heading "Machine Learning Engineer I" [level=1] [ref=e13]
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - heading "Location" [level=2] [ref=e17]
+          - paragraph [ref=e18]: San Francisco, CA
+        - generic [ref=e19]:
+          - heading "Employment Type" [level=2] [ref=e20]
+          - paragraph [ref=e21]: Full time
+        - generic [ref=e22]:
+          - heading "Department" [level=2] [ref=e23]
+          - paragraph [ref=e24]: Engineering
+        - generic [ref=e25]:
+          - heading "Compensation" [level=2] [ref=e26]
+          - list [ref=e27]:
+            - listitem [ref=e28]:
+              - generic [ref=e29]: $151K – $189K
+          - paragraph [ref=e31]:
+            - emphasis [ref=e32]: For cash compensation, we set standard ranges for all U.S.-based roles based on function, level, and geographic location, benchmarked against similar stage growth companies. In order to be compliant with local legislation, as well as to provide greater transparency to candidates, we share salary ranges on all job postings regardless of desired hiring location. Final offer amounts are determined by multiple factors, including geographic location as well as candidate experience and expertise, and may vary from the amounts listed above.
+      - generic [ref=e33]:
+        - tablist [ref=e34]:
+          - tab "Overview" [selected] [ref=e35] [cursor=pointer]
+          - tab "Application" [ref=e36] [cursor=pointer]
+        - tabpanel "Overview" [ref=e38]:
+          - generic [ref=e39]:
+            - paragraph [ref=e40]:
+              - strong [ref=e41]: About Handshake
+            - paragraph [ref=e42]: Handshake was founded on a simple belief that everyone deserves a path to a great career, regardless of where they went to school or who they know. Today, we power 25 million job seekers, 1 million+ employers, and 1,600 educational institutions.
+            - paragraph [ref=e43]: In 2025, we started Handshake AI and built the fastest-growing AI data business in history. We work directly with frontier AI lab researchers to create evaluations, publish benchmarks, and push the boundary of data. We’ve grown from $0 to ~$1B run rate and pay ~$60M to over 30K individuals every month.
+            - paragraph [ref=e44]:
+              - strong [ref=e45]: "Why join Handshake now:"
+            - list [ref=e46]:
+              - listitem [ref=e47]:
+                - paragraph [ref=e48]: Shape how every career evolves in the AI economy, at global scale, with impact your friends, family and peers can see and feel
+              - listitem [ref=e49]:
+                - paragraph [ref=e50]: Partner hand-in-hand with world-class AI labs, Fortune 500 partners and the world’s top educational institutions
+              - listitem [ref=e51]:
+                - paragraph [ref=e52]: Work together with engineers, scientists, operators, and more from Palantir, Meta, Scale AI, and former YC founders
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: Build a massive, fast-growing business with billions in revenue
+            - paragraph [ref=e55]:
+              - strong [ref=e56]: About Handshake AI
+            - paragraph [ref=e57]: Human data is the core infrastructure to AI advancement. Frontier AI labs currently improve model capabilities with various data-intensive post-training techniques. We believe that data spend for AI training will increase by 3-5x in the next few years and continue for much longer as models take on new domains. Handshake AI supports all of the frontier AI labs, working on their most complex data at the largest scale.
+            - paragraph [ref=e58]:
+              - strong [ref=e59]: "The ML Opportunity at Handshake:"
+            - paragraph [ref=e60]:
+              - text: Machine Learning is at the heart of Handshake's mission to democratize access to opportunity. Every student deserves to be seen, not just by any employer, but by the
+              - emphasis [ref=e61]: right
+              - text: one. Machine learning is how we personalize discovery, match intent with opportunity, and drive better outcomes at scale.
+            - paragraph [ref=e62]:
+              - strong [ref=e63]: "What Makes This Role Unique:"
+            - list [ref=e64]:
+              - listitem [ref=e65]:
+                - paragraph [ref=e66]:
+                  - strong [ref=e67]: "End-to-end ownership:"
+                  - text: You'll work on the entire ML lifecycle, from data to deployment, not just one part
+              - listitem [ref=e68]:
+                - paragraph [ref=e69]:
+                  - strong [ref=e70]: "Product impact:"
+                  - text: Your ML systems directly impact millions of users and drive critical business metrics
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]:
+                  - strong [ref=e73]: "Cutting-edge infrastructure:"
+                  - text: Work with embedding-based retrieval, Graph Neural Networks, and multi-stage rankers
+              - listitem [ref=e74]:
+                - paragraph [ref=e75]:
+                  - strong [ref=e76]: "Responsible AI:"
+                  - text: Contribute to explainability, fairness, and quality practices
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]:
+                  - strong [ref=e79]: "Scale:"
+                  - text: Billions of data points powering our ML systems
+              - listitem [ref=e80]:
+                - paragraph [ref=e81]:
+                  - strong [ref=e82]: "World-class team:"
+                  - text: Leadership from Scale AI, OpenAI, xAI, Notion, Coinbase, and Palantir
+            - paragraph [ref=e83]:
+              - strong [ref=e84]: What You'll Do
+            - list [ref=e85]:
+              - listitem [ref=e86]:
+                - paragraph [ref=e87]:
+                  - strong [ref=e88]: "Innovator:"
+                  - text: Develop and iterate on machine learning models and features that directly influence user experience across lifecycle, notifications, and monetization — with guidance from senior engineers.
+              - listitem [ref=e89]:
+                - paragraph [ref=e90]:
+                  - strong [ref=e91]: "Collaborator:"
+                  - text: Partner with senior engineers, data scientists, and product managers to develop and iterate on machine learning models that improve product features and user experience.
+              - listitem [ref=e92]:
+                - paragraph [ref=e93]:
+                  - strong [ref=e94]: "Learner:"
+                  - text: Grow your technical depth by working alongside experienced ML practitioners, picking up best practices in model development, experimentation, and production deployment.
+            - paragraph [ref=e95]:
+              - strong [ref=e96]: Desired Capabilities
+            - list [ref=e97]:
+              - listitem [ref=e98]:
+                - paragraph [ref=e99]: Bachelor’s or advanced degree in Computer Science, Data Science, or a related field
+              - listitem [ref=e100]:
+                - paragraph [ref=e101]: 3 years of experience in machine learning, data science, or a related area
+              - listitem [ref=e102]:
+                - paragraph [ref=e103]: Proficient in Python, with hands-on experience in frameworks such as scikit-learn, PyTorch, or TensorFlow
+              - listitem [ref=e104]:
+                - paragraph [ref=e105]: Strong foundation in core ML concepts, including classification, regression, ranking, and model evaluation
+            - paragraph [ref=e106]:
+              - strong [ref=e107]: Extra Credit
+            - list [ref=e108]:
+              - listitem [ref=e109]:
+                - paragraph [ref=e110]: Exposure to areas such as recommendations, personalization, NLP, deep learning, LLMs, or explainable AI
+              - listitem [ref=e111]:
+                - paragraph [ref=e112]: Familiarity with the ML lifecycle (e.g., experiment tracking, model monitoring, feature pipelines)
+              - listitem [ref=e113]:
+                - paragraph [ref=e114]: Experience with cloud platforms (GCP, AWS, or Azure)
+              - listitem [ref=e115]:
+                - paragraph [ref=e116]: Clear communicator, able to translate technical work for diverse audiences
+              - listitem [ref=e117]:
+                - paragraph [ref=e118]: Collaborative mindset with experience working cross-functionally with product, analytics, and engineering teams
+            - paragraph [ref=e119]:
+              - strong [ref=e120]: Perks
+            - paragraph [ref=e121]: Handshake delivers benefits that help you feel supported—and thrive at work and in life.
+            - paragraph [ref=e122]:
+              - emphasis [ref=e123]:
+                - strong [ref=e124]: The below benefits are for full-time US employees.
+            - paragraph [ref=e125]:
+              - text: 🎯
+              - strong [ref=e126]: "Ownership:"
+              - text: Equity in a fast-growing company
+            - paragraph [ref=e127]:
+              - text: 💰
+              - strong [ref=e128]: Financial Wellness
+              - text: ": 401(k) match, competitive compensation, financial coaching"
+            - paragraph [ref=e129]:
+              - text: 🍼
+              - strong [ref=e130]: "Family Support:"
+              - text: Paid parental leave, fertility benefits, parental coaching
+            - paragraph [ref=e131]:
+              - text: 💝
+              - strong [ref=e132]: "Wellbeing:"
+              - text: Medical, dental, and vision, mental health support, $500 wellness stipend
+            - paragraph [ref=e133]:
+              - text: 📚
+              - strong [ref=e134]: "Growth:"
+              - text: $2,000 learning stipend, ongoing development
+            - paragraph [ref=e135]:
+              - text: 💻
+              - strong [ref=e136]: "Remote & Office:"
+              - text: Internet, commuting, and free lunch/gym in our SF office
+            - paragraph [ref=e137]:
+              - text: 🏝
+              - strong [ref=e138]: "Time Off:"
+              - text: Flexible PTO, 15 holidays + 2 flex days
+            - paragraph [ref=e139]:
+              - text: 🤝
+              - strong [ref=e140]: "Connection:"
+              - text: Team outings & referral bonuses
+            - paragraph [ref=e141]:
+              - text: Explore our mission, values, and comprehensive US benefits at
+              - link "joinhandshake.com/careers" [ref=e142] [cursor=pointer]:
+                - /url: http://joinhandshake.com/careers
+              - text: .
+          - link "Apply for this Job" [ref=e143] [cursor=pointer]:
+            - /url: /handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application
+            - button "Apply for this Job" [ref=e144]
+  - contentinfo [ref=e145]:
+    - link "Learn more about Ashby" [ref=e146] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e147]: Powered by
+      - img "Ashby" [ref=e148]
+    - paragraph [ref=e154]:
+      - link "Privacy Policy" [ref=e155] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e156] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e157] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

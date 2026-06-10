@@ -1,0 +1,78 @@
+- generic [active] [ref=e1]:
+  - link "Secureframe logo" [ref=e4] [cursor=pointer]:
+    - /url: https://secureframe.com/careers
+    - img "Secureframe logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "New Grad Software Engineer, Product" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: New York, NY
+          - generic [ref=e14]: Engineering /
+          - generic [ref=e15]: Hybrid /
+          - generic [ref=e16]: Hybrid
+      - link "apply for this job" [ref=e18] [cursor=pointer]:
+        - /url: https://jobs.lever.co/secureframe/5138ce50-65dc-4818-8940-a78b3d0bbd4f/apply
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - text: At
+          - link "Secureframe" [ref=e22] [cursor=pointer]:
+            - /url: https://secureframe.com/
+          - text: ", we are not just a company; we are at the forefront of revolutionizing cybersecurity compliance. Recognized as one of the industry's most innovative and trusted providers, Secureframe has consistently received accolades for our advanced technology solutions and commitment to excellence. With a robust portfolio of products that safeguard thousands of businesses worldwide, we have been featured in major publications such as"
+          - link "Forbes’ next billion dollar startups" [ref=e24] [cursor=pointer]:
+            - /url: https://www.forbes.com/sites/amyfeldman/2022/08/16/next-billion-dollar-startups-2022/
+          - text: ", TechCrunch, and The Wall Street Journal for our transformative impact on the way companies achieve and maintain compliance standards."
+        - generic [ref=e26]: "As we continue to grow, our mission remains clear: to provide seamless, secure compliance solutions that enable businesses to focus on what they do best. Joining Secureframe means becoming part of a dynamic team dedicated to professional excellence and continuous learning in an environment that values creativity and forward-thinking."
+        - generic [ref=e28]: Secureframe is backed by top VCs including Kleiner Perkins, Accomplice, Gradient Ventures (Google’s AI Fund), BoxGroup, Village Global, and many more.
+        - generic [ref=e30]:
+          - strong [ref=e32]: About the role
+          - generic [ref=e34]: We’re an impactful and highly collaborative team aiming to bring excellence to the world of security and compliance. Every member of the team is an owner, with significant responsibility and the opportunity to play a critical role in shaping the team and defining our culture.
+          - paragraph [ref=e36]: This isn't a typical new grad role where you fix bugs for six months. You'll own real systems from day one. This is a hybrid position based in New York City.
+      - generic [ref=e38]:
+        - heading "Benefits" [level=3] [ref=e39]
+        - list [ref=e42]:
+          - listitem [ref=e43]: Medical, dental, and vision benefits for you and your dependent(s)
+          - listitem [ref=e44]: Flexible PTO
+          - listitem [ref=e45]: 401(k)
+          - listitem [ref=e46]: Paid family leave
+          - listitem [ref=e47]: Ground floor opportunity as an early member of the team
+      - generic [ref=e49]:
+        - heading "What you’ll do" [level=3] [ref=e50]
+        - list [ref=e53]:
+          - listitem [ref=e54]: Collaborate with Product Management, Design, and other stakeholders within Engineering to solve real business problems
+          - listitem [ref=e55]: "Own projects end-to-end: scope the problem, architect the solution, write the code, deploy it, and measure the impact"
+          - listitem [ref=e56]: Move fast in a high-velocity, AI powered, engineering environment
+          - listitem [ref=e57]: Learn from a world class team of senior and staff engineers to overcome complex technical problems
+          - listitem [ref=e58]: Build and scale zero-to-one products to dominate emerging cybersecurity markets
+      - generic [ref=e60]:
+        - heading "Who we’re looking for" [level=3] [ref=e61]
+        - list [ref=e64]:
+          - listitem [ref=e65]: Bachelors degree in computer science, engineering, physics, math, or a related field with a graduation date in Winter 2025 or Spring 2026
+          - listitem [ref=e66]: Prior professional experience including internships, co-ops, and work with start ups.
+          - listitem [ref=e67]: Founder mindset looking to learn what it takes to build and scale an early at an stage company
+          - listitem [ref=e68]: Proficiency in modern programming languages such as Ruby, TypeScript, or Python
+          - listitem [ref=e69]: Hands-on experience building with LLMs, including RAG pipelines, multi-step agents, or AI-powered workflows
+          - listitem [ref=e70]: A strong track record of building side projects, open source contributions, or independent work that demonstrates initiative and follow-through
+          - listitem [ref=e71]: "Production-minded: you write code that ships, and you care as much about getting it in front of users as you do about clean abstractions"
+          - listitem [ref=e72]: Resourceful and self-directed — when you hit a wall, you find a way around it
+          - listitem [ref=e73]: Solid understanding of computer science fundamentals
+          - listitem [ref=e74]: Strong communication and collaboration skills
+      - generic [ref=e75]:
+        - generic [ref=e76]: Secureframe is an equal opportunity employer. We aim to create an environment where every team member at Secureframe feels like they belong so they can have a greater impact on our business and customers. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+        - generic [ref=e78]: Collaboration, connection, and having fun with colleagues is an important part of our culture as a remote first company. Therefore, all employees must be able to travel by air to company offsites two to four times per year (reasonable accommodations will be made where appropriate).
+        - generic [ref=e81]: We've become aware of fraudulent job offers and recruiters falsely claiming to represent Secureframe.
+        - generic [ref=e83]: "Please note:"
+        - generic [ref=e85]: "1. Official Communication: All genuine Secureframe recruiting communication and job offers are sent from @secureframe.com email addresses."
+        - generic [ref=e87]: "2. No Fees: We never ask for payments or fees from job applicants at any stage."
+      - generic [ref=e89]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e91] [cursor=pointer]:
+        - /url: https://jobs.lever.co/secureframe/5138ce50-65dc-4818-8940-a78b3d0bbd4f/apply
+  - generic [ref=e93]:
+    - paragraph [ref=e94]:
+      - link "Secureframe Home Page" [ref=e95] [cursor=pointer]:
+        - /url: https://secureframe.com
+    - link "Jobs powered by Lever logo" [ref=e96] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e97]: Jobs powered by
+      - img "Lever logo" [ref=e98]

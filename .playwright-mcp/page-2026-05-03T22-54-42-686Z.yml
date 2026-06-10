@@ -1,0 +1,258 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]: .
+    - generic [ref=e4]: ..
+    - generic [ref=e5]: .
+  - generic [ref=e7]:
+    - link "Skip to main content." [ref=e8] [cursor=pointer]:
+      - /url: "#main"
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - banner [ref=e13]:
+          - generic [ref=e16]:
+            - link "Go to Home Page" [ref=e18] [cursor=pointer]:
+              - /url: https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/?utm_source=Simplify&ref=Simplify
+            - generic [ref=e19]:
+              - link "Manage profile" [ref=e22] [cursor=pointer]:
+                - /url: https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile/sign-in
+                - generic [ref=e23]: 
+              - button "Open menu" [ref=e25] [cursor=pointer]:
+                - generic [ref=e26]:
+                  - emphasis [ref=e27]
+                  - emphasis [ref=e28]
+                  - emphasis [ref=e29]
+        - main [ref=e31]:
+          - generic [ref=e38]:
+            - generic [ref=e41]:
+              - button "Add Job to My Job Selections" [ref=e43] [cursor=pointer]: 
+              - link "View More Jobs" [ref=e45] [cursor=pointer]:
+                - /url: https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?utm_source=Simplify&ref=Simplify
+                - generic [ref=e46]:
+                  - text: 
+                  - generic [ref=e47]: View More Jobs
+            - article [ref=e48]:
+              - generic [ref=e54]:
+                - generic [ref=e58]:
+                  - heading "Software Development Engineer I" [level=1] [ref=e60]
+                  - generic [ref=e62]: Arlington, TX, United States (Hybrid)
+                  - generic [ref=e67]:
+                    - emphasis [ref=e68]: 
+                    - generic [ref=e69]: Trending
+                - generic [ref=e77]:
+                  - heading "Job Description" [level=2] [ref=e78]
+                  - generic [ref=e79]:
+                    - paragraph [ref=e80]:
+                      - strong [ref=e81]: Why GM Financial Technology?
+                    - paragraph [ref=e82]: Innovation isn’t just a talking point at GM Financial, it’s how we operate. From generative AI and cloud-native technologies to peer-led learning and hackathons, our tech teams are building real solutions that make a difference. We’re committed to AI-powered transformation, using advanced machine learning and automation to help us reimagine customer interactions and modernize operations, positioning GM Financial as a leader in digital innovation within a dynamic industry.
+                    - paragraph [ref=e83]: Join us and discover a workplace where your ideas matter, your development is prioritized, and you can truly make a global impact.
+                    - paragraph [ref=e84]
+                    - paragraph [ref=e85]:
+                      - strong [ref=e86]: "Location:"
+                      - text: Arlington, TX
+                    - paragraph [ref=e87]:
+                      - strong [ref=e88]: "Work Arrangement:"
+                      - text: Hybrid – 2 days onsite, 3 days remote per week
+                    - paragraph [ref=e89]:
+                      - strong [ref=e90]: "Sponsorship Notice:"
+                      - text: At this time,
+                      - strong [ref=e91]: we are unable
+                      - text: to offer employment sponsorship for this position. This includes, but is not limited to,
+                      - strong [ref=e92]: H-1B, TN, L1, and OPT visa types
+                      - text: .
+                - generic [ref=e98]:
+                  - heading "Responsibilities" [level=2] [ref=e99]
+                  - generic [ref=e100]:
+                    - paragraph [ref=e101]:
+                      - strong [ref=e102]: Software Development at GMF
+                    - paragraph [ref=e103]: As a Software Developer at GM Financial you will be fueled by all areas of technology including multiple domains, AI technology, new tools and coding languages. This role provides you the opportunity to hit the road with the best of your abilities and turn the corner of your new career.
+                    - paragraph [ref=e104]:
+                      - strong [ref=e105]: What makes you a dream candidate?
+                    - list [ref=e106]:
+                      - listitem [ref=e107]: Demonstrate competency in the software development practices performed by Scrum teams
+                      - listitem [ref=e108]: "Develop product features for any or all of the following: data marketplaces, mobile applications, web applications and API services"
+                      - listitem [ref=e109]: Participate in migration to the public cloud within the team as appropriate
+                      - listitem [ref=e110]: Contribute to test automation and participating in peer reviews to increase product quality
+                      - listitem [ref=e111]: Maintain a production-first mindset focused on scale, uptime and ability to rapidly triage/resolve production issues
+                      - listitem [ref=e112]: Invest in our Agile practice to continuously improve product quality, time to market and team member happiness
+                - generic [ref=e118]:
+                  - heading "Qualifications" [level=2] [ref=e119]
+                  - generic [ref=e120]:
+                    - paragraph [ref=e121]:
+                      - strong [ref=e122]: Have Other Skills? We Use These Too
+                    - list [ref=e123]:
+                      - listitem [ref=e124]: Software development expertise in the high-level programming language used by the product team
+                      - listitem [ref=e125]: Data and query analysis and optimization to deliver scalable, performant products and services
+                      - listitem [ref=e126]: Test data management to drive automated, repeatable, and reliable testing
+                      - listitem [ref=e127]: Participate in new feature development, automated tests, and the implementation of security controls
+                      - listitem [ref=e128]: Experience working in Agile Scrum teams, suggesting and contributing to improvements (getting better/faster/happier)Demonstrates software development proficiency
+                      - listitem [ref=e129]: Actively uses peer reviews and seeks out learning or other feedback mechanisms to improve software development skills
+                      - listitem [ref=e130]: Forms relationships to effectively accomplish tasks and manage dependencies
+                      - listitem [ref=e131]: Strong interpersonal, verbal, and writing skills
+                      - listitem [ref=e132]:
+                        - text: "The SDE will have experience with the following technologies as required for the product being developed:"
+                        - list [ref=e133]:
+                          - listitem [ref=e134]: "Low-code environments: Logic Apps, Outsystems"
+                          - listitem [ref=e135]: "Enterprise Service Bus: Tibco BusinessWorks (APIs and integration workflows)"
+                          - listitem [ref=e136]: "Pipeline Automation: Azure DevOps (YAML, ARM), Terraform, Jenkins, Chef, Octopus Deploy"
+                          - listitem [ref=e137]: "Code Scanning: SonarQube, Checkmarx"
+                          - listitem [ref=e138]: "Source Code repos: Git"
+                          - listitem [ref=e139]: "Mobile: Xamarin.iOS, Xamarin.Android, Xamarin.Forms"
+                          - listitem [ref=e140]: "UI: Angular, Javascript, CSS, Node.js, ASP.NET MVC"
+                          - listitem [ref=e141]: "Containerization: Azure Kubernetes Service, Kubernetes (open source), Docker"
+                          - listitem [ref=e142]: "High level programming languages: Java, C# (.NET MVC and .NET Core), Go"
+                          - listitem [ref=e143]: "Scripting: Powershell, Bash"
+                          - listitem [ref=e144]: "Database: Oracle, Microsoft SQL Server, NoSQL (e.g. CosmosDB)"
+                          - listitem [ref=e145]: "Test Automation: Xamarin.UITest, Specflow, Selenium, Postman, Maven, TestNG, JMeter"
+                          - listitem [ref=e146]: "Operating systems: Windows, Linux"
+                    - paragraph [ref=e147]
+                    - paragraph [ref=e148]:
+                      - strong [ref=e149]: Work Experience
+                    - list [ref=e150]:
+                      - listitem [ref=e151]: Experience in software development and test automation required
+                    - paragraph [ref=e152]
+                    - paragraph [ref=e153]:
+                      - strong [ref=e154]: Education
+                    - list [ref=e155]:
+                      - listitem [ref=e156]: High School Diploma or equivalent required
+                      - listitem [ref=e157]: Bachelor’s Degree in Computer Science or related Engineering field; and/or commensurate experience preferred
+                    - paragraph [ref=e158]
+                    - paragraph [ref=e159]:
+                      - strong [ref=e160]: What We Offer On Day One
+                    - list [ref=e161]:
+                      - listitem [ref=e162]: 401K matching
+                      - listitem [ref=e163]: Bonding leave for new parents (12 weeks, 100% paid)
+                      - listitem [ref=e164]: Tuition assistance
+                      - listitem [ref=e165]: Training
+                      - listitem [ref=e166]: GM employee auto discount
+                      - listitem [ref=e167]: Community service pay and nine company holidays.
+                      - listitem [ref=e168]: Flexible hybrid work environment, 2-3 days a week in office
+                    - paragraph [ref=e169]
+                    - paragraph [ref=e170]:
+                      - strong [ref=e171]: "What We Offer:"
+                      - text: "Generous benefits package available on day one to include: 401K matching, bonding leave for new parents (12 weeks, 100% paid), tuition assistance, training, GM employee auto discount, community service pay and nine company holidays."
+                    - paragraph [ref=e172]:
+                      - strong [ref=e173]: "Our Culture:"
+                      - text: Our team members define and shape our culture — an environment that welcomes innovative ideas, fosters integrity, and creates a sense of community and belonging. Here we do more than work — we thrive.
+                    - paragraph [ref=e174]:
+                      - strong [ref=e175]: "Compensation:"
+                      - text: Competitive salary and bonus eligibility.
+                    - paragraph [ref=e176]:
+                      - strong [ref=e177]: "Work Life Balance:"
+                      - text: Flexible hybrid work environment at least 2 days per week in office.
+                    - paragraph [ref=e178]: "#GMFJobs"
+                    - paragraph [ref=e179]:
+                      - generic [ref=e180]: "#LI-DH1"
+                    - paragraph [ref=e181]:
+                      - generic [ref=e182]: "#LI-Hybrid"
+                - button "Apply Now" [ref=e189] [cursor=pointer]:
+                  - generic [ref=e190]: Apply Now
+                - generic [ref=e196]:
+                  - heading "Job Info" [level=2] [ref=e197]
+                  - list [ref=e201]:
+                    - listitem [ref=e202]:
+                      - generic [ref=e203]: Job Identification
+                      - generic [ref=e204]: "2227"
+                    - listitem [ref=e205]:
+                      - generic [ref=e206]: Job Category
+                      - generic [ref=e207]: Technology
+                    - listitem [ref=e208]:
+                      - generic [ref=e209]: Posting Date
+                      - generic [ref=e210]: 04/24/2026, 07:29 AM
+                    - listitem [ref=e211]:
+                      - generic [ref=e212]: Job Schedule
+                      - generic [ref=e213]: Full time
+                    - listitem [ref=e214]:
+                      - generic [ref=e215]: Locations
+                      - generic [ref=e216]:
+                        - generic [ref=e218]:
+                          - emphasis [ref=e219]: 
+                          - text: 4001 Embarcadero, Arlington, TX, 76014, US
+                        - generic [ref=e220]: (Hybrid)
+                - generic [ref=e229]:
+                  - list [ref=e230]:
+                    - listitem [ref=e231]:
+                      - generic "You're viewing job locations plotted on the map. If you're using a keyboard or other assistive tool, go to the job info section for location details." [ref=e232]:
+                        - region "Map" [ref=e233]
+                        - generic:
+                          - group [ref=e234]:
+                            - button "Legend" [ref=e239] [cursor=pointer]
+                          - generic [ref=e240]:
+                            - button "Zoom In" [ref=e241] [cursor=pointer]
+                            - button "Zoom Out" [ref=e243] [cursor=pointer]
+                          - group [ref=e245]:
+                            - generic [ref=e247]:
+                              - link "© Oracle Corporation":
+                                - /url: "#"
+                              - link "Terms" [ref=e248] [cursor=pointer]:
+                                - /url: https://elocation.oracle.com/elocation/legal.html
+                              - link "Legal Notices" [ref=e249] [cursor=pointer]:
+                                - /url: https://www.oracle.com/legal/terms.html
+                        - generic:
+                          - generic: Use control and scroll to zoom the map
+                        - generic [ref=e250]:
+                          - generic [ref=e252]:
+                            - paragraph [ref=e253]: 4001 Embarcadero, Arlington, TX, 76014, US
+                            - link "Copy to Clipboard" [ref=e254] [cursor=pointer]:
+                              - /url: ""
+                          - button "Close" [ref=e255] [cursor=pointer]: 
+                  - generic:
+                    - button [ref=e256] [cursor=pointer]: 
+                    - button [ref=e257] [cursor=pointer]: 
+                - alert "Loading screen" [ref=e264]: 
+      - contentinfo [ref=e265]:
+        - contentinfo [ref=e267]:
+          - generic [ref=e268]:
+            - img "logo" [ref=e270]
+            - list [ref=e273]:
+              - listitem [ref=e274]:
+                - link "GMFinancial.com" [ref=e275] [cursor=pointer]:
+                  - /url: https://www.gmfinancial.com
+              - listitem [ref=e276]:
+                - link "GMFinancial.ca" [ref=e277] [cursor=pointer]:
+                  - /url: https://www.gmfinancial.ca/
+              - listitem [ref=e278]:
+                - link "CadillacFinancial.com" [ref=e279] [cursor=pointer]:
+                  - /url: https://www.cadillacfinancial.com/
+              - listitem [ref=e280]:
+                - link "GetMode.com" [ref=e281] [cursor=pointer]:
+                  - /url: https://www.getmode.com
+              - listitem [ref=e282]:
+                - link "GMInsurance.com" [ref=e283] [cursor=pointer]:
+                  - /url: https://www.gminsurance.com
+            - generic [ref=e284]:
+              - list [ref=e286]:
+                - listitem [ref=e287]:
+                  - link "facebook" [ref=e288] [cursor=pointer]:
+                    - /url: https://www.facebook.com/GMFinancial/
+                    - img [ref=e289]
+                - listitem [ref=e290]:
+                  - link "twitter" [ref=e291] [cursor=pointer]:
+                    - /url: https://twitter.com/gmfinancial
+                    - img [ref=e292]
+                - listitem [ref=e293]:
+                  - link "instagram" [ref=e294] [cursor=pointer]:
+                    - /url: https://www.instagram.com/gmfinancial/
+                    - img [ref=e295]
+                - listitem [ref=e296]:
+                  - link "youtube" [ref=e297] [cursor=pointer]:
+                    - /url: https://www.youtube.com/channel/UCyBxXtwVGdnN0YWH5O7vw1g
+                    - img [ref=e298]
+                - listitem [ref=e299]:
+                  - link "linkedin" [ref=e300] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/gm-financial
+                    - img [ref=e301]
+              - list [ref=e303]:
+                - listitem [ref=e304]:
+                  - 'link "California Residents: Do Not Sell Or Share My Personal Information" [ref=e305] [cursor=pointer]':
+                    - /url: https://www.gmfinancial.com/en-us/privacy-and-security/california-privacy-rights.html?site=icimsjibe
+                - listitem [ref=e306]:
+                  - link "Online Privacy Policy" [ref=e307] [cursor=pointer]:
+                    - /url: https://www.gmfinancial.com/en-us/privacy-and-security/privacy-policy-online.html
+                - listitem [ref=e308]:
+                  - link "About Us" [ref=e309] [cursor=pointer]:
+                    - /url: https://www.gmfinancial.com/en-us/company/about.html
+            - paragraph [ref=e311]: ©️2025 General Motors Financial Company
+    - alert
+    - status [ref=e312]:
+      - paragraph [ref=e313]: Page Software Development Engineer I - GM Financial United States Careers loaded
+    - alert [ref=e314]

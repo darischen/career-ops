@@ -1,0 +1,87 @@
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - link "Quartus Engineering logo" [ref=e7] [cursor=pointer]:
+      - /url: /
+      - img "Quartus Engineering logo" [ref=e8]
+    - generic [ref=e9]:
+      - link "www.quartus.com" [ref=e10] [cursor=pointer]:
+        - /url: http://www.quartus.com
+      - text: 
+  - generic [ref=e11]:
+    - form
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - link " Back to all openings" [ref=e15] [cursor=pointer]:
+          - /url: /#content
+          - generic [ref=e16]: 
+          - text: Back to all openings
+        - banner [ref=e17]:
+          - generic [ref=e18]: Software Engineer I - 070QE
+          - paragraph [ref=e19]: San Diego | Applied Photonics | Full-time | Partially remote
+      - button "Apply with Indeed" [ref=e21] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - heading "Application Form" [level=2] [ref=e28]
+          - generic: 
+          - button "Apply with Indeed" [ref=e30] [cursor=pointer]:
+            - img [ref=e31]
+            - text: Apply with Indeed
+        - form [ref=e32]:
+          - generic [ref=e33]:
+            - generic [ref=e34]: First Name *
+            - textbox "First Name *" [active] [ref=e35]
+          - generic [ref=e36]:
+            - generic [ref=e37]: Last Name *
+            - textbox "Last Name *" [ref=e38]
+          - generic [ref=e39]:
+            - generic [ref=e40]: What pronouns do you use?
+            - textbox "What pronouns do you use?" [ref=e41]
+          - generic [ref=e42]:
+            - generic [ref=e43]: Email *
+            - textbox "Email *" [ref=e44]
+          - generic [ref=e45]:
+            - generic [ref=e46]: Phone *
+            - textbox "Phone *" [ref=e47]
+          - generic [ref=e48]:
+            - generic [ref=e49]: Resume *
+            - button "Resume *" [ref=e50]
+          - generic [ref=e51]:
+            - generic [ref=e52]: This is a hybrid position based in San Diego, CA. Are you currently based in San Diego or open to relocating? *
+            - textbox "This is a hybrid position based in San Diego, CA. Are you currently based in San Diego or open to relocating? *" [ref=e53]
+          - generic [ref=e54]:
+            - generic [ref=e55]: Desired Salary *
+            - textbox "Desired Salary *" [ref=e56]
+          - generic [ref=e57]:
+            - generic [ref=e58]: Are you a US Person (Citizen or Legal Permanent Resident)? Some roles are restricted to US Persons Only. *
+            - textbox "Are you a US Person (Citizen or Legal Permanent Resident)? Some roles are restricted to US Persons Only. *" [ref=e59]
+          - button "Submit Application" [ref=e61] [cursor=pointer]
+      - generic [ref=e64]:
+        - generic [ref=e65]: Share this opening with friends
+        - link "" [ref=e66] [cursor=pointer]:
+          - /url: //www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fquartus.hire.trakstar.com%2Fjobs%2Ffk0zv1u%2F%3Fsource%3Dfacebook
+          - generic [ref=e67]: 
+        - link "" [ref=e68] [cursor=pointer]:
+          - /url: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fquartus.hire.trakstar.com%2Fjobs%2Ffk0zv1u%2F%3Fsource%3Dlinkedin&title=Quartus%20Engineering%20is%20hiring%20a%20Software%20Engineer%20I%20-%20070QE&summary=&source=quartus.hire.trakstar.com
+          - generic [ref=e69]: 
+        - link "" [ref=e70] [cursor=pointer]:
+          - /url: //twitter.com/intent/tweet?text=Quartus%20Engineering%20is%20hiring%20a%20Software%20Engineer%20I%20-%20070QE%20https%3A%2F%2Fquartus.hire.trakstar.com%2Fjobs%2Ffk0zv1u%2F%3Fsource%3Dtwitter
+          - generic [ref=e71]: 
+        - link "" [ref=e72] [cursor=pointer]:
+          - /url: mailto:?body=Hi%2C%20%0A%0AQuartus%20Engineering%20is%20hiring%20a%20Software%20Engineer%20I%20-%20070QE%20%0A%0ACheck%20out%20details%20here%20https%3A%2F%2Fquartus.hire.trakstar.com%2Fjobs%2Ffk0zv1u%2F&subject=Quartus%20Engineering%20is%20hiring%20a%20Software%20Engineer%20I%20-%20070QE
+          - generic [ref=e73]: 
+  - link "powered by Trakstar Hire" [ref=e76] [cursor=pointer]:
+    - /url: http://recruiterbox.com/
+    - img [ref=e78]
+    - generic [ref=e82]:
+      - generic [ref=e83]: powered by
+      - generic [ref=e84]: Trakstar Hire
+  - iframe [ref=e87]:
+    - generic [ref=f11e5]:
+      - generic [ref=f11e6]:
+        - text: protected by
+        - strong [ref=f11e7]: reCAPTCHA
+      - generic [ref=f11e9]:
+        - text: reCAPTCHA is changing its terms of service.
+        - link "Take action." [ref=f11e10] [cursor=pointer]:
+          - /url: https://google.com/recaptcha/admin/migrate

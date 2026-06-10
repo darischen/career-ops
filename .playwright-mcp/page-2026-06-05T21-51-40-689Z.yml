@@ -1,0 +1,112 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - navigation "Breadcrumb" [ref=e7]:
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - paragraph [ref=e10]:
+              - link "Concept Plus Careers" [ref=e11] [cursor=pointer]
+          - listitem [ref=e12]:
+            - generic [ref=e13]: 
+            - paragraph [ref=e14]:
+              - link "Junior Developer"
+      - generic [ref=e15]:
+        - heading "Junior Developer" [level=2] [ref=e16]
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - generic [ref=e20]:
+              - paragraph [ref=e21]:
+                - strong [ref=e23]: About Concept Plus
+                - text: Concept Plus is a mission-focused technology solutions provider that transforms IT concepts into impactful solutions for federal agencies. Headquartered in Fairfax, VA, we bring the agility, responsiveness, and customer intimacy of a small business combined with the quality and infrastructure of a larger firm.
+              - paragraph [ref=e24]
+              - paragraph [ref=e25]: Recognized as an award-winning Oracle partner, we have delivered innovative solutions across Defense, Intelligence, Civilian, Health IT, and Tribal sectors. Our highly certified experts build systems that drive efficiency, accelerate modernization, and ensure mission outcomes with certainty.
+              - paragraph [ref=e26]
+              - paragraph [ref=e27]: We offer competitive pay, comprehensive health, dental, and vision insurance, paid life insurance, paid time off, 11 paid holidays, performance bonuses, tuition reimbursement, unlimited training, and the opportunity to thrive in a collaborative, flexible, and innovative environment.
+              - paragraph [ref=e28]
+              - paragraph [ref=e29]:
+                - text: For more information, visit
+                - link "www.conceptplus.com" [ref=e30] [cursor=pointer]:
+                  - /url: http://www.conceptplus.com/
+                - text: .
+              - paragraph [ref=e31]
+              - paragraph [ref=e32]:
+                - strong [ref=e34]: About the role
+              - paragraph [ref=e35]: Concept Plus is seeking a Junior Software Developer to support client IT systems development and operations within a CI/CD DevSecOps environment. This role contributes to application development, testing, and maintenance while supporting continuous integration, deployment, and delivery across development, security, and operations workflows. The position requires foundational knowledge of client IT processes and technology stack, including DevSecOps pipelines, Cloud One environments, and Oracle/Java-based systems operating across classified and unclassified DISA and cloud environments.
+              - paragraph [ref=e36]
+              - paragraph [ref=e37]: The Junior Developer works within Agile teams, collaborating with development, Cloud Engineering, DevSecOps, and QA resources to support backlog execution and delivery. This role participates in Agile ceremonies, develops code under guidance, supports testing and defect resolution, and contributes to continuous improvement and team collaboration to deliver high-quality solutions aligned with mission objectives.
+              - paragraph [ref=e38]
+              - paragraph [ref=e39]:
+                - strong [ref=e41]: What you'll do
+              - list [ref=e42]:
+                - listitem [ref=e43]: Assist in designing, developing, and maintaining application components and services
+                - listitem [ref=e44]: Support CI/CD pipeline activities, including code integration, testing, and deployment
+                - listitem [ref=e45]: Collaborate with developers, QA, DevSecOps, and Cloud Engineering teams to support delivery
+                - listitem [ref=e46]: Participate in Agile ceremonies and contribute to backlog execution
+                - listitem [ref=e47]: Develop and maintain code, scripts, and basic integrations under guidance from senior team members
+                - listitem [ref=e48]: Support automated testing and validation activities
+                - listitem [ref=e49]: Troubleshoot and resolve defects with support from senior developers
+                - listitem [ref=e50]: Contribute to documentation and knowledge sharing
+                - listitem [ref=e51]: Assist in the development, maintenance, and monitoring of CI/CD pipelines using tools such as GitHub Actions, GitLab CI, Jenkins, or Azure DevOps
+                - listitem [ref=e52]: Support infrastructure as code (IaC) efforts using tools like Terraform, CloudFormation, or ARM templates
+                - listitem [ref=e53]: Help integrate security scanning and compliance checks into build and deployment pipelines (SAST, DAST, dependency scanning, container scanning)
+                - listitem [ref=e54]: Support cloud infrastructure in AWS, Azure, or GCP, with an emphasis on security best practices
+                - listitem [ref=e55]: Assist with containerization efforts using Docker and orchestration platforms such as Kubernetes
+                - listitem [ref=e56]: Monitor environments, logs, and alerts; assist with troubleshooting and incident response
+                - listitem [ref=e57]: Document configurations, processes, and security controls to support audits and compliance requirements
+                - listitem [ref=e58]: Collaborate with development, operations, and security teams in an Agile/Scrum environment
+                - listitem [ref=e59]: Learn and apply federal security frameworks such as NIST, FISMA, and FedRAMP
+                - listitem [ref=e60]: Ensure pipelines and software meet security standards, including STIG hardening and providing documentation for Risk Management Framework (RMF) or Authority to Operate (ATO).
+              - paragraph [ref=e61]:
+                - strong [ref=e63]: Qualifications
+              - list [ref=e64]:
+                - listitem [ref=e65]: Secret – Fully Cleared Only, must confirm clearance is active
+                - listitem [ref=e66]: Client 8140 intermediate certification or client 8570 IAM Level II certifications or higher
+                - listitem [ref=e67]: US Citizens Only
+                - listitem [ref=e68]: 2 years experience in software development
+                - listitem [ref=e69]: Familiarity with Java or similar programming languages
+                - listitem [ref=e70]: Understanding of software development lifecycle (SDLC) and Agile concepts
+                - listitem [ref=e71]: Exposure to version control systems (e.g., Git)
+              - paragraph [ref=e72]:
+                - strong [ref=e74]: Preferred
+              - list [ref=e75]:
+                - listitem [ref=e76]: Experience working with Agile development teams of 20+ FTEs and be familiar with Agile methodologies.
+                - listitem [ref=e77]: Exposure to CI/CD pipelines or DevSecOps practices
+                - listitem [ref=e78]: Familiarity with cloud environments (e.g., AWS or similar platforms)
+                - listitem [ref=e79]: Basic understanding of APIs and system integration
+                - listitem [ref=e80]: Experience with relational databases (e.g., Oracle or similar)
+              - paragraph [ref=e81]:
+                - emphasis [ref=e83]: Concept Plus is an Equal Opportunity Employer. As such, we will give your application full consideration without regard to your race, color, religion, sex, age, national origin, disability, veteran status, sexual orientation, gender identity, or any other classification protected by federal, state, or local law.
+              - paragraph [ref=e84]
+            - button "Apply now" [ref=e87] [cursor=pointer]:
+              - generic [ref=e89]: Apply now
+          - generic [ref=e90]:
+            - generic [ref=e91]:
+              - generic [ref=e92]:
+                - generic [ref=e93]: 
+                - paragraph [ref=e94]: Defense/National Security Sector
+              - generic [ref=e95]:
+                - generic [ref=e96]: 
+                - paragraph [ref=e97]: Remote (Dayton, OH)
+            - generic [ref=e98]:
+              - generic [ref=e99]:
+                - paragraph [ref=e100]: "Share on:"
+                - generic [ref=e101]:
+                  - button "Share on LinkedIn" [ref=e102] [cursor=pointer]: 
+                  - button "Share on Facebook" [ref=e103] [cursor=pointer]: 
+                  - button "Share on Twitter/X" [ref=e104] [cursor=pointer]: 
+              - button "Apply now" [ref=e107] [cursor=pointer]:
+                - generic [ref=e109]: Apply now
+    - generic [ref=e111]:
+      - generic [ref=e112]:
+        - link "Terms of service" [ref=e113] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/user
+        - link "Privacy" [ref=e114] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/privacy
+        - link "Cookies" [ref=e115] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/cookie-notice
+        - link "Powered by Rippling" [ref=e116] [cursor=pointer]:
+          - /url: https://www.rippling.com/recruiting
+      - generic [ref=e120] [cursor=pointer]:
+        - combobox "Search" [ref=e124]: United States (English)
+        - generic [ref=e126]: 
+  - alert [ref=e127]

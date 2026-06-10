@@ -1,0 +1,450 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "SpaceX Logo" [ref=e5] [cursor=pointer]:
+        - /url: http://www.spacex.com?gh_src=Simplify
+        - img "SpaceX Logo" [ref=e6]
+      - generic [ref=e7]:
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - heading "Full Stack Software Engineer (Application Software)" [level=1] [ref=e11]
+            - generic [ref=e12]:
+              - img [ref=e13]
+              - generic [ref=e15]: Hawthorne, CA
+          - button "Apply" [ref=e16] [cursor=pointer]
+        - generic [ref=e17]:
+          - paragraph [ref=e19]: SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+          - generic [ref=e20]:
+            - paragraph [ref=e21]:
+              - strong [ref=e22]: FULL STACK SOFTWARE ENGINEER (APPLICATION SOFTWARE)
+            - paragraph [ref=e23]: The application software team is the central nervous system of SpaceX – we create mission critical applications that are used throughout SpaceX to accelerate launch vehicle production and flight as well as systems that allow Starlink to grow into a worldwide fast, reliable Internet service. We are looking for engineers who treat fellow teammates with fairness, respect, and support.
+            - paragraph [ref=e24]: Our team is currently creating and evolving systems to enable rapid build and reuse of Starship as well as designing the next generation manufacturing software that will be used in high throughput factories for Starlink. Other applications range from platforms that support concurrent streams of data from many always-on assets to manage the world’s largest satellite constellation to public facing systems where customers can join our Starlink network globally. We work closely with engineers throughout the company to create and update our systems with respect to crewed launches, Starship flights, changes to the Starlink network and much more.
+            - paragraph [ref=e25]: Aerospace experience is not required to be successful here - rather we look for smart, motivated, respectful, collaborative engineers who love solving problems and want to make an impact on a super inspiring mission. You will have full ownership of challenging problems, working with a team of enthusiastic engineers with diverse perspectives to design and produce solutions that enable SpaceX to move towards our goals at a rapid pace. The success of the missions at SpaceX depends on the software that you and your team produce.
+            - paragraph [ref=e26]:
+              - strong [ref=e27]: "RESPONSIBILITIES:"
+            - list [ref=e28]:
+              - listitem [ref=e29]: Develop highly reliable software solutions that are used across SpaceX
+              - listitem [ref=e30]: Create new applications that improve how SpaceX operates
+              - listitem [ref=e31]: Build prototypes to prove out key design concepts and quantify technical constraints
+              - listitem [ref=e32]: Own all aspects of software engineering and product development
+              - listitem [ref=e33]: Deep dive into your users’ problems to find and create efficient solutions
+              - listitem [ref=e34]: Bring your voice to the table in team collaborations on architecture, design, and code reviews
+            - paragraph [ref=e35]:
+              - strong [ref=e36]: "BASIC QUALIFICATIONS:"
+            - list [ref=e37]:
+              - listitem [ref=e38]: Bachelor's degree in computer science, engineering, math, or scientific discipline; OR 2+ years of professional experience building software in lieu of a degree
+              - listitem [ref=e39]: 1+ years of experience in full stack development
+            - paragraph [ref=e40]:
+              - strong [ref=e41]: "PREFERRED SKILLS AND EXPERIENCE:"
+            - list [ref=e42]:
+              - listitem [ref=e43]: Programming experience in Python, C#.NET, Go, Scala, Java, or similar object-oriented language
+              - listitem [ref=e44]: 1+ years of rigorous experience building single page web applications
+              - listitem [ref=e45]: Experience with version control, continuous integration, and continuous delivery concepts
+              - listitem [ref=e46]: Expertise in designing software systems
+              - listitem [ref=e47]: Deep understanding of testing, continuous integration, build, deployment & monitoring
+              - listitem [ref=e48]: Expertise in profiling and improving application performance
+              - listitem [ref=e49]: Experience with build systems (Make, Bazel/Pants/Buck, Gradle) and package management tools (pip, npm)
+              - listitem [ref=e50]: Experience with UNIX-like operating systems and tools like Terraform, Ansible, Puppet for managing them
+              - listitem [ref=e51]: Experience working with in-stream data processing using Apache Kafka, RabbitMQ, ActiveMQ, or similar technologies
+              - listitem [ref=e52]: Production experience with Docker and Kubernetes
+              - listitem [ref=e53]: Front-end experience in Angular, React, or similar JavaScript framework
+              - listitem [ref=e54]: Database experience with PostgreSQL, SQL Server, or similar database technologies
+            - paragraph [ref=e55]:
+              - strong [ref=e56]: "ADDITIONAL REQUIREMENTS:"
+            - list [ref=e57]:
+              - listitem [ref=e58]: You may be asked to work extended hours/weekends dependent on launch cadence
+              - listitem [ref=e59]: This role requires you to be onsite. Remote and/or hybrid work will not be considered
+            - generic [ref=e60]:
+              - strong [ref=e61]: "COMPENSATION AND BENEFITS:"
+              - text: "Pay Range:"
+              - text: "Software Engineer/Level I: $125,000.00 - $145,000.00/per year"
+              - text: "Software Engineer/Level II: $145,000.00 - $175,000.00/per year"
+            - generic [ref=e62]:
+              - paragraph [ref=e63]: "Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience."
+              - paragraph [ref=e64]: Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Employees accrue paid sick leave pursuant to Company policy which satisfies or exceeds the accrual, carryover, and use requirements of the law.
+          - generic [ref=e65]:
+            - paragraph [ref=e66]:
+              - strong [ref=e67]: "ITAR REQUIREMENTS:"
+            - list [ref=e68]:
+              - listitem [ref=e69]:
+                - text: To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR
+                - link "here" [ref=e70] [cursor=pointer]:
+                  - /url: https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987
+                - text: .
+            - paragraph [ref=e71]: SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+            - paragraph [ref=e72]:
+              - text: Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to
+              - link "EEOCompliance@spacex.com" [ref=e73] [cursor=pointer]:
+                - /url: mailto:EEOCompliance@spacex.com
+              - emphasis [ref=e74]: .
+        - generic [ref=e75]:
+          - img [ref=e76]
+          - generic [ref=e78]:
+            - paragraph [ref=e79]: Create a Job Alert
+            - paragraph [ref=e80]: Interested in building your career at SpaceX? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e81] [cursor=pointer]
+      - separator [ref=e82]
+      - generic [ref=e83]:
+        - generic [ref=e84]:
+          - generic [ref=e85]:
+            - heading "Apply for this job" [level=2] [ref=e87]
+            - generic [ref=e88]:
+              - paragraph [ref=e90]: "*"
+              - paragraph [ref=e91]: indicates a required field
+          - button "Quick Apply with MyGreenhouse" [ref=e94] [cursor=pointer]
+        - generic [ref=e95]:
+          - generic [ref=e96]:
+            - generic [ref=e99]:
+              - generic [ref=e100]: First Name*
+              - textbox "First Name" [ref=e101]
+            - generic [ref=e104]:
+              - generic [ref=e105]: Last Name*
+              - textbox "Last Name" [ref=e106]
+            - generic [ref=e109]:
+              - generic [ref=e110]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e111]
+            - generic [ref=e114]:
+              - generic [ref=e115]: Email*
+              - textbox "Email" [ref=e116]
+            - group "Phone" [ref=e118]:
+              - generic [ref=e119]: Phone
+              - generic [ref=e122]:
+                - generic [ref=e123]: Country*
+                - generic [ref=e124]:
+                  - log [ref=e126]
+                  - generic [ref=e128]:
+                    - combobox "Country" [ref=e131]
+                    - button "Toggle flyout" [ref=e133] [cursor=pointer]:
+                      - img [ref=e134]
+                  - textbox
+              - generic [ref=e138]:
+                - generic [ref=e139]: Phone*
+                - textbox "Phone" [ref=e140]
+            - generic [ref=e141]:
+              - generic [ref=e143]:
+                - generic [ref=e144]: Location (City)*
+                - generic [ref=e145]:
+                  - log [ref=e147]
+                  - combobox "Location (City)" [ref=e152]
+                  - textbox
+              - button "Locate me" [ref=e153] [cursor=pointer]
+            - group "Resume/CV*" [ref=e155]:
+              - generic [ref=e156]: Resume/CV*
+              - generic [ref=e158]:
+                - generic [ref=e160]:
+                  - button "Attach" [ref=e161] [cursor=pointer]
+                  - generic [ref=e162]: Attach
+                  - button "Attach" [ref=e163]
+                - generic [ref=e165]:
+                  - button "Enter manually" [ref=e166] [cursor=pointer]
+                  - generic [ref=e167]: Enter manually
+                - paragraph [ref=e168]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e169]:
+            - generic [ref=e170]:
+              - separator [ref=e171]
+              - paragraph [ref=e173]: Education
+              - generic [ref=e175]:
+                - generic [ref=e176]: School*
+                - generic [ref=e177]:
+                  - log [ref=e179]
+                  - generic [ref=e181]:
+                    - generic [ref=e182]:
+                      - generic [ref=e183]: Select...
+                      - combobox "School" [ref=e185]
+                    - button "Toggle flyout" [ref=e187] [cursor=pointer]:
+                      - img [ref=e188]
+                  - textbox
+              - generic [ref=e191]:
+                - generic [ref=e192]: Degree*
+                - generic [ref=e193]:
+                  - log [ref=e195]
+                  - generic [ref=e197]:
+                    - generic [ref=e198]:
+                      - generic [ref=e199]: Select...
+                      - combobox "Degree" [ref=e201]
+                    - button "Toggle flyout" [ref=e203] [cursor=pointer]:
+                      - img [ref=e204]
+                  - textbox
+              - generic [ref=e207]:
+                - generic [ref=e208]: Discipline
+                - generic [ref=e209]:
+                  - log [ref=e211]
+                  - generic [ref=e213]:
+                    - generic [ref=e214]:
+                      - generic [ref=e215]: Select...
+                      - combobox "Discipline" [ref=e217]
+                    - button "Toggle flyout" [ref=e219] [cursor=pointer]:
+                      - img [ref=e220]
+            - button "Add another" [ref=e222] [cursor=pointer]
+          - generic [ref=e223]:
+            - separator [ref=e224]
+            - generic [ref=e227]:
+              - generic [ref=e228]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e229]
+            - group "Portfolio or Cover Letter" [ref=e231]:
+              - generic [ref=e232]: Portfolio or Cover Letter
+              - generic [ref=e234]:
+                - generic [ref=e236]:
+                  - button "Attach" [ref=e237] [cursor=pointer]
+                  - generic [ref=e238]: Attach
+                  - button "Attach" [ref=e239]
+                - paragraph [ref=e240]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - generic [ref=e241]:
+              - generic [ref=e243]:
+                - generic [ref=e244]: How did you hear about this job?*
+                - generic [ref=e245]:
+                  - log [ref=e247]
+                  - generic [ref=e249]:
+                    - generic [ref=e250]:
+                      - generic [ref=e251]: Select...
+                      - combobox "How did you hear about this job?" [ref=e253]
+                    - button "Toggle flyout" [ref=e255] [cursor=pointer]:
+                      - img [ref=e256]
+                  - textbox
+              - paragraph [ref=e260]: If event or other, please specify below.
+            - generic [ref=e263]:
+              - generic [ref=e264]: Please specify
+              - textbox "Please specify" [ref=e265]
+            - generic [ref=e266]:
+              - generic [ref=e268]:
+                - generic [ref=e269]: GPA (Undergraduate)*
+                - generic [ref=e270]:
+                  - log [ref=e272]
+                  - generic [ref=e274]:
+                    - generic [ref=e275]:
+                      - generic [ref=e276]: Select...
+                      - combobox "GPA (Undergraduate)" [ref=e278]
+                    - button "Toggle flyout" [ref=e280] [cursor=pointer]:
+                      - img [ref=e281]
+                  - textbox
+              - paragraph [ref=e285]: Please convert your GPA to a 4.0 scale. Select "Not applicable/Do not recall" if you do not have or do not remember your undergraduate GPA.
+            - generic [ref=e286]:
+              - generic [ref=e288]:
+                - generic [ref=e289]: GPA (Graduate)*
+                - generic [ref=e290]:
+                  - log [ref=e292]
+                  - generic [ref=e294]:
+                    - generic [ref=e295]:
+                      - generic [ref=e296]: Select...
+                      - combobox "GPA (Graduate)" [ref=e298]
+                    - button "Toggle flyout" [ref=e300] [cursor=pointer]:
+                      - img [ref=e301]
+                  - textbox
+              - paragraph [ref=e305]: Please convert your GPA to a 4.0 scale. Select "Not applicable/Do not recall" if you do not have or do not remember your graduate GPA.
+            - generic [ref=e306]:
+              - generic [ref=e308]:
+                - generic [ref=e309]: GPA (Doctorate)*
+                - generic [ref=e310]:
+                  - log [ref=e312]
+                  - generic [ref=e314]:
+                    - generic [ref=e315]:
+                      - generic [ref=e316]: Select...
+                      - combobox "GPA (Doctorate)" [ref=e318]
+                    - button "Toggle flyout" [ref=e320] [cursor=pointer]:
+                      - img [ref=e321]
+                  - textbox
+              - paragraph [ref=e325]: Please convert your GPA to a 4.0 scale. Select "Not applicable/Do not recall" if you do not have or do not remember your doctorate GPA.
+            - generic [ref=e328]:
+              - generic [ref=e329]: SAT Score*
+              - generic [ref=e330]:
+                - log [ref=e332]
+                - generic [ref=e334]:
+                  - generic [ref=e335]:
+                    - generic [ref=e336]: Select...
+                    - combobox "SAT Score" [ref=e338]
+                  - button "Toggle flyout" [ref=e340] [cursor=pointer]:
+                    - img [ref=e341]
+                - textbox
+            - generic [ref=e345]:
+              - generic [ref=e346]: ACT Score*
+              - generic [ref=e347]:
+                - log [ref=e349]
+                - generic [ref=e351]:
+                  - generic [ref=e352]:
+                    - generic [ref=e353]: Select...
+                    - combobox "ACT Score" [ref=e355]
+                  - button "Toggle flyout" [ref=e357] [cursor=pointer]:
+                    - img [ref=e358]
+                - textbox
+            - generic [ref=e362]:
+              - generic [ref=e363]: GRE Score*
+              - generic [ref=e364]:
+                - log [ref=e366]
+                - generic [ref=e368]:
+                  - generic [ref=e369]:
+                    - generic [ref=e370]: Select...
+                    - combobox "GRE Score" [ref=e372]
+                  - button "Toggle flyout" [ref=e374] [cursor=pointer]:
+                    - img [ref=e375]
+                - textbox
+            - generic [ref=e379]:
+              - generic [ref=e380]: Active Security Clearance(s)*
+              - generic [ref=e381]:
+                - log [ref=e383]
+                - generic [ref=e385]:
+                  - generic [ref=e386]:
+                    - generic [ref=e387]: Select...
+                    - combobox "Active Security Clearance(s)" [ref=e389]
+                  - button "Toggle flyout" [ref=e391] [cursor=pointer]:
+                    - img [ref=e392]
+                - textbox
+            - generic [ref=e396]:
+              - generic [ref=e397]: SpaceX Employment History*
+              - generic [ref=e398]:
+                - log [ref=e400]
+                - generic [ref=e402]:
+                  - generic [ref=e403]:
+                    - generic [ref=e404]: Select...
+                    - combobox "SpaceX Employment History" [ref=e406]
+                  - button "Toggle flyout" [ref=e408] [cursor=pointer]:
+                    - img [ref=e409]
+                - textbox
+            - generic [ref=e413]:
+              - generic [ref=e414]: Can you perform all of the essential functions of this role with or without reasonable accommodations?*
+              - generic [ref=e415]:
+                - log [ref=e417]
+                - generic [ref=e419]:
+                  - generic [ref=e420]:
+                    - generic [ref=e421]: Select...
+                    - combobox "Can you perform all of the essential functions of this role with or without reasonable accommodations?" [ref=e423]
+                  - button "Toggle flyout" [ref=e425] [cursor=pointer]:
+                    - img [ref=e426]
+                - textbox
+            - generic [ref=e430]:
+              - generic [ref=e431]: Are you legally authorized to work in the United States?*
+              - generic [ref=e432]:
+                - log [ref=e434]
+                - generic [ref=e436]:
+                  - generic [ref=e437]:
+                    - generic [ref=e438]: Select...
+                    - combobox "Are you legally authorized to work in the United States?" [ref=e440]
+                  - button "Toggle flyout" [ref=e442] [cursor=pointer]:
+                    - img [ref=e443]
+                - textbox
+            - generic [ref=e445]:
+              - generic [ref=e447]:
+                - generic [ref=e448]: Citizenship Status*
+                - generic [ref=e449]:
+                  - log [ref=e451]
+                  - generic [ref=e453]:
+                    - generic [ref=e454]:
+                      - generic [ref=e455]: Select...
+                      - combobox "Citizenship Status" [ref=e457]
+                    - button "Toggle flyout" [ref=e459] [cursor=pointer]:
+                      - img [ref=e460]
+                  - textbox
+              - paragraph [ref=e464]:
+                - text: To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about ITAR
+                - link "here" [ref=e466] [cursor=pointer]:
+                  - /url: https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987
+                - text: .
+            - generic [ref=e469]:
+              - generic [ref=e470]: "If (f) Other, please explain:"
+              - textbox "If (f) Other, please explain:" [ref=e471]
+          - generic [ref=e472]:
+            - separator [ref=e473]
+            - generic [ref=e474]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e475]
+              - paragraph [ref=e476]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e477]: As set forth in SpaceX’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e480]:
+              - generic [ref=e481]: Gender
+              - generic [ref=e482]:
+                - log [ref=e484]
+                - generic [ref=e486]:
+                  - generic [ref=e487]:
+                    - generic [ref=e488]: Select...
+                    - combobox "Gender" [ref=e490]
+                  - button "Toggle flyout" [ref=e492] [cursor=pointer]:
+                    - img [ref=e493]
+            - generic [ref=e495]:
+              - generic [ref=e497]:
+                - generic [ref=e498]: Are you Hispanic/Latino?
+                - generic [ref=e499]:
+                  - log [ref=e501]
+                  - generic [ref=e503]:
+                    - generic [ref=e504]:
+                      - generic [ref=e505]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e507]
+                    - button "Toggle flyout" [ref=e509] [cursor=pointer]:
+                      - img [ref=e510]
+              - link "Race & Ethnicity Definitions" [ref=e512] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e513]:
+              - paragraph [ref=e514]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e515]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e516]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e517]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e518]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e521]:
+              - generic [ref=e522]: Veteran Status
+              - generic [ref=e523]:
+                - log [ref=e525]
+                - generic [ref=e527]:
+                  - generic [ref=e528]:
+                    - generic [ref=e529]: Select...
+                    - combobox "Veteran Status" [ref=e531]
+                  - button "Toggle flyout" [ref=e533] [cursor=pointer]:
+                    - img [ref=e534]
+            - separator [ref=e536]
+            - generic [ref=e537]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e538]
+              - generic [ref=e539]:
+                - generic [ref=e540]:
+                  - generic [ref=e541]: Form CC-305
+                  - generic [ref=e542]: Page 1 of 1
+                - generic [ref=e543]:
+                  - generic [ref=e544]: OMB Control Number 1250-0005
+                  - generic [ref=e545]: Expires 04/30/2026
+              - strong [ref=e546]: Why are you being asked to complete this form?
+              - paragraph [ref=e547]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e548]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e549] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e550]: How do you know if you have a disability?
+              - paragraph [ref=e551]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e552]: "Disabilities include, but are not limited to:"
+              - list [ref=e553]:
+                - listitem [ref=e554]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e555]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e556]: Blind or low vision
+                - listitem [ref=e557]: Cancer (past or present)
+                - listitem [ref=e558]: Cardiovascular or heart disease
+                - listitem [ref=e559]: Celiac disease
+                - listitem [ref=e560]: Cerebral palsy
+                - listitem [ref=e561]: Deaf or serious difficulty hearing
+                - listitem [ref=e562]: Diabetes
+                - listitem [ref=e563]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e564]: Epilepsy or other seizure disorder
+                - listitem [ref=e565]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e566]: Intellectual or developmental disability
+                - listitem [ref=e567]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e568]: Missing limbs or partially missing limbs
+                - listitem [ref=e569]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e570]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e571]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e572]: Partial or complete paralysis (any cause)
+                - listitem [ref=e573]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e574]: Short stature (dwarfism)
+                - listitem [ref=e575]: Traumatic brain injury
+            - generic [ref=e578]:
+              - generic [ref=e579]: Disability Status
+              - generic [ref=e580]:
+                - log [ref=e582]
+                - generic [ref=e584]:
+                  - generic [ref=e585]:
+                    - generic [ref=e586]: Select...
+                    - combobox "Disability Status" [ref=e588]
+                  - button "Toggle flyout" [ref=e590] [cursor=pointer]:
+                    - img [ref=e591]
+            - paragraph [ref=e594]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e596] [cursor=pointer]
+  - contentinfo [ref=e597]:
+    - generic [ref=e598]:
+      - paragraph [ref=e599]: Powered by
+      - link "Greenhouse logo" [ref=e600] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e601]

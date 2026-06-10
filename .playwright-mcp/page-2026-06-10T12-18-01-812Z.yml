@@ -1,0 +1,128 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]: .
+    - generic [ref=e4]: ..
+    - generic [ref=e5]: .
+  - generic [ref=e7]:
+    - link "Skip to main content." [ref=e8] [cursor=pointer]:
+      - /url: "#main"
+    - generic [ref=e10]:
+      - main [ref=e13]:
+        - alert "Loading screen" [ref=e17]: 
+      - contentinfo [ref=e18]:
+        - generic [ref=e20]:
+          - generic [ref=e22]:
+            - generic [ref=e23]:
+              - img "American Express" [ref=e24]
+              - img "American Express Careers" [ref=e25]
+            - generic [ref=e26]:
+              - heading "Manage Your Profile" [level=2] [ref=e27]
+              - list [ref=e28]:
+                - listitem [ref=e29]:
+                  - link "Colleagues" [ref=e30] [cursor=pointer]:
+                    - /url: https://egug.fa.us2.oraclecloud.com/
+            - generic [ref=e31]:
+              - heading "About" [level=2] [ref=e32]
+              - list [ref=e33]:
+                - listitem [ref=e34]:
+                  - link "About American Express" [ref=e35] [cursor=pointer]:
+                    - /url: https://www.americanexpress.com/en-us/newsroom/
+          - generic [ref=e37]:
+            - paragraph [ref=e38]: Follow American Express on
+            - generic [ref=e39]:
+              - link "Facebook" [ref=e40] [cursor=pointer]:
+                - /url: https://www.facebook.com/AmericanExpressUS
+                - img "Facebook" [ref=e41]
+              - link "LinkedIn" [ref=e42] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/american-express
+                - img "LinkedIn" [ref=e43]
+              - link "Twitter" [ref=e44] [cursor=pointer]:
+                - /url: https://x.com/americanexpress
+                - img "Twitter" [ref=e45]
+              - link "Instagram" [ref=e46] [cursor=pointer]:
+                - /url: https://www.instagram.com/AmericanExpress
+                - img "Instagram" [ref=e47]
+              - link "YouTube" [ref=e48] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/AmericanExpress
+                - img "YouTube" [ref=e49]
+          - generic [ref=e50]:
+            - link "Visit American Express" [ref=e51] [cursor=pointer]:
+              - /url: https://www.americanexpress.com/
+            - text: "|"
+            - link "AdChoices" [ref=e52] [cursor=pointer]:
+              - /url: https://www.americanexpress.com/us/company/privacy-center/online-privacy-disclosures/
+            - text: "|"
+            - link "Privacy Statement" [ref=e53] [cursor=pointer]:
+              - /url: https://www.americanexpress.com/en-us/careers/orps/
+            - text: "|"
+            - link "Cookie Policy" [ref=e54] [cursor=pointer]:
+              - /url: https://www.americanexpress.com/en-us/careers/orc/english-uk/cookie-policy.html
+            - text: "|"
+            - link "Recruitment Fraud Warning" [ref=e55] [cursor=pointer]:
+              - /url: https://www.americanexpress.com/en-us/careers/recruitment-fraud/
+            - text: "|"
+            - link "Terms of Service" [ref=e56] [cursor=pointer]:
+              - /url: https://www.americanexpress.com/us/legal-disclosures/website-rules-and-regulations.html
+            - text: "|"
+            - link "AI Usage" [ref=e57] [cursor=pointer]:
+              - /url: https://www.americanexpress.com/en-us/careers/ai-guidelines/
+            - text: "|"
+            - link "Contact Us" [ref=e58] [cursor=pointer]:
+              - /url: https://www.americanexpress.com/en-us/careers/orc/contact-us/
+          - generic [ref=e59]:
+            - paragraph [ref=e60]: Individuals featured on this site may include current or former colleagues.
+            - paragraph [ref=e61]:
+              - text: At American Express, you’ll be recognized for your contributions, leadership, and impact—every colleague has the opportunity to share in the company’s success. Together, we’ll win as a team, striving to uphold our
+              - link "company values" [ref=e62] [cursor=pointer]:
+                - /url: https://www.americanexpress.com/en-us/company/who-we-are/
+              - text: and powerful backing promise to provide the world’s best customer experience every day. And we’ll do it with the utmost integrity, and in an environment where everyone is seen, heard and feels like they belong.
+            - paragraph [ref=e63]: American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law.
+            - paragraph [ref=e64]:
+              - text: US Job Seekers - Click to view the
+              - link "Know Your Rights" [ref=e65] [cursor=pointer]:
+                - /url: https://www.eeoc.gov/poster
+              - text: ". If the link does not work, you may access the poster by copying and pasting the following URL in a new browser window:"
+              - link "https://www.eeoc.gov/poster" [ref=e66] [cursor=pointer]:
+                - /url: https://www.eeoc.gov/poster
+            - paragraph [ref=e67]:
+              - text: If you have a disability or a special need that requires a reasonable accommodation throughout the recruitment process, you can email
+              - link "recruitmentoperationsservicing@aexp.com" [ref=e68] [cursor=pointer]:
+                - /url: mailto:recruitmentoperationsservicing@aexp.com
+              - text: or inform your recruiter. Please indicate if you prefer a response via email or phone.
+            - paragraph [ref=e69]: © 2026 American Express. All rights reserved
+    - dialog "Cookie Consent Message" [ref=e71]:
+      - article [ref=e77]:
+        - generic [ref=e81]:
+          - paragraph [ref=e87]:
+            - document [ref=e88]:
+              - paragraph [ref=e89]: Our Use of Cookies
+              - generic [ref=e90]:
+                - paragraph [ref=e91]:
+                  - text: American Express uses cookies on this
+                  - strong [ref=e92]: Jobs
+                  - text: website, and the associated Jobs Application webpages, to ensure its proper performance and security and to provide you with the services you have requested (strictly necessary cookies). We also wish to use cookies to remember your preferences, understand how you use this website and enable us and our third-party partners to provide you with online recruitment opportunities ( functional cookies, analytical and performance cookies, and marketing cookies). By clicking “Accept All”, you consent to the use of cookies by us and our partners for the purposes set out in our
+                  - link "Cookie Policy" [ref=e93] [cursor=pointer]:
+                    - /url: https://www.americanexpress.com/en-us/careers/orc/english-uk/cookie-policy.html
+                  - text: . By clicking “Reject All”, only strictly necessary cookies will be placed. You can manage your preferences by clicking 'Manage Preferences' below. For more information on how we use cookies, or to change your cookie preferences at any time, please see our
+                  - link "Cookie Policy" [ref=e94] [cursor=pointer]:
+                    - /url: https://www.americanexpress.com/en-us/careers/orc/english-uk/cookie-policy.html
+                  - text: .
+                - paragraph [ref=e95]:
+                  - strong [ref=e96]: Note
+                  - text: ": Cookies choices made on this website are specific only to the American Express"
+                  - strong [ref=e97]: Jobs and Job Application webpages.
+                - paragraph [ref=e98]:
+                  - text: A list of American Express entities using cookies on this website is set out in our
+                  - link "Cookie Policy" [ref=e99] [cursor=pointer]:
+                    - /url: https://www.americanexpress.com/en-us/careers/orc/english-uk/cookie-policy.html
+                  - text: .
+          - generic [ref=e106]:
+            - generic [ref=e107]:
+              - button "Accept All" [ref=e108] [cursor=pointer]:
+                - generic [ref=e109]: Accept All
+              - button "Reject All" [ref=e110] [cursor=pointer]:
+                - generic [ref=e111]: Reject All
+            - button "Manage Preferences" [ref=e114] [cursor=pointer]
+    - alert
+    - status [ref=e115]
+    - alert [ref=e116]

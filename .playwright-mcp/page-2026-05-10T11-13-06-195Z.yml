@@ -1,0 +1,111 @@
+- generic [active] [ref=e1]:
+  - link "Whoop logo" [ref=e4] [cursor=pointer]:
+    - /url: https://jobs.lever.co/whoop
+    - img "Whoop logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "Software Engineer I (Quality)" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: Boston, MA
+          - generic [ref=e14]: Software /
+          - generic [ref=e15]: On-site
+      - link "apply for this job" [ref=e17] [cursor=pointer]:
+        - /url: https://jobs.lever.co/whoop/b7f75849-b5c0-49fe-8d24-50cbb39d284d/apply
+    - generic [ref=e18]:
+      - generic [ref=e20]:
+        - paragraph [ref=e21]: At WHOOP, we're on a mission to unlock human performance and healthspan. WHOOP empowers members to perform at a higher level through a deeper understanding of their bodies and daily lives and empowers members with the insights to live a longer healthier life.
+        - paragraph [ref=e22]: As an SDET, you will contribute to ensuring the quality and reliability of our products by developing and maintaining automated tests. You will work closely with engineers and product teams to validate functionality and improve testing practices while building foundational skills in test automation and quality engineering.
+        - paragraph [ref=e23]: This role is ideal for engineers early in their careers who are growing their ability to deliver high-quality test code with guidance.
+      - generic [ref=e25]:
+        - heading "RESPONSIBILITIES:" [level=3] [ref=e26]
+        - generic [ref=e29]:
+          - heading "Responsibilities" [level=3] [ref=e30]:
+            - strong [ref=e31]: Responsibilities
+          - heading "Test Automation & Development" [level=4] [ref=e32]:
+            - strong [ref=e33]: Test Automation & Development
+          - list [ref=e34]:
+            - listitem [ref=e35]:
+              - paragraph [ref=e36]: Develop and maintain automated tests for core product functionality (unit, integration, and basic end-to-end tests)
+            - listitem [ref=e37]:
+              - paragraph [ref=e38]: Follow established testing frameworks, patterns, and best practices
+            - listitem [ref=e39]:
+              - paragraph [ref=e40]: Participate in code reviews and apply feedback to improve test quality
+            - listitem [ref=e41]:
+              - paragraph [ref=e42]: Contribute to validating new features and ensuring regression coverage
+          - heading "Quality Assurance" [level=4] [ref=e43]:
+            - strong [ref=e44]: Quality Assurance
+          - list [ref=e45]:
+            - listitem [ref=e46]:
+              - paragraph [ref=e47]: Ensure critical user journeys are covered by automated tests
+            - listitem [ref=e48]:
+              - paragraph [ref=e49]: Identify, document, and escalate defects with clear reproduction steps
+            - listitem [ref=e50]:
+              - paragraph [ref=e51]: Support manual and exploratory testing where needed
+          - heading "Execution & Delivery" [level=4] [ref=e52]:
+            - strong [ref=e53]: Execution & Delivery
+          - list [ref=e54]:
+            - listitem [ref=e55]:
+              - paragraph [ref=e56]: Execute well-defined testing tasks within project timelines
+            - listitem [ref=e57]:
+              - paragraph [ref=e58]: Begin estimating effort for assigned work and improving accuracy over time
+            - listitem [ref=e59]:
+              - paragraph [ref=e60]: Support team goals by delivering reliable and maintainable test coverage
+          - heading "Collaboration" [level=4] [ref=e61]:
+            - strong [ref=e62]: Collaboration
+          - list [ref=e63]:
+            - listitem [ref=e64]:
+              - paragraph [ref=e65]: Work closely with engineers, QA, and product managers to understand requirements
+            - listitem [ref=e66]:
+              - paragraph [ref=e67]: Actively participate in team ceremonies and communicate progress and blockers
+            - listitem [ref=e68]:
+              - paragraph [ref=e69]: Ask questions to gain clarity and improve implementation
+          - heading "Learning & Growth" [level=4] [ref=e70]:
+            - strong [ref=e71]: Learning & Growth
+          - list [ref=e72]:
+            - listitem [ref=e73]:
+              - paragraph [ref=e74]: Build foundational knowledge of system architecture, testing tools, and CI/CD pipelines
+            - listitem [ref=e75]:
+              - paragraph [ref=e76]: Learn debugging techniques and test design strategies
+            - listitem [ref=e77]:
+              - paragraph [ref=e78]: Continuously improve based on feedback and mentorship
+      - generic [ref=e80]:
+        - heading "QUALIFICATIONS:" [level=3] [ref=e81]
+        - list [ref=e85]:
+          - listitem [ref=e86]:
+            - paragraph [ref=e87]: Bachelor’s degree in Computer Science or related field (or equivalent experience)
+          - listitem [ref=e88]:
+            - paragraph [ref=e89]: Basic programming experience in one or more languages
+          - listitem [ref=e90]:
+            - paragraph [ref=e91]: Familiarity with software testing concepts and methodologies
+          - listitem [ref=e92]:
+            - paragraph [ref=e93]: Insatiable curiosity and willingness to hold multiple perspectives
+          - listitem [ref=e94]:
+            - paragraph [ref=e95]: Strong willingness to learn and grow in test automation and quality engineering
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - emphasis [ref=e99]: Learn more about our Software Org and how to be successful in your engineering career at WHOOP via our
+          - link "Career Framework" [ref=e100] [cursor=pointer]:
+            - /url: https://engineering.prod.whoop.com/careerframework
+            - emphasis [ref=e101]: Career Framework
+          - emphasis [ref=e102]: .
+        - strong [ref=e105]:
+          - emphasis [ref=e106]: This role is based in the WHOOP office located in Boston, MA. The successful candidate must be prepared to relocate if necessary to work out of the Boston, MA office.
+        - emphasis [ref=e109]: Interested in the role, but don’t meet every qualification? We encourage you to still apply! At WHOOP, we believe there is much more to a candidate than what is written on paper, and we value character as much as experience. As we continue to build a diverse and inclusive environment, we encourage anyone who is interested in this role to apply.
+        - generic [ref=e111]:
+          - emphasis [ref=e112]: WHOOP is an Equal Opportunity Employer and participates in
+          - link "E-verify" [ref=e113] [cursor=pointer]:
+            - /url: https://www.e-verify.gov/
+            - emphasis [ref=e114]: E-verify
+          - emphasis [ref=e115]: to determine employment eligibility. It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+        - emphasis [ref=e118]: The WHOOP compensation philosophy is designed to attract, motivate, and retain exceptional talent by offering competitive base salaries, meaningful equity, and consistent pay practices that reflect our mission and core values.
+        - emphasis [ref=e121]: At WHOOP, we view total compensation as the combination of base salary, equity, and benefits, with equity serving as a key differentiator that aligns our employees with the long-term success of the company and allows every member of our corporate team to own part of WHOOP and share in the company’s long-term growth and success.
+        - emphasis [ref=e124]: The U.S. base salary range for this full-time position is $105,000 - 145,000. Salary ranges are determined by role, level, and location. Within each range, individual pay is based on factors such as job-related skills, experience, performance, and relevant education or training.
+        - emphasis [ref=e127]: In addition to the base salary, the successful candidate will also receive benefits and a generous equity package.
+        - emphasis [ref=e130]: These ranges may be modified in the future to reflect evolving market conditions and organizational needs. While most offers will typically fall toward the starting point of the range, total compensation will depend on the candidate’s specific qualifications, expertise, and alignment with the role’s requirements.
+      - link "apply for this job" [ref=e132] [cursor=pointer]:
+        - /url: https://jobs.lever.co/whoop/b7f75849-b5c0-49fe-8d24-50cbb39d284d/apply
+  - link "Jobs powered by Lever logo" [ref=e135] [cursor=pointer]:
+    - /url: https://www.lever.co/job-seeker-support/
+    - generic [ref=e136]: Jobs powered by
+    - img "Lever logo" [ref=e137]

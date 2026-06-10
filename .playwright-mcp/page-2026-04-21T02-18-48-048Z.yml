@@ -1,0 +1,65 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - button "Hamburger menu icon" [ref=e6]:
+          - img "Hamburger menu icon" [ref=e7]
+        - link "Spot and Tango logo" [ref=e8] [cursor=pointer]:
+          - /url: https://www.spotandtango.com/?utm_source=Simplify
+          - img "Spot and Tango logo" [ref=e9]
+      - link "Get Started" [ref=e11] [cursor=pointer]:
+        - /url: https://shop.spotandtango.com/?utm_source=Simplify
+        - generic [ref=e12]: Get Started
+  - contentinfo [ref=e34]:
+    - generic [ref=e35]:
+      - link "Spot and Tango logo" [ref=e37] [cursor=pointer]:
+        - /url: https://www.spotandtango.com/?utm_source=Simplify
+        - img "Spot and Tango logo" [ref=e38]
+      - generic [ref=e39]:
+        - generic [ref=e40]:
+          - generic [ref=e41]:
+            - link "Shop" [ref=e42] [cursor=pointer]:
+              - /url: https://shop.spotandtango.com/signup/?utm_source=Simplify
+            - link "Blog" [ref=e43] [cursor=pointer]:
+              - /url: https://www.spotandtango.com/blog?utm_source=Simplify
+            - link "UnKibble" [ref=e44] [cursor=pointer]:
+              - /url: https://www.spotandtango.com/unkibble?utm_source=Simplify
+            - link "Why S&T" [ref=e45] [cursor=pointer]:
+              - /url: https://learn.spotandtango.com/?utm_source=Simplify
+          - generic [ref=e46]:
+            - link "What The Pup" [ref=e47] [cursor=pointer]:
+              - /url: https://whatthepup.spotandtango.com/?utm_source=Simplify
+            - link "Privacy Policy" [ref=e48] [cursor=pointer]:
+              - /url: https://www.spotandtango.com/privacy-policy?utm_source=Simplify
+            - link "Terms of Use" [ref=e49] [cursor=pointer]:
+              - /url: https://www.spotandtango.com/terms-of-use?utm_source=Simplify
+            - link "Careers" [ref=e50] [cursor=pointer]:
+              - /url: https://www.spotandtango.com/careers?utm_source=Simplify
+          - generic [ref=e51]:
+            - link "Refer a Friend" [ref=e52] [cursor=pointer]:
+              - /url: https://www.spotandtango.com/refer?utm_source=Simplify
+            - link "Media Inquiries" [ref=e53] [cursor=pointer]:
+              - /url: "mailto: press@spotandtango.com"
+            - link "Affiliate Inquiries" [ref=e54] [cursor=pointer]:
+              - /url: https://try.spotandtango.com/affiliates/?utm_source=Simplify
+            - link "Contact Us" [ref=e55] [cursor=pointer]:
+              - /url: https://www.spotandtango.com/faq?a=How-do-I-contact-customer-support---id--IKoHhdLiR3SYrMUbeS90EQ
+        - generic [ref=e56]:
+          - paragraph [ref=e57]: Sign Up for Pet Tips & More
+          - generic [ref=e58]:
+            - textbox "Enter Your Email" [ref=e59]
+            - button "Sign Up" [ref=e60]
+        - generic [ref=e61]:
+          - link "Instagram logo" [ref=e62] [cursor=pointer]:
+            - /url: https://www.instagram.com/spotandtango/
+            - img "Instagram logo" [ref=e63]
+          - link "Facebook logo" [ref=e64] [cursor=pointer]:
+            - /url: https://www.facebook.com/groups/1000066503949814?utm_source=Simplify
+            - img "Facebook logo" [ref=e65]
+          - link "TikTok logo" [ref=e66] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@spotandtango
+            - img "TikTok logo" [ref=e67]
+          - link "Pinterest logo" [ref=e68] [cursor=pointer]:
+            - /url: https://www.pinterest.com/spotandtango/pins/?utm_source=Simplify
+            - img "Pinterest logo" [ref=e69]
+  - alert [ref=e70]

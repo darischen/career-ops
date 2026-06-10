@@ -1,0 +1,149 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Vapi" [ref=e6] [cursor=pointer]:
+        - /url: https://www.vapi.ai/
+        - img "Vapi" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Vapi’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /vapi
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Member of Technical Staff, Backend" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: San Francisco
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]:
+            - generic [ref=e29]: Engineering, Product & Design ›
+            - generic [ref=e30]: Product Engineering
+        - generic [ref=e31]:
+          - heading "Compensation" [level=2] [ref=e32]
+          - list [ref=e33]:
+            - listitem [ref=e34]:
+              - generic [ref=e35]: Engineering
+              - generic [ref=e36]: $200K – $280K • Offers Equity
+      - generic [ref=e37]:
+        - tablist [ref=e38]:
+          - tab "Overview" [selected] [ref=e39] [cursor=pointer]
+          - tab "Application" [ref=e40] [cursor=pointer]
+        - tabpanel "Overview" [ref=e42]:
+          - generic [ref=e43]:
+            - heading "Vapi (/ˈVɑːpi/):" [level=2] [ref=e44]:
+              - strong [ref=e45]: "Vapi (/ˈVɑːpi/):"
+            - list [ref=e46]:
+              - listitem [ref=e47]:
+                - paragraph [ref=e48]: We’re creating the shift to voice as humanity’s default interface
+              - listitem [ref=e49]:
+                - paragraph [ref=e50]: We’re the most configurable platform for deploying voice agents
+              - listitem [ref=e51]:
+                - paragraph [ref=e52]: We’ve grown to over 600k developers in two years, adding 2,000+ every day
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]:
+                  - link "Try talking to Vapi now!" [ref=e55] [cursor=pointer]:
+                    - /url: https://vapi.ai/
+            - paragraph [ref=e56]
+            - heading "Why We’re Hiring This Role:" [level=2] [ref=e57]:
+              - strong [ref=e58]: "Why We’re Hiring This Role:"
+            - list [ref=e59]:
+              - listitem [ref=e60]:
+                - paragraph [ref=e61]: We get a feature request every 30 min.
+              - listitem [ref=e62]:
+                - paragraph [ref=e63]: We’re hiring a cracked backend engineer to ship a ton more stuff.
+            - paragraph [ref=e64]
+            - heading "What You’ll Do:" [level=2] [ref=e65]:
+              - strong [ref=e66]: "What You’ll Do:"
+            - list [ref=e67]:
+              - listitem [ref=e68]:
+                - paragraph [ref=e69]:
+                  - strong [ref=e70]: 30 Day
+                  - text: ": You’ll ramp on our voice agent pipeline. It’s hard and fun."
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]:
+                  - strong [ref=e73]: 60 Day
+                  - text: ": You’ll own end-to-end large projects like WhatsApp voice agents or auto RL loop."
+              - listitem [ref=e74]:
+                - paragraph [ref=e75]:
+                  - strong [ref=e76]: 90 Day
+                  - text: ": You’ll talk to customers and design APIs that last a century and delight them."
+            - paragraph [ref=e77]
+            - heading "Who You Are:" [level=2] [ref=e78]:
+              - strong [ref=e79]: "Who You Are:"
+            - list [ref=e80]:
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: You’ve seen Series B to F.
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: You’ve built beautiful products that we admire.
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: "Bonus: You’ve built your own startup."
+            - paragraph [ref=e87]
+            - heading "Why Vapi:" [level=2] [ref=e88]:
+              - strong [ref=e89]: "Why Vapi:"
+            - list [ref=e90]:
+              - listitem [ref=e91]:
+                - paragraph [ref=e92]:
+                  - strong [ref=e93]: Generational impact
+                  - text: ": Build the"
+                  - emphasis [ref=e94]: human interface
+                  - text: for every business
+              - listitem [ref=e95]:
+                - paragraph [ref=e96]:
+                  - strong [ref=e97]: Ownership culture
+                  - text: ": 70% of the company are previous founders"
+              - listitem [ref=e98]:
+                - paragraph [ref=e99]:
+                  - strong [ref=e100]: Kind team
+                  - text: ": The founders, Jordan and Nikhil, are Canadians"
+              - listitem [ref=e101]:
+                - paragraph [ref=e102]:
+                  - strong [ref=e103]: Tier-1 Investors
+                  - text: ": YC, KP seed, Bessemer Series A"
+            - paragraph [ref=e104]
+            - heading "What We Offer:" [level=2] [ref=e105]:
+              - strong [ref=e106]: "What We Offer:"
+            - list [ref=e107]:
+              - listitem [ref=e108]:
+                - paragraph [ref=e109]:
+                  - strong [ref=e110]: Real stake
+                  - text: ": We offer a competitive salary and excellent equity ownership"
+              - listitem [ref=e111]:
+                - paragraph [ref=e112]:
+                  - strong [ref=e113]: Comprehensive health coverage
+                  - text: ": medical, dental, and vision plans"
+              - listitem [ref=e114]:
+                - paragraph [ref=e115]:
+                  - strong [ref=e116]: Team love
+                  - text: ": We love hanging out, and we do quarterly off-sites"
+              - listitem [ref=e117]:
+                - paragraph [ref=e118]:
+                  - strong [ref=e119]: Flexible time off
+                  - text: ": take what you need"
+              - listitem [ref=e120]:
+                - paragraph [ref=e121]:
+                  - strong [ref=e122]: More
+                  - text: ": catered meals, transportation, gym, and a $10k annual L&D budget"
+          - link "Apply for this Job" [ref=e123] [cursor=pointer]:
+            - /url: /vapi/d270d613-30b8-4fdc-96e0-514993ca7a82/application
+            - button "Apply for this Job" [ref=e124]
+  - contentinfo [ref=e125]:
+    - link "Learn more about Ashby" [ref=e126] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e127]: Powered by
+      - img "Ashby" [ref=e128]
+    - paragraph [ref=e134]:
+      - link "Privacy Policy" [ref=e135] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e136] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e137] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

@@ -1,0 +1,137 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - heading "Software Engineer 1" [level=2] [ref=e9]
+        - generic [ref=e10]:
+          - generic [ref=e11]: Annapolis Junction, Maryland
+          - generic [ref=e12]: FFPP Team /
+          - generic [ref=e13]: Software Engineering (Full-Time) /
+          - generic [ref=e14]: On-site
+      - link "apply for this job" [ref=e16] [cursor=pointer]:
+        - /url: https://jobs.lever.co/wyetechllc/e9ee766a-35f4-44a0-80b3-122a74ea677d/apply
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - strong [ref=e20]:
+          - emphasis [ref=e21]: At Wyetech, you’ll be at the center of an award-winning corporate culture, breaking technological barriers and solving real-world problems for our federal government customers. We are committed to hiring the best of the best, and in return, we offer a world-class, truly unique employee experience that is rare within our industry.
+        - generic [ref=e23]: The Software Engineer develops, maintains, and enhances complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements. Works individually or as part of a team. Reviews and tests software components for adherence to the design requirements and documents test results. Resolves software problem reports. Utilizes software development and software design methodologies appropriate to the development environment. Provides specific input to the software components of system design to include hardware/software trade-offs, software reuse, use of Commercial Off-the-shelf (COTS)/Government Off-the-shelf (GOTS) in place of new development, and requirements analysis and synthesis from system level to individual software components.
+        - strong [ref=e26]:
+          - emphasis [ref=e27]: Due to federal contract requirements, United States Citizenship and position appropriate security clearance is required. (e.g. Active TS/SCI security clearance with agency appropriate polygraph).
+      - generic [ref=e29]:
+        - heading "Capabilities" [level=3] [ref=e30]
+        - list [ref=e33]:
+          - listitem [ref=e34]: Analyze user requirements to derive software design and performance requirements
+          - listitem [ref=e35]: Design and code new software or modify existing software to add new features
+          - listitem [ref=e36]: Debug existing software and correct defects
+          - listitem [ref=e37]: Integrate existing software into new or modified systems or operating environments
+          - listitem [ref=e38]: Develop simple data queries for existing or proposed databases or data repositories
+          - listitem [ref=e39]: Provide recommendations for improving documentation and software development process standards
+          - listitem [ref=e40]: Develop or implement algorithms to meet or exceed system performance and functional standards
+          - listitem [ref=e41]: Assist with developing and executing test procedures for software components
+          - listitem [ref=e42]: Write or review software and system documentation
+          - listitem [ref=e43]: Develop software solutions by analyzing system performance standards, confer with users or system engineers; analyze systems flow, data usage and work processes; and investigate problem areas
+          - listitem [ref=e44]: Serve as team lead at the level appropriate to the software development process being used on any particular project
+          - listitem [ref=e45]: Modify existing software to correct errors, to adapt to new hardware, or to improve its performance
+          - listitem [ref=e46]: Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of design
+          - listitem [ref=e47]: Design or implement complex database or data repository interfaces/queries
+      - generic [ref=e49]:
+        - heading "Required Qualifications" [level=3] [ref=e50]
+        - list [ref=e53]:
+          - listitem [ref=e54]: TS/SCI with agency appropriate poly
+          - listitem [ref=e55]: Seven (7) years’ experience as a SWE, in programs and contracts of similar scope, type, and complexity is required.
+          - listitem [ref=e56]: Bachelor’s degree in Computer Science or related discipline from an accredited college or university is required.
+          - listitem [ref=e57]: Four (4) years of additional SWE experience on projects with similar software processes may be substituted for a bachelor’s degree.
+      - generic [ref=e59]:
+        - heading "Required Technical Skills" [level=3] [ref=e60]
+        - list [ref=e63]:
+          - listitem [ref=e64]: AI/ML development or integration experience
+          - listitem [ref=e65]: Terraform experience with AWS
+          - listitem [ref=e66]: C++, Python and/or Golang
+          - listitem [ref=e67]: Experience with writing high-performance / GPU-enabled applications
+          - listitem [ref=e68]: Experience with large-scale streaming data analytic systems
+      - generic [ref=e70]:
+        - heading "The Benefits Package" [level=3] [ref=e71]
+        - generic [ref=e74]:
+          - list [ref=e75]:
+            - listitem [ref=e76]:
+              - emphasis [ref=e77]:
+                - strong [ref=e78]: Wyetech believes in generously supporting employees as they prepare for retirement. The company automatically contributes 20% of each employee's gross compensation to a Simplified Employee Pension (SEP) IRA, with no requirement for employee matching. All contributions are fully vested from day one, ensuring immediate ownership of retirement funds.
+          - emphasis [ref=e81]:
+            - strong [ref=e82]: "Additional benefits include:"
+          - list [ref=e83]:
+            - listitem [ref=e84]:
+              - emphasis [ref=e85]:
+                - strong [ref=e86]: Wyetech provides a generous PTO plan of up to 200 hours annually, aligned with applicable state leave regulations. Employees have the flexibility to adjust their PTO allocation at the start of each calendar year, ensuring it meets their evolving needs.
+          - emphasis [ref=e89]:
+            - strong [ref=e90]: "Full-time employees have the option to participate in a variety of voluntary benefit plans including:"
+          - list [ref=e91]:
+            - listitem [ref=e92]:
+              - emphasis [ref=e93]:
+                - strong [ref=e94]: A Choice of Medical Plan Options, some with Health Savings Account (HSA)
+            - listitem [ref=e95]:
+              - emphasis [ref=e96]:
+                - strong [ref=e97]: Vision and Dental
+            - listitem [ref=e98]:
+              - emphasis [ref=e99]:
+                - strong [ref=e100]: Life and AD&D Benefits
+            - listitem [ref=e101]:
+              - emphasis [ref=e102]:
+                - strong [ref=e103]: Short and Long-Term Disability
+            - listitem [ref=e104]:
+              - emphasis [ref=e105]:
+                - strong [ref=e106]: Hospital Indemnity, Accident, and Critical Illness Insurances
+            - listitem [ref=e107]:
+              - emphasis [ref=e108]:
+                - strong [ref=e109]: Optional Identity Theft and Legal Protection Services
+      - generic [ref=e111]:
+        - heading "Company Environment & Perks" [level=3] [ref=e112]
+        - list [ref=e116]:
+          - listitem [ref=e117]:
+            - emphasis [ref=e118]:
+              - strong [ref=e119]: Employee Referral Bonus Eligibility up to $10,000
+          - listitem [ref=e120]:
+            - emphasis [ref=e121]:
+              - strong [ref=e122]: Mobility Among Wyetech-supported Contracts
+          - listitem [ref=e123]:
+            - emphasis [ref=e124]:
+              - strong [ref=e125]: Various contract and work locations throughout Maryland, Virginia, Colorado, Texas, Utah, Alaska, Hawaii and OCONUS
+          - listitem [ref=e126]:
+            - emphasis [ref=e127]:
+              - strong [ref=e128]: "Various team-building events throughout the year such as: monthly lunches, summer company picnic, and an annual holiday party."
+          - listitem [ref=e129]:
+            - emphasis [ref=e130]:
+              - strong [ref=e131]: Employees receive two complementary branded clothing orders annually.
+      - generic [ref=e132]:
+        - generic [ref=e133]: $52.46 - $107.37 an hour
+        - generic [ref=e134]:
+          - generic [ref=e135]:
+            - emphasis [ref=e136]:
+              - strong [ref=e137]:
+                - text: "Pay Range: $52.46 - $"
+                - link "1" [ref=e138] [cursor=pointer]:
+                  - /url: http://82.53
+                - text: "07.37"
+            - emphasis [ref=e140]:
+              - strong [ref=e141]
+            - emphasis [ref=e142]:
+              - strong [ref=e143]: per hour*
+          - emphasis [ref=e145]:
+            - strong [ref=e146]: "Hourly pay rates listed for this position serve as a general guideline and are not a guarantee of compensation. Compensation will vary dependent upon factors including but not limited to: Government contract rates; education; relevant prior work experience, knowledge, skills, and competencies; certifications, and geographic location. *Hourly pay rates reflect the pre-benefit gross wage amounts."
+      - generic [ref=e147]:
+        - emphasis [ref=e149]:
+          - strong [ref=e150]: Wyetech, LLC is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+        - emphasis [ref=e153]:
+          - strong [ref=e154]: "Affirmative Action Statement:"
+        - emphasis [ref=e156]:
+          - strong [ref=e157]: Wyetech, LLC is committed to the principles of affirmative action in all hiring and employment for minorities, women, individuals with disabilities, and protected veterans.
+        - emphasis [ref=e160]:
+          - strong [ref=e161]: "Accommodations:"
+        - emphasis [ref=e163]:
+          - strong [ref=e164]: Wyetech, LLC is committed to providing an inclusive and accessible hiring process. If you need any accommodations during the application or interview process, please contact Brittney Wood. at 844-WYETECH x727 or staffing@wyetech.com. We are happy to provide reasonable accommodations to ensure equal access to all candidates.
+      - generic [ref=e166]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e168] [cursor=pointer]:
+        - /url: https://jobs.lever.co/wyetechllc/e9ee766a-35f4-44a0-80b3-122a74ea677d/apply
+  - link "Jobs powered by Lever logo" [ref=e171] [cursor=pointer]:
+    - /url: https://www.lever.co/job-seeker-support/
+    - generic [ref=e172]: Jobs powered by
+    - img "Lever logo" [ref=e173]

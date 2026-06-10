@@ -1,0 +1,45 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - img [ref=e6]
+    - paragraph [ref=e8]: The job you are looking for is no longer open.
+  - main [ref=e9]:
+    - generic [ref=e10]:
+      - img "Nextdoor Campus Logo" [ref=e12]
+      - heading "Current openings at Nextdoor Campus" [level=1] [ref=e13]
+      - generic [ref=e17]:
+        - paragraph [ref=e18]:
+          - text: We are dedicated to building our company in the
+          - emphasis [ref=e19]:
+            - strong [ref=e20]: spirit of a great neighborhood
+          - text: . Just like in any great neighborhood, people may want to
+          - emphasis [ref=e21]:
+            - strong [ref=e22]: move, grow, or contribute
+          - text: in various ways throughout their lives—and your journey with Nextdoor could be an exciting part of that!
+        - paragraph [ref=e23]:
+          - text: We seek purpose-driven individuals who share our values. We encourage aspiring professionals to
+          - emphasis [ref=e24]:
+            - strong [ref=e25]: Think Big
+          - text: about their careers,
+          - emphasis [ref=e26]:
+            - strong [ref=e27]: push
+          - text: boundaries,
+          - emphasis [ref=e28]:
+            - strong [ref=e29]: overcome
+          - text: the fear of failure, and
+          - strong [ref=e30]:
+            - emphasis [ref=e31]: recognize
+          - text: that significant progress often comes from innovative approaches. If you're ready to take bold steps and embark on a rewarding career, consider joining us at Nextdoor!
+      - generic [ref=e32]:
+        - img [ref=e33]
+        - generic [ref=e35]:
+          - paragraph [ref=e36]: Create a Job Alert
+          - paragraph [ref=e37]: Level-up your career by having opportunities at Nextdoor Campus sent directly to your inbox.
+          - link "Create alert" [ref=e38] [cursor=pointer]:
+            - /url: https://my.greenhouse.io/users/sign_in?job_board=nextdoorcampus&source=job_alert_board
+      - paragraph [ref=e42]: There are no current openings.
+  - contentinfo [ref=e43]:
+    - generic [ref=e44]:
+      - paragraph [ref=e45]: Powered by
+      - link "Greenhouse logo" [ref=e46] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e47]

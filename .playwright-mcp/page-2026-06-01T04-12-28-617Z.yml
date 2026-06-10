@@ -1,0 +1,237 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic:
+        - link "Skip to main content":
+          - /url: "#content"
+      - generic [ref=e4]:
+        - img [ref=e9]
+        - generic [ref=e11]:
+          - button "Menu" [ref=e18] [cursor=pointer]:
+            - generic [ref=e19]: 
+          - list [ref=e22]:
+            - listitem [ref=e23]:
+              - button "Language" [ref=e24] [cursor=pointer]: Language
+            - listitem [ref=e26]:
+              - link "Sign In / Create Profile" [ref=e28] [cursor=pointer]:
+                - /url: "#"
+    - main [ref=e31]:
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - search [ref=e35]:
+            - generic [ref=e37]:
+              - generic [ref=e39]:
+                - generic [ref=e40]:
+                  - generic [ref=e41]: Search by Keyword
+                  - textbox "Search by Keyword" [ref=e42]
+                - generic [ref=e43]:
+                  - generic [ref=e44]: Search by Location
+                  - textbox "Search by Location" [ref=e45]
+              - button "Search Jobs" [ref=e49] [cursor=pointer]
+          - generic [ref=e54]:
+            - text: 
+            - generic [ref=e55]:
+              - generic [ref=e56]: "Select how often (in days) to receive an alert:"
+              - spinbutton "Select how often (in days) to receive an alert:" [ref=e57]: "7"
+            - button "Create Alert" [ref=e59] [cursor=pointer]:
+              - generic [ref=e60]: ✉
+              - text: Create Alert
+        - generic [ref=e61]:
+          - generic [ref=e62]:
+            - heading "Entry-Level ERP Application Developer" [level=1] [ref=e63]
+            - link "Apply now »" [ref=e65] [cursor=pointer]:
+              - /url: /talentcommunity/apply/1392553700/?locale=en_US
+          - paragraph [ref=e66]:
+            - strong [ref=e67]: "Date:"
+            - text: May 20, 2026
+          - paragraph [ref=e68]:
+            - strong [ref=e69]: "Location:"
+            - text: Savannah, GA, US
+          - paragraph [ref=e70]:
+            - strong [ref=e71]: "Company:"
+            - text: Gulfstream Aerospace Corporation
+          - generic [ref=e72]:
+            - generic [ref=e73]:
+              - paragraph [ref=e74]:
+                - strong [ref=e75]: Entry-Level ERP Application Developer in GAC Savannah
+              - paragraph [ref=e76]:
+                - strong [ref=e77]: "Unique Skills:"
+              - paragraph
+              - paragraph [ref=e78]: Become an important member of Gulfstream Aerospace and help deliver the world's finest aviation experience. We are seeking motivated and curious entry-level application developers to help build, enhance and support enterprise applications used to maintain our fleet of business aircraft. This position is ideal for recent graduates or early-career developers who are eager to grow their skills in a collaborative, enterprise development environment.
+              - paragraph [ref=e79]:
+                - strong [ref=e80]: Primary Responsibilities
+              - list [ref=e81]:
+                - listitem [ref=e82]: Assist with the development and maintenance of enterprise Java applications
+                - listitem [ref=e83]: Support database development and troubleshooting efforts
+                - listitem [ref=e84]: Help build and support services, APIs and system interfaces
+                - listitem [ref=e85]: Participate as a team member in Agile/Scrum development processes
+                - listitem [ref=e86]: Use Git-based source control and Azure DevOps under guidance from senior developers
+                - listitem [ref=e87]: Assist with application server and deployment environment support
+                - listitem [ref=e88]: Help troubleshoot applications running in Linux environments, including containerized deployments where applicable
+                - listitem [ref=e89]: Collaborate with senior developers, architects and business partners in a team-based environment
+              - paragraph [ref=e90]:
+                - strong [ref=e91]: Technologies Used
+              - list [ref=e92]:
+                - listitem [ref=e93]: Oracle SQL
+                - listitem [ref=e94]: Java and Spring Boot
+                - listitem [ref=e95]: HTML, CSS, Bootstrap, JavaScript, jQuery, React
+                - listitem [ref=e96]: Azure DevOps
+              - paragraph [ref=e97]:
+                - strong [ref=e98]: Runtime & Deployment Environments
+              - list [ref=e99]:
+                - listitem [ref=e100]: AIX and Linux-based platforms
+                - listitem [ref=e101]: Containerized application environments
+              - paragraph [ref=e102]:
+                - strong [ref=e103]: Enterprise Application Platforms
+              - list [ref=e104]:
+                - listitem [ref=e105]: SAP Hybris
+                - listitem [ref=e106]: Liferay
+              - paragraph [ref=e107]:
+                - strong [ref=e108]: Education / Experience
+              - list [ref=e109]:
+                - listitem [ref=e110]: Bachelor’s degree in Computer Science, Information Systems, or related field (or equivalent experience)
+                - listitem [ref=e111]: Relevant experience may include internships, co-op assignments, academic projects, or a master’s degree, which may offset one year of experience
+              - paragraph
+              - paragraph [ref=e112]
+              - paragraph [ref=e113]
+              - generic [ref=e114]:
+                - generic [ref=e115]:
+                  - heading "Education and Experience Requirements" [level=2] [ref=e117]
+                  - generic [ref=e118]:
+                    - text: Bachelor's Degree in Information Technology, Computer Science, Engineering or relevant curriculum required or equivalent combination of education and experience sufficient to successfully perform the essential functions of the job. Master's Degree may be used to offset one (1) year of experience; PhD may offset two (2) years of experience.
+                    - paragraph
+                    - paragraph
+                    - text: "Position Purpose:"
+                    - paragraph
+                    - text: This is an application development role within the Gulfstream Business Technology organization for the ERP team. This role directly supports the suite of Gulfstream ERP applications. Responsible for developing code in support of new application functionality or defect remediation according to design specifications.
+                - generic [ref=e119]:
+                  - heading "Job Description" [level=2] [ref=e121]
+                  - generic [ref=e122]:
+                    - paragraph
+                    - paragraph
+                    - text: "Principle Duties and Responsibilities:"
+                    - paragraph
+                    - text: "Essential Functions:"
+                    - list [ref=e123]:
+                      - listitem [ref=e124]: Assists with defining test conditions and comprehensive test plans.
+                      - paragraph
+                      - listitem [ref=e125]: Ensures applications processes are followed consistently and are in compliance with applicable policies, procedures, standards, etc.
+                      - paragraph
+                      - listitem [ref=e126]: Under general supervision prepares requirements, specifications, and business process maps.
+                      - paragraph
+                      - listitem [ref=e127]: Documents, develops, tests, deploys, and supports application code in support of business requirements.
+                    - paragraph
+                    - paragraph
+                    - paragraph
+                    - text: "Additional Functions:"
+                    - list [ref=e128]:
+                      - listitem [ref=e129]: Participates in design reviews for implementation projects. .
+                    - paragraph
+                    - text: Perform other duties as assigned.
+                    - paragraph
+                    - text: A credit history check from a national credit bureau will be conducted for all candidates for this position including new hires and current employees seeking promotion or transfer. This job requires one to be able to read, write, speak, and understand the English language.
+              - paragraph [ref=e130]:
+                - strong [ref=e131]: Additional Information
+              - paragraph [ref=e132]: "Requisition Number: 233340"
+              - paragraph [ref=e133]: "Category: Information Systems"
+              - paragraph [ref=e134]: "Percentage of Travel: Up to 25%"
+              - paragraph [ref=e135]: "Shift: First"
+              - paragraph [ref=e136]: "Employment Type: Full-time"
+              - paragraph [ref=e137]: "Posting End Date: 06/16/2026"
+              - paragraph [ref=e138]:
+                - generic [ref=e139]: Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans
+              - paragraph [ref=e140]
+              - paragraph [ref=e141]: Gulfstream does not provide work visa sponsorship for this position, unless the applicant is a currently sponsored Gulfstream employee.
+              - paragraph [ref=e142]:
+                - link "Legal Information" [ref=e143] [cursor=pointer]:
+                  - /url: http://www.gulfstream.com/legal_notice.htm
+                - text: "|"
+                - link "Site Utilities" [ref=e144] [cursor=pointer]:
+                  - /url: http://www.gulfstream.com/utilities/
+                - text: "|"
+                - link "Contacts" [ref=e145] [cursor=pointer]:
+                  - /url: http://www.gulfstream.com/contacts/
+                - text: "|"
+                - link "Sitemap" [ref=e146] [cursor=pointer]:
+                  - /url: http://www.gulfstream.com/sitemap.htm
+                - text: Copyright © 2025 Gulfstream Aerospace Corporation. All Rights Reserved.
+                - link "A General Dynamics Company" [ref=e147] [cursor=pointer]:
+                  - /url: http://www.generaldynamics.com/
+                - text: .
+              - paragraph [ref=e148]: "Gulfstream Aerospace Corporation, a wholly-owned subsidiary of General Dynamics (NYSE: GD), designs, develops, manufactures, markets, services and supports the world's most technologically-advanced business jet aircraft"
+            - paragraph [ref=e149]:
+              - generic [ref=e150]:
+                - strong [ref=e151]: "Nearest Major Market:"
+                - text: Savannah
+              - generic [ref=e152]:
+                - strong [ref=e153]: "Job Segment:"
+                - text: Application Developer, Computer Science, ERP, Developer, Technology, Entry Level
+          - link "Apply now »" [ref=e155] [cursor=pointer]:
+            - /url: /talentcommunity/apply/1392553700/?locale=en_US
+        - complementary "Find similar jobs" [ref=e157]:
+          - generic [ref=e158]: "Find similar jobs:"
+          - generic [ref=e159]:
+            - link "Information Technology Jobs," [ref=e160] [cursor=pointer]:
+              - /url: /go/Information-Technology-Jobs/986000/
+            - link "Information Technology" [ref=e161] [cursor=pointer]:
+              - /url: /go/Information-Technology/8311700/
+    - contentinfo [ref=e162]:
+      - generic [ref=e165]:
+        - list [ref=e166]:
+          - listitem [ref=e167]:
+            - link "Home" [ref=e168] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e169]:
+            - link "gulfstream.com" [ref=e170] [cursor=pointer]:
+              - /url: https://www.gulfstream.com
+          - listitem [ref=e171]:
+            - link "EEO Information" [ref=e172] [cursor=pointer]:
+              - /url: /content/EEO/?locale=en_US
+          - listitem [ref=e173]:
+            - link "Cookie Policy" [ref=e174] [cursor=pointer]:
+              - /url: https://documents.gulfstream.aero/index.html?document=cookie-policy
+          - listitem [ref=e175]:
+            - link "Privacy Notice" [ref=e176] [cursor=pointer]:
+              - /url: https://documents.gulfstream.aero/index.html?document=privacy-notice
+          - listitem [ref=e177]:
+            - link "Your Privacy Choices" [ref=e178] [cursor=pointer]:
+              - /url: "#"
+        - list [ref=e180]:
+          - listitem [ref=e181]:
+            - link "Visit our Facebook page" [ref=e182] [cursor=pointer]:
+              - /url: https://www.facebook.com/GulfstreamAero/
+              - generic [ref=e183]: Opens in a new tab.
+              - img [ref=e184]
+          - listitem [ref=e186]:
+            - link "Follow us on LinkedIn" [ref=e187] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/gulfstream-aerospace
+              - generic [ref=e188]: Opens in a new tab.
+              - img [ref=e189]
+          - listitem [ref=e191]:
+            - link "Follow us on Instagram" [ref=e192] [cursor=pointer]:
+              - /url: https://www.instagram.com/gulfstreamaero/?hl=en
+              - generic [ref=e193]: Opens in a new tab.
+              - img [ref=e194]
+          - listitem [ref=e197]:
+            - link "Follow us on X" [ref=e198] [cursor=pointer]:
+              - /url: https://twitter.com/GulfstreamAero?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+              - generic [ref=e199]: Opens in a new tab.
+              - img [ref=e200]
+          - listitem [ref=e202]:
+            - link "Visit our YouTube channel" [ref=e203] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCkp_ed4B4avX3gI_puHglww
+              - generic [ref=e204]: Opens in a new tab.
+              - img [ref=e205]
+  - dialog "Privacy" [ref=e209]:
+    - generic [ref=e210]:
+      - button "Close" [ref=e212] [cursor=pointer]
+      - generic [ref=e213]:
+        - generic [ref=e216]:
+          - text: We process your personal information to measure and improve our sites and service, to assist our marketing campaigns and to provide personalised content and advertising. By clicking the button on the right, you can exercise your privacy rights. For more information see our
+          - link "Privacy Notice" [ref=e217] [cursor=pointer]:
+            - /url: https://documents.gulfstream.aero/?document=privacy-notice&lang=en
+          - text: .
+        - generic [ref=e219]:
+          - button "Accept Cookies" [ref=e221] [cursor=pointer]
+          - button "Reject All" [ref=e223] [cursor=pointer]
+          - button "Your Privacy Choices, Opens the preference center dialog" [ref=e225] [cursor=pointer]: Your Privacy Choices

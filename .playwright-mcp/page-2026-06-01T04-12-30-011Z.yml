@@ -1,0 +1,197 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - region "Cookie Consent Manager" [ref=e3]:
+      - generic [ref=e4]:
+        - paragraph [ref=e5]: We use cookies to offer you the best possible website experience. Your cookie preferences will be stored in your browser’s local storage. This includes cookies necessary for the website's operation. Additionally, you can freely decide and change whether you accept cookies or choose to opt out of cookies to improve the website's performance, as well as cookies used to display content tailored to your interests. Your experience of the site and the services we are able to offer may be impacted if you do not accept all cookies.
+        - button "Modify Cookie Preferences" [ref=e6] [cursor=pointer]
+        - generic [ref=e7]:
+          - button "Reject All Cookies" [ref=e8] [cursor=pointer]
+          - button "Accept All Cookies" [ref=e9] [cursor=pointer]
+    - banner [ref=e10]:
+      - generic:
+        - link "Skip to main content":
+          - /url: "#content"
+      - generic [ref=e11]:
+        - generic [ref=e13]:
+          - link "Westinghouse Nuclear" [ref=e18] [cursor=pointer]:
+            - /url: https://careers.westinghousenuclear.com/
+            - img "Westinghouse Nuclear" [ref=e19]
+          - button "Menu" [ref=e27] [cursor=pointer]:
+            - generic [ref=e28]: 
+        - list [ref=e33]:
+          - listitem
+    - main [ref=e38]:
+      - generic [ref=e39]:
+        - generic [ref=e40]:
+          - search [ref=e42]:
+            - generic [ref=e44]:
+              - generic [ref=e45]:
+                - generic [ref=e46]:
+                  - generic [ref=e47]:
+                    - generic [ref=e48]: Search by Keyword
+                    - textbox "Search by Keyword" [ref=e50]
+                  - generic [ref=e51]:
+                    - generic [ref=e52]: Search by Global Location
+                    - textbox "Search by Global Location" [ref=e53]
+                    - button "Search by postal code instead" [ref=e56] [cursor=pointer]: Search by US Postal Code
+                - button "Search by Country, City, Job Title" [ref=e59] [cursor=pointer]
+              - button "Search Jobs" [ref=e63] [cursor=pointer]
+          - generic [ref=e68]:
+            - text: 
+            - generic [ref=e69]:
+              - generic [ref=e70]: "Select how often (in days) to receive an alert:"
+              - spinbutton "Select how often (in days) to receive an alert:" [ref=e71]: "7"
+            - button "Create Alert" [ref=e73] [cursor=pointer]:
+              - generic [ref=e74]: ✉
+              - text: Create Alert
+        - generic [ref=e76]:
+          - link "Apply now »" [ref=e79] [cursor=pointer]:
+            - /url: /talentcommunity/apply/1359127900/?locale=en_US
+          - generic [ref=e80]:
+            - heading "New Grad Leadership Engineer -Software/Computer Engineering" [level=1] [ref=e85]
+            - generic [ref=e89]: "Requisition Number: 29938"
+            - generic [ref=e93]: "Company: Westinghouse Electric Co"
+            - generic [ref=e97]:
+              - text: "Location:"
+              - paragraph [ref=e99]: Cranberry Township, US
+            - generic [ref=e105]:
+              - paragraph [ref=e106]
+              - paragraph [ref=e107]: Are you interested in being part of an innovative team that supports Westinghouse's mission to provide clean energy solutions? At Westinghouse, we recognize that our employees are our most valuable asset and we seek to identify, attract and recruit the most qualified talent while recognizing and encouraging the value of diversity in the global workplace.
+              - paragraph [ref=e108]
+              - heading "About the role:" [level=3] [ref=e109]
+              - paragraph [ref=e110]
+              - paragraph [ref=e111]: As a Leadership Engineer - Computer Science you will work with Westinghouse's Digital and Innovation for the Catalyst Program, a program designed to expose potential leaders to multiple departments with growing responsibility. You will rotate through several departments at Westinghouse, such as
+              - list [ref=e112]:
+                - listitem [ref=e113]: AI Delivery
+                - listitem [ref=e114]: APX Product Operations
+                - listitem [ref=e115]: Outage & Maintenance Services
+              - paragraph [ref=e116]: The intent of the Catalyst Program is to support our growing business, develop leadership, display aspects of being a corporate steward and identify future career interests.
+              - paragraph [ref=e117]: You will report to the Senior Staff Application Security and work a hybrid position based in Cranberry, PA. This position is open to local Pittsburgh candidates only.
+              - paragraph [ref=e118]: Upon successful completion of the two-year Catalyst rotational program, the participant will transition into a permanent position on the AI & Innovation Digital Technologies team. The participant will use the experience gained through rotations to provide strategic impact and ensure long-term career growth.
+              - paragraph [ref=e119]
+              - heading "Key Responsibilities:" [level=3] [ref=e120]
+              - paragraph [ref=e121]
+              - list [ref=e122]:
+                - listitem [ref=e123]: Through a series of rotations, lead project to deliver value across multiple departments and global locations. Gain hands-on experience and develop an understanding of different departments.
+                - listitem [ref=e124]: For each rotation/department, develop an understanding of the strategic direction of the department and the business environment and evaluate how business strategies align with the direction of the business.
+                - listitem [ref=e125]: Identify areas of improvement and use data analysis skills to propose solutions to enhance the efficiency of each rotational department.
+                - listitem [ref=e126]: Develop a foundation of leadership
+                - listitem [ref=e127]: Use Artificial Intelligence (AI) and advanced digital technologies to improve Westinghouse products, services, and processes, driving innovation for long-term operation and new nuclear builds worldwide.
+                - listitem [ref=e128]: Collaborate across Westinghouse, bringing AI and Innovation technological know-how to diverse teams to deliver strategic value and promote digital transformation across projects.
+              - paragraph [ref=e129]
+              - heading "Qualifications:" [level=3] [ref=e130]
+              - list [ref=e131]:
+                - listitem [ref=e132]: Bachelor's degree in software engineering, Computer Engineering, Computer Science or similar degrees with an emphasis on AI systems and business application alongside fundamental understanding of architectural foundations
+                - listitem [ref=e133]: Demonstrated leadership capabilities
+                - listitem [ref=e134]: Knowledge of digital technologies and Artificial Intelligence (AI), with the ability to identify and apply these solutions to create value.
+                - listitem [ref=e135]: Business-oriented mindset to connect technological capabilities with strategic goals and operational needs across the organization.
+                - listitem [ref=e136]: Enthusiasm for delivering Innovation and Quality across Westinghouse technological solutions.
+              - paragraph [ref=e137]
+              - paragraph [ref=e138]
+              - paragraph [ref=e139]: We are committed to transparency and equity in all of our people practices. The base salary range for this position, which is dependent upon experience, qualifications and skills, is estimated to be $58,400 to $73,000 per year.
+              - paragraph [ref=e140]
+              - paragraph [ref=e141]: "#LI-Hybrid"
+              - paragraph [ref=e142]
+              - paragraph [ref=e143]
+              - heading "Why Westinghouse?" [level=3] [ref=e144]
+              - paragraph [ref=e145]:
+                - strong [ref=e146]: "Our benefits package is tailored to meet the diverse needs of our employees, while also promoting wellness and career growth. The following are representative of what we offer:"
+              - list [ref=e147]:
+                - listitem [ref=e148]: Comprehensive Medical benefits which could include medical, dental, vision, prescription coverage and Health Savings Account (HSA) with employer contributions options
+                - listitem [ref=e149]: Wellness Programs designed to support employees in maintaining their health and well-being including Employee Assistance Program providing support for our employees and their household members
+                - listitem [ref=e150]: 401(k) with Company Match Contributions to support employees' retirement
+                - listitem [ref=e151]: Paid Vacations and Company Holidays
+                - listitem [ref=e152]: Opportunities for Flexible Work Arrangements to promote work-life balance
+                - listitem [ref=e153]: Educational Reimbursement and Comprehensive Career Programs to help employees grow in their careers
+                - listitem [ref=e154]: Global Recognition and Service Programs to celebrate employee accomplishments and service
+                - listitem [ref=e155]: Employee Referral Program
+              - paragraph [ref=e156]
+              - paragraph [ref=e157]
+              - paragraph [ref=e158]:
+                - strong [ref=e159]: "Westinghouse Electric Company is the global nuclear energy industry's first choice for safe, clean, and efficient energy solutions. We enable our delivery of this vision by living our value system:"
+              - list [ref=e160]:
+                - listitem [ref=e161]: Safety and Quality
+                - listitem [ref=e162]: Integrity and Trust
+                - listitem [ref=e163]: Customer Focus and Innovation
+                - listitem [ref=e164]: Speed and Passion to Win
+                - listitem [ref=e165]: Teamwork and Accountability
+              - paragraph [ref=e166]
+              - paragraph [ref=e167]
+              - paragraph [ref=e168]:
+                - strong [ref=e169]: While our Global Headquarters are located in Cranberry Township, PA, we have over 11,000 employees working at locations in 19 different countries. You can learn more by visiting
+                - link "http://www.westinghousenuclear.com" [ref=e170] [cursor=pointer]:
+                  - /url: http://www.westinghousenuclear.com
+                - text: .
+              - paragraph [ref=e171]
+              - paragraph [ref=e172]: Westinghouse is an Equal Opportunity Employer including Veterans and Individuals with Disabilities
+              - paragraph [ref=e173]
+              - paragraph [ref=e174]:
+                - strong [ref=e175]: "Get connected with Westinghouse on social media:"
+                - link "Twitter" [ref=e176] [cursor=pointer]:
+                  - /url: https://twitter.com/WECNuclear
+                  - strong [ref=e177]: Twitter
+                - strong [ref=e178]: "|"
+                - link "Facebook" [ref=e179] [cursor=pointer]:
+                  - /url: https://www.facebook.com/WestinghouseNuclear
+                  - strong [ref=e180]: Facebook
+                - strong [ref=e181]: "|"
+                - link "LinkedIn" [ref=e182] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/westinghouse-electric-company/
+                  - strong [ref=e183]: LinkedIn
+                - strong [ref=e184]: "|"
+                - link "YouTube" [ref=e185] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/WestinghouseNuclear
+                  - strong [ref=e186]: YouTube
+              - paragraph [ref=e187]: This is a hybrid remote/in-office role.
+            - heading "Employment opportunities may require access to information which is subject to the export control regulations of the United States. Hiring decisions for such positions are required by law to be made in compliance with these regulations. Applicants for employment opportunities in other countries must be able to meet the comparable export control requirements of that country and of the United States." [level=4] [ref=e191]
+            - table [ref=e194]:
+              - rowgroup [ref=e195]:
+                - row "Twitter Westinghouse on Facebook Westinghouse on Linkedin" [ref=e196]:
+                  - cell [ref=e197]
+                  - cell "Twitter" [ref=e198]:
+                    - link "Twitter" [ref=e199] [cursor=pointer]:
+                      - /url: https://twitter.com/WECNuclear
+                      - img "Twitter" [ref=e200]
+                  - cell "Westinghouse on Facebook" [ref=e201]:
+                    - link "Westinghouse on Facebook" [ref=e202] [cursor=pointer]:
+                      - /url: https://www.facebook.com/WestinghouseNuclear
+                      - img [ref=e203]
+                  - cell [ref=e204]:
+                    - link "Westinghouse on YouTube" [ref=e205] [cursor=pointer]:
+                      - /url: https://www.youtube.com/user/westinghousenuclear
+                      - img [ref=e206]
+                  - cell "Westinghouse on Linkedin" [ref=e207]:
+                    - link "Westinghouse on Linkedin" [ref=e208] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/westinghouse-electric-company/
+                      - img [ref=e209]
+                  - cell [ref=e210]
+            - paragraph
+          - link "Apply now »" [ref=e212] [cursor=pointer]:
+            - /url: /talentcommunity/apply/1359127900/?locale=en_US
+    - contentinfo [ref=e214]:
+      - list [ref=e218]:
+        - listitem [ref=e219]:
+          - link "Careers" [ref=e220] [cursor=pointer]:
+            - /url: http://www.westinghousenuclear.com/
+        - listitem [ref=e221]:
+          - link "Join Our Talent Community" [ref=e222] [cursor=pointer]:
+            - /url: /talentcommunity/subscribe/?locale=en_US
+        - listitem [ref=e223]:
+          - link "Careers by Location" [ref=e224] [cursor=pointer]:
+            - /url: https://careers.westinghousenuclear.com/content/Map/?locale=en_US
+        - listitem [ref=e225]:
+          - link "View Profile" [ref=e226] [cursor=pointer]:
+            - /url: https://career4.successfactors.com/career?career_company=Weshttps://career4.successfactors.com/career?career_company=WestinghouseP&lang=en_US&company=WestinghouseP&site=&loginFlowRequired=true
+        - listitem [ref=e227]:
+          - link "Data Privacy Statement" [ref=e228] [cursor=pointer]:
+            - /url: /content/Data-Privacy-Statement/?locale=en_US
+        - listitem [ref=e229]:
+          - link "Terms of Use" [ref=e230] [cursor=pointer]:
+            - /url: /content/Terms-of-Use/?locale=en_US
+        - listitem [ref=e231]:
+          - button "Cookie Consent Manager" [ref=e232] [cursor=pointer]
+        - listitem [ref=e233]:
+          - link "Accommodation" [ref=e234] [cursor=pointer]:
+            - /url: /content/accommodation/?locale=en_US
+      - paragraph [ref=e237]: ©2021 Westinghouse Electric Company LLC. All rights reserved.
+  - generic: Yes No   Yes No Yes No   Yes No Yes No
