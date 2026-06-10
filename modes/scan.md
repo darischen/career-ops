@@ -14,6 +14,14 @@ Agent(
 )
 ```
 
+**One browser at a time.** Scan drives Playwright. Concurrent `browser_navigate`
+calls corrupt each other's tabs. So:
+- Do NOT run scan while another Playwright command is active (`apply`, the
+  `batch-apply` conductor, or another scan). Wait for it to finish.
+- Inside scan, all Playwright navigations are sequential (one company at a
+  time), never parallel. Levels 2 (APIs) and 3 differ: API fetches can run in
+  parallel since they use no browser, and Level 3 verification is sequential.
+
 ## Configuration
 
 Read `portals.yml` which contains:
@@ -69,7 +77,7 @@ Levels are additive — all run, results are merged and deduplicated.
 2. **Read history**: `data/scan-history.tsv` → URLs already seen
 3. **Read dedup sources**: `data/applications.md` + `data/pipeline.md`
 
-4. **Level 1 — Playwright scan** (parallel in batches of 3-5):
+4. **Level 1 — Playwright scan** (sequential, one company at a time — NEVER parallel Playwright):
    For each company in `tracked_companies` with `enabled: true` and `careers_url` defined:
    a. `browser_navigate` to the `careers_url`
    b. `browser_snapshot` to read all job listings
