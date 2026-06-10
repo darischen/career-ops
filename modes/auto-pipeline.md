@@ -59,7 +59,7 @@ If final score is >= 4.5, generate draft answers for application form:
 **Language**: Always in JD language (EN default).
 
 ## Step 4 — Update Tracker
-Register in `data/applications.md` with all columns including Report and PDF ✅.
+Register in `data/applications.md` with all columns. No PDF is generated, so the PDF column is `❌`.
 
 **If any step fails**, continue with next steps and mark failed step as pending in tracker.
 
@@ -73,7 +73,6 @@ After completion:
 
 Score: {X}/5.0
 Fit: {Archetype match}
-PDF: {path or pending}
 Report: {path}
 
 Next: Apply → /career-ops apply

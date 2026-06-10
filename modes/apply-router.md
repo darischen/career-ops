@@ -207,6 +207,6 @@ Otherwise: silently route and continue.
 
 - `apply.md` — Single job, interactive
 - `batch-apply.md` — Multiple jobs, parallel + judge validation
-- `auto-pipeline.md` — Full evaluation + PDF + answers
+- `auto-pipeline.md` — Full evaluation + answers
 
 Router intelligently chooses between `apply` and `batch-apply`.

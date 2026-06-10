@@ -58,9 +58,9 @@ Show this menu:
 career-ops -- Command Center
 
 Available commands:
-  /career-ops {JD}      → AUTO-PIPELINE: evaluate + report + PDF + tracker (paste text or URL)
+  /career-ops {JD}      → AUTO-PIPELINE: evaluate + report + tracker (paste text or URL)
   /career-ops pipeline  → Process pending URLs from inbox (data/pipeline.md)
-  /career-ops offer     → Evaluation only A-F (no auto PDF)
+  /career-ops offer     → Evaluation only A-F
   /career-ops offers    → Compare and rank multiple offers
   /career-ops contact   → LinkedIn power move: find contacts + draft message
   /career-ops deep      → Deep research prompt about company
