@@ -299,7 +299,7 @@ Write one TSV file per evaluation to `batch/tracker-additions/{num}-{company-slu
 | `Offer` | Offer received |
 | `Rejected` | Rejected by company |
 | `Discarded` | Discarded by candidate or offer closed |
-| `SKIP` | Doesn't fit, don't apply |
+| `NO APPLY` | Doesn't fit, don't apply (states.yml id `skip`; alias `SKIP` accepted) |
 
 **RULES:**
 - No markdown bold (`**`) in status field

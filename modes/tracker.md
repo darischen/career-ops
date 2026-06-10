@@ -18,7 +18,7 @@ Output: Summary table of all applications + metrics.
 | # | Date | Company | Role | Score | Status | PDF | Report |
 ```
 
-**Canonical statuses**: `Evaluated` → `Applied` → `Responded` → `Interview` → `Offer` / `Rejected` / `Discarded` / `SKIP`
+**Canonical statuses**: `Evaluated` → `Applied` → `Responded` → `Interview` → `Offer` / `Rejected` / `Discarded` / `NO APPLY`
 
 - `Applied` = you submitted your application
 - `Responded` = A recruiter/company contacted you (inbound)
@@ -26,7 +26,7 @@ Output: Summary table of all applications + metrics.
 - `Offer` = Offer received
 - `Rejected` = Rejected by company
 - `Discarded` = You discarded or offer closed
-- `SKIP` = Doesn't fit, don't apply
+- `NO APPLY` = Doesn't fit, don't apply (states.yml id `skip`; `SKIP` accepted as an alias)
 
 If you request status update, edit the corresponding row.
 
