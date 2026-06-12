@@ -498,7 +498,47 @@ Manual evaluation of three Texas Instruments CAP/entry-level roles (manually ren
 - [!] https://stripe.com/fr-ch/jobs | Invalid: Locale redirect, not specific job posting
 
 **Summary:** 9 URLs processed. 2 valid job posting URLs (both Anthropic) evaluated: 1 strong match (4.5/5, apply), 1 hard blocker (1.8/5, skip). 7 invalid/malformed URLs filtered out (navigation hashes, locale redirects). Quality over quantity: focus on the excellent Anthropic Computer Use fit.
-## Pending (2026-04-27 scan) — PROCESSED: 11 Total (7 Recommended Apply, 4 Skip)
+## Processed (2026-06-11 LinkedIn + BioSpace) — 8 URLs (1 Apply Immediately, 5 Apply, 1 Conditional, 1 Skip)
+
+### Apply Immediately (Tier 1) — 1 Role
+
+- [x] #635 | https://jobs.ashbyhq.com/counsel/12cf0cf3-73db-49d4-84a0-dd8b280e6337/application?utm_source=LinkedInPromoted | Counsel Health | AI/ML Engineer | 4.6/5 | ❌ | [635](reports/635-counsel-health-2026-06-11.md) | Series A healthcare AI. Full-stack match (PatentIQ). $145-190K NYC hybrid. TOP TIER.
+
+### Apply (Tier 2) — 5 Roles
+
+- [x] #636 | https://job-boards.greenhouse.io/embed/job_app?for=mixpanel&gh_src=beca423f1&token=7850958 | Mixpanel | AI Engineer | 4.2/5 | ❌ | [636](reports/636-mixpanel-ai-2026-06-11.md) | Series D, $188-254K, greenfield analytics team, remote-friendly. Strong comp.
+- [x] #637 | https://www.jackandjill.ai/jobs/engineer/forward-deployed-engineer... | Giga | Forward-Deployed Engineer | 4.1/5 | ❌ | [637](reports/637-giga-forward-deployed-2026-06-11.md) | Series A voice AI, $120-250K equity-weighted, high intensity, customer-facing growth.
+- [x] #638 | https://jobs.ashbyhq.com/compa/ffbbc5c1-f8e9-444e-b4fb-89010a4a2398/application | Compa | Software Engineer | 4.0/5 | ❌ | [638](reports/638-compa-2026-06-11.md) | Series A comp data, $125-180K, solid full-stack fit, remote.
+- [x] #639 | https://www.skydio.com/jobs/067e1f47-9fba-4abf-b986-874d4d569706 | Skydio | Software Engineer | 3.9/5 | ❌ | [639](reports/639-skydio-autonomy-2026-06-11.md) | Series B+ drones, $110-180K, systems depth valued, SF relocation required.
+- [x] #640 | https://ascendlearning.jobs.hr.cloud.sap/job/AI-Engineer-NY/1392696700 | Ascend Learning | AI Engineer | 3.8/5 | ❌ | [640](reports/640-ascend-learning-2026-06-11.md) | Enterprise LLMOps, $90-130K, relocation to Leawood KS or Burlington MA.
+
+### Conditional Apply (Tier 3) — 1 Role
+
+- [x] #642 | https://jobs.biospace.com/job/3053974/?TrackID=433984&utm_source=Partner_JS&utm_medium=Aggregator_Paid&utm_campaign=LinkedIn-Slots | AbbVie | Associate Full-Stack Software Engineer | 3.4/5 | ❌ | [642](reports/642-abbvie-associate-fullstack-2026-06-11.md) | Fortune 500 pharma. Full-stack fit (Java/SQL/TypeScript, PatentIQ precedent). Pace mismatch. Lower comp ceiling ($103.5K). North Chicago relocation required.
+
+### Skip (Tier 4) — 1 Role
+
+- [x] #641 | https://job-boards.greenhouse.io/remodelhealth/jobs/5163796008?gh_src=6ou9ckn88us | Remodel Health | Software Engineer | 2.8/5 | ❌ | [641](reports/641-remodel-health-2026-06-11.md) | Junior-level role; you're overqualified. Skip in favor of tier-1 opportunities.
+
+**Summary:** 8 URLs processed (2026-06-11). 1 top-tier match (Counsel Health 4.6/5, apply immediately). 5 strong secondary options (Mixpanel, Giga, Compa, Skydio, Ascend Learning, all 3.8-4.2). 1 conditional (AbbVie 3.4/5, pharma culture misalignment but solid tech fit). 1 skip (Remodel Health, overqualified). Compensation range: $58.6-254K. All tracker entries merged.
+
+---
+
+## Pending (2026-06-10 Simplify Batch) — 2 URLs (1 Apply, 1 Conditional)
+
+### Apply Recommended (1)
+
+- [x] #634 | https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Raleigh-NC/Java-Software-Engineer-I---Full-Stack----Financial-Crimes_R0115229?utm_source=Simplify&ref=Simplify | Truist | Java Software Engineer I (Full-Stack, Financial Crimes) | 3.0/5 | ❌ | [634](reports/634-truist-2026-06-10.md) | Strong technical fit (Python, Postgres, REST, caching); weak culture (slow, regulatory); salary TBD — verify before applying
+
+### Skip (Do Not Apply) — 1
+
+- [x] #633 | https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Entry-Level-Software-Engineer_JR2026508309-1?utm_source=Simplify&ref=Simplify | Boeing | Entry-Level Software Engineer | 2.2/5 | ❌ | [633](reports/633-boeing-2026-06-10.md) | Defense contractor, zero Java, legacy tech, 6-12mo clearance delay, 100% onsite — career trajectory mismatch
+
+**Summary:** 2 URLs processed. 1 borderline recommend (Truist, 3.0/5) pending salary verification. 1 strong skip (Boeing, 2.2/5) due to legacy tech stack, career misalignment, and clearance overhead.
+
+---
+
+## Processed (2026-04-27 scan) — PROCESSED: 11 Total (7 Recommended Apply, 4 Skip)
 
 ### Apply Recommended (7)
 

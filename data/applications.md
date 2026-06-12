@@ -4,11 +4,18 @@ Track your job applications and their status.
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 644 | 2026-06-11 | AviaryAI | Full Stack Engineer (SMS/RCS) | 4.5/5 | Evaluated | ❌ | [644](reports/644-aviaryai-2026-06-11.md) | YC S22 fintech, own SMS/RCS vertical, Python + TypeScript, NYC hybrid, strong fit |
+| 645 | 2026-06-11 | Collective | Software Engineer (New Grad) | 4.0/5 | Evaluated | ❌ | [645](reports/645-collective-2026-06-11.md) | VC-backed fintech, full-stack, Python/Django + React, SF hybrid, product ownership, solid option |
+| 646 | 2026-06-11 | Turnberry | AI Engineer | 2.5/5 | Evaluated | ❌ | [646](reports/646-turnberry-2026-06-11.md) | Staffing model, missing job description, unconfirmed role scope, Minneapolis MN, low priority until details clarified |
+| 640 | 2026-06-10 | Truist | Java Software Engineer I (Full-Stack) | 3.0/5 | Evaluated | ❌ | [634](reports/634-truist-2026-06-10.md) | Strong technical fit (Python, Postgres, REST), weak culture fit (slow, regulatory), salary TBD |
+| 641 | 2026-06-11 | Ascend Learning | AI Engineer | 3.8/5 | Evaluated | ❌ | [635](reports/635-ascend-learning-2026-06-11.md) | Enterprise LLMOps, good match, relocation required (KS/MA) |
+| 642 | 2026-06-11 | Skydio | Software Engineer, Full Stack | 3.9/5 | Evaluated | ❌ | [641](reports/641-skydio-2026-06-11.md) | Series B+ autonomous drones, $110-180K, SF hybrid (3 days/week), systems depth, relocation required |
+| 643 | 2026-06-11 | Ingram Micro | Associate Agentic AI Engineer | 4.2/5 | Evaluated | ❌ | [643](reports/643-ingram-micro-2026-06-11.md) | Re-eval 2026-06-11 (3.4→4.2). Agentic AI, Python + LLM frameworks, mentorship-driven, Irvine CA relocation required |
 | 632 | 2026-06-10 | American Express | Software Engineer I | 3.2/5 | Evaluated | ❌ | [632](reports/632-oracle-2026-06-10.md) | Enterprise infrastructure role in Phoenix. 3+ years requirement vs new grad is blocker; C# ASP.NET new stack. Strong comp ($78K-$125K). Recommend apply only if no better offers. |
-| 636 | 2026-06-10 | American Express | Software Engineer I | 2.1/5 | Evaluated | ❌ | [636](reports/636-amex-2026-06-10.md) | SKIP. Vague JD, location unknown, datacenter infrastructure misalignment. Not your archetype. |
+| 636 | 2026-06-11 | Counsel Health | Software Engineer (Fullstack) | 4.6/5 | Evaluated | ❌ | [636](reports/636-counsel-health-2026-06-11.md) | Re-eval 2026-06-11 (2.1→4.6). PRIORITY. Series A healthcare AI, $145-190K, NYC hybrid, exceptional fit |
 | 637 | 2026-06-10 | Oracle | Software Engineer I | 2.1/5 | Evaluated | ❌ | [636](reports/636-oracle-2026-06-10.md) | Apply recommendation: SWE Resume (75/100). Tech stack mismatch (.NET/SQL Server vs Python/PostgreSQL). SKIP. |
 | 638 | 2026-06-10 | Raytheon (Fullerton) | Software Engineer I - RDPL | 3.4/5 | Evaluated | ❌ | [637](reports/637-raytheon-fullerton-2026-06-10.md) | Radar systems, embedded real-time. HB100 background relevant. 100% onsite Fullerton. |
-| 639 | 2026-06-10 | Raytheon (El Segundo) | Software Engineer I | 3.5/5 | Evaluated | ❌ | [638](reports/638-raytheon-el-segundo-2026-06-10.md) | Systems integration, embedded real-time. Closer to San Diego. CLARIFY clearance requirement first. |
+| 639 | 2026-06-11 | Giga | Forward Deployed Engineer | 4.1/5 | Evaluated | ❌ | [638](reports/638-giga-2026-06-11.md) | Re-eval 2026-06-11 (3.5→4.1). Series A voice AI, $120-250K, SF, customer-facing, high intensity |
 | 626 | 2026-06-10 | Cerebras | New Graduate Software Engineer | 4.3/5 | Evaluated | ❌ | [626](reports/626-cerebras-2026-06-10.md) | Strong match. Hardware + ML stack align well. Hybrid Sunnyvale. Apply. |
 | 627 | 2026-06-10 | Further | Entry Level Software Developer | 3.6/5 | Evaluated | ❌ | [627](reports/627-further-2026-06-10.md) | Professional services firm. Solid backup. Dallas Tue-Thu onsite. Negotiate $85K+. |
 | 628 | 2026-06-10 | Authorium | Software Engineer, New Grad | 4.5/5 | Evaluated | ❌ | [628](reports/628-authorium-2026-06-10.md) | TOP CHOICE. GovTech SaaS. End-to-end shipping. $102K-$138K. SF Mon-Thu onsite. Apply now. |
