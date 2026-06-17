@@ -1,6 +1,6 @@
 # career-ops (Daris Chen fork)
 
-> **This is a fork.** The original project is **[santifer/career-ops](https://github.com/santifer/career-ops)** by [Santiago](https://santifer.io), the AI job search command center that turns any AI coding CLI into an offer-evaluation, CV-tailoring, portal-scanning, application-tracking pipeline. All credit for the core system, archetypes, scoring logic, and negotiation playbooks goes to the upstream author.
+> **This is an independent fork (cloned with full history), not a GitHub fork.** The original project is **[santifer/career-ops](https://github.com/santifer/career-ops)** by [Santiago](https://santifer.io), the AI job search command center that turns any AI coding CLI into an offer-evaluation, CV-tailoring, portal-scanning, application-tracking pipeline. This repo shares the upstream's entire commit history but is a standalone repository (GitHub does not link it as a fork). All credit for the core system, archetypes, scoring logic, and negotiation playbooks goes to the upstream author.
 >
 > This fork ([darischen/career-ops](https://github.com/darischen/career-ops)) is a personalized, Claude-Code-first version. For the full feature tour, setup guide, and multi-CLI support, read the [upstream README](https://github.com/santifer/career-ops/blob/main/README.md). This file documents only what differs here.
 
