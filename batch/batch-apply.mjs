@@ -97,6 +97,15 @@ async function primeCache(cvContent) {
   const Anthropic = (await import("@anthropic-ai/sdk")).default;
   const client = new Anthropic();
 
+  // apply.md is the per-worker instruction set (CSV format, PDF-reading rules,
+  // tone, output destinations). Every worker reads it, so cache it alongside
+  // cv.md. This also lifts the system block above Haiku's 4096-token cache
+  // floor — cv.md alone (~2.1k tokens) is below it and would not cache.
+  const applyPath = path.join(projectRoot, "modes", "apply.md");
+  const applyMd = fs.existsSync(applyPath)
+    ? fs.readFileSync(applyPath, "utf-8")
+    : "";
+
   const downloads = "C:\\Users\\daris\\Downloads";
   const pdfPaths = [
     `${downloads}\\DarisChenResumeAI.pdf`,
@@ -121,11 +130,15 @@ async function primeCache(cvContent) {
     };
   }).filter(Boolean);
 
+  // Single cache_control on the last system text block sets one prefix
+  // breakpoint covering BOTH apply.md and cv.md (render order is system →
+  // messages, so the PDFs in the user turn extend the same warm prefix).
+  // Order stable-first: apply.md (instructions) then cv.md (content).
   const systemBlocks = [
     { type: "text", text: "You are a cache-priming agent. Acknowledge briefly." },
     {
       type: "text",
-      text: `# CV (cv.md)\n\n${cvContent}`,
+      text: `# Apply instructions (modes/apply.md)\n\n${applyMd}\n\n# CV (cv.md)\n\n${cvContent}`,
       cache_control: { type: "ephemeral" },
     },
   ];
@@ -140,7 +153,7 @@ async function primeCache(cvContent) {
     userContent[pdfBlocks.length - 1].cache_control = { type: "ephemeral" };
   }
 
-  console.log("🔥 Priming cache (cv.md + 4 PDFs)...");
+  console.log("🔥 Priming cache (apply.md + cv.md + 4 PDFs)...");
   const start = Date.now();
 
   const response = await client.messages.create({
@@ -152,8 +165,25 @@ async function primeCache(cvContent) {
 
   const elapsed = ((Date.now() - start) / 1000).toFixed(1);
   const usage = response.usage;
+  const written = usage.cache_creation_input_tokens || 0;
   console.log(`✓ Cache primed in ${elapsed}s`);
-  console.log(`  Cache write: ${usage.cache_creation_input_tokens || 0} tokens`);
+  console.log(`  Cache write: ${written} tokens`);
+
+  // Verify the prime actually wrote a cache entry. If this is 0, the prefix
+  // never cached — either it fell below the model's minimum cacheable prefix
+  // (Haiku 4.5 = 4096 tokens) or a byte changed and invalidated it. Workers
+  // would then pay full price on every request, silently. Fail loud.
+  if (written === 0) {
+    console.error(
+      "⚠️  CACHE WRITE = 0. The prime did NOT cache. Workers will pay full price.",
+    );
+    console.error(
+      "    Check: prefix >= 4096 tokens, and the worker prefix matches this one byte-for-byte.",
+    );
+    console.error(
+      "    Run `node batch/test-cache-savings.mjs` to measure cache_read on the worker side.",
+    );
+  }
   console.log(`  5-minute TTL clock starts NOW — spawn workers immediately\n`);
 
   return response;
@@ -198,6 +228,7 @@ If you are unable to see the form or any essay questions but have generated a
 resume recommendation, output the CSV anyway.
 
 CACHED CONTEXT (use these directly, do NOT re-read from disk):
+- modes/apply.md is in your prompt cache (CSV format, PDF-reading rules, tone)
 - cv.md is in your prompt cache
 - All four resume PDFs are in your prompt cache:
   - C:\\Users\\daris\\Downloads\\DarisChenResumeAI.pdf
@@ -315,9 +346,10 @@ async function main() {
     console.log("    NO PROMPT CACHING YET (would expire during this phase)\n");
 
     console.log("  PHASE 1.5 — Cache Prime (~1s)");
-    console.log("    Tiny haiku call with cv.md + 4 PDFs (cache_control: ephemeral)");
+    console.log("    Tiny haiku call with apply.md + cv.md + 4 PDFs (cache_control: ephemeral)");
     console.log("    Starts the 5-minute TTL clock RIGHT BEFORE workers need it");
-    console.log("    Cost: ~$0.001 | Saves: ~$0.30 across all workers\n");
+    console.log("    Cost: ~$0.001 write | Saves ~$0.06 per 5-job batch vs no-cache");
+    console.log("    (measured on Haiku 4.5 — run batch/test-cache-savings.mjs to re-measure)\n");
 
     console.log("  PHASE 2 — Subagent Workers (parallel, all run together)");
     console.log("    N haiku subagents, one per job");
