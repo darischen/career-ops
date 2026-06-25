@@ -1,0 +1,126 @@
+Who We Are:
+Neurocrine Biosciences is a leading biopharmaceutical company with a simple purpose: to relieve suffering for people with great needs. We are dedicated to discovering, developing and commercializing life-changing treatments for patients with under-addressed neurological, psychiatric, endocrine and immunological disorders. The company's diverse portfolio includes FDA-approved treatments for tardive dyskinesia, chorea associated with Huntington's disease, classic congenital adrenal hyperplasia, hyperphagia in patients with Prader-Willi syndrome, endometriosis* and uterine fibroids*, as well as a robust pipeline including multiple compounds in mid- to late-phase clinical development across our core therapeutic areas. For more than three decades, we have applied our unique insight into neuroscience and the interconnections between brain and body systems to treat complex conditions. We relentlessly pursue medicines to ease the burden of debilitating diseases and disorders, because you deserve brave science. For more information, visit neurocrine.com, and follow the company on LinkedIn, X, Facebook and YouTube. (*in collaboration with AbbVie)
+
+
+About the Role:
+We are seeking an AI Engineer to design, build, and support scalable AI-powered solutions for enterprise use cases. This role sits within the AI Engineering function and contributes to translating business needs into production-grade AI systems under guidance, with a primary focus on LLM-based solutions (e.g., ChatGPT/OpenAI) while maintaining flexibility to integrate emerging AI platforms.
+You will work closely with AI Enablement, IT, and business stakeholders to deliver secure, scalable, and high-impact AI capabilities that improve productivity and drive measurable business outcomes.
+_
+
+Your Contributions (include, but are not limited to):
+Design and implement AI-powered workflows and applications with guidance from senior team members using LLMs (ChatGPT/OpenAI, and future platforms)
+
+Build and maintain components of agent-based systems, orchestration layers, and prompt frameworks
+
+Develop APIs and services to integrate AI into enterprise systems (e.g., ServiceNow, internal tools, data platforms)
+
+Implement RAG (Retrieval-Augmented Generation) architectures using enterprise data sources
+
+Contribute to building solutions are modular, reusable, and scalable
+
+Contribute to the design and implementation of AI system architecture under guidance, including model selection, routing, and orchestration
+
+Support integration of AI capabilities into existing enterprise ecosystems
+
+Collaborate with security and data teams to support enforcement of:
+
+Data boundaries
+
+Access controls
+
+Compliance requirements
+
+Contribute to development and maintenance of enterprise prompt libraries and reusable frameworks
+
+Optimize prompts and agent flows for:
+
+Accuracy
+
+Consistency
+
+Cost efficiency
+
+Collaborate with AI Enablement to standardize prompt patterns across teams
+
+Support the design and execution of evaluation frameworks (e.g., OpenAI Evals, DeepEval)
+
+Assist in building automated pipelines to test:
+
+Accuracy
+
+Reliability
+
+Edge-case handling
+
+Continuously monitor and improve model performance in production
+
+Partner with business stakeholders to:
+
+Support identification and development of AI use cases with business stakeholders
+
+Translate business requirements into technical solutions with guidance
+
+Rapidly prototype and iterate on AI solutions
+
+Requirements:
+Bachelor's degree in Computer Science, Computer Engineering, or related field
+
+2+ years of experience in software engineering or AI/ML engineering (flexible based on capability) or an equivalent combination of relevant training and education (6+ years)
+
+Hands-on experience building AI/LLM-based applications
+
+Programming: Python (required), JavaScript/TypeScript (preferred)
+
+Frameworks & Tools:
+
+LLM tooling: OpenAI APIs, LangChain/LangGraph, Flowise (or similar)
+
+Backend: FastAPI, Node.js
+
+Frontend (nice to have): React
+
+Data & AI:
+
+Pandas, NumPy, basic ML concepts
+
+Experience with RAG pipelines and vector databases
+
+DevOps & Engineering:
+
+Git/GitHub
+
+API design and integration
+
+Containerization (Docker preferred)
+
+Experience building AI agents, chatflows, or automation workflows
+
+Familiarity with evaluation frameworks and testing methodologies
+
+Understanding of prompt engineering and LLM behavior
+
+Experience integrating AI into enterprise environments
+
+Exposure to ServiceNow, ITSM workflows, or enterprise support systems
+
+Knowledge of data pipelines and knowledge management systems
+
+Familiarity with AI governance, security, and compliance considerations
+
+Experience working in Agile/Scrum environments
+
+Strong problem-solving and systems thinking
+
+Ability to translate moderately defined business problems into technical solutions with guidance
+
+Effective communication with both technical and non-technical stakeholders
+
+Proactive, adaptable, and able to operate in a fast-evolving AI landscape
+
+Neurocrine Biosciences is an EEO/Disability/Vets employer.
+
+We are committed to building a workplace of belonging, respect, and empowerment, and we recognize there are a variety of ways to meet our requirements. We are looking for the best candidate for the job and encourage you to apply even if your experience or qualifications don't line up to exactly what we have outlined in the job description.
+
+_
+
+The annual base salary we reasonably expect to pay is $81,000.00-$111,000.00. Individual pay decisions depend on various factors, such as primary work location, complexity and responsibility of role, job duties/requirements, and relevant experience and skills. In addition, this position offers an annual bonus with a target of 20% of the earned base salary and eligibility to participate in our equity based long term incentive program. Benefits offered include a retirement savings plan (with company match), paid vacation, holiday and personal days, paid caregiver/parental and medical leave, and health benefits to include medical, prescription drug, dental and vision coverage in accordance with the terms and conditions of the applicable plans.
