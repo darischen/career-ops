@@ -1,346 +1,89 @@
-# Batch Apply Orchestration — How to Run
+# Batch Apply — How to Run
 
-## Quick Start
+> Reflects `batch/batch-apply.mjs`. The entry script is `batch-apply.mjs`
+> (there is no `batch-apply-interactive.mjs`).
 
-```bash
-node batch/batch-apply-interactive.mjs https://anthropic.com/careers/... https://vercel.com/careers/... https://huggingface.co/jobs/...
-```
-
-This prints out the Agent spawn commands you need to copy/paste.
-
-## Architecture Overview
-
-```
-┌─────────────────────────────┐
-│  batch-apply-interactive    │  ← You run this once
-│  .mjs                       │
-└──────────────┬──────────────┘
-               │ prints spawn commands
-               ▼
-┌─────────────────────────────────────────────┐
-│ You manually spawn these agents:            │
-│                                             │
-│ 1. Agent with Judge Haiku (persistent)     │
-│ 2. Agent with Subagent 001 Haiku (worker) │
-│ 3. Agent with Subagent 002 Haiku (worker) │
-│ 4. Agent with Subagent 003 Haiku (worker) │
-│ ... (one per job)                          │
-└────────────────┬────────────────────────────┘
-                 │ all run in background
-                 ▼
-         Temp file communication:
-         
-         Subagents write:
-         ├─ batch/temp/001-recommendation.txt
-         ├─ batch/temp/001-csv.txt
-         ├─ batch/temp/002-recommendation.txt
-         ├─ batch/temp/002-csv.txt
-         └─ ...
-         
-         Judge reads, validates, writes:
-         ├─ batch/temp/001-approved.txt (or -rejected.txt)
-         ├─ batch/temp/002-approved.txt (or -rejected.txt)
-         └─ ...
-         
-         Subagents read feedback, retry if needed:
-         └─ Once approved, write batch/temp/{id}-done.txt
-         
-         Judge moves approved outputs to:
-         └─ output/batch.txt
-         
-         Judge exits when all subagents done
-```
-
-## Step-by-Step Execution
-
-### Step 1: Generate Orchestration Plan
+## 1. Generate the spawn plan
 
 ```bash
-$ node batch/batch-apply-interactive.mjs batch-apply-interactive-input.txt
+node batch/batch-apply.mjs https://url1 https://url2 https://url3
+# or
+node batch/batch-apply.mjs batch-apply-input.txt
 ```
 
-Output:
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Career-Ops Batch Apply Interactive (with Judge Pattern)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+This wipes any stale `batch/pending/`, builds the job list, prints the 4-phase
+plan, and writes full prompts to `batch/pending-plan.json`.
 
-✓ Loaded CV (2847 chars)
-✓ Found 3 job links
-✓ Spawning: 1 Judge Haiku + 3 Subagent Haikus
+## 2. Spawn the agents (in order)
 
-Planned Execution:
-
-  [001] Anthropic
-       URL: https://anthropic.com/careers/...
-  [002] Vercel
-       URL: https://vercel.com/careers/...
-  [003] Hugging Face
-       URL: https://huggingface.co/jobs/...
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-READY: Spawn with Agent tool (run_in_background)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Example spawn pattern:
-
-// Judge agent (persistent, validates all)
-Agent({
-  description: "Judge for batch apply outputs",
-  subagent_type: "judge-haiku",
-  prompt: "[full judge prompt]",
-  run_in_background: true
-});
-
-// Subagent haikus (parallel, one per job)
-Agent({
-  description: "Apply to Anthropic — 001",
-  subagent_type: "apply-worker-haiku",
-  prompt: "[generates outputs, submits to judge, retries if rejected]",
-  run_in_background: true
-});
-
-... (more subagents)
-```
-
-### Step 2: Spawn Judge Agent
-
-Copy the judge spawn command and run it in Claude Code:
+**Step 1 — Conductor (foreground, blocks until done).**
 
 ```javascript
 Agent({
-  description: "Judge for batch apply outputs",
-  subagent_type: "judge-haiku",
-  prompt: `You are a quality judge for batch job applications...
-  
-VALIDATION RULES:
-
-Resume Recommendation block MUST have:
-1. Header: "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-2. Title: "📄 RESUME RECOMMENDATION — [Company Name]"
-3. Keyword Scores: "AI: XX pts | SWE: XX pts | EE: XX pts | WD: XX pts"
-4. Recommended: "[AI|SWE|EE|WD] Resume"
-5. Confidence: "XX/100"
-6. Top 3 Signals: 3 concrete signals from JD
-7. Why This Resume: 2-3 sentence explanation
-8. Footer: "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-
-CSV Line MUST have:
-- Format: Company,Title,Site Found,Date,Tag,Notes,Resume Used
-- Company: actual company name
-- Title: actual job title
-- Site Found: "Career Ops" (always)
-- Date: blank
-- Tag: blank
-- Notes: blank
-- Resume Used: AI/SWE/EE/WD code (must match recommendation)
-
-VALIDATION PROCESS:
-1. Read subagent output from batch/temp/{id}-recommendation.txt and batch/temp/{id}-csv.txt
-2. Check each requirement above
-3. If ALL requirements met: write ✓ to batch/temp/{id}-approved.txt
-4. If ANY requirement missing: write ✗ + reason to batch/temp/{id}-rejected.txt
-5. Track completion: when you see batch/temp/{id}-done.txt for all 3 IDs, exit
-
-LOOP until all subagents done...`,
-  run_in_background: true
+  description: "Conductor: extract JDs sequentially",
+  subagent_type: "general-purpose",
+  prompt: `[conductor_prompt from batch/pending-plan.json]`,
+  run_in_background: false
 });
 ```
 
-Judge starts immediately and waits for subagent outputs in batch/temp/.
+The conductor uses Playwright ONE url at a time and writes
+`batch/pending/{id}-jd.txt`, then `conductor-done.txt`.
 
-### Step 3: Spawn Subagent Haikus (in parallel)
+**Step 1.5 — Cache prime.** `primeCache()` (inside `batch-apply.mjs`) makes one
+tiny Haiku call that caches `apply.md + cv.md + 4 PDFs`. It runs after the
+conductor and right before workers. It logs `Cache write: N tokens` — if `N == 0`
+the prefix did not cache.
 
-Copy each subagent spawn command:
+**Step 2 — Judge (background, deterministic script — NOT an LLM agent).**
 
 ```javascript
-// Subagent 1
-Agent({
-  description: "Apply to Anthropic — 001",
-  subagent_type: "apply-worker-haiku",
-  prompt: `CRITICAL: Follow apply.md EXACTLY...
-  
-URL: https://anthropic.com/careers/...
-
-You will write your outputs to:
-- batch/temp/001-recommendation.txt (resume block)
-- batch/temp/001-csv.txt (CSV line)
-- Then wait for judge feedback...
-
-WORKFLOW:
-1. Extract job description from URL
-2. Identify company and role
-3. Score resume matches (AI/SWE/EE/WD)
-4. Generate recommendation block
-5. Generate CSV line
-6. Write both to temp files
-7. Wait for judge validation
-8. If rejected, read feedback and retry
-9. If approved, signal completion`,
-  run_in_background: true
-});
-
-// Subagent 2 (similar, different URL + ID)
-Agent({
-  description: "Apply to Vercel — 002",
-  subagent_type: "apply-worker-haiku",
-  prompt: `[same structure, different URL and ID 002]`,
-  run_in_background: true
-});
-
-// Subagent 3
-Agent({
-  description: "Apply to Hugging Face — 003",
-  subagent_type: "apply-worker-haiku",
-  prompt: `[same structure, different URL and ID 003]`,
-  run_in_background: true
-});
+Bash({ command: "node batch/judge.mjs", run_in_background: true });
 ```
 
-All subagents start in parallel.
+`judge.mjs` polls `batch/pending/*-output.json`, validates format with regex,
+appends approved blocks to `output/batch.txt`, writes `{id}-feedback.json` for
+rejects, and exits when `conductor-done.txt` exists and no outputs/feedback
+remain.
 
-### Step 4: Monitor Progress
+**Step 3 — Workers (background, parallel, Haiku).**
 
-Check `batch/temp/` directory in real-time:
-
-**Early state (subagents working):**
-```
-batch/temp/
-├── 001-recommendation.txt (subagent 1 generated)
-├── 001-csv.txt (subagent 1 generated)
-├── 002-recommendation.txt (subagent 2 generated)
-├── 002-csv.txt (subagent 2 generated)
-├── 003-recommendation.txt (subagent 3 generated)
-└── 003-csv.txt (subagent 3 generated)
-```
-
-**Judge validating:**
-```
-batch/temp/
-├── 001-approved.txt ✓ (judge validated)
-├── 001-recommendation.txt
-├── 001-csv.txt
-├── 002-rejected.txt ✗ (judge found issues, subagent will retry)
-├── 002-recommendation.txt
-├── 002-csv.txt
-├── 003-approved.txt ✓
-├── 003-recommendation.txt
-└── 003-csv.txt
+```javascript
+for (const job of jobs) {
+  Agent({
+    description: `Worker: ${job.company} — [${job.id}]`,
+    subagent_type: "haiku",
+    prompt: `[subagent_prompt for this job from pending-plan.json]`,
+    run_in_background: true
+  });
+}
 ```
 
-**After rejections fixed:**
-```
-batch/temp/
-├── 001-done.txt ✓ (subagent 1 completed)
-├── 002-approved.txt ✓ (fixed and approved)
-├── 002-done.txt ✓ (subagent 2 completed)
-├── 003-done.txt ✓ (subagent 3 completed)
-... (approved recommendations moved to output/batch.txt)
-```
+Each worker (no browser): reads its `{id}-jd.txt`, reads the cached PDFs, scores
+AI/SWE/EE/WD, writes `{id}-output.json`, then polls `{id}-feedback.json` and
+retries on reject. When its `output.json` is deleted, the judge approved it.
 
-**Final state (judge exits):**
-- All batch/temp/{id}-done.txt exist
-- Judge sees all done, moves remaining approved to output/batch.txt, exits
-- output/batch.txt contains all validated recommendations + CSV lines
+## 3. Inter-agent files (`batch/pending/`)
 
-### Step 5: Review Final Output
+| File | Writer | Reader |
+|------|--------|--------|
+| `{id}-jd.txt` | Conductor | Worker |
+| `conductor-done.txt` | Conductor | Judge |
+| `{id}-output.json` | Worker | Judge |
+| `{id}-feedback.json` | Judge | Worker (retry) |
+
+All of `batch/pending/` is deleted at the end (triple-redundant cleanup:
+startup sweep, judge delete-on-approve, process exit hooks).
+
+## 4. Results
 
 ```bash
-cat output/batch.txt
+cat output/batch.txt    # recommendation blocks + CSV lines
+cat output/essay.txt    # essay answers (when forms were detected)
 ```
-
-Shows:
-```
-BATCH APPLY SESSION - 2026-05-15
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📄 RESUME RECOMMENDATION — Anthropic
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Keyword Scores:
-  AI: 45 pts | SWE: 22 pts | EE: 5 pts | WD: 3 pts
-
-Recommended: AI Resume
-Confidence: 95/100
-
-...full recommendation...
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Anthropic,Software Engineer - Agent Architecture,Career Ops,,,,AI
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📄 RESUME RECOMMENDATION — Vercel
-...
-```
-
-Copy relevant CSV lines into your tracker.
 
 ## Timing
 
-- **Subagent 1 starts:** T+0 (creates cache)
-- **Subagent 2 starts:** T+1 (hits cache, 90% cheaper)
-- **Subagent 3 starts:** T+2 (hits cache, 90% cheaper)
-- **Judge validates:** Continuously as outputs arrive
-- **All done:** T+5-8 minutes (depends on job complexity)
-- **Judge exits:** Once all 3 subagents signal done
-
-Total time: ~5-10 minutes for 3 jobs vs. ~25 minutes sequentially.
-
-## What Each Agent Does
-
-**Judge Haiku:**
-- 📋 Reads recommendations and CSV lines
-- ✅ Validates format and completeness
-- 📝 Writes approval/rejection feedback
-- 📦 Moves approved outputs to output/batch.txt
-- 🚪 Exits when all subagents done
-- Cost: ~$0.003 (validates all 3 jobs)
-
-**Subagent Haiku (per job):**
-- 🌐 Navigates job URL
-- 📄 Extracts job description
-- 🧠 Scores resume matches
-- ✍️ Generates recommendation + CSV
-- 🔄 Retries if judge rejects
-- 📤 Signals completion
-- Cost: ~$0.002-0.003 (with caching benefit)
-
-## Workflow Guarantees
-
-1. **No duplicate outputs** — Each subagent writes once, judge approves once
-2. **No format errors in batch.txt** — Judge validates all before commit
-3. **Automatic retry** — Judge feedback guides subagent corrections
-4. **Complete tracking** — Every job gets a CSV line (even without form)
-5. **Cache reuse** — Resume cached, used by all subagents within 5-min window
-
-## Troubleshooting
-
-**Judge not validating?**
-- Check if judge agent is still running
-- Check batch/temp/ directory exists
-- Judge may be waiting for subagents to write files
-
-**Subagents stuck?**
-- Check if they're waiting for judge approval
-- Check batch/temp/{id}-rejected.txt for feedback
-- Subagents should read feedback and retry
-
-**Output not appearing in batch.txt?**
-- Judge may not have moved approved files yet
-- Wait a bit (judge loops every 2 seconds)
-- Check batch/temp/{id}-approved.txt exists
-
-**Wrong CSV format?**
-- Check judge feedback in batch/temp/{id}-rejected.txt
-- Most common: extra spaces after commas
-- Subagent should fix and resubmit
-
-## Next Steps
-
-1. Run: `node batch/batch-apply-interactive.mjs [input-file]`
-2. Copy judge spawn command → run in Claude Code
-3. Copy subagent spawn commands → run all in Claude Code (will start in background)
-4. Monitor batch/temp/ for progress
-5. Once judge exits, review output/batch.txt
-6. Copy CSV lines into your tracker
+Conductor is sequential (~30s/URL). Workers run in parallel and finish within the
+5-minute cache window. Judge validates continuously and exits when all jobs are
+approved.

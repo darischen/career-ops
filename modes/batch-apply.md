@@ -117,7 +117,7 @@ When done: writes `batch/pending/conductor-done.txt` (signal to judge).
 
 **Run IMMEDIATELY after conductor finishes, IMMEDIATELY before spawning workers.**
 
-Make a single lightweight Haiku call that includes cv.md + all 4 resume PDFs in the system prompt with `cache_control: { type: "ephemeral" }`. This populates the cache so workers in Phase 2 hit it for 90% cheaper input tokens.
+Make a single lightweight Haiku call that includes `modes/apply.md` + cv.md in the cached system block and all 4 resume PDFs as document blocks in the user turn, with `cache_control: { type: "ephemeral" }`. This populates the cache so workers in Phase 2 hit it for ~90% cheaper input tokens. `apply.md` is cached because every worker needs it (CSV format, PDF-reading rules, tone); caching it here means workers do not re-read it from disk.
 
 ```javascript
 // Pseudocode for the priming call
@@ -138,9 +138,10 @@ await client.messages.create({
 
 After this returns: cache is warm, 5-minute TTL clock starts. Spawn workers IMMEDIATELY.
 
-**Cost:** ~$0.001 (one tiny call). **Savings:** ~$0.30 per batch of 5 jobs.
+**Cost:** ~$0.001 (one tiny call). **Verify:** the prime logs `Cache write: N tokens`; if `N == 0` the prefix did not cache and workers pay full price. Measure the worker-side `cache_read` with `node batch/test-cache-savings.mjs`.
 
 **Files cached:**
+- `modes/apply.md` (worker instruction set)
 - `cv.md` (project root)
 - `C:\Users\daris\Downloads\DarisChenResumeAI.pdf`
 - `C:\Users\daris\Downloads\DarisChenResumeSWE.pdf`

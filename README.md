@@ -59,44 +59,48 @@ Rationale: the four resume variants are maintained by hand for quality. Auto-gen
 
 ### 4. Batch-apply multi-agent pipeline (conductor / worker / judge)
 
-The largest addition. A parallel application pipeline under `batch/` built on a **conductor / worker / judge** split, communicating entirely through sentinel files in `batch/temp/`.
+The largest addition. A parallel application pipeline under `batch/` built on a **conductor / worker / judge** split, communicating through files in `batch/pending/`.
 
 ```
         ┌─────────────────────────────┐
-        │  CONDUCTOR                  │   node batch/batch-apply-interactive.mjs
-        │  batch-apply-interactive.mjs│   loads cached CV, parses links,
-        └──────────────┬──────────────┘   prints Agent spawn commands
+        │  batch-apply.mjs            │   node batch/batch-apply.mjs <urls>
+        │  prints the spawn plan      │   wipes pending/, writes pending-plan.json
+        └──────────────┬──────────────┘
                        │
-        ┌──────────────┴───────────────────────────┐
-        │                                           │
-   ┌────▼─────┐   ┌──────────┐   ┌──────────┐   ┌───▼──────────────┐
-   │ WORKER 1 │   │ WORKER 2 │   │ WORKER N │   │ JUDGE (persistent)│
-   │ (Haiku)  │   │ (Haiku)  │   │ (Haiku)  │   │ (Haiku)           │
-   └────┬─────┘   └────┬─────┘   └────┬─────┘   └───────┬──────────┘
-        │              │              │                 │
-        └──────────────┴──────────────┴─────── batch/temp/*.txt ──────┘
-                       file-based message queue
+   ┌───────────────────┼───────────────────────────┐
+   │                   │                            │
+┌──▼──────────┐   (cache prime)              ┌──────▼───────────────┐
+│ CONDUCTOR   │   apply.md + cv.md + 4 PDFs  │ JUDGE                │
+│ (1 agent,   │   → ephemeral cache          │ batch/judge.mjs      │
+│  serial     │                              │ DETERMINISTIC script │
+│  Playwright)│   ┌────────┐ ┌────────┐      │ (0 tokens, regex)    │
+└──┬──────────┘   │WORKER 1│ │WORKER N│ ...  └──────┬───────────────┘
+   │  {id}-jd.txt │(Haiku) │ │(Haiku) │             │
+   └──────────────┴────────┴─────── batch/pending/*.json ──────────┘
+                       file-based message bus
 ```
 
 **Roles:**
 
-- **Conductor** (`batch/batch-apply-interactive.mjs`): runs once, loads and caches your CV (prompt caching = ~90% cheaper repeated tokens), parses the job links, and prints the `Agent(...)` spawn commands for one persistent judge plus one worker per job.
-- **Workers** (one per job, `run_in_background`): navigate the URL, extract the JD, score the four resume variants, then write `batch/temp/{id}-recommendation.txt` and `batch/temp/{id}-csv.txt`. They wait for the judge, retry on rejection using the judge's feedback, and write `batch/temp/{id}-done.txt` when approved.
-- **Judge** (single persistent agent): polls `batch/temp/`, validates each output against a strict checklist (8 required recommendation sections, exact CSV format, resume-code consistency between the recommendation and the CSV line). It writes `{id}-approved.txt` or `{id}-rejected.txt` with specific feedback, moves approved output to `output/batch.txt`, and exits once every worker has signalled done.
+- **`batch-apply.mjs`** (orchestrator): wipes stale `batch/pending/`, parses the links, prints the 4-phase spawn plan, and writes full prompts to `batch/pending-plan.json`. `primeCache()` warms the ephemeral cache with `apply.md + cv.md + 4 PDFs` between the conductor and the workers.
+- **Conductor** (1 agent, `general-purpose`): the only agent that touches Playwright, navigating each URL **sequentially** to avoid tab races. Writes `batch/pending/{id}-jd.txt`, then `conductor-done.txt`.
+- **Workers** (one per job, Haiku, `run_in_background`, no browser): read their `{id}-jd.txt`, read the cached PDFs, score the four resume variants, and write `batch/pending/{id}-output.json`. They poll `{id}-feedback.json` and retry on reject; deletion of their `output.json` means the judge approved it.
+- **Judge** (`batch/judge.mjs`, a **deterministic Node script — not an LLM agent**): polls `batch/pending/*-output.json`, validates each with regex (8 recommendation sections, the fixed CSV suffix, resume-code consistency), appends approved blocks to `output/batch.txt`, writes `{id}-feedback.json` for rejects, and exits when the conductor is done and nothing is pending.
 
-**Why this design:** agents spawned with `run_in_background` share no memory, so the filesystem is the message bus. Sentinel files (`-recommendation`, `-csv`, `-approved`/`-rejected`, `-done`) act as a queue and a completion barrier. The judge guarantees nothing malformed reaches `output/batch.txt`, which removes the manual cleanup step that ad-hoc parallel applies require. Both workers and judge run on Haiku, so a 3-job batch costs roughly `$0.01` and finishes in 5-10 minutes instead of ~25 sequentially.
+**Why this design:** agents spawned with `run_in_background` share no memory, so the filesystem is the message bus. Serializing Playwright in the conductor avoids the tab-race that parallel browser access causes; routing all `batch.txt` writes through the judge avoids concurrent-write corruption. The judge is a script because format validation is mechanical — that makes it reproducible and **zero-token**. Workers run on Haiku, so a small batch costs cents and finishes in 5-10 minutes instead of ~25 sequentially. Measure real cache savings with `node batch/test-cache-savings.mjs`.
 
 Docs for this pipeline:
 
 | File | Purpose |
 |---|---|
-| `batch/BATCH-APPLY.md` | Overview, caching mechanics, batch-size guidance |
+| `modes/batch-apply.md` | **Canonical spec** (4-phase conductor/worker/judge) |
+| `batch/BATCH-APPLY.md` | Overview and orientation |
 | `batch/BATCH-APPLY-RUN.md` | Step-by-step orchestration and monitoring |
-| `batch/BATCH-APPLY-JUDGE.md` | Judge validation rules and temp-file formats |
-| `batch/BATCH-APPLY-CACHING.md` | Prompt-cache cost analysis |
+| `batch/BATCH-APPLY-JUDGE.md` | The deterministic judge (`judge.mjs`) and its rules |
+| `batch/BATCH-APPLY-CACHING.md` | Prompt-cache mechanics and the test harness |
 | `batch/APPLY-ROUTING.md` | How `apply` routes to single vs batch |
 | `batch/batch-apply.mjs`, `batch/judge.mjs` | Implementation |
-| `modes/apply-router.md`, `modes/batch-apply.md` | Skill modes for the above |
+| `batch/test-cache-savings.mjs` | Empirical NONE/CV-ONLY/APPLY-CV cache A/B/C |
 
 ### Other trimming
 
