@@ -22,6 +22,11 @@ if (!fs.existsSync(outputDir)) {
 // Ensure batch.txt and essay.txt exist
 const batchTxtPath = path.join(outputDir, "batch.txt");
 const essayTxtPath = path.join(outputDir, "essay.txt");
+const failuresTxtPath = path.join(outputDir, "batch-failures.txt");
+
+// Safety bounds so a dead/non-polling worker can't hang the batch forever.
+const MAX_ATTEMPTS = 3; // give up on a job after this many rejects
+const TIMEOUT_MS = 5 * 60 * 1000; // hard wall-clock cap on the judge loop
 
 if (!fs.existsSync(batchTxtPath)) {
   fs.writeFileSync(batchTxtPath, "");
@@ -201,6 +206,38 @@ async function runJudge() {
   let processedCount = 0;
   let approvedCount = 0;
   let rejectedCount = 0;
+  let failedCount = 0;
+  let timedOut = false;
+
+  const startedAt = Date.now();
+  const attempts = new Map(); // jobId -> reject count
+
+  // Reject a job. After MAX_ATTEMPTS rejects, give up: log the failure and
+  // remove the job's files so the loop's exit condition can be reached instead
+  // of spinning forever on output a worker is never going to fix.
+  function handleReject(jobId, issues, data) {
+    const n = (attempts.get(jobId) || 0) + 1;
+    attempts.set(jobId, n);
+
+    if (n >= MAX_ATTEMPTS) {
+      const who = data ? `${data.company || "?"} — ${data.role || "?"}` : jobId;
+      fs.appendFileSync(
+        failuresTxtPath,
+        `[${jobId}] ${who} — FAILED after ${n} attempts: ${issues.join("; ")}\n`,
+      );
+      const outPath = path.join(pendingDir, `${jobId}-output.json`);
+      const fbPath = path.join(pendingDir, `${jobId}-feedback.json`);
+      if (fs.existsSync(outPath)) fs.unlinkSync(outPath);
+      if (fs.existsSync(fbPath)) fs.unlinkSync(fbPath);
+      console.log(`[${jobId}] ✗ FAILED (gave up after ${n} attempts) → batch-failures.txt`);
+      failedCount++;
+    } else {
+      writeFeedback(jobId, issues);
+      console.log(`[${jobId}] ✗ REJECTED (attempt ${n}/${MAX_ATTEMPTS}) → feedback sent`);
+      console.log(`     Issues: ${issues.join("; ")}`);
+      rejectedCount++;
+    }
+  }
 
   // Main loop
   while (true) {
@@ -233,16 +270,14 @@ async function runJudge() {
           console.log(`[${jobId}] ✓ APPROVED → batch.txt`);
           approvedCount++;
         } else {
-          // REJECT
-          writeFeedback(jobId, issues);
-          console.log(`[${jobId}] ✗ REJECTED → feedback sent`);
-          console.log(`     Issues: ${issues.join("; ")}`);
-          rejectedCount++;
+          // REJECT (with attempt cap)
+          handleReject(jobId, issues, data);
         }
         processedCount++;
       } catch (err) {
-        // Write feedback for parse error
-        writeFeedback(jobId, [`Parse error: ${err.message}`]);
+        // Parse errors also count against the attempt cap so a permanently
+        // malformed file can't spin the loop forever.
+        handleReject(jobId, [`Parse error: ${err.message}`], null);
         console.log(`[${jobId}] ✗ ERROR: ${err.message}`);
       }
     }
@@ -256,13 +291,29 @@ async function runJudge() {
       console.log("\n✓ Judge complete.");
       console.log(`  Approved: ${approvedCount}`);
       console.log(`  Rejected: ${rejectedCount}`);
+      console.log(`  Failed (gave up): ${failedCount}`);
       console.log(`  Total processed: ${processedCount}\n`);
+      break;
+    }
+
+    // Hard timeout: a worker that never resubmits can't hang the run forever.
+    if (Date.now() - startedAt > TIMEOUT_MS) {
+      timedOut = true;
+      const stuck = fs
+        .readdirSync(pendingDir)
+        .filter((f) => f.endsWith("-output.json"));
+      console.error(
+        `\n⏱  Judge timed out after ${TIMEOUT_MS / 60000} min. Unresolved outputs: ${stuck.join(", ") || "none"}`,
+      );
+      console.error(`  Approved: ${approvedCount} | Failed: ${failedCount}`);
       break;
     }
 
     // Wait before next poll
     await new Promise((resolve) => setTimeout(resolve, 3000));
   }
+
+  if (timedOut) process.exitCode = 2;
 }
 
 // Run
