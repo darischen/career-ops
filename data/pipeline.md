@@ -2,6 +2,37 @@
 
 Inbox of job postings to evaluate. Add URLs here and run `/career-ops pipeline` to process them.
 
+## Pending (2026-06-12 Level 2 API Scan) — Remaining 81 Matched Offers
+
+**Note:** Removed Vercel and Anthropic roles to avoid spam (already submitted applications to those companies). Processing Mistral roles separately.
+
+**Remaining Tier 3 (ML/Research Engineering):**
+- [ ] https://jobs.lever.co/spotify/3707cd2f-202a-4aec-9de8-bf73a5a6e922 | Spotify | Machine Learning Engineer - Personalization
+- [ ] https://jobs.lever.co/spotify/e200d025-4cff-4eb8-afa4-6680e31c43a2 | Spotify | Machine Learning Engineer
+- [ ] https://jobs.lever.co/mistral/bada0014-0f32-4370-b55f-81c5595c7339 | Mistral AI | Research Engineer, Machine Learning
+- [ ] https://jobs.lever.co/mistral/ef4c26fc-3fdb-4dd2-a64e-95264ee769dd | Mistral AI | Open-Source Software, Machine Learning Engineer
+
+**Remaining Tier 4 (Backend / Systems / Design Engineering):**
+- [ ] https://jobs.lever.co/mistral/e76d2957-2bf6-4d8f-90a2-29bf9a927823 | Mistral AI | Software Engineer, Backend (New-York)
+- [ ] https://jobs.lever.co/mistral/64c9a48e-6d23-4090-bf0f-5a979830fbaf | Mistral AI | Mistral Cloud - Software Engineer, Backend (Golang)
+- [ ] https://jobs.lever.co/mistral/c9e16eb0-0cb9-423d-8495-a96d10782622 | Mistral AI | Software Engineer, DevEx
+- [ ] https://jobs.lever.co/mistral/3e51d533-1f2d-48e3-9a2b-33fc7e8b0c0c | Mistral AI | Software Engineer, Enterprise Agents
+- [ ] https://jobs.lever.co/mistral/305432ef-27ac-4012-a893-a662813ac6e9 | Mistral AI | Software Engineer, Frontend
+
+---
+
+## Processed (2026-06-12 SandDisk Single Evaluation)
+
+- [x] #653 | https://jobs.smartrecruiters.com/Sandisk/744000131987189 | SandDisk | System Product Engineer (New or Recent Graduate) | 4.1/5 | ❌ | [653](reports/653-sandisk-system-product-engineer-2026-06-12.md) | AI-forward validation infrastructure. Python + C++ data pipelines + system modeling (QEMU). $99.8-165.3K. Small team, high impact. Apply.
+
+---
+
+## Processed (2026-06-12 Mistral Evaluation)
+
+- [x] #652 | https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328 | Mistral AI | Applied AI, Forward Deployed ML Engineer - Palo Alto | 4.8/5 | ❌ | [652](reports/652-mistral-fde-palo-alto-2026-06-12.md) | TOP PRIORITY. Perfect match for forward-deployed archetype. PatentIQ semantic search + production shipping + customer eng. $140K+ comp. Apply immediately.
+
+---
+
 ## Processed (2026-06-09 GitHub Scan Batch) — 15 URLs (3 Apply Immediately, 7 Consider, 5 Lower Priority)
 
 ### Apply Immediately (Tier 1) — 3 Roles

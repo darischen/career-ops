@@ -4,6 +4,7 @@ Track your job applications and their status.
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 651 | 2026-06-12 | LivaNova | Software Engineer I | 2.5/5 | Evaluated | ❌ | [651](reports/651-livanova-software-engineer-2026-06-12.md) | Technical stack mismatch (no C#/.NET/Xamarin); medtech domain; Fortune 500 pace. Recommend NO APPLY. |
 | 644 | 2026-06-11 | AviaryAI | Full Stack Engineer (SMS/RCS) | 4.5/5 | Evaluated | ❌ | [644](reports/644-aviaryai-2026-06-11.md) | YC S22 fintech, own SMS/RCS vertical, Python + TypeScript, NYC hybrid, strong fit |
 | 645 | 2026-06-11 | Collective | Software Engineer (New Grad) | 4.0/5 | Evaluated | ❌ | [645](reports/645-collective-2026-06-11.md) | VC-backed fintech, full-stack, Python/Django + React, SF hybrid, product ownership, solid option |
 | 646 | 2026-06-11 | Turnberry | AI Engineer | 2.5/5 | Evaluated | ❌ | [646](reports/646-turnberry-2026-06-11.md) | Staffing model, missing job description, unconfirmed role scope, Minneapolis MN, low priority until details clarified |
